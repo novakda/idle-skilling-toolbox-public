@@ -2,7 +2,7 @@
 // Smithing are read from the game code (Qno2x.js offsets below) and use the stored inputs a full local save has.
 import catalog from './data/card-catalog.json'
 import { cbonus, type Catalog } from './cards-calc'
-import { framesPerSec } from './away'
+import { framesPerSec } from './anim'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0

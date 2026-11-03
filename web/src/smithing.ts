@@ -2,9 +2,9 @@
 // smithing.test.ts. Issue #15. PbonusSmithTotalCostRedux / PbonusSmithingScalingRedux / PbonusBaseDmg live in potionBonuses().
 import catalog from './data/card-catalog.json'
 import items from './data/smithing.json'
-import { cbonus, type Catalog } from './cards-calc'
+import { cbonus, type Catalog, zoneTotalCardLV } from './cards-calc'
+import { ORES, FISH } from './names'
 import { equipmentBonuses, masteryBonuses, potionBonuses, smithCostCore } from './load-bonuses'
-import { zoneTotalCardLV } from './combat'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0
@@ -52,4 +52,18 @@ export function smithingBaseAttack(save: Save, link = 9, older = false) {
     + s(58) * (1e3 + 50 * P(83) * s(2)) + w + (older ? 0 : conquest + realm) + flat
   return base * (0.05 * a('AscentionLevel', 7) + (0.1 * a('AscentionLevel', 22) * zoneTotalCardLV(save)[3]!) / 100 + 1)
     * (1 + n(C.CbonusBaseDamage) / 100)
+}
+
+// ActorEvents_378 lists: smithing currencies 51-58 index TreasureOwned through TreasureList, 59-64 CraftingMaterialsOwned through CrsuadeList.
+const TREASURE = [1, 7, 12, 15, 21, 24, 27, 28], CRUSADE = [44, 60, 87, 61, 76, 89]
+
+/** Where a smithing currency is held (the craft handler's deduction branches @8904563-8909656). None is reset by an ascend. */
+export function smithCurrency(save: Save, c: number): { label: string; owned: number } {
+  const at = (k: string, i: number) => n(arr(save, k)[i])
+  if (c < 17) return { label: ORES[c] ?? `Ore ${c}`, owned: at('OresOwned', c) }
+  if (c < 47) return { label: `${FISH[c - 16] ?? 'Fish'} (fish ${c - 16})`, owned: at('FishOwned', c - 16) }
+  if (c < 51) return { label: ORES[c - 30] ?? `Ore ${c - 30}`, owned: at('OresOwned', c - 30) }
+  if (c < 59) return { label: `Treasure ${TREASURE[c - 51]}`, owned: at('TreasureOwned', TREASURE[c - 51]!) }
+  if (c < 65) return { label: `Crusade material ${CRUSADE[c - 59]}`, owned: at('CraftingMaterialsOwned', CRUSADE[c - 59]!) }
+  return { label: 'Flower 25', owned: at('flowersOwned', 25) }
 }

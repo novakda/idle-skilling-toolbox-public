@@ -1,7 +1,8 @@
 import { expect, test } from 'bun:test'
 import { existsSync } from 'fs'
 import { fullSave } from './test-save.test'
-import { AP_HOLD, bpAfterAscend, climbBack, farmClimb, mapClimb, mapFrontier, withBuys, keepPercent, levelsPerCraft, mapTerm, preAscendDeck, rebirthStartLevel, relevelNeed, resetAdvice, resetCompare, smithCurrency, startGold } from './ascend'
+import { AP_HOLD, bpAfterAscend, climbBack, farmClimb, mapClimb, mapFrontier, withBuys, keepPercent, levelsPerCraft, mapTerm, preAscendDeck, rebirthStartLevel, relevelNeed, resetAdvice, resetCompare, startGold } from './ascend'
+import { smithCurrency } from './smithing'
 import { ascendGain, ascensionRewards } from './load-bonuses'
 import { perkPlan } from './perks'
 import { smithingCostAt } from './smithing'
@@ -133,7 +134,7 @@ test.skipIf(!existsSync(bundle))('ascend block keeps tilling, botany, apothecary
 // ---- Labels against the game's own text (#2641). Dev only: needs the extracted bundle.
 const gameFile = Bun.file(`${import.meta.dir}/../../data/game/asar/distBuild/static/game/Qno2x.js`)
 test.skipIf(!(await gameFile.exists()))('ore names: the mine screen draws the same 20 names in the same order; fish names appear in the CATCH quests', async () => {
-  const { ORES, FISH } = await import('./ascend')
+  const { ORES, FISH } = await import('./names')
   const g = await gameFile.text()
   const at = g.indexOf('getTextWidth("COPPER"', 30_330_000)
   const drawn = [...g.slice(at, at + 40_000).matchAll(/getTextWidth\("([A-Z_]+)"/g)].map((m) => m[1]!).slice(0, 20)

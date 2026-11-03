@@ -5,8 +5,7 @@
 //   25·0.04·anim·brew boost·speed gem·PotionExpGiven·PotionBOOST·Eternal² per watched second (Potions.vue brewing rates).
 // - At PotionEXPreq[T] the level happens only while you hold its crop + flower price (potionLevelCost, @24939757), then
 //   the req grows (nextPotionReq, @24963261). A payment can give extra levels (double brew, potionLevelsPerPay @24951900).
-import { potionLevelCost, potionLevelsPerPay, nextPotionReq } from './tilling'
-import { eternalBonus, TICKS_PER_SEC } from './potions-calc'
+import { eternalBonus, nextPotionReq, potionLevelCost, potionLevelsPerPay, TICKS_PER_SEC } from './potions-calc'
 import { unlockLevel } from './apothecary-exp'
 import { POTION_FORMULAS, potionGroup, potionMultiplier, potionTotal } from './potion-formulas'
 import { brewSpeedBoost, vendingBonus } from './load-bonuses'

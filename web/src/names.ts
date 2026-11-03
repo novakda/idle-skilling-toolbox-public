@@ -18,3 +18,10 @@ export const asylumShrine = (i: number) => (shrines.shrines as { id: number; nam
 /** RealmStuff[13][i] (Realm shrines) and RealmStuff[8][i] (vending machine). */
 export const realmShrine = (i: number) => (realm.shrine as { name: string }[])[i]?.name ?? `Realm shrine ${i}`
 export const vendingName = (i: number) => (realm.vending as { name: string }[])[i]?.name ?? `vending ${i}`
+
+export const ORES = ['', 'Copper', 'Iron', 'Gold', 'Platinum', 'Cobalt', 'Firesalt', 'Effluvium', 'Antimatter', 'Ruby', 'Refractium', 'Dubloonium',
+  'Glume', 'Plument', 'Figmentation', 'Demonite', 'Godshard', 'Warpium', 'Anodizia', 'Gummi', 'Djinn']
+export const FISH = ['', 'Old Boot', 'Tin Can', 'Minnow', 'Small Tuna', 'Jellyfish', 'Medium Yellow Fish', 'Chainmail Fish', 'Red Herring', 'Sword Fish',
+  'Ice Cube Fish', 'Puffer Fish', 'Crystal Fish', 'Bobbit Worm', 'Dollar Fish', 'Angler Fish', 'Lobster', 'Bonefish', 'Blue Shark', 'Yellow Fin Tuna',
+  'Pink Swordfish', 'Snail Fish', 'Hammerhead Shark', 'Yellow Gulper', 'Pike Fish', 'Giant Sea Urchin', 'Manta Ray', 'Yellow Grouper',
+  'Giant Sea Serpent', 'Kraken', 'Jumbo Shrimp']

@@ -3,7 +3,7 @@
 // Raid (SceneEvents_16), Asylum (SceneEvents_41) and Conquest (crusade fight, SceneEvents_32) store their own
 // MonstersDamage formula: raidMonstersDamage / asylumMonstersDamage / conquestMonstersDamage (#32).
 import catalog from './data/card-catalog.json'
-import { cbonus, type Catalog } from './cards-calc'
+import { cbonus, type Catalog, zoneTotalCardLV } from './cards-calc'
 import { equipmentBonuses, masteryBonuses, potionBonuses } from './load-bonuses'
 import { fruitBonus, vendingBonus as realmVending } from './realm'
 import { smithingBaseAttack } from './smithing'
@@ -35,11 +35,6 @@ export function monsterDamageReduction(save: Save) {
   return Math.min(90, s(14) / 12 + (s(30) / 8 + (s(38) / 6 + (s(54) / 3 + bonuses(save).C('DamageReduction'))))) / 100
 }
 
-/** ZoneTotalCardLV[1..4]: summed card levels per zone (cards 1-16, 31-60, 61-86, 91-111). */
-export function zoneTotalCardLV(save: Save): number[] {
-  const lv = (i: number) => n(arr(save, 'CardLevels')[i]), sum = (from: number, count: number) => Array.from({ length: count }, (_, i) => lv(from + i)).reduce((a, b) => a + b, 0)
-  return [0, sum(1, 16), sum(31, 30), sum(61, 26), sum(91, 21)]
-}
 
 /** HealthSmithingBoost: flat base HP from smithing items 6/22/46/62/78 + cards + equipment. */
 export function healthSmithingBoost(save: Save) {

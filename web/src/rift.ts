@@ -2,7 +2,7 @@
 // unused, 10 is the Gem Rift, not modelled). A rift cycles "glyphs": each cycle adds rift EXP (levels the rift, whose level is
 // its bonus elsewhere) and Summoning EXP. Every formula is ported from Qno2x.js (offsets †) and checked in rift.test.ts against
 // a full save, a live Limbo capture, or the game's own code in the sandbox; everything is computed from the save alone.
-import { framesPerSec } from './away'
+import { framesPerSec } from './anim'
 import { equipmentBonuses, potionBonuses } from './load-bonuses'
 import { cbonus, type Catalog } from './cards-calc'
 import catalog from './data/card-catalog.json'

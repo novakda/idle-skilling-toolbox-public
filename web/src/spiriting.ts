@@ -4,7 +4,7 @@
 // acolytes assigned to that colour convert it into spendable souls (SoulsTotal, the Rift page's currency). Colours are
 // rift.ts SOULS (index = task). Formulas ported from Qno2x.js (offsets †), checked in spiriting.test.ts against the save
 // and the game's own code in the sandbox. Away rates follow the away-credit block (deterministic); on screen is noted.
-import { framesPerSec } from './away'
+import { framesPerSec } from './anim'
 import { cbonus, type Catalog } from './cards-calc'
 import catalog from './data/card-catalog.json'
 import { masteryBonuses, potionBonuses } from './load-bonuses'

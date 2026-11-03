@@ -138,3 +138,13 @@ export function petLinkDeck(save: Record<string, unknown>, catalog: Catalog) {
   const linked = b.decks.find((d) => d.link === PET_LINK) ?? null
   return { cards, total: cards.reduce((t, c) => t + sp(c), 0), linked, linkedTotal: linked?.totals.SkillPoints ?? 0 }
 }
+
+type Save = Record<string, unknown>
+const n = (v: unknown) => Number(v ?? 0) || 0
+const arr = (s: Save, k: string) => (s[k] as number[] | undefined) ?? []
+
+/** ZoneTotalCardLV[1..4]: summed card levels per zone (cards 1-16, 31-60, 61-86, 91-111). */
+export function zoneTotalCardLV(save: Save): number[] {
+  const lv = (i: number) => n(arr(save, 'CardLevels')[i]), sum = (from: number, count: number) => Array.from({ length: count }, (_, i) => lv(from + i)).reduce((a, b) => a + b, 0)
+  return [0, sum(1, 16), sum(31, 30), sum(61, 26), sum(91, 21)]
+}

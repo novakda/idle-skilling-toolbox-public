@@ -3,7 +3,7 @@
 import catalog from './data/card-catalog.json'
 import { buildCards, cbonus, type Catalog } from './cards-calc'
 import { ascendGain, potionBonuses } from './load-bonuses'
-import { smithingCostAt } from './smithing'
+import { smithingCostAt, smithCurrency } from './smithing'
 import { ZONES, estimate, fightStats, monsterHP } from './fighting'
 import { resetTarget } from './income'
 import { OUTPUTS, buyList, type Buy, type PerkRow } from './perks'
@@ -15,29 +15,10 @@ const CAT = catalog as unknown as Catalog
 
 // Ore names, OresOwned[1..20]: the game's mine screen draws exactly these 20 names in this order (COPPER … DJINN, @30339569-@30362000;
 // ascend.test.ts reads them). The index pairing is by position (the ore icon actor shows frame k for OresOwned[k], @7315892).
-export const ORES = ['', 'Copper', 'Iron', 'Gold', 'Platinum', 'Cobalt', 'Firesalt', 'Effluvium', 'Antimatter', 'Ruby', 'Refractium', 'Dubloonium',
-  'Glume', 'Plument', 'Figmentation', 'Demonite', 'Godshard', 'Warpium', 'Anodizia', 'Gummi', 'Djinn']
 // Fish names: the wiki's Resources tables, read area by area (area 1: 14, area 2: 10, area 3: 6), left column then right.
 // UNVERIFIED that this is the FishOwned[1..30] order: the game has no fish name list (only sprites). Its CATCH_* quest text names ten of
 // them (Jellyfish, Angler Fish, Bonefish, Manta Ray, Ice Cube Fish, Giant Sea Serpent, Snailfish, Dollar Fish, Yellow Gulper, Jumbo Shrimp;
 // ascend.test.ts), which confirms the names, not the index.
-export const FISH = ['', 'Old Boot', 'Tin Can', 'Minnow', 'Small Tuna', 'Jellyfish', 'Medium Yellow Fish', 'Chainmail Fish', 'Red Herring', 'Sword Fish',
-  'Ice Cube Fish', 'Puffer Fish', 'Crystal Fish', 'Bobbit Worm', 'Dollar Fish', 'Angler Fish', 'Lobster', 'Bonefish', 'Blue Shark', 'Yellow Fin Tuna',
-  'Pink Swordfish', 'Snail Fish', 'Hammerhead Shark', 'Yellow Gulper', 'Pike Fish', 'Giant Sea Urchin', 'Manta Ray', 'Yellow Grouper',
-  'Giant Sea Serpent', 'Kraken', 'Jumbo Shrimp']
-// ActorEvents_378 lists: smithing currencies 51-58 index TreasureOwned through TreasureList, 59-64 CraftingMaterialsOwned through CrsuadeList.
-const TREASURE = [1, 7, 12, 15, 21, 24, 27, 28], CRUSADE = [44, 60, 87, 61, 76, 89]
-
-/** Where a smithing currency is held (the craft handler's deduction branches @8904563-8909656). None is reset by an ascend. */
-export function smithCurrency(save: Save, c: number): { label: string; owned: number } {
-  const at = (k: string, i: number) => n(arr(save, k)[i])
-  if (c < 17) return { label: ORES[c] ?? `Ore ${c}`, owned: at('OresOwned', c) }
-  if (c < 47) return { label: `${FISH[c - 16] ?? 'Fish'} (fish ${c - 16})`, owned: at('FishOwned', c - 16) }
-  if (c < 51) return { label: ORES[c - 30] ?? `Ore ${c - 30}`, owned: at('OresOwned', c - 30) }
-  if (c < 59) return { label: `Treasure ${TREASURE[c - 51]}`, owned: at('TreasureOwned', TREASURE[c - 51]!) }
-  if (c < 65) return { label: `Crusade material ${CRUSADE[c - 59]}`, owned: at('CraftingMaterialsOwned', CRUSADE[c - 59]!) }
-  return { label: 'Flower 25', owned: at('flowersOwned', 25) }
-}
 
 /** Levels per craft: CraftingLvUps = ceil(U(0.21·s, 1 + 0.2·s)), s = SkillLevels[19] (@8879104); its mean.
  *  Skill levels reset on ascend, so right after one this is 1 until skill 19 is bought back. */

@@ -1,7 +1,7 @@
 // Smithing items whose bonus stops growing at a level (a Math.min in the game's formula). Only caps read from the game
 // code and checked against the wiki or a second use are listed; levels past `cap` add nothing to that bonus.
 import names from './data/smithing-names.json'
-import { smithCurrency } from './ascend'
+import { smithCurrency } from './smithing'
 import { smithingCostAt } from './smithing'
 
 type Save = Record<string, unknown>

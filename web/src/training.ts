@@ -4,7 +4,7 @@
 // skill EXP and water (H2O) EXP. Lifters are levelled with gold: LifterLV raises EXP per rep, LifterLV2 ("speed", cap 100) the
 // animation speed. Every formula is ported from Qno2x.js (offsets †) and checked in training.test.ts against stored values or
 // the game's own code run in the sandbox. The main-screen gym's five lifters (indices 2, 3, 4, 6, 7) are not on this page.
-import { framesPerSec } from './away'
+import { framesPerSec } from './anim'
 import { expCut } from './giftshop'
 
 type Save = Record<string, unknown>

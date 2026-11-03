@@ -1,3 +1,4 @@
+import { framesPerSec } from './anim'
 // Away gain % (nonActiveZoneGainPercent): the game computes it at load (SceneEvents_2 init), so cloud saves lack it.
 // Ported formula: unascended 100 + cards + shrine/2; ascended 28 + cards + realm terms + min(shrine/2 + 5*perk125, 90),
 // realm terms = fruit 16 "%_Away_gains_outside_Realm" (realm.ts fruitBonus) + Corn Can vending (2/level) + RealmStuff[13][7]*floor(realm level/10).
@@ -168,18 +169,6 @@ export function awayTillingPerSecond(a: A, awayPct: number) {
   return s * (awayPct / 100) * (1 + n(arr('TankBonusLIST')[36]) / 100)
 }
 
-/** Animation frames per second for a nominal speed: a 10 ms timer adds speed/100 to a counter, each draw (fps) advances one
- *  frame if it is ≥ 1 and zeroes it (overflow lost). Tilling farmers and Mining miners both animate this way. */
-export function framesPerSec(speed: number, fps = 60) {
-  const draws = 600
-  let acc = 0, frames = 0, ticks = 0
-  for (let d = 1; d <= draws; d++) {
-    const due = Math.floor(d * 100 / fps) // 10 ms ticks elapsed by this draw
-    for (; ticks < due; ticks++) acc += speed / 100
-    if (acc >= 1) { acc = 0; frames++ }
-  }
-  return frames / (draws / fps)
-}
 
 /** Active Tilling (on screen): a 10 ms timer adds anim·(1+armor/40)·FarmingSpeedBOOST/100 to each farmer's counter, and each
  *  draw (60 fps) advances the farmer one frame if the counter is ≥ 1, then zeroes it (overflow lost). 9 frames per harvest; XP lands on

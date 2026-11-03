@@ -1,7 +1,7 @@
 import { expect, test } from 'bun:test'
 import { fullSave } from './test-save.test'
 import { affordLevels, brewable, canMake, effectGain, nextBrews } from './alchemy'
-import { nextPotionReq, potionLevelCost } from './tilling'
+import { nextPotionReq, potionLevelCost } from './potions-calc'
 
 // A tiny save: potions 4 (+3%/lv crop gains) and 56 (-L% smithing cost, cap 98) discovered, two plain cauldrons.
 const toy = (crop = 1e9, flower = 1e9) => {

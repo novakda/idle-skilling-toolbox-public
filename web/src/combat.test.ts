@@ -1,6 +1,6 @@
 import { expect, test } from 'bun:test'
 import { fullSave } from './test-save.test'
-import { healthSmithingBoost, hitChance, monsterDamageReduction, monsterHitRequirement, monstersDamage, playerHPmax, skillBonusDmgPct, zoneTotalCardLV } from './combat'
+import {healthSmithingBoost, hitChance, monsterDamageReduction, monsterHitRequirement, monstersDamage, playerHPmax, skillBonusDmgPct } from './combat'
 
 // Every value is compared with what the game stored in a full local save (fixture: The Bog, FightZoneTYPE 2, mode 12).
 test('combat stats match the game', async () => {
@@ -97,7 +97,7 @@ test.skipIf(!existsSync(cap('crusade')) || !existsSync(cap('cards')))('Conquest 
 // GetPlayerDPS block (dev-only). Inputs other ports own (cards, gear, mastery, zone card levels) are fed in from those ports.
 import { blockHost } from '../../src/game-eval'
 import { getPlayerDPS, raidDecks, raidStats } from './combat'
-import { cbonus, type Catalog } from './cards-calc'
+import { cbonus, type Catalog, zoneTotalCardLV } from './cards-calc'
 import { equipmentBonuses, masteryBonuses, potionBonuses } from './load-bonuses'
 import { skillHitRequirement } from './raids'
 import cardCatalog from './data/card-catalog.json'

@@ -1,8 +1,8 @@
 // Totals page (#2630): one stat at a time, every source that feeds it and the result combined the way the game does.
 // Add a stat = add one entry to STATS (rows from the save + how they combine).
 import catalog from './data/card-catalog.json'
-import { cbonus, type Catalog } from './cards-calc'
-import { raidDecks, zoneTotalCardLV } from './combat'
+import { cbonus, type Catalog, zoneTotalCardLV } from './cards-calc'
+import {raidDecks } from './combat'
 import { fightStats, LINK } from './fighting'
 import { equipmentBonuses, masteryBonuses, potionBonuses, tankBonuses } from './load-bonuses'
 import { tierPerks } from './botany-calc'
