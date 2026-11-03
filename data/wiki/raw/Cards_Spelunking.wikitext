@@ -1,0 +1,253 @@
+<table-progress-tracking table-id="Spelunking1" unique-column-index="2">
+{| class="listing sortable" style="width: 100%;" border="0" align="center"
+|-
+! scope="col" style="text-align: left;" |Card
+! scope="col" style="text-align: left;" |Zone
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+!Foil
+|-
+|[[File:Coin.png|36px]]
+|Spelunking-1
+|Coin
+|Spelunker Speed
+|5%
+|25%
+|30%
+|-
+|[[File:Ore_veins.png|36px]]
+|Spelunking-2
+|Ore Veins
+|Spelunking EXP
+|10%
+|50%
+|60%
+|-
+|[[File:Crown.png|36px]]
+|Spelunking-3
+|Crown
+|Spelunk Cards Chance
+|5%
+|25%
+|30%
+|-
+|[[File:Candle.png|36px]]
+|Spelunking-4
+|Candle
+|Builder Speed
+|4%
+|20%
+|24%
+|-
+|[[File:Heavy_bars.png|36px]]
+|Spelunking-5
+|Heavy Bars
+|Spelunker Learn Rate
+|2%
+|10%
+|12%
+|-
+|[[File:Starlight.png|36px]]
+|Spelunking-6
+|Starlight
+|Rare Treasure Chance
+|8%
+|40%
+|48%
+|-
+|[[File:Wealth_obol.png|36px]]
+|Spelunking-7
+|Wealth Obol
+|Spelunker Dig Amount
+|6%
+|30%
+|36%
+|-
+|[[File:Music_note.png|36px]]
+|Spelunking-8
+|Music Note
+|Spelunk Cards Chance
+|8%
+|40%
+|48%
+|-
+|[[File:Diamond.png|36px]]
+|Spelunking-9
+|Diamond
+|Spelunker Dig Amount
+|12%
+|60%
+|72%
+|-
+|[[File:Maybe_soap.png|36px]]
+|Spelunking-10
+|Maybe Soap
+|Spelunking EXP
+|15%
+|75%
+|90%
+|-
+|[[File:Silver_booty.png|36px]]
+|Spelunking-11
+|Silver Booty
+|Rare Treasure Chance
+|20%
+|100%
+|120%
+|-
+|[[File:Champ_cup.png|36px]]
+|Spelunking-12
+|Champ Cup
+|Machine Convert Spd
+|6%
+|30%
+|36%
+|-
+|[[File:Shrapnel.png|36px]]
+|Spelunking-13
+|Shrapnel
+|Spelunker Speed
+|9%
+|45%
+|54%
+|-
+|[[File:Frozen_obol.png|36px]]
+|Spelunking-14
+|Frozen Obol
+|Spelunker Learn Rate
+|3%
+|15%
+|18%
+|-
+|[[File:Iron_throne.png|36px]]
+|Construction-1
+|Iron Throne
+|Construction EXP
+|10%
+|50%
+|60%
+|-
+|[[File:Irish_clover.png|36px]]
+|Spelunking-15
+|Irish Clover
+|Spelunker Dig Amount
+|15%
+|75%
+|90%
+|-
+|[[File:Octagox.png|36px]]
+|Spelunking-16
+|Octagox
+|Rare Treasure Chance
+|30%
+|150%
+|180%
+|-
+|[[File:Cristils.png|36px]]
+|Spelunking-17
+|Cristils
+|Spelunker Learn Rate
+|5%
+|25%
+|30%
+|-
+|[[File:Leaf_ring.png|36px]]
+|Spelunking-18
+|Leaf Ring
+|Spelunker Speed
+|13%
+|65%
+|78%
+|-
+|[[File:Geode.png|36px]]
+|Spelunking-19
+|Geode
+|Builder Speed
+|10%
+|50%
+|60%
+|-
+|[[File:Jade.png|36px]]
+|Spelunking-20
+|Jade
+|More Treasures per Bag
+|1
+|2
+|3
+|-
+|[[File:Calming_obol.png|36px]]
+|Spelunking-21
+|Calming Obol
+|Spelunk Cards Chance
+|15%
+|75%
+|90%
+|-
+|[[File:Blobbish.png|36px]]
+|Spelunking-22
+|Blobbish
+|Rare Treasure Chance
+|50%
+|250%
+|300%
+|-
+|[[File:C_ruby.png|36px]]
+|Spelunking-23
+|Ruby
+|Machine Convert Spd
+|20%
+|100%
+|120%
+|-
+|[[File:Prime_meat.png|36px]]
+|Spelunking-24
+|Prime Meat
+|Spelunker Speed
+|20%
+|100%
+|120%
+|-
+|[[File:Scroll.png|36px]]
+|Spelunking-25
+|Scroll
+|More Treasures per Bag
+|1
+|3
+|4
+|-
+|[[File:Sigil.png|36px]]
+|Spelunking-26
+|Sigil
+|Spelunker Dig Amount
+|25%
+|125%
+|150%
+|-
+|[[File:The_mark.png|36px]]
+|Spelunking-27
+|The Mark
+|Builder Speed
+|20%
+|100%
+|120%
+|-
+|[[File:Temper_obol.png|36px]]
+|Spelunking-28
+|Temper Obol
+|Spelunker Learn Rate
+|10%
+|50%
+|60%
+|-
+|[[File:Chandelier.png|36px]]
+|Construction-2
+|Chandelier
+|Construction EXP
+|20%
+|100%
+|120%
+|}
+</table-progress-tracking>
+[[Category:Cards]]

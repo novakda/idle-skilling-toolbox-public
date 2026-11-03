@@ -1,0 +1,6 @@
+<div class="fpbox">
+{|
+| [[File:Spelunking_Icon.png|50px]]
+| Warning: This page contains Spoilers
+|}
+</div>

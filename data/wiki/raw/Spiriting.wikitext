@@ -1,0 +1,267 @@
+{{:Header/Limbo}}
+
+=== How Spiriting Works ===
+Soul Fragments are kindled by Cultists until a full set is gathered. Then, Acolytes attempt to fuse those fragments together to form complete souls. The higher quality the targeted fragment and soul is, the less chance both skillers have in succeeding.
+
+As with the Training skillers, Cultists and Acolytes also have Value and Speed variables. For both, increasing Value adds to the number of fragments and souls acquired on success, in addition to increasing how much EXP is awarded on a completed cycle. However, while Speed increases the rep cycle rate for both skillers, only the speed of the Cultist's fragment generation is boosted. Additionally, both skillers have a Luck variable which raises the chances each ritualist can perform their task and slightly increases the amount resources gained.
+
+You may train up to 8 Cultists and Acolytes once you have reached the necessary Spiriting level required.
+{| style="width: 100%;" class="article-table" border="1"
+! style="text-align: center;"|Cultists
+! style="text-align: center;"|Spiriting Level Req
+! style="text-align: center;"|Gold Cost
+! style="text-align: center;"|
+! style="text-align: center;"|Acolytes
+! style="text-align: center;"|Spiriting Level Req
+! style="text-align: center;"|Gold Cost
+|-
+| style="text-align: center;"|Cultist A
+| style="text-align: center;"|1
+| style="text-align: center;"|0
+| style="text-align: center;"|
+| style="text-align: center;"|Acolyte A
+| style="text-align: center;"|1
+| style="text-align: center;"|0
+|-
+| style="text-align: center;"|Cultist B
+| style="text-align: center;"|8
+| style="text-align: center;"|160K
+| style="text-align: center;"|
+| style="text-align: center;"|Acolyte B
+| style="text-align: center;"|11
+| style="text-align: center;"|250K
+|-
+| style="text-align: center;"|Cultist C
+| style="text-align: center;"|16
+| style="text-align: center;"|1280K
+| style="text-align: center;"|
+| style="text-align: center;"|Acolyte C
+| style="text-align: center;"|22
+| style="text-align: center;"|2500K
+|-
+| style="text-align: center;"|Cultist D
+| style="text-align: center;"|24
+| style="text-align: center;"|10.3M
+| style="text-align: center;"|
+| style="text-align: center;"|Acolyte D
+| style="text-align: center;"|33
+| style="text-align: center;"|25M
+|-
+| style="text-align: center;"|Cultist E
+| style="text-align: center;"|32
+| style="text-align: center;"|82M
+| style="text-align: center;"|
+| style="text-align: center;"|Acolyte E
+| style="text-align: center;"|44
+| style="text-align: center;"|250M
+|-
+| style="text-align: center;"|Cultist F
+| style="text-align: center;"|40
+| style="text-align: center;"|655.4M
+| style="text-align: center;"|
+| style="text-align: center;"|Acolyte F
+| style="text-align: center;"|55
+| style="text-align: center;"|2.5B
+|-
+| style="text-align: center;"|Cultist G
+| style="text-align: center;"|48
+| style="text-align: center;"|5.3B
+| style="text-align: center;"|
+| style="text-align: center;"|Acolyte G
+| style="text-align: center;"|66
+| style="text-align: center;"|25B
+|-
+| style="text-align: center;"|Cultist H
+| style="text-align: center;"|56
+| style="text-align: center;"|42B
+| style="text-align: center;"|
+| style="text-align: center;"|Acolyte H
+| style="text-align: center;"|77
+| style="text-align: center;"|250B
+|}
+
+
+
+=== Cultists ===
+[[File:Cultist.png|thumb]]
+==== Soul Fragments ====
+When Cultists create a full set of fragments, they are automatically transmuted into a single fragment of a higher tier soul. There are 12 fragments in a red soul, 15 in orange, 19 in yellow, 19 in green, 20 in blue, 21 purple, and finally 21 in white. No additional fragments are made after a white set is completed.
+
+This mechanic is how purple and white souls are able to made, since fragments for those colors cannot be made directly.
+
+==== Soul Color Requirements ====
+Each individual cultist may only gather fragments for one soul at a time and has to be at a certain level to allow them to farm higher quality soul fragments, up to blue.
+{| style="width: 100%;" class="article-table" border="1"
+|-
+! scope="col" style="text-align: center;"|Cultists
+! scope="col" style="text-align: center;"|[[File:Red_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Orange_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Yellow_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Green_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Blue_soul.png|30px]]
+|-
+| style="text-align: center;"|Cultist A
+| style="text-align: center;"|1
+| style="text-align: center;"|10
+| style="text-align: center;"|20
+| style="text-align: center;"|30
+| style="text-align: center;"|40
+|-
+| style="text-align: center;"|Cultist B
+| style="text-align: center;"|1
+| style="text-align: center;"|12
+| style="text-align: center;"|22
+| style="text-align: center;"|32
+| style="text-align: center;"|42
+|-
+| style="text-align: center;"|Cultist C
+| style="text-align: center;"|1
+| style="text-align: center;"|14
+| style="text-align: center;"|24
+| style="text-align: center;"|34
+| style="text-align: center;"|44
+|-
+| style="text-align: center;"|Cultist D
+| style="text-align: center;"|1
+| style="text-align: center;"|16
+| style="text-align: center;"|26
+| style="text-align: center;"|36
+| style="text-align: center;"|46
+|-
+| style="text-align: center;"|Cultist E
+| style="text-align: center;"|1
+| style="text-align: center;"|18
+| style="text-align: center;"|28
+| style="text-align: center;"|38
+| style="text-align: center;"|48
+|-
+| style="text-align: center;"|Cultist F
+| style="text-align: center;"|1
+| style="text-align: center;"|20
+| style="text-align: center;"|30
+| style="text-align: center;"|40
+| style="text-align: center;"|50
+|-
+| style="text-align: center;"|Cultist G
+| style="text-align: center;"|1
+| style="text-align: center;"|22
+| style="text-align: center;"|32
+| style="text-align: center;"|42
+| style="text-align: center;"|52
+|-
+| style="text-align: center;"|Cultist H
+| style="text-align: center;"|1
+| style="text-align: center;"|24
+| style="text-align: center;"|34
+| style="text-align: center;"|44
+| style="text-align: center;"|54
+|}
+
+
+
+=== Acolytes ===
+[[File:Acolyte.png|thumb]]
+==== Soul Generation ====
+Each individual Acolyte's efforts can be combined to increase the total chance a soul is created and the amount of souls made. There is no limit to the amount of souls that can be made at once, but the success rate is capped at 100%.
+
+==== Soul Color Requirements ====
+Acolytes are able to focus on any two adjacent soul colors at once, but can only create higher tier souls once Spiriting has reached a certain level.
+{| style="width: 100%;" class="article-table" border="1"
+|-
+! scope="col" style="text-align: center;"|Acolytes
+! scope="col" style="text-align: center;"|[[File:Red_soul.png|30px]] + [[File:Orange_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Orange_soul.png|30px]] + [[File:Yellow_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Yellow_soul.png|30px]] + [[File:Green_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Green_soul.png|30px]] + [[File:Blue_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Blue_soul.png|30px]] + [[File:Purple_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Purple_soul.png|30px]] + [[File:White_soul.png|30px]]
+|-
+| style="text-align: center;"|Acolyte A
+| style="text-align: center;"|1
+| style="text-align: center;"|10
+| style="text-align: center;"|20
+| style="text-align: center;"|30
+| style="text-align: center;"|40
+| style="text-align: center;"|50
+|-
+| style="text-align: center;"|Acolyte B
+| style="text-align: center;"|1
+| style="text-align: center;"|12
+| style="text-align: center;"|22
+| style="text-align: center;"|32
+| style="text-align: center;"|42
+| style="text-align: center;"|52
+|-
+| style="text-align: center;"|Acolyte C
+| style="text-align: center;"|1
+| style="text-align: center;"|14
+| style="text-align: center;"|24
+| style="text-align: center;"|34
+| style="text-align: center;"|44
+| style="text-align: center;"|54
+|-
+| style="text-align: center;"|Acolyte D
+| style="text-align: center;"|1
+| style="text-align: center;"|16
+| style="text-align: center;"|26
+| style="text-align: center;"|36
+| style="text-align: center;"|46
+| style="text-align: center;"|56
+|-
+| style="text-align: center;"|Acolyte E
+| style="text-align: center;"|1
+| style="text-align: center;"|18
+| style="text-align: center;"|28
+| style="text-align: center;"|38
+| style="text-align: center;"|48
+| style="text-align: center;"|58
+|-
+| style="text-align: center;"|Acolyte F
+| style="text-align: center;"|1
+| style="text-align: center;"|20
+| style="text-align: center;"|30
+| style="text-align: center;"|40
+| style="text-align: center;"|50
+| style="text-align: center;"|60
+|-
+| style="text-align: center;"|Acolyte G
+| style="text-align: center;"|1
+| style="text-align: center;"|22
+| style="text-align: center;"|32
+| style="text-align: center;"|42
+| style="text-align: center;"|52
+| style="text-align: center;"|62
+|-
+| style="text-align: center;"|Acolyte H
+| style="text-align: center;"|1
+| style="text-align: center;"|24
+| style="text-align: center;"|34
+| style="text-align: center;"|44
+| style="text-align: center;"|54
+| style="text-align: center;"|64
+|}
+
+
+
+=== Ascension ===
+Unlike [[Fishing]] and [[Mining]], only 20% of souls owned are kept after Ascending. However, the lost souls can be saved by equipping cards that grant "% Souls kept after Ascending". With all the cards fully upgraded and equipped, this can award up to 120% souls kept, but the game treats this as 100% and doesn't add more.
+
+
+
+=== Spiriting Boosts ===
+==== Efficiency ====
+Efficiency is a hidden multiplier that boosts Cultist's and Acolyte's spiriting value and luck. There are four sources that increase this:
+
+*Two blue skill perks that grant +5% per level (up to 50%) Cultist efficiency and +5% per level (up to 50%) Acolyte efficiency.
+*4 [[Cards#Cards List|Cards]] that increase Cultist efficiency, up to 520% and another 4 [[Cards#Cards List|Cards]] that increase Acolyte efficiency, up to 540%.
+*The 4th item from Shop 1 in [[Contracts#Merit Shop|Contracts]] grants 10% efficiency per level (up to 100%) for both Cultists and Acolytes.
+*8 Hyper Spiriting bonuses from the Gem Shop that grants +100% efficiency to an individual Cultist and Acolyte per purchase.
+==== Spiriting Level ====
+Spiriting level can be increased by multiple sources:
+*One blue skill perk that grants +2% per level (up to 20%) spiriting EXP chance.
+*4 [[Cards#Cards List|Cards]] that increase spiriting EXP chance, up to 300%.
+*The 4th item from Shop 2 in [[Contracts#Merit Shop|Contracts]] grants +1 level per purchase (up to 10 levels).
+*Gift shop painting from [[Raids#Gift Shop|Raids]] increase starting level and reduces EXP required to level.
+*The Skill Max [[Ascension#AP Perk Tree|Ascension]] perk grants +1 level to Spiriting per purchase.
+*The Double Spiriting EXP bonus from Gem Shop bonus that grants +100% to spiriting EXP amount per purchase.
+[[Category:Limbo]]

@@ -1,0 +1,5 @@
+== Mining ==
+{{:Crystals/Mining}}
+
+== Cauldron ==
+{{:Crystals/Apothecary}}

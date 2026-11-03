@@ -1,0 +1,406 @@
+== Fighting ==
+The Fight screen is a feature where monsters are fought in order to gain gold and [[Cards]]. Monsters can be damaged passively through idle damage or actively through [[Fight#Skills|skills]]. Many other features in the game tie into Fighting, making it easier to progress as everything levels up.
+
+Fighting is split into twelve unique [[Fight#Zones|zones]], all having a long series of monsters. Each monster in these series needs to be defeated a certain amount of times before the next, stronger monster can be battled.
+
+At the end of each zone sits a Keymaster, which can be defeated to unlock the next zone and various [[Ascension]] perks. Afterwards, cleared zones can be revisited in order to defeat Glitches which offer easier encounters, but less gold rewards compared to monsters in more difficult zones.
+
+Killing the same monster up to specific thresholds is at times required for [[Contracts]] and [[Mastery]] rewards. Such milestones are represented under the monster's name with a coloured skull:
+
+* Bronze = 100K Kills,
+* Silver = 1M Kills,
+* Gold = 10M Kills,
+* Diamond = 100M Kills
+
+Clearing [[Grasslands]] is an important milestone that unlocks [[Ascension]] for your current run, and permanently unlocks the [[Portal]], [[Raids]], [[Perks#Blue Limbo Perk Tree|Blue Perk Tree]] and also [[Limbo]] once it's accessed for the first time. Afterwards, clearing [[Desert]] will unlock [[Crusades]] and the [[Perks#Gray Crusades Perk Tree|Gray Perk Tree]].
+[[File:Newfightmenu.png|left|332x332px|Updated version of the fight menu]]
+[[File:Capture.PNG|332x332px|right]]
+
+
+
+
+
+
+
+
+
+New and old versions of the fight screen
+
+== Death ==
+Only time is lost when defeated in the Fight screen; all progression, gold, and levels remain intact when a player visits Death's screen. Here the player will be healed incrementally until they are fully revived in a short period of time. Additionally, skills may be used on this screen, but the Heal skill does not expedite the revival process.
+
+[[File:Death.png|left]]Coincidentally, Death's Reaper has a health bar and using skills can eventually kill it to unlock a [https://idle-skilling.fandom.com/wiki/Secrets?so=search#Death's_Son secret area]. However, in order to be [[Secrets|rewarded]], this must be done before the player is revived, making it a difficult feat until many levels later.
+==Skills==
+Abilities and buffs can be unlocked through [[Perks tree|Perks]]. The damage or duration of a skill can be enhanced by upgrading their respective [[Perks tree|perks]], equipping certain [[Cards]] and [[Tinkering]] equipment. Additionally, the cooldown can be reduced by the Excellent Timing [[Ascension#AP Perk Tree|Ascension Perk]] after clearing the The Mist. There's also an option to autocast skills, which can be unlocked and upgraded through the Gift Shop in [[Raids]].
+
+=== Attacks ===
+{| class="article-table" style="width: 100%" border="1"
+|-
+! scope="col"|Image
+! scope="col"|Description
+! scope="col"|Duration
+! scope="col"|Cooldown
+! scope="col"|Source
+|-
+|[[File:Claw_skill.png|79px]]
+|Swipe an enemy (2n) times, dealing (100 + 80n)% damage
+|2 sec
+|3 sec
+| Red Perk Tree
+|-
+|[[File:Poison_skill.png|79px]]
+|Release a cloud of poison, dealing damage every (1 - 0.1n) second
+|10 sec
+(bugged - only damages for 6 seconds)
+|17 sec
+|Green Perk Tree
+|-
+|[[File:Metoer_skill.png|79px]]
+|Summon meteorites that hit 5 times, dealing (150 + 50n)% damage per hit
+|7 sec
+|15 sec
+|Orange Perk Tree
+|-
+|[[File:Flurry_skill.png|79px]]
+|Slice an enemy many times, dealing (100 + 20n)% damage
+|5 sec
+|11 sec
+|Orange Perk Tree
+|-
+|[[File:Smite_skill.png|79px]]
+|Bash an enemy with many weapons, dealing (300 + 100n)% damage
+|8 sec
+|20 sec
+|Red Perk Tree
+|}
+
+=== Buffs/Utility ===
+{| class="article-table" style="width: 100%" border="1"
+|-
+! scope="col"|Image
+! scope="col"|Description
+! scope="col"|Duration
+! scope="col"|Cooldown
+! scope="col"|Source
+|-
+|[[File:Heal_skill.png|79px]]
+|Heal 25% HP per second
+|5 sec
+|15 sec
+| style="text-align: center;"| -
+|-
+|[[File:Vision_skill.png|79px]]
+|Increases critical chance by (5 +5n)%
+|10 sec
+|35 sec
+|Red Perk Tree
+|-
+|[[File:Midas_skill.png|79px]]
+|Clicking monsters gives (10n)% gold for 5 seconds
+|5 sec
+|120 sec
+|Green Perk Tree
+|-
+|[[File:Seal_skill.png|79px]]
+|Prevents enemy damage for (n) seconds
+|1-10 sec
+|22 sec
+|Green Perk Tree
+|-
+|[[File:Valor_skill.png|79px]]
+|Increases damage and HP by (20n)%
+|12 sec
+|30 sec
+|Orange Perk Tree
+|}
+
+=== Special ===
+{| class="article-table" style="width: 100%" border="1"
+|-
+! scope="col"|Image
+! scope="col"|Description
+! scope="col"|Duration
+! scope="col"|Cooldown
+! scope="col"|Source
+|-
+|[[File:Anion_skill.png|79px]]
+|Summon a ball of energy that oscillates over an enemy, dealing (300 + 100n)% damage as they overlap; click to change direction
+|7 sec
+|18 sec
+|Gray Perk Tree
+|-
+|[[File:Icies_skill.png|79px]]
+|Surrounds the enemy with 6 icicles, each dealing (1800 + 600n)% damage
+|4 sec
+|30 sec
+|Gray Perk Tree
+|-
+|[[File:Banana_bonk_skill.png|79px]]
+|Bonks an enemy for (3000 + 200n)% damage, steals (800 + 75n)% monster cash
+|3 sec
+|22 sec
+|White Key AP Perk
+|-
+|[[File:Shoulder_tap_skill.png|79px]]
+|Distracts enemy (2 + 0.2n) seconds, +100 crit chance, +(200 + 20n)% crit damage
+|2+ sec
+|28 sec
+|White Key AP Perk
+|-
+|[[File:Vamp.png|79px]]
+|Deals damage and heals
+|
+|
+|The little guy in [[Asylum]]
+|-
+|[[File:Mark_skill.png|79px]]
+|Curse enemies with 400% HP and 400% damage, but +(20n)% rewards per level
+|Toggle effect
+|Toggle effect
+|Gray Perk Tree
+|-
+|[[File:Strafe.png|79px]]
+|Decreases other skills cooldowns by 100%
+|10 sec
+| somewhere in the negatives (activatable again while still active)
+|Little Lava
+|}
+
+== Zones ==
+There are 100 monsters in each zone's series ([[Vault]], [[Oblivion]] and [[Crypt]] are exceptions with 51, 107 and 66 respectively) but only the monsters up to Keymaster need to be killed to clear a zone. The following table shows statistics per zone and each zone can be clicked on to get zone-specific information on the monsters in them.
+
+{| class="article-table" style="width: 100%" border="0"
+!
+![[File:Grasslands_icon.png|center|link=Grasslands]]<p style="text-align: center;">[[Grasslands]]</p>
+![[File:Desert_icon.png|center|link=Desert]]<p style="text-align: center;">[[Desert]]</p>
+![[File:Mountains_icon.png|center|link=Mountains]]<p style="text-align: center;">[[Mountains]]</p>
+![[File:Themist_icon.png|center|link=The_Mist]]<p style="text-align: center;">[[The Mist|Mist]]</p>
+![[File:Dungeon_icon.png|center|link=Dungeon]]<p style="text-align: center;">[[Dungeon]]</p>
+![[File:Vault_icon.png|center|link=Vault]]<p style="text-align: center;">[[Vault]]</p>
+|- style="text-align: center;"
+| style="text-align: left;" |Number of unique monsters
+|16
+|30
+|27
+|21
+|16
+|23
+|- style="text-align: center;"
+| style="text-align: left;" |Number of encounters until Keymaster
+|14
+|28
+|47
+|55
+|42
+| -
+|- style="text-align: center;"
+| style="text-align: left;" |Number of glitches
+|85
+|71
+|52
+|44
+|56
+| -
+|- style="text-align: center;"
+| style="text-align: left;" |Minimum monster kills to clear zone
+|1125
+|8990
+|37440
+|67220
+|51345
+| -
+|- style="text-align: center;"
+| style="text-align: left;" |Number of cards
+|16
+|30
+|26
+|21
+|16
+|0
+|- style="text-align: center;"
+| style="text-align: left;" |Card drop chance
+|1/240
+|1/300
+|1/360
+|1/420
+|1/480
+|0
+|- style="text-align: center;"
+| style="text-align: left;" |Star card rarity
+|0%
+| +20%
+| +40%
+| +60%
+| +80%
+|0
+|}
+
+== Fighting Boosts ==
+Fighting progress is improved by [[Train]]ing levels, [[Smithing]] trinkets, equipped [[Cards]], [[Tinkering]] gear, several [[Summoning#Rifts|Rifts]], and bonuses from [[Perks tree|Perks]] and [[Ascension#AP Perk Tree|Ascension]]. Since there are too many sources for damage and attack speed bonuses to create a short list, here are unique and notable bonuses instead:
+
+===Kill Count Increase===
+Increasing the amount each monster kill contributes to the required kill limit helps to clear zones faster.
+*After clearing Desert, the Monster Decimation [[Ascension]] Perk becomes accessible, granting +0.1 value per kill. However, this is a very expensive perk to upgrade.
+*The [[Secrets#Death's Son|Death's Son secret]] grants +30% more kills when defeating monsters, which is further multiplied by crafted Enigmatic Boosters, a level 40 [[Smithing]] item.
+*The level 120 [[Smithing]] Ensouled Head grants Kills per Kill (caps at +10).
+*After clearing Dungeon, [[Rebirth]] has the upgrade '''Skull Crusher''' that grants 10n% extra kills per level.
+*Keymaster O and Incarnate A [[cards]] grants more kills and the Gorshank Z card increases kills/kill.
+===Monster Cash Increase===
+More gold from enemies makes it easier to level up more skills, and more skills generally mean better Fighting progression.
+*After clearing Desert, the Monster Laundering and Desert Collector [[Ascension]] Perks become accessible, granting +50% more gold per level and +(0.2n)% cash for every Desert card level, respectively.
+*The Petty Theft (+2% per level), Pilfering (+3% per level), Plunder Meister (+6% per level), Looter Lord (+10% per level), and Lightning Larceny (+40% per level) trinkets from [[Smithing]] all grant bonus gold from enemies.
+*The Desert Yellow Phat (+10%), Desert Baron (+12%), Mountains Blue Phat (+15%), Noob (+25%), Keymaster L (+20%), Maelstrom Cheezers (+5%), Clodd (+6%), Anodesia (+7%), Firechad (8%), Youre Epic (+30%), Incarnate G (+59%), Crusades Limpy (+12%), Crusades Minty (+25% From Midas), Nightmare Entertainer (+60%) and Emigdala Y (+50%) [[Cards]] all gives bonus gold from monsters.
+*The level 20 [[Tinkering]] Trojan Helmet grants +50% gold, and the level 79 Cash Money necklace grants +600% gold. After opening Tink Time,Tinkolicious from [[Construction]] you can acces 3rd stat line on tinkering equipments.Items grants gold with 3rd line stat on tinkering; Level 1 Wooden Spear grants +200% gold and Blobulytes necklace grants +500% gold.
+*After first ascend you can access [[Hatchery|pets]], ID 7 Sheep grants +20% cash per passive level, ID 25 Djinn grants +50% cash per passive level, ID 56 Golden Boy grants +80% cash per passive level.
+===Food===
+Food is a passive regenerating HP mechanic.
+*[[Smithing]] offers five craftable types of food:
+====Items====
+{| class="article-table" border="1" align="center"
+! colspan="2" style="text-align: center;" | Food
+! style="text-align: center;" | Bonus
+! style="text-align: center;" | Requirement
+|-
+| [[File:Fishwich.png|46px|center]]
+| Fishwich
+| +3 HP per level every 2 seconds
+| Level 1 [[Smithing]]
+|-
+| [[File:Jellyfish_noodles.png|46px|center]]
+| Jellyfish Noodles
+| +15 HP per level every 4 seconds
+| Level 10 [[Smithing]]
+|-
+| [[File:Angler_cuts.png|46px|center]]
+| Angler Cuts
+| +50 HP per level every 7 seconds
+| Level 30 [[Smithing]]
+|-
+| [[File:Fished_corn.png|46px|center]]
+| Fished Corn
+| +200 HP per level every 8 seconds
+| Level 50 [[Smithing]]
+|-
+| [[File:Flapjacks.png|46px|center]]
+| Flapjacks
+| +400 HP per level every 11 seconds
+| Level 60 [[Smithing]]
+|-
+| [[File:Cyber_f_series.png|thumb|left]]
+| Cyber F Series
+| Shields Every Fishwich Bite (caps at 2500%)
+| Level 90 [[Smithing]]
+|-
+| [[File:Cyber_j_series.png|thumb|left]]
+| Cyber J Series
+| Shields Every Fishwich Bite (caps at 4000%)
+| Level 120 [[Smithing]]
+|}
+====Perks====
+{| class="article-table" border="1" align="center"
+! colspan="2" style="text-align: center;" | Item
+! style="text-align: center;" | Type
+! style="text-align: center;" | Benefit
+|-
+| [[File:Greenperk7.png|46px|center]]
+| Endurance Perk 7
+| Healing from Food
+| +20% Per Level
+|}
+====Cards====
+{| class="article-table" border="1" align="center"
+! colspan="2" style="text-align: center;" | Item
+! style="text-align: center;" | Type
+! style="text-align: center;" | Benefit
+|-
+| [[File:C strawby.png|46px|center]]
+| Strawby Card
+| Healing from Food
+| 5% Base, 100% Max
+|-
+| [[File:C desert drink.png|46px|center]]
+| Desert Drink Card
+| Healing from Food
+| 6% Base, 120% Max
+|-
+| [[File:C coll drink.png|46px|center]]
+| Cool Drink Card
+| Healing from Food
+| 8% Base, 160% Max
+|-
+| [[File:C mime.png|46px|center]]
+| Mime Card
+| Healing from Food
+| 11% Base, 220% Max
+|-
+| [[File:C chaineran.png|46px|center]]
+| Chalice Card
+| Healing from Food
+| 12% Base, 240% Max
+|}
+===Shield===
+The '''Shield''' is a mechanic that improves survivability against more difficult monsters. It progressively stack every 100% by changing the color of the bar and shield icon.
+*[[Crusades]] offers bonus that increase shields.
+====Perks====
+{| class="article-table" border="1" align="center"
+! colspan="2" style="text-align: center;" | Item
+! style="text-align: center;" | Type
+! style="text-align: center;" | Benefit
+|-
+| [[File:Grayperk7.png|46px|center]]
+| Crusader Perk 7
+| Max Shields
+| +25% Per Level
+|}
+====Cards====
+{| class="article-table" border="1" align="center"
+! colspan="2" style="text-align: center;" | Item
+! style="text-align: center;" | Type
+! style="text-align: center;" | Bonus
+|-
+| [[File:C munched.png|46px|center]]
+| Munched Card
+| Max Shields
+| 10% Base, 200% Max
+|-
+| [[File:C identity.png|46px|center]]
+| Identity Card
+| Max Shields
+| 15% Base, 300% Max
+|-
+| [[File:C flesh bloat.png|46px|center]]
+| Flesh Bloat Card
+| Max Shields
+| 15% Base, 500% Max
+|-
+| [[File:2 - Moon Pie.png|46px|center]]
+| Moon Pie Card
+| Max Shields
+| 25% Base, 500% Max
+|-
+| [[File:C faust.png|46px|center]]
+| Faust Card
+| Max Shields
+| 75% Base, 1500% max
+|-
+| [[File:C sadness.png|46px|center]]
+| Sadness Card
+| Max Shields
+| 80% Base, 1600% Max
+|-
+| [[File:C canesius.png|46px|center]]
+| Cansius Card
+| Shield Charge Rate
+| 3% Base, 60% Max
+|-
+| [[File:12 - Lunar Jim.png|46px|center]]
+| Lunar Jim	Card
+| Shield Charge Rate
+| 4% Base, 80% Max
+|-
+| [[File:C infant.png|46px|center]]
+| Infant Card
+| Shield Charge Rate
+| 5% Base, 100% Max
+|}
+[[Category:Fighting]]

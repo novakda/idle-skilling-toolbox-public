@@ -1,0 +1,4320 @@
+[
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 0,
+  "Reset loop composition / Amount": 1,
+  "Reset loop composition / Level": "Lv50",
+  "Reset loop composition / Mutation path": "Little Piggy -> Hippo -> Horn Hippo",
+  "_images": [
+   "Horn Hippo.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 0,
+  "Reset loop composition / Amount": 5,
+  "Reset loop composition / Level": "leveled evenly, as high as possible",
+  "Reset loop composition / Mutation path": "Little Piggy -> Hippo -> Beeg Hippo",
+  "_images": [
+   "Beeg Hippo.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 0,
+  "Reset loop composition / Amount": 1,
+  "Reset loop composition / Level": "leveled as high as possible",
+  "Reset loop composition / Mutation path": "Pet Rock -> Mountain -> Volcano",
+  "_images": [
+   "Volcano.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 0,
+  "Reset loop composition / Amount": 1,
+  "Reset loop composition / Level": "Lv10",
+  "Reset loop composition / Mutation path": "Babby Egg -> Lil Chicken",
+  "_images": [
+   "Lil Chicken.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 0,
+  "Reset loop composition / Amount": "Remaining slots",
+  "Reset loop composition / Level": "Lv10",
+  "Reset loop composition / Mutation path": "Babby Egg -> Lizard",
+  "_images": [
+   "Lizard.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 1,
+  "Reset loop composition - after Realm Lv20 / Amount": 1,
+  "Reset loop composition - after Realm Lv20 / Level": "Lv50",
+  "Reset loop composition - after Realm Lv20 / Mutation path": "Little Piggy -> Hippo -> Horn Hippo",
+  "_images": [
+   "Horn Hippo.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 1,
+  "Reset loop composition - after Realm Lv20 / Amount": 1,
+  "Reset loop composition - after Realm Lv20 / Level": "leveled as high as possible",
+  "Reset loop composition - after Realm Lv20 / Mutation path": "Little Piggy -> Hippo -> Beeg Hippo",
+  "_images": [
+   "Beeg Hippo.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 1,
+  "Reset loop composition - after Realm Lv20 / Amount": 1,
+  "Reset loop composition - after Realm Lv20 / Level": "leveled as high as possible",
+  "Reset loop composition - after Realm Lv20 / Mutation path": "Pet Rock -> Mountain -> Volcano",
+  "_images": [
+   "Volcano.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 1,
+  "Reset loop composition - after Realm Lv20 / Amount": 1,
+  "Reset loop composition - after Realm Lv20 / Level": "Lv10",
+  "Reset loop composition - after Realm Lv20 / Mutation path": "Babby Egg -> Lil Chicken",
+  "_images": [
+   "Lil Chicken.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 1,
+  "Reset loop composition - after Realm Lv20 / Amount": 12,
+  "Reset loop composition - after Realm Lv20 / Level": "Lv10",
+  "Reset loop composition - after Realm Lv20 / Mutation path": "Babby Egg -> Lizard",
+  "_images": [
+   "Lizard.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 1,
+  "Reset loop composition - after Realm Lv20 / Amount": "Remaining slots",
+  "Reset loop composition - after Realm Lv20 / Level": "Lv10",
+  "Reset loop composition - after Realm Lv20 / Mutation path": "Ogre Spawn -> Gobbo",
+  "_images": [
+   "Gobbo.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 2,
+  "Reset loop composition - about to reach Shrine Upgrades goal / Amount": 1,
+  "Reset loop composition - about to reach Shrine Upgrades goal / Level": "Lv50",
+  "Reset loop composition - about to reach Shrine Upgrades goal / Mutation path": "Little Piggy -> Hippo -> Horn Hippo",
+  "_images": [
+   "Horn Hippo.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 2,
+  "Reset loop composition - about to reach Shrine Upgrades goal / Amount": 1,
+  "Reset loop composition - about to reach Shrine Upgrades goal / Level": "leveled as high as possible",
+  "Reset loop composition - about to reach Shrine Upgrades goal / Mutation path": "Little Piggy -> Hippo -> Beeg Hippo",
+  "_images": [
+   "Beeg Hippo.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 2,
+  "Reset loop composition - about to reach Shrine Upgrades goal / Amount": 1,
+  "Reset loop composition - about to reach Shrine Upgrades goal / Level": "leveled as high as possible",
+  "Reset loop composition - about to reach Shrine Upgrades goal / Mutation path": "Pet Rock -> Mountain -> Volcano",
+  "_images": [
+   "Volcano.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 2,
+  "Reset loop composition - about to reach Shrine Upgrades goal / Amount": 8,
+  "Reset loop composition - about to reach Shrine Upgrades goal / Level": "Lv50",
+  "Reset loop composition - about to reach Shrine Upgrades goal / Mutation path": "Babby Egg -> Lil Chicken -> Goose",
+  "_images": [
+   "Goose.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 2,
+  "Reset loop composition - about to reach Shrine Upgrades goal / Amount": 3,
+  "Reset loop composition - about to reach Shrine Upgrades goal / Level": "Lv50",
+  "Reset loop composition - about to reach Shrine Upgrades goal / Mutation path": "Babby Egg -> Lizard -> Crocodile",
+  "_images": [
+   "Crocodile.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 2,
+  "Reset loop composition - about to reach Shrine Upgrades goal / Amount": 12,
+  "Reset loop composition - about to reach Shrine Upgrades goal / Level": "Lv10",
+  "Reset loop composition - about to reach Shrine Upgrades goal / Mutation path": "Babby Egg -> Lizard",
+  "_images": [
+   "Lizard.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Reset loop",
+  "_table": 2,
+  "Reset loop composition - about to reach Shrine Upgrades goal / Amount": "Remaining slots",
+  "Reset loop composition - about to reach Shrine Upgrades goal / Level": "Lv10",
+  "Reset loop composition - about to reach Shrine Upgrades goal / Mutation path": "Ogre Spawn -> Gobbo",
+  "_images": [
+   "Gobbo.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine purchase loop",
+  "_table": 3,
+  "Vending Machine purchase loop composition / Amount": 1,
+  "Vending Machine purchase loop composition / Level": "Lv200",
+  "Vending Machine purchase loop composition / Mutation path": "Little Piggy -> Hippo -> Horn Hippo -> Rainboppo",
+  "Vending Machine purchase loop composition / Notes": "Source of Purple Damage",
+  "_images": [
+   "Rainboppo.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine purchase loop",
+  "_table": 3,
+  "Vending Machine purchase loop composition / Amount": 1,
+  "Vending Machine purchase loop composition / Level": "leveled as high as possible",
+  "Vending Machine purchase loop composition / Mutation path": "Little Piggy -> Hippo -> Beeg Hippo -> Chonkoppo",
+  "Vending Machine purchase loop composition / Notes": "Red Damage and Coin production",
+  "_images": [
+   "Chonkoppo.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine purchase loop",
+  "_table": 3,
+  "Vending Machine purchase loop composition / Amount": 1,
+  "Vending Machine purchase loop composition / Level": "Lv200",
+  "Vending Machine purchase loop composition / Mutation path": "Babby Egg -> Lil Chicken -> Goose -> Stork",
+  "Vending Machine purchase loop composition / Notes": "Red Damage also does Orange Damage",
+  "_images": [
+   "Stork.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine purchase loop",
+  "_table": 3,
+  "Vending Machine purchase loop composition / Amount": 7,
+  "Vending Machine purchase loop composition / Level": "Lv50",
+  "Vending Machine purchase loop composition / Mutation path": "Babby Egg -> Lil Chicken -> Goose",
+  "Vending Machine purchase loop composition / Notes": "Coin production increase",
+  "_images": [
+   "Goose.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine purchase loop",
+  "_table": 3,
+  "Vending Machine purchase loop composition / Amount": 2,
+  "Vending Machine purchase loop composition / Level": "Lv200",
+  "Vending Machine purchase loop composition / Mutation path": "Babby Egg -> Lil Chicken -> Duck -> Phaser Duck",
+  "Vending Machine purchase loop composition / Notes": "Guaranteed double blessing per Boss kill",
+  "_images": [
+   "Phaser Duck.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine purchase loop",
+  "_table": 3,
+  "Vending Machine purchase loop composition / Amount": 6,
+  "Vending Machine purchase loop composition / Level": "Lv200",
+  "Vending Machine purchase loop composition / Mutation path": "Babby Egg -> Lil Chicken -> Duck -> Cinderduck",
+  "Vending Machine purchase loop composition / Notes": "Coin production increase",
+  "_images": [
+   "Cinderduck.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine purchase loop",
+  "_table": 3,
+  "Vending Machine purchase loop composition / Amount": 3,
+  "Vending Machine purchase loop composition / Level": "Lv200",
+  "Vending Machine purchase loop composition / Mutation path": "Babby Egg -> Lizard -> Crocodile -> Crikeydile",
+  "Vending Machine purchase loop composition / Notes": "90% cashback on every Realm purchase",
+  "_images": [
+   "Crikeydile.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine purchase loop",
+  "_table": 3,
+  "Vending Machine purchase loop composition / Amount": "Remaining slots",
+  "Vending Machine purchase loop composition / Level": "Lv50",
+  "Vending Machine purchase loop composition / Mutation path": "Ogre Spawn -> Gobbo -> Lizardman",
+  "Vending Machine purchase loop composition / Notes": "Blesssing boost and Flowers production",
+  "_images": [
+   "Lizardman.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine purchase loop",
+  "_table": 3,
+  "Vending Machine purchase loop composition / Amount": "Pick these Minions based on whatever you need. BP is your Bagged Pancakes bonus",
+  "Vending Machine purchase loop composition / Minion": "Pick these Minions based on whatever you need. BP is your Bagged Pancakes bonus",
+  "Vending Machine purchase loop composition / Level": "Pick these Minions based on whatever you need. BP is your Bagged Pancakes bonus",
+  "Vending Machine purchase loop composition / Mutation path": "Pick these Minions based on whatever you need. BP is your Bagged Pancakes bonus",
+  "Vending Machine purchase loop composition / Notes": "Pick these Minions based on whatever you need. BP is your Bagged Pancakes bonus",
+  "_images": [
+   "VendingItem13.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine purchase loop",
+  "_table": 3,
+  "Vending Machine purchase loop composition / Amount": "BP+2",
+  "Vending Machine purchase loop composition / Level": "Lv200",
+  "Vending Machine purchase loop composition / Mutation path": "Pet Rock -> Mountain -> Snowy Peak -> Everest",
+  "Vending Machine purchase loop composition / Notes": "Each Everest gives 4 daily free Cornucopia rerolls.",
+  "_images": [
+   "Everest.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine purchase loop",
+  "_table": 3,
+  "Vending Machine purchase loop composition / Amount": "BP+2",
+  "Vending Machine purchase loop composition / Level": "Lv200",
+  "Vending Machine purchase loop composition / Mutation path": "Babby Egg -> Lizard -> Iguana -> Blaken Gold",
+  "Vending Machine purchase loop composition / Notes": "When resetting gain +40% more Enlightenment Spirals",
+  "_images": [
+   "Blaken Gold.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine purchase loop",
+  "_table": 3,
+  "Vending Machine purchase loop composition / Amount": "3 up to BP+2",
+  "Vending Machine purchase loop composition / Level": "Lv200",
+  "Vending Machine purchase loop composition / Mutation path": "Babby Egg -> Lizard -> Iguana -> Purpbacks",
+  "Vending Machine purchase loop composition / Notes": "+1 blessing reroll per Boss kill. Combined with Musculor gives almost infinite blessing rerolls.",
+  "_images": [
+   "Purpback.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Final push towards Stage 50",
+  "_table": 4,
+  "Final push composition / Amount": 1,
+  "Final push composition / Level": "Lv200",
+  "Final push composition / Mutation path": "Little Piggy -> Hippo -> Horn Hippo -> Rainboppo",
+  "Final push composition / Notes": "Source of Purple Damage",
+  "_images": [
+   "Rainboppo.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Final push towards Stage 50",
+  "_table": 4,
+  "Final push composition / Amount": 1,
+  "Final push composition / Level": "leveled as high as possible",
+  "Final push composition / Mutation path": "Little Piggy -> Hippo -> Beeg Hippo -> Chonkoppo",
+  "Final push composition / Notes": "Red Damage and Coin production",
+  "_images": [
+   "Chonkoppo.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Final push towards Stage 50",
+  "_table": 4,
+  "Final push composition / Amount": 1,
+  "Final push composition / Level": "Lv200",
+  "Final push composition / Mutation path": "Babby Egg -> Lil Chicken -> Goose -> Stork",
+  "Final push composition / Notes": "Red Damage also does Orange Damage",
+  "_images": [
+   "Stork.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Final push towards Stage 50",
+  "_table": 4,
+  "Final push composition / Amount": 7,
+  "Final push composition / Level": "Lv50",
+  "Final push composition / Mutation path": "Babby Egg -> Lil Chicken -> Goose",
+  "Final push composition / Notes": "Coin production increase",
+  "_images": [
+   "Goose.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Final push towards Stage 50",
+  "_table": 4,
+  "Final push composition / Amount": 2,
+  "Final push composition / Level": "Lv200",
+  "Final push composition / Mutation path": "Babby Egg -> Lil Chicken -> Duck -> Phaser Duck",
+  "Final push composition / Notes": "Guaranteed double blessing per Boss kill",
+  "_images": [
+   "Phaser Duck.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Final push towards Stage 50",
+  "_table": 4,
+  "Final push composition / Amount": 6,
+  "Final push composition / Level": "Lv200",
+  "Final push composition / Mutation path": "Babby Egg -> Lil Chicken -> Duck -> Cinderduck",
+  "Final push composition / Notes": "Coin production increase",
+  "_images": [
+   "Cinderduck.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Final push towards Stage 50",
+  "_table": 4,
+  "Final push composition / Amount": 3,
+  "Final push composition / Level": "Lv200",
+  "Final push composition / Mutation path": "Babby Egg -> Lizard -> Crocodile -> Crikeydile",
+  "Final push composition / Notes": "90% cashback on every Realm purchase",
+  "_images": [
+   "Crikeydile.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Final push towards Stage 50",
+  "_table": 4,
+  "Final push composition / Amount": 4,
+  "Final push composition / Level": "Lv200",
+  "Final push composition / Mutation path": "Ogre Spawn -> Gobbo -> Lizardman -> Scissarus",
+  "Final push composition / Notes": "Guaranteed double leveling Minions.",
+  "_images": [
+   "Scissarus.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Final push towards Stage 50",
+  "_table": 4,
+  "Final push composition / Amount": 3,
+  "Final push composition / Level": "Lv200",
+  "Final push composition / Mutation path": "Ogre Spawn -> Ogre -> Ogre Giant -> Musculor",
+  "Final push composition / Notes": "+30% each to not waste a reroll when rerolling blessings. Combined with Purpbacks gives almost infinite blessing rerolls.",
+  "_images": [
+   "Musculor.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Final push towards Stage 50",
+  "_table": 4,
+  "Final push composition / Amount": 3,
+  "Final push composition / Level": "Lv200",
+  "Final push composition / Mutation path": "Ogre Spawn -> Ogre -> Flesh Ogre -> Corruptor",
+  "Final push composition / Notes": "Multiplies Trophy's Coin gain values. More than 3 yield very little beneficial value.",
+  "_images": [
+   "Corruptor.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Final push towards Stage 50",
+  "_table": 4,
+  "Final push composition / Amount": "Remaining slots",
+  "Final push composition / Level": "Lv50",
+  "Final push composition / Mutation path": "Ogre Spawn -> Gobbo -> Lizardman",
+  "Final push composition / Notes": "Blesssing boost and Flowers production",
+  "_images": [
+   "Lizardman.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Final push towards Stage 50",
+  "_table": 4,
+  "Final push composition / Amount": "Pick these Minions based on whatever you need. BP is your Bagged Pancakes bonus",
+  "Final push composition / Minion": "Pick these Minions based on whatever you need. BP is your Bagged Pancakes bonus",
+  "Final push composition / Level": "Pick these Minions based on whatever you need. BP is your Bagged Pancakes bonus",
+  "Final push composition / Mutation path": "Pick these Minions based on whatever you need. BP is your Bagged Pancakes bonus",
+  "Final push composition / Notes": "Pick these Minions based on whatever you need. BP is your Bagged Pancakes bonus",
+  "_images": [
+   "VendingItem13.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Final push towards Stage 50",
+  "_table": 4,
+  "Final push composition / Amount": "BP+2",
+  "Final push composition / Level": "Lv200",
+  "Final push composition / Mutation path": "Pet Rock -> Mountain -> Snowy Peak -> Everest",
+  "Final push composition / Notes": "Each Everest gives 4 daily free Cornucopia rerolls.",
+  "_images": [
+   "Everest.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Final push towards Stage 50",
+  "_table": 4,
+  "Final push composition / Amount": "BP+2",
+  "Final push composition / Level": "Lv200",
+  "Final push composition / Mutation path": "Babby Egg -> Lizard -> Iguana -> Blaken Gold",
+  "Final push composition / Notes": "When resetting gain +40% more Enlightenment Spirals",
+  "_images": [
+   "Blaken Gold.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Final push towards Stage 50",
+  "_table": 4,
+  "Final push composition / Amount": "3 up to BP+2",
+  "Final push composition / Level": "Lv200",
+  "Final push composition / Mutation path": "Babby Egg -> Lizard -> Iguana -> Purpbacks",
+  "Final push composition / Notes": "+1 blessing reroll per Boss kill. Combined with Musculor gives almost infinite blessing rerolls.",
+  "_images": [
+   "Purpback.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": 2,
+  "End-game last reset composition / Mutation path": "Babby Egg -> Lil Chicken -> Ducko -> Phaser Duck",
+  "End-game last reset composition / Note": "Get 2 blessings instead of one. Although One for All blessing only works once, it's still useful because of Gold Bless.",
+  "_images": [
+   "Phaser Duck.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": 1,
+  "End-game last reset composition / Mutation path": "Babby Egg -> Lil Chicken -> Goose -> Stork",
+  "End-game last reset composition / Note": "Red Damage counts as Orange Damage.",
+  "_images": [
+   "Stork.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": 3,
+  "End-game last reset composition / Mutation path": "Babby Egg -> Lizard -> Crocodile -> Crikeydale",
+  "End-game last reset composition / Note": "+90% spent coins are returned.",
+  "_images": [
+   "Crikeydile.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": "3 up to BP+2",
+  "End-game last reset composition / Mutation path": "Babby Egg -> Lizard -> Iguana -> Purpbacks",
+  "End-game last reset composition / Note": "+1 blessing reroll per Boss kill. Combined with Musculor gives almost infinite blessing rerolls.",
+  "_images": [
+   "Purpback.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": 4,
+  "End-game last reset composition / Mutation path": "Ogre Spawn -> Gobbo -> Lizardman -> Scissarus",
+  "End-game last reset composition / Note": "Guaranteed double leveling Minions.",
+  "_images": [
+   "Scissarus.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": 3,
+  "End-game last reset composition / Mutation path": "Ogre Spawn -> Ogre -> Ogre Giant -> Musculor",
+  "End-game last reset composition / Note": "+30% each to not waste a reroll when rerolling blessings. Combined with Purpbacks gives almost infinite blessing rerolls.",
+  "_images": [
+   "Musculor.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": 3,
+  "End-game last reset composition / Mutation path": "Ogre Spawn -> Ogre -> Flesh Ogre -> Corruptor",
+  "End-game last reset composition / Note": "Multiplies Trophy's Coin gain values. More than 3 yield very little beneficial value.",
+  "_images": [
+   "Corruptor.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": 1,
+  "End-game last reset composition / Mutation path": "Ogre Spawn -> Ogre -> Flesh Ogre -> Big Bone",
+  "End-game last reset composition / Note": "White/Pink Damage.",
+  "_images": [
+   "Big Bone.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": 1,
+  "End-game last reset composition / Mutation path": "Little Piggy -> Hippo -> Horn Hippo -> Rainboppo",
+  "End-game last reset composition / Note": "Purple Damage through Banishing.",
+  "_images": [
+   "Rainboppo.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": 1,
+  "End-game last reset composition / Mutation path": "Little Piggy -> Hippo -> Beeg Hippo -> Chonkoppo",
+  "End-game last reset composition / Note": "Main source of Coins and Damage, so it's the only one needed to level always. All other minions are support Minions. Only exception is if you fill remaining free slots with Crocodile.",
+  "_images": [
+   "Chonkoppo.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": 1,
+  "End-game last reset composition / Mutation path": "Torchy",
+  "End-game last reset composition / Note": "Rainbow Damage (Stages 90~100)",
+  "_images": [
+   "Torchy.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": "Remaining slots are filled with Coin/Flowers/Spirals/Energy/Cornucopia Minions, based on whatever you need for your run. BP is your Bagged Pancakes bonus",
+  "End-game last reset composition / Minion": "Remaining slots are filled with Coin/Flowers/Spirals/Energy/Cornucopia Minions, based on whatever you need for your run. BP is your Bagged Pancakes bonus",
+  "End-game last reset composition / Mutation path": "Remaining slots are filled with Coin/Flowers/Spirals/Energy/Cornucopia Minions, based on whatever you need for your run. BP is your Bagged Pancakes bonus",
+  "End-game last reset composition / Note": "Remaining slots are filled with Coin/Flowers/Spirals/Energy/Cornucopia Minions, based on whatever you need for your run. BP is your Bagged Pancakes bonus",
+  "_images": [
+   "VendingItem13.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": "Any",
+  "End-game last reset composition / Mutation path": "Babby Egg -> Lil Chicken -> Goose",
+  "End-game last reset composition / Note": "If you do not have Gold Bless on Orb Tower you can fill a decent amount of remaining slots with these for additional Coins.",
+  "_images": [
+   "Goose.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": "Any",
+  "End-game last reset composition / Mutation path": "Babby Egg -> Lil Chicken -> Ducko -> Cinderduck",
+  "End-game last reset composition / Note": "Increases all coin gain by +50% per unique Minion type in Barn.",
+  "_images": [
+   "Cinderduck.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": "Any",
+  "End-game last reset composition / Mutation path": "Babby Egg -> Lizard -> Crocodile",
+  "End-game last reset composition / Note": "Gives twice Energy/day and also 20% Coin (total minion Lv). Trait does not cap so you can fill a decent amount of your remaining slots with these. Keep in mind you have to level up every minion to benefit from its trait.",
+  "_images": [
+   "Crocodile.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": "Any or BP+2",
+  "End-game last reset composition / Mutation path": "Pet Rock -> Mountain -> Volcano -> Pompeille",
+  "End-game last reset composition / Note": "Increases all coin gain by +150% from all sources (no cap); +60% Total DMG for all minions per 5 Realm Lv. (limited by BP)",
+  "_images": [
+   "Pompeille.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": "BP+2",
+  "End-game last reset composition / Mutation path": "Pet Rock -> Mountain -> Snowy Peak -> Everest",
+  "End-game last reset composition / Note": "Each Everest gives 4 daily free Cornucopia rerolls.",
+  "_images": [
+   "Everest.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": "BP+2",
+  "End-game last reset composition / Mutation path": "Babby Egg -> Lizard -> Iguana -> Blaken Gold",
+  "End-game last reset composition / Note": "When resetting gain +40% more Enlightenment Spirals",
+  "_images": [
+   "Blaken Gold.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": "Any",
+  "End-game last reset composition / Mutation path": "Ogre Spawn -> Gobbo -> Lizardman -> Retiarius",
+  "End-game last reset composition / Note": "When turning in resources gain +100% more food bundles.",
+  "_images": [
+   "Retiarius.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Stage 50 and beyond",
+  "_table": 5,
+  "End-game last reset composition / Amount": "All remaning slots",
+  "End-game last reset composition / Mutation path": "Ogre Spawn -> Gobbo -> Lizardman",
+  "End-game last reset composition / Note": "Doubles most blessings. Its potential gets stronger every Afterlife Level. Eventually you will reach a point where this Minion will out-perform any other Minion.",
+  "_images": [
+   "Lizardman.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Bosses and types of damage",
+  "_table": 6,
+  "Types and sources of damage / Damage": "Red",
+  "Types and sources of damage / Acquire": "Little Piggy, Pet Rock, Ogre Spawn",
+  "Types and sources of damage / Note": "Babby Egg family and Shiny Minions never deal damage at all.",
+  "_images": [
+   "Red Healthbar.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Bosses and types of damage",
+  "_table": 6,
+  "Types and sources of damage / Damage": "Orange",
+  "Types and sources of damage / Acquire": "Pet Rock -> Mountain",
+  "_images": [
+   "Orange Healthbar.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Bosses and types of damage",
+  "_table": 6,
+  "Types and sources of damage / Damage": "Yellow",
+  "Types and sources of damage / Acquire": "Babby Egg -> Lil Chicken",
+  "Types and sources of damage / Note": "Now critical hits of any Minion does yellow damage, TIP: Pig -> Hippo by default have a 25% crit chance.",
+  "_images": [
+   "Yellow Healthbar.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Bosses and types of damage",
+  "_table": 6,
+  "Types and sources of damage / Damage": "Blue",
+  "Types and sources of damage / Acquire": "Orb Tower's \"Fires a laser\" skill",
+  "Types and sources of damage / Note": "To increase the Orb Tower's damage you have to upgrade by having the Energy maxed out, then pressing \"Increase Energy Cap\".",
+  "_images": [
+   "Blue Healthbar.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Bosses and types of damage",
+  "_table": 6,
+  "Types and sources of damage / Damage": "Purple",
+  "Types and sources of damage / Acquire": "Pig -> Hippo -> Horn Hippo -> Rainboppo",
+  "Types and sources of damage / Note": "To deal Purple damage you have to banish Minions. Damage dealt equals the amount of experience shown. By this point you should have upgraded the Orb Tower to the point where you can protect Minions from being deleted when you banish.",
+  "_images": [
+   "Purple Healthbar.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Bosses and types of damage",
+  "_table": 6,
+  "Types and sources of damage / Damage": "Pink",
+  "Types and sources of damage / Acquire": "Ogre Spawn -> Ogre -> Flesh Ogre -> Big Bone",
+  "Types and sources of damage / Note": "Ogre Spawns become available once Realm Lv. 20 is reached (lower right corner)",
+  "_images": [
+   "Pink Healthbar.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Bosses and types of damage",
+  "_table": 6,
+  "Types and sources of damage / Damage": "White",
+  "Types and sources of damage / Acquire": "Ogre Spawn -> Ogre -> Flesh Ogre -> Big Bone",
+  "Types and sources of damage / Note": "Ogre Spawns become available once Realm Lv. 20 is reached (lower right corner)",
+  "_images": [
+   "White Healthbar.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Bosses and types of damage",
+  "_table": 6,
+  "Types and sources of damage / Damage": "Rainbow",
+  "Types and sources of damage / Acquire": "Torchy",
+  "Types and sources of damage / Note": "Deliver all Ice Cream deliveries and reach Tee Hee 16 (you need at least one kill on Tee Hee 16) eviscerate is what you need to achieve this you get this by killing asylum bosses.",
+  "_images": [
+   "Rainbow Healthbar.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 0,
+  "Full Trait list / Traits_3": "Heart Attack",
+  "Full Trait list / Effect": "Deal Red Damage to the boss 3 times every minute",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 1,
+  "Full Trait list / Source": "Little Pig Pet Rock Ogre Spawn",
+  "Full Trait list / Notes": "Minion does Red Damage.",
+  "_images": [
+   "Trait0.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 1,
+  "Full Trait list / Traits_3": "Flesh Wound",
+  "Full Trait list / Effect": "Increases total damage by +30%",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 1,
+  "Full Trait list / Source": "Pet Rock Boar",
+  "_images": [
+   "Trait1.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 2,
+  "Full Trait list / Traits_3": "OJ Heart Stab",
+  "Full Trait list / Effect": "Deal Orange Damage instead of Red 3 times every minute",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 2,
+  "Full Trait list / Source": "Mountain",
+  "Full Trait list / Notes": "Replaces Red Damage for this Minion",
+  "_images": [
+   "Trait2.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 3,
+  "Full Trait list / Traits_3": "Whirlwind",
+  "Full Trait list / Effect": "When the shrine is active all minions attack 50% faster",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Echo Delta",
+  "_images": [
+   "Trait3.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 4,
+  "Full Trait list / Traits_3": "Charger",
+  "Full Trait list / Effect": "Charges the Orbs Energy by 1 energy every hour",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 2,
+  "Full Trait list / Source": "Lizard",
+  "Full Trait list / Notes": "Minion now produces Energy",
+  "_images": [
+   "Trait4.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 5,
+  "Full Trait list / Traits_3": "Targeter",
+  "Full Trait list / Effect": "Increases crit chance by +25%",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 2,
+  "Full Trait list / Source": "Devilar Hippo",
+  "_images": [
+   "Trait5.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 6,
+  "Full Trait list / Traits_3": "Tarjority",
+  "Full Trait list / Effect": "Increases crit chance by +5% for all minions",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Hippemo",
+  "_images": [
+   "Trait6.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 7,
+  "Full Trait list / Traits_3": "Coin Pressing",
+  "Full Trait list / Effect": "Generates coins every minute",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 1,
+  "Full Trait list / Source": "Little Piggy Babby Egg",
+  "_images": [
+   "Trait7.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 8,
+  "Full Trait list / Traits_3": "Make It Rain",
+  "Full Trait list / Effect": "Increases all coin gain by +150% from all sources",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Volcano",
+  "_images": [
+   "Trait8.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 9,
+  "Full Trait list / Traits_3": "Coupons",
+  "Full Trait list / Effect": "-25% Minion Upgrade Cost per unique minion type in barn",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Martianus",
+  "_images": [
+   "Trait9.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 10,
+  "Full Trait list / Traits_3": "Scar Wound",
+  "Full Trait list / Effect": "Increases total damage by +50% for all minions",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Glaciar",
+  "_images": [
+   "Trait10.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 11,
+  "Full Trait list / Traits_3": "Clenched Fist",
+  "Full Trait list / Effect": "Increases base damage by +2500",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Astrialis",
+  "_images": [
+   "Trait11.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 12,
+  "Full Trait list / Traits_3": "Righteous Fist",
+  "Full Trait list / Effect": "Increases base damage by +100 for all minions",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Beeg Hippo",
+  "_images": [
+   "Trait12.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 13,
+  "Full Trait list / Traits_3": "Powerful Fist",
+  "Full Trait list / Effect": "Increases base damage by +100 per 5 Realm Lv",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Snowy Peak",
+  "_images": [
+   "Trait13.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 14,
+  "Full Trait list / Traits_3": "Quickstab",
+  "Full Trait list / Effect": "Increases attack speed by +50%",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Jupeter",
+  "_images": [
+   "Trait14.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 15,
+  "Full Trait list / Traits_3": "Flurry",
+  "Full Trait list / Effect": "Increases attack speed by +25% for all minions",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Orbiteer",
+  "_images": [
+   "Trait15.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 16,
+  "Full Trait list / Traits_3": "Minion Mayhem",
+  "Full Trait list / Effect": "+3% Atk Spd for all minions per unique minion type",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Tarantuppo",
+  "_images": [
+   "Trait16.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 17,
+  "Full Trait list / Traits_3": "Major Wound",
+  "Full Trait list / Effect": "+10% Total DMG for all minions per unique minion type",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Jekyllar",
+  "_images": [
+   "Trait17.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 18,
+  "Full Trait list / Traits_3": "Trazetter",
+  "Full Trait list / Effect": "Increases crit chance by +4% per 5 Realm Lv",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Devilar",
+  "_images": [
+   "Trait18.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 19,
+  "Full Trait list / Traits_3": "Bolstered Econ",
+  "Full Trait list / Effect": "Increases all coin gain by +20% per 100 total minions Lv",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Crocodile",
+  "_images": [
+   "Trait19.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 20,
+  "Full Trait list / Traits_3": "Critipow",
+  "Full Trait list / Effect": "+5% Crit DMG for all minions per 100 total minion Lv",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Ducko",
+  "_images": [
+   "Trait20.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 21,
+  "Full Trait list / Traits_3": "Slammacow",
+  "Full Trait list / Effect": "+10% Total DMG for all minions per 100 total minion Lv",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Gasseon",
+  "_images": [
+   "Trait21.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 22,
+  "Full Trait list / Traits_3": "Riftseeker",
+  "Full Trait list / Effect": "Increases Realm Exp gained when banishing minions by +150%",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Horn Hippo",
+  "_images": [
+   "Trait22.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 23,
+  "Full Trait list / Traits_3": "Lemonhearted",
+  "Full Trait list / Effect": "For all minions critical hits also deal Yellow Damage",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 2,
+  "Full Trait list / Source": "Lil Chicken",
+  "Full Trait list / Notes": "Enables Yellow Damage for all Minions",
+  "_images": [
+   "Trait23.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 24,
+  "Full Trait list / Traits_3": "Trashite",
+  "Full Trait list / Effect": "+5 additional banishes allowed per day",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": "-",
+  "Full Trait list / Source": "-",
+  "Full Trait list / Notes": "Not available yet",
+  "_images": [
+   "Trait24.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 25,
+  "Full Trait list / Traits_3": "Pig Prince",
+  "Full Trait list / Effect": "All piggy-type minions get +100% Total Damage",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Mammoth",
+  "_images": [
+   "Trait25.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 26,
+  "Full Trait list / Traits_3": "Rock Ruler",
+  "Full Trait list / Effect": "All rocky-type minions get +25% Crit Chance",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Luminavi",
+  "_images": [
+   "Trait26.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 27,
+  "Full Trait list / Traits_3": "Egg Emperor",
+  "Full Trait list / Effect": "All eggy-type minions get -50% upgrade cost",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Eggligator",
+  "_images": [
+   "Trait27.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 28,
+  "Full Trait list / Traits_3": "Banish Bop",
+  "Full Trait list / Effect": "When banishing minions deal Purple Dmg equal to Realm XP gained",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Rainboppo",
+  "Full Trait list / Notes": "Purple Damage for banishing only. Works with Orb Tower effects",
+  "_images": [
+   "Trait28.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 29,
+  "Full Trait list / Traits_3": "Resetti",
+  "Full Trait list / Effect": "When resetting gain +40% more Enlightenment Spirals",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Blaken Gold",
+  "_images": [
+   "Trait29.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 30,
+  "Full Trait list / Traits_3": "Harvester",
+  "Full Trait list / Effect": "When turning in resources gain +100% more food bundles",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Retiarius",
+  "_images": [
+   "Trait30.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 31,
+  "Full Trait list / Traits_3": "Smart Money",
+  "Full Trait list / Effect": "Increases all coin gain by +40% per 5 Realm Lv",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 1,
+  "Full Trait list / Source": "Babby Egg",
+  "_images": [
+   "Trait31.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 32,
+  "Full Trait list / Traits_3": "Tax Collector",
+  "Full Trait list / Effect": "Increases all coin gain by +50% per unique minion type in barn",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Cinderduck",
+  "_images": [
+   "Trait32.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 33,
+  "Full Trait list / Traits_3": "Double Stab",
+  "Full Trait list / Effect": "Increases multihit chance by +35%",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Chromar",
+  "_images": [
+   "Trait33.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 34,
+  "Full Trait list / Traits_3": "Multi Stab",
+  "Full Trait list / Effect": "Increases multihit chance by +30% for all minions",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Icelular",
+  "_images": [
+   "Trait34.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 35,
+  "Full Trait list / Traits_3": "Blessed Up",
+  "Full Trait list / Effect": "+50% chance to get 2 blessings when choosing one",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Phaser Duck",
+  "Full Trait list / Notes": "End-game must have. Hard capped at +100%",
+  "_images": [
+   "Trait35.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 36,
+  "Full Trait list / Traits_3": "Wooping Whack",
+  "Full Trait list / Effect": "+60% Total DMG for all minions per 5 Realm Lv",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Pompeille",
+  "_images": [
+   "Trait36.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 37,
+  "Full Trait list / Traits_3": "Boss Pilfer",
+  "Full Trait list / Effect": "Killing a boss multiplies the coins you have by 1.5x",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": "-",
+  "Full Trait list / Source": "-",
+  "Full Trait list / Notes": "This trait can no longer be obtained",
+  "_images": [
+   "Trait37.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 38,
+  "Full Trait list / Traits_3": "BOGO Offering",
+  "Full Trait list / Effect": "-50% Minion Upgrade Cost for all minions",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Meltor",
+  "_images": [
+   "Trait38.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 39,
+  "Full Trait list / Traits_3": "Gold Bless",
+  "Full Trait list / Effect": "Increases all coin gain by +250% per blessing you have the most of",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Goose",
+  "Full Trait list / Notes": "Mid-game must have on Orb Tower for Coins",
+  "_images": [
+   "Trait39.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 40,
+  "Full Trait list / Traits_3": "Fruit Vendor",
+  "Full Trait list / Effect": "The first 4 fruit reroll purchases each day are free",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Everest",
+  "_images": [
+   "Trait40.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 41,
+  "Full Trait list / Traits_3": "Stackability",
+  "Full Trait list / Effect": "All unstackable traits now stack up to 2 times for all minions",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Chonkoppo",
+  "Full Trait list / Notes": "This trait is no longer stackable, and hard-capped at 1, effect of this only counts once.",
+  "_images": [
+   "Trait41.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 42,
+  "Full Trait list / Traits_3": "Holy Roller",
+  "Full Trait list / Effect": "Get +1 blessing reroll every time you kill a boss",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Purpback",
+  "Full Trait list / Notes": "Mid-game must have. It may be set on Orb Tower for end-game push",
+  "_images": [
+   "Trait42.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 43,
+  "Full Trait list / Traits_3": "Dual Damage",
+  "Full Trait list / Effect": "All Red Damage also counts as Orange Damage and vice versa",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Stork",
+  "Full Trait list / Notes": "What is Red but a Cherry Orange anyway?",
+  "_images": [
+   "Trait43.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 44,
+  "Full Trait list / Traits_3": "Open Register",
+  "Full Trait list / Effect": "30% of all coins you spend are returned",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Crikeydile",
+  "Full Trait list / Notes": "Hard capped at 90%",
+  "_images": [
+   "Trait44.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 45,
+  "Full Trait list / Traits_3": "Full Blossom",
+  "Full Trait list / Effect": "+% blossoms from minions",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": "-",
+  "Full Trait list / Source": "Plot 1",
+  "Full Trait list / Notes": "Granted by the Flower Garden. Passive.",
+  "_images": [
+   "Trait45.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 46,
+  "Full Trait list / Traits_3": "Smol Savings",
+  "Full Trait list / Effect": "-% Minion Upgrade Cost for all minions",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": "-",
+  "Full Trait list / Source": "Plot 2",
+  "Full Trait list / Notes": "Granted by the Flower Garden.",
+  "_images": [
+   "Trait46.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 47,
+  "Full Trait list / Traits_3": "Juiced Fruit",
+  "Full Trait list / Effect": "All fruit bonuses are +% larger",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": "-",
+  "Full Trait list / Source": "Plot 3",
+  "Full Trait list / Notes": "Granted by the Flower Garden. Passive.",
+  "_images": [
+   "Trait47.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 48,
+  "Full Trait list / Traits_3": "Cash Genesis",
+  "Full Trait list / Effect": "+% Chance to produce 2x coins",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": "-",
+  "Full Trait list / Source": "Plot 4",
+  "Full Trait list / Notes": "Granted by the Flower Garden.",
+  "_images": [
+   "Trait48.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 49,
+  "Full Trait list / Traits_3": "Spare Charge",
+  "Full Trait list / Effect": "Charges the Orbs Energy by every hour",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": "-",
+  "Full Trait list / Source": "Plot 5",
+  "Full Trait list / Notes": "Granted by the Flower Garden.",
+  "_images": [
+   "Trait49.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 50,
+  "Full Trait list / Traits_3": "Level Cash",
+  "Full Trait list / Effect": "Increases coin gain by +% per 100 Lv of this minion",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": "-",
+  "Full Trait list / Source": "Plot 6",
+  "Full Trait list / Notes": "Granted by the Flower Garden.",
+  "_images": [
+   "Trait50.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 51,
+  "Full Trait list / Traits_3": "Level Slash",
+  "Full Trait list / Effect": "+% Total damage per 100 upg lvs of this minion",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": "-",
+  "Full Trait list / Source": "Plot 7",
+  "Full Trait list / Notes": "Granted by the Flower Garden.",
+  "_images": [
+   "Trait51.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 52,
+  "Full Trait list / Traits_3": "Afterlife Slam",
+  "Full Trait list / Effect": "+% Total damage for all minions per best afterlife",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": "-",
+  "Full Trait list / Source": "Plot 8",
+  "Full Trait list / Notes": "Granted by the Flower Garden.",
+  "_images": [
+   "Trait52.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 53,
+  "Full Trait list / Traits_3": "Field Bloomer",
+  "Full Trait list / Effect": "Generates flowers every hour",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 1,
+  "Full Trait list / Source": "Ogre Spawns",
+  "Full Trait list / Notes": "Minion produces Flower Blossoms",
+  "_images": [
+   "Trait53.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 54,
+  "Full Trait list / Traits_3": "Smol Savings",
+  "Full Trait list / Effect": "-10% Minion Upgrade Cost for all minions",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": "-",
+  "Full Trait list / Source": "Plot 2",
+  "Full Trait list / Notes": "Granted by the Flower Garden.",
+  "_images": [
+   "Trait54.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 55,
+  "Full Trait list / Traits_3": "Smol Speedy",
+  "Full Trait list / Effect": "+2% Atk Spd for all minions",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 2,
+  "Full Trait list / Source": "Asteroid",
+  "_images": [
+   "Trait55.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 56,
+  "Full Trait list / Traits_3": "Smol Cash",
+  "Full Trait list / Effect": "Increases all coin gain by +100%",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 2,
+  "Full Trait list / Source": "Gobbo",
+  "_images": [
+   "Trait56.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 57,
+  "Full Trait list / Traits_3": "Smol Damage",
+  "Full Trait list / Effect": "+25% Total DMG for all minions",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 2,
+  "Full Trait list / Source": "Ogre",
+  "_images": [
+   "Trait57.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 58,
+  "Full Trait list / Traits_3": "Smol Critty",
+  "Full Trait list / Effect": "Increases crit chance by +5% for all minions",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Iguana",
+  "_images": [
+   "Trait58.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 59,
+  "Full Trait list / Traits_3": "Base Convert",
+  "Full Trait list / Effect": "+0.05% DMG for each talent base dmg for all minons up to 300%",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Tundra Orc",
+  "_images": [
+   "Trait59.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 60,
+  "Full Trait list / Traits_3": "Doublepgrade",
+  "Full Trait list / Effect": "30% chance for an upgrade to lv up minion twice for free",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Scissarus",
+  "_images": [
+   "Trait60.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 61,
+  "Full Trait list / Traits_3": "Gambol Hour",
+  "Full Trait list / Effect": "3% chance for 1hr gains when upgrading this minion",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": "-",
+  "Full Trait list / Source": "-",
+  "Full Trait list / Notes": "Might be a Orb Tower trait. Requires confirmation",
+  "_images": [
+   "Trait61.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 62,
+  "Full Trait list / Traits_3": "Zerg Rush",
+  "Full Trait list / Effect": "All OgreSpawn-type minions get +30% Attack Speed",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Hugh Mungus",
+  "_images": [
+   "Trait62.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 63,
+  "Full Trait list / Traits_3": "Lucky Roll",
+  "Full Trait list / Effect": "Rerolling blessings has a 30% chance to not use up a reroll",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Musculor",
+  "_images": [
+   "Trait63.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 64,
+  "Full Trait list / Traits_3": "Pure Hearted",
+  "Full Trait list / Effect": "All attacks deal white damage based on your dmg outside realm",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Big Bone",
+  "Full Trait list / Notes": "Minions now deal White Damage.",
+  "_images": [
+   "Trait64.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 65,
+  "Full Trait list / Traits_3": "2 Time Champ",
+  "Full Trait list / Effect": "Multiplies coin gain by trophy bonus a 2nd time",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Corruptor",
+  "_images": [
+   "Trait65.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 66,
+  "Full Trait list / Traits_3": "Bless Updog",
+  "Full Trait list / Effect": "Most blessings give double their bonus",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Lizardman",
+  "Full Trait list / Notes": "End-game must have. Fill all your remaining slots with Lizardman",
+  "_images": [
+   "Trait66.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 67,
+  "Full Trait list / Traits_3": "Hammerfist",
+  "Full Trait list / Effect": "+75 Base DMG for all minions per 100 total minion Lv",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Orc",
+  "_images": [
+   "Trait67.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 68,
+  "Full Trait list / Traits_3": "Multicrit",
+  "Full Trait list / Effect": "+20% Crit chance and 20% Multihit for all minions",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Bulwark Orc",
+  "_images": [
+   "Trait68.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 69,
+  "Full Trait list / Traits_3": "Multo Monno",
+  "Full Trait list / Effect": "+1% Multihit for all minions per unique minion type",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Ogre Giant",
+  "_images": [
+   "Trait69.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 70,
+  "Full Trait list / Traits_3": "Mongo Crits",
+  "Full Trait list / Effect": "+200% Crit DMG for all minions",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 3,
+  "Full Trait list / Source": "Flesh Gore",
+  "_images": [
+   "Trait70.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 71,
+  "Full Trait list / Traits_3": "Quadrafire",
+  "Full Trait list / Effect": "All minions regular attacks now also do Eternal Damage",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 1,
+  "Full Trait list / Source": "Torchy",
+  "Full Trait list / Notes": "Minions now deal Eternal Damage.",
+  "_images": [
+   "Trait71.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 72,
+  "Full Trait list / Traits_3": "Shiny",
+  "Full Trait list / Effect": "All minions do 1.5x dmg make 2x more coins and attack 1.1x faster",
+  "Full Trait list / Stackable?": "Yes",
+  "Full Trait list / Tier": 1,
+  "Full Trait list / Source": "Shiny Minions",
+  "_images": [
+   "Trait72.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Traits",
+  "_table": 7,
+  "Full Trait list / Traits": 73,
+  "Full Trait list / Traits_3": "Get On My Lv",
+  "Full Trait list / Effect": "All minions do 1% more dmg per their personal Upgrade Lv",
+  "Full Trait list / Stackable?": "No",
+  "Full Trait list / Tier": 4,
+  "Full Trait list / Source": "Gemmar",
+  "_images": [
+   "Trait73.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 8,
+  "Little Piggy family / Name_2": "Little Piggy",
+  "Little Piggy family / Prerequisite": "-",
+  "Little Piggy family / Notes": "Main Coin and damage source (early-game it's only Red, late-game is every type)",
+  "_images": [
+   "Piggy.png",
+   "Trait7.png",
+   "Trait0.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 8,
+  "Little Piggy family / Name_2": "Boar",
+  "Little Piggy family / Prerequisite": "Little Piggy",
+  "Little Piggy family / Notes": "Useless mutation tree. Only Gemmar and Mammoth might have an use",
+  "_images": [
+   "Boar.png",
+   "Trait7.png",
+   "Trait0.png",
+   "Trait1.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 8,
+  "Little Piggy family / Name_2": "Hippo",
+  "Little Piggy family / Prerequisite": "Little Piggy",
+  "Little Piggy family / Notes": "Main mutation tree because of Rainboppo (Purple damage) and Chonkoppo (cheapest Pig to upgrade)",
+  "_images": [
+   "Hippo.png",
+   "Trait7.png",
+   "Trait0.png",
+   "Trait5.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 8,
+  "Little Piggy family / Name_2": "Chromar",
+  "Little Piggy family / Prerequisite": "Boar",
+  "_images": [
+   "Chromar.png",
+   "Trait7.png",
+   "Trait0.png",
+   "Trait1.png",
+   "Trait33.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 8,
+  "Little Piggy family / Name_2": "Devilar",
+  "Little Piggy family / Prerequisite": "Boar",
+  "_images": [
+   "Devilar.png",
+   "Trait7.png",
+   "Trait0.png",
+   "Trait1.png",
+   "Trait18.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 8,
+  "Little Piggy family / Name_2": "Horn Hippo",
+  "Little Piggy family / Prerequisite": "Hippo",
+  "Little Piggy family / Notes": "Good early-game for Realm EXP increase",
+  "_images": [
+   "Horn Hippo.png",
+   "Trait7.png",
+   "Trait0.png",
+   "Trait5.png",
+   "Trait22.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 8,
+  "Little Piggy family / Name_2": "Beeg Hippo",
+  "Little Piggy family / Prerequisite": "Hippo",
+  "_images": [
+   "Beeg Hippo.png",
+   "Trait7.png",
+   "Trait0.png",
+   "Trait5.png",
+   "Trait12.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 8,
+  "Little Piggy family / Name_2": "Gemmar",
+  "Little Piggy family / Prerequisite": "Chromar",
+  "Little Piggy family / Notes": "Extra damage for your main Minion (situational?)",
+  "_images": [
+   "Gemmar.png",
+   "Trait7.png",
+   "Trait0.png",
+   "Trait1.png",
+   "Trait33.png",
+   "Trait73.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 8,
+  "Little Piggy family / Name_2": "Jekyllar",
+  "Little Piggy family / Prerequisite": "Chromar",
+  "_images": [
+   "Jekyllar.png",
+   "Trait7.png",
+   "Trait0.png",
+   "Trait1.png",
+   "Trait33.png",
+   "Trait17.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 8,
+  "Little Piggy family / Name_2": "Mammoth",
+  "Little Piggy family / Prerequisite": "Devilar",
+  "Little Piggy family / Notes": "Extra damage for your main Minion (situational?)",
+  "_images": [
+   "Mammoth.png",
+   "Trait7.png",
+   "Trait0.png",
+   "Trait1.png",
+   "Trait18.png",
+   "Trait25.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 8,
+  "Little Piggy family / Name_2": "Iceular",
+  "Little Piggy family / Prerequisite": "Devilar",
+  "_images": [
+   "Iceular.png",
+   "Trait7.png",
+   "Trait0.png",
+   "Trait1.png",
+   "Trait18.png",
+   "Trait34.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 8,
+  "Little Piggy family / Name_2": "Rainboppo",
+  "Little Piggy family / Prerequisite": "Horn Hippo",
+  "Little Piggy family / Notes": "Provides Purple damage through banishing Minions",
+  "_images": [
+   "Rainboppo.png",
+   "Trait7.png",
+   "Trait0.png",
+   "Trait5.png",
+   "Trait22.png",
+   "Trait28.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 8,
+  "Little Piggy family / Name_2": "Hippemo",
+  "Little Piggy family / Prerequisite": "Horn Hippo",
+  "_images": [
+   "Hippemo.png",
+   "Trait7.png",
+   "Trait0.png",
+   "Trait5.png",
+   "Trait22.png",
+   "Trait6.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 8,
+  "Little Piggy family / Name_2": "Tarantuppo",
+  "Little Piggy family / Prerequisite": "Beeg Hippo",
+  "_images": [
+   "Tarantuppo.png",
+   "Trait7.png",
+   "Trait0.png",
+   "Trait5.png",
+   "Trait12.png",
+   "Trait16.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 8,
+  "Little Piggy family / Name_2": "Chonkoppo",
+  "Little Piggy family / Prerequisite": "Beeg Hippo",
+  "Little Piggy family / Notes": "Main end-game Minion. Most expensive Pig to upgrade, which means more Coin generation",
+  "_images": [
+   "Chonkoppo.png",
+   "Trait7.png",
+   "Trait0.png",
+   "Trait5.png",
+   "Trait12.png",
+   "Trait41.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 9,
+  "Pet Rock family / Name_2": "Pet Rock",
+  "Pet Rock family / Prerequisite": "-",
+  "Pet Rock family / Notes": "Main source of Orange damage and Coin gain increase (early-game); and free Cornucopia rerrolls (end-game)",
+  "_images": [
+   "Pet Rock.png",
+   "Trait1.png",
+   "Trait0.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 9,
+  "Pet Rock family / Name_2": "Mountain",
+  "Pet Rock family / Prerequisite": "Pet Rock",
+  "Pet Rock family / Notes": "Main mutation tree because of Orange damage, Volcano (Coin gain) and Everest (free Cornucopia rerrolls)",
+  "_images": [
+   "Mountain.png",
+   "Trait1.png",
+   "Trait0.png",
+   "Trait2.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 9,
+  "Pet Rock family / Name_2": "Asteroid",
+  "Pet Rock family / Prerequisite": "Pet Rock",
+  "Pet Rock family / Notes": "Useless mutation tree. Only Gasseon might have an use",
+  "_images": [
+   "Asteroid.png",
+   "Trait1.png",
+   "Trait0.png",
+   "Trait55.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 9,
+  "Pet Rock family / Name_2": "Snowy Peak",
+  "Pet Rock family / Prerequisite": "Mountain",
+  "_images": [
+   "Snowy Peak.png",
+   "Trait1.png",
+   "Trait0.png",
+   "Trait2.png",
+   "Trait13.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 9,
+  "Pet Rock family / Name_2": "Volcano",
+  "Pet Rock family / Prerequisite": "Mountain",
+  "Pet Rock family / Notes": "Best early-game Coin gain trait",
+  "_images": [
+   "Volcano.png",
+   "Trait1.png",
+   "Trait0.png",
+   "Trait2.png",
+   "Trait8.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 9,
+  "Pet Rock family / Name_2": "Jupeter",
+  "Pet Rock family / Prerequisite": "Asteroid",
+  "_images": [
+   "Jupeter.png",
+   "Trait1.png",
+   "Trait0.png",
+   "Trait55.png",
+   "Trait14.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 9,
+  "Pet Rock family / Name_2": "Astralis",
+  "Pet Rock family / Prerequisite": "Asteroid",
+  "_images": [
+   "Astralis.png",
+   "Trait1.png",
+   "Trait0.png",
+   "Trait55.png",
+   "Trait11.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 9,
+  "Pet Rock family / Name_2": "Everest",
+  "Pet Rock family / Prerequisite": "Snowy Peak",
+  "Pet Rock family / Notes": "Great late-game for free Cornucopia rerolls",
+  "_images": [
+   "Everest.png",
+   "Trait1.png",
+   "Trait0.png",
+   "Trait2.png",
+   "Trait13.png",
+   "Trait40.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 9,
+  "Pet Rock family / Name_2": "Glaciar",
+  "Pet Rock family / Prerequisite": "Snowy Peak",
+  "_images": [
+   "Glaciar.png",
+   "Trait1.png",
+   "Trait0.png",
+   "Trait2.png",
+   "Trait13.png",
+   "Trait10.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 9,
+  "Pet Rock family / Name_2": "Meltor",
+  "Pet Rock family / Prerequisite": "Volcano",
+  "_images": [
+   "Meltor.png",
+   "Trait1.png",
+   "Trait0.png",
+   "Trait2.png",
+   "Trait8.png",
+   "Trait38.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 9,
+  "Pet Rock family / Name_2": "Pompeille",
+  "Pet Rock family / Prerequisite": "Volcano",
+  "_images": [
+   "Pompeille.png",
+   "Trait1.png",
+   "Trait0.png",
+   "Trait2.png",
+   "Trait8.png",
+   "Trait36.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 9,
+  "Pet Rock family / Name_2": "Gasseon",
+  "Pet Rock family / Prerequisite": "Jupeter",
+  "_images": [
+   "Gasseon.png",
+   "Trait1.png",
+   "Trait0.png",
+   "Trait55.png",
+   "Trait14.png",
+   "Trait21.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 9,
+  "Pet Rock family / Name_2": "Orbiteer",
+  "Pet Rock family / Prerequisite": "Jupeter",
+  "_images": [
+   "Orbiteer.png",
+   "Trait1.png",
+   "Trait0.png",
+   "Trait55.png",
+   "Trait14.png",
+   "Trait15.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 9,
+  "Pet Rock family / Name_2": "Martianus",
+  "Pet Rock family / Prerequisite": "Astralis",
+  "_images": [
+   "Martianus.png",
+   "Trait1.png",
+   "Trait0.png",
+   "Trait55.png",
+   "Trait11.png",
+   "Trait9.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 9,
+  "Pet Rock family / Name_2": "Luminavi",
+  "Pet Rock family / Prerequisite": "Astralis",
+  "_images": [
+   "Luminavi.png",
+   "Trait1.png",
+   "Trait0.png",
+   "Trait55.png",
+   "Trait11.png",
+   "Trait26.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 10,
+  "Babby Egg family / Name_2": "Babby Egg",
+  "Babby Egg family / Prerequisite": "-",
+  "Babby Egg family / Notes": "Main source of Yellow damage, Coin gain increase, Energy (early-game); and Orange damage, double-blessings, cashback, blessing rerolls and Enlightment Spirals (end-game)",
+  "_images": [
+   "Babby Egg.png",
+   "Trait7.png",
+   "Trait31.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 10,
+  "Babby Egg family / Name_2": "Lil Chicken",
+  "Babby Egg family / Prerequisite": "Babby Egg",
+  "Babby Egg family / Notes": "Makes every Minion deal Yellow damage on critical hits",
+  "_images": [
+   "Lil Chicken.png",
+   "Trait7.png",
+   "Trait31.png",
+   "Trait23.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 10,
+  "Babby Egg family / Name_2": "Lizard",
+  "Babby Egg family / Prerequisite": "Babby Egg",
+  "Babby Egg family / Notes": "Early-game source of Energy",
+  "_images": [
+   "Lizard.png",
+   "Trait7.png",
+   "Trait31.png",
+   "Trait4.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 10,
+  "Babby Egg family / Name_2": "Ducko",
+  "Babby Egg family / Prerequisite": "Lil Chicken",
+  "_images": [
+   "Ducko.png",
+   "Trait7.png",
+   "Trait31.png",
+   "Trait23.png",
+   "Trait20.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 10,
+  "Babby Egg family / Name_2": "Goose",
+  "Babby Egg family / Prerequisite": "Lil Chicken",
+  "Babby Egg family / Notes": "Early-game source of the best Coin gain increase trait",
+  "_images": [
+   "Goose.png",
+   "Trait7.png",
+   "Trait31.png",
+   "Trait23.png",
+   "Trait39.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 10,
+  "Babby Egg family / Name_2": "Crocodile",
+  "Babby Egg family / Prerequisite": "Lizard",
+  "_images": [
+   "Crocodile.png",
+   "Trait7.png",
+   "Trait31.png",
+   "Trait4.png",
+   "Trait19.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 10,
+  "Babby Egg family / Name_2": "Iguana",
+  "Babby Egg family / Prerequisite": "Lizard",
+  "_images": [
+   "Iguana.png",
+   "Trait7.png",
+   "Trait31.png",
+   "Trait4.png",
+   "Trait58.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 10,
+  "Babby Egg family / Name_2": "Phaser Duck",
+  "Babby Egg family / Prerequisite": "Ducko",
+  "Babby Egg family / Notes": "2 of these grant a guaranteed double-blessing (hard cap)",
+  "_images": [
+   "Phaser Duck.png",
+   "Trait7.png",
+   "Trait31.png",
+   "Trait23.png",
+   "Trait20.png",
+   "Trait35.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 10,
+  "Babby Egg family / Name_2": "Cinderduck",
+  "Babby Egg family / Prerequisite": "Ducko",
+  "Babby Egg family / Notes": "Great end-game Coin gain trait",
+  "_images": [
+   "Cinderduck.png",
+   "Trait7.png",
+   "Trait31.png",
+   "Trait23.png",
+   "Trait20.png",
+   "Trait32.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 10,
+  "Babby Egg family / Name_2": "Stork",
+  "Babby Egg family / Prerequisite": "Goose",
+  "Babby Egg family / Notes": "Makes your Pig minions to also deal Orange damage",
+  "_images": [
+   "Stork.png",
+   "Trait7.png",
+   "Trait31.png",
+   "Trait23.png",
+   "Trait39.png",
+   "Trait43.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 10,
+  "Babby Egg family / Name_2": "Echo Delta",
+  "Babby Egg family / Prerequisite": "Goose",
+  "_images": [
+   "Echo Delta.png",
+   "Trait7.png",
+   "Trait31.png",
+   "Trait23.png",
+   "Trait39.png",
+   "Trait3.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 10,
+  "Babby Egg family / Name_2": "Crikeydile",
+  "Babby Egg family / Prerequisite": "Crocodile",
+  "Babby Egg family / Notes": "3 of these grant a 90% cashback (hard cap)",
+  "_images": [
+   "Crikeydile.png",
+   "Trait7.png",
+   "Trait31.png",
+   "Trait4.png",
+   "Trait19.png",
+   "Trait44.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 10,
+  "Babby Egg family / Name_2": "Eggligator",
+  "Babby Egg family / Prerequisite": "Crocodile",
+  "_images": [
+   "Eggligator.png",
+   "Trait7.png",
+   "Trait31.png",
+   "Trait4.png",
+   "Trait19.png",
+   "Trait27.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 10,
+  "Babby Egg family / Name_2": "Purpback",
+  "Babby Egg family / Prerequisite": "Iguana",
+  "Babby Egg family / Notes": "Each one gives an extra blessing rerroll (up to Bagged Pancakes). Makes a really good combo with Musculor (Ogre Spawn family)",
+  "_images": [
+   "Purpback.png",
+   "Trait7.png",
+   "Trait31.png",
+   "Trait4.png",
+   "Trait58.png",
+   "Trait42.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 10,
+  "Babby Egg family / Name_2": "Blaken Gold",
+  "Babby Egg family / Prerequisite": "Iguana",
+  "Babby Egg family / Notes": "Each one gives extra Enlightment Spirals (up to Bagged Pancakes)",
+  "_images": [
+   "Blaken Gold.png",
+   "Trait7.png",
+   "Trait31.png",
+   "Trait4.png",
+   "Trait58.png",
+   "Trait29.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 11,
+  "Ogre Spawn family / Name_2": "Ogre Spawn",
+  "Ogre Spawn family / Notes": "Main source of White damage, Flowers, Coin gain increase, double-level up for Minions, chance to not spend blessing rerrolls, and double Food bundles (end-game)",
+  "_images": [
+   "Ogre Spawn.png",
+   "Trait0.png",
+   "Trait53.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 11,
+  "Ogre Spawn family / Name_2": "Gobbo",
+  "Ogre Spawn family / Prerequisite": "Ogre Spawn",
+  "_images": [
+   "Gobbo.png",
+   "Trait0.png",
+   "Trait53.png",
+   "Trait56.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 11,
+  "Ogre Spawn family / Name_2": "Ogre",
+  "Ogre Spawn family / Prerequisite": "Ogre Spawn",
+  "_images": [
+   "Ogre.png",
+   "Trait0.png",
+   "Trait53.png",
+   "Trait57.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 11,
+  "Ogre Spawn family / Name_2": "Orc",
+  "Ogre Spawn family / Prerequisite": "Gobbo",
+  "_images": [
+   "Orc.png",
+   "Trait0.png",
+   "Trait53.png",
+   "Trait56.png",
+   "Trait67.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 11,
+  "Ogre Spawn family / Name_2": "Lizardman",
+  "Ogre Spawn family / Prerequisite": "Gobbo",
+  "Ogre Spawn family / Notes": "End-game Blessing effect boost trait. This minion should fill every single slot once you have bought every other damage and utility Minions.",
+  "_images": [
+   "Lizardman.png",
+   "Trait0.png",
+   "Trait53.png",
+   "Trait56.png",
+   "Trait66.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 11,
+  "Ogre Spawn family / Name_2": "Ogre Giant",
+  "Ogre Spawn family / Prerequisite": "Ogre",
+  "_images": [
+   "Ogre Giant.png",
+   "Trait0.png",
+   "Trait53.png",
+   "Trait57.png",
+   "Trait69.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 11,
+  "Ogre Spawn family / Name_2": "Flesh Ogre",
+  "Ogre Spawn family / Prerequisite": "Ogre",
+  "_images": [
+   "Flesh Ogre.png",
+   "Trait0.png",
+   "Trait53.png",
+   "Trait57.png",
+   "Trait70.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 11,
+  "Ogre Spawn family / Name_2": "Bulwark Orc",
+  "Ogre Spawn family / Prerequisite": "Orc",
+  "_images": [
+   "Bulwark Orc.png",
+   "Trait0.png",
+   "Trait53.png",
+   "Trait56.png",
+   "Trait67.png",
+   "Trait68.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 11,
+  "Ogre Spawn family / Name_2": "Tundra Orc",
+  "Ogre Spawn family / Prerequisite": "Orc",
+  "_images": [
+   "Tundra Orc.png",
+   "Trait0.png",
+   "Trait53.png",
+   "Trait56.png",
+   "Trait67.png",
+   "Trait59.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 11,
+  "Ogre Spawn family / Name_2": "Scissarus",
+  "Ogre Spawn family / Prerequisite": "Lizardman",
+  "Ogre Spawn family / Notes": "4 of these give a guaranteed free extra level when leveling Minions (you pay one, and get another one for free!) (hard cap)",
+  "_images": [
+   "Scissarus.png",
+   "Trait0.png",
+   "Trait53.png",
+   "Trait56.png",
+   "Trait66.png",
+   "Trait60.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 11,
+  "Ogre Spawn family / Name_2": "Retiarius",
+  "Ogre Spawn family / Prerequisite": "Lizardman",
+  "Ogre Spawn family / Notes": "Used to have Boss Pilfer trait, now has Harvester: double Food bundles at Cornucopia",
+  "_images": [
+   "Retiarius.png",
+   "Trait0.png",
+   "Trait53.png",
+   "Trait56.png",
+   "Trait66.png",
+   "Trait30.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 11,
+  "Ogre Spawn family / Name_2": "Hugh Mungus",
+  "Ogre Spawn family / Prerequisite": "Ogre Giant",
+  "_images": [
+   "Hugh Mungus.png",
+   "Trait0.png",
+   "Trait53.png",
+   "Trait57.png",
+   "Trait69.png",
+   "Trait62.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 11,
+  "Ogre Spawn family / Name_2": "Musculor",
+  "Ogre Spawn family / Prerequisite": "Ogre Giant",
+  "Ogre Spawn family / Notes": "3 of these give a 90% chance to not use a blessing reroll (hard cap)",
+  "_images": [
+   "Musculor.png",
+   "Trait0.png",
+   "Trait53.png",
+   "Trait57.png",
+   "Trait69.png",
+   "Trait63.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 11,
+  "Ogre Spawn family / Name_2": "Corruptor",
+  "Ogre Spawn family / Prerequisite": "Flesh Ogre",
+  "Ogre Spawn family / Notes": "End-game Coin increase based on Trophies. Has high diminishing returns after 3 Minions of this type.",
+  "_images": [
+   "Corruptor.png",
+   "Trait0.png",
+   "Trait53.png",
+   "Trait57.png",
+   "Trait70.png",
+   "Trait65.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 11,
+  "Ogre Spawn family / Name_2": "Big Bone",
+  "Ogre Spawn family / Prerequisite": "Flesh Ogre",
+  "Ogre Spawn family / Notes": "Deals White damage based on your outside-Realm damage",
+  "_images": [
+   "Big Bone.png",
+   "Trait0.png",
+   "Trait53.png",
+   "Trait57.png",
+   "Trait70.png",
+   "Trait64.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 12,
+  "Special Minions / Name_2": "Torchy",
+  "Special Minions / Obtain": "Light all 4 torches in the Lord's Lair.",
+  "_images": [
+   "Torchy.png",
+   "Trait71.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Minions list and their mutations",
+  "_table": 12,
+  "Special Minions / Name_2": "Rare Shiny",
+  "Special Minions / Obtain": "Purchased with 575 Crystal Eyes. A reskinned Minion with an extra Trait.",
+  "_images": [
+   "MinionF0.png",
+   "MinionF1.png",
+   "MinionF2.png",
+   "MinionF3.png",
+   "MinionF4.png",
+   "MinionF5.png",
+   "MinionF6.png",
+   "MinionF7.png",
+   "MinionF8.png",
+   "MinionF9.png",
+   "MinionF10.png",
+   "MinionF11.png",
+   "Trait72.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "Wheat Chew",
+  "Vending Machine goodies / Effect": "Increases Number of Barn Slots by +(lvl)",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "285 Barn Slots",
+  "Vending Machine goodies / Notes": "Must upgrade to progress in Realm. Early-game oriented, afterwards can be ignored",
+  "_images": [
+   "VendingItem0.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "Burrito",
+  "Vending Machine goodies / Effect": "Multiplies Fight DMG outside of realm by 1 + (lvl * 0.01)x per best afterlife reached",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "x3.6X Fight DMG",
+  "_images": [
+   "VendingItem1.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "Sour Cremchips",
+  "Vending Machine goodies / Effect": "Increases perk points to spend outside realm by +(5*lvl)",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "+5035 perk points",
+  "_images": [
+   "VendingItem2.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "Choccy Coin",
+  "Vending Machine goodies / Effect": "1 + (lvl * 0.01)x coins in realm per best afterlife reached",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "x4.34 coins in realm",
+  "Vending Machine goodies / Notes": "Must upgrade to progress in Realm. Most useful upgrade along all stages in Realm",
+  "_images": [
+   "VendingItem3.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "White Choc Bar",
+  "Vending Machine goodies / Effect": "Multipies cash earned outside realm by 1 + (lvl * 0.05)x per best afterlife reached",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "x13.75X Cash",
+  "_images": [
+   "VendingItem4.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "Syrup Soda",
+  "Vending Machine goodies / Effect": "Boosts bonuses from all potions outside realm by 1 + (lvl * 0.04)x",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "x1.91X Potion boost",
+  "_images": [
+   "VendingItem5.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "Tuna Can",
+  "Vending Machine goodies / Effect": "(3.8 * lvl)% Chance to retrigger away time when entering any screen",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "90.1% Chance to retrigger",
+  "Vending Machine goodies / Notes": "Must upgrade to progress in Realm. End-game oriented. Bonus diminishes based on level",
+  "_images": [
+   "VendingItem6.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "Cane Sugar Soda",
+  "Vending Machine goodies / Effect": "Boosts bonuses from all Mastery Bonuses outside realm by 1 + (lvl * 0.04)x",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "x1.91X Mastery bonuses",
+  "Vending Machine goodies / Notes": "Bonus diminishes based on level",
+  "_images": [
+   "VendingItem7.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "Toothpaste Tube",
+  "Vending Machine goodies / Effect": "Boosts bonuses from all Lab Tanks outside realm by 1 + (lvl * 0.04)x",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "x1.9X Lab Tanks bonuses",
+  "Vending Machine goodies / Notes": "Bonus diminishes based on level",
+  "_images": [
+   "VendingItem8.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "Corn Can",
+  "Vending Machine goodies / Effect": "Increases Away Gains on all screens by +(lvl * 2)%",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "+464% Away Gains",
+  "Vending Machine goodies / Notes": "Must upgrade to progress in Realm. End-game oriented",
+  "_images": [
+   "VendingItem9.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "Icecream Sammich",
+  "Vending Machine goodies / Effect": "Start with (? * lvl) coins after resetting",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "7044 cash (impossible to tell)",
+  "Vending Machine goodies / Notes": "Must upgrade to progress in Realm",
+  "_images": [
+   "VendingItem10.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "Bundled Broccoli",
+  "Vending Machine goodies / Effect": "Ew brocolli",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "Impossible to tell",
+  "Vending Machine goodies / Notes": "Does nothing",
+  "_images": [
+   "VendingItem11.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "Vendi Bar",
+  "Vending Machine goodies / Effect": "All vending and minion upgrade costs are reduced by (lvl)%",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "339% cost reduction",
+  "_images": [
+   "VendingItem12.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "Bagged Pancakes",
+  "Vending Machine goodies / Effect": "Unstackable minion traits can stack +(lvl) more times than normal",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "+33 unstackable traits",
+  "Vending Machine goodies / Notes": "Must upgrade to progress in Realm. End-game oriented",
+  "_images": [
+   "VendingItem13.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "Iced Footlong",
+  "Vending Machine goodies / Effect": "Multiplies minion damage by 1+(lvl * 0.01)x per ice cream you have unlocked",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "x4.13X Minion damage",
+  "Vending Machine goodies / Notes": "Must upgrade to progress in Realm. End-game oriented",
+  "_images": [
+   "VendingItem14.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Vending Machine",
+  "_table": 13,
+  "Vending Machine goodies / Upgrade_2": "Jawbreaker",
+  "Vending Machine goodies / Effect": "Increases chain lv chance by +(lvl * 1.4)% outside realm",
+  "Vending Machine goodies / Levels at which upgrades turn NaN": "+43.6% Chain Lv. chance",
+  "Vending Machine goodies / Notes": "Bonus diminishes based on level",
+  "_images": [
+   "VendingItem15.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Pumpkin",
+  "Fruit list / Effect": "Minion Cost Reduction",
+  "Fruit list / Low Value": "10%",
+  "Fruit list / Mid Value": "25%",
+  "Fruit list / Max Value": "50%",
+  "Fruit list / Slots": "All",
+  "_images": [
+   "CornucopiaFruit0.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Strawberry",
+  "Fruit list / Effect": "Total Minion Dmg",
+  "Fruit list / Low Value": "10%",
+  "Fruit list / Mid Value": "25%",
+  "Fruit list / Max Value": "60%",
+  "Fruit list / Slots": "All",
+  "_images": [
+   "CornucopiaFruit1.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Avocado",
+  "Fruit list / Effect": "Enlightenment Spirals",
+  "Fruit list / Low Value": "15%",
+  "Fruit list / Mid Value": "30%",
+  "Fruit list / Max Value": "60%",
+  "Fruit list / Slots": "All",
+  "_images": [
+   "CornucopiaFruit2.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Cherry",
+  "Fruit list / Effect": "Double Blessing Chance",
+  "Fruit list / Low Value": "8%",
+  "Fruit list / Mid Value": "15%",
+  "Fruit list / Max Value": "30%",
+  "Fruit list / Slots": "All",
+  "_images": [
+   "CornucopiaFruit3.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Lemon",
+  "Fruit list / Effect": "Coins",
+  "Fruit list / Low Value": "25%",
+  "Fruit list / Mid Value": "60%",
+  "Fruit list / Max Value": "150%",
+  "Fruit list / Slots": "2 - 3 - 4 - 5 - 6 - 7",
+  "_images": [
+   "CornucopiaFruit4.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Watermelon",
+  "Fruit list / Effect": "Bonus from Blessings",
+  "Fruit list / Low Value": "10%",
+  "Fruit list / Mid Value": "25%",
+  "Fruit list / Max Value": "60%",
+  "Fruit list / Slots": "2 - 3 - 4 - 5 - 6 - 7",
+  "_images": [
+   "CornucopiaFruit5.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Coconut",
+  "Fruit list / Effect": "Vending Cost Reduction",
+  "Fruit list / Low Value": "5%",
+  "Fruit list / Mid Value": "10%",
+  "Fruit list / Max Value": "20%",
+  "Fruit list / Slots": "3 - 4 - 5 - 6 - 7",
+  "_images": [
+   "CornucopiaFruit6.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Limona Lime",
+  "Fruit list / Effect": "Minion AFK Attack Speed",
+  "Fruit list / Low Value": "5%",
+  "Fruit list / Mid Value": "10%",
+  "Fruit list / Max Value": "20%",
+  "Fruit list / Slots": "3 - 4 - 5 - 6 - 7",
+  "_images": [
+   "CornucopiaFruit7.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Bluenana",
+  "Fruit list / Effect": "Faster Orb Charging",
+  "Fruit list / Low Value": "10%",
+  "Fruit list / Mid Value": "20%",
+  "Fruit list / Max Value": "40%",
+  "Fruit list / Slots": "3 - 4 - 5 - 6 - 7",
+  "_images": [
+   "CornucopiaFruit8.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Sour Grapes",
+  "Fruit list / Effect": "Field Growth Speed",
+  "Fruit list / Low Value": "20%",
+  "Fruit list / Mid Value": "50%",
+  "Fruit list / Max Value": "125%",
+  "Fruit list / Slots": "4 - 5 - 6 - 7",
+  "_images": [
+   "CornucopiaFruit9.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Granny Smith",
+  "Fruit list / Effect": "Cash Outside Realm",
+  "Fruit list / Low Value": "100%",
+  "Fruit list / Mid Value": "200%",
+  "Fruit list / Max Value": "400%",
+  "Fruit list / Slots": "4 - 5 - 6 - 7",
+  "_images": [
+   "CornucopiaFruit10.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Golden Apple",
+  "Fruit list / Effect": "Coins Per Realm Level",
+  "Fruit list / Low Value": "2%",
+  "Fruit list / Mid Value": "5%",
+  "Fruit list / Max Value": "10%",
+  "Fruit list / Slots": "5 - 6 - 7",
+  "_images": [
+   "CornucopiaFruit11.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Orange",
+  "Fruit list / Effect": "Minion Damage Per Ice Cream",
+  "Fruit list / Low Value": "5%",
+  "Fruit list / Mid Value": "10%",
+  "Fruit list / Max Value": "30%",
+  "Fruit list / Slots": "5 - 6 - 7",
+  "_images": [
+   "CornucopiaFruit12.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Wine Grapes",
+  "Fruit list / Effect": "Away Gains for Realm",
+  "Fruit list / Low Value": "5%",
+  "Fruit list / Mid Value": "10%",
+  "Fruit list / Max Value": "25%",
+  "Fruit list / Slots": "5 - 6 - 7",
+  "_images": [
+   "CornucopiaFruit13.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Pineapple",
+  "Fruit list / Effect": "Fight Damage Outside Realm",
+  "Fruit list / Low Value": "150%",
+  "Fruit list / Mid Value": "250%",
+  "Fruit list / Max Value": "500%",
+  "Fruit list / Slots": "6 - 7",
+  "_images": [
+   "CornucopiaFruit14.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Banana",
+  "Fruit list / Effect": "Away Gains Outside Realm",
+  "Fruit list / Low Value": "3%",
+  "Fruit list / Mid Value": "5%",
+  "Fruit list / Max Value": "10%",
+  "Fruit list / Slots": "6 - 7",
+  "_images": [
+   "CornucopiaFruit15.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Apple",
+  "Fruit list / Effect": "Minion 2x Level Chance",
+  "Fruit list / Low Value": "10%",
+  "Fruit list / Mid Value": "20%",
+  "Fruit list / Max Value": "40%",
+  "Fruit list / Slots": 7,
+  "_images": [
+   "CornucopiaFruit16.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Fruits",
+  "_table": 14,
+  "Fruit list / Fruit_2": "Kiwi Fruit",
+  "Fruit list / Effect": "All Fruit Bonuses",
+  "Fruit list / Low Value": "10%",
+  "Fruit list / Mid Value": "15%",
+  "Fruit list / Max Value": "30%",
+  "Fruit list / Slots": 7,
+  "_images": [
+   "CornucopiaFruit17.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 15,
+  "Orb Tower powers / Energy Cost": 5,
+  "Orb Tower powers / Effect": "Fires a laser, which deals 10 Blue Dmg for 10 sec (higher damage per Expansion)",
+  "Orb Tower powers / Note": "Deals damage 10 times",
+  "Orb Tower powers / Expansion": 1
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 15,
+  "Orb Tower powers / Energy Cost": 15,
+  "Orb Tower powers / Effect": "All Minions gain a random trait",
+  "Orb Tower powers / Note": "More details below",
+  "Orb Tower powers / Expansion": 2
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 15,
+  "Orb Tower powers / Energy Cost": 25,
+  "Orb Tower powers / Effect": "The next minion you banish will give you Realm EXP without being deleted",
+  "Orb Tower powers / Expansion": 3
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 15,
+  "Orb Tower powers / Energy Cost": 40,
+  "Orb Tower powers / Effect": "Get back all coins you have spent since entering",
+  "Orb Tower powers / Expansion": 4
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 15,
+  "Orb Tower powers / Energy Cost": 50,
+  "Orb Tower powers / Effect": "+10% bonus to all coin gain permanent",
+  "Orb Tower powers / Note": "Can be used infinite times. Only affects Realm",
+  "Orb Tower powers / Expansion": 5
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 15,
+  "Orb Tower powers / Energy Cost": 75,
+  "Orb Tower powers / Effect": "+10% bonus to all damage permanently",
+  "Orb Tower powers / Note": "Can be used infinite times. Only affects Realm",
+  "Orb Tower powers / Expansion": 6
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 16,
+  "Expansion costs / Expansion": 1,
+  "Expansion costs / Cost": 10,
+  "Expansion costs / Laser Damage": 22
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 16,
+  "Expansion costs / Expansion": 2,
+  "Expansion costs / Cost": 40,
+  "Expansion costs / Laser Damage": 62
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 16,
+  "Expansion costs / Expansion": 3,
+  "Expansion costs / Cost": 120,
+  "Expansion costs / Laser Damage": "?"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 16,
+  "Expansion costs / Expansion": 4,
+  "Expansion costs / Cost": 126,
+  "Expansion costs / Laser Damage": 207
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 16,
+  "Expansion costs / Expansion": 5,
+  "Expansion costs / Cost": 326,
+  "Expansion costs / Laser Damage": 810
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 16,
+  "Expansion costs / Expansion": 6,
+  "Expansion costs / Cost": 800,
+  "Expansion costs / Laser Damage": 3625
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 16,
+  "Expansion costs / Expansion": 7,
+  "Expansion costs / Cost": 1923,
+  "Expansion costs / Laser Damage": 22059
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Flesh Wound",
+  "Traits given by the Orb Tower / Description": "Increases total damage by +30%",
+  "Traits given by the Orb Tower / Chance": "16%",
+  "Traits given by the Orb Tower / Priority": "Reroll",
+  "_images": [
+   "Trait1.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Riftseeker",
+  "Traits given by the Orb Tower / Description": "Increases Realm Exp gained when banishing minions by +150%",
+  "Traits given by the Orb Tower / Chance": "16%",
+  "Traits given by the Orb Tower / Priority": "Best early-game Trait to help you reach Realm Lv20",
+  "_images": [
+   "Trait22.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Powerful Fist",
+  "Traits given by the Orb Tower / Description": "Increases base damage by +100 per 5 Realm Lv",
+  "Traits given by the Orb Tower / Chance": "16%",
+  "Traits given by the Orb Tower / Priority": "Reroll",
+  "_images": [
+   "Trait13.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Clenched Fist",
+  "Traits given by the Orb Tower / Description": "Increases base damage by +2500",
+  "Traits given by the Orb Tower / Chance": "16%",
+  "Traits given by the Orb Tower / Priority": "Best early-game Trait until you can get Riftseeker",
+  "_images": [
+   "Trait11.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Targeter",
+  "Traits given by the Orb Tower / Description": "Increases crit chance by +25%",
+  "Traits given by the Orb Tower / Chance": "16%",
+  "Traits given by the Orb Tower / Priority": "Reroll",
+  "_images": [
+   "Trait5.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Double Stab",
+  "Traits given by the Orb Tower / Description": "Increases multihit chance by +35%",
+  "Traits given by the Orb Tower / Chance": "5%",
+  "Traits given by the Orb Tower / Priority": "Reroll",
+  "_images": [
+   "Trait33.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Critipow",
+  "Traits given by the Orb Tower / Description": "+5% Crit DMG for all minions per 100 total minion Lv",
+  "Traits given by the Orb Tower / Chance": "4%",
+  "Traits given by the Orb Tower / Priority": "Good end-game Trait once Coins are not an issue anymore. Reroll at early-game",
+  "_images": [
+   "Trait20.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Righteous Fist",
+  "Traits given by the Orb Tower / Description": "Increases base damage by +100 for all minions",
+  "Traits given by the Orb Tower / Chance": "3%",
+  "Traits given by the Orb Tower / Priority": "Reroll",
+  "_images": [
+   "Trait12.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Quickstab",
+  "Traits given by the Orb Tower / Description": "Increases attack speed by +50%",
+  "Traits given by the Orb Tower / Chance": "3%",
+  "Traits given by the Orb Tower / Priority": "Reroll",
+  "_images": [
+   "Trait14.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Make It Rain",
+  "Traits given by the Orb Tower / Description": "Increases all coin gain by +150% from all sources",
+  "Traits given by the Orb Tower / Chance": "2%",
+  "Traits given by the Orb Tower / Priority": "3rd best Coin gain Trait. Can settle for it if you ran out of Energy",
+  "_images": [
+   "Trait8.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Coin Pressing",
+  "Traits given by the Orb Tower / Description": "Generates coins every minute",
+  "Traits given by the Orb Tower / Chance": "0.8%",
+  "Traits given by the Orb Tower / Priority": "Better than reroll Traits",
+  "_images": [
+   "Trait7.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Holy Roller",
+  "Traits given by the Orb Tower / Description": "Get +1 blessing reroll every time you kill a boss",
+  "Traits given by the Orb Tower / Chance": "0.7%",
+  "Traits given by the Orb Tower / Priority": "Good end-game Trait once Coins are not an issue anymore",
+  "_images": [
+   "Trait42.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Gold Bless",
+  "Traits given by the Orb Tower / Description": "Increases all coin gain by +250% per blessing you have the most of",
+  "Traits given by the Orb Tower / Chance": "0.6%",
+  "Traits given by the Orb Tower / Priority": "1st best Coin gain Trait. Mid-game must have",
+  "_images": [
+   "Trait39.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Tax Collector",
+  "Traits given by the Orb Tower / Description": "Increases all coin gain by +50% per unique minion type in barn",
+  "Traits given by the Orb Tower / Chance": "0.5%",
+  "Traits given by the Orb Tower / Priority": "2nd best Coin gain Trait. Can settle for it if you ran out of Energy",
+  "_images": [
+   "Trait32.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Smart Money",
+  "Traits given by the Orb Tower / Description": "Increases all coin gain by +40% per 5 Realm Lv",
+  "Traits given by the Orb Tower / Chance": "0.4%",
+  "Traits given by the Orb Tower / Priority": "4th best Coin gain Trait. Can settle for it if you ran out of Energy",
+  "_images": [
+   "Trait31.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Orb Tower",
+  "_table": 17,
+  "Traits given by the Orb Tower / Trait_2": "Harvester",
+  "Traits given by the Orb Tower / Description": "When turning in resources gain +100% more food bundles",
+  "Traits given by the Orb Tower / Chance": "???",
+  "Traits given by the Orb Tower / Priority": "Useful for getting new fruits, can settle for it if you run out of energy.",
+  "_images": [
+   "Trait30.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Penny Thought",
+  "Blessings list / Effect": "+10% coins from all sources",
+  "Blessings list / Dharma level": 0,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "C Afterlife.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Dime Decisive",
+  "Blessings list / Effect": "+25% coins from all sources",
+  "Blessings list / Dharma level": 8,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "R Afterlife.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Banked Bygone",
+  "Blessings list / Effect": "+50% coins from all sources",
+  "Blessings list / Dharma level": 16,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "Z Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Che Cheapo",
+  "Blessings list / Effect": "-2% minion upgrade cost for all minions",
+  "Blessings list / Dharma level": 0,
+  "Blessings list / Pick": "No",
+  "Blessings list / Note": "Negative impact on damage.",
+  "_images": [
+   "D Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Vendorama",
+  "Blessings list / Effect": "-5% Vending Machine costs",
+  "Blessings list / Dharma level": 10,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "T Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Nickel back",
+  "Blessings list / Effect": "+2% Cashback on all purchases",
+  "Blessings list / Dharma level": 2,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "L Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Pigglio",
+  "Blessings list / Effect": "+15% Total Damage for all Pig Type Minions",
+  "Blessings list / Dharma level": 0,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "I Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Rockiko",
+  "Blessings list / Effect": "+15% Total Damage for all Rock Type Minions",
+  "Blessings list / Dharma level": 1,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "K Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Eggyolko",
+  "Blessings list / Effect": "+15% Total Damage for all Egg Type Minions",
+  "Blessings list / Dharma level": 4,
+  "Blessings list / Pick": "No",
+  "Blessings list / Note": "Eggs don't do damage silly.",
+  "_images": [
+   "N Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Spawnisho",
+  "Blessings list / Effect": "+15% Total Damage for all Spawn Type Minions",
+  "Blessings list / Dharma level": 9,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "S Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Little Damage",
+  "Blessings list / Effect": "+5% total minion damage for all minions",
+  "Blessings list / Dharma level": 0,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "A Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Mega Damage",
+  "Blessings list / Effect": "+10% total minion damage for all minions",
+  "Blessings list / Dharma level": 3,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "M Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Eternal Damage",
+  "Blessings list / Effect": "+20% total minion damage for all minions",
+  "Blessings list / Dharma level": 14,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "X Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Crimsonile",
+  "Blessings list / Effect": "+10% Red Damage from all minions",
+  "Blessings list / Dharma level": 0,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "H Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Refractile",
+  "Blessings list / Effect": "+10% Damage of all colours except red",
+  "Blessings list / Dharma level": 11,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "U Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Fasting",
+  "Blessings list / Effect": "+2% attack speed for all attacking minions",
+  "Blessings list / Dharma level": 0,
+  "Blessings list / Pick": "No",
+  "Blessings list / Note": "Causes great lag once you progress further. Use minions that you can banish if you want attack speed.",
+  "_images": [
+   "E Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Criticle",
+  "Blessings list / Effect": "+1% Crit Chance for all minions",
+  "Blessings list / Dharma level": 0,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "G Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Countinion",
+  "Blessings list / Effect": "+1 unique minion count for Minion Traits",
+  "Blessings list / Dharma level": 0,
+  "Blessings list / Pick": "Yes",
+  "Blessings list / Note": "Great for unique Minion traits, and also for Realm Trophies",
+  "_images": [
+   "J Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Intellingo",
+  "Blessings list / Effect": "10% Realm EXP from banishing",
+  "Blessings list / Dharma level": 0,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "F Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Chagrin",
+  "Blessings list / Effect": "+3 Max Energy cap for orb tower",
+  "Blessings list / Dharma level": 0,
+  "Blessings list / Pick": "-",
+  "Blessings list / Note": "Why? 3 is nothing.",
+  "_images": [
+   "B Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Barno",
+  "Blessings list / Effect": "+1 Barn Slot",
+  "Blessings list / Dharma level": 6,
+  "Blessings list / Pick": "-",
+  "Blessings list / Note": "If you have not unlocked many from vending machine sure.",
+  "_images": [
+   "P Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Enlightenment",
+  "Blessings list / Effect": "+15% Enlightenment spiritals when resetting",
+  "Blessings list / Dharma level": 7,
+  "Blessings list / Pick": "-",
+  "Blessings list / Note": "You absolutely want this when you still have upgrades left in shrine, after this just ignore.",
+  "_images": [
+   "Q Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Retrigger",
+  "Blessings list / Effect": "+10% chance to retrigger away time after arrival",
+  "Blessings list / Dharma level": 15,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "Y Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Randomizer",
+  "Blessings list / Effect": "Instantly get 2 random blessings",
+  "Blessings list / Dharma level": 5,
+  "Blessings list / Pick": "No",
+  "Blessings list / Note": "Could give you negative impact blessings.",
+  "_images": [
+   "O Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Randomegazer",
+  "Blessings list / Effect": "Instantly get 4 random blessings",
+  "Blessings list / Dharma level": 12,
+  "Blessings list / Pick": "No",
+  "Blessings list / Note": "Could give you negative impact blessings.",
+  "_images": [
+   "V Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "Superblesser",
+  "Blessings list / Effect": "1.1x higher bonus from all +% blessings",
+  "Blessings list / Dharma level": 13,
+  "Blessings list / Pick": "Yes",
+  "_images": [
+   "W Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Blessings",
+  "_table": 18,
+  "Blessings list / Name_2": "One For All",
+  "Blessings list / Effect": "Instantly get +1 of every type of blessing you have",
+  "Blessings list / Dharma level": 17,
+  "Blessings list / Pick": "Yes",
+  "Blessings list / Note": "Once you have collected blessings that you want re-roll for this every time.",
+  "_images": [
+   "A Realm.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Upgrades",
+  "_table": 19,
+  "Shrine upgrades / Name_2": "Dharma",
+  "Shrine upgrades / Effect": "+lvl blessing types to get after a boss kill. You start with 10 types.",
+  "Shrine upgrades / Effect at max level": 17,
+  "Shrine upgrades / Effect at max level_raw": "+17",
+  "Shrine upgrades / Final upgrade cost": "1M",
+  "_images": [
+   "Dharma.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Upgrades",
+  "_table": 19,
+  "Shrine upgrades / Name_2": "Bhakti",
+  "Shrine upgrades / Effect": "+1 +(lvl * 0.01)x higher fight damage inside and outside of Realm for each upgrade of this",
+  "Shrine upgrades / Effect at max level": "x2",
+  "Shrine upgrades / Final upgrade cost": "34T",
+  "_images": [
+   "Bhakti.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Upgrades",
+  "_table": 19,
+  "Shrine upgrades / Name_2": "Carnate",
+  "Shrine upgrades / Effect": "+lvl barn slots to store minions in",
+  "Shrine upgrades / Effect at max level": 16,
+  "Shrine upgrades / Effect at max level_raw": "+16",
+  "Shrine upgrades / Final upgrade cost": "40K",
+  "_images": [
+   "Carnate.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Upgrades",
+  "_table": 19,
+  "Shrine upgrades / Name_2": "Ahisma",
+  "Shrine upgrades / Effect": "+lvl total rerolls per run. Total rerolls come back every time you do a Shrine Reset",
+  "Shrine upgrades / Effect at max level": 20,
+  "Shrine upgrades / Effect at max level_raw": "+20",
+  "Shrine upgrades / Final upgrade cost": "22K",
+  "_images": [
+   "Ahisma.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Upgrades",
+  "_table": 19,
+  "Shrine upgrades / Name_2": "Taoism",
+  "Shrine upgrades / Effect": "When low on coins lvl% chance to get a major refund of the coins you just spent",
+  "Shrine upgrades / Effect at max level": "60%",
+  "Shrine upgrades / Final upgrade cost": "10M",
+  "_images": [
+   "Taoism.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Upgrades",
+  "_table": 19,
+  "Shrine upgrades / Name_2": "Sahaja",
+  "Shrine upgrades / Effect": "+lvl% Chain LV chance outside of Realm. Also +lvl% Realm coins per afterlife reached",
+  "Shrine upgrades / Effect at max level": "+40%",
+  "Shrine upgrades / Final upgrade cost": "65M",
+  "_images": [
+   "Sahaja.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Upgrades",
+  "_table": 19,
+  "Shrine upgrades / Name_2": "Moksha",
+  "Shrine upgrades / Effect": "+(lvl *5)% Field growth rate so you can max out all those field talents",
+  "Shrine upgrades / Effect at max level": "+500%",
+  "Shrine upgrades / Final upgrade cost": "978B",
+  "_images": [
+   "Muksha.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Upgrades",
+  "_table": 19,
+  "Shrine upgrades / Name_2": "Nirvana",
+  "Shrine upgrades / Effect": "+lvl% away gains for all skills per 10 Realm LV",
+  "Shrine upgrades / Effect at max level": "+50%",
+  "Shrine upgrades / Final upgrade cost": "50B",
+  "_images": [
+   "Nirvana.png"
+  ]
+ },
+ {
+  "_page": "Realm",
+  "_section": "Plots",
+  "_table": 20,
+  "Plot list / Plot": 1,
+  "Plot list / Name": "Full Blossom",
+  "Plot list / Effect": "+(lvl * ?)% blossoms from minons (Passive Trait)",
+  "Plot list / Effect at Lv12": "+276B%"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Plots",
+  "_table": 20,
+  "Plot list / Plot": 2,
+  "Plot list / Name": "Smol Savings",
+  "Plot list / Effect": "-(lvl * ?)% Minion Upgrade Cost for all minions",
+  "Plot list / Effect at Lv12": "-29.1%"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Plots",
+  "_table": 20,
+  "Plot list / Plot": 3,
+  "Plot list / Name": "Juiced Fruit",
+  "Plot list / Effect": "All fruit bonuses are +(lvl * ?) larger (Passive Trait)",
+  "Plot list / Effect at Lv12": "+133%"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Plots",
+  "_table": 20,
+  "Plot list / Plot": 4,
+  "Plot list / Name": "Cash Genesis",
+  "Plot list / Effect": "+(lvl *?)% Chance to produce 2x coins",
+  "Plot list / Effect at Lv12": "+96%"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Plots",
+  "_table": 20,
+  "Plot list / Plot": 5,
+  "Plot list / Name": "Spare Charge",
+  "Plot list / Effect": "Charges the Orbs Energy by (lvl * 0.1) every hour",
+  "Plot list / Effect at Lv12": 1.2
+ },
+ {
+  "_page": "Realm",
+  "_section": "Plots",
+  "_table": 20,
+  "Plot list / Plot": 6,
+  "Plot list / Cost": "164M",
+  "Plot list / Name": "Level Cash",
+  "Plot list / Effect": "Increases coin gain by +(lvl * ?)% per 100 Lv of this Minion",
+  "Plot list / Effect at Lv12": "+648%"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Plots",
+  "_table": 20,
+  "Plot list / Plot": 7,
+  "Plot list / Cost": "5.7B",
+  "Plot list / Name": "Level Slash",
+  "Plot list / Effect": "+(lvl * ?)% Total damage per 100 upg lvs of this minion",
+  "Plot list / Effect at Lv12": "+648%"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Plots",
+  "_table": 20,
+  "Plot list / Plot": 8,
+  "Plot list / Cost": "210B",
+  "Plot list / Name": "Aferlife Slam",
+  "Plot list / Effect": "+(afterlife * ?)% Total damage for all minions per best afterlife",
+  "Plot list / Effect at Lv12": "+648%"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Upgrade chance",
+  "_table": 21,
+  "Plot upgrade chance": "Plot Lv",
+  "Plot upgrade chance_2": 1,
+  "Plot upgrade chance_3": 2,
+  "Plot upgrade chance_4": 3,
+  "Plot upgrade chance_5": 4,
+  "Plot upgrade chance_6": 5,
+  "Plot upgrade chance_7": 6,
+  "Plot upgrade chance_8": 7,
+  "Plot upgrade chance_9": 8,
+  "Plot upgrade chance_10": 9,
+  "Plot upgrade chance_11": 10,
+  "Plot upgrade chance_12": 11
+ },
+ {
+  "_page": "Realm",
+  "_section": "Upgrade chance",
+  "_table": 21,
+  "Plot upgrade chance": "Chance to upgrade",
+  "Plot upgrade chance_2": "1/4",
+  "Plot upgrade chance_3": "1/5",
+  "Plot upgrade chance_4": "1/7",
+  "Plot upgrade chance_5": "1/11",
+  "Plot upgrade chance_6": "1/17",
+  "Plot upgrade chance_7": "1/27",
+  "Plot upgrade chance_8": "1/44",
+  "Plot upgrade chance_9": "1/72",
+  "Plot upgrade chance_10": "1/121",
+  "Plot upgrade chance_11": "1/205",
+  "Plot upgrade chance_12": "1/345"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Tap the boss 10 times to get some coins"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Buy a pig from the portal. Scroll right to do it"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Defeat the Toxic Sludge boss"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Upgrade the pig minion twice"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Click the pigs coin trait to read what it does"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Level up to Realm Lv2 by banishing some minions"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Mutate the pig minion by upgrading it 10 times"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Defeat the Crude Oil Snail"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Defeat the Crying Candle to unlock vending machine"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Evolve a rock to Mountain to deal orange damage"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Upgrade Wheat Chew in vending machine"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Upgrade Choccy Coin in vending machine"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Defeat the Slumbering Pillow to unlock Cornucopia"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Get 100 silver coins. 1 Silver is worth 1000 copper"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Get 100 gold coins"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Get 100 dollar bills"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Get 100 red dollar bills"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Get 100 blue dollar bills"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Reach Realm Lv10 by banishing more minions"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Turn in 4 resource bundles at Cornucopia"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Unlock 2nd fruit slot in the Cornucopia"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Evolve a Egg into Lil Chicken for yellow damage"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Defeat the Twisted Shark to unlock orb tower"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Mutate the same minion two times"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Have 15 unique minion types in the barn"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Fire the orb laser to deal blue damage"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Have 40 unique minion types in the barn"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Trophy Case",
+  "_table": 22,
+  "Requirement": "Have 60 unique minion types in the barn"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Crystal Eye Shop",
+  "_table": 23,
+  "Crystal Eye Shop / Name": "Barn Egg",
+  "Crystal Eye Shop / Effect": "A little egg that permanently gives +4 Barn Slots.",
+  "Crystal Eye Shop / Price": "200 + (30? * lvl)"
+ },
+ {
+  "_page": "Realm",
+  "_section": "Crystal Eye Shop",
+  "_table": 23,
+  "Crystal Eye Shop / Name": "Damage+",
+  "Crystal Eye Shop / Effect": "Multiplies all minion damage by 1.3x. (limit of 15)",
+  "Crystal Eye Shop / Price": 235
+ },
+ {
+  "_page": "Realm",
+  "_section": "Crystal Eye Shop",
+  "_table": 23,
+  "Crystal Eye Shop / Name": "Cash+",
+  "Crystal Eye Shop / Effect": "Multiplies all realm coin gain by 1.3x. (limit of 15)",
+  "Crystal Eye Shop / Price": 190
+ },
+ {
+  "_page": "Realm",
+  "_section": "Crystal Eye Shop",
+  "_table": 23,
+  "Crystal Eye Shop / Name": "1 Hour",
+  "Crystal Eye Shop / Effect": "Instantly gives you 1 hour of progress",
+  "Crystal Eye Shop / Price": 45
+ },
+ {
+  "_page": "Realm",
+  "_section": "Crystal Eye Shop",
+  "_table": 23,
+  "Crystal Eye Shop / Name": "Rare Shiny",
+  "Crystal Eye Shop / Effect": "Summons a permanent shiny minion with an ultra powerful trait that boosts all minions",
+  "Crystal Eye Shop / Price": 575
+ },
+ {
+  "_page": "Realm",
+  "_section": "Crystal Eye Shop",
+  "_table": 23,
+  "Crystal Eye Shop / Name": "N Hours",
+  "Crystal Eye Shop / Effect": "Instantly gives you a random amount of hours of progress. Max is 100 hours, average is 8.",
+  "Crystal Eye Shop / Price": 135
+ },
+ {
+  "_page": "Realm",
+  "_section": "Crystal Eye Shop",
+  "_table": 23,
+  "Crystal Eye Shop / Name": "Rerolls",
+  "Crystal Eye Shop / Effect": "Gives you 15 free rerolls at the cornucopia for new fruit or better bonuses",
+  "Crystal Eye Shop / Price": 280
+ }
+]

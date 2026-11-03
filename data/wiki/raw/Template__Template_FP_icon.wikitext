@@ -1,0 +1,1 @@
+<includeonly><div style="display:inline-block; vertical-align: bottom; margin: 2px; text-align:center;">[[File:{{{1}}}|{{{size|64px}}}|link={{{2}}}|{{{2}}}]]<br>{{#ifeq:{{#pos:{{lc:{{{2|}}}}}|http}}|0|[{{{2}}}]|[[{{{2}}}]]}}</div></includeonly><noinclude>{{clear}}{{doc}}

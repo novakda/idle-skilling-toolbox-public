@@ -1,0 +1,742 @@
+__TOC__
+Gems are a currency in game which you can purchase for real life money and are used to buy various different items, services, and permanent bonuses.
+{| class="article-table" border="1" align="center"
+|-
+! scope="col" colspan="2" style="text-align: center;"|Package
+! scope="col"|Gems Purchased
+! scope="col"|USD Cost
+|-
+|[[File:Pile_of_gems.png|95px]]
+| style="text-align: center;"|Pile of Gems
+| style="text-align: center;"|200
+| style="text-align: center;"|$2
+|-
+|[[File:Sack_of_gems.png|95px]]
+| style="text-align: center;"|Sack of Gems
+| style="text-align: center;"|600
+| style="text-align: center;"|$5
+|-
+|[[File:Chest_of_gems.png|95px]]
+| style="text-align: center;"|Chest of Gems
+| style="text-align: center;"|1500
+| style="text-align: center;"|$10
+|-
+|[[File:Mountain_of_gems.png|95px]]
+| style="text-align: center;"|Mountain of Gems
+| style="text-align: center;"|4000
+| style="text-align: center;"|$20
+|}
+==Free Gems==
+===Media===
+The quickest and easiest way to earn up to 60 gems is by clicking on LavaFlame2's [https://www.youtube.com/channel/UCtgk0UuGVav22eiWmSALS8g Youtube], [https://discordapp.com/invite/YkcmBxb Discord], and [https://twitter.com/lavaflame2 Twitter ]links on the "Buy Gems" page.
+
+===[[Raids]]/[[Asylum]]===
+Once you've unlocked the second [[Contracts|Contract]] shop, it's possible to buy a +2% chance per level (up to 20%) for a gem to drop in any Raid/Asylum encounter. With 12 tickets earned daily, this averages out to 2.4 gems per day, or 4.8 gems with a maxed out Counterfeit Tickets AP perk.
+===[[Events]]===
+Seasonal events award some amount of Gems after spending event currency gained by farming monsters. The [[Events|Lunar]] and [[Events#Christmas Event|Christmas]] event has a chance to earn both small and large sums of gems, whereas the [[Events#Spooktober Event|Spooktober]] and [[Events#Thxgiving Event|Thxgiving]] events had stores that sold small guaranteed amounts of gems.
+===Gem Portal===
+The Gem Portal is a special Rift in [[Summoning]] that can be activated once for 500 Gems. While not exactly "free", the Gem Portal acts as an investment that returns a net gain of 1,000 Gems.
+===Pachinko [[Arcade]]===
+One can earn free Gems through the Arcade rewards, earning small amounts of Gems. If one is lucky to get the Gem Jackpot from the Arcade, they instantly get 2000 gems and the procession of balls can get you more gems.
+
+[3.10] You also can get playing cards in Pachinko to boost gem count. Suits are Stars, Diamonds, Hearts, and Spades. Getting a 5-card Poker hand can get you at least 5 gems for a High Card hand (called trash in-game), but getting a Royal Straight Flush gets you 50 thousand. This has a cooldown of 22 hours.
+
+===Hoop Challenge===
+Through the [[Secrets#Hoop_Challenge|Hoop Challenge Secret]] recently added to the game, a person can earn Gems according to their performance up to a maximum of 50 per day.
+
+=== [[Crypt]] ===
+This zone may be accessed anytime after you unlock Bog for a duration of 60 seconds but is locked afterward and reopens after a one day cooldown period. You can get rewards such as gem and other stuff.
+
+===[[Rebirth]]===
+Your First 3 rebirths give you 150, 100, and 50 gems for your 1st, 2nd, and 3rd rebirth respectively.
+
+===[[Research]]===
+The second Yellow Tank's first perk sometimes gives gems when it levels up.
+
+===Purchase Guide===
+This is simply a rough idea of what's best, it does not mean you have to get the best things first and none of the other things until the best things are maxed out.
+
+<div class="mw-collapsible mw-collapsed" style="width:100%;background-color:rgba(0,0,0,0.1);" data-expandtext="Show Guide" data-collapsetext="Hide Guide">&nbsp;
+<div class="mw-collapsible-content" style="">
+Here are the priorities for gem purchases:
+
+0 - Godly Potions - Ignore this if you don’t have a crazy amount of gems to spend. If you are P2W, godly potion coupons are the best way to get strong fast, giving crazy boosts that are completely beyond reach for a new player, with the downside of being RNG reliant. Press the odds button in the gem menu for odds.
+
+1 - Infinity Forge - Best gem purchase straight up, not having to worry about forge recharge time is amazing. <br />2 - Gem Rift - Invest 500 gems to get 1500 gems, 1000 gem profit, easy buy. <br />3 - Shiny Vat - Research is really good, and shiny vat's initial bonuses are really good. Can be upgraded further, but gets less efficient the higher you upgrade it, I would recommend not upgrading it much at all unless you have most other gem purchases. <br />4 - Star Card slots - Cards are amazingly versatile and provide huge boosts to almost every part of the game. <br />5 - Double AP - AP is always super good. Get 2-4 of them if possible, but one or two will be just fine. <br />6 - Golden Nest - Getting new pets gets very hard, this makes it easier. <br />7 - Arcane Carpet - Trekking genes and combos are really good, and this double dips on value and number .<br />8 - Eternity Cauldron - When you reach farming, you will want at least one of these for the 30% chance to double brew, and for the x4 speed to discover new potions and brew ones you have. <br />9 - Double BP - Obviously only once you have access to rebirth. Get one or two, after that it gets less efficient. <br />10 - Crystals - Crystals are really good, but getting the optimal setup with crystals costs thousands of gems, so with a budget purchase one set of Supreme crystals, then Premium crystals, then 3 slots for apothecary. Repeat this order until you have 6 of each crystal purchase and all apothecary/mining slots and you’ll have the optimal setup. For a more budget option just buy a few of everything. <br />11 - Mystical Tiller - Pretty simple, more crops, and crops are the biggest hurdle for potion-making. <br />12 - Friendly Mushrooms - Flowers aren't that hard to obtain compared to crops, so I don't recommend getting more than a couple of these. <br />13 - Scavenger’s Wit - Asylum shrines are really good, so boosting your trace gain is also really good. <br />14 - Hyper Spiriting - More souls, more rift levels, more goodness. It can help you get over the initial hurdle of getting enough blue/purple/white to unlock new rifts. <br />15 - Overclocked Glyphs - Very cheap for a decent boost, pretty gem efficient. <br />16 - Overlord Miners - Ore gain is really good, the reason this is so low on the list is that compared to the highest mining kit, overlord miners are only about a 30% increase, for 420 gems. That's not very gem efficient. <br />17 - Second Necklace Slot - Only good once you get crusading/tinkering high enough to have two good necklaces.
+
+QOL
+#Pet Slots - you need a lotta pets get em good
+Anything not on this list is probably not worth getting unless you have an obscene amount of gems.
+</div>
+</div>
+
+
+==Gem Shop Items==
+
+===General===
+{| class="article-table" style="width: 100%;" border="1"
+|-
+! scope="col" colspan="2" style="text-align: center;"|Item
+! scope="col" |Description
+! scope="col" |Gem Cost
+! scope="col" |Max. Amount
+|-
+|[[File:Shop_random_time_candy.png|80px|center]]
+|Time Candy
+|Get one random Time Candy
+<br>Time Candy is used to gain instant progress in a single area of your choice
+
+Some Candies are rarer than others
+|50
+|∞
+|-
+|[[File:Shop_vault_pass.png|80px|center]]
+|Vault Pass
+|Instantly refresh the timer on the Vault
+<br>Player must have the Vault unlocked to purchase this
+
+(note: not available during events)
+|25
+|∞
+|-
+|[[File:Shop_raid_tickets.png|80px|center]]
+|Raid Tickets
+|3 Raid Tickets used to fight Raid bosses
+<br>Raids are unlocked after killing the first Keymaster
+
+(note: not available during events)
+|25
+|∞
+|-
+|[[File:Shop_overlord.png|80px|center]]
+|Overlord Miner
+|Overlord Miners are twice as fast and mine twice as much ore forever
+<br>This purchase gives you a single Overlord Miner
+|75
+|6
+|-
+|[[File:Shop_infinity_forge.png|80px|center]]
+|Infinity Forge
+|Buy this once and you'll never run out of Forge uses again
+<br>Also doubles all future smithing EXP
+|200
+|1
+|-
+|[[File:Shop_funny_hat.png|80px|center]]
+|Funny Hat
+|Buy this hat and you will fish twice as fast and earn twice as much fishing EXP
+<br>Each additional purchase doubles both bonuses again
+|100
+|∞
+|}
+
+===Time Candy===
+Time candy is used to gain instant progress in any single area. When buying candy, there's a chance to receive 5 different flavors: 2 hours, 4 hours, 8 hours, 24 hours, and 72 hours.
+It always costs 50 Gems to buy candy, but if you've earned Candy Coupons from Raid drops or the Candy Freebies AP Perk, then candy can be purchased freely without gems.
+{| class="article-table" style="width: 100%;" border="1"
+|-
+! colspan="2" scope="col" style="text-align: center;" |Candy
+! scope="col" |Flavortext
+! scope="col" |Roll
+! scope="col" |Chance
+|-
+|[[File:2hr_candy.png|60px|center]]
+|2 Hour
+| style="text-align: center;" | -
+|1 - 44
+|44%
+|-
+|[[File:4hr_candy.png|60px|center]]
+|4 Hour
+|Not too shabby
+|45 - 70
+|26%
+|-
+|[[File:8hr_candy.png|60px|center]]
+|8 Hour
+|Hey that's pretty good
+|71 - 88
+|18%
+|-
+|[[File:24hr_candy.png|60px|center]]
+|24 Hour
+|I don't quite believe it
+|89 - 96
+|8%
+|-
+|[[File:72hr_candy.png|60px|center]]
+|72 Hour
+|Ladies and gentlemen we have a winner
+|97 - 100
+|4%
+|}
+
+===Limbo===
+{| class="article-table" style="width: 100%;" border="1"
+|-
+! colspan="2" scope="col" style="text-align: center;" |Item
+! scope="col" |Description
+! scope="col" |Gem Cost
+! scope="col" |Max. Amount
+|-
+|[[File:Shop_2x_spirit.png|80px|center]]
+|2x Spirit EXP
+|Permanently gain twice as much spiriting EXP
+<br>Each additional purchase gives +100% more EXP
+|125
+|∞
+|-
+|[[File:Shop_2x_summon.png|80px|center]]
+|2x Summon EXP
+|Permanently gain twice as much Summoning EXP
+<br>Each additional purchase gives +100% more EXP
+|125
+|∞
+|-
+|[[File:Shop_double_ap.png|80px|center]]
+|2x AP
+|Permanently gain twice as much AP every ascension
+<br>Each additional purchase gives +100% more AP
+|100
+|∞
+|-
+|[[File:Shop_hyperspiriting.png|80px|center]]
+|Hyper Spirits
+|Hyper Skillers give twice the souls and are twice as lucky
+<br>This purchase gives both one Cultist and one Acolyte
+|70
+|8
+|-
+|[[File:Shop_overclocked.png|80px|center]]
+|Bonus Rift EXP
+|Glyphs are Rift EXP
+<br>Each purchase gives +50% more Rift EXP every rift cycle
+
+Affects all rifts
+|40
+|1000
+|-
+|[[File:Shop_gem_portal.png|80px|center]]
+|Gem Rift
+|Gives you 150 Gems every day for 10 days
+<br>That is a total of 1500 Gems
+|500
+|1
+|}
+
+===Cards===
+Card packs are opened from the "Packs" button on the Cards screen. It is possible for card packs to award duplicate cards of an equal or lower rarity to those already owned and will automatically convert them to star cards. However, if a monster card is awarded then it means it replaced the one you already had with a higher rarity.
+{| class="article-table" style="width: 100%;" border="1"
+|-
+! colspan="2" scope="col" style="text-align: center;" |Item
+! scope="col" |Description
+! scope="col" |Gem Cost
+! scope="col" |Max. Amount
+|-
+|[[File:Shop_card_slots.png|80px|center]]
+|Extra Card Slot
+|Opens up another slot for you to put Cards into
+<br>You can have up to 10 slots
+|100
+|10
+|-
+|[[File:Shop_star_cards.png|80px|center]]
+|Star Cards
+|This pack gives
+<br>12 Gray Stars
+<br>3 Green Stars
+<br>1 Blue Star
+
+Open this pack in the Card screen
+
+Stars are used to upgrade Cards
+|100
+|∞
+|-
+|[[File:Shop_star_cards+.png|80px|center]]
+|Star Cards+
+|This pack gives
+<br>7 Green Stars
+<br>2 Blue Stars
+<br>1 Purple Star
+<br>1 random Star, Blue or Orange
+
+Open this pack in the Card screen
+|250
+|∞
+|-
+|[[File:Shop_starter_pack.png|80px|center]]
+|Starter Pack
+|Gives 5 Cards
+<br>Cards are from zones 1 or 2 and can be up to Blue rarity
+
+Open this pack in the Card screen
+|75
+|∞
+|-
+|[[File:Shop_journerman_pack.png|80px|center]]
+|Journeyman Pack
+|Gives 5 Cards
+<br>Cards are from Zones 2 or 3 or 4 and can be up to Purple rarity with a minimum rarity of Green
+
+Chance for a Raid Boss Card
+|400
+|∞
+|-
+|[[File:Shop_legend_pack.png|80px|center]]
+|Legend Pack
+|Gives 5 Cards
+<br>Cards are from Zones 3 or 4 or 5 and can be up to Orange rarity with a minimum rarity of Blue
+
+Guaranteeed [sic] one Raid Boss Card
+|1000
+|∞
+|}
+
+===Farming===
+{| class="article-table" style="width: 100%;" border="1"
+|-
+! colspan="2" scope="col" style="text-align: center;" |Item
+! scope="col" |Description
+! scope="col" |Gem Cost
+! scope="col" |Max. Amount
+|-
+|[[File:Shop_mystical_tiller.png|80px|center]]
+|Mystical Tiller
+|Mystical Tillers work 2x as fast
+Harvest 2x the crops
+<br>And give a +25% crop bonus to all other Tillers
+|150
+|8
+|-
+|[[File:Shop_friendly_mushrooms.png|80px|center]]
+|Friendly Mushroom
+|These mushrooms will triple your flower growth speed
+
+Mama mia
+Thatsa fast
+|125
+|14
+|-
+|[[File:Shop_eternity_cauldron.png|80px|center]]
+|Eternal Cauldron
+|Eternal Cauldrons brew Potions 4x as fast and also have +50% chance to triple lvl up a potion when brewing
+|175
+|6
+|-
+|[[File:Shop_beginner_potions.png|80px|center]]
+|Beginner Potions
+|3 Coupons which give a random level 10 potion from Red to Yellow rarity
+<br>Gives +10 LVs if its a duplicate
+
+Redeem the Coupons in the potion page
+|150
+|∞
+|-
+|[[File:Shop_sovereign_potions.png|80px|center]]
+|Sovereign Potions
+|3 Coupons which give a random level 15 potion from Yellow to Cyan rarity
+<br>Gives +15 LVs if its a duplicate
+
+Redeem the Coupons in the potion page
+|375
+|∞
+|-
+|[[File:Shop_godly_potions.png|80px|center]]
+|Godly Potions
+|3 Coupons which give a random level 20 potion from Cyan to Godly rarity
+<br>Gives +20 LVs if its a duplicate
+
+Redeem the Coupons in the potion page
+|750
+|∞
+|}
+
+===Crusades===
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="2" style="text-align: center;" |Item
+!Description
+!Gem Cost
+!Max. Amount
+|-
+|[[File:Shop_misc_bundle.png|80px|center]]
+|Misc Bundle
+|3 Safety Charms
+3 Lucky Donuts
+<br>3 Crystal Genesis
+<br>3 Chaotic Mutators
+<br>3 Benign Mutators
+
+20% better value compared to buying each upgrade individually
+|600
+|∞
+|-
+|[[File:Shop_safety_charms.png|80px|center]]
+|Safety Charms
+|Pack of 5
+<br>Using these will prevent an upgrade slot from being used if a Booster fails
+|300
+|∞
+|-
+|[[File:Shop_lucky_donuts.png|80px|center]]
+|Lucky Donuts
+|Pack of 5
+<br>Using these gives your Booster a +15% chance to succeed
+
+Especially useful for the more powerful Boosters
+|250
+|∞
+|-
+|[[File:Shop_crystal_genesis.png|80px|center]]
+|Crystal Genesis
+|Pack of 5
+<br>Using these will double the bonus of the upgrade
+
+However Genesis only has a 50% chance to work
+|250
+|∞
+|-
+|[[File:Shop_chaotic_mutators.png|80px|center]]
+|Chaotic Mutators
+|Pack of 5
+<br>Using these will double the effect of your Mutator
+
+However these will also cut Booster success chance in half
+|200
+|∞
+|-
+|[[File:Shop_benign_mutators.png|80px|center]]
+|Benign Mutators
+|Pack of 5
+<br>Using these will prevent your Mutator from multiplying by a number less than one
+|200
+|∞
+|}
+
+=== Crusades ===
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="2" style="text-align: center;" |Item
+!Description
+!Gem Cost
+!Max. Amount
+|-
+|[[File:Shop_second_necklace.png|80px|center]]
+|Second Necklace
+|Unlocks the second slot for Necklaces
+<br>This allows you to equip two different necklaces at the same time
+|350
+|1
+|-
+|[[File:Shop_pillager_pack.png|80px|center]]
+|Pillager Pack
+|5 Crusade Cards
+<br>Can be from Crusade 1 to 6 and can be up to Blue Rarity
+
+There is a small chance for a Crusade Boss Card
+|350
+|∞
+|-
+|[[File:Shop_deus_vult_pack.png|80px|center]]
+|Deus Vult Pack
+|5 Crusade Cards
+<br>Can be from Crusade 4 to 10 and can be up to Orange rarity with a minimum of at least Blue rarity
+
+There is a good chance for a Crusade Boss Card
+|750
+|∞
+|-
+|[[File:Shop_card_deck.png|80px|center]]
+|Extra Card Deck
+<br>Extra Tinker Deck
+
+More Pet Inventory
+|1 additional deck to switch between and link to different screens (Extra Card Deck/Extra Tinker Deck)
+<br>5 additional spaces to store Pets in (More Pet Inventory)
+|150
+|∞
+|-
+|[[File:Shop_2x_crusade_exp.png|80px|center]]
+|2x Crusade EXP
+|Permanently gain twice as much Crusade EXP
+<br>Each additional purchase gives +100% more EXP
+|150
+|∞
+|-
+|[[File:Shop_2x_tinker_exp.png|80px|center]]
+|2x Tinkering EXP
+|Permanently gain twice as much Tinkering EXP
+<br>Each additional purchase gives +100% more EXP
+|150
+|∞
+|}
+
+===Rebirth===
+{| class="article-table" style="width: 100%;" border="1"
+|-
+! colspan="2" scope="col" style="text-align: center;" |Item
+! scope="col" |Description
+! scope="col" |Gem Cost
+! scope="col" |Max. Amount
+|-
+|[[File:Shop_crystal_slots.png|80px|center]]
+|Crystal Slots
+|Unlocks all 3 slots for one thing
+<br>Choose between Cauldron or Rock (Cauldron or Mining)
+|250
+|6 / 6
+|-
+|[[File:Shop_premium_crystals.png|80px|center]]
+|Premium Gems
+|1 Green Crystal
+1 Orange Crystal
+
+Green gives:
+<br>+100% EXP
+<br>+100% Production
+<br>+100% Double Chance
+
+Orange gives:
+<br>+20% boost to all other Crystals
+|175
+|∞
+|-
+|[[File:Shop_supreme_crystals.png|80px|center]]
+|Supreme Gems
+|1 Pink Crystal
+1 Black Crystal
+
+These affect all adjacent miners
+
+Pink gives:
+<br>+200% Cauldron speed
+<br>+200% Mining EXP
+
+Black gives:
+<br>-40% Potion cost
+<br>+200% Mining Ores
+|275
+|∞
+|-
+|[[File:Shop_double_bp.png|80px|center]]
+|2x BP
+|Permanently gain twice as much BP
+<br>Each additional purchase gives +100% more BP
+|350
+|5
+|-
+|[[File:Shop_extra_crystals.png|80px|center]]
+|Normal Gems
+|Includes
+1 Yellow
+<br>1 Red
+<br>1 Purple
+<br>1 Blue Crystal
+
+Just so you know
+<br>You can earn these for free by playing
+|100
+|∞
+|-
+|[[File:Shop_rebirth_scrolls.png|80px|center]]
+|Rebirth Coupons
+|3 coupons that give all unearned BP without needing to rebirth
+<br>Includes 1 bonus AP coupon
+
+Rebirth required to buy again
+|450
+|∞, but only 1 per Rebirth
+|}
+
+===Asylum===
+{| class="article-table" style="width: 100%;" border="1"
+|-
+! colspan="2" scope="col" style="text-align: center;" |Item
+! scope="col" |Description
+! scope="col" |Gem Cost
+! scope="col" |Max. Amount
+|-
+|[[File:Shop_asylum_keys.png|80px|center]]
+|Asylum Keys
+|5 Asylum Keys used to fight ASylum Bosses
+<br>To reach the Asylum you must defeat the Raid Demon Boss
+|55
+|∞
+|-
+|[[File:Shop_scavengers_wit.png|80px|center]]
+|Scavengers Wit
+|Permanently gain twice as many Shrine items
+<br>Each additional purchase gives another +100% bonus
+|325
+|7
+|-
+|[[File:Shop_pachinko_balls.png|80px|center]]
+|Pachinko Balls
+|100 balls to use in the Pachi Arcade
+<br>See a full list of possible prizes by going to the Arcade and clicking on the Stars
+|275
+|∞
+|-
+|[[File:Shop_trauma_pack.png|80px|center]]
+|Trauma Pack
+|Gives 5 Cards
+<br>Cards are from Zones 6 or 7 and can be up to Blue rarity
+
+Good chance for an Asylum Card up to low quality
+|300
+|∞
+|-
+|[[File:Shop_insanity_pack.png|80px|center]]
+|Insanity Pack
+|Gives 5 Cards
+<br>Cards are from Zones 7 or 8 and can be up to Purple rarity
+
+Great chance for an Asylum Card up to high quality
+|750
+|∞
+|-
+|[[File:Shop_psychosis_pac.png|80px|center]]
+|Psychosis Pack
+|Gives 5 Cards
+<br>You can get several Asylum Boss Cards in a single pack up to Orange rarity
+
+Guaranteed at least one Asylum Card up to best quality
+|1500
+|∞
+|}
+
+===[https://idle-skilling.fandom.com/wiki/Pets Pets]===
+{| class="article-table" style="width: 100%;" border="1"
+|-
+! scope="col" |Location Affected
+! colspan="2" scope="col" style="text-align: center;" |Item
+! scope="col" |Description
+! scope="col" |Gem Cost
+! scope="col" |Max. Amount
+|-
+|[https://idle-skilling.fandom.com/wiki/Hatchery Hatchery]
+|[[File:GemPurchase_GoldenNest.png|80px|center]]
+|Golden Nest
+|Golden Nests have:
+<br>4x faster hatching speed
+<br>3x chance to create rarer eggs
+<br>3x bonus to hatching new Pets
+|375
+|6
+|-
+|[https://idle-skilling.fandom.com/wiki/Trekking Trekking]
+|[[File:GemPurchase_AranceCarpet.png|80px|center]]
+|Arcane Carpet
+|Used by support Pets
+<br>The genetics of the pet on this carpet have 2x the effect and count for 2 in Trekking combos
+|525
+|4
+|-
+|[https://idle-skilling.fandom.com/wiki/Research Research]
+|[[File:GemPurchase_DiamondPiping.png|80px|center]]
+|Diamond Piping
+|Lets you change 1 piping into Diamond permanently
+<br>Diamond Pipes give the connected tank:
+
+4x RP gain
+<br>+200% for double LV
+<br>3x RP effect
+|225
+|45
+|-
+|[https://idle-skilling.fandom.com/wiki/Hatchery Hatchery]
+|[[File:GemPurchase_HyperEggCoupon.png|80px|center]]
+|Hyper Egg Coupon
+|Hyper Eggs have a chance to hatch an <span style="color:#00FF7B;">Exquisite Boss</span> Pet
+<br>Otherwise you get a 30% chance to hatch a new Pet
+
+Pets hatched always have high power
+|300
+|∞
+|-
+|[https://idle-skilling.fandom.com/wiki/Trekking Trekking]
+|[[File:GemPurchase_DoubleVessels.png|80px|center]]
+|2x Vessels
+|Permanently gain twice as many Veseels [sic] from Trekking
+<br>Each additional purchase gives +100% more Vessels
+|450
+|6
+|-
+|[https://idle-skilling.fandom.com/wiki/Research Research]
+|[[File:GemPurchase_ShinyVat.png|80px|center]]
+|Shiny Vat
+|Unlocks the Shiny Lab Vat which gives:
+<br>2x RP Gain Bonus
+<br>+50% 2x LV chance
+<br>+100% research EXP for all tanks
+
+Shiny Vat can be upgraded even more with Gems
+|675
+|1
+|}
+
+===Tunnels===
+{| class="article-table" style="width: 100%;" border="1"
+|-
+! colspan="2" scope="col" style="text-align: center;" |Item
+! scope="col" |Description
+! scope="col" |Gem Cost
+! scope="col" |Max. Amount
+|-
+|[[File:Shop_desolator.png|80px|center]]
+|Desolator Spelunker
+|These Spelunkers have:
+<br>5x Speed
+<br>4x Dig Down amount
+<br>+2 additional Treasure Bags every extraction
+|375
+|8
+|-
+|[[File:Shop_sentinel_canary.png|80px|center]]
+|Sentinel Canary
+|Each bird gives one Spelunker:
+<br>4x Learning Rate
+<br>Double Absorb Powers (You can Absorb twice instead of just once)
+|350
+|8
+|-
+|[[File:Shop_iodized_builder.png|80px|center]]
+|Iodized Builder
+|These Builders have: 
+<br>3x Building Speed
+<br>+10% speed every Construction level instead of +2%
+
+<span style="color:#00AAFF;">Also gives immediate access to the Builder
+|325
+|10
+|-
+|[[File:Shop_6_star_pack.png|80px|center]]
+|6-Star Pack
+|Gives 5 Cards all of 6 Star rarity
+
+
+These Cards can be from anywhere in the game
+
+(Tunnel Cards are more likely to be gotten)
+
+33% chance per pack to get a Raid/Asylum Boss
+|550
+|∞
+|-
+|[[File:Shop_fabled_potions.png|80px|center]]
+|Fabled Potions
+|3 Coupons which give a level 15 Potion randomly selected from the first 24 Darkmode Potions
+<br>Gives +15 LVs if the Potion is a duplicate
+<br><span style="color:#FF4444;">Must have Extended Brewing unlocked from Construction to buy</span>
+|525
+|∞
+|-
+|[[File:Shop_timeless_potions.png|80px|center]]
+|Timeless Potions
+|3 Coupons which give a level 20 Potion randomly selected from the last 24 Darkmode Potions
+<br>Gives +20 LVs if the Potion is a duplicate
+<br><span style="color:#FF4444;">Must have Extended Brewing unlocked from Construction to buy</span>
+|900
+|∞
+|}
+
+[[Category:Gem Shop]]

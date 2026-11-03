@@ -1,0 +1,417 @@
+[
+ {
+  "name": "Fairuse",
+  "params": [],
+  "categories": [
+   "Templates"
+  ]
+ },
+ {
+  "name": "Cc-by-sa-3.0",
+  "params": [
+   "1"
+  ],
+  "categories": [
+   "Templates"
+  ]
+ },
+ {
+  "name": "Documentation",
+  "params": [
+   "1"
+  ],
+  "categories": [
+   "Template documentation",
+   "Templates"
+  ]
+ },
+ {
+  "name": "!",
+  "params": [],
+  "categories": [
+   "Templates"
+  ]
+ },
+ {
+  "name": "CC-BY-SA",
+  "params": [],
+  "categories": [
+   "Templates"
+  ]
+ },
+ {
+  "name": "From Wikimedia",
+  "params": [],
+  "categories": [
+   "Templates"
+  ]
+ },
+ {
+  "name": "Delete",
+  "params": [
+   "bot",
+   "1"
+  ],
+  "categories": [
+   "Page management templates",
+   "Pages with script errors",
+   "Templates using docparam"
+  ]
+ },
+ {
+  "name": "Disambig",
+  "params": [],
+  "categories": [
+   "Templates"
+  ]
+ },
+ {
+  "name": "Infobox album",
+  "params": [],
+  "categories": [
+   "Albums",
+   "Templates",
+   "Templates/Infobox"
+  ]
+ },
+ {
+  "name": "!!",
+  "params": [],
+  "categories": [
+   "Templates"
+  ]
+ },
+ {
+  "name": "Header/Tunneling",
+  "params": [],
+  "categories": []
+ },
+ {
+  "name": "FP icon",
+  "params": [
+   "1",
+   "size",
+   "2"
+  ],
+  "categories": []
+ },
+ {
+  "name": "Clear",
+  "params": [
+   "1"
+  ],
+  "categories": []
+ },
+ {
+  "name": "Docparam",
+  "params": [
+   "req",
+   "default",
+   "default2",
+   "name",
+   "1",
+   "desc"
+  ],
+  "categories": [
+   "Templates using docparam"
+  ]
+ },
+ {
+  "name": "Color",
+  "params": [
+   "1",
+   "bg",
+   "2"
+  ],
+  "categories": [
+   "Formatting templates",
+   "Templates using docparam"
+  ]
+ },
+ {
+  "name": "Icon",
+  "params": [
+   "1",
+   "2",
+   "link",
+   "tooltip",
+   "class"
+  ],
+  "categories": [
+   "Image and media templates",
+   "Pages with broken file links"
+  ]
+ },
+ {
+  "name": "Abb",
+  "params": [
+   "1",
+   "abb",
+   "mode"
+  ],
+  "categories": [
+   "Abbreviation templates"
+  ]
+ },
+ {
+  "name": "Citation needed",
+  "params": [
+   "1"
+  ],
+  "categories": [
+   "Page management templates",
+   "Templates using docparam"
+  ]
+ },
+ {
+  "name": "PD",
+  "params": [],
+  "categories": [
+   "Templates"
+  ]
+ },
+ {
+  "name": "Permission",
+  "params": [],
+  "categories": [
+   "Templates"
+  ]
+ },
+ {
+  "name": "Self",
+  "params": [],
+  "categories": [
+   "Templates"
+  ]
+ },
+ {
+  "name": "T",
+  "params": [
+   "1",
+   "2",
+   "3",
+   "4",
+   "5",
+   "6",
+   "7",
+   "8",
+   "9",
+   "10",
+   "11",
+   "12",
+   "13",
+   "14",
+   "15",
+   "16",
+   "17",
+   "18",
+   "19",
+   "20",
+   "21"
+  ],
+  "categories": [
+   "Templates"
+  ]
+ },
+ {
+  "name": "T/piece",
+  "params": [
+   "1"
+  ],
+  "categories": [
+   "Templates"
+  ]
+ },
+ {
+  "name": "Other free",
+  "params": [],
+  "categories": [
+   "Templates"
+  ]
+ },
+ {
+  "name": "Infobox book",
+  "params": [],
+  "categories": [
+   "Books",
+   "Templates",
+   "Templates/Infobox"
+  ]
+ },
+ {
+  "name": "Infobox episode",
+  "params": [],
+  "categories": [
+   "Episodes",
+   "Templates",
+   "Templates/Infobox"
+  ]
+ },
+ {
+  "name": "Infobox item",
+  "params": [],
+  "categories": [
+   "Items",
+   "Templates",
+   "Templates/Infobox"
+  ]
+ },
+ {
+  "name": "Infobox quest",
+  "params": [],
+  "categories": [
+   "Quests",
+   "Templates",
+   "Templates/Infobox"
+  ]
+ },
+ {
+  "name": "Infobox location",
+  "params": [],
+  "categories": [
+   "Locations",
+   "Templates",
+   "Templates/Infobox"
+  ]
+ },
+ {
+  "name": "Infobox character",
+  "params": [],
+  "categories": [
+   "Characters",
+   "Templates",
+   "Templates/Infobox"
+  ]
+ },
+ {
+  "name": "Navbox",
+  "params": [
+   "header",
+   "body"
+  ],
+  "categories": [
+   "Templates",
+   "Templates/Navbox"
+  ]
+ },
+ {
+  "name": "Infobox event",
+  "params": [],
+  "categories": [
+   "Events",
+   "Templates",
+   "Templates/Infobox"
+  ]
+ },
+ {
+  "name": "Quote",
+  "params": [
+   "quote",
+   "1",
+   "speaker",
+   "2",
+   "source",
+   "3"
+  ],
+  "categories": [
+   "Templates",
+   "Templates/Quote"
+  ]
+ },
+ {
+  "name": "Monster",
+  "params": [
+   "Health2",
+   "MonsterName"
+  ],
+  "categories": [
+   "Templates"
+  ]
+ },
+ {
+  "name": "Main",
+  "params": [],
+  "categories": [
+   "Templates",
+   "Templates/Context-link"
+  ]
+ },
+ {
+  "name": "Spoilers",
+  "params": [],
+  "categories": []
+ },
+ {
+  "name": "Mbox",
+  "params": [
+   "color",
+   "Color",
+   "style",
+   "Style",
+   "image",
+   "align",
+   "header",
+   "Header",
+   "content",
+   "Content",
+   "note",
+   "Note"
+  ],
+  "categories": [
+   "Meta templates",
+   "Page management templates",
+   "Pages with script errors"
+  ]
+ },
+ {
+  "name": "Stub",
+  "params": [
+   "1",
+   "2"
+  ],
+  "categories": [
+   "Page management templates",
+   "Pages with script errors"
+  ]
+ },
+ {
+  "name": "Mbox management",
+  "params": [
+   "header",
+   "games",
+   "details",
+   "content",
+   "footer",
+   "image",
+   "color",
+   "category",
+   "sort key"
+  ],
+  "categories": [
+   "Page management templates",
+   "Pages with script errors",
+   "Templates using docparam"
+  ]
+ },
+ {
+  "name": "Tl",
+  "params": [
+   "1"
+  ],
+  "categories": [
+   "Formatting templates",
+   "Templates using docparam"
+  ]
+ },
+ {
+  "name": "StructuredQuote",
+  "params": [
+   "text",
+   "speaker",
+   "receiver",
+   "attribution",
+   "source"
+  ],
+  "categories": []
+ }
+]

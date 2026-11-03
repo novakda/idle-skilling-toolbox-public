@@ -1,0 +1,3 @@
+<onlyinclude><span class="va-color" style="color: {{{1}}};{{#if:{{{bg|}}}|background-color: {{{bg}}};}}">{{{2|text?}}}</span></onlyinclude>
+{{Documentation}}
+[[Category:Formatting templates]]

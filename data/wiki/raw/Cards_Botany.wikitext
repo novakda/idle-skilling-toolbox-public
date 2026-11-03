@@ -1,0 +1,181 @@
+<table-progress-tracking table-id="Botany1" unique-column-index="2">
+{{#if: {{{1|}}} | {{{!}} class="article-table mw-collapsible mw-collapsed" border="1" align="center"
+! colspan="8" {{!}} Botany Card List | {{{!}} class="listing sortable" style="width: 100%;" border="0" align="center"}}
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |Zone
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+|-
+|[[File:C_weeds.png|36px]]
+|Botany-1
+|Weeds
+|Botany EXP Gain
+|8%
+|40%
+|-
+|[[File:C_berries.png|36px]]
+|Botany-2
+|Berries
+|Botany Growth Speed
+|3%
+|15%
+|-
+|[[File:C_typha.png|36px]]
+|Botany-3
+|Typha
+|Overgrowth Flower Bonus for Green Flowers
+|5%
+|25%
+|-
+|[[File:C_flowers.png|36px]]
+|Botany-4
+|Flowers
+|Overgrowth EXP Bonus for Green Flowers
+|7%
+|35%
+|-
+|[[File:C_cactus.png|36px]]
+|Botany-5
+|Cactus
+|Overgrowth Exotic Bonus for Green Flowers
+|4%
+|20%
+|-
+|[[File:C_palm tree.png|36px]]
+|Botany-6
+|Palm Tree
+|Overgrowth Flower Bonus for Green Flowers
+|6%
+|30%
+|-
+|[[File:C_sapling.png|36px]]
+|Botany-7
+|Sapling
+|Botany Growth Speed
+|5%
+|25%
+|-
+|[[File:C_weeplings.png|36px]]
+|Botany-8
+|Weeplings
+|Overgrowth EXP Bonus for Green Flowers
+|7%
+|35%
+|-
+|[[File:C_saharn_foal.png|36px]]
+|Botany-9
+|Saharn Foal
+|Overgrowth Time Redux for All Flowers
+|5%
+|25%
+|-
+|[[File:C_mint_cane.png|36px]]
+|Botany-10
+|Mint Cane
+|Overgrowth Flower Bonus for Blue Flowers
+|6%
+|30%
+|-
+|[[File:C_crystals.png|36px]]
+|Botany-11
+|Crystals
+|Overgrowth Bonus Bonus for Blue Flowers
+|4%
+|20%
+|-
+|[[File:C_candypop.png|36px]]
+|Botany-12
+|Candypop
+|Botany Speed Upgrades
+|2
+|10
+|-
+|[[File:C_fyreling.png|36px]]
+|Botany-13
+|Fyreling
+|Botany EXP Gain
+|15%
+|75%
+|-
+|[[File:C_blood_tree.png|36px]]
+|Botany-14
+|Blood Tree
+|Overgrowth Flower Bonus for Red Flowers
+|7%
+|35%
+|-
+|[[File:C_mushroom_ingredient.png|36px]]
+|Botany-15
+|Mushroom
+|Overgrowth Exotic Bonus for Red Flowers
+|6%
+|30%
+|-
+|[[File:C_flesh_tree.png|36px]]
+|Botany-16
+|Flesh Tree
+|Botany Growth Speed
+|8%
+|40%
+|-
+|[[File:C_demonia.png|36px]]
+|Botany-17
+|Demonia
+|Botany Speed Upgrades
+|3
+|15
+|-
+|[[File:C_cursed_eye.png|36px]]
+|Botany-18
+|Cursed Eye
+|Overgrowth Flower Bonus for Red Flowers
+|8%
+|40%
+|-
+|[[File:C_veninsulic.png|36px]]
+|Botany-19
+|Veninsulic
+|Botany EXP Gains
+|25%
+|125%
+|-
+|[[File:C_lemming.png|36px]]
+|Botany-20
+|Lemming
+|Overgrowth Exotic Bonus for Gold Flowers
+|6%
+|30%
+|-
+|[[File:C_chlorine.png|36px]]
+|Botany-21
+|Chlorine
+|Botany Speed Upgrades
+|4
+|20
+|-
+|[[File:C_icecream.png|36px]]
+|Botany-22
+|Icecream
+|Overgrowth Flower Bonus for Gold Flowers
+|8%
+|40%
+|-
+|[[File:C_belldrop.png|36px]]
+|Botany-23
+|Belldrop
+|Botany Growth Speed
+|12%
+|60%
+|-
+|[[File:C_sunburst.png|36px]]
+|Botany-24
+|Sunburst
+|Overgrowth Time Redux for All Flowers
+|12%
+|60%
+|}
+</table-progress-tracking>
+[[Category:Cards]]

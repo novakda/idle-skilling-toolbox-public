@@ -1,0 +1,117 @@
+[
+ {
+  "_page": "Dairy Aisle",
+  "_section": "Orders",
+  "_table": 0,
+  "Mint Ice Cream: Bring this Ice Cream back and you will get a big reward. / Page": 2,
+  "Mint Ice Cream: Bring this Ice Cream back and you will get a big reward. / Requirement": "You need to accept this order and rebirth for getting ice cream. Reach Oblivion",
+  "Mint Ice Cream: Bring this Ice Cream back and you will get a big reward. / Damage Reduced To": "\\sqrt[3]{damage^{2}}",
+  "Reward": "Pet ID 39 can be hatched Access to 2 cosmic potions Access to 1 infinity perk"
+ },
+ {
+  "_page": "Dairy Aisle",
+  "_section": "Orders",
+  "_table": 1,
+  "Strawby Ice Cream: Bring this Ice Cream back and you will get a big reward. / Page": 3,
+  "Strawby Ice Cream: Bring this Ice Cream back and you will get a big reward. / Requirement": "You must fulfill the previous order to unlock this one. You need to accept this order and rebirth for getting ice cream. Reach Oblivion",
+  "Strawby Ice Cream: Bring this Ice Cream back and you will get a big reward. / Damage Reduced To": "\\sqrt[2]{damage}",
+  "Reward": "Pet ID 40 can be hatched Access to 2 cosmic potions Access to 1 infinity perk"
+ },
+ {
+  "_page": "Dairy Aisle",
+  "_section": "Orders",
+  "_table": 2,
+  "Rok Road Ice Cream: Bring this Ice Cream back and you will get a big reward. / Page": 4,
+  "Rok Road Ice Cream: Bring this Ice Cream back and you will get a big reward. / Requirement": "You must fulfill the previous order to unlock this one. You need to accept this order and rebirth for getting ice cream. Reach Oblivion",
+  "Rok Road Ice Cream: Bring this Ice Cream back and you will get a big reward. / Damage Reduced To": "\\sqrt[5]{damage^{2}}",
+  "Reward": "Pet ID 41 can be hatched Access to 2 cosmic potions Access to 1 infinity perk"
+ },
+ {
+  "_page": "Dairy Aisle",
+  "_section": "Orders",
+  "_table": 3,
+  "Rainbow Ice Cream: Bring this Ice Cream back and you will get a big reward. / Page": 5,
+  "Rainbow Ice Cream: Bring this Ice Cream back and you will get a big reward. / Requirement": "You must fulfill the previous order to unlock this one. You need to accept this order and rebirth for getting ice cream. Reach Oblivion",
+  "Rainbow Ice Cream: Bring this Ice Cream back and you will get a big reward. / Damage Reduced To": "\\sqrt[3]{damage}",
+  "Reward": "Pet ID 42 can be hatched Access to 2 cosmic potions Access to 1 infinity perk"
+ },
+ {
+  "_page": "Dairy Aisle",
+  "_section": "Orders",
+  "_table": 4,
+  "Chococo Ice Cream: Bring this Ice Cream back and you will get a big reward. / Page": 6,
+  "Chococo Ice Cream: Bring this Ice Cream back and you will get a big reward. / Requirement": "You must fulfill the previous order to unlock this one. You need to accept this order and rebirth for getting ice cream. Reach Oblivion",
+  "Chococo Ice Cream: Bring this Ice Cream back and you will get a big reward. / Damage Reduced To": "\\sqrt[7]{damage^{2}}",
+  "Reward": "Pet ID 43 can be hatched Access to 1 cosmic potions Access to 1 infinity perk"
+ },
+ {
+  "_page": "Dairy Aisle",
+  "_section": "Orders",
+  "_table": 5,
+  "Blubbery Ice Cream: Bring this Ice Cream back and you will get a big reward. / Page": 7,
+  "Blubbery Ice Cream: Bring this Ice Cream back and you will get a big reward. / Requirement": "You must fulfill the previous order to unlock this one. You need to accept this order and rebirth for getting ice cream. Reach Oblivion",
+  "Blubbery Ice Cream: Bring this Ice Cream back and you will get a big reward. / Damage Reduced To": "\\sqrt[4]{damage}",
+  "Reward": "Pet ID 44 can be hatched Access to 1 cosmic potions Access to 1 infinity perk"
+ },
+ {
+  "_page": "Dairy Aisle",
+  "_section": "Orders",
+  "_table": 6,
+  "Lava Ice Cream: Bring this Ice Cream back and you will get a big reward. / Page": 8,
+  "Lava Ice Cream: Bring this Ice Cream back and you will get a big reward. / Requirement": "You must fulfill the previous order to unlock this one. You need to accept this order and rebirth for getting ice cream. Reach Oblivion",
+  "Lava Ice Cream: Bring this Ice Cream back and you will get a big reward. / Damage Reduced To": "\\sqrt[9]{damage^{2}}",
+  "Reward": "Pet ID 45 can be hatched Access to last cosmic potion Access to last infinity perk"
+ },
+ {
+  "_page": "Dairy Aisle",
+  "_section": "Orders",
+  "_table": 7,
+  "Perfectionist: / Page": 9,
+  "Perfectionist: / Location": "in",
+  "Perfectionist: / Requirement": "Get an SSSS++ Rank on all 36 contracts",
+  "Reward": "+10 Levels to certain contract shop upgrades",
+  "_images": [
+   "Contracts icon.png",
+   "Limbo icon.png"
+  ]
+ },
+ {
+  "_page": "Dairy Aisle",
+  "_section": "Orders",
+  "_table": 8,
+  "Perkinator: / Page": 10,
+  "Perkinator: / Location": "in",
+  "Perkinator: / Requirement": "Upgrade all the rebirth perks to their max levels",
+  "Reward": "2 Infinity rebirth perks: Tribalism at its Finest, Possessed Pets",
+  "_images": [
+   "Rebirth icon.png",
+   "Portal icon.png"
+  ]
+ },
+ {
+  "_page": "Dairy Aisle",
+  "_section": "Orders",
+  "_table": 9,
+  "Beastmaster: / Page": 11,
+  "Beastmaster: / Location": "in",
+  "Beastmaster: / Requirement": "Discover all 60 different pet species",
+  "Reward": "3rd gene on all ground pets gives 2x for combos (Currently bugged, 1st gene gives +1 for combos)",
+  "_images": [
+   "Hatchery Icon.png",
+   "Pets Icon.png"
+  ]
+ },
+ {
+  "_page": "Dairy Aisle",
+  "_section": "Orders",
+  "_table": 10,
+  "Doctorate: / Page": 12,
+  "Doctorate: / Location": "in",
+  "Doctorate: / Requirement": "Level up all 135 tank bonuses to max level (there's no max level, but minimal level 1000)",
+  "Reward": "+15 Max MultiLvl Cap +200% Tank Exp 2x RP Gains",
+  "_images": [
+   "Research Icon.png",
+   "Pets Icon.png"
+  ]
+ }
+]

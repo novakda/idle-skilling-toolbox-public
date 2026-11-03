@@ -1,0 +1,75 @@
+{| class="listing sortable" border="0" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Warped_trinket.png|center]]
+| style="text-align: center;" |90
+|Warped Trinket
+| +35%
+| Damage
+|[[File:Warpium.png|center]]
+|[[File:Kraken.png|center|46px]]
+|-
+|[[File:Cuttokillicus.png|center]]
+| style="text-align: center;" |90
+|Cuttokillicus
+| +100
+| Base Damage per Mining Lv
+|[[File:Warpium.png|center]]
+|[[File:Demonite.png|center]]
+|-
+|[[File:Cyber_f_series.png|center]]
+| style="text-align: center;" |90
+|Cyber F Series
+| +0.25%
+| Shields Every Fishwich Bite (caps at 2500%)
+|[[File:Jumbo_shrimp.png|center|46px]]
+|[[File:Demonite.png|center]]
+|-
+|[[File:Lightning_larceny.png|center]]
+| style="text-align: center;" |90
+|Lightning Larceny
+| +40%
+| Cash from Enemies
+|[[File:Anodizia.png|center]]
+|[[File:Yellow_grouper.png|center|46px]]
+|-
+|[[File:Blinged_pickaxe.png|center]]
+| style="text-align: center;" |90
+|Blinged Pickaxe
+| +5%
+| Mining EXP
+|[[File:Warpium.png|center]]
+|[[File:Snail_fish.png|center]]
+|-
+|[[File:Bp_straight_up.png|center]]
+| style="text-align: center;" |90
+|BP Straight Up
+| +0.5%
+| BP when Ascending (caps at 1000)
+|[[File:Warpium.png|center]]
+|[[File:Kraken.png|center|46px]]
+|-
+|[[File:Tin_pail_tree.png|center]]
+| style="text-align: center;" |90
+|Tin Pail Tree
+| +5-10%
+| Botany Growth Speed (caps at 6000%)
+|[[File:Anodizia.png|center]]
+|[[File:Demonite.png|center]]
+|-
+|[[File:Crystal_supremacy.png|center]]
+| style="text-align: center;" |90
+|Crystal Supremacy
+| +0.1-0.4%
+| Crystal Bonus (Green, Orange, Purple) (caps at 20%)
+|[[File:Anodizia.png|center]]
+|[[File:Godshard.png|center]]
+|}
+
+[[Category:Smithing]]

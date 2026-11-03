@@ -1,0 +1,194 @@
+{{:Header/Crusades}}Crusades are unlocked after clearing [[Grasslands]] and is first accessed through the [[Portal]]. Afterwards, it can be permanently accessed any time from the top left menu.
+Crusades are an extension of [[Fight]]ing, but relies entirely on skills instead of idle attacks in order to progress. [[Ascension]] and [[Rebirth]] do not reset any progress or levels from Crusades.
+
+== Bosses ==
+Every Crusade encounter consists of 4 monsters and 1 boss, all of them having a chance to drop [[Cards]] and [[Tinkering]] materials. Once a Crusade is beaten, it may be exited which automatically increases its difficulty or it may be replayed again at the same difficulty for more loot and EXP. However, the difficulty can be changed at any time on the bottom left of the screen.
+
+There is no cost to attempt a Crusade, but it does decrease the [[Crusades#Fight Bonus|Fight Bonus]] at earning rewards from them. Fortunately, there's a Details pane displayed on every Crusade encounter difficulty, showing both the amount of HP that must be beaten and the amount of damage that must be survived. While it becomes harder to survive and healing is more limited in difficult encounters, the amount of rewards and Crusade EXP increases, making it a worthwhile tradeoff to push as far as possible. This is especially important for increasing the benefits gained by applying [[Crusades#Crusaders|Crusaders]] to idle Crusades.
+
+As Crusade level goes up, the more types of Crusade bosses become available.
+
+=== Grasslands (Lv. 1 - 14) ===
+{{:Crusades/Grasslands}}
+
+=== Desert (Lv. 15 - 39) ===
+{{:Crusades/Desert}}
+
+=== Mountains (Lv. 40 - 79) ===
+{{:Crusades/Mountains}}
+
+=== The Mist (Lv. 80 - 98) ===
+{{:Crusades/The_Mist}}
+
+=== Dungeon (Lv. 99) ===
+{{:Crusades/Dungeons}}
+
+=== [[Construction#Domains|Voyage Pact]] (Lv. 1) ===
+{{:Crusades/Voyage Pact}}
+
+=== Drops ===
+{| class="article-table" border="1" align="center"
+|-
+! rowspan="2" |Crusade<p style="text-align: center;">Level</p>
+! rowspan="2" scope="col" style="text-align: center;" |Boss
+! colspan="5" scope="col" style="text-align: center;" |Difficulty Level
+|-
+! colspan="2" style="text-align: center;"|1
+! style="text-align: center;"|7
+! style="text-align: center;"|17
+! style="text-align: center;"|27
+|-
+| style="text-align: center;"|1
+|[[File:The_bruiser.png|center|40px]]
+| style="background-color: gray" |[[File:Common1.png|center|32px]]
+| style="background-color: gray" |[[File:Common2.png|center|32px]]
+| style="background-color: gray" |[[File:Common11.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon1.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon10.png|center|32px]]
+|-
+| style="text-align: center;"|5
+|[[File:Toxic_sludge.png|center|40px]]
+| style="background-color: gray" |[[File:Common6.png|center|32px]]
+| style="background-color: gray" |[[File:Common12.png|center|32px]]
+| style="background-color: gray" |[[File:Common7.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon4.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon9.png|center|32px]]
+|-
+| style="text-align: center;" |10
+|[[File:Killer_rabbit.png|center|40px]]
+| style="background-color: gray" |[[File:Common4.png|center|32px]]
+| style="background-color: gray" |[[File:Common8.png|center|32px]]
+| style="background-color: gray" |[[File:Common14.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon7.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon5.png|center|32px]]
+|-
+| style="text-align: center;" |15
+|[[File:Desert_giant.png|center|40px]]
+| style="background-color: gray" |[[File:Common5.png|center|32px]]
+| style="background-color: gray" |[[File:Common3.png|center|32px]]
+| style="background-color: gray" |[[File:Common10.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare1.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare4.png|center|32px]]
+|-
+| style="text-align: center;" |20
+|[[File:Pincermin.png|center|40px]]
+| style="background-color: gray" |[[File:Common9.png|center|32px]]
+| style="background-color: gray" |[[File:Common13.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon3.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare11.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic1.png|center|32px]]
+|-
+| style="text-align: center;" |30
+|[[File:Desert_wurm.png|center|40px]]
+| style="background-color: gray" |[[File:Common15.png|center|32px]]
+| style="background-color: gray" |[[File:Common16.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon6.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon8.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic3.png|center|32px]]
+|-
+| style="text-align: center;" |40
+|[[File:Faust.png|center|40px]]
+| style="background-color: forestgreen" |[[File:Uncommon11.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon2.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare2.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic10.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic8.png|center|32px]]
+|-
+| style="text-align: center;" |50
+|[[File:Arachneon.png|center|40px]]
+| style="background-color: dodgerblue" |[[File:Rare7.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare5.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic2.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic5.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary9.png|center|32px]]
+|-
+| style="text-align: center;" |60
+|[[File:Gheist.png|center|40px]]
+| style="background-color: dodgerblue" |[[File:Rare6.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare8.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare10.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic9.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary1.png|center|32px]]
+|-
+| style="text-align: center;" |70
+|[[File:Basilisk.png|center|40px]]
+| style="background-color: dodgerblue" |[[File:Rare9.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare3.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic4.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary10.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary4.png|center|32px]]
+|-
+| style="text-align: center;" |80
+|[[File:Blobulytes.png|center|40px]]
+| style="background-color: blueviolet" |[[File:Epic6.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic11.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic7.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary5.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl2.png|center|32px]]
+|-
+| style="text-align: center;" |90
+|[[File:Puppeteer.png|center|40px]]
+| style="background-color: darkorange" |[[File:Legendary2.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary6.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary8.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl1.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl6.png|center|32px]]
+|-
+| style="text-align: center;" |99
+|[[File:Narcissus.png|center|40px]]
+| style="background-color: darkorange" |[[File:Legendary3.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary7.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl8.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl5.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl9.png|center|32px]]
+|-
+! colspan="2" |
+! style="text-align: center;" |1
+! style="text-align: center;" |8
+! style="text-align: center;" |15
+! style="text-align: center;" |30
+! style="text-align: center;" |40
+|-
+| style="text-align: center;" |120
+|[[File:Crusader crapotti.png|center|40px]]
+| style="background-color: forestgreen" |[[File:Uncommon12.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare12.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic12.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary11.png|center|32px]]
+| style="background-color: cyan" |[[File:Perarlescent7.png|center|32px]]
+|-
+! colspan="2" |
+! style="text-align: center;" |1
+! style="text-align: center;" |15
+! style="text-align: center;" |28
+! style="text-align: center;" |55
+! style="text-align: center;" |100
+|-
+| style="text-align: center;" |140
+|[[File:Crusader father of all.png|center|40px]]
+| style="background-color: dodgerblue" |[[File:Rare13.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic13.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary12.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearlescent8.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearlescent9.png|center|32px]]
+|}
+=== Fight Bonus ===
+Fight Bonus improves the card drop chance and amount of rewards obtained when a drop is looted in active Crusade encounters. Fight Bonus doesn't affect gains from idle Crusaders, nor does it decrease the chance that [[Tinkering]] materials will drop.
+
+Every 24 hours, it starts at 100% plus the amount awarded by "+% max Fight Bonus" [[Cards]] and "+% Fight Bonus" from [[Tinkering]] equipment. This percentage decreases by 1-4% with every Crusade attempt, down to a minimum of 0%. Crusades may still be fought indefinitely, regardless of the Fight Bonus percentage. At 0%, [[Cards]] will still drop, however at a reduced rate.
+
+For crafting material quantity, fight bonus cap at 10% minimum and 100% maximum. (not 100% sure)
+
+For card drop, fight bonus cap at 20% minimum and 100% maximum. (not 100% sure)
+
+== Crusaders ==
+Starting with 2, every new level adds an additional Crusader that can be used to fight Crusades offline. More idle Crusaders can be applied by equipping "+X Inactive Crusader" [[Cards]] and [[Tinkering]] equipment. Applied Crusaders will remain even after bonuses are unequipped.
+
+Each idle Crusader generates 12 victories per day (or 1 every 2 hours), which award resources and EXP from the selected boss difficulty. Applying more Crusaders additively increases the rate these rewards are obtained, and therefore award additional resources.
+
+== Cards ==
+<table-progress-tracking table-id="1" unique-column-index="2">
+{{:Cards/Crusades}}
+</table-progress-tracking>
+{{:Cards/Crusades_Rates}}
+[[Category:Crusades]]

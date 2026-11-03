@@ -1,0 +1,122 @@
+<mainpage-leftcolumn-start />
+<br style="clear: both;">
+<center style="font-family:rubik">'''Welcome to the'''</center>
+<center style="font-family:rubik"><span style="font-size: 36px; color: #006db1;text-transform:uppercase">'''{{SITENAME}}'''</span></center>
+<center style="font-family:rubik; color: #006db1">'''{{NUMBEROFARTICLES}} articles • {{NUMBEROFFILES}} files • {{NUMBEROFEDITS}} edits'''</center>
+
+<!-- Wiki/Game Description Module -->
+
+<div style="background:#0002;padding:1em;font-family:rubik;border-left:5px solid #006db1">
+<span style="font-size:24px;color:#006db1">'''ABOUT THE WIKI AND THE GAME'''</span><br>
+This is the wiki about the video game ''Idle Skilling'' that anybody can edit. It plans to document all of the content that can be found in the game.
+
+Idle Skilling is a free game developed by Lavaflame2 available [https://store.steampowered.com/app/1048370/Idle_Skilling/ on Steam], on the [https://play.google.com/store/apps/details?id=com.lavaflame.IdleSkilling Google Play Store], and [https://apps.apple.com/us/app/idle-skilling-rpg-tycoon/id1479807294 App Store]. 
+</div>
+
+<!-- Navigation Module -->
+
+<div style="background:#0002;padding:1em;font-family:rubik;border-left:5px solid #006db1">
+<span style="font-size:24px;color:#006db1">'''NAVIGATION'''</span><br>
+<div class="fpbox">
+<big><center>Main</center></big>
+<div style="padding-top: 10px; padding-left: 1em; text-align: center;">
+{{FP icon|Train_icon.png|Train}}
+{{FP icon|Fight icon.png|Fight}}
+{{FP icon|Perks icon.png|Perks}}
+{{FP icon|Cards icon.png|Cards}}
+</div></div>
+
+<div class="fpbox">
+<big><center>Crafting</center></big>
+<div style="padding-top: 10px; padding-left: 1em; text-align: center;">
+{{FP icon|Crafting_icon.png|Crafting}}
+{{FP icon|Mining icon.png|Mining}}
+{{FP icon|Smithing icon.png|Smithing}}
+{{FP icon|Fishing icon.png|Fishing}}
+</div></div>
+
+<div class="fpbox">
+<big><center>Limbo</center></big>
+<div style="padding-top: 10px; padding-left: 1em; text-align: center;">
+{{FP icon|Limbo_icon.png|Limbo}}
+{{FP icon|Spiriting_icon.png|Spiriting}}
+{{FP icon|Summoning_icon.png|Summoning}}
+{{FP icon|Contracts_icon.png|Contracts}}
+</div></div>
+
+<div class="fpbox">
+<big><center>Portal</center></big>
+<div style="padding-top: 10px; padding-left: 1em; text-align: center;">
+{{FP icon|Portal icon.png|Portal}}
+{{FP icon|Secrets icon.png|Secrets}}
+{{FP icon|Ascension_icon.png|Ascension}}
+{{FP icon|BP.png|Rebirth}}
+{{FP icon|Raids icon.png|Raids}}
+{{FP icon|Asylum_Icon.png|Asylum}}
+{{FP icon|DairyAisle_Icon.png|Dairy Aisle}}
+{{FP icon|LordsLair_Icon.png|Lord's Lair}}
+</div></div>
+
+<div class="fpbox">
+<big><center>Crusades</center></big>
+<div style="padding-top: 10px; padding-left: 1em; text-align: center;">
+{{FP icon|Crusades_icon.png|Crusades}}
+{{FP icon|Tinkering_icon.png|Tinkering}}
+{{FP icon|Boosters_icon.png|Boosters}}
+</div></div>
+
+<div class="fpbox">
+<big><center>Farming</center></big>
+<div style="padding-top: 10px; padding-left: 1em; text-align: center;">
+{{FP icon|Tilling_icon.png|Tilling}}
+{{FP icon|Brewing_icon.png|Apothecary}}
+{{FP icon|Farming_icon.png|Botany}}
+</div></div>
+
+<div class="fpbox">
+<big><center>Pets</center></big>
+<div style="padding-top: 10px; padding-left: 1em; text-align: center;">
+{{FP icon|Pets_Icon.png|Pets}}
+{{FP icon|Hatchery_Icon.png|Hatchery}}
+{{FP icon|Trekking_Icon.png|Trekking}}
+{{FP icon|Research_Icon.png|Research}}
+</div></div>
+
+<div class="fpbox">
+<big><center>Tunnels</center></big>
+<div style="padding-top: 10px; padding-left: 1em; text-align: center;">
+{{FP icon|Tunnels_Icon.png|Tunnels}}
+{{FP icon|Spelunking_Icon.png|Spelunking}}
+{{FP icon|Construction_Icon.png|Construction}}
+</div></div>
+
+<div class="fpbox">
+<big><center>Other</center></big>
+<div style="padding-top: 10px; padding-left: 1em; text-align: center;">
+{{FP icon|Gems_icon.png|Gem Shop}}
+{{FP icon|Lunar_event_icon.png|Events}}
+{{FP icon|Arcade_Icon.png|Arcade}}
+{{FP icon|Mastery_Icon.png|Mastery}}
+{{FP icon|Realm_Icon.png|Realm}}
+</div></div>
+</div>
+<br />
+<div style="background:#0002;padding:1em;font-family:rubik;border-left:5px solid #006db1">
+<span style="color:#006db1;font-weight:bold;font-family:rubik;font-size:20px;text-transform:uppercase">'''Discord/Community Links'''</span><br />
+Consider joining the Official Idle Skilling [https://discord.gg/dBHxNZbZ8N Discord]! You should also check out our [[Idle Skilling Wiki/Community Resources|Community Resources]] or get yourself familiar with our [[Idle Skilling Wiki:Content Guidelines|Rules]] and [[Idle Skilling Wiki:User Guidelines|Guidelines]]!
+</div>
+
+<mainpage-endcolumn />
+<mainpage-rightcolumn-start />
+
+<!-- Helpful links -->
+<div align="right" style="background:#0002;padding:20px 30px;border-right:5px solid #006db1">
+<span style="color:#006db1;font-weight:bold;font-family:rubik;font-size:20px;text-transform:uppercase">'''HELPFUL LINKS'''</span><br />
+*[[w:c:community:Help:Getting Started|Getting Started]]
+*[[w:c:community:Help:Contributing|How to Contribute]]
+*[[w:c:community:Help:Community Management|Managing your new community]]
+*[[w:c:community:Help:Contents|Guides]]
+*[[w:c:community:Help:Index|All Help articles]]
+</div>
+<mainpage-endcolumn />
+[[Category:{{SITENAME}}]]

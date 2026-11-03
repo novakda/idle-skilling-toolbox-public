@@ -1,0 +1,16 @@
+{| class="article-table" style="width: 100%;text-align:center;" border="1"
+|-
+! colspan="5" style="text-align: center;" | {{{1}}}
+|-
+! style="text-align: center;" | Support
+|[[File:Pet_{{{2}}}.png|32px]]<br>[[File:Genetic_{{{3}}}.png|18px]][[File:Genetic_{{{4}}}.png|18px]][[File:Genetic_{{{5}}}.png|18px]]
+|[[File:Pet_{{{6}}}.png|32px]]<br>[[File:Genetic_{{{7}}}.png|18px]][[File:Genetic_{{{8}}}.png|18px]][[File:Genetic_{{{9}}}.png|18px]]
+|[[File:Pet_{{{10}}}.png|32px]]<br>[[File:Genetic_{{{11}}}.png|18px]][[File:Genetic_{{{12}}}.png|18px]][[File:Genetic_{{{13}}}.png|18px]]
+|[[File:Pet_{{{14}}}.png|32px]]<br>[[File:Genetic_{{{15}}}.png|18px]][[File:Genetic_{{{16}}}.png|18px]][[File:Genetic_{{{17}}}.png|18px]]
+|-
+! style="text-align: center;" | Fighter
+|[[File:Pet_{{{18}}}.png|32px]]<br>[[File:Genetic_{{{19}}}.png|18px]][[File:Genetic_{{{20}}}.png|18px]][[File:Genetic_{{{21}}}.png|18px]]
+|[[File:Pet_{{{22}}}.png|32px]]<br>[[File:Genetic_{{{23}}}.png|18px]][[File:Genetic_{{{24}}}.png|18px]][[File:Genetic_{{{25}}}.png|18px]]
+|[[File:Pet_{{{26}}}.png|32px]]<br>[[File:Genetic_{{{27}}}.png|18px]][[File:Genetic_{{{28}}}.png|18px]][[File:Genetic_{{{29}}}.png|18px]]
+|[[File:Pet_{{{30}}}.png|32px]]<br>[[File:Genetic_{{{31}}}.png|18px]][[File:Genetic_{{{32}}}.png|18px]][[File:Genetic_{{{33}}}.png|18px]]
+|}

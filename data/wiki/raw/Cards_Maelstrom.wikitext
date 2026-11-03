@@ -1,0 +1,187 @@
+<table-progress-tracking table-id="Maelstrom1" unique-column-index="2">
+{| class="listing sortable" style="width: 100%;" border="0" align="center"
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |Zone
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+|-
+|[[File:Card_Maelstrom-01.png|36px]]
+|Maelstrom-1
+|Honky
+|Botany growth speed
+|7%
+|35%
+|-
+|[[File:Card_Maelstrom-02.png|36px]]
+|Maelstrom-2
+|Peepo
+|Accuracy
+|30%
+|600%
+|-
+|[[File:Card_Maelstrom-03.png|36px]]
+|Maelstrom-3
+|A of Sparks
+|Crusade Reward
+|10%
+|200%
+|-
+|[[File:Card_Maelstrom-04.png|36px]]
+|Maelstrom-4
+|Emmental
+|Rift EXP
+|30%
+|600%
+|-
+|[[File:Card_Maelstrom-05.png|36px]]
+|Maelstrom-5
+|Zaposi
+|Fishes Caught
+|40%
+|800%
+|-
+|[[File:Card_Maelstrom-06.png|36px]]
+|Maelstrom-6
+|Cheezers
+|Monster Cash (passive)
+|5%
+|25%
+|-
+|[[File:Card_Maelstrom-07.png|36px]]
+|Maelstrom-7
+|Stroganovski
+|Raid Drop Luck (passive)
+|5%
+|25%
+|-
+|[[File:Card_Maelstrom-08.png|36px]]
+|Maelstrom-8
+|Emigi
+|Total Damage (passive)
+|5%
+|25%
+|-
+|[[File:Card_Maelstrom-09.png|36px]]
+|Maelstrom-9
+|Forpaque
+|Fishes Caught (passive)
+|5%
+|25%
+|-
+|[[File:Card_Maelstrom-10.png|36px]]
+|Maelstrom-10
+|Clodd
+|Monster Cash (passive)
+|6%
+|30%
+|-
+|[[File:Card_Maelstrom-11.png|36px]]
+|Maelstrom-11
+|Shtok
+|Total Damage (passive)
+|6%
+|30%
+|-
+|[[File:Card_Maelstrom-12.png|36px]]
+|Maelstrom-12
+|Sparky Bob
+|More Asylum Keys (passive)
+|6%
+|30%
+|-
+|[[File:Card_Maelstrom-13.png|36px]]
+|Maelstrom-13
+|Coulombs
+|Raid Drop Luck (passive)
+|6%
+|30%
+|-
+|[[File:Card_Maelstrom-14.png|36px]]
+|Maelstrom-14
+|Anodesia
+|Monster Cash (passive)
+|7%
+|35%
+|-
+|[[File:Card_Maelstrom-15.png|36px]]
+|Maelstrom-15
+|Judiciar
+|Fishes Caught (passive)
+|7%
+|35%
+|-
+|[[File:Card_Maelstrom-16.png|36px]]
+|Maelstrom-16
+|Tubro
+|Total Damage (passive)
+|7%
+|35%
+|-
+|[[File:Card_Maelstrom-17.png|36px]]
+|Maelstrom-17
+|Novastrike
+|Pachinko Balls (passive)*
+|2%
+|10%
+|-
+|[[File:Card_Maelstrom-18.png|36px]]
+|Maelstrom-18
+|Firechad
+|Monster Cash (passive)
+|8%
+|40%
+|-
+|[[File:Card_Maelstrom-19.png|36px]]
+|Maelstrom-19
+|Trombain
+|Fishes Caught (passive)
+|8%
+|40%
+|-
+|[[File:Card_Maelstrom-20.png|36px]]
+|Maelstrom-20
+|Occulaxe
+|Raid Drop Luck (passive)
+|8%
+|40%
+|-
+|[[File:Card_Maelstrom-21.png|36px]]
+|Maelstrom-21
+|Tz Tok Zuk
+|Ores from Mining (passive)
+|3%
+|15%
+|-
+|[[File:Card_Maelstrom-22.png|36px]]
+|Maelstrom-22
+|Cauteriz
+|Botany speed upgrades
+|<nowiki>+6</nowiki>
+| +30
+|-
+|[[File:Card_Maelstrom-23.png|36px]]
+|Maelstrom-23
+|Disciple O
+|Total Damage
+|20%
+|100%
+|-
+|[[File:Card_Maelstrom-24.png|36px]]
+|Maelstrom-24
+|Keymaster O
+|More Kills
+|10%
+|50%
+|-
+|[[File:Card_Maelstrom-25.png|36px]]
+|Maelstrom-25+
+|Glitch
+|Ores and Fish
+|15%
+|75%
+|}
+</table-progress-tracking>
+[[Category:Cards]]

@@ -1,0 +1,74 @@
+{| class="listing sortable" border="0" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Godly_trinket.png|center]]
+| style="text-align: center;" |70
+|Godly Trinket
+| +15%
+| Damage
+|[[File:Godshard.png|center]]
+|[[File:Manta_ray.png|center|46px]]
+|-
+|[[File:Galaxial_slasher.png|center]]
+| style="text-align: center;" |70
+|Galaxial Slasher
+| +1000
+| Base Damage
+|[[File:Godshard.png|center]]
+|[[File:Kraken.png|center|46px]]
+|-
+|[[File:Bonus_reset_ap.png|center]]
+| style="text-align: center;" |70
+|Bonus Reset AP
+| +2%
+| AP on Ascension
+|[[File:Godshard.png|center]]
+|[[File:Demonite.png|center]]
+|-
+|[[File:Quantum_profits.png|center]]
+| style="text-align: center;" |70
+|Quantum Profits
+| +2500
+| Cash every Minute
+|[[File:Godshard.png|center]]
+|[[File:Hammerhead_shark.png|center]]
+|-
+|[[File:Universal_exp.png|center]]
+| style="text-align: center;" |70
+|Universal EXP
+| +0.8%
+| EXP Gain Chance
+|[[File:Godshard.png|center]]
+|[[File:Giant_sea_serpent.png|center|46px]]
+|-
+|[[File:Aortic_affinity.png|center]]
+| style="text-align: center;" |70
+|Aortic Affinity
+| +1000
+| Base Max. HP
+|[[File:Demonite.png|center]]
+|[[File:Jumbo_shrimp.png|center|46px]]
+|-
+|[[File:Hyper_fishing.png|center]]
+| style="text-align: center;" |70
+|Hyper Fishing
+| +20%
+| Fish per Catch
+|[[File:Kraken.png|center|46px]]
+|[[File:Godshard.png|center]]
+|-
+|[[File:Dimension_hoppers.png|center]]
+| style="text-align: center;" |70
+|Dimension Hoppers
+| +4%
+| Idle Attack Speed
+|[[File:Godshard.png|center]]
+|[[File:Jumbo_shrimp.png|center|46px]]
+|}
+[[Category:Smithing]]

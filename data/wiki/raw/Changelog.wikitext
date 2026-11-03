@@ -1,0 +1,108 @@
+__TOC__
+
+
+
+==Version 3.15 -- Trekking Zone 4 and some More==
+*Trekking Zone 4
+** Another 45 new monsters to fight in Trekking, along with a new background theme!
+**Available after reaching the end of The Beach
+*Arcade Addition
+** Collect cards occasionally, and get gems depending on how good your cards are!
+** There will be a limit of 1 reward per day as to not put too much emphasis on this -- it's just a little side fun thing
+** 5 new Arcade Tasks to complete via the buttons in the Top-Right corner 
+*Super Rare Boss Pets
+** Two pets will be added to the drop-table of all raid and asylum bosses, but will be exceedingly rare!
+*New Arcade event (Fall Season)
+** Gold Ball prices will be reset, and two new gold ball purchases will be added temporarily
+** This "Fall Season" Event will have 3 event-exclusive cards!
+** Some previous event cards can also be earned when upgrading the two Event gold ball purchases
+*Adjustments (Buffs/Nerfs)
+** Buff: Shrines will take considerably less Traces to level up beyond lv. 50
+** Nerf: Research Tanks that give +% Perk Points reduced
+
+== Version 3.10 -- Pets QoL and Trekking Zone 3==
+Trekking zone 3
+* This will bring 45 new monsters to tackle with your Trekking pet team, as well as a new background theme!
+* You'll need to have reached the end of the Jungle to access this (as you may already have guessed)
+Swapping Pets into empty spaces
+* This will let you swap pets into blank spaces in your codex! No more gaps in your army!
+"Red Glow Effect" bug with Pets
+* All pets that are "stuck" with a red glow effect behind them will become unstuck
+* Precautionary code will also be added to make sure this cant happen again
+Fighting card deck Link
+* The card deck link currently doesn't apply on your first visit to the Fighting zone, rendering it essentially useless. This will be fixed.
+Pet Power visibility
+* Pets will now show more digits under them. If you have a pet with say, 1533 power, it will show "1.53K" instead of just "1.5K". Helpful for breeding at certain points!
+Smithing overflow Fix
+* Displays now go up to 999QQ without overflowing
+* All overflow errors -- such as instadeath, broken fishing gains, etc -- will be fixed
+Eggshell buff
+* Trashing a rare pet gives all eggshells equal to and lower than its rarity  --> Bronze pets will give both bronze and grey eggshells!
+General Bug Fixes
+* Some Pet Passives weren't giving the proper bonus amount, and now they will
+* Eviscerate Tank will work!
+* The "oresome fishtastic" BP perk related tank in Research will now apply its bonus
+* SHINY VATS WILL BE RETURNED for those that have lost then via cloudsaving! Don't worry, youll get it back :smiley: And I will ensure that future cloud-loading wont lose them again!
+* Apothecary Brew Speed display cap raised to prevent display overflowing
+* The rebirth perk that boosts pet speed will actually work now
+* The first 2 blood tanks will now work fully
+--
+BALANCE CHANGES
+* Apothecary brew speed related Tanks have been nerfed slightly (theyre about 80% as good as they used to be)
+* Tank bonuses level up slightly slower (every 500 levels a bonus has, it'll be 100% harder to level up)
+* You are 1.5x more likely to hatch a 3-genetic pet (if you have above lv 40 hatchery) 
+* Raid Boss & Asylum Boss PETS will be 1.5x more common to get!
+* Vessel gain nerfed slightly, depending on what monster you are on (late-game monsters nerfed more than early game)
+
+==Version 3.00 -- PETS==
+'''NEW CONTENT'''
+
+Hatchery
+* Breed 60 pets by hatching Eggs made by breeding pets in Nests
+* Upgraded Nests for Value (egg rarity), Speed (egg creation time), and Size (max eggs stored). Upgrading costs Cash from Fighting, Vessels from Trekking, and Eggshells from Trashing pets
+* Find 26 different genetics across all pets (Genetics are Pet Abilities, like Healing/Damage/Lifesteal/Bonus loot etc)
+Trekking
+* Place up to 8 pets on the battlefield to fight enemies! 
+* Defeating enemies moves your pets forward to new, tougher enemies, spanning over 7 zones! 
+ (Only 2 Trekking zones will be available upon launch. 1 to 2 new zones will be added each following week until all 7 have been added)
+* 26 different genetics, all with 100% unique bonuses, from % crit chance to % evasions chance
+* ALL 26 genetics each have 3 combos! (Combos happen when you have 3/6/9 of the same genetic). Combos are also unique, and offer a HUGE array of possible pet team builds!
+Research
+* Upgrade 45 different Tanks, across 9 different coloured sets of 5 each
+* There are 135 bonuses in total to level up -- each tank has 3 bonuses (1 primary, 2 secondary)
+* Research new Structures for your Main Lab in order to boost Tank Upgrading!
+* Place pets into Capsules in order to level up their Passive Bonus
+* Each Pet Species (60 in all) has their own passive bonus to level up!
+Zone 10
+* 20+ new monsters -- Max HP of highest monster is far beyond what anyone can achieve at the moment!
+Crypt (aka Vault 2)
+* Daily run where monsters drop gems, pachi balls, and rare SUPER rewards like 72 hour candies, BP coupons, etc
+Last Rebirth perks / contracts
+* Rest of the Rebirth Perks -- the "pointless" one, and the final one at the top
+* Final 2 contracts in the Lavathian section & Contract Shop 5
+Dairy Aisle
+* SUPER end game content. Fulfill orders to unlock new content such as: new top tier items in old content, new top tier unlockables in new content
+* Wont say much more about this here, youll have to find out about it by playing!
+Infinite Perk Tree
+* 10 perks that can be upgraded forever! Their costs go up every level, and the last 5 are locked behind completing Dairy Aisle orders
+New Damage / Money tiers
+* 999QQ Nova dmg is now 1 solar damage 
+* Damage beyond 999QQ solar now translates to 1 "one star" solar damage.... beyond 999QQ "1 star" solar damage would thus be 1 "two star" solar damage
+* 999QQ Lava cash is now 1 Dimensional cash
+* Same thing as with solar damage --- Dimensional cash gets stars for every 999QQ tier you get
+(Confused about what this means? Dont worry, it is easy to understand in game, just hard to explain with words)
+
+'''CHANGES'''
+
+Smithing "breaking" streamlining
+* Materials owned display cap is now 99,999QQ
+* You can now craft 1000s of times in a single click -- no more auto clickers!
+* Smithing cost cap increased relative to your current item level -- for example, cost cap increases after an item is crafted to lv 1,000,000, then again at lv 5,000,000 etc
+* Overflowing values fixed (rep speed still capped)
+Miscellaneous
+* "Small fish catch chance" now FLOORS at 10%, meaning it will never go below 10% so you Pro-Gamers will always catch small fish!
+* Rebirthing takes away all your Cash. This is how it was always meant to be
+* Tilling and Apothecary now give 1 Perk Point per level, instead of 0.5
+* Tilling Asylum Trace drop amount boosted by 3x
+* Mining Asylum Trace drop amount boosted by 2x
+* Multibuy toggle added to Perk Trees -- tap the Purple Diamond icon in the bottom right

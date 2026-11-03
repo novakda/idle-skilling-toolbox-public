@@ -1,0 +1,74 @@
+{| class="listing sortable" border="0" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Dubloon_trinket.png|center]]
+| style="text-align: center;" |50
+|Dubloon Trinket
+| +5%
+| Damage
+|[[File:Dubloonium.png|center]]
+|[[File:Bobbit_worm.png|center]]
+|-
+|[[File:And_my_axe.png|center]]
+| style="text-align: center;" |50
+|And My Axe
+| +2750
+| Base Damage
+|[[File:Dubloonium.png|center]]
+|[[File:Giant_sea_urchin.png|center|46px]]
+|-
+|[[File:Fished_corn.png|center]]
+| style="text-align: center;" |50
+|Fished Corn
+| +200
+| HP Every Bite
+|[[File:Pike_fish.png|center]]
+|[[File:Yellow_gulper.png|center]]
+|-
+|[[File:Looter_lord.png|center]]
+| style="text-align: center;" |50
+|Looter Lord
+| +10%
+| Cash from Enemies
+|[[File:Glume.png|center]]
+|[[File:Dollar_fish.png|center]]
+|-
+|[[File:Blessed_experience.png|center]]
+| style="text-align: center;" |50
+|Blessed Experience
+| +0.5%
+| EXP Gain Chance
+|[[File:Dubloonium.png|center]]
+|[[File:Yellow_gulper.png|center]]
+|-
+|[[File:Languished_lungs.png|center]]
+| style="text-align: center;" |50
+|Languished Lungs
+| +350
+| Base Max. HP
+|[[File:Glume.png|center]]
+|[[File:Manta_ray.png|center|46px]]
+|-
+|[[File:Dubaroo_kit.png|center]]
+| style="text-align: center;" |50
+|Dubaroo Kit
+| +50%
+| Ores Mined
+|[[File:Dubloonium.png|center]]
+|[[File:Yellow_gulper.png|center]]
+|-
+|[[File:Tech_skippers.png|center]]
+| style="text-align: center;" |50
+|Tech Skippers
+| +2%
+| Idle Attack Speed
+|[[File:Dubloonium.png|center]]
+|[[File:Glume.png|center]]
+|}
+[[Category:Smithing]]

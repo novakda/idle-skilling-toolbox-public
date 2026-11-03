@@ -1,0 +1,769 @@
+{| align="center"
+|[[File:Themistbanner.png|150px|link=The Mist]]
+|<<<
+|[[File:Dungeon_banner.png|center|link=Dungeon]]
+|>>>
+|[[File:Purgatory_banner.png|150px|link=Purgatory]]
+|}
+
+
+Dungeon is the fifth zone in the [[Fight|Fight Screen]], featuring 16 unique enemies. Clearing the Dungeon unlocks [[Purgatory]], an advanced Fighting area with doubled idle speed and accuracy penalties. Clearing the Dungeon also unlocks [[Realm]].
+
+Every monster in the Dungeon has a 1/480 chance to drop a unique [[Cards|Card]], and have +80% chance afterwards to drop higher quality star cards.
+
+The following table shows the '''base''' values for each monster in the zone.
+
+{| class="article-table" border="1"
+! colspan="2" style="text-align: center;"|Monsters
+!Damage
+!Health
+!Gold
+!Kill Req.
+!Card Bonus
+|-
+|rowspan="3"|[[File:Agent.png|50px]]
+|Agent 1
+|204719
+|2.17Q
+|42.338M
+|105
+|rowspan="3"|20% Claw Skill Damage
+|-
+|Agent 2
+|211552
+|2.62Q
+|42.776M
+|155
+|-
+|Agent 3
+|218397
+|3.18Q
+|43.243M
+|205
+|-
+|rowspan="3"|[[File:Pot_O_Gold.png|50px]]
+|Pot O Gold 1
+|225254
+|3.87Q
+|43.758M
+|255
+|rowspan="3"|10% Damage from Trinkets
+|-
+|Pot O Gold 2
+|232125
+|4.74Q
+|44.338M
+|305
+|-
+|Pot O Gold 3
+|239010
+|5.83Q
+|45000M
+|355
+|-
+|rowspan="3"|[[File:Skelebob.png|50px]]
+|Skelebob 1
+|245910
+|7.21Q
+|45.758M
+|405
+|rowspan="3"|8% Cultist Efficiency
+|-
+|Skelebob 2
+|252825
+|8.95Q
+|46.628M
+|455
+|-
+|Skelebob 3
+|259755
+|11.18Q
+|47.621M
+|505
+|-
+|rowspan="3"|[[File:Lockhart.png|50px]]
+|Lockhart 1
+|266702
+|14.02Q
+|48.752M
+|555
+|rowspan="3"|1% Monster Damage Reduction
+|-
+|Lockhart 2
+|273666
+|17.68Q
+|50.033M
+|605
+|-
+|Lockhart 3
+|280646
+|22.39Q
+|51.47M
+|655
+|-
+|rowspan="3"|[[File:Jelly_Cube.png|50px]]
+|Jelly Cube 1
+|287644
+|28.49Q
+|53.093M
+|705
+|rowspan="3"|8% Acolyte Efficiency
+|-
+|Jelly Cube 2
+|294661
+|36.43Q
+|54.897M
+|755
+|-
+|Jelly Cube 3
+|301696
+|46.81Q
+|56.898M
+|805
+|-
+|rowspan="3"|[[File:Chaineran.png|50px]]
+|Chaineran 1
+|308750
+|60.43Q
+|59.108M
+|855
+|rowspan="3"|12% Ores from Mining
+|-
+|Chaineran 2
+|315824
+|78.38Q
+|61.538M
+|905
+|-
+|Chaineran 3
+|322917
+|85.38Q
+|64.200M
+|955
+|-
+|rowspan="3"|[[File:Chalice.png|50px]]
+|Chalice 1
+|330032
+|93.1Q
+|67.103M
+|1005
+|rowspan="3"|12% Healing from Food
+|-
+|Chalice 2
+|337167
+|101.59Q
+|70.258M
+|1055
+|-
+|Chalice 3
+|344323
+|110.96Q
+|73.676M
+|1105
+|-
+|rowspan="3"|[[File:Unlucky_lad.png|50px]]
+|Unlucky Lad 1
+|351502
+|121.29Q
+|77.367M
+|1155
+|rowspan="3"|7% Smithing EXP from Crafting
+|-
+|Unlucky Lad 2
+|358703
+|132.7Q
+|81.342M
+|1205
+|-
+|Unlucky Lad 3
+|365927
+|145.3Q
+|85.610M
+|1255
+|-
+|rowspan="3"|[[File:Mimicridon.png|50px]]
+|Mimicridon 1
+|373174
+|159.23Q
+|90.180M
+|1305
+|rowspan="3"|12% Raid Drop Luck
+|-
+|Mimicridon 2
+|380445
+|174.65Q
+|95.065M
+|1355
+|-
+|Mimicridon 3
+|387740
+|191.72Q
+|100.27M
+|1405
+|-
+|rowspan="3"|[[File:Skaul.png|50px]]
+|Skaul 1
+|395060
+|210.63Q
+|105.81M
+|1455
+|rowspan="3"|10% Base Damage
+|-
+|Skaul 2
+|402406
+|231.6Q
+|111.69M
+|1505
+|-
+|Skaul 3
+|409776
+|254.87Q
+|117.92M
+|1555
+|-
+|rowspan="3"|[[File:Rich_snake.png|50px]]
+|Rich Snake 1
+|417173
+|280.71Q
+|124.51M
+|1605
+|rowspan="3"|15% Crit Damage
+|-
+|Rich Snake 2
+|424597
+|309.43Q
+|131.48M
+|1655
+|-
+|Rich Snake 3
+|432047
+|341.36Q
+|138.82M
+|1705
+|-
+|rowspan="3"|[[File:Trap_mach.png|50px]]
+|Trap Mach 1
+|439525
+|376.9Q
+|146.55M
+|1755
+|rowspan="3"|2% Souls kept after Ascending
+|-
+|Trap Mach 2
+|447032
+|416.47Q
+|154.68M
+|1805
+|-
+|Trap Mach 3
+|454566
+|460.57Q
+|163.22M
+|1855
+|-
+|rowspan="3"|[[File:Munnies.png|50px]]
+|Munnies 1
+|462130
+|509.76Q
+|172.17M
+|1905
+|rowspan="3"|15% Idle Attack Speed
+|-
+|Munnies 2
+|469722
+|564.65Q
+|181.54M
+|1955
+|-
+|Munnies 3
+|477345
+|625.96Q
+|191.35M
+|2005
+|-
+|rowspan="3"|[[File:Holy_relic.png|50px]]
+|Holy Relic 1
+|484998
+|694.48Q
+|201.6M
+|2055
+|rowspan="3"|15% Idle Damage
+|-
+|Holy Relic 2
+|492682
+|771.11Q
+|212.31M
+|2105
+|-
+|Holy Relic 3
+|500397
+|856.89Q
+|223.47M
+|2155
+|-
+|
+|Disciple P
+|508143
+|952.96Q
+|235.09M
+|2205
+|2% Crit Chance
+|-
+|
+|Keymaster H
+|515922
+|1.06QQ
+|247.2M
+|2255
+|10% Total Damage
+|-
+|[[File:Noob.png|50px]]
+|Noob 1
+|523734
+|1.18QQ
+|259.79M
+|2305
+| 25% Monster Cash
+|-
+|
+|Noob 2
+|531578
+|1.31QQ
+|272.87M
+|2355
+| style="text-align: center;"| -
+|-
+|
+|Noob 3
+|539457
+|1.46QQ
+|286.46M
+|2405
+| style="text-align: center;"| -
+|-
+|
+|Noob 4
+|547369
+|1.64QQ
+|300.55M
+|2455
+| style="text-align: center;"| -
+|-
+|
+|Noob 5
+|555316
+|1.83QQ
+|315.17M
+|2505
+| style="text-align: center;"| -
+|-
+|
+|Noob 6
+|563297
+|2.04QQ
+|330.3M
+|2555
+| style="text-align: center;"| -
+|-
+|
+|Noob 7
+|571314
+|2.29QQ
+|345.98M
+|2605
+| style="text-align: center;"| -
+|-
+|
+|Noob 8
+|579368
+|2.56QQ
+|362.2M
+|2655
+| style="text-align: center;"| -
+|-
+|
+|Noob 9
+|587457
+|2.87QQ
+|378.96M
+|2705
+| style="text-align: center;"| -
+|-
+|
+|Noob 10
+|595583
+|3.22QQ
+|396.29M
+|2755
+| style="text-align: center;"| -
+|-
+|
+|Noob 11
+|603747
+|3.62QQ
+|414.19M
+|2805
+| style="text-align: center;"| -
+|-
+|
+|Noob 12
+|611948
+|4.07QQ
+|432.66M
+|2855
+| style="text-align: center;"| -
+|-
+|
+|Noob 13
+|620188
+|4.57QQ
+|451.71M
+|2905
+| style="text-align: center;"| -
+|-
+|
+|Noob 14
+|628466
+|5.15QQ
+|471.35M
+|2955
+| style="text-align: center;"| -
+|-
+|
+|Noob 15
+|636784
+|5.8QQ
+|491.6M
+|3005
+| style="text-align: center;"| -
+|-
+|
+|Noob 16
+|645141
+|6.53QQ
+|512.45M
+|3055
+| style="text-align: center;"| -
+|-
+|
+|Noob 17
+|653539
+|7.37QQ
+|533.91M
+|3105
+| style="text-align: center;"| -
+|-
+|
+|Noob 18
+|661977
+|8.31QQ
+|556M
+|3155
+| style="text-align: center;"| -
+|-
+|
+|Noob 19
+|670456
+|9.39QQ
+|578.72M
+|3205
+| style="text-align: center;"| -
+|-
+|
+|Noob 20
+|678976
+|10.61QQ
+|602.07M
+|3255
+| style="text-align: center;"| -
+|-
+|
+|Noob 21
+|687539
+|12QQ
+|626.07M
+|3305
+| style="text-align: center;"| -
+|-
+|
+|Noob 22
+|696144
+|13.58QQ
+|650.73M
+|3355
+| style="text-align: center;"| -
+|-
+|
+|Noob 23
+|704792
+|15.39QQ
+|676.04M
+|3405
+| style="text-align: center;"| -
+|-
+|
+|Noob 24
+|713484
+|17.44QQ
+|702.03M
+|3455
+| style="text-align: center;"| -
+|-
+|
+|Noob 25
+|722219
+|19.79QQ
+|728.69M
+|3505
+| style="text-align: center;"| -
+|-
+|
+|Noob 26
+|730999
+|22.46QQ
+|756.03M
+|3555
+| style="text-align: center;"| -
+|-
+|
+|Noob 27
+|739824
+|25.52QQ
+|784.07M
+|3605
+| style="text-align: center;"| -
+|-
+|
+|Noob 28
+|748694
+|29.01QQ
+|812.8M
+|3655
+| style="text-align: center;"| -
+|-
+|
+|Noob 29
+|757610
+|33QQ
+|842.24M
+|3705
+| style="text-align: center;"| -
+|-
+|
+|Noob 30
+|766572
+|37.57QQ
+|872.40M
+|3755
+| style="text-align: center;"| -
+|-
+|
+|Noob 31
+|775581
+|42.8QQ
+|903.27M
+|3805
+| style="text-align: center;"| -
+|-
+|
+|Noob 32
+|784637
+|48.8QQ
+|934.88M
+|3855
+| style="text-align: center;"| -
+|-
+|
+|Noob 33
+|793741
+|55.68QQ
+|967.21M
+|3905
+| style="text-align: center;"| -
+|-
+|
+|Noob 34
+|802892
+|63.57QQ
+|1.000B
+|3955
+| style="text-align: center;"| -
+|-
+|
+|Noob 35
+|812093
+|72.63QQ
+|1.034B
+|4005
+| style="text-align: center;"| -
+|-
+|
+|Noob 36
+|821343
+|83.04QQ
+|1.068B
+|4055
+| style="text-align: center;"| -
+|-
+|
+|Noob 37
+|830642
+|95.01QQ
+|1.104B
+|4105
+| style="text-align: center;"| -
+|-
+|
+|Noob 38
+|839991
+|108.78QQ
+|1.140B
+|4155
+| style="text-align: center;"| -
+|-
+|
+|Noob 39
+|849391
+|124.64QQ
+|1.177B
+|4205
+| style="text-align: center;"| -
+|-
+|
+|Noob 40
+|858842
+|142.9QQ
+|1.214B
+|4255
+| style="text-align: center;"| -
+|-
+|
+|Noob 41
+|868345
+|163.96QQ
+|1.253B
+|4305
+| style="text-align: center;"| -
+|-
+|
+|Noob 42
+|877899
+|188.26QQ
+|1.292B
+|4355
+| style="text-align: center;"| -
+|-
+|
+|Noob 43
+|887506
+|216.3QQ
+|1.332B
+|4405
+| style="text-align: center;"| -
+|-
+|
+|Noob 44
+|897166
+|248.69QQ
+|1.373B
+|4455
+| style="text-align: center;"| -
+|-
+|
+|Noob 45
+|906879
+|286.13QQ
+|1.415B
+|4505
+| style="text-align: center;"| -
+|-
+|
+|Noob 46
+|916646
+|329.43QQ
+|1.457B
+|4555
+| style="text-align: center;"| -
+|-
+|
+|Noob 47
+|926468
+|379.54QQ
+|1.501B
+|4605
+| style="text-align: center;"| -
+|-
+|
+|Noob 48
+|936344
+|437.58QQ
+|1.545B
+|4655
+| style="text-align: center;"| -
+|-
+|
+|Noob 49
+|946276
+|504.84QQ
+|1.590B
+|4705
+| style="text-align: center;"| -
+|-
+|
+|Noob 50
+|956263
+|582.82QQ
+|1.636B
+|4755
+| style="text-align: center;"| -
+|-
+|
+|Noob 51
+|966307
+|673.32QQ
+|1.683B
+|4805
+| style="text-align: center;"| -
+|-
+|
+|Noob 52
+|976408
+|778.39QQ
+|1.731B
+|4855
+| style="text-align: center;"| -
+|-
+|
+|Noob 53
+|986565
+|900.46QQ
+|1.779B
+|4905
+| style="text-align: center;"| -
+|-
+|
+|Noob 54
+|996781
+|1.04QQQ
+|1.829B
+|4955
+| style="text-align: center;"| -
+|-
+|
+|Noob 55
+|1007K
+|1.2QQQ
+|1.879B
+|5005
+| style="text-align: center;"| -
+|-
+|
+|Noob 56
+|1017K
+|1.39QQQ
+|1.930B
+| style="text-align: center;"| -
+| style="text-align: center;"| -
+|}
+[[Category:Zone]]
+[[Category:Fighting]]

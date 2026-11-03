@@ -1,0 +1,53 @@
+<includeonly>
+    <infobox theme="monsters">
+        <title source="MonsterName">
+            <default>{{PAGENAME}}</default>
+        </title>
+        <image source="MonsterImage">
+            <default>{{PAGENAME}}.png</default>
+            <caption source="ImageCaption"/>
+        </image>
+        <group collapse="open">
+            <header>{{#if: {{{Health2|}}} | {{{MonsterName}}} 1 | Details}}</header>
+            <data source="Health1">
+                <label>Health</label>
+            </data>
+            <data source="KillReq1">
+                <label>Kill Req.</label>
+            </data>
+        </group>
+        <group collapse="closed">
+            <header>{{{MonsterName}}} 2</header>
+            <data source="Health2">
+                <label>Health</label>
+            </data>
+            <data source="KillReq2">
+                <label>Kill Req.</label>
+            </data>
+        </group>
+        <group collapse="closed">
+            <header>{{{MonsterName}}} 3</header>
+            <data source="Health3">
+                <label>Health</label>
+            </data>
+            <data source="KillReq3">
+                <label>Kill Req.</label>
+            </data>
+        </group>
+        <group collapse="closed">
+            <header>{{{MonsterName}}} 4</header>
+            <data source="Health4">
+                <label>Health</label>
+            </data>
+            <data source="KillReq4">
+                <label>Kill Req.</label>
+            </data>
+        </group>
+        <data source="CardEffect">
+            <label>Card Effect</label>
+        </data>
+    </infobox>
+</includeonly>
+<noinclude>
+{{documentation}}
+</noinclude>

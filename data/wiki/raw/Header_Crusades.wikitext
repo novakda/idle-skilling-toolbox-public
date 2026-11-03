@@ -1,0 +1,11 @@
+{| style="width: 60%;margin: auto;"  cellspacing="0" cellpadding="0" border="0"
+| style="width: 15%;"|[[File:Crusades_icon.png|center|link=Crusades]]
+| style="width: 15%;"|[[File:Tinkering_icon.png|center|link=Tinkering]]
+| style="width: 15%;"|[[File:Boosters_icon.png|center|link=Boosters]]
+|-
+| style="text-align: center;"|[[Crusades]]
+| style="text-align: center;"|[[Tinkering]]
+| style="text-align: center;"|[[Boosters]]
+|}
+
+<hr class="page-header__separator" style="margin-top:18px;" />

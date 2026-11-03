@@ -1,0 +1,320 @@
+[
+ {
+  "_page": "Events",
+  "_section": "Event Store",
+  "_table": 0,
+  "Item": "Gems"
+ },
+ {
+  "_page": "Events",
+  "_section": "Event Store",
+  "_table": 0,
+  "Item": "2 Hour Candy"
+ },
+ {
+  "_page": "Events",
+  "_section": "Event Store",
+  "_table": 0,
+  "Item": "Extra Skillpoint"
+ },
+ {
+  "_page": "Events",
+  "_section": "Event Store",
+  "_table": 0,
+  "Item": "Bonus Damage"
+ },
+ {
+  "_page": "Events",
+  "_section": "Event Store",
+  "_table": 0,
+  "Item": "Bonus Health"
+ },
+ {
+  "_page": "Events",
+  "_section": "Event Store",
+  "_table": 0,
+  "Item": "Refresh Forge Uses",
+  "Token Cost": 20,
+  "Limited Stock per Day": 2
+ },
+ {
+  "_page": "Events",
+  "_section": "Festive Wheel",
+  "_table": 1,
+  "Reward": "150x Monster Cash",
+  "Chance": "33%",
+  "_images": [
+   "Xmaswheel.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Festive Wheel",
+  "_table": 1,
+  "Reward": "+2% Permanent HP",
+  "Chance": "17%",
+  "_images": [
+   "Xmaswheel.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Festive Wheel",
+  "_table": 1,
+  "Reward": "+3 Purple Star Cards",
+  "Chance": "4%",
+  "_images": [
+   "Xmaswheel.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Festive Wheel",
+  "_table": 1,
+  "Reward": "+4 Blue Star Cards",
+  "Chance": "12%",
+  "_images": [
+   "Xmaswheel.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Festive Wheel",
+  "_table": 1,
+  "Reward": "+2 Permanent Damage",
+  "Chance": "11%",
+  "_images": [
+   "Xmaswheel.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Festive Wheel",
+  "_table": 1,
+  "Reward": "+20 Gems",
+  "Chance": "22%",
+  "_images": [
+   "Xmaswheel.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Festive Wheel",
+  "_table": 1,
+  "Reward": "+500 Gems (Jackpot)",
+  "Chance": "1%",
+  "_images": [
+   "Xmaswheel.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Santa Stocking",
+  "_table": 2,
+  "Card_2": "Coal Buddy",
+  "Bonus": "5% Ores from Mining (up to 100%)",
+  "Token Cost": 25,
+  "_images": [
+   "C_coal_buddy.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Santa Stocking",
+  "_table": 2,
+  "Card_2": "Waddles",
+  "Bonus": "12% Claw Damage (up to 240%)",
+  "Token Cost": 50,
+  "_images": [
+   "C_waddles.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Santa Stocking",
+  "_table": 2,
+  "Card_2": "Green Star Card",
+  "Bonus": "-",
+  "Token Cost": 50,
+  "_images": [
+   "Greenstar.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Lunar Event",
+  "_table": 3,
+  "Card_2": "Moon Man",
+  "Bonus": "Cultist Efficiency",
+  "Source": "Bonus Wheel",
+  "_images": [
+   "Moon_man.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Lunar Event",
+  "_table": 3,
+  "Card_2": "Magic Slab",
+  "Bonus": "Mining EXP Chance",
+  "Source": "Magic Rock",
+  "_images": [
+   "Magic_slab.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Lunar Event",
+  "_table": 3,
+  "Card_2": "Qqoxzle",
+  "Bonus": "Base Damage",
+  "Source": "Magic Rock",
+  "_images": [
+   "Qqoxzle.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Lunar and Bonus Wheel",
+  "_table": 4,
+  "Reward_2": "Bonus Wheel",
+  "Chance": "4%",
+  "Chance_2": "4%",
+  "_images": [
+   "Lunar_wheel.png",
+   "Lunarbonuswheel.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Lunar and Bonus Wheel",
+  "_table": 4,
+  "Reward_2": "2x Extra Spins",
+  "Chance": "10%",
+  "Chance_2": "10%",
+  "_images": [
+   "Lunar_wheel.png",
+   "Lunar2xspin.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Lunar and Bonus Wheel",
+  "_table": 4,
+  "Reward_2": "Starter Card Pack",
+  "Chance": "7%",
+  "Chance_2": "7%",
+  "_images": [
+   "Lunar_wheel.png",
+   "Lunarcardpack.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Lunar and Bonus Wheel",
+  "_table": 4,
+  "Reward_2": "20x Gems",
+  "Chance": "37%",
+  "Chance_2": "37%",
+  "_images": [
+   "Lunar_wheel.png",
+   "Lunar25xgem.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Lunar and Bonus Wheel",
+  "_table": 4,
+  "Reward_2": "+2% Permanent Damage",
+  "Chance": "16%",
+  "Chance_2": "16%",
+  "_images": [
+   "Lunar_wheel.png",
+   "Lunar2damage.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Lunar and Bonus Wheel",
+  "_table": 4,
+  "Reward_2": "10x Gray Star Cards",
+  "Chance": "26%",
+  "Chance_2": "26%",
+  "_images": [
+   "Lunar_wheel.png",
+   "Lunar10graycard.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Lunar and Bonus Wheel",
+  "_table": 5,
+  "Reward_2": "500x Gem Jackpot",
+  "Chance": "5%",
+  "Adjusted Chance (Total)": "0.20%",
+  "_images": [
+   "Lunar_bonus_wheel.png",
+   "Lunar500xgem.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Lunar and Bonus Wheel",
+  "_table": 5,
+  "Reward_2": "2x Safety Charms",
+  "Chance": "10%",
+  "Adjusted Chance (Total)": "0.40%",
+  "_images": [
+   "Lunar_bonus_wheel.png",
+   "Lunar2xsafety.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Lunar and Bonus Wheel",
+  "_table": 5,
+  "Reward_2": "3x Lucky Donuts",
+  "Chance": "11%",
+  "Adjusted Chance (Total)": "0.44%",
+  "_images": [
+   "Lunar_bonus_wheel.png",
+   "Lunar3xdonut.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Lunar and Bonus Wheel",
+  "_table": 5,
+  "Reward_2": "2x Candy Coupons",
+  "Chance": "23%",
+  "Adjusted Chance (Total)": "0.92%",
+  "_images": [
+   "Lunar_bonus_wheel.png",
+   "Lunar2xcandy.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Lunar and Bonus Wheel",
+  "_table": 5,
+  "Reward_2": "3x Legend Boosters",
+  "Chance": "26%",
+  "Adjusted Chance (Total)": "1.04%",
+  "_images": [
+   "Lunar_bonus_wheel.png",
+   "Lunarlegendboosters.png"
+  ]
+ },
+ {
+  "_page": "Events",
+  "_section": "Lunar and Bonus Wheel",
+  "_table": 5,
+  "Reward_2": "1x Orange Star and Moon Man Cards",
+  "Chance": "25%",
+  "Adjusted Chance (Total)": "1.00%",
+  "_images": [
+   "Lunar_bonus_wheel.png",
+   "Lunarbothcards.png"
+  ]
+ }
+]

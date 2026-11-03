@@ -1,0 +1,9 @@
+{| style="width: 60%; margin:auto;" cellspacing="0" cellpadding="0" border="0"
+| style="width: 15%;" |[[File:Spelunking_Icon.png|center|60px|link=Spelunking]]
+| style="width: 15%;" |[[File:Construction_Icon.png|center|60px|link=Construction]]
+|-
+| style="text-align: center;" |[[Spelunking]]
+| style="text-align: center;" |[[Construction]]
+|}
+
+<hr class="page-header__separator" style="margin-top:18px;" />

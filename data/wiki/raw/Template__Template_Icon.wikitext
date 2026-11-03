@@ -1,0 +1,6 @@
+<includeonly>{{#if:{{{1|}}}|{{#invoke:Icons|Icons|{{{1|}}}|{{{2|}}}|{{{link|}}}|{{{tooltip|}}}|{{{class|}}}}}}}<!--
+
+--></includeonly><noinclude>{{Documentation}}
+
+[[Category:Image and media templates]]
+</noinclude>

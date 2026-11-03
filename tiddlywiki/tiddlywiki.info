@@ -1,0 +1,8 @@
+{
+	"description": "Idle Skilling wiki converted from the Fandom wiki (text CC BY-SA 3.0). Issue #13. Generated tiddlers come from scripts/wiki/to-tiddlywiki.ts.",
+	"plugins": [],
+	"themes": ["tiddlywiki/vanilla", "tiddlywiki/snowwhite"],
+	"build": {
+		"index": ["--render", "$:/core/save/all", "index.html", "text/plain"]
+	}
+}

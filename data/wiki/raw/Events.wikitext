@@ -1,0 +1,222 @@
+==Current Events==
+===Idleon Crossover Event===
+The Idleon Crossover Event is the Event celebrating the Steam release of Idle Skilling. Players may link their Idleon accounts first player and recieve rewards for the Areas they reach. This event is permanent, and will never end.<ref>[https://canary.discord.com/channels/981326020248473620/981326020756000800/1019687293306548294 Message] - [[:File:IdleonEventHeadsup.png| Screenshot]]</ref>
+
+==Old Events==
+===Fall Event===
+For the Fall event the [[Arcade]] was added with an Fall themed pachinko. During the event it was possible to earn leaves to spent on permanent bonuses and to get event exclusive cards. 
+
+===Spooktober Event===
+The Spooktober event started on October 1st, 2018 and ended on November 3rd, 2018. All monsters have a chance to drop Halloween tokens which can be spent in an event store for various items, services, and permanent bonuses.
+====Token Drops====
+Tokens have a 0.2% chance to drop after killing any monster. Dropped tokens need to be clicked on in order to be collected, otherwise there's a 30% chance that they'll be collected.
+====Event Store====
+Every item in event store has a limited stock, but are refreshed every 48 hours.
+{| class="article-table" align="center"
+!Item
+!Token Cost
+!Limited Stock per Day
+|-
+|Gems
+| style="text-align: center;" |
+| style="text-align: center;" |
+|-
+|2 Hour Candy
+| style="text-align: center;" |
+| style="text-align: center;" |
+|-
+|Extra Skillpoint
+| style="text-align: center;" |
+| style="text-align: center;" |
+|-
+|Bonus Damage
+| style="text-align: center;" |
+| style="text-align: center;" |
+|-
+|Bonus Health
+| style="text-align: center;" |
+| style="text-align: center;" |
+|-
+|Refresh Forge Uses
+| style="text-align: center;" |20
+| style="text-align: center;" |2
+|}
+
+===Thxgiving Event===
+The Thxgiving event started on November 17, 2018 and ended on December 9th, 2018. All monsters have a chance to drop Turkey tokens which can be spent in an event shop for permanent bonuses.
+
+===Christmas Event===
+The Christmas event came with update version 1.41, starting on December 16th, 2018 and ending on January 6th, 2018. As with previous events, this one also drops a unique token. These tokens can be spent on spinning a Festive Wheel which grants various rewards and on a Santa Stocking that unlocks up to two new [[Cards|cards]].
+====Token Drops====
+[[File:Xmastoken.png|right|60px]]
+Tokens have a chance to drop after killing any monster. The drop chance starts at 5% and increases by +0.2% every enemy up to 12% at Desert Wurm and onward. Tokens not clicked on have a 30% chance to be automatically collected.
+====Festive Wheel====
+
+This wheel of many prizes may be spun 3 times every 24 hours. Every subsequent spin costs an 25 more tokens than the last.
+
+The daily number of spins can be increased by purchasing the Three Spins bonus for 125 Gems, granting 3 additional spins per purchase as well as the necessary tokens to use those extra spins.
+
+All rewards on the spin wheel have a fair chance of being rolled on, the size of each slice being directly proportional to their respective chances. The following table lists the approximate chances of each reward:
+{| class="article-table" border="1" align="center"
+! style="text-align: center;" | Festive Wheel
+! style="text-align: center;" | Reward
+! style="text-align: center;" | Chance
+|-
+| rowspan="7" |[[File:Xmaswheel.png|center|150px]]
+| <span style="color: yellow">'''150x Monster Cash'''</span>
+| 33%
+|-
+| <span style="color: limegreen">'''+2% Permanent HP'''</span>
+| 17%
+|-
+| '''<span style="color: mediumorchid">+3 Purple Star Cards</span>'''
+| 4%
+|-
+| '''<span style="color: mediumblue">+4 Blue Star Cards</span>'''
+| 12%
+|-
+| '''<span style="color: darkred">+2 Permanent Damage</span>'''
+| 11%
+|-
+| '''<span style="color: cyan">+20 Gems</span>'''
+| 22%
+|-
+| '''<span style="color: khaki">+500 Gems (Jackpot)</span>'''
+| 1%
+|}
+
+====Santa Stocking====
+[[File:Santastocking.png|right|112px]]
+Since the Festive Wheel doesn't consume many tokens, the rest can spent on the Santa Stocking in hopes of finding extra seasonal goodies. Each prize is unlocked in sequence, but many tokens are required as the chance to earn them all are relatively low.
+{| class="article-table" border="1" align="center"
+|-
+! colspan="2" scope="col" style="text-align: center;" |Card
+! scope="col" style="text-align: center;" |Bonus
+! scope="col" style="text-align: center;" |Token Cost
+|-
+|[[File:C_coal_buddy.png|34px|center]]
+|Coal Buddy
+|5% Ores from Mining (up to 100%)
+| style="text-align: center;" |25
+|-
+|[[File:C_waddles.png|34px|center]]
+|Waddles
+|12% Claw Damage (up to 240%)
+| style="text-align: center;" |50
+|-
+|[[File:Greenstar.png|center]]
+|Green Star Card
+| style="text-align: center;" | -
+| style="text-align: center;" |50
+|}
+[[Category:Events]]
+
+===Easter Event===
+For the Easter event the [[Arcade]] was added with an Easter themed pachinko. During the event it was possible to earn eggs to spent on permanent bonuses and to get three event exclusive cards. Bluehero, Nest Egg and Blackhole. The pachinko persists after the event, and eggs was replaced with gold ball and permanent bonuses price have been reset.
+
+===Lunar Event===
+Featured in update version 2.15, the Lunar Event started on January 18th, 2019 and ended on February 10th, 2019. With the update boasting many quality of life changes like card decks, this event also offered its own improvements with offline tokens, better wheel spin rewards, and free sources for [[Boosters#Misc. Mutators|miscellaneous mutators]]. In customary fashion, the Lunar Event also rewards players with three new [[cards]].
+{| class="article-table" border="1" align="center"
+|-
+! scope="col" colspan="2"|Card
+! scope="col"|Bonus
+! scope="col"|Source
+|-
+|[[File:Moon_man.png|34px|center]]
+|Moon Man
+|Cultist Efficiency
+|Bonus Wheel
+|-
+|[[File:Magic_slab.png|34px|center]]
+|Magic Slab
+|Mining EXP Chance
+|Magic Rock
+|-
+|[[File:Qqoxzle.png|34px|center]]
+|Qqoxzle
+|Base Damage
+|Magic Rock
+|}
+
+====Token Drops====
+[[File:Lunar_token.png|right|60px]]
+As with previous events, tokens have a chance to drop after killing any monster. The drop chance starts at 5% in Grasslands, increasing by 0.2% every monster until 12% at Grasslands Glitch 21. Similarly, the drop chance starts at 10% in Desert and increases by 0.2% per monster until Desert Wurm. All other zone enemies (except Vault) have the same 12% drop chance for Lunar Tokens. Lunar Tokens have a 20% chance to be automatically collected if not clicked on.
+
+====Lunar and Bonus Wheel====
+This event features two reward wheels, where the second is spun only after landing on the bonus wheel section of the first. Each wheel spin costs 25 tokens, totalling 75 tokens needed to spin three times a day. The daily spin limit can by increased from three to five spins for 450 Gems and five additional free spins can be purchased for 225 Gems, both from the [[Gem Shop]]. All rewards on the spin wheel have a fair chance of being rolled on, the size of each slice being directly proportional to their respective chances. The following tables list the approximate chances of each reward:
+
+{| class="article-table" border="1" align="center"
+|-
+! scope="col" style="text-align: center;"|Lunar Wheel
+! scope="col" style="text-align: center;" colspan="2"|Reward
+! scope="col" style="text-align: center;" colspan="2"|Chance
+|-
+| rowspan="6"|[[File:Lunar_wheel.png|200px|center]]
+|[[File:Lunarbonuswheel.png|63px|center]]
+|Bonus Wheel
+| colspan="2" style="text-align: center;"|4%
+|-
+|[[File:Lunar2xspin.png|63px|center]]
+|2x Extra Spins
+| colspan="2" style="text-align: center;"|10%
+|-
+|[[File:Lunarcardpack.png|63px|center]]
+|Starter Card Pack
+| colspan="2" style="text-align: center;"|7%
+|-
+|[[File:Lunar25xgem.png|63px|center]]
+|20x Gems
+| colspan="2" style="text-align: center;"|37%
+|-
+|[[File:Lunar2damage.png|63px|center]]
+| +2% Permanent Damage
+| colspan="2" style="text-align: center;"|16%
+|-
+|[[File:Lunar10graycard.png|63px|center]]
+|10x Gray Star Cards
+| colspan="2" style="text-align: center;"|26%
+|-
+! scope="col" style="text-align: center;"|Bonus Wheel
+! scope="col" style="text-align: center;" colspan="2"|Reward
+! scope="col" style="text-align: center;"|Chance
+! scope="col" style="text-align: center;"|Adjusted Chance (Total)
+|-
+| rowspan="6"|[[File:Lunar_bonus_wheel.png|200px|center]]
+|[[File:Lunar500xgem.png|63px|center]]
+|500x Gem Jackpot
+| style="text-align: center;"|5%
+| style="text-align: center;"|0.20%
+|-
+|[[File:Lunar2xsafety.png|63px|center]]
+|2x Safety Charms
+| style="text-align: center;"|10%
+| style="text-align: center;"|0.40%
+|-
+|[[File:Lunar3xdonut.png|63px|center]]
+|3x Lucky Donuts
+| style="text-align: center;"|11%
+| style="text-align: center;"|0.44%
+|-
+|[[File:Lunar2xcandy.png|63px|center]]
+|2x Candy Coupons
+| style="text-align: center;"|23%
+| style="text-align: center;"|0.92%
+|-
+|[[File:Lunarlegendboosters.png|63px|center]]
+| 3x Legend Boosters
+| style="text-align: center;"|26%
+| style="text-align: center;"|1.04%
+|-
+|[[File:Lunarbothcards.png|63px|center]]
+|1x Orange Star and Moon Man Cards
+| style="text-align: center;"|25%
+| style="text-align: center;"|1.00%
+|}
+
+====Magic Rock====
+[[File:Magic_rock.png|right]]
+All surplus Lunar Tokens may be spent wishing upon a Magic Rock. Beginning at a cost of 2 tokens, each subsequent wish costs an additional token up to a maximum of 50 tokens. This cost resets back to 2 tokens every day, at the same time wheel spins reset. Every wish has a 1/50 chance to drop a random level 2 card from a previous event, a 1/200 chance to award a level 2 Magic Slab card, and a 1/4000 chance to award a level 2 Qqoxzle card. If the card is already owned, then a green star card will be awarded instead.
+
+==Notes==
+
+[[Category:Events]]

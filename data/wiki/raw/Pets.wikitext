@@ -1,0 +1,11 @@
+{{:Header/Pets}}
+
+== [[Hatchery]] ==
+Breed pets. Hatch eggs.
+
+== [[Trekking]] ==
+Fight monsters with pets. Get vessels.
+
+== [[Research]] ==
+Spend vessels. Get RP. Upgrade perks.
+[[Category:Pets]]

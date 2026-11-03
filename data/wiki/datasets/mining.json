@@ -1,0 +1,370 @@
+[
+ {
+  "_page": "Mining",
+  "_section": "Miners",
+  "_table": 0,
+  "col1": "H2O Required",
+  "Miner 1": 1,
+  "Miner 2": 6,
+  "Miner 3": 12,
+  "Miner 4": 18,
+  "Miner 5": 24,
+  "Miner 6": 30
+ },
+ {
+  "_page": "Mining",
+  "_section": "Miners",
+  "_table": 0,
+  "col1": "Gold Cost",
+  "Miner 1": 0,
+  "Miner 2": 2500,
+  "Miner 3": 50000,
+  "Miner 4": "750K",
+  "Miner 5": "10M",
+  "Miner 6": "125M"
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Copper",
+  "Mining Level Required / Miner 1": 1,
+  "Mining Level Required / Miner 2": 1,
+  "Mining Level Required / Miner 3": 1,
+  "Mining Level Required / Miner 4": 1,
+  "Mining Level Required / Miner 5": 1,
+  "Mining Level Required / Miner 6": 1,
+  "_images": [
+   "Copper.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Iron",
+  "Mining Level Required / Miner 1": 5,
+  "Mining Level Required / Miner 2": 7,
+  "Mining Level Required / Miner 3": 9,
+  "Mining Level Required / Miner 4": 11,
+  "Mining Level Required / Miner 5": 13,
+  "Mining Level Required / Miner 6": 15,
+  "_images": [
+   "Iron.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Gold",
+  "Mining Level Required / Miner 1": 10,
+  "Mining Level Required / Miner 2": 12,
+  "Mining Level Required / Miner 3": 14,
+  "Mining Level Required / Miner 4": 16,
+  "Mining Level Required / Miner 5": 18,
+  "Mining Level Required / Miner 6": 20,
+  "_images": [
+   "Gold.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Platinum",
+  "Mining Level Required / Miner 1": 15,
+  "Mining Level Required / Miner 2": 17,
+  "Mining Level Required / Miner 3": 19,
+  "Mining Level Required / Miner 4": 21,
+  "Mining Level Required / Miner 5": 23,
+  "Mining Level Required / Miner 6": 25,
+  "_images": [
+   "Platinum.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Cobalt",
+  "Mining Level Required / Miner 1": 20,
+  "Mining Level Required / Miner 2": 22,
+  "Mining Level Required / Miner 3": 24,
+  "Mining Level Required / Miner 4": 26,
+  "Mining Level Required / Miner 5": 28,
+  "Mining Level Required / Miner 6": 30,
+  "_images": [
+   "Cobalt.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Firesalt",
+  "Mining Level Required / Miner 1": 25,
+  "Mining Level Required / Miner 2": 27,
+  "Mining Level Required / Miner 3": 29,
+  "Mining Level Required / Miner 4": 31,
+  "Mining Level Required / Miner 5": 33,
+  "Mining Level Required / Miner 6": 35,
+  "_images": [
+   "Firesalt.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Effluvium",
+  "Mining Level Required / Miner 1": 30,
+  "Mining Level Required / Miner 2": 32,
+  "Mining Level Required / Miner 3": 34,
+  "Mining Level Required / Miner 4": 36,
+  "Mining Level Required / Miner 5": 38,
+  "Mining Level Required / Miner 6": 40,
+  "_images": [
+   "Effluvium.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Antimatter",
+  "Mining Level Required / Miner 1": 35,
+  "Mining Level Required / Miner 2": 37,
+  "Mining Level Required / Miner 3": 39,
+  "Mining Level Required / Miner 4": 41,
+  "Mining Level Required / Miner 5": 43,
+  "Mining Level Required / Miner 6": 45,
+  "_images": [
+   "Antimatter.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Ruby",
+  "Mining Level Required / Miner 1": 40,
+  "Mining Level Required / Miner 2": 42,
+  "Mining Level Required / Miner 3": 44,
+  "Mining Level Required / Miner 4": 46,
+  "Mining Level Required / Miner 5": 48,
+  "Mining Level Required / Miner 6": 50,
+  "_images": [
+   "Ruby.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Refractium",
+  "Mining Level Required / Miner 1": 45,
+  "Mining Level Required / Miner 2": 47,
+  "Mining Level Required / Miner 3": 49,
+  "Mining Level Required / Miner 4": 51,
+  "Mining Level Required / Miner 5": 53,
+  "Mining Level Required / Miner 6": 55,
+  "_images": [
+   "Refractium.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Dubloonium",
+  "Mining Level Required / Miner 1": 50,
+  "Mining Level Required / Miner 2": 52,
+  "Mining Level Required / Miner 3": 54,
+  "Mining Level Required / Miner 4": 56,
+  "Mining Level Required / Miner 5": 58,
+  "Mining Level Required / Miner 6": 60,
+  "_images": [
+   "Dubloonium.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Glume",
+  "Mining Level Required / Miner 1": 55,
+  "Mining Level Required / Miner 2": 57,
+  "Mining Level Required / Miner 3": 59,
+  "Mining Level Required / Miner 4": 61,
+  "Mining Level Required / Miner 5": 63,
+  "Mining Level Required / Miner 6": 65,
+  "_images": [
+   "Glume.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Plument",
+  "Mining Level Required / Miner 1": 60,
+  "Mining Level Required / Miner 2": 62,
+  "Mining Level Required / Miner 3": 64,
+  "Mining Level Required / Miner 4": 66,
+  "Mining Level Required / Miner 5": 68,
+  "Mining Level Required / Miner 6": 70,
+  "_images": [
+   "Plument.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Figmentation",
+  "Mining Level Required / Miner 1": 65,
+  "Mining Level Required / Miner 2": 67,
+  "Mining Level Required / Miner 3": 69,
+  "Mining Level Required / Miner 4": 71,
+  "Mining Level Required / Miner 5": 73,
+  "Mining Level Required / Miner 6": 75,
+  "_images": [
+   "Figmentation.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Demonite",
+  "Mining Level Required / Miner 1": 70,
+  "Mining Level Required / Miner 2": 72,
+  "Mining Level Required / Miner 3": 74,
+  "Mining Level Required / Miner 4": 76,
+  "Mining Level Required / Miner 5": 78,
+  "Mining Level Required / Miner 6": 80,
+  "_images": [
+   "Demonite.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Godshard",
+  "Mining Level Required / Miner 1": 75,
+  "Mining Level Required / Miner 2": 77,
+  "Mining Level Required / Miner 3": 79,
+  "Mining Level Required / Miner 4": 81,
+  "Mining Level Required / Miner 5": 83,
+  "Mining Level Required / Miner 6": 85,
+  "_images": [
+   "Godshard.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Warpium",
+  "Mining Level Required / Miner 1": 87,
+  "Mining Level Required / Miner 2": 89,
+  "Mining Level Required / Miner 3": 91,
+  "Mining Level Required / Miner 4": 93,
+  "Mining Level Required / Miner 5": 95,
+  "Mining Level Required / Miner 6": 97,
+  "_images": [
+   "Warpium.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Anodizia",
+  "Mining Level Required / Miner 1": 99,
+  "Mining Level Required / Miner 2": 101,
+  "Mining Level Required / Miner 3": 103,
+  "Mining Level Required / Miner 4": 105,
+  "Mining Level Required / Miner 5": 107,
+  "Mining Level Required / Miner 6": 109,
+  "_images": [
+   "Anodizia.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Gummi",
+  "Mining Level Required / Miner 1": 111,
+  "Mining Level Required / Miner 2": 113,
+  "Mining Level Required / Miner 3": 115,
+  "Mining Level Required / Miner 4": 117,
+  "Mining Level Required / Miner 5": 119,
+  "Mining Level Required / Miner 6": 121,
+  "_images": [
+   "Gummi.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Ores",
+  "_table": 1,
+  "Ores_2": "Djinn",
+  "Mining Level Required / Miner 1": 123,
+  "Mining Level Required / Miner 2": 125,
+  "Mining Level Required / Miner 3": 127,
+  "Mining Level Required / Miner 4": 129,
+  "Mining Level Required / Miner 5": 131,
+  "Mining Level Required / Miner 6": 133,
+  "_images": [
+   "Djinn.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Mining Kits",
+  "_table": 2,
+  "Name_2": "Void Mining Kit",
+  "Bonus Given": "+25% Ores Mined",
+  "Source": "Level 30 Smithing",
+  "_images": [
+   "Void_mining_kit.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Mining Kits",
+  "_table": 2,
+  "Name_2": "Dubaroo Kit",
+  "Bonus Given": "+50% Ores Mined",
+  "Source": "Level 50 Smithing",
+  "_images": [
+   "Dubaroo_kit.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Mining Kits",
+  "_table": 2,
+  "Name_2": "Manifestation Kit",
+  "Bonus Given": "+75% Ores Mined",
+  "Source": "Level 60 Smithing",
+  "_images": [
+   "Manifestation_kit.png"
+  ]
+ },
+ {
+  "_page": "Mining",
+  "_section": "Mining Kits",
+  "_table": 2,
+  "Name_2": "Overlord Mining Kit",
+  "Bonus Given": "+100% Ores Mined, +100% Speed",
+  "Source": "Gem Shop",
+  "_images": [
+   "Overlord_Kit.png"
+  ]
+ }
+]

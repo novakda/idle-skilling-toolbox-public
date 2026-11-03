@@ -1,0 +1,37 @@
+==Description==
+To use this template, copy the following code and fill in the appropriate fields.
+
+==Syntax==
+<pre>
+{{infobox item
+ | title         = 
+ | image         = [e.g. "Example.jpg"]
+ | imagecaption  = 
+ | type          = 
+ | effects       = 
+ | source        = 
+ | buy           = 
+ | sell          = 
+}}
+</pre>
+
+==Samples==
+{{infobox item
+ | title         = Power Flower
+ | image         = Example.jpg
+ | type          = Food
+ | effects       = +1 Fire
+ | source        = Vendor
+ | buy           = 5g
+ | sell          = 1g
+}}<pre>
+{{infobox item
+ | title         = Power Flower
+ | image         = Example.jpg
+ | type          = Food
+ | effects       = +1 Fire
+ | source        = Vendor
+ | buy           = 5g
+ | sell          = 1g
+}}
+</pre><includeonly>[[Category:Templates|{{PAGENAME}}]][[Category:Templates/Infobox|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

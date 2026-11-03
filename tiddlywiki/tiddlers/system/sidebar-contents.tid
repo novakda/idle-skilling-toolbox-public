@@ -1,0 +1,8 @@
+title: $:/is/ui/SideBar/Contents
+tags: $:/tags/SideBar
+caption: Contents
+list-before: $:/core/ui/SideBar/Open
+
+<div class="is-toc">
+<<toc-selective-expandable "Contents" sort:"!has[entity]">>
+</div>

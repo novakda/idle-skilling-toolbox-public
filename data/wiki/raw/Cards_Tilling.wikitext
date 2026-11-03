@@ -1,0 +1,153 @@
+<table-progress-tracking table-id="Tilling1" unique-column-index="2">
+{{#if: {{{1|}}} | {{{!}} class="article-table mw-collapsible mw-collapsed" border="1" align="center"
+! colspan="8" {{!}} Botany Card List | {{{!}} class="listing sortable" style="width: 100%;" border="0" align="center"}}
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |Zone
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+|-
+|[[File:C_dirt.png|36px]]
+|Tilling-1
+|Dirt
+|Crops for Every Tiller on Dirt
+|3%
+|15%
+|-
+|[[File:C_grass.png|36px]]
+|Tilling-2
+|Grass
+|Crops for Every Tiller on Grass
+|3%
+|15%
+|-
+|[[File:C_quality_hay.png|36px]]
+|Tilling-3
+|Quality Hay
+|Crops for Every Tiller on Quality Hay
+|3%
+|15%
+|-
+|[[File:C_saffron.png|36px]]
+|Tilling-4
+|Saffron
+|Crops for Every Tiller on Saffron
+|3%
+|15%
+|-
+|[[File:C_corn.png|36px]]
+|Tilling-5
+|Corn
+|Crops for Every Tiller on Corn
+|4%
+|20%
+|-
+|[[File:C_maize.png|36px]]
+|Tilling-6
+|Maize
+|Crops for Every Tiller on Maize
+|4%
+|20%
+|-
+|[[File:C_hyper_stalk.png|36px]]
+|Tilling-7
+|Hyper Stalk
+|Crops for Every Tiller on Hyper Stalk
+|4%
+|20%
+|-
+|[[File:C_cabbage.png|36px]]
+|Tilling-8
+|Cabbage
+|Crops for Every Tiller on Cabbage
+|5%
+|25%
+|-
+|[[File:C_ancient_dew.png|36px]]
+|Tilling-9
+|Ancient Dew
+|Crops for Every Tiller on Ancient Dew
+|5%
+|25%
+|-
+|[[File:C_egg_yolk.png|36px]]
+|Tilling-10
+|Egg Yolk
+|Crops for Every Tiller on Egg Yolk
+|5%
+|25%
+|-
+|[[File:C_packed_clay.png|36px]]
+|Tilling-11
+|Packed Clay
+|Crops for Every Tiller on Packed Clay
+|6%
+|30%
+|-
+|[[File:C_lil_pumpkin.png|36px]]
+|Tilling-12
+|Lil Pumpkin
+|Crops for Every Tiller on Lil Pumpkin
+|6%
+|30%
+|-
+|[[File:C_macromato.png|36px]]
+|Tilling-13
+|Macromato
+|Crops for Every Tiller on Macromato
+|6%
+|30%
+|-
+|[[File:C_spooktobble.png|36px]]
+|Tilling-14
+|Spooktobble
+|Crops for Every Tiller on Spooktobble
+|7%
+|35%
+|-
+|[[File:C_crystal.png|36px]]
+|Tilling-15
+|Crystal
+|Crops for Every Tiller on Crystal
+|7%
+|35%
+|-
+|[[File:C_lucentium.png|36px]]
+|Tilling-16
+|Lucentium
+|Crops for Every Tiller on Lucentium
+|7%
+|35%
+|-
+|[[File:C_prismatism.png|36px]]
+|Tilling-17
+|Prismatism
+|Crops for Every Tiller on Prismatism
+|8%
+|40%
+|-
+|[[File:C_essence.png|36px]]
+|Tilling-18
+|Essence
+|Crops for Every Tiller on Essence
+|8%
+|40%
+|-
+|[[File:C_hallownil.png|36px]]
+|Tilling-19
+|Hallownil
+|Crops for Every Tiller on Hallownil
+|8%
+|40%
+|-
+|[[File:C_sammatian.png|36px]]
+|Tilling-20
+|Sammatian
+|Crops for Every Tiller on Sammatian
+|10%
+|50%
+|}
+</table-progress-tracking>
+[[Category:Cards]]

@@ -1,0 +1,252 @@
+<center>Cards were added in version 1.3, and every monster except Old Friend (drops Ice Rock's instead) has a chance to drop one. There are two types of cards: '''Monster Cards''' which provide bonuses when you equip them in card slots and '''Star Cards''' which can be used to upgrade the benefits monster cards offer.</center>
+
+== Card Drop Rates ==
+The chance of getting a card drop lowers per zone, but the chance a higher quality star card drops increases by +20% the higher you go. [[Raids|Raid]] and [[Crusades|Crusade]] bosses also have a chance to drop their own cards while other cards can be unlocked conditionally and through seasonal events.
+
+Card drop bonuses can be increased when "% Card Drop Bonus" and "% Crusade Card Drop Bonus" are equipped. However, while the former applies to all drop chances, the latter only applies to Crusade content.
+
+Card drop & Raid drop chance cards do NOT affect Raid or Asylum card drops.
+
+For more precise numbers, check [https://docs.google.com/spreadsheets/d/10yruc84LIIKtTUxwYqBMEQTb-IggGKpz79BUbuEyDpo/ Chyromyr's Idle Skilling Notes] or [[Asylum#Asylum_Creatures|Asylum]].
+
+{| class="article-table" style="width: 100%;text-align:center;" align="center" border="1"
+|-
+! style="" |[[File:Fight icon.png|center|link=Fight]]
+! style="text-align: center;" |Drop Chance
+! style="" |[[File:Raids icon.png|center|link=Raids]]
+! style="text-align: center;" |Drop Chance
+! style="" |[[File:Asylum_Icon.png|center|63px|link=Asylum]]
+! style="text-align: center;" |Drop Chance
+|-
+| style="text-align: center;" |Grasslands
+| style="text-align: center;" |1/240
+| style="text-align: center;" |Daydream
+| style="text-align: center;" |1/70
+| style="text-align: center;" |Daydream
+| style="text-align: center;" |~1/120
+|-
+| style="text-align: center;" |Desert
+| style="text-align: center;" |1/300
+| style="text-align: center;" |Chaotic
+| style="text-align: center;" |1/60
+| style="text-align: center;" |Chaotic
+| style="text-align: center;" |~1/110
+|-
+| style="text-align: center;" |Mountains
+| style="text-align: center;" |1/360
+| style="text-align: center;" |Nightmare
+| style="text-align: center;" |1/40
+| style="text-align: center;" |Hectic
+| style="text-align: center;" |~1/100
+|-
+| style="text-align: center;" |The Mist
+| style="text-align: center;" |1/420
+|
+|
+| style="text-align: center;" |Nightmare
+| style="text-align: center;" |~1/75
+|-
+| style="text-align: center;" |The Dungeon
+| style="text-align: center;" |1/480
+|
+|
+|
+|
+|-
+| style="text-align: center;" |Purgatory
+| style="text-align: center;" |1/1800
+|
+|
+|
+|
+|-
+| style="text-align: center;" |The Bog
+| style="text-align: center;" |1/2100
+|
+|
+|
+|
+|-
+| style="text-align: center;" |Lunar Isle
+| style="text-align: center;" |1/2400
+|
+|
+|
+|
+|}
+<br />
+
+{{:Cards/Crusades_Rates}}
+
+== Card Slots ==
+Collected cards can be equipped into slots in order to receive their bonus effects. Initially, there are 3 free slots that can be used, but additional slots can be purchased from the [[Gem Shop#Cards|Gem Shop]] for 100 Gems each for a maximum of 700 gems for all 7.
+
+== Upgrading Cards ==
+Monster cards and the benefits they give are upgraded by using star cards. Those benefits are multiplied by 2x for every tier the card is, with the Dungeon-star tier offering a 2.5x upgrade from the last tier. Some cards only linearly increase their benefit, or their base benefit gets multiplied by the card level to get the total benefit. Every monster card shares the same upgrade tier costs, even the ones that start with better bonuses than previous ones.
+
+Along with Construction, various cards are now upgradable to Pearlescent tier, further boosting their effectiveness by a factor of 2.7x (or 6x total for those increasing linearly). However, to unlock this possibility, Foil Cards or Foil Bosses upgrades must be built, which turns in a set of Orange cards from a zone/boss, meaning the player has to collect and upgrade them from scratch.
+
+Cards other than zone/bosses are not upgradable via star cards and must be won from 6-Star Card Pack, which is available in Gem Shop.
+{| class="article-table" style="width: 500px;" align="center"
+|-
+! colspan="7" scope="col" style="text-align: center;" |
+=== Monster Card Upgrade Costs ===
+|-
+! style="text-align: center;" |Upgrade Tier
+![[File:Whitestar.png|thumb|center]]
+![[File:Greenstar.png|thumb|center]]
+![[File:Bluestar.png|thumb|center]]
+![[File:Purplestar.png|thumb|center]]
+![[File:Orangestar.png|thumb|center]]
+!'''GSE'''
+'''(Grey Star Equivalent)'''
+|-
+| style="text-align: center;" |2nd Tier
+[[File:Whitestar.png|16px|text-bottom]] → [[File:Greenstar.png|16px|text-bottom]][[File:Greenstar.png|16px|text-bottom]]
+| style="text-align: center;" |3
+| style="text-align: center;" |1
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;"|8
+|-
+| style="text-align: center;" |3rd Tier
+[[File:Greenstar.png|16px|text-bottom]][[File:Greenstar.png|16px|text-bottom]] → [[File:Bluestar.png|16px|text-bottom]][[File:Bluestar.png|16px|text-bottom]][[File:Bluestar.png|16px|text-bottom]]
+| style="text-align: center;" |10
+| style="text-align: center;" |3
+| style="text-align: center;" |1
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;"|45
+|-
+| style="text-align: center;" |4th Tier
+[[File:Bluestar.png|16px|text-bottom]][[File:Bluestar.png|16px|text-bottom]][[File:Bluestar.png|16px|text-bottom]] → [[File:Purplestar.png|16px|text-bottom]][[File:Purplestar.png|16px|text-bottom]][[File:Purplestar.png|16px|text-bottom]][[File:Purplestar.png|16px|text-bottom]]
+| style="text-align: center;" |20
+| style="text-align: center;" |4
+| style="text-align: center;" |2
+| style="text-align: center;" |1
+| style="text-align: center;" | -
+| style="text-align: center;"|140
+|-
+| style="text-align: center;" |5th Tier
+[[File:Purplestar.png|16px|text-bottom]][[File:Purplestar.png|16px|text-bottom]][[File:Purplestar.png|16px|text-bottom]][[File:Purplestar.png|16px|text-bottom]] → [[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]]
+| style="text-align: center;" |100
+| style="text-align: center;" |20
+| style="text-align: center;" |4
+| style="text-align: center;" |2
+| style="text-align: center;" |1
+| style="text-align: center;"|520
+|-
+| style="text-align: center;" |6th Tier
+[[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]] →[[File:Diamondstar.png|16px|text-bottom]][[File:Diamondstar.png|16px|text-bottom]][[File:Diamondstar.png|16px|text-bottom]][[File:Diamondstar.png|16px|text-bottom]][[File:Diamondstar.png|16px|text-bottom]][[File:Diamondstar.png|16px|text-bottom]]
+| style="text-align: center;" |250
+| style="text-align: center;" |75
+| style="text-align: center;" |20
+| style="text-align: center;" |10
+| style="text-align: center;" |4
+| style="text-align: center;"|2105
+|}
+If you don't have a star card of the necessary quality to upgrade your cards, you can exchange your lesser cards for the ones you require.
+
+{| class="article-table" style="" align="center"
+|-
+! colspan="4" scope="col" style="text-align: center;" |
+=== Star Card Exchange Rates ===
+|-
+|[[File:Greenstar.png|text-bottom]]
+| style="text-align: center;" |<<<
+| style="text-align: center;" |5 [[File:Whitestar.png|text-bottom]]
+| style="text-align: center;" |
+|-
+|[[File:Bluestar.png|text-bottom]]
+| style="text-align: center;" |<<<
+| style="text-align: center;" |4 [[File:Greenstar.png|text-bottom]]
+| style="text-align: left;" |= 20 [[File:Whitestar.png|text-bottom]]
+|-
+|[[File:Purplestar.png|text-bottom]]
+| style="text-align: center;" |<<<
+| style="text-align: center;" |3 [[File:Bluestar.png|text-bottom]]
+| style="text-align: left;" |= 12 [[File:Greenstar.png|text-bottom]] = 60 [[File:Whitestar.png|text-bottom]]
+|-
+|[[File:Orangestar.png|text-bottom]]
+| style="text-align: center;" |<<<
+| style="text-align: center;" |2 [[File:Purplestar.png|text-bottom]]
+| style="text-align: left;" |= 6 [[File:Bluestar.png|text-bottom]] = 24 [[File:Greenstar.png|text-bottom]] = 120 [[File:Whitestar.png|text-bottom]]
+|}
+
+== Cards List ==
+This is the full list of all 428 cards currently in the game.
+
+Bonuses marked as passive are always in effect and if equipped are doubled.
+
+Bonuses marked with * cannot be doubled.
+
+Bonuses marked with ** are bugged and are always double, regardless of being equipped or not.
+
+By: Area shows the cards broken down by where they are found.
+
+[[Cards/By Bonus|By: Bonus]] shows the cards sorted by bonus provided.
+
+<tabber>By: Area=
+<!-- IF YOU WANT TO EDIT CARDS, YOU NEED TO GO ON SPECIFIC PAGE, FOR EXAMPLE Cards/Grasslands -->
+===[[Cards/Grasslands|Grasslands]]===
+{{:Cards/Grasslands}}
+
+===[[Cards/Desert|Desert]]===
+{{:Cards/Desert}}
+
+===[[Cards/Mountains|Mountains]]===
+{{:Cards/Mountains}}
+
+===[[Cards/The Mist|The Mist]]===
+{{:Cards/The_Mist}}
+
+===[[Cards/Dungeon|Dungeon]]===
+{{:Cards/Dungeon}}
+
+===[[Cards/Purgatory|Purgatory]]===
+{{:Cards/Purgatory}}
+
+===[[Cards/The Bog|The Bog]]===
+{{:Cards/The_Bog}}
+
+===[[Cards/Lunar Isle|Lunar Isle]]===
+{{:Cards/Lunar_Isle}}
+
+===[[Cards/Maelstrom|Maelstrom]]===
+{{:Cards/Maelstrom}}
+
+===[[Cards/Oblivion|Oblivion]]===
+{{:Cards/Oblivion}}
+
+===[[Cards/Raid Bosses|Raid Bosses]]===
+{{:Cards/Raid_Bosses}}
+
+===[[Cards/Asylum Bosses|Asylum Bosses]]===
+{{:Cards/Asylum_Bosses}}
+
+===[[Cards/Events|Events]]===
+{{:Cards/Events}}
+
+===[[Cards/Crusades|Crusades]]===
+{{:Cards/Crusades}}
+
+===[[Cards/Tilling|Tilling]]===
+{{:Cards/Tilling}}
+
+===[[Cards/Apothecary|Apothecary]]===
+{{:Cards/Apothecary}}
+
+===[[Cards/Botany|Botany]]===
+{{:Cards/Botany}}
+
+===[[Cards/Spelunking|Spelunking/Construction]]===
+{{:Cards/Spelunking}}
+
+|-|By: Bonus (2.4)=
+{{:Cards/By_Bonus}}
+
+|-|By: Graphic View=
+{{:Cards/Graphic_View}}
+</tabber>
+[[Category:Cards]]

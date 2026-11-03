@@ -1,0 +1,406 @@
+{{:Header/Farming}}Tilling is unlocked after clearing the [[Desert]] and is generates crops used to brew potions in [[Apothecary]]. [[Ascension]] does not reset or change any aspect in Tilling, but [[Rebirth]]ing resets both crops owned and Tilling level.
+== Tillers ==
+Up to 8 tillers can be hired to till crops on 8 plots of land. Each tiller has a Value and Speed variable which can be upgraded. Upgrading Value increases crop yield ([[File:Tilling_crop_icon.png]]) and the amount of tilling EXP awarded ([[File:Tillingexp_icon.png|14px]]), while upgrading Speed increases the rate crops and EXP are tilled ([[File:Speed_icon.png|14px]]). EXP is randomly awarded as tillers are working.
+
+The first tiller land plot is provided for free and an additional 7 can be purchased when prerequisite H2O levels are met.
+{| class="article-table" border="1" align="center"
+! Unlock Req.
+! style="text-align: center;"| Plot 1
+! style="text-align: center;"| Plot 2
+! style="text-align: center;"| Plot 3
+! style="text-align: center;"| Plot 4
+! style="text-align: center;"| Plot 5
+! style="text-align: center;"| Plot 6
+! style="text-align: center;"| Plot 7
+! style="text-align: center;"| Plot 8
+|-
+! Cost
+| style="text-align: center;"| - || <span style="color:#ffb31a">2500k</span> || <span style="color:#ffb31a">250m</span> || <span style="color:#ffb31a">18.8b</span> || <span style="color:#ffb31a">1.3t</span> || <span style="color:#ffb31a">78.2t</span> || <span style="color:#ffb31a">4.7q</span> || <span style="color:#ffb31a">273.5q</span>
+|-
+! H2O Level
+| style="text-align: center;"| - || 10 || 20 || 30 || 40 || 50 || 60 || 70
+|}
+
+===Tiller Types and Perks===
+In addition to Tilling EXP, each individual tiller earns Land EXP over time as well, which is used to open better Tillers and perks. The amount of EXP they earn can be increased by supplying varying amounts of dirt, clay, and a random crop to their plots.
+
+There are 5 types of Tillers which are based on their Land Ranks. 4 types are unlocked as they gain EXP by tilling and the last one is purchased through the [[Gem Shop]]. Each tiller type can be swapped at any time which might be useful for optimizing specific crop yields. However, using the highest type of Tiller will usually generate the most crop yield.
+
+As Land Rank increases, unique perks are unlocked that boost efficiency and crop yield.
+{| class="article-table" border="1" align="center"
+! style="text-align:center;"|Land<br />Rank
+! colspan="2" style="text-align:center;"| Tiller
+! style="text-align:center;"|Bonus
+! style="text-align:center;"| Perk
+! style="text-align:center;"| Bonus
+|-
+! [[File:Farmingrank1.png|center|40px]]
+| [[File:Serf_farmer.png|center|40px]]
+|Serf
+|No Bonus
+| [[File:Tillingperk1.png|center|40px]]
+| +25% Dirt for All Tillers
+|-
+! rowspan="3"| [[File:Farmingrank2.png|center|40px]]
+| rowspan="3"| [[File:Peasant_farmer.png|center|40px]]
+| rowspan="3"| Peasant
+| rowspan="3"| +25% Crops<br />+25 Tilling Speed
+| [[File:Tillingperk2.png|center|40px]]
+| +10% Rake Speed for All Tillers
+|-
+| [[File:Tillingperk3.png|center|40px]]
+| +10% Grass Type Craps for Every Active Serf
+|-
+| [[File:Tillingperk4.png|center|40px]]
+| +25% Tilling EXP for All Tillers
+|-
+! rowspan="3"| [[File:Farmingrank3.png|center|40px]]
+| rowspan="3" style="text-align:center;"| -
+| rowspan="3" style="text-align:center;"| -
+| rowspan="3" style="text-align:center;"| -
+| [[File:Tillingperk5.png|center|40px]]
+| +0.5% Dirt for Every H2O Level for All Tillers
+|-
+| [[File:Tillingperk6.png|center|40px]]
+| +10% Corn Type Crops for Every Active Peasant, Multiplicative
+|-
+| [[File:Tillingperk7.png|center|40px]]
+| +0.5 Crops for Every H2O Level for All Tillers
+|-
+! rowspan="2"| [[File:Farmingrank4.png|center|40px]]
+| rowspan="2"| [[File:Plantera_farmer.png|center|40px]]
+| rowspan="2"| Plantera
+| rowspan="2"| +50% Crops<br />+50 Tilling Speed
+| [[File:Tillingperk8.png|center|40px]]
+| +0.5% Dirt for Every Tilling Level for All Tillers
+|-
+| [[File:Tillingperk9.png|center|40px]]
+| +3% Crops for Every Power of 10 Corn Type Owned
+|-
+! rowspan="2"| [[File:Farmingrank5.png|center|40px]]
+| rowspan="2"| [[File:Noble_farmer.png|center|40px]]
+| rowspan="2"| Noble
+| rowspan="2"| +75% Crops<br />+75 Tilling Speed
+| [[File:Tillingperk10.png|center|40px]]
+| +10% Cabbage Crops for Every Active Plantera, Multiplicative
+|-
+| [[File:Tillingperk11.png|center|40px]]
+| +2% Crops for Every Power of 10 Cash Owned
+|-
+! rowspan="2"| [[File:Farmingrank6.png|center|40px]]
+| rowspan="2" style="text-align:center;"| -
+| rowspan="2" style="text-align:center;"| -
+| rowspan="2" style="text-align:center;"| -
+| [[File:Tillingperk12.png|center|40px]]
+| +3% Crops for Every Power of 10 Cabbage Type Owned
+|-
+| [[File:Tillingperk13.png|center|40px]]
+| +10% Crystal Crops for Every Active Noble, Multiplicative
+|-
+! [[File:Farmingrank7.png|center|40px]]
+| style="text-align:center;"| -
+| style="text-align:center;"| -
+| style="text-align:center;"| -
+| [[File:Tillingperk14.png|center|40px]]
+| +5% Crops for Every Power of 10 Sammatian Owned
+|-
+| colspan="6" |
+|-
+|! style="text-align:center;"| 150[[File:Loot_Gem.png|20px]]
+| [[File:Mythical_farmer.png|center|40px]]
+|Mystical
+| colspan="3"| +100% Crops<br />+100% Tilling Speed<br />+25% Crop Bonus to other Tillers
+|}
+
+==Crops==
+20 base crops are unlocked when tillers reach a specific level, but this requirement varies depending on every individual plot.
+{| class="article-table" border="1" align="center" style="text-align: center;"
+! colspan="10" style="text-align: center;"| Crop Requirements
+|-
+! colspan="2" rowspan="2" style="text-align: center;"| Crop
+! colspan="8" style="text-align: center;"| Plot / Tilling level
+|-
+! style="text-align: center;"| 1
+! style="text-align: center;"| 2
+! style="text-align: center;"| 3
+! style="text-align: center;"| 4
+! style="text-align: center;"| 5
+! style="text-align: center;"| 6
+! style="text-align: center;"| 7
+! style="text-align: center;"| 8
+|-
+| [[File:Dirt.png|center]] || Dirt || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+| [[File:Grass.png|center]] || Grass || 5 || 7 || 9 || 11 || 13 || 15 || 17 || 19
+|-
+| [[File:Quality_hay.png|center]] || Quality Hay || 10 || 12 || 14 || 16 || 18 || 20 || 22 || 24
+|-
+| [[File:Saffron.png|center]] || Saffron || 15 || 17 || 19 || 21 || 23 || 25 || 27 || 29
+|-
+| [[File:Corn.png|center]] || Corn || 20 || 22 || 24 || 26 || 28 || 30 || 32 || 34
+|-
+| [[File:Maize.png|center]] || Maize || 25 || 27 || 29 || 31 || 33 || 35 || 37 || 39
+|-
+| [[File:Hyper_stalk.png|center]] || Hyper Stalk || 30 || 32 || 34 || 36 || 38 || 40 || 42 || 44
+|-
+| [[File:Cabbage.png|center]] || Cabbage || 35 || 37 || 39 || 41 || 43 || 45 || 47 || 49
+|-
+| [[File:Ancient_dew.png|center]] || Ancient Dew || 40 || 42 || 44 || 46 || 48 || 50 || 52 || 54
+|-
+| [[File:Egg_yolk.png|center]] || Egg Yolk || 45 || 47 || 49 || 51 || 53 || 55 || 57 || 59
+|-
+| [[File:Packed_clay.png|center]] || Packed Clay || 50 || 52 || 54 || 56 || 58 || 60 || 62 || 64
+|-
+| [[File:Lil_pumpkin.png|center]] || Lil Pumpkin || 55 || 57 || 59 || 61 || 63 || 65 || 67 || 69
+|-
+| [[File:Macromato.png|center]] || Macromato || 60 || 62 || 64 || 66 || 68 || 70 || 72 || 74
+|-
+| [[File:Spooktobble.png|center]] || Spooktobble || 65 || 67 || 69 || 71 || 73 || 75 || 77 || 79
+|-
+| [[File:Crystal.png|center]] || Crystal || 70 || 72 || 74 || 76 || 78 || 80 || 82 || 84
+|-
+| [[File:Lucentium.png|center]] || Lucentium || 75 || 77 || 79 || 81 || 83 || 85 || 87 || 89
+|-
+| [[File:Prismatism.png|center]] || Prismatism || 80 || 82 || 84 || 86 || 88 || 90 || 92 || 94
+|-
+| [[File:Essence.png|center]] || Essence || 85 || 87 || 89 || 91 || 93 || 95 || 97 || 99
+|-
+| [[File:Hallownil.png|center]] || Hallownil || 90 || 92 || 94 || 96 || 98 || 100 || 102 || 104
+|-
+| [[File:Sammatian.png|center]] || Sammatian || 95 || 97 || 99 || 101 || 103 || 105 || 107 || 109
+|}
+
+== Darkmode Crops ==
+The Spelunking Update (v4.00) added 20 new crops. These crops need both Tilling level to grow them as well as [[Construction]] upgrades to unlock them. These crops statistics can be accessed by clicking on the black toggle button in the upper right corner of Tilling screen.
+
+{| class="article-table" border="1" align="center" style="text-align: center;"
+! colspan="11" style="text-align: center;"| Crop Requirements
+|-
+! colspan="2" rowspan="2" style="text-align: center;"| Crop
+! colspan="1" rowspan="2" style="text-align: center;"| Construction
+! colspan="8" style="text-align: center;"| Plot / Tilling level
+|-
+! style="text-align: center;"| 1
+! style="text-align: center;"| 2
+! style="text-align: center;"| 3
+! style="text-align: center;"| 4
+! style="text-align: center;"| 5
+! style="text-align: center;"| 6
+! style="text-align: center;"| 7
+! style="text-align: center;"| 8
+|-
+| [[File:Minril_soil.png]] || Minril Soil || rowspan="5" colspan="1"| [[File:Dirts_ahoy.png|center]] Dirts Ahoy Lv.1 || 105 || 110 || 115 || 120 || 125 || 130 || 135 ||140
+|-
+| [[File:Spuddies.png]] || Spuddies || 115 || 120 || 125 || 130 || 135 || 140 || 145 ||150
+|-
+| [[File:Vegetabip.png]] || Vegetabip || 125 || 130 || 135 || 140 || 145 || 150 || 155 ||160
+|-
+| [[File:Bunnymunch.png]] || Bunnymunch || 135 || 140 || 145 || 150 || 155 || 160 || 165 ||170
+|-
+| [[File:Darnedlion.png]] || Darnedlion || 145 || 150 || 155 || 160 || 165 || 170 || 175 ||180
+|-
+| [[File:Violetta.png]] || Violetta || rowspan="5" colspan="1"| [[File:Dirts_ahoy.png|center]] Dirts Ahoy Lv.2 || 155 || 160 || 165 || 170 || 175 || 180 || 185 ||190
+|-
+| [[File:Stunflower.png]] || Stunflower || 165 || 170 || 175 || 180 || 185 || 190 || 195 || 200
+|-
+| [[File:Lewdplants.png]] || LewdPlants || 175 || 180 || 185 || 190 || 195 || 200 || 205 || 210
+|-
+| [[File:Beanies.png]] || Beanies || 185 || 190 || 195 || 200 || 205 || 210 || 215 || 220
+|-
+| [[File:Banana_vine.png]] || Banana Vine || 195 || 200 || 205 || 210 || 215 || 220 || 225 || 230
+|-
+| [[File:Rupturium.png]] || Rupturium || rowspan="5" colspan="1"| [[File:Croppy_notes.png|center]] Croppy Notes Lv.1 || 205 || 210 || 215 || 220 || 225 || 230 || 235 ||240
+|-
+| [[File:Blue_grap.png]] || Blue Grap || 215 || 220 || 225 || 230 || 235 || 240 || 245 || 250
+|-
+| [[File:Pink_grap.png]] || Pink Grap || 225 || 230 || 235 || 240 || 245 || 250 || 255 || 260
+|-
+| [[File:White_grap.png]] || White Grap || 235 || 240 || 245 || 250 || 255 || 260 || 265 || 270
+|-
+| [[File:Abstract.png]] || Abstract || 245 || 250 || 255 || 260 || 265 || 270 || 275 || 280
+|-
+| [[File:Nonsensic.png]] || Nonsensic || rowspan="5" colspan="1"| [[File:Croppy_notes.png|center]] Croppy Notes Lv.2 || 255 || 260 || 265 || 270 || 275 || 280 || 285 ||290
+|-
+| [[File:Balderdash.png]] || Balderdash || 265 || 270 || 275 || 280 || 285 || 290 || 295 || 300
+|-
+| [[File:Choco_tree.png]] || Choco Tree || 275 || 280 || 285 || 290 || 295 || 300 || 305 || 310
+|-
+| [[File:Salt_lick.png]] || Salt Lick || 285 || 290 || 295 || 300 || 305 || 310 || 315 || 320
+|-
+| [[File:Carmamella.png]] || Carmamella || 295 || 300 || 305 || 310 || 315 || 320 || 325 || 330
+|}
+
+== Tilling Boosts ==
+=== Cards ===
+Unique Tilling [[cards]] can be earned while tilling crops on the screen (only light mode crops). Each crop has its own card and only drops while its respective crop is being tilled. However, card drop bonus does not influence tilling card drop rates.
+
+{{:Cards/Tilling|1}}
+<hr /><br />
+===Other===
+* [[Apothecary|Potions]]:<div class="mw-customtoggle-TillingPotions wikia-menu-button">Show/Hide table</div>
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-TillingPotions" align="center"
+|-
+! colspan="3" style="text-align: center;"| Botany Potions List
+|-
+! colspan="2" style="text-align: center;" |Potion
+! style="text-align: center;" | Per Level Bonus
+|-
+| style="text-align: center;"| [[File:Crop_remedy.png|center|30px]]
+| Crop Remedy
+| 3% Tilling Crops for All Tillers
+|-
+| style="text-align: center;"| [[File:Serf_serum.png|center|30px]]
+| Serf Serum || 10% Tilling EXP, 1% Tilling Speed
+|-
+| style="text-align: center;"| [[File:Croppin.png|center|30px]]
+| Croppin
+| 12% Crops Gained
+|-
+| style="text-align: center;"| [[File:Distill_till.png|center|30px]]
+| Distill Till
+| 2% Tilling EXP, 0.2% Tilling Speed for Every Tilling Level
+|-
+| style="text-align: center;"| [[File:Crop_pop.png|center|30px]]
+| Crop Pop
+| 50% Crops Gained
+|-
+| style="text-align: center;"| [[File:Till_recurve.png|center|30px]]
+| Till Recurve
+| 0.5% Crops for Every Tilling Level
+|-
+| style="text-align: center;"| [[File:Expendizzle.png|center|30px]]
+| Expendizzle
+| Tilling EXP Gain is Multiplied by X for Each New Crop Type Discovered
+|-
+| style="text-align: center;"| [[File:Forewordi.png|center|30px]]
+| Forewordi
+| times X Cash. Applied Y Times (Apply More via Trekking)
+(powered up by Nevasettle potion)
+|-
+| style="text-align: center;"| [[File:Brown_Drank.png|center|30px]]
+| Brown Drank
+| Leveling Up Tilling Has a X% Chance to Increase the Value LVL of All Eight Tillers
+|-
+| style="text-align: center;"| [[File:O_Cal_Masty.png|center|30px]]
+| O Cal Masty
+| Bonuses of the Mastery Perks Shown Below Are Multiplied by X
+[[File:Mastery_fight_3.png|24px]][[File:Mastery_collect_1.png|24px]][[File:Mastery_collect_2.png|24px]][[File:Mastery_collect_3.png|24px]][[File:Mastery_collect_4.png|24px]][[File:Mastery_collect_7.png|24px]]
+|-
+| style="text-align: center;"| [[File:Badonkadonk.png|center|30px]]
+| Badonkadonk
+| +X% Ores Every 50 Balls Launched (powered up by Baba Donakka potion)
+|-
+| style="text-align: center;"| [[File:Certo_Ouzo.png|center|30px]]
+| Certo Ouzo
+| times X Crop Gain per Cert. Ore
+<br />Certification Req:<div class="mw-customtoggle-CertoOuzo wikia-menu-button">Show/Hide table</div>
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-CertoOuzo" align="center"
+|-
+! scope="col"|Ore
+! scope="col"|Amount
+! scope="col"|Ore
+! scope="col"|Amount
+|-
+|[[File:Copper.png|center|24px]]
+|<span style="color:#00FA9A">1</span>
+|[[File:Dubloonium.png|center|24px]]
+|<span style="color:#00FA9A">10b</span>
+|-
+|[[File:Iron.png|center|24px]]
+|<span style="color:#00FA9A">10</span>
+|[[File:Glume.png|center|24px]]
+|<span style="color:#00FA9A">100b</span>
+|-
+|[[File:Gold.png|center|24px]]
+|<span style="color:#00FA9A">100</span>
+|[[File:Plument.png|center|24px]]
+|<span style="color:#00FA9A">1t</span>
+|-
+|[[File:Platinum.png|center|24px]]
+|<span style="color:#00FA9A">1k</span>
+|[[File:Figmentation.png|center|24px]]
+|<span style="color:#00FA9A">10t</span>
+|-
+|[[File:Cobalt.png|center|24px]]
+|<span style="color:#00FA9A">10k</span>
+|[[File:Demonite.png|center|24px]]
+|<span style="color:#00FA9A">100t</span>
+|-
+|[[File:Firesalt.png|center|24px]]
+|<span style="color:#00FA9A">100k</span>
+|[[File:Godshard.png|center|24px]]
+|<span style="color:#00FA9A">1q</span>
+|-
+|[[File:Effluvium.png|center|24px]]
+|<span style="color:#00FA9A">1m</span>
+|[[File:Warpium.png|center|24px]]
+|<span style="color:#00FA9A">10q</span>
+|-
+|[[File:Antimatter.png|center|24px]]
+|<span style="color:#00FA9A">10m</span>
+|[[File:Anodizia.png|center|24px]]
+|<span style="color:#00FA9A">100q</span>
+|-
+|[[File:Ruby.png|center|24px]]
+|<span style="color:#00FA9A">100m</span>
+|[[File:Gummi.png|center|24px]]
+|<span style="color:#00FA9A">1qq</span>
+|-
+|[[File:Refractium.png|center|24px]]
+|<span style="color:#00FA9A">1b</span>
+|[[File:Djinn.png|center|24px]]
+|<span style="color:#00FA9A">10qq</span>
+|}
+|-
+| style="text-align: center;"| [[File:Baba_Donakka.png|center|30px]]
+| Baba Donakka
+| Badonkadonk Potion Now Boosts More Things (Fish. Crops. Flowers. Brew Speed. Dmg)
+Its Boost is Increased to the Power of X (caps at 2)
+|-
+| style="text-align: center;"| [[File:Nevasettle.png|center|30px]]
+| Nevasettle
+| Forewordi Potion Now Boosts More Things (Damage. Ores. Tank EXP. Crops)
+Also +1 Applied Bonus per 5 Aberrant Monsters (does not improve)
+|}
+* [[Perks#Yellow Farming Perk Tree|Perk]] tree perks:
+** [[File:Yellowperk4.png|24px]] +5% double crop chance (up to 250%).
+** [[File:Yellowperk9.png|24px]] +3% crops for every mythic pot owned (up to 150%).
+* [[Rebirth]] perks:
+** [[File:BP_TillingLvls.png|24px]] Potato Veins, +1 Tilling starting levels after Rebirth (up to +40).
+** [[File:BP_Resources.png|24px]] Oresome Fishtastic, increases crop gained.
+* [[Train#Training Perks|Training]] perks:
+** [[File:TPerk_Crops.png|24px]] no.8, 10% crops gained (up to 990%).
+* [[Mastery]] perks:
+** [[File:Mastery_collect_3.png|24px]] crop gain (up to 184%).
+* [[Hatchery#Pet list|Pet]] passives:
+** [[File:Pet_Penguin.png|24px]] ID14 Penguin, 20% tilling crops per lvl.
+** [[File:Pet_Hyena.png|24px]] ID31 Hyena, 60% tilling crops per lvl.
+** [[File:Pet_PuppetBall.png|24px]] ID38 Puppet Ball, 100% tilling crops per lvl.
+* [[Research]] tanks:
+** [[File:Tank_Yellow.png|20px]] Yellow Tank 4, bonus 1 (increases crop bonus of Oresome Fishtastic Rebirth perk).
+** [[File:Tank_Pink.png|20px]] Pink Tank 2, bonus 2 (more tilling crops).
+** [[File:Tank_Purple.png|20px]] Purple Tank 5, bonus 1 (bonus away time in Farming areas).
+** [[File:Tank_Blue.png|20px]] Blue Tank 2, bonus 1 (additional max levels for Oresome Fishtastic Rebirth perk).
+** [[File:Tank_Blue.png|20px]] Blue Tank 3, bonus 3 (more tilling crops).
+** [[File:Tank_White.png|20px]] White Tank 3, bonus 1 (bonus crops for every red Land overlevel).
+* [[Smithing]] crafts:
+** [[File:Mythical_serfdoms.png|24px]] Mythical Serfdoms, Djinnic tier - up to 4,000% tilling land EXP.
+** [[File:One_Swing_Pick.png|24px]] One Swing Pick, Gaxial tier - times X crop gain for each star of Cool (blue) Cash.
+* [[Tinkering]] gear:
+** [[File:Warrior_axe.png|24px]] Warrior Axe, 17% crop land EXP.
+** [[File:Blood_screamer.png|24px]] Blood Screamer, 50% tilling EXP per H2O lvl.
+** [[File:Viking_horns.png|24px]] Viking Horns, 20% tilling EXP per H2O lvl.
+** [[File:Chilled_veins.png|24px]] Chilled Veins, 80% crops gained per tilling lvl.
+** [[File:Sweatpants.png|24px]] Sweatpants, 10% crop land EXP.
+** [[File:Combat_knife.png|24px]] Combat Knife, 25% crops gained per tilling lvl.
+** [[File:Creeper_shield.png|24px]] Creeper Shield, 1.5% tilling EXP per H2O lvl.
+** [[File:Carrot_charms.png|24px]] Carrot Charms, 20% crops gained per tilling lvl.
+* [[Arcade#Golden Ball Shop|Golden ball]] Arcade shop:
+** [[File:ArcadeShop_crops.png|30px]] 4% tilling crops (up to 800%).
+* [[Asylum]] shrines:
+** [[File:AsylumShrine_scavenge.png|36px]] Scavenge, +5% bonus to all forms of resource collection per lvl.
+* [[Contracts]] shop bonuses:
+** [[File:Shop_3_contract.png|24px]]grants Shop 3, bonus 4 - 10% more crops harvested , up to 110% (+100% with [[File:DairyAisle_Contract.png|24px]] [[Dairy Aisle|Perfectionist]].
+* [[Gem Shop]] purchases:
+** [[File:Mythical_farmer.png|24px]] Mystical Tillers gain +100% crops, have +100% speed and give a +25% crop bonus to all other tillers.
+[[Category:Farming]]

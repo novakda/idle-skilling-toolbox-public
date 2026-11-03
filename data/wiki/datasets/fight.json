@@ -1,0 +1,541 @@
+[
+ {
+  "_page": "Fight",
+  "_section": "Attacks",
+  "_table": 0,
+  "Description": "Swipe an enemy (2n) times, dealing (100 + 80n)% damage",
+  "Duration": "2 sec",
+  "Cooldown": "3 sec",
+  "Source": "Red Perk Tree",
+  "_images": [
+   "Claw_skill.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Attacks",
+  "_table": 0,
+  "Description": "Release a cloud of poison, dealing damage every (1 - 0.1n) second",
+  "Duration": "10 sec (bugged - only damages for 6 seconds)",
+  "Cooldown": "17 sec",
+  "Source": "Green Perk Tree",
+  "_images": [
+   "Poison_skill.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Attacks",
+  "_table": 0,
+  "Description": "Summon meteorites that hit 5 times, dealing (150 + 50n)% damage per hit",
+  "Duration": "7 sec",
+  "Cooldown": "15 sec",
+  "Source": "Orange Perk Tree",
+  "_images": [
+   "Metoer_skill.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Attacks",
+  "_table": 0,
+  "Description": "Slice an enemy many times, dealing (100 + 20n)% damage",
+  "Duration": "5 sec",
+  "Cooldown": "11 sec",
+  "Source": "Orange Perk Tree",
+  "_images": [
+   "Flurry_skill.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Attacks",
+  "_table": 0,
+  "Description": "Bash an enemy with many weapons, dealing (300 + 100n)% damage",
+  "Duration": "8 sec",
+  "Cooldown": "20 sec",
+  "Source": "Red Perk Tree",
+  "_images": [
+   "Smite_skill.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Buffs/Utility",
+  "_table": 1,
+  "Description": "Heal 25% HP per second",
+  "Duration": "5 sec",
+  "Cooldown": "15 sec",
+  "Source": "-",
+  "_images": [
+   "Heal_skill.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Buffs/Utility",
+  "_table": 1,
+  "Description": "Increases critical chance by (5 +5n)%",
+  "Duration": "10 sec",
+  "Cooldown": "35 sec",
+  "Source": "Red Perk Tree",
+  "_images": [
+   "Vision_skill.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Buffs/Utility",
+  "_table": 1,
+  "Description": "Clicking monsters gives (10n)% gold for 5 seconds",
+  "Duration": "5 sec",
+  "Cooldown": "120 sec",
+  "Source": "Green Perk Tree",
+  "_images": [
+   "Midas_skill.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Buffs/Utility",
+  "_table": 1,
+  "Description": "Prevents enemy damage for (n) seconds",
+  "Duration": "1-10 sec",
+  "Cooldown": "22 sec",
+  "Source": "Green Perk Tree",
+  "_images": [
+   "Seal_skill.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Buffs/Utility",
+  "_table": 1,
+  "Description": "Increases damage and HP by (20n)%",
+  "Duration": "12 sec",
+  "Cooldown": "30 sec",
+  "Source": "Orange Perk Tree",
+  "_images": [
+   "Valor_skill.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Special",
+  "_table": 2,
+  "Description": "Summon a ball of energy that oscillates over an enemy, dealing (300 + 100n)% damage as they overlap; click to change direction",
+  "Duration": "7 sec",
+  "Cooldown": "18 sec",
+  "Source": "Gray Perk Tree",
+  "_images": [
+   "Anion_skill.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Special",
+  "_table": 2,
+  "Description": "Surrounds the enemy with 6 icicles, each dealing (1800 + 600n)% damage",
+  "Duration": "4 sec",
+  "Cooldown": "30 sec",
+  "Source": "Gray Perk Tree",
+  "_images": [
+   "Icies_skill.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Special",
+  "_table": 2,
+  "Description": "Bonks an enemy for (3000 + 200n)% damage, steals (800 + 75n)% monster cash",
+  "Duration": "3 sec",
+  "Cooldown": "22 sec",
+  "Source": "White Key AP Perk",
+  "_images": [
+   "Banana_bonk_skill.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Special",
+  "_table": 2,
+  "Description": "Distracts enemy (2 + 0.2n) seconds, +100 crit chance, +(200 + 20n)% crit damage",
+  "Duration": "2+ sec",
+  "Cooldown": "28 sec",
+  "Source": "White Key AP Perk",
+  "_images": [
+   "Shoulder_tap_skill.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Special",
+  "_table": 2,
+  "Description": "Deals damage and heals",
+  "Source": "The little guy in Asylum",
+  "_images": [
+   "Vamp.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Special",
+  "_table": 2,
+  "Description": "Curse enemies with 400% HP and 400% damage, but +(20n)% rewards per level",
+  "Duration": "Toggle effect",
+  "Cooldown": "Toggle effect",
+  "Source": "Gray Perk Tree",
+  "_images": [
+   "Mark_skill.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Special",
+  "_table": 2,
+  "Description": "Decreases other skills cooldowns by 100%",
+  "Duration": "10 sec",
+  "Cooldown": "somewhere in the negatives (activatable again while still active)",
+  "Source": "Little Lava",
+  "_images": [
+   "Strafe.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Zones",
+  "_table": 3,
+  "col1": "Number of unique monsters",
+  "Grasslands": 16,
+  "Desert": 30,
+  "Mountains": 27,
+  "Mist": 21,
+  "Dungeon": 16,
+  "Vault": 23
+ },
+ {
+  "_page": "Fight",
+  "_section": "Zones",
+  "_table": 3,
+  "col1": "Number of encounters until Keymaster",
+  "Grasslands": 14,
+  "Desert": 28,
+  "Mountains": 47,
+  "Mist": 55,
+  "Dungeon": 42,
+  "Vault": "-"
+ },
+ {
+  "_page": "Fight",
+  "_section": "Zones",
+  "_table": 3,
+  "col1": "Number of glitches",
+  "Grasslands": 85,
+  "Desert": 71,
+  "Mountains": 52,
+  "Mist": 44,
+  "Dungeon": 56,
+  "Vault": "-"
+ },
+ {
+  "_page": "Fight",
+  "_section": "Zones",
+  "_table": 3,
+  "col1": "Minimum monster kills to clear zone",
+  "Grasslands": 1125,
+  "Desert": 8990,
+  "Mountains": 37440,
+  "Mist": 67220,
+  "Dungeon": 51345,
+  "Vault": "-"
+ },
+ {
+  "_page": "Fight",
+  "_section": "Zones",
+  "_table": 3,
+  "col1": "Number of cards",
+  "Grasslands": 16,
+  "Desert": 30,
+  "Mountains": 26,
+  "Mist": 21,
+  "Dungeon": 16,
+  "Vault": 0
+ },
+ {
+  "_page": "Fight",
+  "_section": "Zones",
+  "_table": 3,
+  "col1": "Card drop chance",
+  "Grasslands": "1/240",
+  "Desert": "1/300",
+  "Mountains": "1/360",
+  "Mist": "1/420",
+  "Dungeon": "1/480",
+  "Vault": 0
+ },
+ {
+  "_page": "Fight",
+  "_section": "Zones",
+  "_table": 3,
+  "col1": "Star card rarity",
+  "Grasslands": "0%",
+  "Desert": "+20%",
+  "Mountains": "+40%",
+  "Mist": "+60%",
+  "Dungeon": "+80%",
+  "Vault": 0
+ },
+ {
+  "_page": "Fight",
+  "_section": "Items",
+  "_table": 4,
+  "Food_2": "Fishwich",
+  "Bonus": "+3 HP per level every 2 seconds",
+  "Requirement": "Level 1 Smithing",
+  "_images": [
+   "Fishwich.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Items",
+  "_table": 4,
+  "Food_2": "Jellyfish Noodles",
+  "Bonus": "+15 HP per level every 4 seconds",
+  "Requirement": "Level 10 Smithing",
+  "_images": [
+   "Jellyfish_noodles.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Items",
+  "_table": 4,
+  "Food_2": "Angler Cuts",
+  "Bonus": "+50 HP per level every 7 seconds",
+  "Requirement": "Level 30 Smithing",
+  "_images": [
+   "Angler_cuts.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Items",
+  "_table": 4,
+  "Food_2": "Fished Corn",
+  "Bonus": "+200 HP per level every 8 seconds",
+  "Requirement": "Level 50 Smithing",
+  "_images": [
+   "Fished_corn.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Items",
+  "_table": 4,
+  "Food_2": "Flapjacks",
+  "Bonus": "+400 HP per level every 11 seconds",
+  "Requirement": "Level 60 Smithing",
+  "_images": [
+   "Flapjacks.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Items",
+  "_table": 4,
+  "Food_2": "Cyber F Series",
+  "Bonus": "Shields Every Fishwich Bite (caps at 2500%)",
+  "Requirement": "Level 90 Smithing",
+  "_images": [
+   "Cyber_f_series.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Items",
+  "_table": 4,
+  "Food_2": "Cyber J Series",
+  "Bonus": "Shields Every Fishwich Bite (caps at 4000%)",
+  "Requirement": "Level 120 Smithing",
+  "_images": [
+   "Cyber_j_series.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Perks",
+  "_table": 5,
+  "Item_2": "Endurance Perk 7",
+  "Type": "Healing from Food",
+  "Benefit": "+20% Per Level",
+  "_images": [
+   "Greenperk7.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Cards",
+  "_table": 6,
+  "Item_2": "Strawby Card",
+  "Type": "Healing from Food",
+  "Benefit": "5% Base, 100% Max",
+  "_images": [
+   "C strawby.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Cards",
+  "_table": 6,
+  "Item_2": "Desert Drink Card",
+  "Type": "Healing from Food",
+  "Benefit": "6% Base, 120% Max",
+  "_images": [
+   "C desert drink.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Cards",
+  "_table": 6,
+  "Item_2": "Cool Drink Card",
+  "Type": "Healing from Food",
+  "Benefit": "8% Base, 160% Max",
+  "_images": [
+   "C coll drink.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Cards",
+  "_table": 6,
+  "Item_2": "Mime Card",
+  "Type": "Healing from Food",
+  "Benefit": "11% Base, 220% Max",
+  "_images": [
+   "C mime.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Cards",
+  "_table": 6,
+  "Item_2": "Chalice Card",
+  "Type": "Healing from Food",
+  "Benefit": "12% Base, 240% Max",
+  "_images": [
+   "C chaineran.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Perks",
+  "_table": 7,
+  "Item_2": "Crusader Perk 7",
+  "Type": "Max Shields",
+  "Benefit": "+25% Per Level",
+  "_images": [
+   "Grayperk7.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Cards",
+  "_table": 8,
+  "Item_2": "Munched Card",
+  "Type": "Max Shields",
+  "Bonus": "10% Base, 200% Max",
+  "_images": [
+   "C munched.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Cards",
+  "_table": 8,
+  "Item_2": "Identity Card",
+  "Type": "Max Shields",
+  "Bonus": "15% Base, 300% Max",
+  "_images": [
+   "C identity.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Cards",
+  "_table": 8,
+  "Item_2": "Flesh Bloat Card",
+  "Type": "Max Shields",
+  "Bonus": "15% Base, 500% Max",
+  "_images": [
+   "C flesh bloat.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Cards",
+  "_table": 8,
+  "Item_2": "Moon Pie Card",
+  "Type": "Max Shields",
+  "Bonus": "25% Base, 500% Max",
+  "_images": [
+   "2 - Moon Pie.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Cards",
+  "_table": 8,
+  "Item_2": "Faust Card",
+  "Type": "Max Shields",
+  "Bonus": "75% Base, 1500% max",
+  "_images": [
+   "C faust.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Cards",
+  "_table": 8,
+  "Item_2": "Sadness Card",
+  "Type": "Max Shields",
+  "Bonus": "80% Base, 1600% Max",
+  "_images": [
+   "C sadness.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Cards",
+  "_table": 8,
+  "Item_2": "Cansius Card",
+  "Type": "Shield Charge Rate",
+  "Bonus": "3% Base, 60% Max",
+  "_images": [
+   "C canesius.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Cards",
+  "_table": 8,
+  "Item_2": "Lunar Jim Card",
+  "Type": "Shield Charge Rate",
+  "Bonus": "4% Base, 80% Max",
+  "_images": [
+   "12 - Lunar Jim.png"
+  ]
+ },
+ {
+  "_page": "Fight",
+  "_section": "Cards",
+  "_table": 8,
+  "Item_2": "Infant Card",
+  "Type": "Shield Charge Rate",
+  "Bonus": "5% Base, 100% Max",
+  "_images": [
+   "C infant.png"
+  ]
+ }
+]

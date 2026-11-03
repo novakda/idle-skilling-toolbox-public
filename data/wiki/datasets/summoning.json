@@ -1,0 +1,399 @@
+[
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 0,
+  "Gold Coin Rift_2": "NORMAL",
+  "Gold Coin Rift_3": "Gives cash based on current Fighting enemy",
+  "Gold Coin Rift_5": "PRO",
+  "Gold Coin Rift_6": "1.X cash gain increase for every 10 rift levels",
+  "_images": [
+   "Coin_rift.png",
+   "Pro_coin_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 0,
+  "Gold Coin Rift_2": "Cost to Unlock",
+  "Gold Coin Rift_3": "-",
+  "Gold Coin Rift_4": "-",
+  "Gold Coin Rift_5": "Max Bonus",
+  "Gold Coin Rift_6": "1.5x increase",
+  "_images": [
+   "Coin_rift.png",
+   "Pro_coin_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 0,
+  "Gold Coin Rift_2": "Level Req.",
+  "Gold Coin Rift_3": 1,
+  "Gold Coin Rift_5": "Unlock Req.",
+  "Gold Coin Rift_6": "Level 1 Rift Pro",
+  "_images": [
+   "Coin_rift.png",
+   "Pro_coin_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 1,
+  "Water Rift_2": "NORMAL",
+  "Water Rift_3": "Boosts all offline and away H2O earned by 15% + 3% per level",
+  "Water Rift_5": "PRO",
+  "Water Rift_6": "H2O exp required goes up slower when you level up",
+  "_images": [
+   "Water_rift.png",
+   "Pro_water_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 1,
+  "Water Rift_2": "Cost to Unlock",
+  "Water Rift_3": "10x",
+  "Water Rift_5": "Max Bonus",
+  "Water Rift_6": "by 10.23% per level",
+  "_images": [
+   "Water_rift.png",
+   "Red_soul.png",
+   "Pro_water_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 1,
+  "Water Rift_2": "Level Req.",
+  "Water Rift_3": 10,
+  "Water Rift_5": "Unlock Req.",
+  "Water Rift_6": "Level 2 Rift Pro",
+  "_images": [
+   "Water_rift.png",
+   "Pro_water_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 2,
+  "Power Rift_2": "NORMAL",
+  "Power Rift_3": "Boosts all damage dealt by 20% + 5% per level",
+  "Power Rift_5": "PRO",
+  "Power Rift_6": "Boosts all pet damage dealt",
+  "_images": [
+   "Power_rift.png",
+   "Pro_power_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 2,
+  "Power Rift_2": "Cost to Unlock",
+  "Power Rift_3": "300x 20x",
+  "Power Rift_5": "Max Bonus",
+  "Power Rift_6": "by 153%",
+  "_images": [
+   "Power_rift.png",
+   "Red_soul.png",
+   "Orange_soul.png",
+   "Pro_power_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 2,
+  "Power Rift_2": "Level Req.",
+  "Power Rift_3": 20,
+  "Power Rift_5": "Unlock Req.",
+  "Power Rift_6": "Level 3 Rift Pro",
+  "_images": [
+   "Power_rift.png",
+   "Pro_power_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 3,
+  "Health Rift_2": "NORMAL",
+  "Health Rift_3": "Boosts maximum HP 16% + 4% per level",
+  "Health Rift_5": "PRO",
+  "Health Rift_6": "Boosts max pet HP",
+  "_images": [
+   "Health_rift.png",
+   "Pro_health_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 3,
+  "Health Rift_2": "Cost to Unlock",
+  "Health Rift_3": "400x 25x",
+  "Health Rift_5": "Max Bonus",
+  "Health Rift_6": "by 191%",
+  "_images": [
+   "Health_rift.png",
+   "Orange_soul.png",
+   "Yellow_soul.png",
+   "Pro_health_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 3,
+  "Health Rift_2": "Level Req.",
+  "Health Rift_3": 30,
+  "Health Rift_5": "Unlock Req.",
+  "Health Rift_6": "Level 4 Rift Pro",
+  "_images": [
+   "Health_rift.png",
+   "Pro_health_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 4,
+  "Mining Rift_2": "NORMAL",
+  "Mining Rift_3": "Boosts offline and away ores and EXP gained by 20% + 5% per level",
+  "Mining Rift_5": "PRO",
+  "Mining Rift_6": "Mining exp required goes up slower when you level up",
+  "_images": [
+   "Mining_rift.png",
+   "Pro_mining_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 4,
+  "Mining Rift_2": "Cost to Unlock",
+  "Mining Rift_3": "400x 3x",
+  "Mining Rift_5": "Max Bonus",
+  "Mining Rift_6": "by 25.74% per level",
+  "_images": [
+   "Mining_rift.png",
+   "Yellow_soul.png",
+   "Blue_soul.png",
+   "Pro_mining_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 4,
+  "Mining Rift_2": "Level Req.",
+  "Mining Rift_3": 40,
+  "Mining Rift_5": "Unlock Req.",
+  "Mining Rift_6": "Level 5 Rift Pro",
+  "_images": [
+   "Mining_rift.png",
+   "Pro_mining_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 5,
+  "Attack Speed Rift_2": "NORMAL",
+  "Attack Speed Rift_3": "Boosts idle attack speed by 13% + 5% per level",
+  "Attack Speed Rift_5": "PRO",
+  "Attack Speed Rift_6": "Boosts builder and machine speed",
+  "_images": [
+   "Atk_speed_rift.png",
+   "Pro_atk_speed_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 5,
+  "Attack Speed Rift_2": "Cost to Unlock",
+  "Attack Speed Rift_3": "500x 5x",
+  "Attack Speed Rift_5": "Max Bonus",
+  "Attack Speed Rift_6": "by 152.4%",
+  "_images": [
+   "Atk_speed_rift.png",
+   "Green_soul.png",
+   "Purple_soul.png",
+   "Pro_atk_speed_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 5,
+  "Attack Speed Rift_2": "Level Req.",
+  "Attack Speed Rift_3": 50,
+  "Attack Speed Rift_5": "Unlock Req.",
+  "Attack Speed Rift_6": "Level 1 Rift God",
+  "_images": [
+   "Atk_speed_rift.png",
+   "Pro_atk_speed_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 6,
+  "Shield Rift_2": "NORMAL",
+  "Shield Rift_3": "Boosts maximum shield charge by 15% + 5% per level",
+  "Shield Rift_5": "PRO",
+  "Shield Rift_6": "Get more asylum traces from both bosses and skills",
+  "_images": [
+   "Spirit_rift.png",
+   "Pro_shield_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 6,
+  "Shield Rift_2": "Cost to Unlock",
+  "Shield Rift_3": "200x 20x",
+  "Shield Rift_5": "Max Bonus",
+  "Shield Rift_6": "by 227.8%",
+  "_images": [
+   "Spirit_rift.png",
+   "Blue_soul.png",
+   "Purple_soul.png",
+   "Pro_shield_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 6,
+  "Shield Rift_2": "Level Req.",
+  "Shield Rift_3": 60,
+  "Shield Rift_5": "Unlock Req.",
+  "Shield Rift_6": "Level 2 Rift God",
+  "_images": [
+   "Spirit_rift.png",
+   "Pro_shield_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 7,
+  "Mega AP Rift_2": "NORMAL",
+  "Mega AP Rift_3": "Boosts AP gained on Ascension by 25% + 5% per level",
+  "Mega AP Rift_5": "PRO",
+  "Mega AP Rift_6": "Increases BP gained each rebirth",
+  "_images": [
+   "Ap_rift.png",
+   "Pro_ap_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 7,
+  "Mega AP Rift_2": "Cost to Unlock",
+  "Mega AP Rift_3": "80x 5x",
+  "Mega AP Rift_5": "Max Bonus",
+  "Mega AP Rift_6": "by 226.9%",
+  "_images": [
+   "Ap_rift.png",
+   "Purple_soul.png",
+   "White_soul.png",
+   "Pro_ap_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 7,
+  "Mega AP Rift_2": "Level Req.",
+  "Mega AP Rift_3": 70,
+  "Mega AP Rift_5": "Unlock Req.",
+  "Mega AP Rift_6": "Level 3 Rift God",
+  "_images": [
+   "Ap_rift.png",
+   "Pro_ap_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 8,
+  "Rift Rift_2": "NORMAL",
+  "Rift Rift_3": "Boosts the level of each Rift by 1 per level",
+  "Rift Rift_5": "PRO",
+  "Rift Rift_6": "Rift Rift has a chance to trigger twice",
+  "_images": [
+   "Summon_rift.png",
+   "Pro_rift_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 8,
+  "Rift Rift_2": "Cost to Unlock",
+  "Rift Rift_3": "700Mx 15x",
+  "Rift Rift_5": "Max Bonus",
+  "Rift Rift_6": "22.9% chance",
+  "_images": [
+   "Summon_rift.png",
+   "Red_soul.png",
+   "White_soul.png",
+   "Pro_rift_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 8,
+  "Rift Rift_2": "Level Req.",
+  "Rift Rift_3": 80,
+  "Rift Rift_5": "Unlock Req.",
+  "Rift Rift_6": "Level 4 Rift God",
+  "_images": [
+   "Summon_rift.png",
+   "Pro_rift_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 9,
+  "Gem Rift_3": "Generates 1500 Gems over 10 days",
+  "_images": [
+   "Gem_rift.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 9,
+  "Gem Rift_2": "Cost to Unlock",
+  "Gem Rift_3": "500in Gem Shop",
+  "_images": [
+   "Gem_rift.png",
+   "Loot_Gem.png"
+  ]
+ },
+ {
+  "_page": "Summoning",
+  "_section": "Pro Rifts",
+  "_table": 9,
+  "Gem Rift_2": "Level Req.",
+  "Gem Rift_3": 1,
+  "_images": [
+   "Gem_rift.png"
+  ]
+ }
+]

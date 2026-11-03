@@ -1,0 +1,2249 @@
+[
+ {
+  "_page": "Apothecary",
+  "_section": "Cauldrons",
+  "_table": 0,
+  "Unlock Req.": "Cost",
+  "Cauldron 1": "-",
+  "Cauldron 2": "20M",
+  "Cauldron 3": "100B",
+  "Cauldron 4": "500T",
+  "Cauldron 5": "2.5QQ",
+  "Cauldron 6": "12PC"
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cauldrons",
+  "_table": 0,
+  "Unlock Req.": "H2O Level",
+  "Cauldron 1": "-",
+  "Cauldron 2": 30,
+  "Cauldron 3": 45,
+  "Cauldron 4": 60,
+  "Cauldron 5": 75,
+  "Cauldron 6": 90
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Red Rarity",
+  "_table": 1,
+  "Level Req.": 1,
+  "Potion_2": "Mack Attack",
+  "Per Level Bonus": "1% Damage Every 10 Attack Levels",
+  "_images": [
+   "Mack_attack.png",
+   "Dirt.png",
+   "Weeds.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Red Rarity",
+  "_table": 1,
+  "Level Req.": 2,
+  "Potion_2": "Whey Cool EXP",
+  "Per Level Bonus": "12% EXP From All Gym Skillers",
+  "_images": [
+   "Whey_cool_exp.png",
+   "Dirt.png",
+   "Weeds.png",
+   "Grass.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Red Rarity",
+  "_table": 1,
+  "Level Req.": 3,
+  "Potion_2": "Monster Cash",
+  "Per Level Bonus": "2% Cash from Enemies",
+  "_images": [
+   "Monster_cash.png",
+   "Dirt.png",
+   "Weeds.png",
+   "Berries.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Red Rarity",
+  "_table": 1,
+  "Level Req.": 4,
+  "Potion_2": "Crop Remedy",
+  "Per Level Bonus": "3% Tilling Crops for All Tillers",
+  "_images": [
+   "Crop_remedy.png",
+   "Dirt.png",
+   "Weeds.png",
+   "Grass.png",
+   "Berries.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Red Rarity",
+  "_table": 1,
+  "Level Req.": 5,
+  "Potion_2": "Miracle Grow",
+  "Per Level Bonus": "4% Botany Growth Speed",
+  "_images": [
+   "Miracle_grow.png",
+   "Grass.png",
+   "Weeds.png",
+   "Dirt.png",
+   "Typha.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Red Rarity",
+  "_table": 1,
+  "Level Req.": 6,
+  "Potion_2": "Ore Boostio",
+  "Per Level Bonus": "4% Ores Mined",
+  "_images": [
+   "Ore_boostio.png",
+   "Grass.png",
+   "Berries.png",
+   "Quality_hay.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Red Rarity",
+  "_table": 1,
+  "Level Req.": 7,
+  "Potion_2": "Based Damage",
+  "Per Level Bonus": "400 Base Damage",
+  "_images": [
+   "Based_damage.png",
+   "Grass.png",
+   "Berries.png",
+   "Dirt.png",
+   "Flowers.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Red Rarity",
+  "_table": 1,
+  "Level Req.": 8,
+  "Potion_2": "Smith Redux",
+  "Per Level Bonus": "-0.25% Reduced Total Smithing Cost (Caps at -90%)",
+  "_images": [
+   "Smith_redux.png",
+   "Grass.png",
+   "Berries.png",
+   "Corn.png",
+   "Weeds.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Orange Rarity",
+  "_table": 2,
+  "Level Req.": 12,
+  "Potion_2": "Strength Buster",
+  "Per Level Bonus": "1% Damage Every 10 Strength Levels",
+  "_images": [
+   "Strength_buster.png",
+   "Grass.png",
+   "Berries.png",
+   "Quality_hay.png",
+   "Typha.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Orange Rarity",
+  "_table": 2,
+  "Level Req.": 13,
+  "Potion_2": "Dojo Blood",
+  "Per Level Bonus": "15% EXP from All Dojo Skillers",
+  "_images": [
+   "Dojo_blood.png",
+   "Quality_hay.png",
+   "Berries.png",
+   "Grass.png",
+   "Flowers.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Orange Rarity",
+  "_table": 2,
+  "Level Req.": 14,
+  "Potion_2": "Cheap Pot",
+  "Per Level Bonus": "-0.5% Cost of Potion Making (Caps at -90%)",
+  "_images": [
+   "Cheap_pot.png",
+   "Quality_hay.png",
+   "Typha.png",
+   "Saffron.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Orange Rarity",
+  "_table": 2,
+  "Level Req.": 15,
+  "Potion_2": "Flower Power",
+  "Per Level Bonus": "5% Flowers Gained for All Botany Pots",
+  "_images": [
+   "Flower_power.png",
+   "Quality_hay.png",
+   "Typha.png",
+   "Flowers.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Orange Rarity",
+  "_table": 2,
+  "Level Req.": 16,
+  "Potion_2": "Idle Pow Pow",
+  "Per Level Bonus": "5% Idle Damage",
+  "_images": [
+   "Idle_pow_pow.png",
+   "Quality_hay.png",
+   "Typha.png",
+   "Saffron.png",
+   "Flowers.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Orange Rarity",
+  "_table": 2,
+  "Level Req.": 17,
+  "Potion_2": "Minor Miner",
+  "Per Level Bonus": "5% Mining EXP",
+  "_images": [
+   "Minor_miner.png",
+   "Quality_hay.png",
+   "Typha.png",
+   "Corn.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Orange Rarity",
+  "_table": 2,
+  "Level Req.": 18,
+  "Potion_2": "Big Farma",
+  "Per Level Bonus": "5% Botany EXP",
+  "_images": [
+   "Big_farma.png",
+   "Saffron.png",
+   "Typha.png",
+   "Corn.png",
+   "Flowers.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Orange Rarity",
+  "_table": 2,
+  "Level Req.": 19,
+  "Potion_2": "AP Cash Money",
+  "Per Level Bonus": "0.25% Monster Cash for Every Power of 10 AP Owned",
+  "_images": [
+   "Ap_cash_money.png",
+   "Saffron.png",
+   "Flowers.png",
+   "Quality_hay.png",
+   "Palm_tree.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Orange Rarity",
+  "_table": 2,
+  "Level Req.": 20,
+  "Potion_2": "Scim Polish",
+  "Per Level Bonus": "Imbued Scimatars Give +3 More Base Damage Each",
+  "_images": [
+   "Scim_polish.png",
+   "Saffron.png",
+   "Flowers.png",
+   "Corn.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Orange Rarity",
+  "_table": 2,
+  "Level Req.": 21,
+  "Potion_2": "Exotic Yield",
+  "Per Level Bonus": "10% Exotic Flowers",
+  "_images": [
+   "Exotic_yield.png",
+   "Saffron.png",
+   "Flowers.png",
+   "Quality_hay.png",
+   "Sapling.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Yellow Rarity",
+  "_table": 3,
+  "Level Req.": 26,
+  "Potion_2": "Smith Buff",
+  "Per Level Bonus": "1% Damage Every 10 Smithing Levels",
+  "_images": [
+   "Smith_buff.png",
+   "Corn.png",
+   "Flowers.png",
+   "Hyper_stalk.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Yellow Rarity",
+  "_table": 3,
+  "Level Req.": 27,
+  "Potion_2": "Rock Mixture",
+  "Per Level Bonus": "15% EXP from all Mountain Skillers",
+  "_images": [
+   "Rock_mixture.png",
+   "Corn.png",
+   "Flowers.png",
+   "Maize.png",
+   "Cactus.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Yellow Rarity",
+  "_table": 3,
+  "Level Req.": 28,
+  "Potion_2": "Weed Speed",
+  "Per Level Bonus": "10% Botany Growth Speeds",
+  "_images": [
+   "Weed_speed.png",
+   "Corn.png",
+   "Cactus.png",
+   "Saffron.png",
+   "Sapling.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Yellow Rarity",
+  "_table": 3,
+  "Level Req.": 29,
+  "Potion_2": "Idle Zoom",
+  "Per Level Bonus": "5% Idle Speed",
+  "_images": [
+   "Idle_zoom.png",
+   "Corn.png",
+   "Cactus.png",
+   "Maize.png",
+   "Palm_tree.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Yellow Rarity",
+  "_table": 3,
+  "Level Req.": 30,
+  "Potion_2": "Serf Serum",
+  "Per Level Bonus": "10% Tilling EXP, 1% Tilling Speed",
+  "_images": [
+   "Serf_serum.png",
+   "Maize.png",
+   "Cactus.png",
+   "Hyper_stalk.png",
+   "Palm_tree.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Yellow Rarity",
+  "_table": 3,
+  "Level Req.": 31,
+  "Potion_2": "Penguinzo",
+  "Per Level Bonus": "2% Critical Damage",
+  "_images": [
+   "Penguinzo.png",
+   "Maize.png",
+   "Cactus.png",
+   "Sapling.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Yellow Rarity",
+  "_table": 3,
+  "Level Req.": 32,
+  "Potion_2": "Bubblez",
+  "Per Level Bonus": "5% Cauldron Speed",
+  "_images": [
+   "Bubblez.png",
+   "Maize.png",
+   "Cactus.png",
+   "Cabbage.png",
+   "Palm_tree.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Yellow Rarity",
+  "_table": 3,
+  "Level Req.": 33,
+  "Potion_2": "Gold Cash",
+  "Per Level Bonus": "0.5% Cash for Every Power of 10 Gold Ore Owned",
+  "_images": [
+   "Gold_cash.png",
+   "Maize.png",
+   "Palm_tree.png",
+   "Hyper_stalk.png",
+   "Sapling.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Yellow Rarity",
+  "_table": 3,
+  "Level Req.": 34,
+  "Potion_2": "Ore Superbio",
+  "Per Level Bonus": "10% Ores Mined",
+  "_images": [
+   "Ore_superbio.png",
+   "Hyper_stalk.png",
+   "Palm_tree.png",
+   "Ancient_dew.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Yellow Rarity",
+  "_table": 3,
+  "Level Req.": 35,
+  "Potion_2": "Ripperoo",
+  "Per Level Bonus": "Crystalline Rippers Give +15 More Base Damage Each",
+  "_images": [
+   "Ripperoo.png",
+   "Hyper_stalk.png",
+   "Palm_tree.png",
+   "Weeplings.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Yellow Rarity",
+  "_table": 3,
+  "Level Req.": 36,
+  "Potion_2": "Smith Reredux",
+  "Per Level Bonus": "-0.5% Reduced Total Smithing Cost (Caps at -95%)",
+  "_images": [
+   "Smith_reredux.png",
+   "Hyper_stalk.png",
+   "Palm_tree.png",
+   "Corn.png",
+   "Mint_cane.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Yellow Rarity",
+  "_table": 3,
+  "Level Req.": 37,
+  "Potion_2": "Potion Dubble",
+  "Per Level Bonus": "2% Chance for Potions to Level Up Twice Instead of Once (Chance to Level Up Thrice at 100%+)",
+  "_images": [
+   "Potion_dubble.png",
+   "Hyper_stalk.png",
+   "Sapling.png",
+   "Ancient_dew.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Lime Rarity",
+  "_table": 4,
+  "Level Req.": 42,
+  "Potion_2": "HP Damagey",
+  "Per Level Bonus": "1% Damage Every 10 Endurance Levels",
+  "_images": [
+   "Hp_damagey.png",
+   "Cabbage.png",
+   "Sapling.png",
+   "Weeplings.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Lime Rarity",
+  "_table": 4,
+  "Level Req.": 43,
+  "Potion_2": "Field Dew",
+  "Per Level Bonus": "15% EXP from All Field Skillers",
+  "_images": [
+   "Field_dew.png",
+   "Cabbage.png",
+   "Sapling.png",
+   "Egg_yolk.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Lime Rarity",
+  "_table": 4,
+  "Level Req.": 44,
+  "Potion_2": "Pot Enabler",
+  "Per Level Bonus": "1 Max Upgradeable Flower Pot Speed Level (Bonus Increases by 1 Every 3 Levels)",
+  "_images": [
+   "Pot_enabler.png",
+   "Cabbage.png",
+   "Sapling.png",
+   "Ancient_dew.png",
+   "Weeplings.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Lime Rarity",
+  "_table": 4,
+  "Level Req.": 45,
+  "Potion_2": "Croppin",
+  "Per Level Bonus": "12% Crops Gained",
+  "_images": [
+   "Croppin.png",
+   "Cabbage.png",
+   "Weeplings.png",
+   "Ancient_dew.png",
+   "saharan_foal.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Lime Rarity",
+  "_table": 4,
+  "Level Req.": 46,
+  "Potion_2": "OG Damage",
+  "Per Level Bonus": "1500 Base Damage",
+  "_images": [
+   "Og_damage.png",
+   "Ancient_dew.png",
+   "Weeplings.png",
+   "Cabbage.png",
+   "Mint_cane.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Lime Rarity",
+  "_table": 4,
+  "Level Req.": 47,
+  "Potion_2": "Crusoda",
+  "Per Level Bonus": "4% Crusade EXP",
+  "_images": [
+   "Crusoda.png",
+   "Ancient_dew.png",
+   "Weeplings.png",
+   "Egg_yolk.png",
+   "saharan_foal.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Lime Rarity",
+  "_table": 4,
+  "Level Req.": 48,
+  "Potion_2": "Growgrow",
+  "Per Level Bonus": "15% Botany Plants Given",
+  "_images": [
+   "Growgrow.png",
+   "Ancient_dew.png",
+   "Weeplings.png",
+   "Mint_cane.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Lime Rarity",
+  "_table": 4,
+  "Level Req.": 49,
+  "Potion_2": "Big Winner",
+  "Per Level Bonus": "10% Cash from Enemies",
+  "_images": [
+   "Big_winner.png",
+   "Ancient_dew.png",
+   "Saharan_foal.png",
+   "Packed_clay.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Lime Rarity",
+  "_table": 4,
+  "Level Req.": 50,
+  "Potion_2": "Riftion",
+  "Per Level Bonus": "8% Rift EXP",
+  "_images": [
+   "Riftion.png",
+   "Egg_yolk.png",
+   "Saharan_foal.png",
+   "Ancient_dew.png",
+   "Crystals.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Lime Rarity",
+  "_table": 4,
+  "Level Req.": 51,
+  "Potion_2": "Raw Power",
+  "Per Level Bonus": "12% Total Damage",
+  "_images": [
+   "Raw_power.png",
+   "Egg_yolk.png",
+   "Saharan_foal.png",
+   "Macromato.png",
+   "Weeplings.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Lime Rarity",
+  "_table": 4,
+  "Level Req.": 52,
+  "Potion_2": "Hype Jar",
+  "Per Level Bonus": "30% Botany EXP Gained",
+  "_images": [
+   "Hype_jar.png",
+   "Egg_yolk.png",
+   "saharan_foal.png",
+   "Packed_clay.png",
+   "Mint_cane.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Lime Rarity",
+  "_table": 4,
+  "Level Req.": 53,
+  "Potion_2": "MineXP",
+  "Per Level Bonus": "15% Mining EXP",
+  "_images": [
+   "Minexp.png",
+   "Egg_yolk.png",
+   "Mint_cane.png",
+   "Crystals.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Lime Rarity",
+  "_table": 4,
+  "Level Req.": 54,
+  "Potion_2": "Smith Stunter",
+  "Per Level Bonus": "Smithing Costs Go Up by 0.02% Less After Every Craft (Caps at -1.5%)",
+  "_images": [
+   "Smith_stunter.png",
+   "Egg_yolk.png",
+   "Mint_cane.png",
+   "Lil_pumpkin.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cyan Rarity",
+  "_table": 5,
+  "Level Req.": 59,
+  "Potion_2": "Water Goner",
+  "Per Level Bonus": "1% Damage Every 10 H2O Levels",
+  "_images": [
+   "Water_goner.png",
+   "Packed_clay.png",
+   "Mint_cane.png",
+   "Crystals.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cyan Rarity",
+  "_table": 5,
+  "Level Req.": 60,
+  "Potion_2": "Sweat Cup",
+  "Per Level Bonus": "15% H2O EXP from Gym Skillers",
+  "_images": [
+   "Sweat_cup.png",
+   "Packed_clay.png",
+   "Mint_cane.png",
+   "Lil_pumpkin.png",
+   "Crystals.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cyan Rarity",
+  "_table": 5,
+  "Level Req.": 61,
+  "Potion_2": "Smalloan",
+  "Per Level Bonus": "Start New Ascensions with (5+0.5*lvl)% of Cash Owned before Ascending (Caps at 99%)",
+  "_images": [
+   "Smalloan.png",
+   "Packed_clay.png",
+   "Crystals.png",
+   "Egg_yolk.png",
+   "Fyreling.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cyan Rarity",
+  "_table": 5,
+  "Level Req.": 62,
+  "Potion_2": "Flower Flow",
+  "Per Level Bonus": "40% Botany Growth Speed",
+  "_images": [
+   "Flower_flow.png",
+   "Packed_clay.png",
+   "Crystals.png",
+   "Lil_pumpkin.png",
+   "Candypop.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cyan Rarity",
+  "_table": 5,
+  "Level Req.": 63,
+  "Potion_2": "Krunkade",
+  "Per Level Bonus": "8% Critical Damage",
+  "_images": [
+   "Krunkade.png",
+   "Packed_clay.png",
+   "Crystals.png",
+   "Fyreling.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cyan Rarity",
+  "_table": 5,
+  "Level Req.": 64,
+  "Potion_2": "Idle Woosh",
+  "Per Level Bonus": "15% Idle Speed",
+  "_images": [
+   "Idle_woosh.png",
+   "Lil_pumpkin.png",
+   "Crystals.png",
+   "Macromato.png",
+   "Candypop.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cyan Rarity",
+  "_table": 5,
+  "Level Req.": 65,
+  "Potion_2": "Exotic Mix",
+  "Per Level Bonus": "40% Exotic Flowers",
+  "_images": [
+   "Exotic_mix.png",
+   "Lil_pumpkin.png",
+   "Candypop.png",
+   "Packed_clay.png",
+   "Blood_tree.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cyan Rarity",
+  "_table": 5,
+  "Level Req.": 66,
+  "Potion_2": "Oresome",
+  "Per Level Bonus": "25% Ores Mined",
+  "_images": [
+   "Oresome.png",
+   "Lil_pumpkin.png",
+   "Candypop.png",
+   "Crystal.png",
+   "Crystals.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cyan Rarity",
+  "_table": 5,
+  "Level Req.": 67,
+  "Potion_2": "Cashin Out",
+  "Per Level Bonus": "20% Cash from Enemies",
+  "_images": [
+   "Cashin_out.png",
+   "Lil_pumpkin.png",
+   "Candypop.png",
+   "Macromato.png",
+   "Fyreling.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cyan Rarity",
+  "_table": 5,
+  "Level Req.": 68,
+  "Potion_2": "Distill Till",
+  "Per Level Bonus": "2% Tilling EXP, 0.2% Tilling Speed for Every Tilling Level",
+  "_images": [
+   "Distill_till.png",
+   "Lil_pumpkin.png",
+   "Candypop.png",
+   "Blood_tree.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cyan Rarity",
+  "_table": 5,
+  "Level Req.": 69,
+  "Potion_2": "Plant Vroom",
+  "Per Level Bonus": "50% Botany Plants Given",
+  "_images": [
+   "Plant_vroom.png",
+   "Lil_pumpkin.png",
+   "Fyreling.png",
+   "Spooktobble.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cyan Rarity",
+  "_table": 5,
+  "Level Req.": 70,
+  "Potion_2": "Bigger Big",
+  "Per Level Bonus": "Big Ol' Swords Give +60 More Base Damage Each",
+  "_images": [
+   "Bigger_big.png",
+   "Macromato.png",
+   "Fyreling.png",
+   "Crystal.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cyan Rarity",
+  "_table": 5,
+  "Level Req.": 71,
+  "Potion_2": "Smith Redoox",
+  "Per Level Bonus": "-1% Reduced Total Smithing Cost (Caps at -98%)",
+  "_images": [
+   "Smith_redoox.png",
+   "Macromato.png",
+   "Fyreling.png",
+   "Spooktobble.png",
+   "Blood_tree.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Purple Rarity",
+  "_table": 6,
+  "Level Req.": 76,
+  "Potion_2": "Spirit Hit",
+  "Per Level Bonus": "2% Damage Every 10 Spiriting Levels",
+  "_images": [
+   "Spirit_hit.png",
+   "Macromato.png",
+   "Fyreling.png",
+   "Lucentium.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Purple Rarity",
+  "_table": 6,
+  "Level Req.": 77,
+  "Potion_2": "AP Tonic",
+  "Per Level Bonus": "10% AP Gained",
+  "_images": [
+   "Ap_tonic.png",
+   "Macromato.png",
+   "Blood_tree.png",
+   "Crystal.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Purple Rarity",
+  "_table": 6,
+  "Level Req.": 78,
+  "Potion_2": "More Fast",
+  "Per Level Bonus": "1 Max Upgradeable Flower Pot Speed Level (Bonus Increases by 1 Every 2 Levels)",
+  "_images": [
+   "More_fast.png",
+   "Macromato.png",
+   "Blood_tree.png",
+   "Prismatism.png",
+   "Fyreling.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Purple Rarity",
+  "_table": 6,
+  "Level Req.": 79,
+  "Potion_2": "Crop Pop",
+  "Per Level Bonus": "50% Crops Gained",
+  "_images": [
+   "Crop_pop.png",
+   "Spooktobble.png",
+   "Blood_tree.png",
+   "Crystal.png",
+   "Mushroom_ingredient.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Purple Rarity",
+  "_table": 6,
+  "Level Req.": 80,
+  "Potion_2": "Idle Kachow",
+  "Per Level Bonus": "10% Idle Damage",
+  "_images": [
+   "Idle_kachow.png",
+   "Spooktobble.png",
+   "Blood_tree.png",
+   "Macromato.png",
+   "Demonia.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Purple Rarity",
+  "_table": 6,
+  "Level Req.": 81,
+  "Potion_2": "Peak Plant",
+  "Per Level Bonus": "+100 Botany EXP",
+  "_images": [
+   "Peak_plant.png",
+   "Spooktobble.png",
+   "Mushroom_ingredient.png",
+   "Prismatism.png",
+   "Blood_tree.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Purple Rarity",
+  "_table": 6,
+  "Level Req.": 82,
+  "Potion_2": "Irrelevance",
+  "Per Level Bonus": "4000 Base Damage",
+  "_images": [
+   "Irrelevance.png",
+   "Spooktobble.png",
+   "Mushroom_ingredient.png",
+   "Lucentium.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Purple Rarity",
+  "_table": 6,
+  "Level Req.": 83,
+  "Potion_2": "Bargane",
+  "Per Level Bonus": "-2% Cost of Potion Brewing (Caps at -95%)",
+  "_images": [
+   "Bargane.png",
+   "Crystal.png",
+   "Mushroom_ingredient.png",
+   "Essence.png",
+   "Blood_tree.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Purple Rarity",
+  "_table": 6,
+  "Level Req.": 84,
+  "Potion_2": "Thief N Gin",
+  "Per Level Bonus": "0.2% Cash for Every Level of Trinkets Crafted",
+  "_images": [
+   "Thief_n_gin.png",
+   "Crystal.png",
+   "Mushroom_ingredient.png",
+   "Lucentium.png",
+   "Flesh_tree.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Purple Rarity",
+  "_table": 6,
+  "Level Req.": 85,
+  "Potion_2": "Totalitariat",
+  "Per Level Bonus": "40% Total Damage",
+  "_images": [
+   "Totalitariat.png",
+   "Crystal.png",
+   "Flesh_tree.png",
+   "Prismatism.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Purple Rarity",
+  "_table": 6,
+  "Level Req.": 86,
+  "Potion_2": "M Vitality",
+  "Per Level Bonus": "30% Max HP",
+  "_images": [
+   "M_vitality.png",
+   "Crystal.png",
+   "Flesh_tree.png",
+   "Lucentium.png",
+   "Demonia.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Purple Rarity",
+  "_table": 6,
+  "Level Req.": 87,
+  "Potion_2": "Converzin",
+  "Per Level Bonus": "2 Base Damage for Every 100 Base HP that You Have",
+  "_images": [
+   "Converzin.png",
+   "Crystal.png",
+   "Flesh_tree.png",
+   "Essence.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Purple Rarity",
+  "_table": 6,
+  "Level Req.": 88,
+  "Potion_2": "Smith Snail",
+  "Per Level Bonus": "Smithing Costs Go Up by 0.04% Less After Every Craft (Caps at -3%)",
+  "_images": [
+   "Smith_snail.png",
+   "Lucentium.png",
+   "Flesh_tree.png",
+   "Prismatism.png",
+   "Demonia.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Demon Rarity",
+  "_table": 7,
+  "Level Req.": 94,
+  "Potion_2": "Contract Pact",
+  "Per Level Bonus": "2% Damage Every 10 Contract Levels",
+  "_images": [
+   "Contract_pact.png",
+   "Lucentium.png",
+   "Demonia.png",
+   "Hallownil.png",
+   "Flesh_tree.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Demon Rarity",
+  "_table": 7,
+  "Level Req.": 95,
+  "Potion_2": "Trinko Gogo",
+  "Per Level Bonus": "Dubloon Trinkets Give +0.5% Cash Each",
+  "_images": [
+   "Trinko_gogo.png",
+   "Lucentium.png",
+   "Demonia.png",
+   "Prismatism.png",
+   "Cursed_eye.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Demon Rarity",
+  "_table": 7,
+  "Level Req.": 96,
+  "Potion_2": "Salve Labo",
+  "Per Level Bonus": "Enigmatic Booster from Smithing Boosts Botany Speed by 2% for Each Craft",
+  "_images": [
+   "Salve_labo.png",
+   "Lucentium.png",
+   "Demonia.png",
+   "Crystal.png",
+   "Lemming.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Demon Rarity",
+  "_table": 7,
+  "Level Req.": 97,
+  "Potion_2": "Criticola",
+  "Per Level Bonus": "20% Critical Damage",
+  "_images": [
+   "Criticola.png",
+   "Lucentium.png",
+   "Demonia.png",
+   "Hallownil.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Demon Rarity",
+  "_table": 7,
+  "Level Req.": 98,
+  "Potion_2": "Value Yumyum",
+  "Per Level Bonus": "10% Skiller EXP for Every 100 Value Upgrades Bought",
+  "_images": [
+   "Value_yumyum.png",
+   "Prismatism.png",
+   "Cursed_eye.png",
+   "Essence.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Demon Rarity",
+  "_table": 7,
+  "Level Req.": 99,
+  "Potion_2": "Till Recurve",
+  "Per Level Bonus": "0.5% Crops for Every Tilling Level",
+  "_images": [
+   "Till_recurve.png",
+   "Prismatism.png",
+   "Cursed_eye.png",
+   "Sammatian.png",
+   "Demonia.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Demon Rarity",
+  "_table": 7,
+  "Level Req.": 100,
+  "Potion_2": "Transfusion",
+  "Per Level Bonus": "1% Total Damage for Every +100% Total HP Bonus that You Have",
+  "_images": [
+   "Transfusion.png",
+   "Prismatism.png",
+   "Cursed_eye.png",
+   "Hallownil.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Demon Rarity",
+  "_table": 7,
+  "Level Req.": 101,
+  "Potion_2": "Bonkloot",
+  "Per Level Bonus": "2% Cash for Every Power of 10 Kills of Current Enemy",
+  "_images": [
+   "Bonkloot.png",
+   "Prismatism.png",
+   "Veninsulic.png",
+   "Hallownil.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Demon Rarity",
+  "_table": 7,
+  "Level Req.": 102,
+  "Potion_2": "Plant Vroom",
+  "Per Level Bonus": "3% Botany Growth Speed for Every Botany Level",
+  "_images": [
+   "Plant_vroom2.png",
+   "Essence.png",
+   "Veninsulic.png",
+   "Lemming.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Demon Rarity",
+  "_table": 7,
+  "Level Req.": 103,
+  "Potion_2": "Limbo Luck",
+  "Per Level Bonus": "Increases Max Luck Upgrade Level by 1 in Spiriting Zone",
+  "_images": [
+   "Limbo_luck.png",
+   "Essence.png",
+   "Veninsulic.png",
+   "Sammatian.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Demon Rarity",
+  "_table": 7,
+  "Level Req.": 104,
+  "Potion_2": "Canned Shield",
+  "Per Level Bonus": "50% Max Shields",
+  "_images": [
+   "Canned_shield.png",
+   "Essence.png",
+   "Lemming.png",
+   "Hallownil.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Demon Rarity",
+  "_table": 7,
+  "Level Req.": 105,
+  "Potion_2": "AP Powah",
+  "Per Level Bonus": "10% Damage for Every Power of 10 AP Owned",
+  "_images": [
+   "Ap_powah.png",
+   "Essence.png",
+   "Lemming.png",
+   "Prismatism.png",
+   "Icecream.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Demon Rarity",
+  "_table": 7,
+  "Level Req.": 106,
+  "Potion_2": "Daedry",
+  "Per Level Bonus": "Smithing Costs Go Up By 0.04% Less After Every Craft (Caps at 4%)",
+  "_images": [
+   "Instacraft.png",
+   "Essence.png",
+   "Lemming.png",
+   "Hallownil.png",
+   "Chlorine.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Godly Rarity",
+  "_table": 8,
+  "Level Req.": 113,
+  "Potion_2": "Drop of Each",
+  "Per Level Bonus": "0.02% Damage for Every Total Potion Level",
+  "_images": [
+   "Drop_of_each.png",
+   "Hallownil.png",
+   "Chlorine.png",
+   "Prismatism.png",
+   "Belldrop.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Godly Rarity",
+  "_table": 8,
+  "Level Req.": 114,
+  "Potion_2": "Broken Galaxy",
+  "Per Level Bonus": "Galaxial Slasher Gives 50 More Base Damage for Every Broken Dagger Crafted",
+  "_images": [
+   "Broken_galaxy.png",
+   "Hallownil.png",
+   "Chlorine.png",
+   "Sammatian.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Godly Rarity",
+  "_table": 8,
+  "Level Req.": 115,
+  "Potion_2": "Killionaire",
+  "Per Level Bonus": "15% Damage for Every Power of 10 Total Enemy Kills",
+  "_images": [
+   "Killionaire.png",
+   "Hallownil.png",
+   "Chlorine.png",
+   "Sammatian.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Godly Rarity",
+  "_table": 8,
+  "Level Req.": 116,
+  "Potion_2": "Standstill",
+  "Per Level Bonus": "Smithing Costs Go Up by 0.08% Less After Every Craft (Caps at -5.5%)",
+  "_images": [
+   "Standstill.png",
+   "Hallownil.png",
+   "Icecream.png",
+   "Essence.png",
+   "Belldrop.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Godly Rarity",
+  "_table": 8,
+  "Level Req.": 117,
+  "Potion_2": "Hourglass",
+  "Per Level Bonus": "5% Cash for Every Level of Hourglass Smithing Items Crafted",
+  "_images": [
+   "Hourglass.png",
+   "Hallownil.png",
+   "Icecream.png",
+   "Sammatian.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Godly Rarity",
+  "_table": 8,
+  "Level Req.": 118,
+  "Potion_2": "Shiny",
+  "Per Level Bonus": "20% Damage for Every Unspent Diamond Merit",
+  "_images": [
+   "Shiny.png",
+   "Badge5.png",
+   "Hallownil.png",
+   "Icecream.png",
+   "Belldrop.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Godly Rarity",
+  "_table": 8,
+  "Level Req.": 119,
+  "Potion_2": "Fame",
+  "Per Level Bonus": "8% Damage for Every Power of 10 Raid Awards Owned",
+  "_images": [
+   "Fame.png",
+   "Hallownil.png",
+   "Belldrop.png",
+   "Sammatian.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Godly Rarity",
+  "_table": 8,
+  "Level Req.": 120,
+  "Potion_2": "Miracle",
+  "Per Level Bonus": "X% Chance for a Super Cool Tunnels Card",
+  "_images": [
+   "Miracle_grow2.png",
+   "Sammatian.png",
+   "Belldrop.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Godly Rarity",
+  "_table": 8,
+  "Level Req.": 121,
+  "Potion_2": "Aloof",
+  "Per Level Bonus": "-0.1% Reduced Total Smithing Cost for Each Blacksmith Pill Crafted (Caps at -98%)",
+  "_images": [
+   "Aloof.png",
+   "Sammatian.png",
+   "Belldrop.png",
+   "Sunburst.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Godly Rarity",
+  "_table": 8,
+  "Level Req.": 122,
+  "Potion_2": "Bob Perfume",
+  "Per Level Bonus": "How Strange... This Potion Didn't Come with Any Description Label (Note: Required for Unlocking Bob Pet)",
+  "_images": [
+   "Zyxkal.png",
+   "Sammatian.png",
+   "Sunburst.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Godly Rarity",
+  "_table": 8,
+  "Level Req.": 123,
+  "Potion_2": "Pride",
+  "Per Level Bonus": "5% Damage for Every Level 5 Monster Card",
+  "_images": [
+   "Pride.png",
+   "Sammatian.png",
+   "Sunburst.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Godly Rarity",
+  "_table": 8,
+  "Level Req.": 124,
+  "Potion_2": "Unparalleled",
+  "Per Level Bonus": "2% Card Bonus (caps at 612%)",
+  "_images": [
+   "Unparalleled.png",
+   "Sammatian.png",
+   "Sunburst.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Godly Rarity",
+  "_table": 8,
+  "Level Req.": 125,
+  "Potion_2": "Blasphemy",
+  "Per Level Bonus": "2% Potion Bonus",
+  "_images": [
+   "Blasphemy.png",
+   "Sammatian.png",
+   "Sunburst.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cosmic Rarity",
+  "_table": 9,
+  "Level Req.": 126,
+  "Potion_2": "Cygnus",
+  "Per Level Bonus": "Levels Up All Red, Orange and Yellow Potion Every Time This One Levels Up",
+  "_images": [
+   "Cygnus.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_1.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cosmic Rarity",
+  "_table": 9,
+  "Level Req.": 127,
+  "Potion_2": "Lupinis",
+  "Per Level Bonus": "Oberon Obliterator Boost From Kills Increased To Power of 0.055% Fueled By Ensouled Heads",
+  "_images": [
+   "Lupinis.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_1.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cosmic Rarity",
+  "_table": 9,
+  "Level Req.": 128,
+  "Potion_2": "Orniun",
+  "Per Level Bonus": "0.16% Chance for Exp Req to Not Go Up When You Level Up Your Strength Level",
+  "_images": [
+   "Orniun.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_2.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cosmic Rarity",
+  "_table": 9,
+  "Level Req.": 129,
+  "Potion_2": "Cepheus",
+  "Per Level Bonus": "+1.5 Max Cauldron Speed Upgrade Levels",
+  "_images": [
+   "Cepheus.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_2.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cosmic Rarity",
+  "_table": 9,
+  "Level Req.": 130,
+  "Potion_2": "Persezia",
+  "Per Level Bonus": "0.16% Chance for Exp Req to Not Go Up When You Level Up Your Apothecary Level",
+  "_images": [
+   "Persezia.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_3.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cosmic Rarity",
+  "_table": 9,
+  "Level Req.": 131,
+  "Potion_2": "Auricia",
+  "Per Level Bonus": "2% Vessels Gain in Trekking",
+  "_images": [
+   "Auricia.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_3.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cosmic Rarity",
+  "_table": 9,
+  "Level Req.": 132,
+  "Potion_2": "Dippah",
+  "Per Level Bonus": "0.15% Chance for Exp Req to Not Go Up When You Level Up Your H2O Level",
+  "_images": [
+   "Dippah.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_4.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cosmic Rarity",
+  "_table": 9,
+  "Level Req.": 133,
+  "Potion_2": "Corvius",
+  "Per Level Bonus": "3% RP Gain for All Tanks",
+  "_images": [
+   "Corvius.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_4.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cosmic Rarity",
+  "_table": 9,
+  "Level Req.": 134,
+  "Potion_2": "Serpenzu",
+  "Per Level Bonus": "Levels Up All Green, Cyan and Purple Potion Every Time This One Levels Up",
+  "_images": [
+   "Serpenzu.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_5.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cosmic Rarity",
+  "_table": 9,
+  "Level Req.": 135,
+  "Potion_2": "Cantivici",
+  "Per Level Bonus": "0.13% Chain Level Chance",
+  "_images": [
+   "Cantivici.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_6.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Cosmic Rarity",
+  "_table": 9,
+  "Level Req.": 136,
+  "Potion_2": "Ophiucus",
+  "Per Level Bonus": "Levels Up All Demon and Godly Potion Every Time This One Levels Up",
+  "_images": [
+   "Ophiucus.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_7.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Laddy",
+  "_table": 10,
+  "Level Req.": 152,
+  "Cons. Lv.": 1,
+  "Potion_2": "Redemptsin",
+  "Bonus": "Failing To Get a New Flower Increases New Flower Chance by X% (Only for Highest Plant)",
+  "_images": [
+   "Redemptsin.png",
+   "minril_soil.png",
+   "baubles.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Laddy",
+  "_table": 10,
+  "Level Req.": 153,
+  "Cons. Lv.": 1,
+  "Potion_2": "Tealy Drank",
+  "Bonus": "Leveling Up Fishing Has a X% Chance to Increase the Level of All 3 Power Upgrades",
+  "_images": [
+   "Tealy_Drank.png",
+   "minril_soil.png",
+   "baubles.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Laddy",
+  "_table": 10,
+  "Level Req.": 154,
+  "Cons. Lv.": 1,
+  "Potion_2": "Expendizzle",
+  "Bonus": "Tilling EXP Gain is Multiplied by X for Each New Crop Type Discovered",
+  "_images": [
+   "Expendizzle.png",
+   "spuddies.png",
+   "fluxissa.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Laddy",
+  "_table": 10,
+  "Level Req.": 155,
+  "Cons. Lv.": 2,
+  "Potion_2": "Spunky Pop",
+  "Bonus": "Spelunking EXP Gain Increased by +X% Every Power of 10 Gold Skulls Owned",
+  "_images": [
+   "Spunky_Pop.png",
+   "spuddies.png",
+   "fluxissa.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Laddy",
+  "_table": 10,
+  "Level Req.": 156,
+  "Cons. Lv.": 2,
+  "Potion_2": "Evoluzin",
+  "Bonus": "Chance to Hatch a New Pet is Increased by X% Every 20 Hatchery Levels",
+  "_images": [
+   "Evoluzin.png",
+   "vegetabip.png",
+   "spillage.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Laddy",
+  "_table": 10,
+  "Level Req.": 157,
+  "Cons. Lv.": 2,
+  "Potion_2": "Admite",
+  "Bonus": "Get a Permanent +X% Cash Bonus Every 10 Raid Tickets You Collect",
+  "_images": [
+   "Admite.png",
+   "vegetabip.png",
+   "spillage.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Laddy",
+  "_table": 10,
+  "Level Req.": 158,
+  "Cons. Lv.": 3,
+  "Potion_2": "Treasurade",
+  "Bonus": "+X% Damage for Every Treasure You Have at Least 1 Million of (Y for Each Skull)",
+  "_images": [
+   "Treasurade.png",
+   "vegetabip.png",
+   "alienbush.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Laddy",
+  "_table": 10,
+  "Level Req.": 159,
+  "Cons. Lv.": 3,
+  "Potion_2": "Diet Masty",
+  "Bonus": "Bonuses of the Mastery Perks Shown Below are Multiplied by X",
+  "_images": [
+   "Diet_Masty.png",
+   "Mastery_fight_1.png",
+   "Mastery_fight_2.png",
+   "Mastery_fight_6.png",
+   "Mastery_variety_10.png",
+   "bunnymunch.png",
+   "alienbush.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Laddy",
+  "_table": 10,
+  "Level Req.": 160,
+  "Cons. Lv.": 3,
+  "Potion_2": "Purple Drank",
+  "Bonus": "Leveling Up Mining Has a X% Chance to Increase the Value LVL of All Six Miners",
+  "_images": [
+   "Purple_Drank.png",
+   "bunnymunch.png",
+   "tentacles.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Laddy",
+  "_table": 10,
+  "Level Req.": 161,
+  "Cons. Lv.": 4,
+  "Potion_2": "Butof Course",
+  "Bonus": "EXP Gain for All 3 Pet Skills Increased by X%",
+  "_images": [
+   "Butof_Course.png",
+   "darnedlion.png",
+   "tentacles.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Laddy",
+  "_table": 10,
+  "Level Req.": 162,
+  "Cons. Lv.": 4,
+  "Potion_2": "Crackin Yolk",
+  "Bonus": "10% Chance to Trigger an Eggshell Chain These Eggshells are Worth times X More (caps at 3x)",
+  "_images": [
+   "Crackin_Yolk.png",
+   "darnedlion.png",
+   "eggsacks.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Laddy",
+  "_table": 10,
+  "Level Req.": 163,
+  "Cons. Lv.": 4,
+  "Potion_2": "Forewordi",
+  "Bonus": "times X Cash. Applied Y Times (Apply More via Trekking) (powered up by Nevasettle potion)",
+  "_images": [
+   "Forewordi.png",
+   "darnedlion.png",
+   "eggsacks.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Man",
+  "_table": 11,
+  "Cons. Lv.": 1,
+  "Potion_2": "Knowitall",
+  "Bonus": "Spelunk Learning Rate Increased by X%",
+  "_images": [
+   "Knowitall.png",
+   "violetta.png",
+   "shrapnil.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Man",
+  "_table": 11,
+  "Cons. Lv.": 1,
+  "Potion_2": "Keymeister",
+  "Bonus": "Get a Permanent +X% Damage Bonus Every 10 Asylum Keys You Collect",
+  "_images": [
+   "Keymeister.png",
+   "violetta.png",
+   "shrapnil.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Man",
+  "_table": 11,
+  "Cons. Lv.": 1,
+  "Potion_2": "Magno Booko",
+  "Bonus": "+X% Spelunker Speed per 10 Spelunking LVLs (Multiplied by Number of Learning Spelunkers)",
+  "_images": [
+   "Magno_Booko.png",
+   "stunflower.png",
+   "dabberdoo.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Man",
+  "_table": 11,
+  "Cons. Lv.": 2,
+  "Potion_2": "Coca Prola",
+  "Bonus": "Increases the Maximum Bonus Upgrade LVL of Pro Rifts to X (Caps at 100)",
+  "_images": [
+   "Coca_Prola.png",
+   "stunflower.png",
+   "dabberdoo.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Man",
+  "_table": 11,
+  "Cons. Lv.": 2,
+  "Potion_2": "Brown Drank",
+  "Bonus": "Leveling Up Tilling Has a X% Chance to Increase the Value LVL of All Eight Tillers",
+  "_images": [
+   "Brown_Drank.png",
+   "lewdplants.png",
+   "fourchese.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Man",
+  "_table": 11,
+  "Cons. Lv.": 2,
+  "Potion_2": "O Cal Masty",
+  "Bonus": "Bonuses of the Mastery Perks Shown Below Are Multiplied by X",
+  "_images": [
+   "O_Cal_Masty.png",
+   "Mastery_fight_3.png",
+   "Mastery_collect_1.png",
+   "Mastery_collect_2.png",
+   "Mastery_collect_3.png",
+   "Mastery_collect_4.png",
+   "Mastery_collect_7.png",
+   "lewdplants.png",
+   "fourchese.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Man",
+  "_table": 11,
+  "Cons. Lv.": 3,
+  "Potion_2": "Olivertime",
+  "Bonus": "Dig Down Amount Increases X% Faster After Reaching the End of a Tunnel",
+  "_images": [
+   "Olivertime.png",
+   "lewdplants.png",
+   "sapswing.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Man",
+  "_table": 11,
+  "Cons. Lv.": 3,
+  "Potion_2": "Gray Drank",
+  "Bonus": "Leveling Up Botany Has a X% Chance to Increase the Value and Speed LVL of All Pots",
+  "_images": [
+   "Gray_Drank.png",
+   "beanies.png",
+   "sapswing.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Man",
+  "_table": 11,
+  "Cons. Lv.": 3,
+  "Potion_2": "Hybriseed",
+  "Bonus": "Machine Speed Increase per Construction Level is X% Higher",
+  "_images": [
+   "Hybriseed.png",
+   "beanies.png",
+   "twisturn.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Man",
+  "_table": 11,
+  "Cons. Lv.": 4,
+  "Potion_2": "Injurade",
+  "Bonus": "+X% Pet Damage Every 25 Percent of HP Your Team is Missing",
+  "_images": [
+   "Injurade.png",
+   "Banana vine.png",
+   "twisturn.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Man",
+  "_table": 11,
+  "Cons. Lv.": 4,
+  "Potion_2": "Yolks On Yolks",
+  "Bonus": "Gives the Crackin Yolk Potion +X% Chance to Trigger an Eggshell Chain (caps at +65%)",
+  "_images": [
+   "Yolks_On_Yolks.png",
+   "Banana vine.png",
+   "corale.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Man",
+  "_table": 11,
+  "Cons. Lv.": 4,
+  "Potion_2": "Donut Bottle",
+  "Bonus": "Smithing Costs Go Up by a Minimum of X% Without This Potion the Minimum per LVL is 2.5%",
+  "_images": [
+   "Donut_Bottle.png",
+   "Banana vine.png",
+   "corale.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Maestro",
+  "_table": 12,
+  "Cons. Lv.": 1,
+  "Potion_2": "Liste Ntoit",
+  "Bonus": "Crop Costs for Brewing Reduced by X% for Every Power of 10 Saharan Foals Owned",
+  "_images": [
+   "Liste_Ntoit.png",
+   "rupturium.png",
+   "swissile.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Maestro",
+  "_table": 12,
+  "Cons. Lv.": 1,
+  "Potion_2": "Cascade",
+  "Bonus": "Leveling Up a Rift Has a X% Chance to Level Up the Rift to its Left (caps at 50%)",
+  "_images": [
+   "Cascade.png",
+   "rupturium.png",
+   "swissile.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Maestro",
+  "_table": 12,
+  "Cons. Lv.": 1,
+  "Potion_2": "Riche Biche",
+  "Bonus": "Spelunk Treasure is Worth X% More Every 10 Spelunking Level",
+  "_images": [
+   "Riche_Biche.png",
+   "Blue grap.png",
+   "Spider tree.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Maestro",
+  "_table": 12,
+  "Cons. Lv.": 2,
+  "Potion_2": "Macroppe",
+  "Bonus": "+X% Crusade Material Gain for Every Crusade Level Above 160 (Also +Y% Crusade EXP)",
+  "_images": [
+   "Macroppe.png",
+   "Blue grap.png",
+   "Spider tree.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Maestro",
+  "_table": 12,
+  "Cons. Lv.": 2,
+  "Potion_2": "Cup Of Calm",
+  "Bonus": "+X% Extra Levels Gained When a Spelunker Absorbs",
+  "_images": [
+   "Cup_Of_Calm.png",
+   "Pink grap.png",
+   "Normal rook.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Maestro",
+  "_table": 12,
+  "Cons. Lv.": 2,
+  "Potion_2": "Jug Of Storm",
+  "Bonus": "Learn Traits Can Now LVL Up by +X in a Single Absorb (caps at +15)",
+  "_images": [
+   "Jug_Of_Storm.png",
+   "Pink grap.png",
+   "Normal rook.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Maestro",
+  "_table": 12,
+  "Cons. Lv.": 3,
+  "Potion_2": "Crimsi Drank",
+  "Bonus": "Leveling Up Apothecary Has a X% Chance to Increase the Value and Speed LVL of Cauldrons",
+  "_images": [
+   "Crimsi_Drank.png",
+   "Pink grap.png",
+   "Podacian.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Maestro",
+  "_table": 12,
+  "Cons. Lv.": 3,
+  "Potion_2": "Cooooool",
+  "Bonus": "+X% Chance to Get Those Super Cool Tunnel Cards",
+  "_images": [
+   "Cooooool.png",
+   "White grap.png",
+   "Podacian.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Maestro",
+  "_table": 12,
+  "Cons. Lv.": 3,
+  "Potion_2": "Nest Lea",
+  "Bonus": "+X% Chance to Double LVL Up When Upgrading a Hatchery Nest (No Double Charge!) (caps at +200%)",
+  "_images": [
+   "Nest_Lea.png",
+   "White grap.png",
+   "Marsh mello.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Maestro",
+  "_table": 12,
+  "Cons. Lv.": 4,
+  "Potion_2": "Genetea",
+  "Bonus": "+X% Chance to Hatch a Pet with 2 or 3 Genes",
+  "_images": [
+   "Genetea.png",
+   "Abstract.png",
+   "Marsh mello.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Maestro",
+  "_table": 12,
+  "Cons. Lv.": 4,
+  "Potion_2": "Trunkoke",
+  "Bonus": "Tank LVL Up Reqs are Reduced by X% for Every Power of 10 Green Vessels Owned",
+  "_images": [
+   "Trunkoke.png",
+   "Abstract.png",
+   "Snowlad.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Maestro",
+  "_table": 12,
+  "Cons. Lv.": 4,
+  "Potion_2": "Badonkadonk",
+  "Bonus": "+X% Ores Every 50 Balls Launched (powered up by Baba Donakka potion)",
+  "_images": [
+   "Badonkadonk.png",
+   "Abstract.png",
+   "Snowlad.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Bobby",
+  "_table": 13,
+  "Cons. Lv.": 1,
+  "Potion_2": "Hydrogenation",
+  "Bonus": "times X Damage Bonus Applied Y Times (Level Up H2O to Apply More Times)",
+  "_images": [
+   "Hydrogenation.png",
+   "Nonsensic.png",
+   "Stem_cells.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Bobby",
+  "_table": 13,
+  "Cons. Lv.": 1,
+  "Potion_2": "Tressii",
+  "Bonus": "Increases the Max Perk Tree Upgrade LVL by +X (3 Perks Unaffected) (Caps at +35)",
+  "_images": [
+   "Tressii.png",
+   "Nonsensic.png",
+   "Stem_cells.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Bobby",
+  "_table": 13,
+  "Cons. Lv.": 1,
+  "Potion_2": "Certo Fizz",
+  "Bonus": "times X Flower Gain per Cert. Fish Certification Req: Show/Hide table  # Fish Amount # Fish Amount 1 24px]] 1 16 24px]] 1q 2 24px]] 10 17 24px]] 10q 3 24px]] 100 18 24px]] 100q 4 24px]] 1k 19 24px]] 1qq 5 24px]] 10k 20 24px]] 10qq 6 24px]] 100k 21 24px]] 100qq 7 24px]] 1m 22 24px]] 1 8 24px]] 10m 23 24px]] 10 9 24px]] 100m 24 24px]] 100 10 24px]] 1b 25 24px]] 1k 11 24px]] 10b 26 24px]] 10k 12 24px]] 100b 27 24px]] 100k 13 24px]] 1t 28 24px]] 1m 14 24px]] 10t 29 24px]] 10m 15 24px]] 100t 30 24px]] 100m",
+  "_images": [
+   "Certo_Fizz.png",
+   "Balderdash.png",
+   "Dank vine.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Bobby",
+  "_table": 13,
+  "Cons. Lv.": 2,
+  "Potion_2": "Certo Flav",
+  "Bonus": "times X Brew Speed per Cert. Flower Certification Req: Show/Hide table  # Plant Amount # Plant Amount 1 24px]] 1 25 24px]] 1k 2 24px]] 10 26 24px]] 10k 3 24px]] 100 27 24px]] 100k 4 24px]] 1k 28 24px]] 1m 5 24px]] 10k 29 24px]] 10m 6 24px]] 100k 30 24px]] 100m 7 24px]] 1m 31 24px]] 1b 8 24px]] 10m 32 24px]] 10b 9 24px]] 100m 33 24px]] 100b 10 24px]] 1b 34 24px]] 1t 11 24px]] 10b 35 24px]] 10t 12 24px]] 100b 36 24px]] 100t 13 24px]] 1t 37 24px]] 1q 14 24px]] 10t 38 24px]] 10q 15 24px]] 100t 39 24px]] 100q 16 24px]] 1q 40 24px]] 1qq 17 24px]] 10q 41 24px]] 10qq 18 24px]] 100q 42 24px]] 100qq 19 24px]] 1qq 43 24px]] 1 20 24px]] 10qq 44 24px]] 10 21 24px]] 100qq 45 24px]] 100 22 24px]] 1 46 24px]] 1k 23 24px]] 10 47 24px]] 10k 24 24px]] 100 48 24px]] 100k",
+  "_images": [
+   "Certo_Flav.png",
+   "Balderdash.png",
+   "Dank vine.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Bobby",
+  "_table": 13,
+  "Cons. Lv.": 2,
+  "Potion_2": "Certo Ouzo",
+  "Bonus": "times X Crop Gain per Cert. Ore Certification Req: Show/Hide table  # Ore Amount # Ore Amount 1 24px]] 1 11 24px]] 10b 2 24px]] 10 12 24px]] 100b 3 24px]] 100 13 24px]] 1t 4 24px]] 1k 14 24px]] 10t 5 24px]] 10k 15 24px]] 100t 6 24px]] 100k 16 24px]] 1q 7 24px]] 1m 17 24px]] 10q 8 24px]] 10m 18 24px]] 100q 9 24px]] 100m 19 24px]] 1qq 10 24px]] 1b 20 24px]] 10qq",
+  "_images": [
+   "Certo_Ouzo.png",
+   "Choco tree.png",
+   "Candypop2.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Bobby",
+  "_table": 13,
+  "Cons. Lv.": 2,
+  "Potion_2": "Certo Crum",
+  "Bonus": "times X Spelunk SPD per Cert. Crop Certification Req: Show/Hide table  # Crop Amount # Crop Amount 1 24px]] 1 21 24px]] 100qq 2 24px]] 10 22 24px]] 1 3 24px]] 100 23 24px]] 10 4 24px]] 1k 24 24px]] 100 5 24px]] 10k 25 24px]] 1k 6 24px]] 100k 26 24px]] 10k 7 24px]] 1m 27 24px]] 100k 8 24px]] 10m 28 24px]] 1m 9 24px]] 100m 29 24px]] 10m 10 24px]] 1b 30 24px]] 100m 11 24px]] 10b 31 24px]] 1b 12 24px]] 100b 32 24px]] 10b 13 24px]] 1t 33 24px]] 100b 14 24px]] 10t 34 24px]] 1t 15 24px]] 100t 35 24px]] 10t 16 24px]] 1q 36 24px]] 100t 17 24px]] 10q 37 24px]] 1q 18 24px]] 100q 38 24px]] 10q 19 24px]] 1qq 39 24px]] 100q 20 24px]] 10qq 40 24px]] 1qq",
+  "_images": [
+   "Certo_Crum.png",
+   "Choco tree.png",
+   "Candypop2.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Bobby",
+  "_table": 13,
+  "Cons. Lv.": 3,
+  "Potion_2": "Papa Fisto",
+  "Bonus": "Each Difficulty LVL Reached on the Final Crusade Boosts Doom Gauntlet by X",
+  "_images": [
+   "Papa_Fisto.png",
+   "Choco tree.png",
+   "Emoticons.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Bobby",
+  "_table": 13,
+  "Cons. Lv.": 3,
+  "Potion_2": "Travitatee",
+  "Bonus": "Meant To Boost The Realm Beyond. Gives times X Ores Instead (caps at 2)",
+  "_images": [
+   "Travitatee.png",
+   "Salt lick.png",
+   "Emoticons.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Bobby",
+  "_table": 13,
+  "Cons. Lv.": 3,
+  "Potion_2": "Resoursake",
+  "Bonus": "Ore. Fish. Botany. Potion. Crusade. and Limbo Card Bonuses are Increased to the Power of X (caps at 2)",
+  "_images": [
+   "Resoursake.png",
+   "Salt lick.png",
+   "Camouflage.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Bobby",
+  "_table": 13,
+  "Cons. Lv.": 4,
+  "Potion_2": "Damagirdiente",
+  "Bonus": "Cash. Kills. Tunnels. and All Damage Card Bonuses are Increased to the Power of X (caps at 2)",
+  "_images": [
+   "Damagirdiente.png",
+   "Carmamella.png",
+   "Camouflage.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Bobby",
+  "_table": 13,
+  "Cons. Lv.": 4,
+  "Potion_2": "Baba Donakka",
+  "Bonus": "Badonkadonk Potion Now Boosts More Things (Fish. Crops. Flowers. Brew Speed. Dmg) Its Boost is Increased to the Power of X (caps at 2)",
+  "_images": [
+   "Baba_Donakka.png",
+   "Carmamella.png",
+   "Glassicle.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Brew Bobby",
+  "_table": 13,
+  "Cons. Lv.": 4,
+  "Potion_2": "Nevasettle",
+  "Bonus": "Forewordi Potion Now Boosts More Things (Damage. Ores. Tank EXP. Crops) Also +1 Applied Bonus per 5 Aberrant Monsters (does not improve)",
+  "_images": [
+   "Nevasettle.png",
+   "Carmamella.png",
+   "Glassicle.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Potion Coupons",
+  "_table": 14,
+  "Gem Cost": "150 Gems",
+  "Effect": "Gives 3 coupons which boosts a random Red, Orange, or Yellow potion +10 levels.",
+  "_images": [
+   "Beginner_potion_coupon.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Potion Coupons",
+  "_table": 14,
+  "Gem Cost": "375 Gems",
+  "Effect": "Gives 3 coupons which boosts a random Yellow, Green, or Cyan potion +15 levels.",
+  "_images": [
+   "Sovereign_potion_coupon.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Potion Coupons",
+  "_table": 14,
+  "Gem Cost": "750 Gems",
+  "Effect": "Gives 3 coupons which boosts a random Cyan, Indigo, Demon, or Godly potion +20 levels.",
+  "_images": [
+   "Godly_potion_coupon.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Potion Coupons",
+  "_table": 14,
+  "Gem Cost": "525 Gems",
+  "Effect": "Gives 3 coupons which boosts a random Fabled (first 24 darkmode) potion +15 levels. Requires unlocked darkmode potions screen.",
+  "_images": [
+   "Fabled_potion_coupon.png"
+  ]
+ },
+ {
+  "_page": "Apothecary",
+  "_section": "Potion Coupons",
+  "_table": 14,
+  "Gem Cost": "900 Gems",
+  "Effect": "Gives 3 coupons which boosts a random Timeless (last 24 darkmode) potion +20 levels. Requires unlocked darkmode potions screen.",
+  "_images": [
+   "Timeless_potion_coupon.png"
+  ]
+ }
+]

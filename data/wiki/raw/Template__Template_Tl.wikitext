@@ -1,0 +1,4 @@
+<code>{{[[Template:{{{1}}}|{{{1}}}]]}}</code><noinclude>{{Documentation}}
+
+[[Category:Formatting templates]]
+</noinclude>

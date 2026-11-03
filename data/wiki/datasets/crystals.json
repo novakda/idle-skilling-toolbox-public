@@ -1,0 +1,162 @@
+[
+ {
+  "_page": "Crystals/Mining",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Yellow Crystal",
+  "Bonus": "+50% EXP",
+  "_images": [
+   "Yellow_gem.png"
+  ]
+ },
+ {
+  "_page": "Crystals/Mining",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Red Crystal",
+  "Bonus": "+30% Speed",
+  "_images": [
+   "Red_gem.png"
+  ]
+ },
+ {
+  "_page": "Crystals/Mining",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Purple Crystal",
+  "Bonus": "+40% Ores",
+  "_images": [
+   "Purple_gem.png"
+  ]
+ },
+ {
+  "_page": "Crystals/Mining",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Blue Crystal",
+  "Bonus": "+30% 2x Ores",
+  "_images": [
+   "Blue_gem.png"
+  ]
+ },
+ {
+  "_page": "Crystals/Mining",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Green Crystal",
+  "Bonus": "+100% EXP, +150% Ores, +40% 2x Ores",
+  "_images": [
+   "Green_gem.png"
+  ]
+ },
+ {
+  "_page": "Crystals/Mining",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Orange Crystal",
+  "Bonus": "+20% Bonus to All Crystals on Screen",
+  "_images": [
+   "Orange_gem.png"
+  ]
+ },
+ {
+  "_page": "Crystals/Mining",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Pink Crystal",
+  "Bonus": "+200% EXP to Slot and Adjacent Slots",
+  "_images": [
+   "Pink_gem.png"
+  ]
+ },
+ {
+  "_page": "Crystals/Mining",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Black Crystal",
+  "Bonus": "+200% Ores to Slot and Adjacent Slots",
+  "_images": [
+   "Black_gem.png"
+  ]
+ },
+ {
+  "_page": "Crystals/Apothecary",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Yellow Crystal",
+  "Bonus": "+50% EXP",
+  "_images": [
+   "Yellow_gem.png"
+  ]
+ },
+ {
+  "_page": "Crystals/Apothecary",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Red Crystal",
+  "Bonus": "+30% Brew Speed",
+  "_images": [
+   "Red_gem.png"
+  ]
+ },
+ {
+  "_page": "Crystals/Apothecary",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Purple Crystal",
+  "Bonus": "+15% Cost Reduction",
+  "_images": [
+   "Purple_gem.png"
+  ]
+ },
+ {
+  "_page": "Crystals/Apothecary",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Blue Crystal",
+  "Bonus": "+25% Double Brew Chance",
+  "_images": [
+   "Blue_gem.png"
+  ]
+ },
+ {
+  "_page": "Crystals/Apothecary",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Green Crystal",
+  "Bonus": "+100% EXP, +150% Brew Speed, +50% Double Brew Chance",
+  "_images": [
+   "Green_gem.png"
+  ]
+ },
+ {
+  "_page": "Crystals/Apothecary",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Orange Crystal",
+  "Bonus": "+20% Bonus to all Crystals on Screen",
+  "_images": [
+   "Orange_gem.png"
+  ]
+ },
+ {
+  "_page": "Crystals/Apothecary",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Pink Crystal",
+  "Bonus": "+200% Brew Speed to Slot and Adjacent Slots",
+  "_images": [
+   "Pink_gem.png"
+  ]
+ },
+ {
+  "_page": "Crystals/Apothecary",
+  "_section": "",
+  "_table": 0,
+  "Crystal Color_2": "Black Crystal",
+  "Bonus": "+40% Cost Reduction to Slot and Adjacent Slots",
+  "_images": [
+   "Black_gem.png"
+  ]
+ }
+]

@@ -1,0 +1,1092 @@
+[
+ {
+  "_page": "Tilling",
+  "_section": "Tillers",
+  "_table": 0,
+  "Unlock Req.": "Cost",
+  "Plot 1": "-",
+  "Plot 2": "2500k",
+  "Plot 3": "250m",
+  "Plot 4": "18.8b",
+  "Plot 5": "1.3t",
+  "Plot 6": "78.2t",
+  "Plot 7": "4.7q",
+  "Plot 8": "273.5q"
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tillers",
+  "_table": 0,
+  "Unlock Req.": "H2O Level",
+  "Plot 1": "-",
+  "Plot 2": 10,
+  "Plot 3": 20,
+  "Plot 4": 30,
+  "Plot 5": 40,
+  "Plot 6": 50,
+  "Plot 7": 60,
+  "Plot 8": 70
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tiller Types and Perks",
+  "_table": 1,
+  "Tiller_2": "Serf",
+  "Bonus": "No Bonus",
+  "Bonus_2": "+25% Dirt for All Tillers",
+  "_images": [
+   "Farmingrank1.png",
+   "Serf_farmer.png",
+   "Tillingperk1.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tiller Types and Perks",
+  "_table": 1,
+  "Tiller_2": "Peasant",
+  "Bonus": "+25% Crops +25 Tilling Speed",
+  "Bonus_2": "+10% Rake Speed for All Tillers",
+  "_images": [
+   "Farmingrank2.png",
+   "Peasant_farmer.png",
+   "Tillingperk2.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tiller Types and Perks",
+  "_table": 1,
+  "Tiller_2": "Peasant",
+  "Bonus": "+25% Crops +25 Tilling Speed",
+  "Bonus_2": "+10% Grass Type Craps for Every Active Serf",
+  "_images": [
+   "Farmingrank2.png",
+   "Peasant_farmer.png",
+   "Tillingperk3.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tiller Types and Perks",
+  "_table": 1,
+  "Tiller_2": "Peasant",
+  "Bonus": "+25% Crops +25 Tilling Speed",
+  "Bonus_2": "+25% Tilling EXP for All Tillers",
+  "_images": [
+   "Farmingrank2.png",
+   "Peasant_farmer.png",
+   "Tillingperk4.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tiller Types and Perks",
+  "_table": 1,
+  "Tiller": "-",
+  "Tiller_2": "-",
+  "Bonus": "-",
+  "Bonus_2": "+0.5% Dirt for Every H2O Level for All Tillers",
+  "_images": [
+   "Farmingrank3.png",
+   "Tillingperk5.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tiller Types and Perks",
+  "_table": 1,
+  "Tiller": "-",
+  "Tiller_2": "-",
+  "Bonus": "-",
+  "Bonus_2": "+10% Corn Type Crops for Every Active Peasant, Multiplicative",
+  "_images": [
+   "Farmingrank3.png",
+   "Tillingperk6.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tiller Types and Perks",
+  "_table": 1,
+  "Tiller": "-",
+  "Tiller_2": "-",
+  "Bonus": "-",
+  "Bonus_2": "+0.5 Crops for Every H2O Level for All Tillers",
+  "_images": [
+   "Farmingrank3.png",
+   "Tillingperk7.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tiller Types and Perks",
+  "_table": 1,
+  "Tiller_2": "Plantera",
+  "Bonus": "+50% Crops +50 Tilling Speed",
+  "Bonus_2": "+0.5% Dirt for Every Tilling Level for All Tillers",
+  "_images": [
+   "Farmingrank4.png",
+   "Plantera_farmer.png",
+   "Tillingperk8.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tiller Types and Perks",
+  "_table": 1,
+  "Tiller_2": "Plantera",
+  "Bonus": "+50% Crops +50 Tilling Speed",
+  "Bonus_2": "+3% Crops for Every Power of 10 Corn Type Owned",
+  "_images": [
+   "Farmingrank4.png",
+   "Plantera_farmer.png",
+   "Tillingperk9.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tiller Types and Perks",
+  "_table": 1,
+  "Tiller_2": "Noble",
+  "Bonus": "+75% Crops +75 Tilling Speed",
+  "Bonus_2": "+10% Cabbage Crops for Every Active Plantera, Multiplicative",
+  "_images": [
+   "Farmingrank5.png",
+   "Noble_farmer.png",
+   "Tillingperk10.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tiller Types and Perks",
+  "_table": 1,
+  "Tiller_2": "Noble",
+  "Bonus": "+75% Crops +75 Tilling Speed",
+  "Bonus_2": "+2% Crops for Every Power of 10 Cash Owned",
+  "_images": [
+   "Farmingrank5.png",
+   "Noble_farmer.png",
+   "Tillingperk11.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tiller Types and Perks",
+  "_table": 1,
+  "Tiller": "-",
+  "Tiller_2": "-",
+  "Bonus": "-",
+  "Bonus_2": "+3% Crops for Every Power of 10 Cabbage Type Owned",
+  "_images": [
+   "Farmingrank6.png",
+   "Tillingperk12.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tiller Types and Perks",
+  "_table": 1,
+  "Tiller": "-",
+  "Tiller_2": "-",
+  "Bonus": "-",
+  "Bonus_2": "+10% Crystal Crops for Every Active Noble, Multiplicative",
+  "_images": [
+   "Farmingrank6.png",
+   "Tillingperk13.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tiller Types and Perks",
+  "_table": 1,
+  "Tiller": "-",
+  "Tiller_2": "-",
+  "Bonus": "-",
+  "Bonus_2": "+5% Crops for Every Power of 10 Sammatian Owned",
+  "_images": [
+   "Farmingrank7.png",
+   "Tillingperk14.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Tiller Types and Perks",
+  "_table": 1,
+  "Land Rank": 150,
+  "Tiller_2": "Mystical",
+  "Bonus": "+100% Crops +100% Tilling Speed +25% Crop Bonus to other Tillers",
+  "Perk": "+100% Crops +100% Tilling Speed +25% Crop Bonus to other Tillers",
+  "Bonus_2": "+100% Crops +100% Tilling Speed +25% Crop Bonus to other Tillers",
+  "_images": [
+   "Loot_Gem.png",
+   "Mythical_farmer.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Dirt",
+  "Crop Requirements / Plot / Tilling level / 1": 1,
+  "Crop Requirements / Plot / Tilling level / 2": 1,
+  "Crop Requirements / Plot / Tilling level / 3": 1,
+  "Crop Requirements / Plot / Tilling level / 4": 1,
+  "Crop Requirements / Plot / Tilling level / 5": 1,
+  "Crop Requirements / Plot / Tilling level / 6": 1,
+  "Crop Requirements / Plot / Tilling level / 7": 1,
+  "Crop Requirements / Plot / Tilling level / 8": 1,
+  "_images": [
+   "Dirt.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Grass",
+  "Crop Requirements / Plot / Tilling level / 1": 5,
+  "Crop Requirements / Plot / Tilling level / 2": 7,
+  "Crop Requirements / Plot / Tilling level / 3": 9,
+  "Crop Requirements / Plot / Tilling level / 4": 11,
+  "Crop Requirements / Plot / Tilling level / 5": 13,
+  "Crop Requirements / Plot / Tilling level / 6": 15,
+  "Crop Requirements / Plot / Tilling level / 7": 17,
+  "Crop Requirements / Plot / Tilling level / 8": 19,
+  "_images": [
+   "Grass.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Quality Hay",
+  "Crop Requirements / Plot / Tilling level / 1": 10,
+  "Crop Requirements / Plot / Tilling level / 2": 12,
+  "Crop Requirements / Plot / Tilling level / 3": 14,
+  "Crop Requirements / Plot / Tilling level / 4": 16,
+  "Crop Requirements / Plot / Tilling level / 5": 18,
+  "Crop Requirements / Plot / Tilling level / 6": 20,
+  "Crop Requirements / Plot / Tilling level / 7": 22,
+  "Crop Requirements / Plot / Tilling level / 8": 24,
+  "_images": [
+   "Quality_hay.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Saffron",
+  "Crop Requirements / Plot / Tilling level / 1": 15,
+  "Crop Requirements / Plot / Tilling level / 2": 17,
+  "Crop Requirements / Plot / Tilling level / 3": 19,
+  "Crop Requirements / Plot / Tilling level / 4": 21,
+  "Crop Requirements / Plot / Tilling level / 5": 23,
+  "Crop Requirements / Plot / Tilling level / 6": 25,
+  "Crop Requirements / Plot / Tilling level / 7": 27,
+  "Crop Requirements / Plot / Tilling level / 8": 29,
+  "_images": [
+   "Saffron.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Corn",
+  "Crop Requirements / Plot / Tilling level / 1": 20,
+  "Crop Requirements / Plot / Tilling level / 2": 22,
+  "Crop Requirements / Plot / Tilling level / 3": 24,
+  "Crop Requirements / Plot / Tilling level / 4": 26,
+  "Crop Requirements / Plot / Tilling level / 5": 28,
+  "Crop Requirements / Plot / Tilling level / 6": 30,
+  "Crop Requirements / Plot / Tilling level / 7": 32,
+  "Crop Requirements / Plot / Tilling level / 8": 34,
+  "_images": [
+   "Corn.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Maize",
+  "Crop Requirements / Plot / Tilling level / 1": 25,
+  "Crop Requirements / Plot / Tilling level / 2": 27,
+  "Crop Requirements / Plot / Tilling level / 3": 29,
+  "Crop Requirements / Plot / Tilling level / 4": 31,
+  "Crop Requirements / Plot / Tilling level / 5": 33,
+  "Crop Requirements / Plot / Tilling level / 6": 35,
+  "Crop Requirements / Plot / Tilling level / 7": 37,
+  "Crop Requirements / Plot / Tilling level / 8": 39,
+  "_images": [
+   "Maize.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Hyper Stalk",
+  "Crop Requirements / Plot / Tilling level / 1": 30,
+  "Crop Requirements / Plot / Tilling level / 2": 32,
+  "Crop Requirements / Plot / Tilling level / 3": 34,
+  "Crop Requirements / Plot / Tilling level / 4": 36,
+  "Crop Requirements / Plot / Tilling level / 5": 38,
+  "Crop Requirements / Plot / Tilling level / 6": 40,
+  "Crop Requirements / Plot / Tilling level / 7": 42,
+  "Crop Requirements / Plot / Tilling level / 8": 44,
+  "_images": [
+   "Hyper_stalk.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Cabbage",
+  "Crop Requirements / Plot / Tilling level / 1": 35,
+  "Crop Requirements / Plot / Tilling level / 2": 37,
+  "Crop Requirements / Plot / Tilling level / 3": 39,
+  "Crop Requirements / Plot / Tilling level / 4": 41,
+  "Crop Requirements / Plot / Tilling level / 5": 43,
+  "Crop Requirements / Plot / Tilling level / 6": 45,
+  "Crop Requirements / Plot / Tilling level / 7": 47,
+  "Crop Requirements / Plot / Tilling level / 8": 49,
+  "_images": [
+   "Cabbage.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Ancient Dew",
+  "Crop Requirements / Plot / Tilling level / 1": 40,
+  "Crop Requirements / Plot / Tilling level / 2": 42,
+  "Crop Requirements / Plot / Tilling level / 3": 44,
+  "Crop Requirements / Plot / Tilling level / 4": 46,
+  "Crop Requirements / Plot / Tilling level / 5": 48,
+  "Crop Requirements / Plot / Tilling level / 6": 50,
+  "Crop Requirements / Plot / Tilling level / 7": 52,
+  "Crop Requirements / Plot / Tilling level / 8": 54,
+  "_images": [
+   "Ancient_dew.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Egg Yolk",
+  "Crop Requirements / Plot / Tilling level / 1": 45,
+  "Crop Requirements / Plot / Tilling level / 2": 47,
+  "Crop Requirements / Plot / Tilling level / 3": 49,
+  "Crop Requirements / Plot / Tilling level / 4": 51,
+  "Crop Requirements / Plot / Tilling level / 5": 53,
+  "Crop Requirements / Plot / Tilling level / 6": 55,
+  "Crop Requirements / Plot / Tilling level / 7": 57,
+  "Crop Requirements / Plot / Tilling level / 8": 59,
+  "_images": [
+   "Egg_yolk.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Packed Clay",
+  "Crop Requirements / Plot / Tilling level / 1": 50,
+  "Crop Requirements / Plot / Tilling level / 2": 52,
+  "Crop Requirements / Plot / Tilling level / 3": 54,
+  "Crop Requirements / Plot / Tilling level / 4": 56,
+  "Crop Requirements / Plot / Tilling level / 5": 58,
+  "Crop Requirements / Plot / Tilling level / 6": 60,
+  "Crop Requirements / Plot / Tilling level / 7": 62,
+  "Crop Requirements / Plot / Tilling level / 8": 64,
+  "_images": [
+   "Packed_clay.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Lil Pumpkin",
+  "Crop Requirements / Plot / Tilling level / 1": 55,
+  "Crop Requirements / Plot / Tilling level / 2": 57,
+  "Crop Requirements / Plot / Tilling level / 3": 59,
+  "Crop Requirements / Plot / Tilling level / 4": 61,
+  "Crop Requirements / Plot / Tilling level / 5": 63,
+  "Crop Requirements / Plot / Tilling level / 6": 65,
+  "Crop Requirements / Plot / Tilling level / 7": 67,
+  "Crop Requirements / Plot / Tilling level / 8": 69,
+  "_images": [
+   "Lil_pumpkin.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Macromato",
+  "Crop Requirements / Plot / Tilling level / 1": 60,
+  "Crop Requirements / Plot / Tilling level / 2": 62,
+  "Crop Requirements / Plot / Tilling level / 3": 64,
+  "Crop Requirements / Plot / Tilling level / 4": 66,
+  "Crop Requirements / Plot / Tilling level / 5": 68,
+  "Crop Requirements / Plot / Tilling level / 6": 70,
+  "Crop Requirements / Plot / Tilling level / 7": 72,
+  "Crop Requirements / Plot / Tilling level / 8": 74,
+  "_images": [
+   "Macromato.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Spooktobble",
+  "Crop Requirements / Plot / Tilling level / 1": 65,
+  "Crop Requirements / Plot / Tilling level / 2": 67,
+  "Crop Requirements / Plot / Tilling level / 3": 69,
+  "Crop Requirements / Plot / Tilling level / 4": 71,
+  "Crop Requirements / Plot / Tilling level / 5": 73,
+  "Crop Requirements / Plot / Tilling level / 6": 75,
+  "Crop Requirements / Plot / Tilling level / 7": 77,
+  "Crop Requirements / Plot / Tilling level / 8": 79,
+  "_images": [
+   "Spooktobble.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Crystal",
+  "Crop Requirements / Plot / Tilling level / 1": 70,
+  "Crop Requirements / Plot / Tilling level / 2": 72,
+  "Crop Requirements / Plot / Tilling level / 3": 74,
+  "Crop Requirements / Plot / Tilling level / 4": 76,
+  "Crop Requirements / Plot / Tilling level / 5": 78,
+  "Crop Requirements / Plot / Tilling level / 6": 80,
+  "Crop Requirements / Plot / Tilling level / 7": 82,
+  "Crop Requirements / Plot / Tilling level / 8": 84,
+  "_images": [
+   "Crystal.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Lucentium",
+  "Crop Requirements / Plot / Tilling level / 1": 75,
+  "Crop Requirements / Plot / Tilling level / 2": 77,
+  "Crop Requirements / Plot / Tilling level / 3": 79,
+  "Crop Requirements / Plot / Tilling level / 4": 81,
+  "Crop Requirements / Plot / Tilling level / 5": 83,
+  "Crop Requirements / Plot / Tilling level / 6": 85,
+  "Crop Requirements / Plot / Tilling level / 7": 87,
+  "Crop Requirements / Plot / Tilling level / 8": 89,
+  "_images": [
+   "Lucentium.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Prismatism",
+  "Crop Requirements / Plot / Tilling level / 1": 80,
+  "Crop Requirements / Plot / Tilling level / 2": 82,
+  "Crop Requirements / Plot / Tilling level / 3": 84,
+  "Crop Requirements / Plot / Tilling level / 4": 86,
+  "Crop Requirements / Plot / Tilling level / 5": 88,
+  "Crop Requirements / Plot / Tilling level / 6": 90,
+  "Crop Requirements / Plot / Tilling level / 7": 92,
+  "Crop Requirements / Plot / Tilling level / 8": 94,
+  "_images": [
+   "Prismatism.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Essence",
+  "Crop Requirements / Plot / Tilling level / 1": 85,
+  "Crop Requirements / Plot / Tilling level / 2": 87,
+  "Crop Requirements / Plot / Tilling level / 3": 89,
+  "Crop Requirements / Plot / Tilling level / 4": 91,
+  "Crop Requirements / Plot / Tilling level / 5": 93,
+  "Crop Requirements / Plot / Tilling level / 6": 95,
+  "Crop Requirements / Plot / Tilling level / 7": 97,
+  "Crop Requirements / Plot / Tilling level / 8": 99,
+  "_images": [
+   "Essence.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Hallownil",
+  "Crop Requirements / Plot / Tilling level / 1": 90,
+  "Crop Requirements / Plot / Tilling level / 2": 92,
+  "Crop Requirements / Plot / Tilling level / 3": 94,
+  "Crop Requirements / Plot / Tilling level / 4": 96,
+  "Crop Requirements / Plot / Tilling level / 5": 98,
+  "Crop Requirements / Plot / Tilling level / 6": 100,
+  "Crop Requirements / Plot / Tilling level / 7": 102,
+  "Crop Requirements / Plot / Tilling level / 8": 104,
+  "_images": [
+   "Hallownil.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Crops",
+  "_table": 2,
+  "Crop Requirements / Crop_2": "Sammatian",
+  "Crop Requirements / Plot / Tilling level / 1": 95,
+  "Crop Requirements / Plot / Tilling level / 2": 97,
+  "Crop Requirements / Plot / Tilling level / 3": 99,
+  "Crop Requirements / Plot / Tilling level / 4": 101,
+  "Crop Requirements / Plot / Tilling level / 5": 103,
+  "Crop Requirements / Plot / Tilling level / 6": 105,
+  "Crop Requirements / Plot / Tilling level / 7": 107,
+  "Crop Requirements / Plot / Tilling level / 8": 109,
+  "_images": [
+   "Sammatian.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Minril Soil",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 105,
+  "Crop Requirements / Plot / Tilling level / 2": 110,
+  "Crop Requirements / Plot / Tilling level / 3": 115,
+  "Crop Requirements / Plot / Tilling level / 4": 120,
+  "Crop Requirements / Plot / Tilling level / 5": 125,
+  "Crop Requirements / Plot / Tilling level / 6": 130,
+  "Crop Requirements / Plot / Tilling level / 7": 135,
+  "Crop Requirements / Plot / Tilling level / 8": 140,
+  "_images": [
+   "Minril_soil.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Spuddies",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 115,
+  "Crop Requirements / Plot / Tilling level / 2": 120,
+  "Crop Requirements / Plot / Tilling level / 3": 125,
+  "Crop Requirements / Plot / Tilling level / 4": 130,
+  "Crop Requirements / Plot / Tilling level / 5": 135,
+  "Crop Requirements / Plot / Tilling level / 6": 140,
+  "Crop Requirements / Plot / Tilling level / 7": 145,
+  "Crop Requirements / Plot / Tilling level / 8": 150,
+  "_images": [
+   "Spuddies.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Vegetabip",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 125,
+  "Crop Requirements / Plot / Tilling level / 2": 130,
+  "Crop Requirements / Plot / Tilling level / 3": 135,
+  "Crop Requirements / Plot / Tilling level / 4": 140,
+  "Crop Requirements / Plot / Tilling level / 5": 145,
+  "Crop Requirements / Plot / Tilling level / 6": 150,
+  "Crop Requirements / Plot / Tilling level / 7": 155,
+  "Crop Requirements / Plot / Tilling level / 8": 160,
+  "_images": [
+   "Vegetabip.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Bunnymunch",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 135,
+  "Crop Requirements / Plot / Tilling level / 2": 140,
+  "Crop Requirements / Plot / Tilling level / 3": 145,
+  "Crop Requirements / Plot / Tilling level / 4": 150,
+  "Crop Requirements / Plot / Tilling level / 5": 155,
+  "Crop Requirements / Plot / Tilling level / 6": 160,
+  "Crop Requirements / Plot / Tilling level / 7": 165,
+  "Crop Requirements / Plot / Tilling level / 8": 170,
+  "_images": [
+   "Bunnymunch.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Darnedlion",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 145,
+  "Crop Requirements / Plot / Tilling level / 2": 150,
+  "Crop Requirements / Plot / Tilling level / 3": 155,
+  "Crop Requirements / Plot / Tilling level / 4": 160,
+  "Crop Requirements / Plot / Tilling level / 5": 165,
+  "Crop Requirements / Plot / Tilling level / 6": 170,
+  "Crop Requirements / Plot / Tilling level / 7": 175,
+  "Crop Requirements / Plot / Tilling level / 8": 180,
+  "_images": [
+   "Darnedlion.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Violetta",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 155,
+  "Crop Requirements / Plot / Tilling level / 2": 160,
+  "Crop Requirements / Plot / Tilling level / 3": 165,
+  "Crop Requirements / Plot / Tilling level / 4": 170,
+  "Crop Requirements / Plot / Tilling level / 5": 175,
+  "Crop Requirements / Plot / Tilling level / 6": 180,
+  "Crop Requirements / Plot / Tilling level / 7": 185,
+  "Crop Requirements / Plot / Tilling level / 8": 190,
+  "_images": [
+   "Violetta.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Stunflower",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 165,
+  "Crop Requirements / Plot / Tilling level / 2": 170,
+  "Crop Requirements / Plot / Tilling level / 3": 175,
+  "Crop Requirements / Plot / Tilling level / 4": 180,
+  "Crop Requirements / Plot / Tilling level / 5": 185,
+  "Crop Requirements / Plot / Tilling level / 6": 190,
+  "Crop Requirements / Plot / Tilling level / 7": 195,
+  "Crop Requirements / Plot / Tilling level / 8": 200,
+  "_images": [
+   "Stunflower.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "LewdPlants",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 175,
+  "Crop Requirements / Plot / Tilling level / 2": 180,
+  "Crop Requirements / Plot / Tilling level / 3": 185,
+  "Crop Requirements / Plot / Tilling level / 4": 190,
+  "Crop Requirements / Plot / Tilling level / 5": 195,
+  "Crop Requirements / Plot / Tilling level / 6": 200,
+  "Crop Requirements / Plot / Tilling level / 7": 205,
+  "Crop Requirements / Plot / Tilling level / 8": 210,
+  "_images": [
+   "Lewdplants.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Beanies",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 185,
+  "Crop Requirements / Plot / Tilling level / 2": 190,
+  "Crop Requirements / Plot / Tilling level / 3": 195,
+  "Crop Requirements / Plot / Tilling level / 4": 200,
+  "Crop Requirements / Plot / Tilling level / 5": 205,
+  "Crop Requirements / Plot / Tilling level / 6": 210,
+  "Crop Requirements / Plot / Tilling level / 7": 215,
+  "Crop Requirements / Plot / Tilling level / 8": 220,
+  "_images": [
+   "Beanies.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Banana Vine",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 195,
+  "Crop Requirements / Plot / Tilling level / 2": 200,
+  "Crop Requirements / Plot / Tilling level / 3": 205,
+  "Crop Requirements / Plot / Tilling level / 4": 210,
+  "Crop Requirements / Plot / Tilling level / 5": 215,
+  "Crop Requirements / Plot / Tilling level / 6": 220,
+  "Crop Requirements / Plot / Tilling level / 7": 225,
+  "Crop Requirements / Plot / Tilling level / 8": 230,
+  "_images": [
+   "Banana_vine.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Rupturium",
+  "Crop Requirements / Construction": "Croppy Notes Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 205,
+  "Crop Requirements / Plot / Tilling level / 2": 210,
+  "Crop Requirements / Plot / Tilling level / 3": 215,
+  "Crop Requirements / Plot / Tilling level / 4": 220,
+  "Crop Requirements / Plot / Tilling level / 5": 225,
+  "Crop Requirements / Plot / Tilling level / 6": 230,
+  "Crop Requirements / Plot / Tilling level / 7": 235,
+  "Crop Requirements / Plot / Tilling level / 8": 240,
+  "_images": [
+   "Rupturium.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Blue Grap",
+  "Crop Requirements / Construction": "Croppy Notes Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 215,
+  "Crop Requirements / Plot / Tilling level / 2": 220,
+  "Crop Requirements / Plot / Tilling level / 3": 225,
+  "Crop Requirements / Plot / Tilling level / 4": 230,
+  "Crop Requirements / Plot / Tilling level / 5": 235,
+  "Crop Requirements / Plot / Tilling level / 6": 240,
+  "Crop Requirements / Plot / Tilling level / 7": 245,
+  "Crop Requirements / Plot / Tilling level / 8": 250,
+  "_images": [
+   "Blue_grap.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Pink Grap",
+  "Crop Requirements / Construction": "Croppy Notes Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 225,
+  "Crop Requirements / Plot / Tilling level / 2": 230,
+  "Crop Requirements / Plot / Tilling level / 3": 235,
+  "Crop Requirements / Plot / Tilling level / 4": 240,
+  "Crop Requirements / Plot / Tilling level / 5": 245,
+  "Crop Requirements / Plot / Tilling level / 6": 250,
+  "Crop Requirements / Plot / Tilling level / 7": 255,
+  "Crop Requirements / Plot / Tilling level / 8": 260,
+  "_images": [
+   "Pink_grap.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "White Grap",
+  "Crop Requirements / Construction": "Croppy Notes Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 235,
+  "Crop Requirements / Plot / Tilling level / 2": 240,
+  "Crop Requirements / Plot / Tilling level / 3": 245,
+  "Crop Requirements / Plot / Tilling level / 4": 250,
+  "Crop Requirements / Plot / Tilling level / 5": 255,
+  "Crop Requirements / Plot / Tilling level / 6": 260,
+  "Crop Requirements / Plot / Tilling level / 7": 265,
+  "Crop Requirements / Plot / Tilling level / 8": 270,
+  "_images": [
+   "White_grap.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Abstract",
+  "Crop Requirements / Construction": "Croppy Notes Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 245,
+  "Crop Requirements / Plot / Tilling level / 2": 250,
+  "Crop Requirements / Plot / Tilling level / 3": 255,
+  "Crop Requirements / Plot / Tilling level / 4": 260,
+  "Crop Requirements / Plot / Tilling level / 5": 265,
+  "Crop Requirements / Plot / Tilling level / 6": 270,
+  "Crop Requirements / Plot / Tilling level / 7": 275,
+  "Crop Requirements / Plot / Tilling level / 8": 280,
+  "_images": [
+   "Abstract.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Nonsensic",
+  "Crop Requirements / Construction": "Croppy Notes Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 255,
+  "Crop Requirements / Plot / Tilling level / 2": 260,
+  "Crop Requirements / Plot / Tilling level / 3": 265,
+  "Crop Requirements / Plot / Tilling level / 4": 270,
+  "Crop Requirements / Plot / Tilling level / 5": 275,
+  "Crop Requirements / Plot / Tilling level / 6": 280,
+  "Crop Requirements / Plot / Tilling level / 7": 285,
+  "Crop Requirements / Plot / Tilling level / 8": 290,
+  "_images": [
+   "Nonsensic.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Balderdash",
+  "Crop Requirements / Construction": "Croppy Notes Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 265,
+  "Crop Requirements / Plot / Tilling level / 2": 270,
+  "Crop Requirements / Plot / Tilling level / 3": 275,
+  "Crop Requirements / Plot / Tilling level / 4": 280,
+  "Crop Requirements / Plot / Tilling level / 5": 285,
+  "Crop Requirements / Plot / Tilling level / 6": 290,
+  "Crop Requirements / Plot / Tilling level / 7": 295,
+  "Crop Requirements / Plot / Tilling level / 8": 300,
+  "_images": [
+   "Balderdash.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Choco Tree",
+  "Crop Requirements / Construction": "Croppy Notes Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 275,
+  "Crop Requirements / Plot / Tilling level / 2": 280,
+  "Crop Requirements / Plot / Tilling level / 3": 285,
+  "Crop Requirements / Plot / Tilling level / 4": 290,
+  "Crop Requirements / Plot / Tilling level / 5": 295,
+  "Crop Requirements / Plot / Tilling level / 6": 300,
+  "Crop Requirements / Plot / Tilling level / 7": 305,
+  "Crop Requirements / Plot / Tilling level / 8": 310,
+  "_images": [
+   "Choco_tree.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Salt Lick",
+  "Crop Requirements / Construction": "Croppy Notes Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 285,
+  "Crop Requirements / Plot / Tilling level / 2": 290,
+  "Crop Requirements / Plot / Tilling level / 3": 295,
+  "Crop Requirements / Plot / Tilling level / 4": 300,
+  "Crop Requirements / Plot / Tilling level / 5": 305,
+  "Crop Requirements / Plot / Tilling level / 6": 310,
+  "Crop Requirements / Plot / Tilling level / 7": 315,
+  "Crop Requirements / Plot / Tilling level / 8": 320,
+  "_images": [
+   "Salt_lick.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Darkmode Crops",
+  "_table": 3,
+  "Crop Requirements / Crop_2": "Carmamella",
+  "Crop Requirements / Construction": "Croppy Notes Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 295,
+  "Crop Requirements / Plot / Tilling level / 2": 300,
+  "Crop Requirements / Plot / Tilling level / 3": 305,
+  "Crop Requirements / Plot / Tilling level / 4": 310,
+  "Crop Requirements / Plot / Tilling level / 5": 315,
+  "Crop Requirements / Plot / Tilling level / 6": 320,
+  "Crop Requirements / Plot / Tilling level / 7": 325,
+  "Crop Requirements / Plot / Tilling level / 8": 330,
+  "_images": [
+   "Carmamella.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Other",
+  "_table": 4,
+  "Botany Potions List / Potion_2": "Crop Remedy",
+  "Botany Potions List / Per Level Bonus": "3% Tilling Crops for All Tillers",
+  "_images": [
+   "Crop_remedy.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Other",
+  "_table": 4,
+  "Botany Potions List / Potion_2": "Serf Serum",
+  "Botany Potions List / Per Level Bonus": "10% Tilling EXP, 1% Tilling Speed",
+  "_images": [
+   "Serf_serum.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Other",
+  "_table": 4,
+  "Botany Potions List / Potion_2": "Croppin",
+  "Botany Potions List / Per Level Bonus": "12% Crops Gained",
+  "_images": [
+   "Croppin.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Other",
+  "_table": 4,
+  "Botany Potions List / Potion_2": "Distill Till",
+  "Botany Potions List / Per Level Bonus": "2% Tilling EXP, 0.2% Tilling Speed for Every Tilling Level",
+  "_images": [
+   "Distill_till.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Other",
+  "_table": 4,
+  "Botany Potions List / Potion_2": "Crop Pop",
+  "Botany Potions List / Per Level Bonus": "50% Crops Gained",
+  "_images": [
+   "Crop_pop.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Other",
+  "_table": 4,
+  "Botany Potions List / Potion_2": "Till Recurve",
+  "Botany Potions List / Per Level Bonus": "0.5% Crops for Every Tilling Level",
+  "_images": [
+   "Till_recurve.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Other",
+  "_table": 4,
+  "Botany Potions List / Potion_2": "Expendizzle",
+  "Botany Potions List / Per Level Bonus": "Tilling EXP Gain is Multiplied by X for Each New Crop Type Discovered",
+  "_images": [
+   "Expendizzle.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Other",
+  "_table": 4,
+  "Botany Potions List / Potion_2": "Forewordi",
+  "Botany Potions List / Per Level Bonus": "times X Cash. Applied Y Times (Apply More via Trekking) (powered up by Nevasettle potion)",
+  "_images": [
+   "Forewordi.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Other",
+  "_table": 4,
+  "Botany Potions List / Potion_2": "Brown Drank",
+  "Botany Potions List / Per Level Bonus": "Leveling Up Tilling Has a X% Chance to Increase the Value LVL of All Eight Tillers",
+  "_images": [
+   "Brown_Drank.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Other",
+  "_table": 4,
+  "Botany Potions List / Potion_2": "O Cal Masty",
+  "Botany Potions List / Per Level Bonus": "Bonuses of the Mastery Perks Shown Below Are Multiplied by X",
+  "_images": [
+   "O_Cal_Masty.png",
+   "Mastery_fight_3.png",
+   "Mastery_collect_1.png",
+   "Mastery_collect_2.png",
+   "Mastery_collect_3.png",
+   "Mastery_collect_4.png",
+   "Mastery_collect_7.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Other",
+  "_table": 4,
+  "Botany Potions List / Potion_2": "Badonkadonk",
+  "Botany Potions List / Per Level Bonus": "+X% Ores Every 50 Balls Launched (powered up by Baba Donakka potion)",
+  "_images": [
+   "Badonkadonk.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Other",
+  "_table": 4,
+  "Botany Potions List / Potion_2": "Certo Ouzo",
+  "Botany Potions List / Per Level Bonus": "times X Crop Gain per Cert. Ore Certification Req:Show/Hide table  Ore Amount Ore Amount 24px]] 1 24px]] 10b 24px]] 10 24px]] 100b 24px]] 100 24px]] 1t 24px]] 1k 24px]] 10t 24px]] 10k 24px]] 100t 24px]] 100k 24px]] 1q 24px]] 1m 24px]] 10q 24px]] 10m 24px]] 100q 24px]] 100m 24px]] 1qq 24px]] 1b 24px]] 10qq",
+  "_images": [
+   "Certo_Ouzo.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Other",
+  "_table": 4,
+  "Botany Potions List / Potion_2": "Baba Donakka",
+  "Botany Potions List / Per Level Bonus": "Badonkadonk Potion Now Boosts More Things (Fish. Crops. Flowers. Brew Speed. Dmg) Its Boost is Increased to the Power of X (caps at 2)",
+  "_images": [
+   "Baba_Donakka.png"
+  ]
+ },
+ {
+  "_page": "Tilling",
+  "_section": "Other",
+  "_table": 4,
+  "Botany Potions List / Potion_2": "Nevasettle",
+  "Botany Potions List / Per Level Bonus": "Forewordi Potion Now Boosts More Things (Damage. Ores. Tank EXP. Crops) Also +1 Applied Bonus per 5 Aberrant Monsters (does not improve)",
+  "_images": [
+   "Nevasettle.png"
+  ]
+ }
+]

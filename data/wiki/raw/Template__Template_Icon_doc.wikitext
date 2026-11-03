@@ -1,0 +1,52 @@
+<noinclude>{{Documentationpage}}</noinclude>
+<templatedata>
+{
+	"params": {
+		"1": {
+			"label": "Icons",
+			"description": "A string list of icon short code(s) passed through to the module. For multiple codes being passed these should be split by a comma (,). See Template:Icon page for list.",
+			"example": "fo76,ww",
+			"type": "string",
+			"required": true
+		},
+		"2": {
+			"label": "Icon Size",
+			"description": "The image size to be passed to all icons in the list. A custom size can be set (e.g. x26px) or one of the standard sizes can be applied. Standard sizes are small, medium, normal and big",
+			"example": "x14px",
+			"type": "string",
+			"default": "medium"
+		},
+		"link": {
+			"label": "Article link",
+			"description": "By default each icon links to its image page. Enter a string of page titles separated by a comma (,) to define an article the icon should point to.",
+			"type": "string",
+			"suggested": true
+		},
+		"tooltip": {
+			"label": "Tooltip Text",
+			"description": "The text shown when hovering over the icon. For multiple icons, enter each tool tip separated by a comma (,).",
+			"type": "string",
+			"default": "Built in default values\n"
+		},
+		"class": {
+			"label": "CSS Class",
+			"description": "CSS classes to be applied to the icons. If this is set it will apply to all icons in the group. Classes are written without the class= component.",
+			"type": "string"
+		}
+	},
+	"description": "Template for displaying small icons."
+}
+</templatedata>
+
+==Usage==
+<pre>{{icon|name of icon}}</pre>
+
+To update the available icons, the [[Module:Icons|Icon]] module requires a new parameter in the <code>iconTip</code> (default tooltip) and <code>gameIcon</code> (icon filename) lists. 
+
+==Available icons==
+{{#invoke:Icons|documentation}}
+
+In addition, all abbreviations supported by {{tl|Abb}} can be used to produce an icon for the corresponding game.
+
+==Technical==
+This template is a wrapper for [[Module:Icons]] and doesn't have any functionality beyond the function call. It should be used over a direct invocation on article spaces supported by Visual Editor, not doing so will lead to breakages by Visual Editor as it tries to translate the function part of the <code><nowiki>{{#invoke:}}</nowiki></code> incorrectly. When placing icons within another template, use the direct invoke to reduce resource overhead.

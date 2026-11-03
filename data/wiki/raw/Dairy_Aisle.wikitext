@@ -1,0 +1,224 @@
+{{Spoilers}}
+The Dairy Aisle, found on the portal screen, can be accessed after reaching [[Oblivion]]. It hosts a selection of challenges, called orders, that offer a range of rewards once completed. The bottom row of orders are ice creams. These challenges must be completed in order and require you to rebirth and carry the ice cream back to Oblivion.
+
+Carrying an ice cream will reduce your damage to
+
+<math>damage^{\frac{2}{2+n}}</math>
+where n is the number of the ice cream, i.e. for Mint n=1, Strawby n=2 etc.
+
+To begin an ice cream challenge, press accept and then rebirth.
+
+The top row of orders are harder objectives that can be completed without accepting the order.
+
+'''For the Ice Creams, you just need to reach the first boss in Oblivion, further is better, but the damage reduction really adds up after the 3rd ice cream where speed running is recommended.'''
+
+=== [[File:DairyLava.png|47x47px]] Orders [[File:Dairy_Lava2.png|47x47px]] ===
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Mint Ice Cream'''</u>:<br />Bring this Ice Cream back and you will get a big reward.
+! style="text-align:right;border-left:none;" | [[File:IceCream_1.png|48px]]
+|-
+!Page
+! style="text-align: center;" | Requirement
+! style="text-align: center;" | Damage Reduced To
+! style="text-align: center;" | Reward
+|-
+| 2
+| You need to accept this order and rebirth for getting ice cream.
+Reach Oblivion
+| <math>\sqrt[3]{damage^{2}}</math>
+| Pet ID 39 can be hatched
+Access to 2 cosmic potions
+
+Access to 1 infinity perk
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Strawby Ice Cream'''</u>:<br />Bring this Ice Cream back and you will get a big reward.
+! style="text-align:right;border-left:none;" | [[File:IceCream_2.png|67x67px]]
+|-
+!Page
+! style="text-align: center;" | Requirement
+! style="text-align: center;" | Damage Reduced To
+! style="text-align: center;" | Reward
+|-
+| 3
+| You must fulfill the previous order to unlock this one.
+You need to accept this order and rebirth for getting ice cream.
+Reach Oblivion
+| <math>\sqrt[2]{damage}</math>
+| Pet ID 40 can be hatched
+Access to 2 cosmic potions
+
+Access to 1 infinity perk
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Rok Road Ice Cream'''</u>:<br />Bring this Ice Cream back and you will get a big reward.
+! style="text-align:right;border-left:none;" | [[File:IceCream_3.png|67x67px]]
+|-
+!Page
+! style="text-align: center;" | Requirement
+! style="text-align: center;" | Damage Reduced To
+! style="text-align: center;" | Reward
+|-
+| 4
+| You must fulfill the previous order to unlock this one.
+You need to accept this order and rebirth for getting ice cream.
+Reach Oblivion
+| <math>\sqrt[5]{damage^{2}}</math>
+| Pet ID 41 can be hatched
+Access to 2 cosmic potions
+
+Access to 1 infinity perk
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Rainbow Ice Cream'''</u>:<br />Bring this Ice Cream back and you will get a big reward.
+! style="text-align:right;border-left:none;" | [[File:IceCream_4.png|67x67px]]
+|-
+!Page
+! style="text-align: center;" | Requirement
+! style="text-align: center;" | Damage Reduced To
+! style="text-align: center;" | Reward
+|-
+| 5
+| You must fulfill the previous order to unlock this one.
+You need to accept this order and rebirth for getting ice cream.
+Reach Oblivion
+| <math>\sqrt[3]{damage}</math>
+| Pet ID 42 can be hatched
+Access to 2 cosmic potions
+
+Access to 1 infinity perk
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Chococo Ice Cream'''</u>:<br />Bring this Ice Cream back and you will get a big reward.
+! style="text-align:right;border-left:none;" | [[File:IceCream_5.png|67x67px]]
+|-
+!Page
+! style="text-align: center;" | Requirement
+! style="text-align: center;" | Damage Reduced To
+! style="text-align: center;" | Reward
+|-
+| 6
+| You must fulfill the previous order to unlock this one.
+You need to accept this order and rebirth for getting ice cream.
+Reach Oblivion
+| <math>\sqrt[7]{damage^{2}}</math>
+| Pet ID 43 can be hatched
+Access to 1 cosmic potions
+
+Access to 1 infinity perk
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Blubbery Ice Cream'''</u>:<br />Bring this Ice Cream back and you will get a big reward.
+! style="text-align:right;border-left:none;" | [[File:IceCream_6.png|67x67px]]
+|-
+!Page
+! style="text-align: center;" | Requirement
+! style="text-align: center;" | Damage Reduced To
+! style="text-align: center;" | Reward
+|-
+| 7
+| You must fulfill the previous order to unlock this one.
+You need to accept this order and rebirth for getting ice cream.
+Reach Oblivion
+| <math>\sqrt[4]{damage}</math>
+| Pet ID 44 can be hatched
+Access to 1 cosmic potions
+
+Access to 1 infinity perk
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Lava Ice Cream'''</u>:<br />Bring this Ice Cream back and you will get a big reward.
+! style="text-align:right;border-left:none;" | [[File:IceCream_7.png|67x67px]]
+|-
+!Page
+! style="text-align: center;" | Requirement
+! style="text-align: center;" | Damage Reduced To
+! style="text-align: center;" | Reward
+|-
+| 8
+| You must fulfill the previous order to unlock this one.
+You need to accept this order and rebirth for getting ice cream.
+Reach Oblivion
+| <math>\sqrt[9]{damage^{2}}</math>
+| Pet ID 45 can be hatched
+Access to last cosmic potion
+
+Access to last infinity perk
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |Perfectionist:
+! style="text-align:right;border-left:none;" | [[File:DairyAisle_Contract.png|67x67px]]
+|-
+!Page
+! Location
+! style="text-align: center;" |Requirement
+! style="text-align: center;" |Reward
+|-
+|9
+|[[File:Contracts icon.png|30x30px]] in [[File:Limbo icon.png|30x30px]]
+|Get an SSSS++ Rank on all 36 [[contracts]]
+| +10 Levels to certain contract shop upgrades
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Perkinator'''</u>:
+! style="text-align:right;border-left:none;" |[[File:DairyAisle_BP.png|67x67px]]
+|-
+!Page
+!Location
+! style="text-align: center;" |Requirement
+! style="text-align: center;" | Reward
+|-
+|10
+|[[File:Rebirth icon.png|30x30px]] in [[File:Portal icon.png|30x30px]]
+| Upgrade all the [[Rebirth|rebirth]] perks to their max levels
+|2 Infinity [[Rebirth#Infinity_BP_Perks|rebirth]] perks: Tribalism at its Finest, Possessed Pets
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Beastmaster'''</u>:
+! style="text-align:right;border-left:none;" |[[File:DairyAisle_Pet.png|67x67px]]
+|-
+!Page
+!Location
+! style="text-align: center;" | Requirement
+! style="text-align: center;" | Reward
+|-
+| 11
+|[[File:Hatchery Icon.png|30x30px]] in [[File:Pets Icon.png|30x30px]]
+| Discover all 60 different [[Hatchery|pet]] species
+| 3rd gene on all ground pets gives 2x for combos
+(Currently bugged, 1st gene gives +1 for combos)
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Doctorate'''</u>:
+! style="text-align:right;border-left:none;" | [[File:DairyAisle_Tank.png|67x67px]]
+|-
+!Page
+!Location
+! style="text-align: center;" |Requirement
+! style="text-align: center;" |Reward
+|-
+|12
+|[[File:Research Icon.png|30x30px]] in [[File:Pets Icon.png|30x30px]]
+|Level up all 135 [[Research|tank]] bonuses to max level
+'''(there's no max level, but minimal level 1000)'''
+| +15 Max MultiLvl Cap
++200% Tank Exp
+
+2x RP Gains
+|}
+==Notes==
+The Last Required Monster To Kill to reach oblivion is Keymaster O with <span style="color:indigo"><b>21808</b></span> HP. If you Base Damage is bigger then 
+<math>(21808 Galatic)^{\frac{2+n}{2}}</math><br>
+You can very easily take on the Nth Ice Cream, so long you have the sufficient Hit Chance to reach Oblivion normally.
+(More Accurate Numbers TBA)
+[[Category:Portal]]

@@ -1,0 +1,2272 @@
+{{:Header/Limbo}}
+
+==Contracts==
+
+There are 24 (36 if you get the 3 [[Rebirth|rebirth]] perks) different contract quests you can pursue, each with 9 additional versions with increasing difficulty making a grand total of 240 (360) to work towards. Completing contracts awards EXP which is needed to unlock higher tiers and also awards merits badges that can be spent on game bonuses.
+
+Levels gained in Contracts are permanent and do not reset on Ascension or Rebirth.
+
+Note that the Ungodly, Cerebral and Lavathian tiers require the appropriate perks to unlock.
+{| class="article-table" border="1" align="center"
+|+Contract Tiers
+|-
+! style="text-align: center;" | Tier
+!Unlocks At
+! style="text-align: center;" | Tier
+!Unlocks At
+!Tier
+!Unlocks At
+|-
+|[[File:Easy_contract.png|center|link=Contracts#Easy_Contracts]]
+|Level 1
+|[[File:Extreme_contract.png|center]]
+|Level 30
+|[[File:Ungodly_contract.png|center]]
+|Level 75
+|-
+|[[File:Medium_contract.png|center]]
+|Level 10
+|[[File:Insane_contract.png|center]]
+|Level 40
+|[[File:Cerebral_contract.png|center]]
+|Level 100
+|-
+|[[File:Hard_contract.png|center]]
+|Level 20
+|[[File:Regal_contract.png|center]]
+|Level 50
+|[[File:Lavathian_contract.png|center]]
+|Level 125
+
+|}
+
+=== Easy Contracts===
+<div class="mw-collapsible mw-collapsed" style="width:100%;min-height:50px;background-color:rgba(0,0,0,0.1);">
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="7" style="border-right:none;" |<u>'''Monster Madness'''</u>:<br />Defeat a particular monster a specified amount of times in a single Ascension.
+! style="text-align:right;border-left:none;" | [[File:Easy_contract.png|48px]]
+|-
+!Rank
+! colspan="2" style="text-align: center;" |Requirement
+! style="text-align: center;" |Notes
+!Rank
+! colspan="2" style="text-align: center;" |Requirement
+! style="text-align: center;" |Notes
+|-
+|F
+|Kill 2K Monkey
+|[[File:Monkey.png|center|32px]]
+|Grasslands 10
+|S
+| Kill 486K Frozen Bob
+|[[File:Frozen Bob.png|center|32px]]
+| Mountains 43
+|-
+|D
+| Kill 6K Bandit Bob
+|[[File:Bandit Bob.png|center|32px]]
+|Desert 13
+| SS
+| Kill 1458K Gordy 1
+|[[File:Gordy.png|center|32px]]
+| Mist 22
+|-
+| C
+|Kill 18K Desert Baron
+|[[File:Desert Baron.png|center|32px]]
+|Desert 27
+| SSS
+| Kill 4374K Squode 1
+|[[File:Squode.png|center|32px]]
+|Mist 40
+|-
+|B
+|Kill 54K Old Friend
+|[[File:Old Friend.png|center|32px]]
+|Mountains 8 
+|SSSS
+|Kill 13M Unlucky Lad 1 
+|[[File:Unlucky lad.png|center|32px]]
+|Dungeon 22
+|-
+| A
+|Kill 162K Blue Phat 1
+|[[File:Blue Phat.png|center|32px]]
+|Mountains 27
+|SSSS+ 
+| Kill 39.4M Holy Relic 3
+|[[File:Holy relic.png|center|32px]]
+|Dungeon 42
+|-
+! colspan="4" style="text-align: center;" |[[File:Badge1.png]] x1
+! colspan="4" style="text-align: center;" |[[File:Badge1.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Skill Training'''</u>:<br />Level up your skills a specified total of times.
+''(Skills are the hotbars you see in the screen, IE: Mining, Botany, etc)''
+! style="text-align:right;border-left:none;" |[[File:Easy_contract.png|48px]]
+|-
+!Rank 
+! style="text-align: center;" |Requirement
+!Rank
+! style="text-align: center;" |Requirement
+|-
+|F
+|80 Level Ups
+|S
+|1512 Level Ups
+|-
+|D
+| 144 Level Ups
+|SS
+|2721 Level Ups 
+|-
+|C
+|259 Level Ups
+|SSS 
+|4898 Level Ups 
+|-
+| B
+|467 Level Ups
+|SSSS
+|8816 Level Ups
+|-
+|A
+|840 Level Ups
+|SSSS+
+|15869 Level Ups
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge1.png]] x1
+! colspan="2" style="text-align: center;" |[[File:Badge1.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''That's a Lotta Damage'''</u>:<br />Deal a specified amount of damage in one idle attack.
+! style="text-align:right;border-left:none;" |
+[[File:Easy_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" | Requirement
+!Rank
+! style="text-align: center;" |Requirement
+|-
+|F
+|Deal 100K Damage
+|S
+|Deal 102M Damage 
+|-
+|D
+|Deal 400K Damage
+|SS
+|Deal 409M Damage
+|-
+|C
+| Deal 1.6M Damage
+|SSS
+|Deal 1638M Damage
+|-
+|B
+| Deal 6.4M Damage
+| SSSS
+|Deal 6553M Damage
+|-
+|A
+|Deal 25M Damage
+|SSSS+ 
+|Deal 26B Damage
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge1.png]] x1
+! colspan="2" style="text-align: center;" |[[File:Badge1.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Buy Yourself Something Nice'''</u>:<br />Spend a specified total amount of gold on upgrades.
+! style="text-align:right;border-left:none;" |[[File:Easy_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement 
+!Rank
+! style="text-align: center;" |Requirement
+|-
+|F
+| Spend 100K
+|S
+|Spend 320B
+|-
+|D
+|Spend 2M
+|SS
+|Spend 6.4T
+|-
+| C
+|Spend 40M
+|SSS
+|Spend 128T
+|-
+|B
+|Spend 800M
+|SSSS 
+|Spend 2.56Q
+|-
+|A
+|Spend 16B
+|SSSS+
+|Spend 51Q
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge1.png]] x1
+! colspan="2" style="text-align: center;" |[[File:Badge1.png]] x2
+|}
+</div>
+===Medium Contracts===
+<div class="mw-collapsible mw-collapsed" style="width:100%;min-height:50px;background-color:rgba(0,0,0,0.1);">
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Monster Slayer'''</u>:<br />Defeat a specified total amount of monsters.
+''(Only in 'grassland -> dungeon' monsters)''
+! style="text-align:right;border-left:none;" |
+[[File:Medium_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!Rank
+! style="text-align: center;" |Requirement
+|-
+|F
+|Kill 10K Monsters
+|S
+|Kill 10.24M Monsters
+|-
+|D
+|Kill 40K Monsters
+|SS
+|Kill 40.96M Monsters
+|-
+|C
+|Kill 160K Monsters
+| SSS
+|Kill 163.84M Monsters
+|-
+|B
+|Kill 640K Monsters
+|SSSS
+|Kill 655.36M Monsters
+|-
+|A
+|Kill 2.56M Monsters
+|SSSS+
+|Kill 2621M Monsters
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge2.png]] x1
+! colspan="2" style="text-align: center;" |[[File:Badge2.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="4" style="border-right:none;" |<u>'''One Trick Pony'''</u>:<br />Level up a particular skill a to a specified level. 
+! colspan="2" style="text-align:right;border-left:none;" |[[File:Medium_contract.png|48px]]
+|-
+!Rank
+! colspan="2" style="text-align: center;" |Requirement
+!Rank
+! colspan="2" style="text-align: center;" |Requirement
+|-
+|F
+|Reach Smithing Lv. 30
+|[[File:Smithing icon.png|center|32px]]
+|S
+|Reach Summoning Lv. 80
+|[[File:Summoning icon.png|center|32px]]
+|-
+|D
+|Reach Mining Lv. 40
+|[[File:Mining icon.png|center|32px]]
+|SS
+|Reach Attack Lv. 90
+|[[File:Train icon.png|center|32px]]
+|-
+|C
+|Reach Fishing Lv. 50
+|[[File:Fishing icon.png|center|32px]]
+|SSS
+| Reach Health Lv. 90
+|[[File:Train icon.png|center|32px]]
+|-
+|B
+|Reach Strength Lv. 60
+|[[File:Train icon.png|center|32px]]
+|SSSS
+|Reach Strength Lv. 100
+|[[File:Train icon.png|center|32px]]
+|-
+|A
+|Reach Spiriting Lv. 70
+|[[File:Spiriting icon.png|center|32px]]
+|SSSS+
+|Reach Mining Lv. 100
+|[[File:Mining icon.png|center|32px]]
+|-
+! colspan="3" style="text-align: center;" |[[File:Badge2.png]] x1
+! colspan="3" style="text-align: center;" |[[File:Badge2.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Supreme Skillers'''</u>:<br />Upgrade your Training Skillers a specified amount of times.
+''(Gym+Dojo+Mountain+Fields)''
+! style="text-align:right;border-left:none;" |[[File:Medium_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!Rank
+! style="text-align: center;" |Requirement
+|-
+|F
+|400 Upgrades
+|S
+|3390 Upgrades
+|-
+|D
+|800 Upgrades
+| SS
+|4150 Upgrades
+|-
+|C
+|1350 Upgrades
+|SSS
+|4950 Upgrades
+|-
+|B
+|1970 Upgrades
+|SSSS
+|5780 Upgrades
+|-
+|A
+|2660 Upgrades 
+|SSSS+
+|6630 Upgrades
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge1.png]] x1
+! colspan="2" style="text-align: center;" |[[File:Badge1.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="7" style="border-right:none;" |<u>'''Smith This Smath That'''</u>:<br />Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting 
+! style="text-align:right;border-left:none;" |[[File:Medium_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+! colspan="2" style="text-align: center;" |Notes
+!Rank
+! style="text-align: center;" |Requirement
+! colspan="2" style="text-align: center;" |Notes
+|-
+| rowspan="2" |F
+| rowspan="2" |Craft 20 Fishwiches<br />[[File:Fishwich.png|center|32px|link=|alt=]]
+|1261 [548]
+|1261 [548]
+| rowspan="2" |S
+| rowspan="2" |Craft 70 Rubillic Trinkets<br />[[File:Rubillic trinket.png|center|32px|link=|alt=]]
+|10747M [5110M]
+|3436K [1606K]
+|-
+|[[File:Minnow.png|30px|center]]
+|[[File:Small_tuna.png|30px|center]]
+|[[File:Ruby.png|30px|center]]
+|[[File:Angler_fish.png|60px|center]]
+|-
+| rowspan="2" |D
+| rowspan="2" |Craft 30 Golden Armors<br />[[File:Golden armor.png|center|32px|link=|alt=]]
+|3478 [1618]
+|2174 [1012]
+| rowspan="2" |SS
+
+| rowspan="2" |Craft 80 Languished Lungs <br />[[File:Languished lungs.png|center|32px|link=|alt=]]
+|28151M [13821M]
+|47833K [22248K]
+|-
+|[[File:Tin_can.png|30px|center]]
+|[[File:Chainmailfish.png|30px|center]]
+|[[File:Glume.png|30px|center]]
+|[[File:Manta_ray.png|40px|center]]
+|-
+| rowspan="2" |C
+| rowspan="2" |Craft 40 Cobalt Pendants<br />[[File:Cobalt pendant.png|center|32px|link=|alt=]]
+|3134K [1444K]
+|3134K [1444k]
+| rowspan="2" |SSS
+| rowspan="2" |Craft 90 Royalty Income<br />[[File:Royalty income.png|center|32px|link=|alt=]]
+|37989M [18760M]
+|161M [75648K]
+|-
+|[[File:Cobalt.png|30px|center]]
+|[[File:Platinum.png|30px|center]]
+|[[File:Plument.png|30px|center]]
+|[[File:Crystalfish.png|30px|center]]
+|-
+| rowspan="2" |B
+| rowspan="2" |Craft 50 Rapid Reps<br />[[File:Rapid reps.png|center|32px|link=|alt=]]
+|327M [150M]
+|181K [83K]
+| rowspan="2" |SSSS
+| rowspan="2" |Craft 100 Galaxial Slashers <br />[[File:Galaxial slasher.png|center|32px|link=|alt=]]
+|56543M [28001M]
+|24533M [11997M]
+|-
+|[[File:Antimatter.png|30px|center]]
+|[[File:Bonefish.png|60px|center]]
+|[[File:Godshard.png|30px|center]]
+|[[File:Kraken.png|30px|center]]
+|-
+| rowspan="2" |A
+| rowspan="2" |Craft 60 Blacksmith Pills<br />[[File:Blacksmith pills.png|center|32px|link=|alt=]]
+|3736K [1762K]
+|3736K [1762]
+| rowspan="2" |SSSS+
+| rowspan="2" |Craft 110 Dimension Hoppers<br />[[File:Dimension hoppers.png|center|32px|link=|alt=]]
+|70957M [35335M]
+|15965M [7722M]
+|-
+|[[File:Red_herring.png|30px|center]]
+|[[File:Ice_cube_fish.png|30px|center]]
+|[[File:Godshard.png|30px|center]]
+|[[File:Jumbo_shrimp.png|30px|center]]
+|-
+! colspan="4" style="text-align: center;" |[[File:Badge1.png]] x1
+! colspan="4" style="text-align: center;" |[[File:Badge1.png]] x2
+|}
+</div>
+===Hard Contracts===
+<div class="mw-collapsible mw-collapsed" style="width:100%;min-height:50px;background-color:rgba(0,0,0,0.1);">
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="7" style="border-right:none;" |<u>'''Theater Terrors'''</u>:<br />Defeat a particular boss a specified number of times.
+! style="text-align:right;border-left:none;" |[[File:Hard_contract.png|48px]]
+|-
+!Rank
+
+! colspan="2" style="text-align: center;" |Requirement
+! style="text-align: center;" |Notes
+!Rank
+! colspan="2" style="text-align: center;" |Requirement
+! style="text-align: center;" |Notes
+|-
+|F
+|Kill 2 Daydream Kings
+|[[File:C king x.png|center|32px]]
+|2 Raid Tickets
+|S
+|Kill 12 Daydream Demons
+|[[File:C demon x.png|center|32px]]
+|12 Raid Tickets
+|-
+| D
+|Kill 6 Chaotic Kings
+|[[File:C king y.png|center|32px]]
+|18 Raid Tickets
+|SS
+|Kill 14 Nightmare Kings
+| [[File:C king z.png|center|32px]]
+|140 Raid Tickets
+|-
+|C
+|Kill 6 Daydream Entertainers
+|[[File:C entertainer x.png|center|32px]]
+|6 Raid Tickets
+|SSS
+|Kill 16 Chaotic Sentinels
+|[[File:C sentinel y.png|center|32px]]
+|48 Raid Tickets
+|-
+|B
+|Kill 8 Daydream Sentinels
+|[[File:C sentinel x.png|center|32px]]
+|8 Raid Tickets
+|SSSS
+|Kill 18 Nightmare Entertainers
+|[[File:C entertainer z.png|center|32px]] 
+|180 Raid Tickets
+|-
+|A
+|Kill 10 Chaotic Entertainers
+|[[File:C entertainer y.png|center|32px]]
+|30 Raid Tickets
+| SSSS+
+|Kill 20 Nightmare Demons
+|[[File:C demon z.png|center|32px]]
+|200 Raid Tickets
+|-
+! colspan="4" style="text-align: center;" |[[File:Badge3.png]] x1
+! colspan="4" style="text-align: center;" |[[File:Badge3.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Pickpocket Pro'''</u>:<br />Pick up a specified amount of item drops.
+''(Gems, Cards, Tickets, etc.)''
+! style="text-align:right;border-left:none;" |[[File:Hard_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!Rank 
+! style="text-align: center;" |Requirement
+|-
+| F
+|15 Pickups
+|S
+|480 Pickups
+|-
+|D
+|30 Pickups 
+|SS
+|960 Pickups
+|-
+|C
+|60 Pickups
+|SSS
+|1920 Pickups 
+|-
+|B
+|120 Pickups
+|SSSS
+|3840 Pickups 
+|-
+|A
+|240 Pickups
+|SSSS+
+|7680 Pickups
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge2.png]] x1
+! colspan="2" style="text-align: center;" |[[File:Badge2.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Catch of the Day'''</u>:<br />Catch a specified amount of fish in one attempt.
+! style="text-align:right;border-left:none;" |[[File:Hard_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+! Rank
+! style="text-align: center;" |Requirement
+|-
+|F
+|50 Fish at Once
+
+|S
+|600 Fish at Once
+|-
+|D
+|100 Fish at Once
+| SS
+|780 Fish at Once
+|-
+|C
+|190 Fish at Once 
+|SSS
+|970 Fish at Once
+
+|-
+|B
+|300 Fish at Once
+| SSSS
+|1180 Fish at Once
+|-
+|A
+|450 Fish at Once
+|SSSS+
+|1390 Fish at Once
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge2.png]] x1 
+! colspan="2" style="text-align: center;" |[[File:Badge2.png]] x2 
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="4" style="border-right:none;" |<u>'''Soul Hoarder'''</u>:<br />Own a specified number of a particular soul at once.
+! colspan="2" style="text-align:right;border-left:none;" |[[File:Hard_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!Soul
+!Rank 
+! style="text-align: center;" |Requirement
+!Soul
+|-
+|F
+|Own 1K Red Souls
+|[[File:Red soul.png|center|32px]]
+|S
+|Own 176 Purple Souls
+|[[File:Purple soul.png|center|32px]]
+|-
+|D
+|Own 571 Orange Souls
+|[[File:Orange soul.png|center|32px]]
+|SS
+|Own 166 White Souls
+|[[File:White soul.png|center|32px]]
+|-
+|C
+|Own 314 Yellow Souls
+|[[File:Yellow soul.png|center|32px]]
+|SSS
+|Own 160 White Souls
+|[[File:White soul.png|center|32px]]
+|-
+|B
+|Own 229 Green Souls
+|[[File:Green soul.png|center|32px]]
+|SSSS
+|Own 587 White Souls
+|[[File:White soul.png|center|32px]]
+|-
+|A
+| Own 193 Blue Souls
+|[[File:Blue soul.png|center|32px]]
+|SSSS+
+|Own 1141 White Souls
+|[[File:White soul.png|center|32px]]
+|-
+! colspan="3" style="text-align: center;" |[[File:Badge2.png]] x1
+! colspan="3" style="text-align: center;" |[[File:Badge2.png]] x2
+|}
+</div>
+=== Extreme Contracts===
+<div class="mw-collapsible mw-collapsed" style="width:100%;min-height:50px;background-color:rgba(0,0,0,0.1);">
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Glitched Out'''</u>:<br />Reach a particular Glitch monster.
+''(Glitch are monsters after completing a zone.)''
+! style="text-align:right;border-left:none;" |[[File:Extreme_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" | Requirement
+!Rank
+! style="text-align: center;" |Requirement
+|-
+|F
+|Reach Grasslands Glitch 30
+|S
+|Reach Mountains Glitch 45
+|-
+|D
+|Reach Desert Glitch 25
+|SS
+|Reach Mist Glitch 15
+
+|-
+|C
+|Reach Grasslands Glitch 60
+|SSS
+|Reach Mist Glitch 40
+|-
+|B
+|Reach Desert Glitch 50
+|SSSS
+| Reach Noob Glitch 10
+|-
+| A
+|Reach Mountains Glitch 20
+|SSSS+
+|Reach Noob Glitch 30
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge4.png]] x1
+! colspan="2" style="text-align: center;" |[[File:Badge4.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Unfinanced Mining'''</u>:<br />Mine a specified amount of ore without killing a monster.
+''([[Arcade]] reward kills also cause this contract to fail.)''
+! style="text-align:right;border-left:none;" |[[File:Extreme_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!Rank
+! style="text-align: center;" |Requirement 
+|-
+|F
+| Mine 10K Ore
+|S
+|Mine 10M Ore
+|-
+|D
+|Mine 40K Ore
+|SS
+|Mine 41M Ore
+|-
+|C
+|Mine 160K Ore
+|SSS
+|Mine 164M Ore
+|-
+|B
+| Mine 640K Ore
+|SSSS
+| Mine 655M Ore
+|-
+|A
+|Mine 2560K Ore
+|SSSS+
+|Mine 2621M Ore
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge3.png]] x1
+! colspan="2" style="text-align: center;" |[[File:Badge3.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''What is this... Minecraft?'''</u>:<br />Craft a specified number of items in a single Ascension.
+''(Smithing Only)''
+! style="text-align:right;border-left:none;" |[[File:Extreme_contract.png|48px]]
+|-
+!Rank
+
+! style="text-align: center;" |Requirement
+!Rank
+! style="text-align: center;" |Requirement
+|-
+|F
+|Craft 200 Items
+|S
+|Craft 2107 Items
+|-
+|D
+|Craft 305 Items 
+|SS
+|Craft 2848 Items
+|-
+| C
+|Craft 566 Items
+
+|SSS 
+|Craft 3694 Items 
+|-
+| B
+|Craft 960 Items
+|SSSS
+|Craft 4644 Items
+|-
+|A
+|Craft 1476 Items
+|SSSS+
+|Craft 5693 Items
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge3.png]] x1
+! colspan="2" style="text-align: center;" |[[File:Badge3.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Rifty Business'''</u>:<br />Level up your Summoning Rifts a specified number of times in a single Ascension.
+! style="text-align:right;border-left:none;" |[[File:Extreme_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!Rank
+! style="text-align: center;" |Requirement
+|-
+|F
+|50 Level Ups 
+|S
+|350 Level Ups
+|-
+|D
+|110 Level Ups
+|SS
+|410 Level Ups
+|-
+|C
+|170 Level Ups
+|SSS
+|470 Level Ups
+|-
+|B
+|230 Level Ups
+|SSSS
+|530 Level Ups
+|-
+|A
+|290 Level Ups
+|SSSS+
+
+|590 Level Ups
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge3.png]] x1
+! colspan="2" style="text-align: center;" |[[File:Badge3.png]] x2
+|}
+</div>
+===Insane Contracts===
+<div class="mw-collapsible mw-collapsed" style="width:100%;min-height:50px;background-color:rgba(0,0,0,0.1);">
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="7" style="border-right:none;" |<u>'''Broken Forge'''</u>:<br />Reach a particular monster without crafting.
+! style="text-align:right;border-left:none;" |
+[[File:Insane_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!Icon
+! style="text-align: center;" |Notes
+!Rank
+! style="text-align: center;" |Requirement
+!Icon
+! style="text-align: center;" |Notes
+|-
+|F
+|Reach Disciple Y
+|[[File:Disciple Y.png|center|32px]]
+|Grasslands 14
+|S
+|Ice Cream
+|[[File:Ice Cream.png|center|32px]]
+|Mountains 5
+|-
+|D
+|Reach Cacto
+|[[File:Cacto.png|center|32px]]
+|Desert 2
+|SS
+|Sickle
+|[[File:Sickle.png|center|32px]]
+|Mountains 15
+|-
+|C
+|Reach Nutto
+|[[File:Mutto.png|center|32px]]
+|Desert 10
+| SSS
+|Crystalline
+|[[File:Crystalline.png|center|32px]]
+|Mountains 41
+|-
+|B
+|Reach Mimic
+|[[File:Mimic.png|center|32px]]
+|Desert 20
+|SSSS
+|Mist Mites
+|[[File:Mist Mites.png|center|32px]]
+|Mist 10
+|-
+|A
+|Reach Unacceptable
+|[[File:Unacceptable.png|center|32px]]
+|Desert 26
+|SSSS+
+|Agent
+|[[File:Agent.png|center|32px]]
+|Dungeon 1
+|-
+! colspan="4" style="text-align: center;" |[[File:Badge4.png]] x1
+
+! colspan="4" style="text-align: center;" |[[File:Badge4.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Card Collector'''</u>:<br />Upgrade your cards to reach a specified total card level.
+! style="text-align:right;border-left:none;" |[[File:Insane_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!Rank
+! style="text-align: center;" |Requirement
+|-
+|F
+|50 Total Level
+|S
+|250 Total Level 
+|-
+|D
+| 90 Total Level
+|SS
+|290 Total Level
+|-
+| C
+|130 Total Level
+|SSS
+|330 Total Level
+|-
+|B
+|170 Total Level
+|SSSS
+|370 Total Level
+|-
+| A
+|210 Total Level
+|SSSS+
+|410 Total Level
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge4.png]] x1 
+! colspan="2" style="text-align: center;" |[[File:Badge4.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="7" style="border-right:none;" |<u>'''Fastest Rod in the West'''</u>:<br />Catch a particular fish within 5 minutes of Ascending (must be caught on screen).
+! style="text-align:right;border-left:none;" |
+[[File:Insane_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!Fish
+! style="text-align: center;" |Notes
+!Rank 
+! style="text-align: center;" |Requirement
+!Fish
+! style="text-align: center;" |Notes
+|-
+|F
+|Catch Jellyfish
+|[[File:Jellyfish.png|center|32px]]
+|Lv. 6 Fishing 
+|S
+| Catch Giant Sea Serpent
+|[[File:Giant sea serpent.png|center|32px]]
+|Lv. 45 Fishing
+|-
+|D
+|Catch Angler Fish 
+
+|[[File:Angler fish.png|center|32px]]
+|Lv. 1 Fishing
+| SS
+|Catch Snail Fish
+|[[File:Snail fish.png|center|32px]]
+|Lv. 48 Fishing
+|-
+|C
+|Catch Bonefish
+|[[File:Bonefish.png|center|32px]]
+|Lv. 16 Fishing
+|SSS
+|Catch Dollar Fish
+|[[File:Dollar fish.png|center|32px]]
+| Lv. 60 Fishing 
+|-
+|B
+|Catch Manta Ray
+|[[File:Manta ray.png|center|32px]]
+|Lv. 15 Fishing
+|SSSS
+|Catch Yellow Gulper
+|[[File:Yellow gulper.png|center|32px]]
+|Lv. 64 Fishing
+|-
+|A
+|Catch Ice Cube Fish
+|[[File:Ice cube fish.png|center|32px]]
+|Lv. 36 Fishing 
+|SSSS+
+|Catch Jumbo Shrimp
+|[[File:Jumbo shrimp.png|center|32px]]
+|Lv. 75 Fishing
+|-
+! colspan="4" style="text-align: center;" |[[File:Badge4.png]] x1
+! colspan="4" style="text-align: center;" |[[File:Badge4.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="7" style="border-right:none;" |<u>'''Speed Mining'''</u>:<br />Using a specified miner, mine a particular ore within 5 minutes of Ascending.
+! style="text-align:right;border-left:none;" |[[File:Insane_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!Ore
+! style="text-align: center;" |Notes
+!Rank
+! style="text-align: center;" |Requirement
+!Ore
+! style="text-align: center;" |Notes
+|-
+|F
+|Miner 1: Gold
+|[[File:Gold.png|center|32px]]
+|Lv. 10 Mining
+|S
+|Miner 3: Refractium
+|[[File:Refractium.png|center|32px]]
+|Lv. 49 Mining
+|-
+| D
+|Miner 1: Platinum
+|[[File:Platinum.png|center|32px]]
+| Lv. 15 Mining
+|SS
+|Miner 4: Dubloonium
+|[[File:Dubloonium.png|center|32px]]
+|Lv. 56 Mining 
+|-
+|C
+|Miner 2: Cobalt
+|[[File:Cobalt.png|center|32px]]
+|Lv. 22 Mining
+|SSS
+|Miner 4: Plument
+|[[File:Plument.png|center|32px]]
+| Lv. 66 Mining
+|-
+|B
+|Miner 2 Effluvium
+|[[File:Effluvium.png|center|32px]]
+|Lv. 32 Mining
+|SSSS
+|Miner 5: Demonite
+|[[File:Demonite.png|center|32px]]
+|Lv. 78 Mining
+|-
+|A
+|Miner 3: Antimatter
+|[[File:Antimatter.png|center|32px]]
+|Lv. 39 Mining
+|SSSS+ 
+|Miner 6: Godshard
+|[[File:Godshard.png|center|32px]]
+|Lv. 85 Mining
+|-
+! colspan="4" style="text-align: center;" |[[File:Badge3.png]] x1
+! colspan="4" style="text-align: center;" |[[File:Badge3.png]] x2
+|}
+</div>
+===Regal Contracts===
+<div class="mw-collapsible mw-collapsed" style="width:100%;min-height:50px;background-color:rgba(0,0,0,0.1);">
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="5" style="border-right:none;" |<u>'''Deprived Raiding'''</u>:<br />Defeat a particular boss without leveling a particular skill.
+! colspan="3" style="text-align:right;border-left:none;" |[[File:Regal_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!Boss
+!Area
+!Rank
+! style="text-align: center;" |Requirement 
+!Boss
+!Area
+|-
+|F
+|Kill Daydream King without Mining
+|[[File:C king x.png|center|32px]]
+|[[File:Mining icon.png|center|32px]]
+|S
+|Kill Nightmare Entertainer without Training Endurance
+|[[File:C entertainer z.png|center|32px]]
+|[[File:Small_fields icon.png|center|32px]]
+|-
+|D
+|Kill Chaotic King without Fishing
+|[[File:C king y.png|center|32px]]
+|[[File:Fishing icon.png|center|32px]]
+|SS
+|Kill Chaotic Sentinel without Smithing
+|[[File:C sentinel y.png|center|32px]]
+|[[File:Smithing icon.png|center|32px]]
+|-
+|C
+|Kill Daydream Entertainer without Summoning
+|[[File:C entertainer x.png|center|32px]]
+|[[File:Summoning icon.png|center|32px]]
+|SSS
+|Kill Chaotic Demon without Training Strength
+|[[File:C demon y.png|center|32px]]
+|[[File:Small_strength icon.png|center|32px]]
+|-
+|B
+| Kill Chaotic Entertainer without Training Attack
+|[[File:C entertainer y.png|center|32px]]
+|[[File:Small_dojo icon.png|center|32px]]
+|SSSS
+|Kill Nightmare Sentinel without Training Endurance
+|[[File:C sentinel z.png|center|32px]]
+|[[File:Small_fields icon.png|center|32px]]
+|-
+|A
+|Kill Daydream Sentinel without Training Strength
+|[[File:C sentinel x.png|center|32px]]
+|[[File:Small_strength icon.png|center|32px]]
+|SSSS+
+|Kill Nightmare Demon without Smithing
+|[[File:C demon z.png|center|32px]]
+|[[File:Smithing icon.png|center|32px]]
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge5.png]] x1
+!
+!
+! colspan="2" style="text-align: center;" |[[File:Badge5.png]] x2 
+!
+!
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="7" style="border-right:none;" |<u>'''Unskilled Kills'''</u>:<br />Reach a particular monster without using ''any'' perks.
+! style="text-align:right;border-left:none;" |[[File:Regal_contract.png|48px]]
+|-
+!Rank
+! colspan="2" style="text-align: center;" |Requirement
+! style="text-align: center;" |Notes
+!Rank
+! colspan="2" style="text-align: center;" |Requirement
+! style="text-align: center;" |Notes
+
+|-
+|F
+|Reach Nutto
+|[[File:Mutto.png|center|32px]]
+|Desert 10
+|S
+|Reach Elder Goat 1
+|[[File:Elder Goat.png|center|32px]]
+|Mountains 37
+|-
+|D
+|Reach Mimic
+|[[File:Mimic.png|center|32px]]
+|Desert 20 
+|SS
+|Reach Edgy Rock 1
+|[[File:Edgy Rock.png|center|32px]]
+|Mist 19
+|-
+|C
+|Reach Sand Rattler
+| [[File:Sand Rattler.png|center|32px]]
+| Desert 23
+|SSS
+|Reach Squode 1
+|[[File:Squode.png|center|32px]]
+|Mist 40
+|-
+|B
+|Reach Flakey 1
+|[[File:Flakey.png|center|32px]]
+|Mountains 1
+|SSSS
+|Reach Agent 1
+|[[File:Agent.png|center|32px]]
+|Dungeon 1
+|-
+|A
+|Reach Yeti 1
+|[[File:Yeti.png|center|32px]]
+|Mountains 17 
+|SSSS+
+|Reach Chalice 1
+| [[File:Chalice.png|center|32px]]
+|Dungeon 19
+|-
+! colspan="4" style="text-align: center;" |[[File:Badge5.png]] x1
+! colspan="4" style="text-align: center;" |[[File:Badge5.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="7" style="border-right:none;" |<u>'''Monster Blitz'''</u>:<br />Reach a particular monster within 5 minutes of Ascending.
+! style="text-align:right;border-left:none;" |[[File:Regal_contract.png|48px]]
+|-
+!Rank
+! colspan="2" style="text-align: center;" |Requirement
+! style="text-align: center;" |Notes
+! Rank
+! colspan="2" style="text-align: center;" | Requirement
+! style="text-align: center;" |Notes
+|-
+|F
+|Reach Rogue Rock
+|[[File:Rogue Rock.png|center|32px]]
+|Grasslands 4
+|S
+|Reach Potted Sand
+|[[File:Potted Sand.png|center|32px]]
+|Desert 1 
+|-
+|D
+|Reach Flowey 
+|[[File:Flowey.png|center|32px]]
+|Grasslands 7
+|SS 
+|Reach Dung Ball
+|[[File:Dung Ball.png|center|32px]]
+|Desert 4
+|-
+|C
+|Reach Monkey
+|[[File:Monkey.png|center|32px]]
+|Grasslands 10
+|SSS
+|Reach Quicksand
+|[[File:Quicksand.png|center|32px]]
+|Desert 7
+|-
+|B
+|Reach Bored Bean
+|[[File:Bored Bean.png|center|32px]]
+|Grasslands 12
+|SSSS
+|Reach Nutto
+|[[File:Mutto.png|center|32px]]
+|Desert 10
+|-
+|A
+|Reach Keymaster Y
+|[[File:Keymaster Y.png|center|32px]]
+| Grasslands 15
+|SSSS+
+|Reach Bandit Bob
+| [[File:Bandit Bob.png|center|32px]]
+|Desert 13
+|-
+! colspan="4" style="text-align: center;" |[[File:Badge5.png]] x1
+! colspan="4" style="text-align: center;" |[[File:Badge5.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="4" style="border-right:none;" |<u>'''Raid Rush'''</u>:<br />Defeat a particular boss within 5 minutes of Ascending.
+! colspan="2" style="text-align:right;border-left:none;" |[[File:Regal_contract.png|48px]]
+|-
+!Rank
+! colspan="2" style="text-align: center;" |Requirement
+!Rank
+! colspan="2" style="text-align: center;" |Requirement
+|-
+|F
+|Kill Daydream King
+|[[File:C king x.png|center|32px]]
+|S
+|Kill Nightmare Entertainer 
+|[[File:C entertainer z.png|center|32px]]
+|-
+|D
+|Kill Chaotic King
+|[[File:C king y.png|center|32px]]
+|SS
+|Kill Chaotic Sentinel
+|[[File:C sentinel y.png|center|32px]]
+|-
+|C
+|Kill Daydream Entertainer
+|[[File:C entertainer x.png|center|32px]]
+|SSS
+|Kill Chaotic Demon
+|[[File:C demon y.png|center|32px]]
+|-
+|B
+|Kill Chaotic Entertainer
+|[[File:C entertainer y.png|center|32px]]
+|SSSS
+|Kill Nightmare Sentinel
+|[[File:C sentinel z.png|center|32px]]
+|-
+|A
+|Kill Daydream Sentinel
+|[[File:C sentinel x.png|center|32px]]
+|SSSS+
+|Kill Nightmare Demon
+|[[File:C demon z.png|center|32px]]
+|-
+! colspan="3" style="text-align: center;" |[[File:Badge5.png]] x1
+! colspan="3" style="text-align: center;" |[[File:Badge5.png]] x2
+|}
+</div>
+===Ungodly Contracts===
+<div class="mw-collapsible mw-collapsed" style="width:100%;min-height:50px;background-color:rgba(0,0,0,0.1);">
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="7" style="border-right:none;" |<u>'''Banishing Behemoths'''</u>:<br />Defeat a particular post-[[Dungeon]] monster a specified amount of times in a single Ascension.
+! style="text-align:right;border-left:none;" |[[File:Ungodly_contract.png|48px]]
+|-
+!Rank
+! colspan="2" style="text-align: center;" |Requirement
+! style="text-align: center;" |Notes
+!Rank
+! colspan="2" style="text-align: center;" |Requirement
+! style="text-align: center;" |Notes
+|-
+|F
+|Kill 500K Clackity
+|[[File:Clackity.png|center|32px]]
+|Purgatory 4-6
+|S
+|Kill 86M Wee Wee
+|[[File:Wee Wee.png|center|32px]]
+|Lunar Isle 49-51
+|-
+|D
+|Kill 1.4M Chaotic Bob
+|[[File:Chaotic bob.png|center|32px]]
+|Purgatory 25-27
+|SS 
+|Kill 241M Emmental
+|[[File:enemy-204.png|center|32px]]
+|Maelstrom 10-12
+|-
+|C
+|Kill 3.9M Halluccino
+|[[File:Halluccino.png|center|32px]]
+|The Bog 13-15
+|SSS
+|Kill 675M Sparky Bob
+|[[File:enemy-212.png|center|32px]]
+|Maelstorm 34-36
+|-
+|B
+| Kill 10.9M Bog Monster
+|[[File:Bog monster.png|center|32px]]
+|The Bog 49-51
+| SSSS
+|Kill 1889M Trombain
+|[[File:enemy-219.png|center|32px]]
+|Maelstorm 55-57
+|-
+|A
+|Kill 30.7M Crateros
+|[[File:Crateros.png|center|32px]]
+|Lunar Isle 10-12
+|SSSS+
+|Kill 5289M Blither
+|[[File:Oblivion Blither.png|center|32px]]
+|Oblivion 16 only (Blither 1). 2-5 are not counted as at v5.0, could be bugged.
+|-
+! colspan="4" style="text-align: center;" |[[File:Badge6.png]] x1
+! colspan="4" style="text-align: center;" |[[File:Badge6.png]] x2
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="4" style="border-right:none;" |<u>'''Crusade Conquistador'''</u>:<br />Defeat a particular Crusades boss at a specified difficulty tier.
+! colspan="2" style="text-align:right;border-left:none;" |[[File:Ungodly_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!Boss
+!Rank 
+! style="text-align: center;" |Requirement
+!Boss
+|-
+| F
+|Beat Killer Rabbit 27
+|[[File:Killer rabbit.png|center|32px]]
+|S
+|Beat Gheist 70
+|[[File:Gheist.png|center|32px]]
+|-
+| D
+|Beat Pincermin 37
+|[[File:Pincermin.png|center|32px]]
+|SS
+|Beat Basilisk 80
+|[[File:Basilisk.png|center|32px]]
+|-
+|C
+|Beat Desert Wurm 47
+|[[File:Desert wurm.png|center|32px]]
+| SSS
+|Beat Blobulytes 95
+|[[File:Blobulytes.png|center|32px]]
+|-
+|B
+| Beat Faust 57
+|[[File:Faust.png|center|32px]]
+|SSSS
+|Beat Puppeteer 120
+|[[File:Puppeteer.png|center|32px]]
+|-
+|A
+|Beat Arachneon 66
+|[[File:Arachneon.png|center|32px]]
+|SSSS+
+|Beat Narcissus 150
+|[[File:Narcissus.png|center|32px]]
+|-
+! colspan="3" style="text-align: center;" |[[File:Badge5.png]] x1
+! colspan="3" style="text-align: center;" |[[File:Badge5.png]] x2
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>'''Potion Pro'''</u>:<br />Reach a total combined level for a specified potion color.
+! style="text-align:right;border-left:none;" |[[File:Ungodly_contract.png|48px]]
+|-
+!Rank 
+! style="text-align: center;" |Requirement
+!Rank
+! style="text-align: center;" |Requirement
+|-
+|F
+|100 Red Potion Levels [[File:Smith redux.png|center|32px]]
+|S
+|550 Lime Potion Levels [[File:Minexp.png|center|32px]]
+|-
+|D
+|150 Red Potion Levels [[File:Smith redux.png|center|32px]]
+|SS
+|700 Cyan Potion Levels [[File:Bigger big.png|center|32px]]
+|-
+|C
+|175 Orange Potion Levels [[File:Exotic yield.png|center|32px]]
+|SSS
+| 925 Purple Potion Levels [[File:Converzin.png|center|32px]]
+|-
+|B
+|225 Orange Potion Levels [[File:Exotic yield.png|center|32px]]
+|SSSS
+|1100 Demon Potion Levels [[File:Ap powah.png|center|32px]]
+|-
+|A
+|325 Yellow Potion Levels [[File:Potion dubble.png|center|32px]]
+|SSSS+
+|1250 Godly Potion Levels [[File:Unparalleled.png|center|32px]]<br />(Bugged: Demon Levels)
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge5.png]] x1 
+! colspan="2" style="text-align: center;" |[[File:Badge5.png]] x2
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="7" style="border-right:none;" |<u>'''Planting! At the Disco'''</u>:<br />Grow a particular Botany plant faster than a specified amount of time.
+! style="text-align:right;border-left:none;" |[[File:Ungodly_contract.png|48px]]
+|-
+!Rank
+! colspan="2" style="text-align: center;" |Requirement
+! style="text-align: center;" |Notes
+!Rank
+
+! colspan="2" style="text-align: center;" |Requirement
+! style="text-align: center;" |Notes
+
+|-
+|F
+|Cactus in 20 Min.
+|[[File:Cactus.png|center|32px]]
+|Lv. 12 Botany
+|S
+|Mushroom in 90 Min.
+|[[File:Mushroom.png|center|32px]]
+|Lv. 42 Botany
+|-
+| D
+|Sapling in 25. Min
+|[[File:Sapling.png|center|32px]]
+|Lv. 18 Botany
+|SS
+|Cursed Eye in 120 Min.
+|[[File:Cursed eye.png|center|32px]]
+|Lv. 51 Botany
+|-
+|C
+|Saharan Foal in 30 Min.
+|[[File:Saharan foal.png|center|32px]]
+|Lv. 24 Botany
+|SSS 
+|Lemming in 60 Min.
+|[[File:Lemming.png|center|32px]]
+|Lv. 57 Botany
+|-
+|B
+|Crystals in 45 Min.
+|[[File:Crystals.png|center|32px]]
+|Lv. 30 Botany
+|SSSS
+|Ice Cream in 30 Min.
+|[[File:Icecream.png|center|32px]]
+|Lv. 63 Botany 
+|-
+|A
+|Fyreling in 60 Min.
+|[[File:Fyreling.png|center|32px]]
+| Lv. 36 Botany
+|SSSS+
+|Sunburst in 10 Min. 
+|[[File:Sunburst.png|center|32px]]
+|Lv. 69 Botany
+|-
+! colspan="4" style="text-align: center;" |[[File:Badge4.png]] x1
+! colspan="4" style="text-align: center;" |[[File:Badge4.png]] x2
+
+|}
+</div>
+
+=== Cerebral Contracts===
+<div class="mw-collapsible mw-collapsed" style="width:100%;min-height:50px;background-color:rgba(0,0,0,0.1);">
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="5" style="border-right:none;" |<u>'''Skull Duggeridoo'''</u>:<br />Reach a specified number of particular skull tiers in Fighting.
+! style="text-align:right;border-left:none;" |[[File:Cerebral_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+! style="text-align: center;" |Notes
+!Rank
+! style="text-align: center;" |Requirement
+! style="text-align: center;" |Notes
+|-
+|F
+| Reach 20 Bronze Skulls
+| rowspan="2" |Bronze = 100K kills
+|S
+|Reach 20 Diamond Skulls
+|Diamond = 100M kills
+|-
+|D
+|Reach 80 Bronze Skulls
+|SS
+|Reach 500 Bronze Skulls
+|Bronze = 100K kills
+|-
+|C
+|Reach 50 Silver Skulls
+| rowspan="2" |Silver = 1M kills
+|SSS
+|Reach 250 Silver Skulls
+| Silver = 1M kills
+|-
+|B
+|Reach 100 Silver Skulls
+|SSSS
+|Reach 175 Gold Skulls
+|Gold = 10M kills
+|-
+|A
+|Reach 60 Gold Skulls 
+|Gold = 10M kills
+|SSSS+
+|Reach 100 Diamond Skulls
+| Diamond = 100M kills
+|-
+! colspan="3" style="text-align: center;" |[[File:Badge6.png]] x1
+
+! colspan="3" style="text-align: center;" |[[File:Badge6.png]] x2
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="7" style="border-right:none;" |<u>'''You Call That a Knife?'''</u>:<br />Own a specified excess amount of particular Tinkering equipment.
+! style="text-align:right;border-left:none;" |[[File:Cerebral_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!Item
+! style="text-align: center;" |Notes
+!Rank
+! style="text-align: center;" |Requirement
+!Item
+! style="text-align: center;" |Notes 
+|-
+|F
+|Own 1K Eyepatches
+|[[File:Eyepatch.png|center|32px]]
+| Lv. 13 Tinkering
+|S
+|Own 30 Parallax Armor
+|[[File:Parallax armor.png|center|32px]]
+|Lv. 52 Tinkering
+|-
+| D
+|Own 5K Platelegs
+|[[File:Platelegs.png|center|32px]]
+|Lv. 21 Tinkering
+|SS
+|Own 200 Haunted Kite
+|[[File:Haunted kite.png|center|32px]]
+|Lv. 61 Tinkering
+|-
+|C
+|Own 4K Royal Bayonet
+|[[File:Royal bayonet.png|center|32px]]
+|Lv. 25 Tinkering
+|SSS
+|Own 30 Radiated Pants
+|[[File:Radiated pants.png|center|32px]]
+|Lv. 71 Tinkering
+|-
+|B
+|Own 3K Flame Dagger 
+|[[File:Flame dagger.png|center|32px]]
+|Lv. 37 Tinkering
+|SSSS 
+|Own 150 Enraged Blood
+|[[File:Enraged blood.png|center|32px]]
+|Lv. 82 Tinkering
+|-
+|A
+|Own 15K Poison Pendant
+|[[File:Poison pendant.png|center|32px]]
+|Lv. 45 Tinkering
+|SSSS+
+|Own 1K Divination Eye
+|[[File:Divination eye.png|center|32px]]
+|Lv. 90 Tinkering
+|-
+! colspan="4" style="text-align: center;" |[[File:Badge6.png]] x1 
+! colspan="4" style="text-align: center;" |[[File:Badge6.png]] x2
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="7" style="border-right:none;" |<u>'''They See Me Hoein'... They Hatin''''</u>:<br />Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. 
+! style="text-align:right;border-left:none;" |[[File:Cerebral_contract.png|48px]]
+|-
+!Rank
+
+! style="text-align: center;" |Requirement
+!Crop
+! style="text-align: center;" |Notes
+!Rank
+
+! style="text-align: center;" |Requirement
+!Crop
+! style="text-align: center;" |Notes
+|-
+|F
+|Get 10K Saffron 
+|[[File:Saffron.png|center|32px]]
+|Lv. 15 Tilling
+|S
+|Get 1.5M Lucentium
+|[[File:Lucentium.png|center|32px]]
+|Lv. 75 Tilling
+|-
+|D
+|Get 25K Hyper Stalk
+|[[File:Hyper stalk.png|center|32px]]
+|Lv. 30 Tilling
+|SS
+|Get 3M Prismatism 
+|[[File:Prismatism.png|center|32px]]
+|Lv. 80 Tilling
+|-
+|C
+|Get 100K Ancient Dew
+|[[File:Ancient dew.png|center|32px]]
+|Lv. 40 Tilling
+|SSS
+|Get 6M Essence
+|[[File:Essence.png|center|32px]]
+|Lv. 85 Tilling
+|-
+|B
+|Get 300K Lil Pumpkin
+|[[File:Lil pumpkin.png|center|32px]]
+|Lv. 55 Tilling
+|SSSS
+|Get 12M Hallownil
+|[[File:Hallownil.png|center|32px]]
+|Lv. 90 Tilling
+|-
+| A
+|Get 1M Spooktobble
+|[[File:Spooktobble.png|center|32px]]
+|Lv. 65 Tilling
+|SSSS+ 
+|Get 25M Sammatian
+|[[File:Sammatian.png|center|32px]]
+|Lv. 95 Tilling
+|-
+! colspan="4" style="text-align: center;" |[[File:Badge5.png]] x1
+! colspan="4" style="text-align: center;" |[[File:Badge5.png]] x2
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="4" style="border-right:none;" |<u>'''Even Photosynthesis Needs RNG'''</u>:<br />Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. 
+! colspan="2" style="text-align:right;border-left:none;" |[[File:Cerebral_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!Flower
+!Rank
+! style="text-align: center;" |Requirement
+!Flower
+|-
+|F
+|Flowers in 13 Harvests
+|[[File:Flowers.png|center|32px]]
+|S
+|Candypop in 95 Harvests
+|[[File:Candypop.png|center|32px]]
+|-
+|D
+|Cactus in 16 Harvests
+|[[File:Cactus.png|center|32px]]
+|SS
+|Blood Tree in 150 Harvests
+|[[File:Blood tree.png|center|32px]]
+|-
+|C
+|Sapling in 28 Harvests
+|[[File:Sapling.png|center|32px]]
+|SSS
+|Demonia in 250 Harvests
+|[[File:Demonia.png|center|32px]]
+|-
+|B
+|Saharan Foal in 40 Harvests
+|[[File:Saharan foal.png|center|32px]]
+|SSSS
+|Veninsulic in 375 Harvests
+|[[File:Veninsulic.png|center|32px]]
+|-
+|A
+|Mint Cane in 65 Harvests
+|[[File:Mint cane.png|center|32px]]
+| SSSS+
+|Chlorine in 200 Harvests
+|[[File:Chlorine.png|center|32px]]
+|-
+! colspan="3" style="text-align: center;" |[[File:Badge5.png]] x1
+! colspan="3" style="text-align: center;" |[[File:Badge5.png]] x2
+|}
+</div>
+===Lavathian Contracts===
+<div class="mw-collapsible mw-collapsed" style="width:100%;min-height:50px;background-color:rgba(0,0,0,0.1);">
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="4" style="border-right:none;" |<u>'''Ding Dong Ditcher'''</u>:<br />Defeat a specific nightmare asylum boss in 3 minutes after Rebirth.
+! style="text-align:right;border-left:none;" |[[File:Lavathian_contract.png|48px]]
+!
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!
+!Rank
+! style="text-align: center;" |Requirement
+!
+|-
+|F
+|Emigdala Bell 1
+|[[File:Asylum Emigdala.png|center|32px]]
+|S
+|Scallius Bell 6
+|[[File:Asylum Scallius.png|center|32px]]
+|-
+|D
+|Scallius Bell 2
+|[[File:Asylum Scallius.png|center|32px]]
+|SS
+|Emigdala Bell 7
+|[[File:Asylum Emigdala.png|center|32px]]
+|-
+|C
+|Occulon Bell 3
+|[[File:Asylum Occulon.png|center|32px]]
+|SSS
+|Occulon Bell 8
+|[[File:Asylum Occulon.png|center|32px]]
+|-
+|B
+|Emigdala Bell 4
+|[[File:Asylum Emigdala.png|center|32px]]
+|SSSS 
+|Scallius Bell 9 
+|[[File:Asylum Scallius.png|center|32px]]
+|-
+|A
+| Gorshank Bell 5
+|[[File:Asylum GorshankPhase1.png|center|32px]]
+|SSSS+
+|Gorshank Bell 11
+|[[File:Asylum GorshankPhase1.png|center|32px]]
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge6.png]] x1
+!
+! colspan="2" style="text-align: center;" |[[File:Badge6.png]] x2
+!
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="5" style="border-right:none;" |<u>'''Ice Cream Curse'''</u>:<br />Reach a specific enemy while having the Cursed Ice Cream.
+''(after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily)''
+! colspan="3" style="text-align:right;border-left:none;" |[[File:Lavathian_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!
+! style="text-align: center;" |Notes
+! Rank
+! style="text-align: center;" |Requirement
+!
+! style="text-align: center;" |Notes
+|-
+|F
+|Reach Shrim Imp
+|[[File:Shrim imp.png|center|32px]]
+|Purgatory 10
+|S
+|Reach Nevrblink
+|[[File:Nevrblink.png|center|32px]]
+| Lunar Isle 46
+|-
+|D
+|Reach Confused Leg
+|[[File:Confused leg.png|center|32px]]
+|Purgatory 34
+|SS
+|Reach Cheezers
+|[[File:enemy-206.png|center|32px]]
+|Maelstrom 16
+|-
+|C
+|Reach Mushketeer
+|[[File:Mushketeer.png|center|32px]]
+|The Bog 13 
+|SSS 
+|Reach Bean Baby
+|[[File:Oblivion BeanBaby.png|center|32px]]
+|Oblivion 1
+|-
+|B
+|Reach Biggie 
+|[[File:Biggie.png|center|32px]]
+|The Bog 52
+|SSSS
+|Reach JK LOL
+|[[File:Oblivion JkLol.png|center|32px]]
+|Oblivion 36
+|-
+|A
+|Reach Lunardyl 
+|[[File:Lunardyl.png|center|32px]]
+|Lunar Isle 25
+|SSSS+
+|Reach Incarnate
+|[[File:Oblivion Incarnate.png|center|32px]]
+|Oblivion 110
+|-
+! colspan="4" style="text-align: center;" |[[File:Badge6.png]] x1
+! colspan="4" style="text-align: center;" |[[File:Badge6.png]] x2
+|}
+
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>Perk Pusher</u>:<br />Save up a specified number of a particular perk points at once.
+! style="text-align:right;border-left:none;" |[[File:Lavathian_contract.png|48px]]
+|-
+!Rank
+! style="text-align: center;" |Requirement
+!Rank
+! style="text-align: center;" |Requirement
+|-
+|F
+|Save up 10000 Perk Points 
+|S
+|Save up 194264 Perk Points
+|-
+|D
+|Save up 18100 Perk Points
+|SS
+|Save up 351618 Perk Points
+|-
+| C
+|Save up 32761 Perk Points
+|SSS
+
+| Save up 636429 Perk Points 
+|-
+| B
+|Save up 59297 Perk Points
+|SSSS
+|Save up 1151937 Perk Points
+
+|-
+|A
+| Save up 107328 Perk Points
+|SSSS+
+|Save up 2085005 Perk Points
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge6.png]] x1 
+! colspan="2" style="text-align: center;" |[[File:Badge6.png]] x2
+|}
+{| class="article-table" style="width: 100%;" border="1"
+! colspan="3" style="border-right:none;" |<u>Solar Flare</u>:<br />Achive Solar Damage of n stars.
+! style="text-align:right;border-left:none;" |[[File:Lavathian_contract.png|48px]]
+|-
+! Rank
+! style="text-align: center;" |Requirement
+!Rank
+! style="text-align: center;" |Requirement
+|-
+|F
+|Achieve Solar Damage 1 
+|S
+|Achieve Solar Damage of 5 Stars
+|-
+|D
+|Achieve Solar Damage of 1 Stars
+|SS
+|Achieve Solar Damage of 6 Stars
+|-
+|C
+|Achieve Solar Damage of 2 Stars
+|SSS
+|Achieve Solar Damage of 7 Stars
+|-
+|B
+|Achieve Solar Damage of 3 Stars
+|SSSS
+|Achieve Solar Damage of 8 Stars
+|-
+|A
+|Achieve Solar Damage of 4 Stars
+|SSSS+
+|Achieve Solar Damage of 9 Stars
+|-
+! colspan="2" style="text-align: center;" |[[File:Badge6.png]] x1
+! colspan="2" style="text-align: center;" |[[File:Badge6.png]] x2
+|}
+</div>
+
+==Merit Shop==
+With the merit badges you've accumulated from contracts, you can purchase various rewards that unlocks ascension perks and auto progression for zones, boosts raid drops and spiriting efficiency, and affects starting skills levels. Note that Shop 4 and 5 require [[Rebirth]] perks to unlock as well.
+{| class="article-table" border="1" align="center"
+|-
+! colspan="2" scope="col" style="text-align: center;" |Tier
+! scope="col" |Unlocks At
+|-
+|[[File:Shop_1_contract.png|center]]
+|Shop 1 
+|Level 1
+
+|-
+|[[File:Shop_2_contract.png|center]]
+|Shop 2
+|Level 20
+|-
+|[[File:Shop_3_contract.png|center]]
+|Shop 3
+|Level 40
+|-
+|[[File:Shop_4_contract.png|center]]
+|Shop 4
+|Level 100
+|-
+|[[File:Shop_5_contract.png|center]]
+|Shop 5
+|Level 150? 
+|}
+
+===Shop 1===
+{| class="article-table" style="width: 100%;" border="1"
+!Bonus Item per Purchase
+! style="text-align: center;" |1
+! style="text-align: center;" |2
+! style="text-align: center;" |3
+! style="text-align: center;" |4
+! style="text-align: center;" |5
+! style="text-align: center;" |6
+! style="text-align: center;" |7
+! style="text-align: center;" |8
+! style="text-align: center;" |9
+! style="text-align: center;" |10
+|-
+|Green Key
+|[[File:Badge1.png|center]]<p style="text-align: center;">x8</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x13</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x18</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x4</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+|Auto Progression
+|[[File:Badge1.png|center]]<p style="text-align: center;">x6</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x15</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+| +10% (1st bonus) then +5% Raid Ticket Drop Chance<ref name="dropmerit">Raid ticket drop chance are capped at 55% and gem drop chance are capped at 20%. This means you cannot go above those drop chance using ''Raid drop luck'' cards. You reach the cap when buying all rewards in contract shop, so if you use ''Raid drop luck'' cards, you might want avoid buying all rewards to not waste merits.</ref>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|-
+| +10% Cultist & Acolyte Efficiency
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|}
+
+===Shop 2===
+{| class="article-table" style="width: 100%;" border="1"
+!Bonus Item per Purchase
+! style="text-align: center;" |1
+! style="text-align: center;" |2
+! style="text-align: center;" |3
+! style="text-align: center;" |4
+! style="text-align: center;" |5
+! style="text-align: center;" |6
+! style="text-align: center;" |7
+! style="text-align: center;" |8
+! style="text-align: center;" |9
+! style="text-align: center;" | 10
+|-
+|Orange Key
+|[[File:Badge2.png|center]]<p style="text-align: center;">x10</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x10</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x15</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x6</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+|Auto Progression
+|[[File:Badge2.png|center]]<p style="text-align: center;">x10</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x15</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+| +2% Raid Gem Drop Chance<ref name="dropmerit" />
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x4</p>
+|-
+| +1 to All Starting Skill Levels
+|[[File:Badge2.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x3</p>
+|}
+
+===Shop 3===
+{| class="article-table" style="width: 100%;" border="1"
+!Bonus Item per Purchase
+! style="text-align: center;" | 1
+! style="text-align: center;" |2
+! style="text-align: center;" |3
+! style="text-align: center;" |4
+! style="text-align: center;" |5
+! style="text-align: center;" | 6
+! style="text-align: center;" |7
+! style="text-align: center;" | 8
+! style="text-align: center;" |9
+! style="text-align: center;" | 10
+|-
+|Pink Key
+|[[File:Badge4.png|center]]<p style="text-align: center;">x8</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x10</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x12</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x8</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+|White Key
+|[[File:Badge4.png|center]]<p style="text-align: center;">x8</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x10</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x12</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x10</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+| +2 Idle Crusaders,
++3 Idle Crusaders (Level 6+)
+|[[File:Badge4.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|-
+| +10% Crops Harvested
+|[[File:Badge4.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|}
+
+===Shop 4===
+{| class="article-table" style="width: 100%;" border="1"
+!Bonus Item per Purchase
+! style="text-align: center;" |1
+! style="text-align: center;" | 2
+! style="text-align: center;" |3
+! style="text-align: center;" |4
+! style="text-align: center;" |5
+! style="text-align: center;" |6
+! style="text-align: center;" |7
+! style="text-align: center;" |8
+! style="text-align: center;" |9
+! style="text-align: center;" |10
+|-
+|Cyan Key
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x6</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x8</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+| +3% BP on Rebirth
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|-
+| +20% Crusades EXP,
++25 Tinkering EXP
+|[[File:Badge4.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x3</p>
+|
+[[File:Badge4.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|-
+| +5% Chance to Get Next
+Botany Flower per Overgrowth
+|[[File:Badge5.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|}
+
+===Shop 5===
+{| class="article-table" style="width: 100%;" border="1"
+!Bonus Item per Purchase
+! style="text-align: center;" |1
+! style="text-align: center;" |2
+! style="text-align: center;" |3
+! style="text-align: center;" |4
+! style="text-align: center;" |5
+! style="text-align: center;" |6
+! style="text-align: center;" |7
+! style="text-align: center;" |8
+! style="text-align: center;" |9
+! style="text-align: center;" |10
+|-
+|Auto Progression
+|[[File:Badge6.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x5</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x6</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x7</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+|5% Double Asylum Keys
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|
+[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|
+[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|
+[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|
+[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|
+[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|
+[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|-
+|5% More Vessels Gained
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|-
+|10% More Pet Capsule Exp Gain
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|}
+
+==Total badges==
+{| class="article-table" border="1" align="center"
+|+Leftover Merits
+|-
+! style="text-align: center;" |Merits
+! style="text-align: center;" |Obtained
+! style="text-align: center;" |Used
+! style="text-align: center;" |Leftover
+|-
+|[[File:Badge1.png]]
+|90
+|90
+|0
+|-
+|[[File:Badge2.png]]
+|75
+|75
+|0
+|-
+|[[File:Badge3.png]]
+|75
+|75
+|0
+|-
+|[[File:Badge4.png]]
+|75
+|75
+|0
+|-
+|[[File:Badge5.png]]
+|120
+|99
+| 21
+|-
+|[[File:Badge6.png]]
+|129
+(Including Mastery 24)
+|120
+| 9
+|}
+
+
+<references />
+[[Category:Limbo]]

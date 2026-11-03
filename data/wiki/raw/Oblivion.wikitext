@@ -1,0 +1,1584 @@
+{| align="center"
+|[[File:Maelstrom Banner.png|150px|link=Maelstrom]]
+|<<<
+|[[File:Oblivion Banner.png|150px|link=Oblivion]]
+|}
+Oblivion is the fifth advanced [[Fight|fighting]] zone and features 24 unique monsters over 107 encounters. The final monster does not have a limit to its difficulty and can be fought indefinitely, with increasing health and rewards. Cards from enemies in this zone can only be obtained if the game is focused on this zone.
+
+The following table shows the '''base''' values for each monster in the zone. (Note: '''<span style="color:PaleTurquoise"></span><span style="color:Indigo">1</span>''' = '''<span style="color:PaleTurquoise">1000 QQ</span>''', '''<span style="color:#FFE205">1</span>''''' = '''<span style="color:Indigo">1000 QQ</span>''' , '''<span style="color:#FFE205">1*</span>''' = '''<span style="color:#FFE205">1000 QQ, </span>'''and '''<span style="color:#ffe205">1[n+1]=1000QQ[n]</span> (where n is the amount of stars)''')''
+{| class="article-table" border="1" style="width: 100%;"
+! colspan="2" |Monster
+!Damage
+!HP
+!Gold
+!Kill Req.
+!Card Bonus
+|-
+| rowspan="5" |[[File:Oblivion_BeanBaby.png|center|50px]]
+|Bean Baby 1
+|144M
+|'''<span style="color:Indigo">108T</span>'''
+| -
+|13.4K
+| rowspan="5" style="text-align:center;" | 7% Apothecary Exp
+|-
+|Bean Baby 2
+|150M
+|'''<span style="color:Indigo">196T</span>'''
+| -
+|25.7K
+|-
+|Bean Baby 3
+|157M
+|'''<span style="color:Indigo">414T</span>'''
+| -
+|42.7K
+|-
+|Bean Baby 4
+|157M
+|'''<span style="color:Indigo">973T</span>'''
+| -
+|64K
+|-
+|Bean Baby 5
+|157M
+|'''<span style="color:Indigo">2.43Q</span>'''
+| -
+|90.3K
+|-
+| rowspan="5" |[[File:Oblivion_Frooger.png|center|50px]]
+|Frooger 1
+|163M
+|'''<span style="color:Indigo">6.32Q</span>'''
+| -
+|123K
+| rowspan="5" style="text-align:center;" | 25% Cultist Efficiency
+|-
+|Frooger 2
+|170M
+|'''<span style="color:Indigo">16.6Q</span>'''
+| -
+|166K
+|-
+|Frooger 3
+|177M
+|'''<span style="color:Indigo">44.3Q</span>'''
+| -
+|222K
+|-
+|Frooger 4
+|177M
+|'''<span style="color:Indigo">118Q</span>'''
+| -
+|299K
+|-
+|Frooger 5
+|177M
+|'''<span style="color:Indigo">319Q</span>'''
+| -
+|406K
+|-
+| rowspan="5" |[[File:Oblivion_GlowPop.png|center|50px]]
+|Glow Pop 1
+|163M
+|'''<span style="color:Indigo">862Q</span>'''
+| -
+|559K
+| rowspan="5" style="text-align:center;" | 10% Potion Brewing Spd
+|-
+|Glow Pop 2
+|170M
+|'''<span style="color:Indigo">2.33QQ</span>'''
+| -
+|780K
+|-
+|Glow Pop 3
+|177M
+|'''<span style="color:Indigo">6.34QQ</span>'''
+| -
+|1.1M
+|-
+|Glow Pop 4
+|177M
+|'''<span style="color:Indigo">17.2QQ</span>'''
+| -
+|1.59M
+|-
+|Glow Pop 5
+|177M
+|'''<span style="color:Indigo">47.2QQ</span>'''
+| -
+|2.32M
+|-
+| rowspan="5" |[[File:Oblivion_Blither.png|center|50px]]
+|Blither 1
+|163M
+|'''<span style="color:Indigo">129QQ</span>'''
+| -
+|3.42M
+| rowspan="5" style="text-align:center;" | 6 Inactive Crusaders
+|-
+|Blither 2
+|170M
+|'''<span style="color:Indigo">356QQ</span>'''
+| -
+|5.09M
+|-
+|Blither 3
+|177M
+|'''<span style="color:Indigo">846QQ</span>'''
+| -
+|7.65M
+|-
+|Blither 4
+|177M
+|'''<span style="color:#FFE205">519</span>'''
+| -
+|11.5M
+|-
+|Blither 5
+|177M
+|'''<span style="color:#FFE205">1239</span>'''
+| -
+|17.5M
+|-
+| rowspan="5" |[[File:Oblivion_Tie_1.png|center|50px]]
+|Tie 1
+|163M
+|'''<span style="color:#FFE205">2960</span>'''
+| -
+|26.8M
+| rowspan="5" style="text-align:center;" | 28% Mining Exp Gained
+|-
+|Tie 2
+|170M
+|'''<span style="color:#FFE205">7081</span>'''
+| -
+|41M
+|-
+|Tie 3
+|177M
+|'''<span style="color:#FFE205">16968</span>'''
+| -
+|63M
+|-
+|Tie 4
+|177M
+|'''<span style="color:#FFE205">40733</span>'''
+| -
+|97.1M
+|-
+|Tie 5
+|177M
+|'''<span style="color:#FFE205">97955</span>'''
+| -
+|149M
+|-
+| rowspan="5" |[[File:Oblivion Ruler.png|center|50px]]
+|Ruler 1
+|163M
+|'''<span style="color:#FFE205">235981</span>'''
+| -
+|231M
+| rowspan="5" style="text-align:center;" | 4% Perk Points Gained
+|-
+|Ruler 2
+|170M
+|'''<span style="color:#FFE205">599524</span>'''
+| -
+|359M
+|-
+|Ruler 3
+|177M
+|'''<span style="color:#FFE205">1.37M</span>'''
+| -
+|557M
+|-
+|Ruler 4
+|177M
+|'''<span style="color:#FFE205">3.33M</span>'''
+| -
+|866M
+|-
+|Ruler 5
+|177M
+|'''<span style="color:#FFE205">8.09M</span>'''
+| -
+|1.34B
+|-
+| rowspan="5" |[[File:Oblivion YoureEpic.png|center|50px]]
+|Youre Epic 1
+|163M
+|'''<span style="color:#FFE205">19.6M</span>'''
+| -
+|2.1B
+| rowspan="5" style="text-align:center;" | 30% Monster Cash
+|-
+|Youre Epic 2
+|170M
+|'''<span style="color:#FFE205">47.9M</span>'''
+| -
+|3.28B
+|-
+|Youre Epic 3
+|177M
+|'''<span style="color:#FFE205">116M</span>'''
+| -
+|5.12B
+|-
+|Youre Epic 4
+|177M
+|'''<span style="color:#FFE205">286M</span>'''
+| -
+|8.02B
+|-
+|Youre Epic 5
+|177M
+|'''<span style="color:#FFE205">700M</span>'''
+| -
+|12.5B
+|-
+| rowspan="5" |[[File:Oblivion_JkLol.png|center|50px]]
+|Jk Lol 1
+|163M
+|'''<span style="color:#FFE205">1.71B</span>'''
+| -
+|19.7B
+| rowspan="5" style="text-align:center;" | 60% Fishies Caught
+|-
+|Jk Lol 2
+|170M
+|'''<span style="color:#FFE205">4.22B</span>'''
+| -
+|30.9B
+|-
+|Jk Lol 3
+|177M
+|'''<span style="color:#FFE205">10.4B</span>'''
+| -
+|48.7B
+|-
+|Jk Lol 4
+|177M
+|'''<span style="color:#FFE205">25.7B</span>'''
+| -
+|76.6B
+|-
+|Jk Lol 5
+|177M
+|'''<span style="color:#FFE205">63.5B</span>'''
+| -
+|120B
+|-
+| rowspan="5" |[[File:Oblivion Throwback.png |center|50px]]
+|Throwback 1
+|163M
+|'''<span style="color:#FFE205">157B</span>'''
+| -
+|190B
+| rowspan="5" style="text-align:center;" | 40% Crusade Reward Multi
+|-
+|Throwback 2
+|170M
+|'''<span style="color:#FFE205">390B</span>'''
+| -
+|301B
+|-
+|Throwback 3
+|177M
+|'''<span style="color:#FFE205">972B</span>'''
+| -
+|476B
+|-
+|Throwback 4
+|177M
+|'''<span style="color:#FFE205">2.42T</span>'''
+| -
+|754B
+|-
+|Throwback 5
+|177M
+|'''<span style="color:#FFE205">6.04T</span>'''
+| -
+|1.19T
+|-
+| rowspan="5" |[[File:Oblivion_Tie_2.png|center|50px]]
+|Tie 1
+|163M
+|'''<span style="color:#FFE205">15.1T</span>'''
+| -
+|1.89T
+| rowspan="5" style="text-align:center;" | 6% Asylum Item Gain (passive)
+|-
+|Tie 2
+|170M
+|'''<span style="color:#FFE205">37.9T</span>'''
+| -
+|3.01T
+|-
+|Tie 3
+|177M
+|'''<span style="color:#FFE205">95.1T</span>'''
+| -
+|4.78T
+|-
+|Tie 4
+|177M
+|'''<span style="color:#FFE205">239T</span>'''
+| -
+|4.88T
+|-
+|Tie 5
+|177M
+|'''<span style="color:#FFE205">603T</span>'''
+| -
+|4.98T
+|-
+| rowspan="5" |[[File:Oblivion Tubular.png |center|50px]]
+|Tubular 1
+|163M
+|'''<span style="color:#FFE205">1.52Q</span>'''
+| -
+|5.08T
+| rowspan="5" style="text-align:center;" | 40 BP Upon Rebirthing
+|-
+|Tubular 2
+|170M
+|'''<span style="color:#FFE205">3.85Q</span>'''
+| -
+|5.17T
+|-
+|Tubular 3
+|177M
+|'''<span style="color:#FFE205">9.76Q</span>'''
+| -
+|5.27T
+|-
+|Tubular 4
+|177M
+|'''<span style="color:#FFE205">24.7Q</span>'''
+| -
+|5.37T
+|-
+|Tubular 5
+|177M
+|'''<span style="color:#FFE205">63Q</span>'''
+| -
+|5.47T
+|-
+| rowspan="5" |[[File:Oblivion TrojanHive.png |center|50px]]
+|Trojan Hıve 1
+|163M
+|'''<span style="color:#FFE205">160Q</span>'''
+| -
+|5.56T
+| rowspan="5" style="text-align:center;" | 48% Rift Exp
+|-
+|Trojan Hıve 2
+|170M
+|'''<span style="color:#FFE205">410Q</span>'''
+| -
+|5.66T
+|-
+|Trojan Hıve 3
+|177M
+|'''<span style="color:#FFE205">1.05QQ</span>'''
+| -
+|5.76T
+|-
+|Trojan Hıve 4
+|177M
+|'''<span style="color:#FFE205">2.69QQ</span>'''
+| -
+|5.86T
+|-
+|Trojan Hıve 5
+|177M
+|'''<span style="color:#FFE205">6.91QQ</span>'''
+| -
+|5.95T
+|-
+| rowspan="5" |[[File:Oblivion RelaxinBob.png|center|50px]]
+|Relaxin Bob 1
+|163M
+|'''<span style="color:#FFE205">17.7QQ</span>'''
+| -
+|6.05T
+| rowspan="5" style="text-align:center;" | 33% Ores From Mining
+|-
+|Relaxin Bob 2
+|170M
+|'''<span style="color:#FFE205">45.8QQ</span>'''
+| -
+|6.15T
+|-
+|Relaxin Bob 3
+|177M
+|'''<span style="color:#FFE205">118QQ</span>'''
+| -
+|6.25T
+|-
+|Relaxin Bob 4
+|177M
+|'''<span style="color:#FFE205">306QQ</span>'''
+| -
+|6.34T
+|-
+|Relaxin Bob 5
+|177M
+|'''<span style="color:#FFE205">793QQ</span>'''
+| -
+|6.44T
+|-
+| rowspan="5" |[[File:Oblivion_Concubine.png|center|50px]]
+|Concubine 1
+|163M
+|'''<span style="color:#FFE205">531*</span>'''
+| -
+|6.54T
+| rowspan="5" style="text-align:center;" | 15% Botany Growth Spd
+|-
+|Concubine 2
+|170M
+|'''<span style="color:#FFE205">1382*</span>'''
+| -
+|6.64T
+|-
+|Concubine 3
+|177M
+|'''<span style="color:#FFE205">3602*</span>'''
+| -
+|6.73T
+|-
+|Concubine 4
+|177M
+|'''<span style="color:#FFE205">9403*</span>'''
+| -
+|6.83T
+|-
+|Concubine 5
+|177M
+|'''<span style="color:#FFE205">24594*</span>'''
+| -
+|6.93T
+|-
+| rowspan="5" |[[File:Oblivion_Tie_3.png|center|50px]]
+|Tie 1
+|163M
+|'''<span style="color:#FFE205">64441*</span>'''
+| -
+|7.03T
+| rowspan="5" style="text-align:center;" | 4% Spelunk Cards Chance
+|-
+|Tie 2
+|170M
+|'''<span style="color:#FFE205">169152*</span>'''
+| -
+|7.12T
+|-
+|Tie 3
+|177M
+|'''<span style="color:#FFE205">444814*</span>'''
+| -
+|7.22T
+|-
+|Tie 4
+|177M
+|'''<span style="color:#FFE205">1.17M*</span>'''
+| -
+|7.32T
+|-
+|Tie 5
+|177M
+|'''<span style="color:#FFE205">3.09M*</span>'''
+| -
+|7.42T
+|-
+| rowspan="5" |[[File:Oblivion Neolithia.png|center|50px]]
+|Neolithia 1
+|163M
+|'''<span style="color:#FFE205">8.17M*</span>'''
+| -
+|7.51T
+| rowspan="5" style="text-align:center;" | 28% Acolyte Efiiciency
+|-
+|Neolithia 2
+|170M
+|'''<span style="color:#FFE205">21.6M*</span>'''
+| --
+|7.61T
+|-
+|Neolithia 3
+|177M
+|'''<span style="color:#FFE205">57.4M*</span>'''
+| -
+|7.71T
+|-
+|Neolithia 4
+|177M
+|'''<span style="color:#FFE205">152M*</span>'''
+| -
+|7.81T
+|-
+|Neolithia 5
+|177M
+|'''<span style="color:#FFE205">406M*</span>'''
+| -
+|7.9T
+|-
+| rowspan="5" |[[File:Oblivion Vile.png|center|50px]]
+|Vile 1
+|163M
+|'''<span style="color:#FFE205">1.08B*</span>'''
+| -
+|8T
+| rowspan="5" style="text-align:center;" | 5% Potion Cost Redux
+|-
+|Vile 2
+|170M
+|'''<span style="color:#FFE205">2.89B*</span>'''
+| -
+|8.1T
+|-
+|Vile 3
+|177M
+|'''<span style="color:#FFE205">7.76B*</span>'''
+| -
+|8.2T
+|-
+|Vile 4
+|177M
+|'''<span style="color:#FFE205">20.8B*</span>'''
+| -
+|8.29T
+|-
+|Vile 5
+|177M
+|'''<span style="color:#FFE205">55.9B*</span>'''
+| -
+|8.39T
+|-
+| rowspan="5" |[[File:Oblivion Putrid.png |center|50px]]
+|Putrid 1
+|163M
+|'''<span style="color:#FFE205">150B*</span>'''
+| -
+|8.49T
+| rowspan="5" style="text-align:center;" | 16% Potion Brewing Spd
+|-
+|Putrid 2
+|170M
+|'''<span style="color:#FFE205">405B*</span>'''
+| -
+|8.59T
+|-
+|Putrid 3
+|177M
+|'''<span style="color:#FFE205">1.09T*</span>'''
+| -
+|8.68T
+|-
+|Putrid 4
+|177M
+|'''<span style="color:#FFE205">2.96T*</span>'''
+| -
+|8.78T
+|-
+|Putrid 5
+|177M
+|'''<span style="color:#FFE205">8.03T*</span>'''
+| -
+|8.88T
+|-
+| rowspan="5" |[[File:Oblivion Disgusting.png|center|50px]]
+|Disgusting 1
+|163M
+|'''<span style="color:#FFE205">21.8T*</span>'''
+| -
+|8.98T
+| rowspan="5" style="text-align:center;" | 25% Summon Exp Chance
+|-
+|Disgusting 2
+|170M
+|'''<span style="color:#FFE205">59.3T*</span>'''
+| -
+|9.07T
+|-
+|Disgusting 3
+|177M
+|'''<span style="color:#FFE205">161T*</span>'''
+| -
+|9.17T
+|-
+|Disgusting 4
+|177M
+|'''<span style="color:#FFE205">441T*</span>'''
+| -
+|9.27T
+|-
+|Disgusting 5
+|177M
+|'''<span style="color:#FFE205">1.2Q*</span>'''
+| -
+|9.37T
+|-
+| rowspan="5" |[[File:Oblivion Orpheus.png|center|50px]]
+|Orpheus 1
+|163M
+|'''<span style="color:#FFE205">3.3Q*</span>'''
+| -
+|9.46T
+| rowspan="5" style="text-align:center;" | 9% Asylum Item Gain (passive)
+|-
+|Orpheus 2
+|170M
+|'''<span style="color:#FFE205">9.06Q*</span>'''
+| -
+|9.56T
+|-
+|Orpheus 3
+|177M
+|'''<span style="color:#FFE205">24.9Q*</span>'''
+| -
+|9.66T
+|-
+|Orpheus 4
+|177M
+|'''<span style="color:#FFE205">68.5Q*</span>'''
+| -
+|9.76T
+|-
+|Orpheus 5
+|177M
+|'''<span style="color:#FFE205">189Q*</span>'''
+| -
+|9.85T
+|-
+| rowspan="5" |[[File:Oblivion Protestor.png ‎|center|50px]]
+|Protestor 1
+|163M
+|'''<span style="color:#FFE205">522Q*</span>'''
+| -
+|9.95T
+| rowspan="5" style="text-align:center;" | 60% Crusade Reward Multi
+|-
+|Protestor 2
+|170M
+|'''<span style="color:#FFE205">1.44QQ*</span>'''
+| -
+|10T
+|-
+|Protestor 3
+|177M
+|'''<span style="color:#FFE205">4QQ*</span>'''
+| -
+|10.1T
+|-
+|Protestor 4
+|177M
+|'''<span style="color:#FFE205">11.1QQ*</span>'''
+| -
+|10.2T
+|-
+|Protestor 5
+|177M
+|'''<span style="color:#FFE205">30.9QQ*</span>'''
+| -
+|10.3T
+|-
+| rowspan="5" |[[File:Oblivion Vertigo.png|center|50px]]
+|Vertigo 1
+|163M
+|'''<span style="color:#FFE205">86QQ*</span>'''
+| -
+|10.4T
+| rowspan="5" style="text-align:center;" | 6% Builder Speed
+|-
+|Vertigo 2
+|170M
+|'''<span style="color:#FFE205">240QQ*</span>'''
+| -
+|10.5T
+|-
+|Vertigo 3
+|177M
+|'''<span style="color:#FFE205">671QQ*</span>'''
+| -
+|10.6T
+|-
+|Vertigo 4
+|177M
+|'''<span style="color:#FFE205">484**</span>'''
+| -
+|10.7T
+|-
+|Vertigo 5
+|177M
+|'''<span style="color:#FFE205">1359**</span>'''
+| -
+|10.8T
+|-
+|[[File:Oblivion Incarnate.png |center|50px]]
+|Incarnate 1
+|821M
+|'''<span style="color:#FFE205">3819**</span>'''
+| -
+|10.9T
+| rowspan="14" style="text-align:center;" | 30% More Kills
+|-
+| style="text-align: center;" | -
+|Incarnate 2
+|838M
+|'''<span style="color:#FFE205">10745**</span>'''
+| -
+|11T
+|-
+| style="text-align: center;" | -
+|Incarnate 3
+|855M
+|'''<span style="color:#FFE205">30283**</span>'''
+| -
+|11.1T
+|-
+| style="text-align: center;" | -
+|Incarnate 4
+|855M
+|'''<span style="color:#FFE205">85485**</span>'''
+| -
+|11.2T
+|-
+| style="text-align: center;" | -
+|Incarnate 5
+|855M
+|'''<span style="color:#FFE205">241711**</span>'''
+| -
+|11.3T
+|-
+| style="text-align: center;" | -
+|Incarnate 6
+|855M
+|'''<span style="color:#FFE205">684565**</span>'''
+| -
+|11.4T
+|-
+| style="text-align: center;" | -
+|Incarnate 7
+|855M
+|'''<span style="color:#FFE205">1.38M**</span>'''
+| -
+|11.5T
+|-
+| style="text-align: center;" | -
+|Incarnate 8
+|855M
+|'''<span style="color:#FFE205">6.1M**</span>'''
+| -
+|11.6T
+|-
+| style="text-align: center;" | -
+|Incarnate 9
+|855M
+|'''<span style="color:#FFE205">27M**</span>'''
+| -
+|11.7T
+|-
+| style="text-align: center;" | -
+|Incarnate 10
+|855M
+|'''<span style="color:#FFE205">119M**</span>'''
+| -
+|11.8T
+|-
+| style="text-align: center;" | -
+|Incarnate 11
+|855M
+|'''<span style="color:#FFE205">534M**</span>'''
+| -
+|11.9T
+|-
+| style="text-align: center;" | -
+|Incarnate 12
+|855M
+|'''<span style="color:#FFE205">2.38B**</span>'''
+| -
+|12T
+|-
+| style="text-align: center;" | -
+|Incarnate 13
+|855M
+|'''<span style="color:#FFE205">10.7B**</span>'''
+| -
+|12.1T
+|-
+| style="text-align: center;" | -
+|Incarnate 14
+|855M
+|'''<span style="color:#FFE205">48.2B**</span>'''
+| -
+|12.1T
+|-
+| style="text-align: center;" | -
+|Incarnate 15
+|855M
+|'''<span style="color:#FFE205">217B**</span>'''
+| -
+|12.2T
+| rowspan="14" style="text-align: center;" | 150% Fishies Caught
+|-
+| style="text-align: center;" | -
+|Incarnate 16
+|855M
+|'''<span style="color:#FFE205">986B**</span>'''
+| -
+|12.3T
+|-
+| style="text-align: center;" | -
+|Incarnate 17
+|855M
+|'''<span style="color:#FFE205">4.48T**</span>'''
+| -
+|12.4T
+|-
+| style="text-align: center;" | -
+|Incarnate 18
+|855M
+|'''<span style="color:#FFE205">20.4T**</span>'''
+| -
+|12.5T
+|-
+| style="text-align: center;" | -
+|Incarnate 19
+|855M
+|'''<span style="color:#FFE205">93.7T**</span>'''
+| -
+|12.6T
+|-
+| style="text-align: center;" | -
+|Incarnate 20
+|855M
+|'''<span style="color:#FFE205">430T**</span>'''
+| -
+|12.7T
+|-
+| style="text-align: center;" | -
+|Incarnate 21
+|855M
+|'''<span style="color:#FFE205">1.98Q**</span>'''
+| -
+|12.8T
+|-
+| style="text-align: center;" | -
+|Incarnate 22
+|855M
+|'''<span style="color:#FFE205">9.18Q**</span>'''
+| -
+|12.9T
+|-
+| style="text-align: center;" | -
+|Incarnate 23
+|855M
+|'''<span style="color:#FFE205">42.6Q**</span>'''
+| -
+|13T
+|-
+| style="text-align: center;" | -
+|Incarnate 24
+|855M
+|'''<span style="color:#FFE205">198Q**</span>'''
+| -
+|13.1T
+|-
+| style="text-align: center;" | -
+|Incarnate 25
+|855M
+|'''<span style="color:#FFE205">928Q**</span>'''
+| -
+|13.2T
+|-
+| style="text-align: center;" | -
+|Incarnate 26
+|855M
+|'''<span style="color:#FFE205">4.35QQ**</span>'''
+| -
+|13.3T
+|-
+| style="text-align: center;" | -
+|Incarnate 27
+|855M
+|'''<span style="color:#FFE205">20.4QQ**</span>'''
+| --
+|13.4T
+|-
+| style="text-align: center;" | -
+|Incarnate 28
+|855M
+|'''<span style="color:#FFE205">96.7QQ**</span>'''
+| -
+|13.5T
+|-
+| style="text-align: center;" | -
+|Incarnate 29
+|855M
+|'''<span style="color:#FFE205">458QQ**</span>'''
+| -
+|13.6T
+| rowspan="14" style="text-align: center;" | 1% Booster Chance
+|-
+| style="text-align: center;" | -
+|Incarnate 30
+|855M
+|'''<span style="color:#FFE205">561***</span>'''
+| -
+|13.7T
+|-
+| style="text-align: center;" | -
+|Incarnate 31
+|855M
+|'''<span style="color:#FFE205">2678***</span>'''
+| -
+|13.8T
+|-
+| style="text-align: center;" | -
+|Incarnate 32
+|855M
+|'''<span style="color:#FFE205">12817***</span>'''
+| -
+|13.9T
+|-
+| style="text-align: center;" | -
+|Incarnate 33
+|855M
+|'''<span style="color:#FFE205">61529***</span>'''
+| -
+|14T
+|-
+| style="text-align: center;" | -
+|Incarnate 34
+|855M
+|'''<span style="color:#FFE205">296350***</span>'''
+| -
+|14.1T
+|-
+| style="text-align: center;" | -
+|Incarnate 35
+|855M
+|'''<span style="color:#FFE205">1.43M**</span>'''
+| -
+|14.2T
+|-
+| style="text-align: center;" | -
+|Incarnate 36
+|855M
+|'''<span style="color:#FFE205">6.94M***</span>'''
+| -
+|14.3T
+|-
+| style="text-align: center;" | -
+|Incarnate 37
+|855M
+|'''<span style="color:#FFE205">33.7M***</span>'''
+| -
+|14.4T
+|-
+| style="text-align: center;" | -
+|Incarnate 38
+|855M
+|'''<span style="color:#FFE205">164M***</span>'''
+| -
+|14.5T
+|-
+| style="text-align: center;" | -
+|Incarnate 39
+|855M
+|'''<span style="color:#FFE205">807M***</span>'''
+| -
+|14.6T
+|-
+| style="text-align: center;" | -
+|Incarnate 40
+|855M
+|'''<span style="color:#FFE205">3.96B***</span>'''
+| -
+|14.7T
+|-
+| style="text-align: center;" | -
+|Incarnate 41
+|855M
+|'''<span style="color:#FFE205">19.5B***</span>'''
+| -
+|14.8T
+|-
+| style="text-align: center;" | -
+|Incarnate 42
+|855M
+|'''<span style="color:#FFE205">96.6B***</span>'''
+| -
+|14.9T
+|-
+| style="text-align: center;" | -
+|Incarnate 43
+|855M
+|'''<span style="color:#FFE205">476B***</span>'''
+| -
+|15T
+| rowspan="14" style="text-align: center;" | 48% Ores and Fish
+|-
+| style="text-align: center;" | -
+|Incarnate 44
+|855M
+|'''<span style="color:#FFE205">2.38T***</span>'''
+| -
+|15.1T
+|-
+| style="text-align: center;" | -
+|Incarnate 45
+|855M
+|'''<span style="color:#FFE205">11.9T***</span>'''
+| -
+|15.2T
+|-
+| style="text-align: center;" | -
+|Incarnate 46
+|855M
+|'''<span style="color:#FFE205">59.6T***</span>'''
+| -
+|15.3T
+|-
+| style="text-align: center;" | -
+|Incarnate 47
+|855M
+|'''<span style="color:#FFE205">299T***</span>'''
+| -
+|15.4T
+|-
+| style="text-align: center;" | -
+|Incarnate 48
+|855M
+|'''<span style="color:#FFE205">1.51Q***</span>'''
+| -
+|15.5T
+|-
+| style="text-align: center;" | -
+|Incarnate 49
+|855M
+|'''<span style="color:#FFE205">7.64Q***</span>'''
+| -
+|15.6T
+|-
+| style="text-align: center;" | -
+|Incarnate 50
+|855M
+|'''<span style="color:#FFE205">38.7Q***</span>'''
+| -
+| 15.7T
+|-
+| style="text-align: center;" | -
+|Incarnate 51
+|855M
+|'''<span style="color:#FFE205">197Q***</span>'''
+| -
+| 15.8T
+|-
+| style="text-align: center;" | -
+|Incarnate 52
+|855M
+|'''<span style="color:#FFE205">1QQ***</span>'''
+| -
+| 15.9T
+|-
+| style="text-align: center;" | -
+|Incarnate 53
+|855M
+|'''<span style="color:#FFE205">5.15QQ***</span>'''
+| -
+| 16T
+|-
+| style="text-align: center;" | -
+|Incarnate 54
+|855M
+|'''<span style="color:#FFE205">26.5QQ***</span>'''
+| -
+| 16T
+|-
+| style="text-align: center;" | -
+|Incarnate 55
+|855M
+|'''<span style="color:#FFE205">136QQ***</span>'''
+| -
+| 16.1T
+|-
+| style="text-align: center;" | -
+|Incarnate 56
+|855M
+|'''<span style="color:#FFE205">706QQ***</span>'''
+| -
+| 16.2T
+|-
+| style="text-align: center;" | -
+|Incarnate 57
+|855M
+|'''<span style="color:#FFE205">945****</span>'''
+| -
+| 16.3T
+| rowspan="14" style="text-align: center;" | 9% Spelunk Cards Chance
+|-
+| style="text-align: center;" | -
+|Incarnate 58
+|855M
+|'''<span style="color:#FFE205">4922****</span>'''
+| -
+| 16.4T
+|-
+| style="text-align: center;" | -
+|Incarnate 59
+|855M
+|'''<span style="color:#FFE205">25692****</span>'''
+| -
+| 16.5T
+|-
+| style="text-align: center;" | -
+|Incarnate 60
+|855M
+|'''<span style="color:#FFE205">134535****</span>'''
+| -
+| 16.6T
+|-
+| style="text-align: center;" | -
+|Incarnate 61
+|855M
+|'''<span style="color:#FFE205">706669****</span>'''
+| -
+| 16.7T
+|-
+| style="text-align: center;" | -
+|Incarnate 62
+|855M
+|'''<span style="color:#FFE205">3.72M****</span>'''
+| -
+| 16.8T
+|-
+| style="text-align: center;" | -
+|Incarnate 63
+|855M
+|'''<span style="color:#FFE205">19.6M****</span>'''
+| -
+| 16.9T
+|-
+| style="text-align: center;" | -
+|Incarnate 64
+|855M
+|'''<span style="color:#FFE205">104M****</span>'''
+| -
+| 17T
+|-
+| style="text-align: center;" | -
+|Incarnate 65
+|855M
+|'''<span style="color:#FFE205">554M****</span>'''
+| -
+| 17.1T
+|-
+| style="text-align: center;" | -
+|Incarnate 66
+|855M
+|'''<span style="color:#FFE205">2.96B****</span>'''
+| -
+| 17.2T
+|-
+| style="text-align: center;" | -
+|Incarnate 67
+|855M
+|'''<span style="color:#FFE205">15.8B****</span>'''
+| -
+| 17.3T
+|-
+| style="text-align: center;" | -
+|Incarnate 68
+|855M
+|'''<span style="color:#FFE205">85B****</span>'''
+| -
+| 17.4T
+|-
+| style="text-align: center;" | -
+|Incarnate 69
+|855M
+|'''<span style="color:#FFE205">457B****</span>'''
+| -
+| 17.5T
+|-
+| style="text-align: center;" | -
+|Incarnate 70
+|855M
+|'''<span style="color:#FFE205">2.47T****</span>'''
+| -
+| 17.6T
+|-
+| style="text-align: center;" | -
+|Incarnate 71
+|855M
+|'''<span style="color:#FFE205">13.3T****</span>'''
+| -
+| 17.7T
+| rowspan="14" style="text-align: center;" | 2% Gains on all Screens
+|-
+| style="text-align: center;" | -
+|Incarnate 72
+|855M
+|'''<span style="color:#FFE205">72.7T****</span>'''
+| -
+| 17.8T
+|-
+| style="text-align: center;" | -
+|Incarnate 73
+|855M
+|'''<span style="color:#FFE205">396T****</span>'''
+| -
+| 17.9T
+|-
+| style="text-align: center;" | -
+|Incarnate 74
+|855M
+|'''<span style="color:#FFE205">2.16Q****</span>'''
+| -
+| 18T
+|-
+| style="text-align: center;" | -
+|Incarnate 75
+|855M
+|'''<span style="color:#FFE205">11.8Q****</span>'''
+| -
+| 18.1T
+|-
+| style="text-align: center;" | -
+|Incarnate 76
+|855M
+|'''<span style="color:#FFE205">65.3Q****</span>'''
+| -
+| 18.2T
+|-
+| style="text-align: center;" | -
+|Incarnate 77
+|855M
+|'''<span style="color:#FFE205">360Q****</span>'''
+| -
+| 18.3T
+|-
+| style="text-align: center;" | -
+|Incarnate 78
+|855M
+|'''<span style="color:#FFE205">1.99QQ****</span>'''
+| -
+| 18.4T
+|-
+| style="text-align: center;" | -
+|Incarnate 79
+|855M
+|'''<span style="color:#FFE205">11QQ****</span>'''
+| -
+| 18.5T
+|-
+| style="text-align: center;" | -
+|Incarnate 80
+|855M
+|'''<span style="color:#FFE205">61.6QQ****</span>'''
+| -
+| 18.6T
+|-
+| style="text-align: center;" | -
+|Incarnate 81
+|855M
+|'''<span style="color:#FFE205">344QQ****</span>'''
+| -
+| 18.7T
+|-
+| style="text-align: center;" | -
+|Incarnate 82
+|855M
+|'''<span style="color:#FFE205">497*****</span>'''
+| -
+| 18.8T
+|-
+| style="text-align: center;" | -
+|Incarnate 83
+|855M
+|'''<span style="color:#FFE205">2793*****</span>'''
+| -
+| 18.9T
+|-
+| style="text-align: center;" | -
+|Incarnate 84
+|855M
+|'''<span style="color:#FFE205">15738*****</span>'''
+| -
+| 19T
+|-
+| style="text-align: center;" | -
+|Incarnate 85
+|855M
+|'''<span style="color:#FFE205">88922*****</span>'''
+| -
+| 19.1T
+| rowspan="14" style="text-align: center;" | 59% Monster Cash
+|-
+| style="text-align: center;" | -
+|Incarnate 86
+|855M
+|'''<span style="color:#FFE205">503896*****</span>'''
+| -
+| 19.2T
+|-
+| style="text-align: center;" | -
+|Incarnate 87
+|855M
+|'''<span style="color:#FFE205">2.86M*****</span>'''
+| -
+| 19.3T
+|-
+| style="text-align: center;" | -
+|Incarnate 88
+|855M
+|'''<span style="color:#FFE205">16.3M*****</span>'''
+| -
+| 19.4T
+|-
+| style="text-align: center;" | -
+|Incarnate 89
+|855M
+|'''<span style="color:#FFE205">93.3M*****</span>'''
+| -
+| 19.5T
+|-
+| style="text-align: center;" | -
+|Incarnate 90
+|855M
+|'''<span style="color:#FFE205">535M*****</span>'''
+| -
+| 19.6T
+|-
+| style="text-align: center;" | -
+|Incarnate 91
+|855M
+|'''<span style="color:#FFE205">3.07B*****</span>'''
+| -
+| 19.7T
+|-
+| style="text-align: center;" | -
+|Incarnate 92
+|855M
+|'''<span style="color:#FFE205">17.7B*****</span>'''
+| -
+| 19.8T
+|-
+| style="text-align: center;" | -
+|Incarnate 93
+|855M
+|'''<span style="color:#FFE205">102B*****</span>'''
+| -
+| 19.9T
+|-
+| style="text-align: center;" | -
+|Incarnate 94
+|
+|'''<span style="color:#FFE205">595B*****</span>'''
+| -
+| 19.9T
+|-
+| style="text-align: center;" | -
+|Incarnate 95
+|
+|'''<span style="color:#FFE205">3.46T*****</span>'''
+| -
+| 20T
+|-
+| style="text-align: center;" | -
+|Incarnate 96
+|
+|'''<span style="color:#FFE205">20.2T*****</span>'''
+| -
+| 20.1T
+|-
+| style="text-align: center;" | -
+|Incarnate 97
+|
+|'''<span style="color:#FFE205">118T*****</span>'''
+| -
+| 20.2T
+|-
+| style="text-align: center;" | -
+|Incarnate 98
+|
+|'''<span style="color:#FFE205">694T*****</span>'''
+| -
+| 20.3T
+|-
+| style="text-align: center;" | -
+|Incarnate 99
+|
+|'''<span style="color:#FFE205">4.08Q*****</span>'''
+| -
+| 20.4T
+| rowspan="24" style="text-align: center;" |6% Spelunker Learn Rate
+|-
+| style="text-align: center;" | -
+|Incarnate 100
+|
+|'''<span style="color:#FFE205">24.1Q*****</span>'''
+| -
+| 20.5T
+|-
+| style="text-align: center;" |
+|Incarnate 101
+|
+|'''<span style="color:#FFE205">142Q*****</span>'''
+| -
+| 20.6T
+|-
+|
+|Incarnate 102
+|
+|'''<span style="color:#FFE205">215QQ*****</span>'''
+|
+|20.7T
+|-
+|
+|Incarnate 103
+|
+|'''<span style="color:#FFE205">1*****</span>'''
+|
+|20.8T
+|-
+|
+|Incarnate 104
+|
+|'''<span style="color:#FFE205">7*****</span>'''
+|
+|20.9T
+|-
+|
+|Incarnate 105
+|
+|'''<span style="color:#FFE205">46*****</span>'''
+|
+|21T
+|-
+|
+|Incarnate 106
+|
+|'''<span style="color:#FFE205">275*****</span>'''
+|
+|21.1T
+|-
+|[[File:Oblivion TeeHee.png |center|50px]]
+|Tee Hee 1
+|
+|'''<span style="color:#FFE205">37.9Q*****</span>'''
+|
+|21.2T
+|-
+|
+|Tee Hee 2
+|
+|'''<span style="color:#FFE205">450B*****</span>'''
+|
+|21.3T
+|-
+|
+|Tee Hee 3
+|
+|'''<span style="color:#FFE205">4.68M******</span>'''
+|
+|21.4T
+|-
+|
+|Tee Hee 4
+|
+|'''<span style="color:#FFE205">52******</span>'''
+|
+|21.5T
+|-
+|
+|Tee Hee 5
+|
+|'''<span style="color:#FFE205">293Q*******</span>'''
+|
+|21.6T
+|-
+|
+|Tee Hee 6
+|
+|'''<span style="color:#FFE205">6.61QQ*******</span>'''
+|
+|21.7T
+|-
+|
+|Tee Hee 7
+|
+|'''<span style="color:#FFE205">74.8QQ******</span>'''
+|
+|21.8T
+|-
+|
+|Tee Hee 8
+|
+|'''<span style="color:#FFE205">850QQ******</span>'''
+|
+|21.9T
+|-
+|
+|Tee Hee 9
+|
+|'''<span style="color:#FFE205">9********</span>'''
+|
+|22T
+|-
+|
+|Tee Hee 10
+|
+|'''<span style="color:#FFE205">111********</span>'''
+|
+|22.1T
+|-
+|
+|Tee Hee 11
+|
+|'''<span style="color:#FFE205">1281********</span>'''
+|
+|22.2T
+|-
+|
+|Tee Hee 12
+|
+|'''<span style="color:#FFE205">14810********</span>'''
+|
+|22.3T
+|-
+|
+|Tee Hee 13
+|
+|'''<span style="color:#FFE205">171946********</span>'''
+|
+|22.4T
+|-
+|
+|Tee Hee 14
+|
+|'''<span style="color:#FFE205">2M********</span>'''
+|
+|22.5T
+|-
+|
+|Tee Hee 15
+|
+|'''<span style="color:#FFE205">23.4M********</span>'''
+|
+|22.6T
+|-
+|
+|Tee Hee 16
+|
+|'''<span style="color:#FFE205">275M********</span>'''
+|
+|22.7T
+|}
+[[Category:Zone]]
+[[Category:Fighting]]

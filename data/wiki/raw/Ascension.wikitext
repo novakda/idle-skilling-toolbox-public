@@ -1,0 +1,199 @@
+Ascension becomes available once the [[Grasslands]] is cleared and is accessible through the [[Portal]]. Ascending will reset most levels and [[Fight]]ing progress, but awards AP to spend on useful perks that will improve future runs. There are two kinds of perks, those unlocked by completing zones in Fighting and those unlocked by keys earned through completing [[Contracts]].
+
+Ascending does <u>not</u> reset [[Fishing]] and [[Mining]] resources, [[Cards]] owned, [[Contracts|Contract]] progress, [[Secrets]], gift shop perks from [[Raids]], or any levels and content in [[Crusades]]. You keep 20% of your souls when you Ascend though.
+
+===How to Earn AP Points===
+
+The amount of AP earned is determined by 5 sources:
+# Total Kills
+# Total Reps
+# Total Ores Mined
+# Total Fish Caught
+# Total of all Skill Levels
+
+There are also multipliers that boost the amount of AP earned:
+* Allocate perk points to the 8th blue perk, granting +4% AP per level, up to +40%.
+* Unlock the [[Secrets#Defiled Pig's Head|Pig's Head secret]], granting +40% more AP.
+** Crafting Enigmatic Boosters from level 40 [[Smithing]] increases this bonus by 2% per level.
+* Unlock the level 70 [[Summoning]] AP Rift, which grants 25% + 5% per level AP gained on Ascension.
+* Craft the Bonus Reset AP trinket at level 70 [[Smithing]], giving +2% AP per level.
+* Buy the Double AP bonus from the [[Gem Shop]] for 100 gems, adding +100% more AP per purchase.
+
+===AP Perk Tree===
+
+This is the complete list of all perks and the bonuses they grant, where 'n' stands for "times level".
+
+{| class="article-table" style="width: 100%;" border="1"
+| colspan="2" style="text-align: center;" |<span style="color: pink">'''Pink Keys'''</span>
+| colspan="4" style="text-align: center;" |<span style="color: crimson">'''Clear The Mist'''</span>
+| colspan="2" style="text-align: center;" |<span style="color: white">'''White Keys'''</span>
+|-
+|[[File:Greedy_fish.png|thumb|center|42px]]
+|[[File:Star_card_rarity+.png|thumb|center|42px]]
+|[[File:Excellent_timing.png|thumb|center|42px]]
+|[[File:Trinket_tinkering.png|thumb|center|42px]]
+|[[File:Skilltree_overcharge.png|thumb|center|42px]]
+|[[File:Mist_collector.png|thumb|center|42px]]
+|[[File:Banana_bonk.png|thumb|center|42px]]
+|[[File:Shoulder_tap.png|thumb|center|42px]]
+|-
+| style="text-align: center;" |<span style="color: pink">Greedy Fish</span>
+| style="text-align: center;" |<span style="color: pink">Star Card Rarity+</span>
+| style="text-align: center;" |<span style="color: crimson">Excellent Timing</span>
+| style="text-align: center;" |<span style="color: crimson">Trinket Tinkering</span>
+| style="text-align: center;" |<span style="color: crimson">Skilltree Overcharge</span>
+| style="text-align: center;" |<span style="color: crimson">Mist Collector</span>
+| style="text-align: center;" |<span style="color: white">Banana Bonk</span>
+| style="text-align: center;" |<span style="color: white">Shoulder Tap</span>
+|-
+| style="text-align: center;" | +0.3% fish caught per every multiple of 10 cash owned
+| style="text-align: center;" | +2% chance for rare star card drops
+| style="text-align: center;" |All skill cooldowns refresh +10% faster
+| style="text-align: center;" |Trinkets give +5% more damage bonus
+| style="text-align: center;" |Skilltree perks can be leveled to 1+ 
+Note: Further upgraded by [[Rebirth]]
+| style="text-align: center;" | +0.1% crit damage for every mist card level
+| style="text-align: center;" |Deals (3000 + 200)% damage, steals (800 + 75)% monster cash
+| style="text-align: center;" |Distracts enemy (2 +0.2n) seconds, +100 crit chance, +(200 + 20n)% crit damage
+|-
+|
+|
+| colspan="4" style="text-align: center;" |<span style="color: cornflowerblue">'''Clear Mountains'''</span>
+|
+|
+|-
+|[[File:Rift_kickstarter.png|thumb|center|42px]]
+|[[File:Purple crystals.png|thumb|center|42px]]
+|[[File:Mountain_collector.png|thumb|center|42px]]
+|[[File:Idle_whirlwind.png|thumb|center|42px]]
+|[[File:Weapon_savant.png|thumb|center|42px]]
+|[[File:Skill_point_bonanza.png|thumb|center|42px]]
+|[[File:Blue crystals.png|thumb|center|42px]]
+|[[File:Skill_max.png|thumb|center|42px]]
+|-
+| style="text-align: center;" |<span style="color: pink">Rift Kickstarter</span>
+| style="text-align: center;" |<span style="color: pink">Purple Crystals</span>
+| style="text-align: center;" |<span style="color: cornflowerblue">Mountains Collector</span>
+| style="text-align: center;" |<span style="color: cornflowerblue">Idle Whirlwind</span>
+| style="text-align: center;" |<span style="color: cornflowerblue">Weapon Savant</span>
+| style="text-align: center;" |<span style="color: cornflowerblue">Skill Point Bonanza</span>
+| style="text-align: center;" |<span style="color: white">Blue Crystals</span>
+| style="text-align: center;" |<span style="color: white">Skill Max</span>
+|-
+| style="text-align: center;" | Each upgrade adds
++1 starting level for every Rift
+| style="text-align: center;" | Each upgrade gives
++1 purple crystals
+| style="text-align: center;" | Each upgrade gives +0.1% more base damage for every mountain card level
+| style="text-align: center;" |Idle attacks are +10% faster
+| style="text-align: center;" |Weapons give +5% more base damage
+| style="text-align: center;" |Leveling skills gives +10% more perk points
+| style="text-align: center;" | Each upgrade gives +1 blue crystals
+| style="text-align: center;" | +1 starting level for every skill
+|-
+| colspan="2" style="text-align: center;" |<span style="color: green">'''Green Keys'''</span>
+| colspan="4" style="text-align: center;" |<span style="color: tan">'''Clear Desert'''</span>
+| colspan="2" style="text-align: center;" |<span style="color: orange">'''Orange Keys'''</span>
+|-
+|[[File:Counterfeit_tickets.png|thumb|center|42px]]
+|[[File:Candy_freebies.png|thumb|center|42px]]
+|[[File:Monster_decimation.png|thumb|center|42px]]
+|[[File:Idle_torment.png|thumb|center|42px]]
+|[[File:Monster_laundering.png|thumb|center|42px]]
+|[[File:Desert_collector.png|thumb|center|42px]]
+|[[File:Cashback_guarantee.png|thumb|center|42px]]
+|[[File:Star_card_limit+.png|thumb|center|42px]]
+|-
+| style="text-align: center;" |<span style="color: green">Counterfeit Tickets</span>
+| style="text-align: center;" |<span style="color: green">Candy Freebies</span>
+| style="text-align: center;" |<span style="color: tan">Monster Decimation</span>
+| style="text-align: center;" |<span style="color: tan">Idle Torment</span>
+| style="text-align: center;" |<span style="color: tan">Monster Laundering</span>
+| style="text-align: center;" |<span style="color: tan">Desert Collector</span>
+| style="text-align: center;" |<span style="color: orange">Cashback Guarantee</span>
+| style="text-align: center;" |<span style="color: orange">Star Card Limit+</span>
+|-
+| style="text-align: center;" | Each upgrade gives +5% chance to get 2x tickets every 2 hours
+| style="text-align: center;" |Each upgrade reduces the free candy coupon every 2 hours
+| style="text-align: center;" |Each upgrade adds 0.1 to every killed monster count
+| style="text-align: center;" |Each upgrade adds +10% damages for each Idle Attack
+| style="text-align: center;" |Each upgrade adds 50% of drop cash on Monsters  
+| style="text-align: center;" | Each upgrade gives +0.2% cash for every desert card level
+| style="text-align: center;" | Each upgrade adds
++1% cashback on all cash spent and +10% starting cash when ascending
+| style="text-align: center;" | Each upgrade gives
++1 star card limit for every zone per day
+|-
+|
+|
+| colspan="4" style="text-align: center;" |<span style="color: lightgreen">'''Clear Grasslands'''</span>
+|
+|
+|-
+|[[File:Starting_perk_points.png|thumb|center|42px]]
+|[[File:Yellow crystals-1.png|thumb|center|42px]]
+|[[File:Grasslands_collector.png|thumb|center|42px]]
+|[[File:H2o_accuracy_boost.png|thumb|center|42px]]
+|[[File:H2o_attack_boost.png|thumb|center|42px]]
+|[[File:H2o_health_boost.png|thumb|center|42px]]
+|[[File:Red crystals.png|thumb|center|42px]]
+|[[File:Copper_hoarder.png|thumb|center|42px]]
+|-
+| style="text-align: center;" |<span style="color: green">Starting Perk Points</span>
+| style="text-align: center;" |<span style="color: green">Yellow Crystals</span>
+| style="text-align: center;" |<span style="color: lightgreen">Grasslands Collector</span>
+| style="text-align: center;" |<span style="color: lightgreen">H2O Accuracy Boost</span>
+| style="text-align: center;" |<span style="color: lightgreen">H2O Damage Boost</span>
+| style="text-align: center;" |<span style="color: lightgreen">H2O Health Boost</span>
+| style="text-align: center;" |<span style="color: orange">Red Crystals</span>
+| style="text-align: center;" |<span style="color: orange">Copper Hoarder</span>
+|-
+| style="text-align: center;" |Each upgrade gives
++1 perk points
+| style="text-align: center;" | Each upgrade gives
++1 yellow crystal
+| style="text-align: center;" | Each upgrade gives +0.1% of max health for every grasslands card level
+| style="text-align: center;" |Every H2O level gives +0.5% more accuracy
+| style="text-align: center;" |Every H2O level gives +0.5% more damage
+| style="text-align: center;" |Every H2O level gives +0.5% more health
+| style="text-align: center;" | Each upgrade gives
++1 red crystal
+| style="text-align: center;" | Every power of 10 copper owned grants +0.5n% more ores mined
+|}
+
+=== Perks Ascencion ===
+{| class="article-table"
+|
+|Level 0
+|Level 1
+|Level Max
+|-
+|<span style="color: green">Candy Freebies</span>
+|48 hours
+|46 hours
+|24 Hours
+|-
+|<span style="color: green">Counterfeit Tickets</span>
+|0% 2x Ticket
+|5% 2x Ticket
+|100% 2x Ticket
+|-
+|<span style="color: orange">Cashback Guarantee</span>
+|0% Cashback
+0% Starting Cash 
+|1% Cashback
+10% Starting Cash 
+|30% Cashback
+300% Starting Cash 
+|-
+|<span style="color: tan">Monster Decimation</span>
+|1.0 Kill
+|1.1 Kills
+|???
+|-
+|<span style="color: crimson">Skilltree Overcharge</span>
+|0+Skilltree Perk
+|1+Skilltree Perk
+|5+Skilltree Perk
+|}
+[[Category:Portal]]

@@ -1,0 +1,11 @@
+<noinclude>{{documentationpage}}</noinclude>
+
+Template for facts that need a citation or valid source to confirm them.
+
+==Usage==
+To add this message, insert the following at the end of the statement in question:
+<pre>{{Citation needed}}</pre>
+
+===Parameters===
+{{Docparam|name=&lt;unnamed 1>|req=yes|default=|desc=
+Time stamp when the template was inserted. Use 5 tildes (<code><nowiki>~~~~~</nowiki></code>).}}

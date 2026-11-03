@@ -1,0 +1,2842 @@
+[
+ {
+  "_page": "Contracts",
+  "_section": "Contracts",
+  "_caption": "Contract Tiers",
+  "_table": 0,
+  "Unlocks At": "Level 1",
+  "Unlocks At_2": "Level 30",
+  "Unlocks At_3": "Level 75",
+  "_images": [
+   "Easy_contract.png",
+   "Extreme_contract.png",
+   "Ungodly_contract.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Contracts",
+  "_caption": "Contract Tiers",
+  "_table": 0,
+  "Unlocks At": "Level 10",
+  "Unlocks At_2": "Level 40",
+  "Unlocks At_3": "Level 100",
+  "_images": [
+   "Medium_contract.png",
+   "Insane_contract.png",
+   "Cerebral_contract.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Contracts",
+  "_caption": "Contract Tiers",
+  "_table": 0,
+  "Unlocks At": "Level 20",
+  "Unlocks At_2": "Level 50",
+  "Unlocks At_3": "Level 125",
+  "_images": [
+   "Hard_contract.png",
+   "Regal_contract.png",
+   "Lavathian_contract.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 1,
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Rank": "F",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Requirement": "Kill 2K Monkey",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Notes": "Grasslands 10",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Rank_2": "S",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Requirement_3": "Kill 486K Frozen Bob",
+  "Notes": "Mountains 43",
+  "_images": [
+   "Monkey.png",
+   "Frozen Bob.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 1,
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Rank": "D",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Requirement": "Kill 6K Bandit Bob",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Notes": "Desert 13",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Rank_2": "SS",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Requirement_3": "Kill 1458K Gordy 1",
+  "Notes": "Mist 22",
+  "_images": [
+   "Bandit Bob.png",
+   "Gordy.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 1,
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Rank": "C",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Requirement": "Kill 18K Desert Baron",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Notes": "Desert 27",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Rank_2": "SSS",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Requirement_3": "Kill 4374K Squode 1",
+  "Notes": "Mist 40",
+  "_images": [
+   "Desert Baron.png",
+   "Squode.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 1,
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Rank": "B",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Requirement": "Kill 54K Old Friend",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Notes": "Mountains 8",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Rank_2": "SSSS",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Requirement_3": "Kill 13M Unlucky Lad 1",
+  "Notes": "Dungeon 22",
+  "_images": [
+   "Old Friend.png",
+   "Unlucky lad.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 1,
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Rank": "A",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Requirement": "Kill 162K Blue Phat 1",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Notes": "Mountains 27",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Rank_2": "SSSS+",
+  "Monster Madness: Defeat a particular monster a specified amount of times in a single Ascension. / Requirement_3": "Kill 39.4M Holy Relic 3",
+  "Notes": "Dungeon 42",
+  "_images": [
+   "Blue Phat.png",
+   "Holy relic.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 2,
+  "Skill Training: Level up your skills a specified total of times. (Skills are the hotbars you see in the screen, IE: Mining, Botany, etc) / Rank": "F",
+  "Skill Training: Level up your skills a specified total of times. (Skills are the hotbars you see in the screen, IE: Mining, Botany, etc) / Requirement": "80 Level Ups",
+  "Skill Training: Level up your skills a specified total of times. (Skills are the hotbars you see in the screen, IE: Mining, Botany, etc) / Rank_2": "S",
+  "Requirement": "1512 Level Ups"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 2,
+  "Skill Training: Level up your skills a specified total of times. (Skills are the hotbars you see in the screen, IE: Mining, Botany, etc) / Rank": "D",
+  "Skill Training: Level up your skills a specified total of times. (Skills are the hotbars you see in the screen, IE: Mining, Botany, etc) / Requirement": "144 Level Ups",
+  "Skill Training: Level up your skills a specified total of times. (Skills are the hotbars you see in the screen, IE: Mining, Botany, etc) / Rank_2": "SS",
+  "Requirement": "2721 Level Ups"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 2,
+  "Skill Training: Level up your skills a specified total of times. (Skills are the hotbars you see in the screen, IE: Mining, Botany, etc) / Rank": "C",
+  "Skill Training: Level up your skills a specified total of times. (Skills are the hotbars you see in the screen, IE: Mining, Botany, etc) / Requirement": "259 Level Ups",
+  "Skill Training: Level up your skills a specified total of times. (Skills are the hotbars you see in the screen, IE: Mining, Botany, etc) / Rank_2": "SSS",
+  "Requirement": "4898 Level Ups"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 2,
+  "Skill Training: Level up your skills a specified total of times. (Skills are the hotbars you see in the screen, IE: Mining, Botany, etc) / Rank": "B",
+  "Skill Training: Level up your skills a specified total of times. (Skills are the hotbars you see in the screen, IE: Mining, Botany, etc) / Requirement": "467 Level Ups",
+  "Skill Training: Level up your skills a specified total of times. (Skills are the hotbars you see in the screen, IE: Mining, Botany, etc) / Rank_2": "SSSS",
+  "Requirement": "8816 Level Ups"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 2,
+  "Skill Training: Level up your skills a specified total of times. (Skills are the hotbars you see in the screen, IE: Mining, Botany, etc) / Rank": "A",
+  "Skill Training: Level up your skills a specified total of times. (Skills are the hotbars you see in the screen, IE: Mining, Botany, etc) / Requirement": "840 Level Ups",
+  "Skill Training: Level up your skills a specified total of times. (Skills are the hotbars you see in the screen, IE: Mining, Botany, etc) / Rank_2": "SSSS+",
+  "Requirement": "15869 Level Ups"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 3,
+  "That's a Lotta Damage: Deal a specified amount of damage in one idle attack. / Rank": "F",
+  "That's a Lotta Damage: Deal a specified amount of damage in one idle attack. / Requirement": "Deal 100K Damage",
+  "That's a Lotta Damage: Deal a specified amount of damage in one idle attack. / Rank_2": "S",
+  "Requirement": "Deal 102M Damage"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 3,
+  "That's a Lotta Damage: Deal a specified amount of damage in one idle attack. / Rank": "D",
+  "That's a Lotta Damage: Deal a specified amount of damage in one idle attack. / Requirement": "Deal 400K Damage",
+  "That's a Lotta Damage: Deal a specified amount of damage in one idle attack. / Rank_2": "SS",
+  "Requirement": "Deal 409M Damage"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 3,
+  "That's a Lotta Damage: Deal a specified amount of damage in one idle attack. / Rank": "C",
+  "That's a Lotta Damage: Deal a specified amount of damage in one idle attack. / Requirement": "Deal 1.6M Damage",
+  "That's a Lotta Damage: Deal a specified amount of damage in one idle attack. / Rank_2": "SSS",
+  "Requirement": "Deal 1638M Damage"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 3,
+  "That's a Lotta Damage: Deal a specified amount of damage in one idle attack. / Rank": "B",
+  "That's a Lotta Damage: Deal a specified amount of damage in one idle attack. / Requirement": "Deal 6.4M Damage",
+  "That's a Lotta Damage: Deal a specified amount of damage in one idle attack. / Rank_2": "SSSS",
+  "Requirement": "Deal 6553M Damage"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 3,
+  "That's a Lotta Damage: Deal a specified amount of damage in one idle attack. / Rank": "A",
+  "That's a Lotta Damage: Deal a specified amount of damage in one idle attack. / Requirement": "Deal 25M Damage",
+  "That's a Lotta Damage: Deal a specified amount of damage in one idle attack. / Rank_2": "SSSS+",
+  "Requirement": "Deal 26B Damage"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 4,
+  "Buy Yourself Something Nice: Spend a specified total amount of gold on upgrades. / Rank": "F",
+  "Buy Yourself Something Nice: Spend a specified total amount of gold on upgrades. / Requirement": "Spend 100K",
+  "Buy Yourself Something Nice: Spend a specified total amount of gold on upgrades. / Rank_2": "S",
+  "Requirement": "Spend 320B"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 4,
+  "Buy Yourself Something Nice: Spend a specified total amount of gold on upgrades. / Rank": "D",
+  "Buy Yourself Something Nice: Spend a specified total amount of gold on upgrades. / Requirement": "Spend 2M",
+  "Buy Yourself Something Nice: Spend a specified total amount of gold on upgrades. / Rank_2": "SS",
+  "Requirement": "Spend 6.4T"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 4,
+  "Buy Yourself Something Nice: Spend a specified total amount of gold on upgrades. / Rank": "C",
+  "Buy Yourself Something Nice: Spend a specified total amount of gold on upgrades. / Requirement": "Spend 40M",
+  "Buy Yourself Something Nice: Spend a specified total amount of gold on upgrades. / Rank_2": "SSS",
+  "Requirement": "Spend 128T"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 4,
+  "Buy Yourself Something Nice: Spend a specified total amount of gold on upgrades. / Rank": "B",
+  "Buy Yourself Something Nice: Spend a specified total amount of gold on upgrades. / Requirement": "Spend 800M",
+  "Buy Yourself Something Nice: Spend a specified total amount of gold on upgrades. / Rank_2": "SSSS",
+  "Requirement": "Spend 2.56Q"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Easy Contracts",
+  "_table": 4,
+  "Buy Yourself Something Nice: Spend a specified total amount of gold on upgrades. / Rank": "A",
+  "Buy Yourself Something Nice: Spend a specified total amount of gold on upgrades. / Requirement": "Spend 16B",
+  "Buy Yourself Something Nice: Spend a specified total amount of gold on upgrades. / Rank_2": "SSSS+",
+  "Requirement": "Spend 51Q"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 5,
+  "Monster Slayer: Defeat a specified total amount of monsters. (Only in 'grassland -> dungeon' monsters) / Rank": "F",
+  "Monster Slayer: Defeat a specified total amount of monsters. (Only in 'grassland -> dungeon' monsters) / Requirement": "Kill 10K Monsters",
+  "Monster Slayer: Defeat a specified total amount of monsters. (Only in 'grassland -> dungeon' monsters) / Rank_2": "S",
+  "Requirement": "Kill 10.24M Monsters"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 5,
+  "Monster Slayer: Defeat a specified total amount of monsters. (Only in 'grassland -> dungeon' monsters) / Rank": "D",
+  "Monster Slayer: Defeat a specified total amount of monsters. (Only in 'grassland -> dungeon' monsters) / Requirement": "Kill 40K Monsters",
+  "Monster Slayer: Defeat a specified total amount of monsters. (Only in 'grassland -> dungeon' monsters) / Rank_2": "SS",
+  "Requirement": "Kill 40.96M Monsters"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 5,
+  "Monster Slayer: Defeat a specified total amount of monsters. (Only in 'grassland -> dungeon' monsters) / Rank": "C",
+  "Monster Slayer: Defeat a specified total amount of monsters. (Only in 'grassland -> dungeon' monsters) / Requirement": "Kill 160K Monsters",
+  "Monster Slayer: Defeat a specified total amount of monsters. (Only in 'grassland -> dungeon' monsters) / Rank_2": "SSS",
+  "Requirement": "Kill 163.84M Monsters"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 5,
+  "Monster Slayer: Defeat a specified total amount of monsters. (Only in 'grassland -> dungeon' monsters) / Rank": "B",
+  "Monster Slayer: Defeat a specified total amount of monsters. (Only in 'grassland -> dungeon' monsters) / Requirement": "Kill 640K Monsters",
+  "Monster Slayer: Defeat a specified total amount of monsters. (Only in 'grassland -> dungeon' monsters) / Rank_2": "SSSS",
+  "Requirement": "Kill 655.36M Monsters"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 5,
+  "Monster Slayer: Defeat a specified total amount of monsters. (Only in 'grassland -> dungeon' monsters) / Rank": "A",
+  "Monster Slayer: Defeat a specified total amount of monsters. (Only in 'grassland -> dungeon' monsters) / Requirement": "Kill 2.56M Monsters",
+  "Monster Slayer: Defeat a specified total amount of monsters. (Only in 'grassland -> dungeon' monsters) / Rank_2": "SSSS+",
+  "Requirement": "Kill 2621M Monsters"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 6,
+  "One Trick Pony: Level up a particular skill a to a specified level. / Rank": "F",
+  "One Trick Pony: Level up a particular skill a to a specified level. / Requirement": "Reach Smithing Lv. 30",
+  "One Trick Pony: Level up a particular skill a to a specified level. / Rank_2": "S",
+  "Requirement": "Reach Summoning Lv. 80",
+  "_images": [
+   "Smithing icon.png",
+   "Summoning icon.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 6,
+  "One Trick Pony: Level up a particular skill a to a specified level. / Rank": "D",
+  "One Trick Pony: Level up a particular skill a to a specified level. / Requirement": "Reach Mining Lv. 40",
+  "One Trick Pony: Level up a particular skill a to a specified level. / Rank_2": "SS",
+  "Requirement": "Reach Attack Lv. 90",
+  "_images": [
+   "Mining icon.png",
+   "Train icon.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 6,
+  "One Trick Pony: Level up a particular skill a to a specified level. / Rank": "C",
+  "One Trick Pony: Level up a particular skill a to a specified level. / Requirement": "Reach Fishing Lv. 50",
+  "One Trick Pony: Level up a particular skill a to a specified level. / Rank_2": "SSS",
+  "Requirement": "Reach Health Lv. 90",
+  "_images": [
+   "Fishing icon.png",
+   "Train icon.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 6,
+  "One Trick Pony: Level up a particular skill a to a specified level. / Rank": "B",
+  "One Trick Pony: Level up a particular skill a to a specified level. / Requirement": "Reach Strength Lv. 60",
+  "One Trick Pony: Level up a particular skill a to a specified level. / Rank_2": "SSSS",
+  "Requirement": "Reach Strength Lv. 100",
+  "_images": [
+   "Train icon.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 6,
+  "One Trick Pony: Level up a particular skill a to a specified level. / Rank": "A",
+  "One Trick Pony: Level up a particular skill a to a specified level. / Requirement": "Reach Spiriting Lv. 70",
+  "One Trick Pony: Level up a particular skill a to a specified level. / Rank_2": "SSSS+",
+  "Requirement": "Reach Mining Lv. 100",
+  "_images": [
+   "Spiriting icon.png",
+   "Mining icon.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 7,
+  "Supreme Skillers: Upgrade your Training Skillers a specified amount of times. (Gym+Dojo+Mountain+Fields) / Rank": "F",
+  "Supreme Skillers: Upgrade your Training Skillers a specified amount of times. (Gym+Dojo+Mountain+Fields) / Requirement": "400 Upgrades",
+  "Supreme Skillers: Upgrade your Training Skillers a specified amount of times. (Gym+Dojo+Mountain+Fields) / Rank_2": "S",
+  "Requirement": "3390 Upgrades"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 7,
+  "Supreme Skillers: Upgrade your Training Skillers a specified amount of times. (Gym+Dojo+Mountain+Fields) / Rank": "D",
+  "Supreme Skillers: Upgrade your Training Skillers a specified amount of times. (Gym+Dojo+Mountain+Fields) / Requirement": "800 Upgrades",
+  "Supreme Skillers: Upgrade your Training Skillers a specified amount of times. (Gym+Dojo+Mountain+Fields) / Rank_2": "SS",
+  "Requirement": "4150 Upgrades"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 7,
+  "Supreme Skillers: Upgrade your Training Skillers a specified amount of times. (Gym+Dojo+Mountain+Fields) / Rank": "C",
+  "Supreme Skillers: Upgrade your Training Skillers a specified amount of times. (Gym+Dojo+Mountain+Fields) / Requirement": "1350 Upgrades",
+  "Supreme Skillers: Upgrade your Training Skillers a specified amount of times. (Gym+Dojo+Mountain+Fields) / Rank_2": "SSS",
+  "Requirement": "4950 Upgrades"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 7,
+  "Supreme Skillers: Upgrade your Training Skillers a specified amount of times. (Gym+Dojo+Mountain+Fields) / Rank": "B",
+  "Supreme Skillers: Upgrade your Training Skillers a specified amount of times. (Gym+Dojo+Mountain+Fields) / Requirement": "1970 Upgrades",
+  "Supreme Skillers: Upgrade your Training Skillers a specified amount of times. (Gym+Dojo+Mountain+Fields) / Rank_2": "SSSS",
+  "Requirement": "5780 Upgrades"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 7,
+  "Supreme Skillers: Upgrade your Training Skillers a specified amount of times. (Gym+Dojo+Mountain+Fields) / Rank": "A",
+  "Supreme Skillers: Upgrade your Training Skillers a specified amount of times. (Gym+Dojo+Mountain+Fields) / Requirement": "2660 Upgrades",
+  "Supreme Skillers: Upgrade your Training Skillers a specified amount of times. (Gym+Dojo+Mountain+Fields) / Rank_2": "SSSS+",
+  "Requirement": "6630 Upgrades"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 8,
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank": "F",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement": "Craft 20 Fishwiches",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Notes": "1261 [548]",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Notes_2": "1261 [548]",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank_2": "S",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement_2": "Craft 70 Rubillic Trinkets",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Notes_3": "10747M [5110M]",
+  "Notes": "3436K [1606K]",
+  "_images": [
+   "Fishwich.png",
+   "Rubillic trinket.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 8,
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank": "F",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement": "Craft 20 Fishwiches",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank_2": "S",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement_2": "Craft 70 Rubillic Trinkets",
+  "_images": [
+   "Fishwich.png",
+   "Minnow.png",
+   "Small_tuna.png",
+   "Rubillic trinket.png",
+   "Ruby.png",
+   "Angler_fish.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 8,
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank": "D",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement": "Craft 30 Golden Armors",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Notes": "3478 [1618]",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Notes_2": "2174 [1012]",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank_2": "SS",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement_2": "Craft 80 Languished Lungs",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Notes_3": "28151M [13821M]",
+  "Notes": "47833K [22248K]",
+  "_images": [
+   "Golden armor.png",
+   "Languished lungs.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 8,
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank": "D",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement": "Craft 30 Golden Armors",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank_2": "SS",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement_2": "Craft 80 Languished Lungs",
+  "_images": [
+   "Golden armor.png",
+   "Tin_can.png",
+   "Chainmailfish.png",
+   "Languished lungs.png",
+   "Glume.png",
+   "Manta_ray.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 8,
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank": "C",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement": "Craft 40 Cobalt Pendants",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Notes": "3134K [1444K]",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Notes_2": "3134K [1444k]",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank_2": "SSS",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement_2": "Craft 90 Royalty Income",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Notes_3": "37989M [18760M]",
+  "Notes": "161M [75648K]",
+  "_images": [
+   "Cobalt pendant.png",
+   "Royalty income.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 8,
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank": "C",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement": "Craft 40 Cobalt Pendants",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank_2": "SSS",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement_2": "Craft 90 Royalty Income",
+  "_images": [
+   "Cobalt pendant.png",
+   "Cobalt.png",
+   "Platinum.png",
+   "Royalty income.png",
+   "Plument.png",
+   "Crystalfish.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 8,
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank": "B",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement": "Craft 50 Rapid Reps",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Notes": "327M [150M]",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Notes_2": "181K [83K]",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank_2": "SSSS",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement_2": "Craft 100 Galaxial Slashers",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Notes_3": "56543M [28001M]",
+  "Notes": "24533M [11997M]",
+  "_images": [
+   "Rapid reps.png",
+   "Galaxial slasher.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 8,
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank": "B",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement": "Craft 50 Rapid Reps",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank_2": "SSSS",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement_2": "Craft 100 Galaxial Slashers",
+  "_images": [
+   "Rapid reps.png",
+   "Antimatter.png",
+   "Bonefish.png",
+   "Galaxial slasher.png",
+   "Godshard.png",
+   "Kraken.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 8,
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank": "A",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement": "Craft 60 Blacksmith Pills",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Notes": "3736K [1762K]",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Notes_2": "3736K [1762]",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank_2": "SSSS+",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement_2": "Craft 110 Dimension Hoppers",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Notes_3": "70957M [35335M]",
+  "Notes": "15965M [7722M]",
+  "_images": [
+   "Blacksmith pills.png",
+   "Dimension hoppers.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Medium Contracts",
+  "_table": 8,
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank": "A",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement": "Craft 60 Blacksmith Pills",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Rank_2": "SSSS+",
+  "Smith This Smath That: Craft a particular trinket a specified number of times in a single Ascension. [XXX] - Double Crafting / Requirement_2": "Craft 110 Dimension Hoppers",
+  "_images": [
+   "Blacksmith pills.png",
+   "Red_herring.png",
+   "Ice_cube_fish.png",
+   "Dimension hoppers.png",
+   "Godshard.png",
+   "Jumbo_shrimp.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 9,
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Rank": "F",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Requirement": "Kill 2 Daydream Kings",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Notes": "2 Raid Tickets",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Rank_2": "S",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Requirement_3": "Kill 12 Daydream Demons",
+  "Notes": "12 Raid Tickets",
+  "_images": [
+   "C king x.png",
+   "C demon x.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 9,
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Rank": "D",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Requirement": "Kill 6 Chaotic Kings",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Notes": "18 Raid Tickets",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Rank_2": "SS",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Requirement_3": "Kill 14 Nightmare Kings",
+  "Notes": "140 Raid Tickets",
+  "_images": [
+   "C king y.png",
+   "C king z.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 9,
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Rank": "C",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Requirement": "Kill 6 Daydream Entertainers",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Notes": "6 Raid Tickets",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Rank_2": "SSS",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Requirement_3": "Kill 16 Chaotic Sentinels",
+  "Notes": "48 Raid Tickets",
+  "_images": [
+   "C entertainer x.png",
+   "C sentinel y.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 9,
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Rank": "B",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Requirement": "Kill 8 Daydream Sentinels",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Notes": "8 Raid Tickets",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Rank_2": "SSSS",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Requirement_3": "Kill 18 Nightmare Entertainers",
+  "Notes": "180 Raid Tickets",
+  "_images": [
+   "C sentinel x.png",
+   "C entertainer z.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 9,
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Rank": "A",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Requirement": "Kill 10 Chaotic Entertainers",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Notes": "30 Raid Tickets",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Rank_2": "SSSS+",
+  "Theater Terrors: Defeat a particular boss a specified number of times. / Requirement_3": "Kill 20 Nightmare Demons",
+  "Notes": "200 Raid Tickets",
+  "_images": [
+   "C entertainer y.png",
+   "C demon z.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 10,
+  "Pickpocket Pro: Pick up a specified amount of item drops. (Gems, Cards, Tickets, etc.) / Rank": "F",
+  "Pickpocket Pro: Pick up a specified amount of item drops. (Gems, Cards, Tickets, etc.) / Requirement": "15 Pickups",
+  "Pickpocket Pro: Pick up a specified amount of item drops. (Gems, Cards, Tickets, etc.) / Rank_2": "S",
+  "Requirement": "480 Pickups"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 10,
+  "Pickpocket Pro: Pick up a specified amount of item drops. (Gems, Cards, Tickets, etc.) / Rank": "D",
+  "Pickpocket Pro: Pick up a specified amount of item drops. (Gems, Cards, Tickets, etc.) / Requirement": "30 Pickups",
+  "Pickpocket Pro: Pick up a specified amount of item drops. (Gems, Cards, Tickets, etc.) / Rank_2": "SS",
+  "Requirement": "960 Pickups"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 10,
+  "Pickpocket Pro: Pick up a specified amount of item drops. (Gems, Cards, Tickets, etc.) / Rank": "C",
+  "Pickpocket Pro: Pick up a specified amount of item drops. (Gems, Cards, Tickets, etc.) / Requirement": "60 Pickups",
+  "Pickpocket Pro: Pick up a specified amount of item drops. (Gems, Cards, Tickets, etc.) / Rank_2": "SSS",
+  "Requirement": "1920 Pickups"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 10,
+  "Pickpocket Pro: Pick up a specified amount of item drops. (Gems, Cards, Tickets, etc.) / Rank": "B",
+  "Pickpocket Pro: Pick up a specified amount of item drops. (Gems, Cards, Tickets, etc.) / Requirement": "120 Pickups",
+  "Pickpocket Pro: Pick up a specified amount of item drops. (Gems, Cards, Tickets, etc.) / Rank_2": "SSSS",
+  "Requirement": "3840 Pickups"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 10,
+  "Pickpocket Pro: Pick up a specified amount of item drops. (Gems, Cards, Tickets, etc.) / Rank": "A",
+  "Pickpocket Pro: Pick up a specified amount of item drops. (Gems, Cards, Tickets, etc.) / Requirement": "240 Pickups",
+  "Pickpocket Pro: Pick up a specified amount of item drops. (Gems, Cards, Tickets, etc.) / Rank_2": "SSSS+",
+  "Requirement": "7680 Pickups"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 11,
+  "Catch of the Day: Catch a specified amount of fish in one attempt. / Rank": "F",
+  "Catch of the Day: Catch a specified amount of fish in one attempt. / Requirement": "50 Fish at Once",
+  "Catch of the Day: Catch a specified amount of fish in one attempt. / Rank_2": "S",
+  "Requirement": "600 Fish at Once"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 11,
+  "Catch of the Day: Catch a specified amount of fish in one attempt. / Rank": "D",
+  "Catch of the Day: Catch a specified amount of fish in one attempt. / Requirement": "100 Fish at Once",
+  "Catch of the Day: Catch a specified amount of fish in one attempt. / Rank_2": "SS",
+  "Requirement": "780 Fish at Once"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 11,
+  "Catch of the Day: Catch a specified amount of fish in one attempt. / Rank": "C",
+  "Catch of the Day: Catch a specified amount of fish in one attempt. / Requirement": "190 Fish at Once",
+  "Catch of the Day: Catch a specified amount of fish in one attempt. / Rank_2": "SSS",
+  "Requirement": "970 Fish at Once"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 11,
+  "Catch of the Day: Catch a specified amount of fish in one attempt. / Rank": "B",
+  "Catch of the Day: Catch a specified amount of fish in one attempt. / Requirement": "300 Fish at Once",
+  "Catch of the Day: Catch a specified amount of fish in one attempt. / Rank_2": "SSSS",
+  "Requirement": "1180 Fish at Once"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 11,
+  "Catch of the Day: Catch a specified amount of fish in one attempt. / Rank": "A",
+  "Catch of the Day: Catch a specified amount of fish in one attempt. / Requirement": "450 Fish at Once",
+  "Catch of the Day: Catch a specified amount of fish in one attempt. / Rank_2": "SSSS+",
+  "Requirement": "1390 Fish at Once"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 12,
+  "Soul Hoarder: Own a specified number of a particular soul at once. / Rank": "F",
+  "Soul Hoarder: Own a specified number of a particular soul at once. / Requirement": "Own 1K Red Souls",
+  "Soul Hoarder: Own a specified number of a particular soul at once. / Rank_2": "S",
+  "Requirement": "Own 176 Purple Souls",
+  "_images": [
+   "Red soul.png",
+   "Purple soul.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 12,
+  "Soul Hoarder: Own a specified number of a particular soul at once. / Rank": "D",
+  "Soul Hoarder: Own a specified number of a particular soul at once. / Requirement": "Own 571 Orange Souls",
+  "Soul Hoarder: Own a specified number of a particular soul at once. / Rank_2": "SS",
+  "Requirement": "Own 166 White Souls",
+  "_images": [
+   "Orange soul.png",
+   "White soul.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 12,
+  "Soul Hoarder: Own a specified number of a particular soul at once. / Rank": "C",
+  "Soul Hoarder: Own a specified number of a particular soul at once. / Requirement": "Own 314 Yellow Souls",
+  "Soul Hoarder: Own a specified number of a particular soul at once. / Rank_2": "SSS",
+  "Requirement": "Own 160 White Souls",
+  "_images": [
+   "Yellow soul.png",
+   "White soul.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 12,
+  "Soul Hoarder: Own a specified number of a particular soul at once. / Rank": "B",
+  "Soul Hoarder: Own a specified number of a particular soul at once. / Requirement": "Own 229 Green Souls",
+  "Soul Hoarder: Own a specified number of a particular soul at once. / Rank_2": "SSSS",
+  "Requirement": "Own 587 White Souls",
+  "_images": [
+   "Green soul.png",
+   "White soul.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Hard Contracts",
+  "_table": 12,
+  "Soul Hoarder: Own a specified number of a particular soul at once. / Rank": "A",
+  "Soul Hoarder: Own a specified number of a particular soul at once. / Requirement": "Own 193 Blue Souls",
+  "Soul Hoarder: Own a specified number of a particular soul at once. / Rank_2": "SSSS+",
+  "Requirement": "Own 1141 White Souls",
+  "_images": [
+   "Blue soul.png",
+   "White soul.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 13,
+  "Glitched Out: Reach a particular Glitch monster. (Glitch are monsters after completing a zone.) / Rank": "F",
+  "Glitched Out: Reach a particular Glitch monster. (Glitch are monsters after completing a zone.) / Requirement": "Reach Grasslands Glitch 30",
+  "Glitched Out: Reach a particular Glitch monster. (Glitch are monsters after completing a zone.) / Rank_2": "S",
+  "Requirement": "Reach Mountains Glitch 45"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 13,
+  "Glitched Out: Reach a particular Glitch monster. (Glitch are monsters after completing a zone.) / Rank": "D",
+  "Glitched Out: Reach a particular Glitch monster. (Glitch are monsters after completing a zone.) / Requirement": "Reach Desert Glitch 25",
+  "Glitched Out: Reach a particular Glitch monster. (Glitch are monsters after completing a zone.) / Rank_2": "SS",
+  "Requirement": "Reach Mist Glitch 15"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 13,
+  "Glitched Out: Reach a particular Glitch monster. (Glitch are monsters after completing a zone.) / Rank": "C",
+  "Glitched Out: Reach a particular Glitch monster. (Glitch are monsters after completing a zone.) / Requirement": "Reach Grasslands Glitch 60",
+  "Glitched Out: Reach a particular Glitch monster. (Glitch are monsters after completing a zone.) / Rank_2": "SSS",
+  "Requirement": "Reach Mist Glitch 40"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 13,
+  "Glitched Out: Reach a particular Glitch monster. (Glitch are monsters after completing a zone.) / Rank": "B",
+  "Glitched Out: Reach a particular Glitch monster. (Glitch are monsters after completing a zone.) / Requirement": "Reach Desert Glitch 50",
+  "Glitched Out: Reach a particular Glitch monster. (Glitch are monsters after completing a zone.) / Rank_2": "SSSS",
+  "Requirement": "Reach Noob Glitch 10"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 13,
+  "Glitched Out: Reach a particular Glitch monster. (Glitch are monsters after completing a zone.) / Rank": "A",
+  "Glitched Out: Reach a particular Glitch monster. (Glitch are monsters after completing a zone.) / Requirement": "Reach Mountains Glitch 20",
+  "Glitched Out: Reach a particular Glitch monster. (Glitch are monsters after completing a zone.) / Rank_2": "SSSS+",
+  "Requirement": "Reach Noob Glitch 30"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 14,
+  "Unfinanced Mining: Mine a specified amount of ore without killing a monster. (Arcade reward kills also cause this contract to fail.) / Rank": "F",
+  "Unfinanced Mining: Mine a specified amount of ore without killing a monster. (Arcade reward kills also cause this contract to fail.) / Requirement": "Mine 10K Ore",
+  "Unfinanced Mining: Mine a specified amount of ore without killing a monster. (Arcade reward kills also cause this contract to fail.) / Rank_2": "S",
+  "Requirement": "Mine 10M Ore"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 14,
+  "Unfinanced Mining: Mine a specified amount of ore without killing a monster. (Arcade reward kills also cause this contract to fail.) / Rank": "D",
+  "Unfinanced Mining: Mine a specified amount of ore without killing a monster. (Arcade reward kills also cause this contract to fail.) / Requirement": "Mine 40K Ore",
+  "Unfinanced Mining: Mine a specified amount of ore without killing a monster. (Arcade reward kills also cause this contract to fail.) / Rank_2": "SS",
+  "Requirement": "Mine 41M Ore"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 14,
+  "Unfinanced Mining: Mine a specified amount of ore without killing a monster. (Arcade reward kills also cause this contract to fail.) / Rank": "C",
+  "Unfinanced Mining: Mine a specified amount of ore without killing a monster. (Arcade reward kills also cause this contract to fail.) / Requirement": "Mine 160K Ore",
+  "Unfinanced Mining: Mine a specified amount of ore without killing a monster. (Arcade reward kills also cause this contract to fail.) / Rank_2": "SSS",
+  "Requirement": "Mine 164M Ore"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 14,
+  "Unfinanced Mining: Mine a specified amount of ore without killing a monster. (Arcade reward kills also cause this contract to fail.) / Rank": "B",
+  "Unfinanced Mining: Mine a specified amount of ore without killing a monster. (Arcade reward kills also cause this contract to fail.) / Requirement": "Mine 640K Ore",
+  "Unfinanced Mining: Mine a specified amount of ore without killing a monster. (Arcade reward kills also cause this contract to fail.) / Rank_2": "SSSS",
+  "Requirement": "Mine 655M Ore"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 14,
+  "Unfinanced Mining: Mine a specified amount of ore without killing a monster. (Arcade reward kills also cause this contract to fail.) / Rank": "A",
+  "Unfinanced Mining: Mine a specified amount of ore without killing a monster. (Arcade reward kills also cause this contract to fail.) / Requirement": "Mine 2560K Ore",
+  "Unfinanced Mining: Mine a specified amount of ore without killing a monster. (Arcade reward kills also cause this contract to fail.) / Rank_2": "SSSS+",
+  "Requirement": "Mine 2621M Ore"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 15,
+  "What is this... Minecraft?: Craft a specified number of items in a single Ascension. (Smithing Only) / Rank": "F",
+  "What is this... Minecraft?: Craft a specified number of items in a single Ascension. (Smithing Only) / Requirement": "Craft 200 Items",
+  "What is this... Minecraft?: Craft a specified number of items in a single Ascension. (Smithing Only) / Rank_2": "S",
+  "Requirement": "Craft 2107 Items"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 15,
+  "What is this... Minecraft?: Craft a specified number of items in a single Ascension. (Smithing Only) / Rank": "D",
+  "What is this... Minecraft?: Craft a specified number of items in a single Ascension. (Smithing Only) / Requirement": "Craft 305 Items",
+  "What is this... Minecraft?: Craft a specified number of items in a single Ascension. (Smithing Only) / Rank_2": "SS",
+  "Requirement": "Craft 2848 Items"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 15,
+  "What is this... Minecraft?: Craft a specified number of items in a single Ascension. (Smithing Only) / Rank": "C",
+  "What is this... Minecraft?: Craft a specified number of items in a single Ascension. (Smithing Only) / Requirement": "Craft 566 Items",
+  "What is this... Minecraft?: Craft a specified number of items in a single Ascension. (Smithing Only) / Rank_2": "SSS",
+  "Requirement": "Craft 3694 Items"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 15,
+  "What is this... Minecraft?: Craft a specified number of items in a single Ascension. (Smithing Only) / Rank": "B",
+  "What is this... Minecraft?: Craft a specified number of items in a single Ascension. (Smithing Only) / Requirement": "Craft 960 Items",
+  "What is this... Minecraft?: Craft a specified number of items in a single Ascension. (Smithing Only) / Rank_2": "SSSS",
+  "Requirement": "Craft 4644 Items"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 15,
+  "What is this... Minecraft?: Craft a specified number of items in a single Ascension. (Smithing Only) / Rank": "A",
+  "What is this... Minecraft?: Craft a specified number of items in a single Ascension. (Smithing Only) / Requirement": "Craft 1476 Items",
+  "What is this... Minecraft?: Craft a specified number of items in a single Ascension. (Smithing Only) / Rank_2": "SSSS+",
+  "Requirement": "Craft 5693 Items"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 16,
+  "Rifty Business: Level up your Summoning Rifts a specified number of times in a single Ascension. / Rank": "F",
+  "Rifty Business: Level up your Summoning Rifts a specified number of times in a single Ascension. / Requirement": "50 Level Ups",
+  "Rifty Business: Level up your Summoning Rifts a specified number of times in a single Ascension. / Rank_2": "S",
+  "Requirement": "350 Level Ups"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 16,
+  "Rifty Business: Level up your Summoning Rifts a specified number of times in a single Ascension. / Rank": "D",
+  "Rifty Business: Level up your Summoning Rifts a specified number of times in a single Ascension. / Requirement": "110 Level Ups",
+  "Rifty Business: Level up your Summoning Rifts a specified number of times in a single Ascension. / Rank_2": "SS",
+  "Requirement": "410 Level Ups"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 16,
+  "Rifty Business: Level up your Summoning Rifts a specified number of times in a single Ascension. / Rank": "C",
+  "Rifty Business: Level up your Summoning Rifts a specified number of times in a single Ascension. / Requirement": "170 Level Ups",
+  "Rifty Business: Level up your Summoning Rifts a specified number of times in a single Ascension. / Rank_2": "SSS",
+  "Requirement": "470 Level Ups"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 16,
+  "Rifty Business: Level up your Summoning Rifts a specified number of times in a single Ascension. / Rank": "B",
+  "Rifty Business: Level up your Summoning Rifts a specified number of times in a single Ascension. / Requirement": "230 Level Ups",
+  "Rifty Business: Level up your Summoning Rifts a specified number of times in a single Ascension. / Rank_2": "SSSS",
+  "Requirement": "530 Level Ups"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Extreme Contracts",
+  "_table": 16,
+  "Rifty Business: Level up your Summoning Rifts a specified number of times in a single Ascension. / Rank": "A",
+  "Rifty Business: Level up your Summoning Rifts a specified number of times in a single Ascension. / Requirement": "290 Level Ups",
+  "Rifty Business: Level up your Summoning Rifts a specified number of times in a single Ascension. / Rank_2": "SSSS+",
+  "Requirement": "590 Level Ups"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 17,
+  "Broken Forge: Reach a particular monster without crafting. / Rank": "F",
+  "Broken Forge: Reach a particular monster without crafting. / Requirement": "Reach Disciple Y",
+  "Broken Forge: Reach a particular monster without crafting. / Notes": "Grasslands 14",
+  "Broken Forge: Reach a particular monster without crafting. / Rank_2": "S",
+  "Broken Forge: Reach a particular monster without crafting. / Requirement_2": "Ice Cream",
+  "Notes": "Mountains 5",
+  "_images": [
+   "Disciple Y.png",
+   "Ice Cream.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 17,
+  "Broken Forge: Reach a particular monster without crafting. / Rank": "D",
+  "Broken Forge: Reach a particular monster without crafting. / Requirement": "Reach Cacto",
+  "Broken Forge: Reach a particular monster without crafting. / Notes": "Desert 2",
+  "Broken Forge: Reach a particular monster without crafting. / Rank_2": "SS",
+  "Broken Forge: Reach a particular monster without crafting. / Requirement_2": "Sickle",
+  "Notes": "Mountains 15",
+  "_images": [
+   "Cacto.png",
+   "Sickle.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 17,
+  "Broken Forge: Reach a particular monster without crafting. / Rank": "C",
+  "Broken Forge: Reach a particular monster without crafting. / Requirement": "Reach Nutto",
+  "Broken Forge: Reach a particular monster without crafting. / Notes": "Desert 10",
+  "Broken Forge: Reach a particular monster without crafting. / Rank_2": "SSS",
+  "Broken Forge: Reach a particular monster without crafting. / Requirement_2": "Crystalline",
+  "Notes": "Mountains 41",
+  "_images": [
+   "Mutto.png",
+   "Crystalline.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 17,
+  "Broken Forge: Reach a particular monster without crafting. / Rank": "B",
+  "Broken Forge: Reach a particular monster without crafting. / Requirement": "Reach Mimic",
+  "Broken Forge: Reach a particular monster without crafting. / Notes": "Desert 20",
+  "Broken Forge: Reach a particular monster without crafting. / Rank_2": "SSSS",
+  "Broken Forge: Reach a particular monster without crafting. / Requirement_2": "Mist Mites",
+  "Notes": "Mist 10",
+  "_images": [
+   "Mimic.png",
+   "Mist Mites.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 17,
+  "Broken Forge: Reach a particular monster without crafting. / Rank": "A",
+  "Broken Forge: Reach a particular monster without crafting. / Requirement": "Reach Unacceptable",
+  "Broken Forge: Reach a particular monster without crafting. / Notes": "Desert 26",
+  "Broken Forge: Reach a particular monster without crafting. / Rank_2": "SSSS+",
+  "Broken Forge: Reach a particular monster without crafting. / Requirement_2": "Agent",
+  "Notes": "Dungeon 1",
+  "_images": [
+   "Unacceptable.png",
+   "Agent.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 18,
+  "Card Collector: Upgrade your cards to reach a specified total card level. / Rank": "F",
+  "Card Collector: Upgrade your cards to reach a specified total card level. / Requirement": "50 Total Level",
+  "Card Collector: Upgrade your cards to reach a specified total card level. / Rank_2": "S",
+  "Requirement": "250 Total Level"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 18,
+  "Card Collector: Upgrade your cards to reach a specified total card level. / Rank": "D",
+  "Card Collector: Upgrade your cards to reach a specified total card level. / Requirement": "90 Total Level",
+  "Card Collector: Upgrade your cards to reach a specified total card level. / Rank_2": "SS",
+  "Requirement": "290 Total Level"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 18,
+  "Card Collector: Upgrade your cards to reach a specified total card level. / Rank": "C",
+  "Card Collector: Upgrade your cards to reach a specified total card level. / Requirement": "130 Total Level",
+  "Card Collector: Upgrade your cards to reach a specified total card level. / Rank_2": "SSS",
+  "Requirement": "330 Total Level"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 18,
+  "Card Collector: Upgrade your cards to reach a specified total card level. / Rank": "B",
+  "Card Collector: Upgrade your cards to reach a specified total card level. / Requirement": "170 Total Level",
+  "Card Collector: Upgrade your cards to reach a specified total card level. / Rank_2": "SSSS",
+  "Requirement": "370 Total Level"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 18,
+  "Card Collector: Upgrade your cards to reach a specified total card level. / Rank": "A",
+  "Card Collector: Upgrade your cards to reach a specified total card level. / Requirement": "210 Total Level",
+  "Card Collector: Upgrade your cards to reach a specified total card level. / Rank_2": "SSSS+",
+  "Requirement": "410 Total Level"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 19,
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Rank": "F",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Requirement": "Catch Jellyfish",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Notes": "Lv. 6 Fishing",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Rank_2": "S",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Requirement_2": "Catch Giant Sea Serpent",
+  "Notes": "Lv. 45 Fishing",
+  "_images": [
+   "Jellyfish.png",
+   "Giant sea serpent.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 19,
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Rank": "D",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Requirement": "Catch Angler Fish",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Notes": "Lv. 1 Fishing",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Rank_2": "SS",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Requirement_2": "Catch Snail Fish",
+  "Notes": "Lv. 48 Fishing",
+  "_images": [
+   "Angler fish.png",
+   "Snail fish.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 19,
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Rank": "C",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Requirement": "Catch Bonefish",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Notes": "Lv. 16 Fishing",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Rank_2": "SSS",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Requirement_2": "Catch Dollar Fish",
+  "Notes": "Lv. 60 Fishing",
+  "_images": [
+   "Bonefish.png",
+   "Dollar fish.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 19,
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Rank": "B",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Requirement": "Catch Manta Ray",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Notes": "Lv. 15 Fishing",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Rank_2": "SSSS",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Requirement_2": "Catch Yellow Gulper",
+  "Notes": "Lv. 64 Fishing",
+  "_images": [
+   "Manta ray.png",
+   "Yellow gulper.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 19,
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Rank": "A",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Requirement": "Catch Ice Cube Fish",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Notes": "Lv. 36 Fishing",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Rank_2": "SSSS+",
+  "Fastest Rod in the West: Catch a particular fish within 5 minutes of Ascending (must be caught on screen). / Requirement_2": "Catch Jumbo Shrimp",
+  "Notes": "Lv. 75 Fishing",
+  "_images": [
+   "Ice cube fish.png",
+   "Jumbo shrimp.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 20,
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Rank": "F",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Requirement": "Miner 1: Gold",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Notes": "Lv. 10 Mining",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Rank_2": "S",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Requirement_2": "Miner 3: Refractium",
+  "Notes": "Lv. 49 Mining",
+  "_images": [
+   "Gold.png",
+   "Refractium.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 20,
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Rank": "D",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Requirement": "Miner 1: Platinum",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Notes": "Lv. 15 Mining",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Rank_2": "SS",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Requirement_2": "Miner 4: Dubloonium",
+  "Notes": "Lv. 56 Mining",
+  "_images": [
+   "Platinum.png",
+   "Dubloonium.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 20,
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Rank": "C",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Requirement": "Miner 2: Cobalt",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Notes": "Lv. 22 Mining",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Rank_2": "SSS",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Requirement_2": "Miner 4: Plument",
+  "Notes": "Lv. 66 Mining",
+  "_images": [
+   "Cobalt.png",
+   "Plument.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 20,
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Rank": "B",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Requirement": "Miner 2 Effluvium",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Notes": "Lv. 32 Mining",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Rank_2": "SSSS",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Requirement_2": "Miner 5: Demonite",
+  "Notes": "Lv. 78 Mining",
+  "_images": [
+   "Effluvium.png",
+   "Demonite.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Insane Contracts",
+  "_table": 20,
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Rank": "A",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Requirement": "Miner 3: Antimatter",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Notes": "Lv. 39 Mining",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Rank_2": "SSSS+",
+  "Speed Mining: Using a specified miner, mine a particular ore within 5 minutes of Ascending. / Requirement_2": "Miner 6: Godshard",
+  "Notes": "Lv. 85 Mining",
+  "_images": [
+   "Antimatter.png",
+   "Godshard.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 21,
+  "Deprived Raiding: Defeat a particular boss without leveling a particular skill. / Rank": "F",
+  "Deprived Raiding: Defeat a particular boss without leveling a particular skill. / Requirement": "Kill Daydream King without Mining",
+  "Deprived Raiding: Defeat a particular boss without leveling a particular skill. / Rank_2": "S",
+  "Requirement": "Kill Nightmare Entertainer without Training Endurance",
+  "_images": [
+   "C king x.png",
+   "Mining icon.png",
+   "C entertainer z.png",
+   "Small_fields icon.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 21,
+  "Deprived Raiding: Defeat a particular boss without leveling a particular skill. / Rank": "D",
+  "Deprived Raiding: Defeat a particular boss without leveling a particular skill. / Requirement": "Kill Chaotic King without Fishing",
+  "Deprived Raiding: Defeat a particular boss without leveling a particular skill. / Rank_2": "SS",
+  "Requirement": "Kill Chaotic Sentinel without Smithing",
+  "_images": [
+   "C king y.png",
+   "Fishing icon.png",
+   "C sentinel y.png",
+   "Smithing icon.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 21,
+  "Deprived Raiding: Defeat a particular boss without leveling a particular skill. / Rank": "C",
+  "Deprived Raiding: Defeat a particular boss without leveling a particular skill. / Requirement": "Kill Daydream Entertainer without Summoning",
+  "Deprived Raiding: Defeat a particular boss without leveling a particular skill. / Rank_2": "SSS",
+  "Requirement": "Kill Chaotic Demon without Training Strength",
+  "_images": [
+   "C entertainer x.png",
+   "Summoning icon.png",
+   "C demon y.png",
+   "Small_strength icon.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 21,
+  "Deprived Raiding: Defeat a particular boss without leveling a particular skill. / Rank": "B",
+  "Deprived Raiding: Defeat a particular boss without leveling a particular skill. / Requirement": "Kill Chaotic Entertainer without Training Attack",
+  "Deprived Raiding: Defeat a particular boss without leveling a particular skill. / Rank_2": "SSSS",
+  "Requirement": "Kill Nightmare Sentinel without Training Endurance",
+  "_images": [
+   "C entertainer y.png",
+   "Small_dojo icon.png",
+   "C sentinel z.png",
+   "Small_fields icon.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 21,
+  "Deprived Raiding: Defeat a particular boss without leveling a particular skill. / Rank": "A",
+  "Deprived Raiding: Defeat a particular boss without leveling a particular skill. / Requirement": "Kill Daydream Sentinel without Training Strength",
+  "Deprived Raiding: Defeat a particular boss without leveling a particular skill. / Rank_2": "SSSS+",
+  "Requirement": "Kill Nightmare Demon without Smithing",
+  "_images": [
+   "C sentinel x.png",
+   "Small_strength icon.png",
+   "C demon z.png",
+   "Smithing icon.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 22,
+  "Unskilled Kills: Reach a particular monster without using any perks. / Rank": "F",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Requirement": "Reach Nutto",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Notes": "Desert 10",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Rank_2": "S",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Requirement_3": "Reach Elder Goat 1",
+  "Notes": "Mountains 37",
+  "_images": [
+   "Mutto.png",
+   "Elder Goat.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 22,
+  "Unskilled Kills: Reach a particular monster without using any perks. / Rank": "D",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Requirement": "Reach Mimic",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Notes": "Desert 20",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Rank_2": "SS",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Requirement_3": "Reach Edgy Rock 1",
+  "Notes": "Mist 19",
+  "_images": [
+   "Mimic.png",
+   "Edgy Rock.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 22,
+  "Unskilled Kills: Reach a particular monster without using any perks. / Rank": "C",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Requirement": "Reach Sand Rattler",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Notes": "Desert 23",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Rank_2": "SSS",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Requirement_3": "Reach Squode 1",
+  "Notes": "Mist 40",
+  "_images": [
+   "Sand Rattler.png",
+   "Squode.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 22,
+  "Unskilled Kills: Reach a particular monster without using any perks. / Rank": "B",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Requirement": "Reach Flakey 1",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Notes": "Mountains 1",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Rank_2": "SSSS",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Requirement_3": "Reach Agent 1",
+  "Notes": "Dungeon 1",
+  "_images": [
+   "Flakey.png",
+   "Agent.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 22,
+  "Unskilled Kills: Reach a particular monster without using any perks. / Rank": "A",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Requirement": "Reach Yeti 1",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Notes": "Mountains 17",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Rank_2": "SSSS+",
+  "Unskilled Kills: Reach a particular monster without using any perks. / Requirement_3": "Reach Chalice 1",
+  "Notes": "Dungeon 19",
+  "_images": [
+   "Yeti.png",
+   "Chalice.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 23,
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Rank": "F",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Requirement": "Reach Rogue Rock",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Notes": "Grasslands 4",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Rank_2": "S",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Requirement_3": "Reach Potted Sand",
+  "Notes": "Desert 1",
+  "_images": [
+   "Rogue Rock.png",
+   "Potted Sand.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 23,
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Rank": "D",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Requirement": "Reach Flowey",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Notes": "Grasslands 7",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Rank_2": "SS",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Requirement_3": "Reach Dung Ball",
+  "Notes": "Desert 4",
+  "_images": [
+   "Flowey.png",
+   "Dung Ball.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 23,
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Rank": "C",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Requirement": "Reach Monkey",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Notes": "Grasslands 10",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Rank_2": "SSS",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Requirement_3": "Reach Quicksand",
+  "Notes": "Desert 7",
+  "_images": [
+   "Monkey.png",
+   "Quicksand.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 23,
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Rank": "B",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Requirement": "Reach Bored Bean",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Notes": "Grasslands 12",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Rank_2": "SSSS",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Requirement_3": "Reach Nutto",
+  "Notes": "Desert 10",
+  "_images": [
+   "Bored Bean.png",
+   "Mutto.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 23,
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Rank": "A",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Requirement": "Reach Keymaster Y",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Notes": "Grasslands 15",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Rank_2": "SSSS+",
+  "Monster Blitz: Reach a particular monster within 5 minutes of Ascending. / Requirement_3": "Reach Bandit Bob",
+  "Notes": "Desert 13",
+  "_images": [
+   "Keymaster Y.png",
+   "Bandit Bob.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 24,
+  "Raid Rush: Defeat a particular boss within 5 minutes of Ascending. / Rank": "F",
+  "Raid Rush: Defeat a particular boss within 5 minutes of Ascending. / Requirement": "Kill Daydream King",
+  "Raid Rush: Defeat a particular boss within 5 minutes of Ascending. / Rank_2": "S",
+  "Requirement": "Kill Nightmare Entertainer",
+  "_images": [
+   "C king x.png",
+   "C entertainer z.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 24,
+  "Raid Rush: Defeat a particular boss within 5 minutes of Ascending. / Rank": "D",
+  "Raid Rush: Defeat a particular boss within 5 minutes of Ascending. / Requirement": "Kill Chaotic King",
+  "Raid Rush: Defeat a particular boss within 5 minutes of Ascending. / Rank_2": "SS",
+  "Requirement": "Kill Chaotic Sentinel",
+  "_images": [
+   "C king y.png",
+   "C sentinel y.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 24,
+  "Raid Rush: Defeat a particular boss within 5 minutes of Ascending. / Rank": "C",
+  "Raid Rush: Defeat a particular boss within 5 minutes of Ascending. / Requirement": "Kill Daydream Entertainer",
+  "Raid Rush: Defeat a particular boss within 5 minutes of Ascending. / Rank_2": "SSS",
+  "Requirement": "Kill Chaotic Demon",
+  "_images": [
+   "C entertainer x.png",
+   "C demon y.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 24,
+  "Raid Rush: Defeat a particular boss within 5 minutes of Ascending. / Rank": "B",
+  "Raid Rush: Defeat a particular boss within 5 minutes of Ascending. / Requirement": "Kill Chaotic Entertainer",
+  "Raid Rush: Defeat a particular boss within 5 minutes of Ascending. / Rank_2": "SSSS",
+  "Requirement": "Kill Nightmare Sentinel",
+  "_images": [
+   "C entertainer y.png",
+   "C sentinel z.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Regal Contracts",
+  "_table": 24,
+  "Raid Rush: Defeat a particular boss within 5 minutes of Ascending. / Rank": "A",
+  "Raid Rush: Defeat a particular boss within 5 minutes of Ascending. / Requirement": "Kill Daydream Sentinel",
+  "Raid Rush: Defeat a particular boss within 5 minutes of Ascending. / Rank_2": "SSSS+",
+  "Requirement": "Kill Nightmare Demon",
+  "_images": [
+   "C sentinel x.png",
+   "C demon z.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 25,
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Rank": "F",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Requirement": "Kill 500K Clackity",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Notes": "Purgatory 4-6",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Rank_2": "S",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Requirement_3": "Kill 86M Wee Wee",
+  "Notes": "Lunar Isle 49-51",
+  "_images": [
+   "Clackity.png",
+   "Wee Wee.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 25,
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Rank": "D",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Requirement": "Kill 1.4M Chaotic Bob",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Notes": "Purgatory 25-27",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Rank_2": "SS",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Requirement_3": "Kill 241M Emmental",
+  "Notes": "Maelstrom 10-12",
+  "_images": [
+   "Chaotic bob.png",
+   "enemy-204.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 25,
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Rank": "C",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Requirement": "Kill 3.9M Halluccino",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Notes": "The Bog 13-15",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Rank_2": "SSS",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Requirement_3": "Kill 675M Sparky Bob",
+  "Notes": "Maelstorm 34-36",
+  "_images": [
+   "Halluccino.png",
+   "enemy-212.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 25,
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Rank": "B",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Requirement": "Kill 10.9M Bog Monster",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Notes": "The Bog 49-51",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Rank_2": "SSSS",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Requirement_3": "Kill 1889M Trombain",
+  "Notes": "Maelstorm 55-57",
+  "_images": [
+   "Bog monster.png",
+   "enemy-219.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 25,
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Rank": "A",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Requirement": "Kill 30.7M Crateros",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Notes": "Lunar Isle 10-12",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Rank_2": "SSSS+",
+  "Banishing Behemoths: Defeat a particular post-Dungeon monster a specified amount of times in a single Ascension. / Requirement_3": "Kill 5289M Blither",
+  "Notes": "Oblivion 16 only (Blither 1). 2-5 are not counted as at v5.0, could be bugged.",
+  "_images": [
+   "Crateros.png",
+   "Oblivion Blither.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 26,
+  "Crusade Conquistador: Defeat a particular Crusades boss at a specified difficulty tier. / Rank": "F",
+  "Crusade Conquistador: Defeat a particular Crusades boss at a specified difficulty tier. / Requirement": "Beat Killer Rabbit 27",
+  "Crusade Conquistador: Defeat a particular Crusades boss at a specified difficulty tier. / Rank_2": "S",
+  "Requirement": "Beat Gheist 70",
+  "_images": [
+   "Killer rabbit.png",
+   "Gheist.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 26,
+  "Crusade Conquistador: Defeat a particular Crusades boss at a specified difficulty tier. / Rank": "D",
+  "Crusade Conquistador: Defeat a particular Crusades boss at a specified difficulty tier. / Requirement": "Beat Pincermin 37",
+  "Crusade Conquistador: Defeat a particular Crusades boss at a specified difficulty tier. / Rank_2": "SS",
+  "Requirement": "Beat Basilisk 80",
+  "_images": [
+   "Pincermin.png",
+   "Basilisk.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 26,
+  "Crusade Conquistador: Defeat a particular Crusades boss at a specified difficulty tier. / Rank": "C",
+  "Crusade Conquistador: Defeat a particular Crusades boss at a specified difficulty tier. / Requirement": "Beat Desert Wurm 47",
+  "Crusade Conquistador: Defeat a particular Crusades boss at a specified difficulty tier. / Rank_2": "SSS",
+  "Requirement": "Beat Blobulytes 95",
+  "_images": [
+   "Desert wurm.png",
+   "Blobulytes.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 26,
+  "Crusade Conquistador: Defeat a particular Crusades boss at a specified difficulty tier. / Rank": "B",
+  "Crusade Conquistador: Defeat a particular Crusades boss at a specified difficulty tier. / Requirement": "Beat Faust 57",
+  "Crusade Conquistador: Defeat a particular Crusades boss at a specified difficulty tier. / Rank_2": "SSSS",
+  "Requirement": "Beat Puppeteer 120",
+  "_images": [
+   "Faust.png",
+   "Puppeteer.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 26,
+  "Crusade Conquistador: Defeat a particular Crusades boss at a specified difficulty tier. / Rank": "A",
+  "Crusade Conquistador: Defeat a particular Crusades boss at a specified difficulty tier. / Requirement": "Beat Arachneon 66",
+  "Crusade Conquistador: Defeat a particular Crusades boss at a specified difficulty tier. / Rank_2": "SSSS+",
+  "Requirement": "Beat Narcissus 150",
+  "_images": [
+   "Arachneon.png",
+   "Narcissus.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 27,
+  "Potion Pro: Reach a total combined level for a specified potion color. / Rank": "F",
+  "Potion Pro: Reach a total combined level for a specified potion color. / Requirement": "100 Red Potion Levels",
+  "Potion Pro: Reach a total combined level for a specified potion color. / Rank_2": "S",
+  "Requirement": "550 Lime Potion Levels",
+  "_images": [
+   "Smith redux.png",
+   "Minexp.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 27,
+  "Potion Pro: Reach a total combined level for a specified potion color. / Rank": "D",
+  "Potion Pro: Reach a total combined level for a specified potion color. / Requirement": "150 Red Potion Levels",
+  "Potion Pro: Reach a total combined level for a specified potion color. / Rank_2": "SS",
+  "Requirement": "700 Cyan Potion Levels",
+  "_images": [
+   "Smith redux.png",
+   "Bigger big.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 27,
+  "Potion Pro: Reach a total combined level for a specified potion color. / Rank": "C",
+  "Potion Pro: Reach a total combined level for a specified potion color. / Requirement": "175 Orange Potion Levels",
+  "Potion Pro: Reach a total combined level for a specified potion color. / Rank_2": "SSS",
+  "Requirement": "925 Purple Potion Levels",
+  "_images": [
+   "Exotic yield.png",
+   "Converzin.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 27,
+  "Potion Pro: Reach a total combined level for a specified potion color. / Rank": "B",
+  "Potion Pro: Reach a total combined level for a specified potion color. / Requirement": "225 Orange Potion Levels",
+  "Potion Pro: Reach a total combined level for a specified potion color. / Rank_2": "SSSS",
+  "Requirement": "1100 Demon Potion Levels",
+  "_images": [
+   "Exotic yield.png",
+   "Ap powah.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 27,
+  "Potion Pro: Reach a total combined level for a specified potion color. / Rank": "A",
+  "Potion Pro: Reach a total combined level for a specified potion color. / Requirement": "325 Yellow Potion Levels",
+  "Potion Pro: Reach a total combined level for a specified potion color. / Rank_2": "SSSS+",
+  "Requirement": "1250 Godly Potion Levels (Bugged: Demon Levels)",
+  "_images": [
+   "Potion dubble.png",
+   "Unparalleled.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 28,
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Rank": "F",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Requirement": "Cactus in 20 Min.",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Notes": "Lv. 12 Botany",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Rank_2": "S",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Requirement_3": "Mushroom in 90 Min.",
+  "Notes": "Lv. 42 Botany",
+  "_images": [
+   "Cactus.png",
+   "Mushroom.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 28,
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Rank": "D",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Requirement": "Sapling in 25. Min",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Notes": "Lv. 18 Botany",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Rank_2": "SS",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Requirement_3": "Cursed Eye in 120 Min.",
+  "Notes": "Lv. 51 Botany",
+  "_images": [
+   "Sapling.png",
+   "Cursed eye.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 28,
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Rank": "C",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Requirement": "Saharan Foal in 30 Min.",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Notes": "Lv. 24 Botany",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Rank_2": "SSS",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Requirement_3": "Lemming in 60 Min.",
+  "Notes": "Lv. 57 Botany",
+  "_images": [
+   "Saharan foal.png",
+   "Lemming.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 28,
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Rank": "B",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Requirement": "Crystals in 45 Min.",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Notes": "Lv. 30 Botany",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Rank_2": "SSSS",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Requirement_3": "Ice Cream in 30 Min.",
+  "Notes": "Lv. 63 Botany",
+  "_images": [
+   "Crystals.png",
+   "Icecream.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Ungodly Contracts",
+  "_table": 28,
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Rank": "A",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Requirement": "Fyreling in 60 Min.",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Notes": "Lv. 36 Botany",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Rank_2": "SSSS+",
+  "Planting! At the Disco: Grow a particular Botany plant faster than a specified amount of time. / Requirement_3": "Sunburst in 10 Min.",
+  "Notes": "Lv. 69 Botany",
+  "_images": [
+   "Fyreling.png",
+   "Sunburst.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 29,
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Rank": "F",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Requirement": "Reach 20 Bronze Skulls",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Notes": "Bronze = 100K kills",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Rank_2": "S",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Requirement_2": "Reach 20 Diamond Skulls",
+  "Notes": "Diamond = 100M kills"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 29,
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Rank": "D",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Requirement": "Reach 80 Bronze Skulls",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Notes": "Bronze = 100K kills",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Rank_2": "SS",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Requirement_2": "Reach 500 Bronze Skulls",
+  "Notes": "Bronze = 100K kills"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 29,
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Rank": "C",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Requirement": "Reach 50 Silver Skulls",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Notes": "Silver = 1M kills",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Rank_2": "SSS",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Requirement_2": "Reach 250 Silver Skulls",
+  "Notes": "Silver = 1M kills"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 29,
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Rank": "B",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Requirement": "Reach 100 Silver Skulls",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Notes": "Silver = 1M kills",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Rank_2": "SSSS",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Requirement_2": "Reach 175 Gold Skulls",
+  "Notes": "Gold = 10M kills"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 29,
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Rank": "A",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Requirement": "Reach 60 Gold Skulls",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Notes": "Gold = 10M kills",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Rank_2": "SSSS+",
+  "Skull Duggeridoo: Reach a specified number of particular skull tiers in Fighting. / Requirement_2": "Reach 100 Diamond Skulls",
+  "Notes": "Diamond = 100M kills"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 30,
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Rank": "F",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Requirement": "Own 1K Eyepatches",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Notes": "Lv. 13 Tinkering",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Rank_2": "S",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Requirement_2": "Own 30 Parallax Armor",
+  "Notes": "Lv. 52 Tinkering",
+  "_images": [
+   "Eyepatch.png",
+   "Parallax armor.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 30,
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Rank": "D",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Requirement": "Own 5K Platelegs",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Notes": "Lv. 21 Tinkering",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Rank_2": "SS",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Requirement_2": "Own 200 Haunted Kite",
+  "Notes": "Lv. 61 Tinkering",
+  "_images": [
+   "Platelegs.png",
+   "Haunted kite.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 30,
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Rank": "C",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Requirement": "Own 4K Royal Bayonet",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Notes": "Lv. 25 Tinkering",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Rank_2": "SSS",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Requirement_2": "Own 30 Radiated Pants",
+  "Notes": "Lv. 71 Tinkering",
+  "_images": [
+   "Royal bayonet.png",
+   "Radiated pants.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 30,
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Rank": "B",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Requirement": "Own 3K Flame Dagger",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Notes": "Lv. 37 Tinkering",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Rank_2": "SSSS",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Requirement_2": "Own 150 Enraged Blood",
+  "Notes": "Lv. 82 Tinkering",
+  "_images": [
+   "Flame dagger.png",
+   "Enraged blood.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 30,
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Rank": "A",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Requirement": "Own 15K Poison Pendant",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Notes": "Lv. 45 Tinkering",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Rank_2": "SSSS+",
+  "You Call That a Knife?: Own a specified excess amount of particular Tinkering equipment. / Requirement_2": "Own 1K Divination Eye",
+  "Notes": "Lv. 90 Tinkering",
+  "_images": [
+   "Poison pendant.png",
+   "Divination eye.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 31,
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Rank": "F",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Requirement": "Get 10K Saffron",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Notes": "Lv. 15 Tilling",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Rank_2": "S",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Requirement_2": "Get 1.5M Lucentium",
+  "Notes": "Lv. 75 Tilling",
+  "_images": [
+   "Saffron.png",
+   "Lucentium.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 31,
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Rank": "D",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Requirement": "Get 25K Hyper Stalk",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Notes": "Lv. 30 Tilling",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Rank_2": "SS",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Requirement_2": "Get 3M Prismatism",
+  "Notes": "Lv. 80 Tilling",
+  "_images": [
+   "Hyper stalk.png",
+   "Prismatism.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 31,
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Rank": "C",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Requirement": "Get 100K Ancient Dew",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Notes": "Lv. 40 Tilling",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Rank_2": "SSS",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Requirement_2": "Get 6M Essence",
+  "Notes": "Lv. 85 Tilling",
+  "_images": [
+   "Ancient dew.png",
+   "Essence.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 31,
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Rank": "B",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Requirement": "Get 300K Lil Pumpkin",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Notes": "Lv. 55 Tilling",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Rank_2": "SSSS",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Requirement_2": "Get 12M Hallownil",
+  "Notes": "Lv. 90 Tilling",
+  "_images": [
+   "Lil pumpkin.png",
+   "Hallownil.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 31,
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Rank": "A",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Requirement": "Get 1M Spooktobble",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Notes": "Lv. 65 Tilling",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Rank_2": "SSSS+",
+  "They See Me Hoein'... They Hatin: Harvest a specified amount of a particular Tilling crop within 5 minutes of Rebirth. / Requirement_2": "Get 25M Sammatian",
+  "Notes": "Lv. 95 Tilling",
+  "_images": [
+   "Spooktobble.png",
+   "Sammatian.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 32,
+  "Even Photosynthesis Needs RNG: Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. / Rank": "F",
+  "Even Photosynthesis Needs RNG: Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. / Requirement": "Flowers in 13 Harvests",
+  "Even Photosynthesis Needs RNG: Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. / Rank_2": "S",
+  "Requirement": "Candypop in 95 Harvests",
+  "_images": [
+   "Flowers.png",
+   "Candypop.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 32,
+  "Even Photosynthesis Needs RNG: Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. / Rank": "D",
+  "Even Photosynthesis Needs RNG: Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. / Requirement": "Cactus in 16 Harvests",
+  "Even Photosynthesis Needs RNG: Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. / Rank_2": "SS",
+  "Requirement": "Blood Tree in 150 Harvests",
+  "_images": [
+   "Cactus.png",
+   "Blood tree.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 32,
+  "Even Photosynthesis Needs RNG: Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. / Rank": "C",
+  "Even Photosynthesis Needs RNG: Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. / Requirement": "Sapling in 28 Harvests",
+  "Even Photosynthesis Needs RNG: Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. / Rank_2": "SSS",
+  "Requirement": "Demonia in 250 Harvests",
+  "_images": [
+   "Sapling.png",
+   "Demonia.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 32,
+  "Even Photosynthesis Needs RNG: Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. / Rank": "B",
+  "Even Photosynthesis Needs RNG: Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. / Requirement": "Saharan Foal in 40 Harvests",
+  "Even Photosynthesis Needs RNG: Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. / Rank_2": "SSSS",
+  "Requirement": "Veninsulic in 375 Harvests",
+  "_images": [
+   "Saharan foal.png",
+   "Veninsulic.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Cerebral Contracts",
+  "_table": 32,
+  "Even Photosynthesis Needs RNG: Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. / Rank": "A",
+  "Even Photosynthesis Needs RNG: Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. / Requirement": "Mint Cane in 65 Harvests",
+  "Even Photosynthesis Needs RNG: Get a particular new Botany seed within a specified amount of harvests in a single Rebirth. / Rank_2": "SSSS+",
+  "Requirement": "Chlorine in 200 Harvests",
+  "_images": [
+   "Mint cane.png",
+   "Chlorine.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 33,
+  "Ding Dong Ditcher: Defeat a specific nightmare asylum boss in 3 minutes after Rebirth. / Rank": "F",
+  "Ding Dong Ditcher: Defeat a specific nightmare asylum boss in 3 minutes after Rebirth. / Requirement": "Emigdala Bell 1",
+  "Ding Dong Ditcher: Defeat a specific nightmare asylum boss in 3 minutes after Rebirth. / Rank_2": "S",
+  "Requirement": "Scallius Bell 6",
+  "_images": [
+   "Asylum Emigdala.png",
+   "Asylum Scallius.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 33,
+  "Ding Dong Ditcher: Defeat a specific nightmare asylum boss in 3 minutes after Rebirth. / Rank": "D",
+  "Ding Dong Ditcher: Defeat a specific nightmare asylum boss in 3 minutes after Rebirth. / Requirement": "Scallius Bell 2",
+  "Ding Dong Ditcher: Defeat a specific nightmare asylum boss in 3 minutes after Rebirth. / Rank_2": "SS",
+  "Requirement": "Emigdala Bell 7",
+  "_images": [
+   "Asylum Scallius.png",
+   "Asylum Emigdala.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 33,
+  "Ding Dong Ditcher: Defeat a specific nightmare asylum boss in 3 minutes after Rebirth. / Rank": "C",
+  "Ding Dong Ditcher: Defeat a specific nightmare asylum boss in 3 minutes after Rebirth. / Requirement": "Occulon Bell 3",
+  "Ding Dong Ditcher: Defeat a specific nightmare asylum boss in 3 minutes after Rebirth. / Rank_2": "SSS",
+  "Requirement": "Occulon Bell 8",
+  "_images": [
+   "Asylum Occulon.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 33,
+  "Ding Dong Ditcher: Defeat a specific nightmare asylum boss in 3 minutes after Rebirth. / Rank": "B",
+  "Ding Dong Ditcher: Defeat a specific nightmare asylum boss in 3 minutes after Rebirth. / Requirement": "Emigdala Bell 4",
+  "Ding Dong Ditcher: Defeat a specific nightmare asylum boss in 3 minutes after Rebirth. / Rank_2": "SSSS",
+  "Requirement": "Scallius Bell 9",
+  "_images": [
+   "Asylum Emigdala.png",
+   "Asylum Scallius.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 33,
+  "Ding Dong Ditcher: Defeat a specific nightmare asylum boss in 3 minutes after Rebirth. / Rank": "A",
+  "Ding Dong Ditcher: Defeat a specific nightmare asylum boss in 3 minutes after Rebirth. / Requirement": "Gorshank Bell 5",
+  "Ding Dong Ditcher: Defeat a specific nightmare asylum boss in 3 minutes after Rebirth. / Rank_2": "SSSS+",
+  "Requirement": "Gorshank Bell 11",
+  "_images": [
+   "Asylum GorshankPhase1.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 34,
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Rank": "F",
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Requirement": "Reach Shrim Imp",
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Notes": "Purgatory 10",
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Rank_2": "S",
+  "Requirement": "Reach Nevrblink",
+  "Notes": "Lunar Isle 46",
+  "_images": [
+   "Shrim imp.png",
+   "Nevrblink.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 34,
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Rank": "D",
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Requirement": "Reach Confused Leg",
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Notes": "Purgatory 34",
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Rank_2": "SS",
+  "Requirement": "Reach Cheezers",
+  "Notes": "Maelstrom 16",
+  "_images": [
+   "Confused leg.png",
+   "enemy-206.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 34,
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Rank": "C",
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Requirement": "Reach Mushketeer",
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Notes": "The Bog 13",
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Rank_2": "SSS",
+  "Requirement": "Reach Bean Baby",
+  "Notes": "Oblivion 1",
+  "_images": [
+   "Mushketeer.png",
+   "Oblivion BeanBaby.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 34,
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Rank": "B",
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Requirement": "Reach Biggie",
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Notes": "The Bog 52",
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Rank_2": "SSSS",
+  "Requirement": "Reach JK LOL",
+  "Notes": "Oblivion 36",
+  "_images": [
+   "Biggie.png",
+   "Oblivion JkLol.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 34,
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Rank": "A",
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Requirement": "Reach Lunardyl",
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Notes": "Lunar Isle 25",
+  "Ice Cream Curse: Reach a specific enemy while having the Cursed Ice Cream. (after finishing ice cream challenges, you get a gold ice cream that doesn't reduce damage and can be used to complete this contract easily) / Rank_2": "SSSS+",
+  "Requirement": "Reach Incarnate",
+  "Notes": "Oblivion 110",
+  "_images": [
+   "Lunardyl.png",
+   "Oblivion Incarnate.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 35,
+  "Perk Pusher: Save up a specified number of a particular perk points at once. / Rank": "F",
+  "Perk Pusher: Save up a specified number of a particular perk points at once. / Requirement": "Save up 10000 Perk Points",
+  "Perk Pusher: Save up a specified number of a particular perk points at once. / Rank_2": "S",
+  "Requirement": "Save up 194264 Perk Points"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 35,
+  "Perk Pusher: Save up a specified number of a particular perk points at once. / Rank": "D",
+  "Perk Pusher: Save up a specified number of a particular perk points at once. / Requirement": "Save up 18100 Perk Points",
+  "Perk Pusher: Save up a specified number of a particular perk points at once. / Rank_2": "SS",
+  "Requirement": "Save up 351618 Perk Points"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 35,
+  "Perk Pusher: Save up a specified number of a particular perk points at once. / Rank": "C",
+  "Perk Pusher: Save up a specified number of a particular perk points at once. / Requirement": "Save up 32761 Perk Points",
+  "Perk Pusher: Save up a specified number of a particular perk points at once. / Rank_2": "SSS",
+  "Requirement": "Save up 636429 Perk Points"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 35,
+  "Perk Pusher: Save up a specified number of a particular perk points at once. / Rank": "B",
+  "Perk Pusher: Save up a specified number of a particular perk points at once. / Requirement": "Save up 59297 Perk Points",
+  "Perk Pusher: Save up a specified number of a particular perk points at once. / Rank_2": "SSSS",
+  "Requirement": "Save up 1151937 Perk Points"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 35,
+  "Perk Pusher: Save up a specified number of a particular perk points at once. / Rank": "A",
+  "Perk Pusher: Save up a specified number of a particular perk points at once. / Requirement": "Save up 107328 Perk Points",
+  "Perk Pusher: Save up a specified number of a particular perk points at once. / Rank_2": "SSSS+",
+  "Requirement": "Save up 2085005 Perk Points"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 36,
+  "Solar Flare: Achive Solar Damage of n stars. / Rank": "F",
+  "Solar Flare: Achive Solar Damage of n stars. / Requirement": "Achieve Solar Damage 1",
+  "Solar Flare: Achive Solar Damage of n stars. / Rank_2": "S",
+  "Requirement": "Achieve Solar Damage of 5 Stars"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 36,
+  "Solar Flare: Achive Solar Damage of n stars. / Rank": "D",
+  "Solar Flare: Achive Solar Damage of n stars. / Requirement": "Achieve Solar Damage of 1 Stars",
+  "Solar Flare: Achive Solar Damage of n stars. / Rank_2": "SS",
+  "Requirement": "Achieve Solar Damage of 6 Stars"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 36,
+  "Solar Flare: Achive Solar Damage of n stars. / Rank": "C",
+  "Solar Flare: Achive Solar Damage of n stars. / Requirement": "Achieve Solar Damage of 2 Stars",
+  "Solar Flare: Achive Solar Damage of n stars. / Rank_2": "SSS",
+  "Requirement": "Achieve Solar Damage of 7 Stars"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 36,
+  "Solar Flare: Achive Solar Damage of n stars. / Rank": "B",
+  "Solar Flare: Achive Solar Damage of n stars. / Requirement": "Achieve Solar Damage of 3 Stars",
+  "Solar Flare: Achive Solar Damage of n stars. / Rank_2": "SSSS",
+  "Requirement": "Achieve Solar Damage of 8 Stars"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Lavathian Contracts",
+  "_table": 36,
+  "Solar Flare: Achive Solar Damage of n stars. / Rank": "A",
+  "Solar Flare: Achive Solar Damage of n stars. / Requirement": "Achieve Solar Damage of 4 Stars",
+  "Solar Flare: Achive Solar Damage of n stars. / Rank_2": "SSSS+",
+  "Requirement": "Achieve Solar Damage of 9 Stars"
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Merit Shop",
+  "_table": 37,
+  "Tier_2": "Shop 1",
+  "Unlocks At": "Level 1",
+  "_images": [
+   "Shop_1_contract.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Merit Shop",
+  "_table": 37,
+  "Tier_2": "Shop 2",
+  "Unlocks At": "Level 20",
+  "_images": [
+   "Shop_2_contract.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Merit Shop",
+  "_table": 37,
+  "Tier_2": "Shop 3",
+  "Unlocks At": "Level 40",
+  "_images": [
+   "Shop_3_contract.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Merit Shop",
+  "_table": 37,
+  "Tier_2": "Shop 4",
+  "Unlocks At": "Level 100",
+  "_images": [
+   "Shop_4_contract.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Merit Shop",
+  "_table": 37,
+  "Tier_2": "Shop 5",
+  "Unlocks At": "Level 150?",
+  "_images": [
+   "Shop_5_contract.png"
+  ]
+ },
+ {
+  "1": "x8",
+  "2": "x13",
+  "3": "x18",
+  "4": "x4",
+  "5": "-",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Contracts",
+  "_section": "Shop 1",
+  "_table": 38,
+  "Bonus Item per Purchase": "Green Key",
+  "_images": [
+   "Badge1.png",
+   "Badge5.png"
+  ]
+ },
+ {
+  "1": "x6",
+  "2": "x15",
+  "3": "-",
+  "4": "-",
+  "5": "-",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Contracts",
+  "_section": "Shop 1",
+  "_table": 38,
+  "Bonus Item per Purchase": "Auto Progression",
+  "_images": [
+   "Badge1.png"
+  ]
+ },
+ {
+  "1": "x3",
+  "2": "x3",
+  "3": "x3",
+  "4": "x3",
+  "5": "x3",
+  "6": "x3",
+  "7": "x3",
+  "8": "x3",
+  "9": "x3",
+  "10": "x3",
+  "_page": "Contracts",
+  "_section": "Shop 1",
+  "_table": 38,
+  "Bonus Item per Purchase": "+10% (1st bonus) then +5% Raid Ticket Drop Chance",
+  "_images": [
+   "Badge1.png",
+   "Badge2.png"
+  ]
+ },
+ {
+  "1": "x3",
+  "2": "x3",
+  "3": "x3",
+  "4": "x3",
+  "5": "x3",
+  "6": "x3",
+  "7": "x3",
+  "8": "x3",
+  "9": "x3",
+  "10": "x3",
+  "_page": "Contracts",
+  "_section": "Shop 1",
+  "_table": 38,
+  "Bonus Item per Purchase": "+10% Cultist & Acolyte Efficiency",
+  "_images": [
+   "Badge1.png",
+   "Badge2.png"
+  ]
+ },
+ {
+  "1": "x10",
+  "2": "x10",
+  "3": "x15",
+  "4": "x6",
+  "5": "-",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Contracts",
+  "_section": "Shop 2",
+  "_table": 39,
+  "Bonus Item per Purchase": "Orange Key",
+  "_images": [
+   "Badge2.png",
+   "Badge3.png",
+   "Badge5.png"
+  ]
+ },
+ {
+  "1": "x10",
+  "2": "x15",
+  "3": "-",
+  "4": "-",
+  "5": "-",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Contracts",
+  "_section": "Shop 2",
+  "_table": 39,
+  "Bonus Item per Purchase": "Auto Progression",
+  "_images": [
+   "Badge2.png",
+   "Badge3.png"
+  ]
+ },
+ {
+  "1": "x3",
+  "2": "x3",
+  "3": "x3",
+  "4": "x3",
+  "5": "x3",
+  "6": "x4",
+  "7": "x4",
+  "8": "x4",
+  "9": "x4",
+  "10": "x4",
+  "_page": "Contracts",
+  "_section": "Shop 2",
+  "_table": 39,
+  "Bonus Item per Purchase": "+2% Raid Gem Drop Chance",
+  "_images": [
+   "Badge2.png",
+   "Badge3.png"
+  ]
+ },
+ {
+  "1": "x2",
+  "2": "x2",
+  "3": "x2",
+  "4": "x2",
+  "5": "x2",
+  "6": "x3",
+  "7": "x3",
+  "8": "x3",
+  "9": "x3",
+  "10": "x3",
+  "_page": "Contracts",
+  "_section": "Shop 2",
+  "_table": 39,
+  "Bonus Item per Purchase": "+1 to All Starting Skill Levels",
+  "_images": [
+   "Badge2.png",
+   "Badge3.png"
+  ]
+ },
+ {
+  "1": "x8",
+  "2": "x10",
+  "3": "x12",
+  "4": "x8",
+  "5": "-",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Contracts",
+  "_section": "Shop 3",
+  "_table": 40,
+  "Bonus Item per Purchase": "Pink Key",
+  "_images": [
+   "Badge4.png",
+   "Badge5.png"
+  ]
+ },
+ {
+  "1": "x8",
+  "2": "x10",
+  "3": "x12",
+  "4": "x10",
+  "5": "-",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Contracts",
+  "_section": "Shop 3",
+  "_table": 40,
+  "Bonus Item per Purchase": "White Key",
+  "_images": [
+   "Badge4.png",
+   "Badge5.png"
+  ]
+ },
+ {
+  "1": "x2",
+  "2": "x2",
+  "3": "x2",
+  "4": "x2",
+  "5": "x2",
+  "6": "x3",
+  "7": "x3",
+  "8": "x3",
+  "9": "x3",
+  "10": "x3",
+  "_page": "Contracts",
+  "_section": "Shop 3",
+  "_table": 40,
+  "Bonus Item per Purchase": "+2 Idle Crusaders, +3 Idle Crusaders (Level 6+)",
+  "_images": [
+   "Badge4.png",
+   "Badge5.png"
+  ]
+ },
+ {
+  "1": "x4",
+  "2": "x4",
+  "3": "x4",
+  "4": "x4",
+  "5": "x4",
+  "6": "x4",
+  "7": "x3",
+  "8": "x3",
+  "9": "x3",
+  "10": "x3",
+  "_page": "Contracts",
+  "_section": "Shop 3",
+  "_table": 40,
+  "Bonus Item per Purchase": "+10% Crops Harvested",
+  "_images": [
+   "Badge4.png",
+   "Badge5.png"
+  ]
+ },
+ {
+  "1": "x2",
+  "2": "x4",
+  "3": "x6",
+  "4": "x8",
+  "5": "-",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Contracts",
+  "_section": "Shop 4",
+  "_table": 41,
+  "Bonus Item per Purchase": "Cyan Key",
+  "_images": [
+   "Badge6.png"
+  ]
+ },
+ {
+  "1": "x1",
+  "2": "x1",
+  "3": "x1",
+  "4": "x1",
+  "5": "x1",
+  "6": "x2",
+  "7": "x2",
+  "8": "x2",
+  "9": "x2",
+  "10": "x2",
+  "_page": "Contracts",
+  "_section": "Shop 4",
+  "_table": 41,
+  "Bonus Item per Purchase": "+3% BP on Rebirth",
+  "_images": [
+   "Badge6.png"
+  ]
+ },
+ {
+  "1": "x3",
+  "2": "x3",
+  "3": "x3",
+  "4": "x3",
+  "5": "x3",
+  "6": "x1",
+  "7": "x1",
+  "8": "x1",
+  "9": "x1",
+  "10": "x1",
+  "_page": "Contracts",
+  "_section": "Shop 4",
+  "_table": 41,
+  "Bonus Item per Purchase": "+20% Crusades EXP, +25 Tinkering EXP",
+  "_images": [
+   "Badge4.png",
+   "Badge6.png"
+  ]
+ },
+ {
+  "1": "x2",
+  "2": "x2",
+  "3": "x2",
+  "4": "x2",
+  "5": "x2",
+  "6": "x2",
+  "7": "x2",
+  "8": "x2",
+  "9": "x2",
+  "10": "x2",
+  "_page": "Contracts",
+  "_section": "Shop 4",
+  "_table": 41,
+  "Bonus Item per Purchase": "+5% Chance to Get Next Botany Flower per Overgrowth",
+  "_images": [
+   "Badge5.png",
+   "Badge6.png"
+  ]
+ },
+ {
+  "1": "x3",
+  "2": "x4",
+  "3": "x5",
+  "4": "x6",
+  "5": "x7",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Contracts",
+  "_section": "Shop 5",
+  "_table": 42,
+  "Bonus Item per Purchase": "Auto Progression",
+  "_images": [
+   "Badge6.png"
+  ]
+ },
+ {
+  "1": "x1",
+  "2": "x1",
+  "3": "x1",
+  "4": "x1",
+  "5": "x1",
+  "6": "x2",
+  "7": "x2",
+  "8": "x2",
+  "9": "x2",
+  "10": "x2",
+  "_page": "Contracts",
+  "_section": "Shop 5",
+  "_table": 42,
+  "Bonus Item per Purchase": "5% Double Asylum Keys",
+  "_images": [
+   "Badge6.png"
+  ]
+ },
+ {
+  "1": "x1",
+  "2": "x1",
+  "3": "x1",
+  "4": "x1",
+  "5": "x1",
+  "6": "x2",
+  "7": "x2",
+  "8": "x2",
+  "9": "x2",
+  "10": "x2",
+  "_page": "Contracts",
+  "_section": "Shop 5",
+  "_table": 42,
+  "Bonus Item per Purchase": "5% More Vessels Gained",
+  "_images": [
+   "Badge6.png"
+  ]
+ },
+ {
+  "1": "x1",
+  "2": "x1",
+  "3": "x1",
+  "4": "x1",
+  "5": "x1",
+  "6": "x2",
+  "7": "x2",
+  "8": "x2",
+  "9": "x2",
+  "10": "x2",
+  "_page": "Contracts",
+  "_section": "Shop 5",
+  "_table": 42,
+  "Bonus Item per Purchase": "10% More Pet Capsule Exp Gain",
+  "_images": [
+   "Badge6.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Total badges",
+  "_caption": "Leftover Merits",
+  "_table": 43,
+  "Obtained": 90,
+  "Used": 90,
+  "Leftover": 0,
+  "_images": [
+   "Badge1.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Total badges",
+  "_caption": "Leftover Merits",
+  "_table": 43,
+  "Obtained": 75,
+  "Used": 75,
+  "Leftover": 0,
+  "_images": [
+   "Badge2.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Total badges",
+  "_caption": "Leftover Merits",
+  "_table": 43,
+  "Obtained": 75,
+  "Used": 75,
+  "Leftover": 0,
+  "_images": [
+   "Badge3.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Total badges",
+  "_caption": "Leftover Merits",
+  "_table": 43,
+  "Obtained": 75,
+  "Used": 75,
+  "Leftover": 0,
+  "_images": [
+   "Badge4.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Total badges",
+  "_caption": "Leftover Merits",
+  "_table": 43,
+  "Obtained": 120,
+  "Used": 99,
+  "Leftover": 21,
+  "_images": [
+   "Badge5.png"
+  ]
+ },
+ {
+  "_page": "Contracts",
+  "_section": "Total badges",
+  "_caption": "Leftover Merits",
+  "_table": 43,
+  "Obtained": "129 (Including Mastery 24)",
+  "Used": 120,
+  "Leftover": 9,
+  "_images": [
+   "Badge6.png"
+  ]
+ }
+]

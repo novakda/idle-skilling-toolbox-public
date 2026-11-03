@@ -1,0 +1,222 @@
+<table-progress-tracking table-id="1" unique-column-index="2">
+{| class="listing sortable" style="width: 100%;" border="0" align="center"
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |Zone
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+|-
+|[[File:C_potted_sand.png|36px]]
+|Desert-1
+|Potted Sand
+|Spirit EXP Chance
+|3%
+|60%
+|-
+|[[File:C_cacto.png|36px]]
+|Desert-2
+|Cacto
+|Crit Chance
+|0.5%
+|10%
+|-
+|[[File:C_potted_pot.png|36px]]
+|Desert-3
+|Potted Pot
+|Summon EXP Chance
+|3%
+|60%
+|-
+|[[File:C_dung_ball.png|36px]]
+|Desert-4
+|Dung Ball
+|Accuracy
+|4%
+|80%
+|-
+|[[File:C_dung_beetle.png|36px]]
+|Desert-5
+|Dung Beetle
+|Monster Damage Reduction
+|0.6%
+|12%
+|-
+|[[File:C_yellow_phat.png|36px]]
+|Desert-6
+|Yellow Phat
+|Monster Cash
+|10%
+|200%
+|-
+|[[File:C_quicksand.png|36px]]
+|Desert-7
+|Quicksand
+|Attack EXP Chance
+|3%
+|60%
+|-
+|[[File:C_tornado.png|36px]]
+|Desert-8
+|Tornado
+|Idle Attack Speed
+|5%
+|100%
+|-
+|[[File:C_coco.png|36px]]
+|Desert-9
+|Coco
+|Cultist Efficiency
+|5%
+|100%
+|-
+|[[File:C_nutto.png|36px]]
+|Desert-10
+|Nutto
+|Acolyte Efficiency
+|5%
+|100%
+|-
+|[[File:C_wurm.png|36px]]
+|Desert-11
+|Wurm
+|Endurance EXP Chance
+|3%
+|60%
+|-
+|[[File:C_sand_jelly.png|36px]]
+|Desert-12
+|Sand Jelly
+|Mining EXP Gained
+|3%
+|60%
+|-
+|[[File:C_bandit_bob.png|36px]]
+|Desert-13
+|Bandit Bob
+|Raid Drop Luck
+|5%
+|100%
+|-
+|[[File:C_deadly_trap.png|36px]]
+|Desert-14
+|Deadly Trap
+|Claw Skill Damage
+|7%
+|140%
+|-
+|[[File:C_dryic_relic.png|36px]]
+|Desert-15
+|Dryic Relic
+|Card Drop Chance
+|3%
+|60%
+|-
+|[[File:C_mirage_slime.png|36px]]
+|Desert-16
+|Mirage Slime
+|Strength EXP Chance
+|3%
+|60%
+|-
+|[[File:C_mappy.png|36px]]
+|Desert-17
+|Mappy
+|Mining EXP Chance
+|3%
+|60%
+|-
+|[[File:C_spade.png|36px]]
+|Desert-18
+|Spade
+|Ores from Mining
+|5%
+|100%
+|-
+|[[File:C_treasure.png|36px]]
+|Desert-19
+|Treasure
+|Souls kept after Ascending
+|1%
+|20%
+|-
+|[[File:C_mimic.png|36px]]
+|Desert-20
+|Mimic
+|Damage from Trinkets
+|5%
+|100%
+|-
+|[[File:C_desert_drink.png|36px]]
+|Desert-21
+|Desert Drink
+|Healing from Food
+|6%
+|120%
+|-
+|[[File:C_zombie_bob.png|36px]]
+|Desert-22
+|Zombie Bob
+|Smithing EXP from Crafting
+|3%
+|60%
+|-
+|[[File:C_sand_rattler.png|36px]]
+|Desert-23
+|Sand Rattler
+|Rift EXP
+|7%
+|140%
+|-
+|[[File:C_a_monster.png|36px]]
+|Desert-24
+|A Monster
+|Crit Damage
+|8%
+|160%
+|-
+|[[File:C_stripe.png|36px]]
+|Desert-25
+|Stripe
+|Idle Damage
+|6%
+|120%
+|-
+|[[File:C_unacceptable.png|36px]]
+|Desert-26
+|Unacceptable
+|Damage from Trinkets
+|5%
+|100%
+|-
+|[[File:C_desert_baron.png|36px]]
+|Desert-27
+|Desert Baron
+|Monster Cash
+|12%
+|240%
+|-
+|[[File:C_disciple_b.png|36px]]
+|Desert-28
+|Disciple B
+|Spirit EXP Chance
+|3%
+|60%
+|-
+|[[File:C_keymaster_b.png|36px]]
+|Desert-29
+|Keymaster B
+|Base Damage
+|5%
+|100%
+|-
+|[[File:C_desert_glitch.png|36px]]
+|Desert-30+
+|Desert Glitch
+|Souls kept after Ascending
+|1%
+|20%
+|}
+</table-progress-tracking>
+[[Category:Cards]]

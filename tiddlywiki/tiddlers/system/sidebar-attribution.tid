@@ -1,0 +1,7 @@
+title: $:/is/ui/SideBarSegments/attribution
+tags: $:/tags/SideBarSegment
+list-after: $:/core/ui/SideBarSegments/tabs
+
+<div class="is-attrib">
+Unofficial, ad-free mirror of the [ext[Idle Skilling Fandom wiki|https://idle-skilling.fandom.com/wiki/Idle_Skilling_Wiki]]. Text by the wiki's contributors (see each page's history), licensed [ext[CC BY-SA 3.0|https://creativecommons.org/licenses/by-sa/3.0/]]. Converted to TiddlyWiki, images removed. [[About this mirror]]
+</div>

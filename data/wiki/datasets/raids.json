@@ -1,0 +1,1241 @@
+[
+ {
+  "_page": "Raids",
+  "_section": "Stats",
+  "_table": 0,
+  "Boss_2": "Daydream King",
+  "Ticket Cost": 1,
+  "Boss HP": "4800K",
+  "Boss Damage per Hit": 2500,
+  "Trophies Earned": 34,
+  "Trophies per Ticket": 34,
+  "Card Bonus": "Damage from Trinkets",
+  "_images": [
+   "C_king_x.png"
+  ]
+ },
+ {
+  "_page": "Raids",
+  "_section": "Stats",
+  "_table": 0,
+  "Boss_2": "Chaotic King",
+  "Ticket Cost": 3,
+  "Boss HP": "150M",
+  "Boss Damage per Hit": 7500,
+  "Trophies Earned": 306,
+  "Trophies per Ticket": 102,
+  "Card Bonus": "Total Health",
+  "_images": [
+   "C_king_x.png"
+  ]
+ },
+ {
+  "_page": "Raids",
+  "_section": "Stats",
+  "_table": 0,
+  "Boss_2": "Nightmare King",
+  "Ticket Cost": 10,
+  "Boss HP": "500M",
+  "Boss Damage per Hit": 25000,
+  "Trophies Earned": 3400,
+  "Trophies per Ticket": 340,
+  "Card Bonus": "Total Damage",
+  "_images": [
+   "C_king_x.png"
+  ]
+ },
+ {
+  "_page": "Raids",
+  "_section": "Stats",
+  "_table": 0,
+  "Boss_2": "Daydream Entertainer",
+  "Ticket Cost": 1,
+  "Boss HP": "1B",
+  "Boss Damage per Hit": 1250,
+  "Trophies Earned": 577,
+  "Trophies per Ticket": 577,
+  "Card Bonus": "Crit Damage",
+  "_images": [
+   "C_entertainer_x.png"
+  ]
+ },
+ {
+  "_page": "Raids",
+  "_section": "Stats",
+  "_table": 0,
+  "Boss_2": "Chaotic Entertainer",
+  "Ticket Cost": 3,
+  "Boss HP": "3B",
+  "Boss Damage per Hit": 3750,
+  "Trophies Earned": 5193,
+  "Trophies per Ticket": 1731,
+  "Card Bonus": "Base Damage",
+  "_images": [
+   "C_entertainer_x.png"
+  ]
+ },
+ {
+  "_page": "Raids",
+  "_section": "Stats",
+  "_table": 0,
+  "Boss_2": "Nightmare Entertainer",
+  "Ticket Cost": 10,
+  "Boss HP": "10B",
+  "Boss Damage per Hit": 12500,
+  "Trophies Earned": 57697,
+  "Trophies per Ticket": 5769,
+  "Card Bonus": "Monster Cash",
+  "_images": [
+   "C_entertainer_x.png"
+  ]
+ },
+ {
+  "_page": "Raids",
+  "_section": "Stats",
+  "_table": 0,
+  "Boss_2": "Daydream Sentinel",
+  "Ticket Cost": 1,
+  "Boss HP": "50B",
+  "Boss Damage per Hit": 12000,
+  "Trophies Earned": 4765,
+  "Trophies per Ticket": 4765,
+  "Card Bonus": "Monster Damage Reduction",
+  "_images": [
+   "C_sentinel_x.png"
+  ]
+ },
+ {
+  "_page": "Raids",
+  "_section": "Stats",
+  "_table": 0,
+  "Boss_2": "Chaotic Sentinel",
+  "Ticket Cost": 3,
+  "Boss HP": "150B",
+  "Boss Damage per Hit": 36000,
+  "Trophies Earned": 42882,
+  "Trophies per Ticket": 14294,
+  "Card Bonus": "Idle Damage",
+  "_images": [
+   "C_sentinel_x.png"
+  ]
+ },
+ {
+  "_page": "Raids",
+  "_section": "Stats",
+  "_table": 0,
+  "Boss_2": "Nightmare Sentinel",
+  "Ticket Cost": 10,
+  "Boss HP": "500B",
+  "Boss Damage per Hit": 120000,
+  "Trophies Earned": 476419,
+  "Trophies per Ticket": 47641,
+  "Card Bonus": "Away Progress from Every Screen",
+  "_images": [
+   "C_sentinel_x.png"
+  ]
+ },
+ {
+  "_page": "Raids",
+  "_section": "Stats",
+  "_table": 0,
+  "Boss_2": "Daydream Demon",
+  "Ticket Cost": 1,
+  "Boss HP": "1T",
+  "Boss Damage per Hit": 100000,
+  "Trophies Earned": 80762,
+  "Trophies per Ticket": 80762,
+  "Card Bonus": "Base Damage",
+  "_images": [
+   "C_demon_x.png"
+  ]
+ },
+ {
+  "_page": "Raids",
+  "_section": "Stats",
+  "_table": 0,
+  "Boss_2": "Chaotic Demon",
+  "Ticket Cost": 3,
+  "Boss HP": "3T",
+  "Boss Damage per Hit": 300000,
+  "Trophies Earned": 726858,
+  "Trophies per Ticket": 242286,
+  "Card Bonus": "Total Damage",
+  "_images": [
+   "C_demon_x.png"
+  ]
+ },
+ {
+  "_page": "Raids",
+  "_section": "Stats",
+  "_table": 0,
+  "Boss_2": "Nightmare Demon",
+  "Ticket Cost": 10,
+  "Boss HP": "100T",
+  "Boss Damage per Hit": 1000000,
+  "Trophies Earned": 8080962,
+  "Trophies per Ticket": 808096,
+  "Card Bonus": "Away Progress from Every Screen",
+  "_images": [
+   "C_demon_x.png"
+  ]
+ },
+ {
+  "_page": "Raids",
+  "_section": "Cards",
+  "_table": 1,
+  "Difficulty": "Daydream",
+  "Chance": "1/70"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Cards",
+  "_table": 1,
+  "Difficulty": "Chaotic",
+  "Chance": "1/60"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Cards",
+  "_table": 1,
+  "Difficulty": "Nightmare",
+  "Chance": "1/40"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Pets",
+  "_table": 2,
+  "Boss": "King",
+  "Chance per ticket": "1/1500"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Pets",
+  "_table": 2,
+  "Boss": "Entertainer",
+  "Chance per ticket": "1/1750"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Pets",
+  "_table": 2,
+  "Boss": "Sentinel",
+  "Chance per ticket": "1/2000"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Pets",
+  "_table": 2,
+  "Boss": "Demon",
+  "Chance per ticket": "1/2200"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 0,
+  "Upgrade Info (click to expand) / Exp req reduction": "0%",
+  "Upgrade Info (click to expand) / Exp increase": "0%",
+  "Upgrade Info (click to expand) / Auto cast": "N/A",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": 0
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 1,
+  "Upgrade Info (click to expand) / Exp req reduction": "0.2%",
+  "Upgrade Info (click to expand) / Exp increase": "2%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": 1
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 2,
+  "Upgrade Info (click to expand) / Exp req reduction": "0.4%",
+  "Upgrade Info (click to expand) / Exp increase": "4%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": 2
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 3,
+  "Upgrade Info (click to expand) / Exp req reduction": "0.6%",
+  "Upgrade Info (click to expand) / Exp increase": "6%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": 3
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 4,
+  "Upgrade Info (click to expand) / Exp req reduction": "0.8%",
+  "Upgrade Info (click to expand) / Exp increase": "8%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": 4
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 5,
+  "Upgrade Info (click to expand) / Exp req reduction": "1.0%",
+  "Upgrade Info (click to expand) / Exp increase": "10%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": 5
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 6,
+  "Upgrade Info (click to expand) / Exp req reduction": "1.2%",
+  "Upgrade Info (click to expand) / Exp increase": "12%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 7,
+  "Upgrade Info (click to expand) / Exp req reduction": "1.4%",
+  "Upgrade Info (click to expand) / Exp increase": "14%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 8,
+  "Upgrade Info (click to expand) / Exp req reduction": "1.6%",
+  "Upgrade Info (click to expand) / Exp increase": "16%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 9,
+  "Upgrade Info (click to expand) / Exp req reduction": "1.8%",
+  "Upgrade Info (click to expand) / Exp increase": "18%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 10,
+  "Upgrade Info (click to expand) / Exp req reduction": "2.0%",
+  "Upgrade Info (click to expand) / Exp increase": "20%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 11,
+  "Upgrade Info (click to expand) / Exp req reduction": "2.2%",
+  "Upgrade Info (click to expand) / Exp increase": "22%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 12,
+  "Upgrade Info (click to expand) / Exp req reduction": "2.4%",
+  "Upgrade Info (click to expand) / Exp increase": "24%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 13,
+  "Upgrade Info (click to expand) / Exp req reduction": "2.6%",
+  "Upgrade Info (click to expand) / Exp increase": "26%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 14,
+  "Upgrade Info (click to expand) / Exp req reduction": "2.8%",
+  "Upgrade Info (click to expand) / Exp increase": "28%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 15,
+  "Upgrade Info (click to expand) / Exp req reduction": "3.0%",
+  "Upgrade Info (click to expand) / Exp increase": "30%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 16,
+  "Upgrade Info (click to expand) / Exp req reduction": "3.2%",
+  "Upgrade Info (click to expand) / Exp increase": "32%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 17,
+  "Upgrade Info (click to expand) / Exp req reduction": "3.4%",
+  "Upgrade Info (click to expand) / Exp increase": "34%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 18,
+  "Upgrade Info (click to expand) / Exp req reduction": "3.6%",
+  "Upgrade Info (click to expand) / Exp increase": "36%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 19,
+  "Upgrade Info (click to expand) / Exp req reduction": "3.8%",
+  "Upgrade Info (click to expand) / Exp increase": "38%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 20,
+  "Upgrade Info (click to expand) / Exp req reduction": "4.0%",
+  "Upgrade Info (click to expand) / Exp increase": "40%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 21,
+  "Upgrade Info (click to expand) / Exp req reduction": "4.2%",
+  "Upgrade Info (click to expand) / Exp increase": "42%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 22,
+  "Upgrade Info (click to expand) / Exp req reduction": "4.4%",
+  "Upgrade Info (click to expand) / Exp increase": "44%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 23,
+  "Upgrade Info (click to expand) / Exp req reduction": "4.6%",
+  "Upgrade Info (click to expand) / Exp increase": "46%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 24,
+  "Upgrade Info (click to expand) / Exp req reduction": "4.8%",
+  "Upgrade Info (click to expand) / Exp increase": "48%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 25,
+  "Upgrade Info (click to expand) / Exp req reduction": "5.0%",
+  "Upgrade Info (click to expand) / Exp increase": "50%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 26,
+  "Upgrade Info (click to expand) / Exp req reduction": "5.2%",
+  "Upgrade Info (click to expand) / Exp increase": "52%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 27,
+  "Upgrade Info (click to expand) / Exp req reduction": "5.4%",
+  "Upgrade Info (click to expand) / Exp increase": "54%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 28,
+  "Upgrade Info (click to expand) / Exp req reduction": "5.6%",
+  "Upgrade Info (click to expand) / Exp increase": "56%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 29,
+  "Upgrade Info (click to expand) / Exp req reduction": "5.8%",
+  "Upgrade Info (click to expand) / Exp increase": "58%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 30,
+  "Upgrade Info (click to expand) / Exp req reduction": "6.0%",
+  "Upgrade Info (click to expand) / Exp increase": "60%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 31,
+  "Upgrade Info (click to expand) / Exp req reduction": "6.2%",
+  "Upgrade Info (click to expand) / Exp increase": "62%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 32,
+  "Upgrade Info (click to expand) / Exp req reduction": "6.4%",
+  "Upgrade Info (click to expand) / Exp increase": "64%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 33,
+  "Upgrade Info (click to expand) / Exp req reduction": "6.6%",
+  "Upgrade Info (click to expand) / Exp increase": "66%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 34,
+  "Upgrade Info (click to expand) / Exp req reduction": "6.8%",
+  "Upgrade Info (click to expand) / Exp increase": "68%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 35,
+  "Upgrade Info (click to expand) / Exp req reduction": "7.0%",
+  "Upgrade Info (click to expand) / Exp increase": "70%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 36,
+  "Upgrade Info (click to expand) / Exp req reduction": "7.2%",
+  "Upgrade Info (click to expand) / Exp increase": "72%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 37,
+  "Upgrade Info (click to expand) / Exp req reduction": "7.4%",
+  "Upgrade Info (click to expand) / Exp increase": "74%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 38,
+  "Upgrade Info (click to expand) / Exp req reduction": "7.6%",
+  "Upgrade Info (click to expand) / Exp increase": "76%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 39,
+  "Upgrade Info (click to expand) / Exp req reduction": "7.8%",
+  "Upgrade Info (click to expand) / Exp increase": "78%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 40,
+  "Upgrade Info (click to expand) / Exp req reduction": "8.0%",
+  "Upgrade Info (click to expand) / Exp increase": "80%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 41,
+  "Upgrade Info (click to expand) / Exp req reduction": "8.2%",
+  "Upgrade Info (click to expand) / Exp increase": "82%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 42,
+  "Upgrade Info (click to expand) / Exp req reduction": "8.4%",
+  "Upgrade Info (click to expand) / Exp increase": "84%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 43,
+  "Upgrade Info (click to expand) / Exp req reduction": "8.6%",
+  "Upgrade Info (click to expand) / Exp increase": "86%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 44,
+  "Upgrade Info (click to expand) / Exp req reduction": "8.8%",
+  "Upgrade Info (click to expand) / Exp increase": "88%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 45,
+  "Upgrade Info (click to expand) / Exp req reduction": "9.0%",
+  "Upgrade Info (click to expand) / Exp increase": "90%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 46,
+  "Upgrade Info (click to expand) / Exp req reduction": "9.2%",
+  "Upgrade Info (click to expand) / Exp increase": "92%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 47,
+  "Upgrade Info (click to expand) / Exp req reduction": "9.4%",
+  "Upgrade Info (click to expand) / Exp increase": "94%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 48,
+  "Upgrade Info (click to expand) / Exp req reduction": "9.6%",
+  "Upgrade Info (click to expand) / Exp increase": "96%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 49,
+  "Upgrade Info (click to expand) / Exp req reduction": "9.8%",
+  "Upgrade Info (click to expand) / Exp increase": "98%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 50,
+  "Upgrade Info (click to expand) / Exp req reduction": "10.0%",
+  "Upgrade Info (click to expand) / Exp increase": "100%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 51,
+  "Upgrade Info (click to expand) / Exp req reduction": "10.2%",
+  "Upgrade Info (click to expand) / Exp increase": "102%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 52,
+  "Upgrade Info (click to expand) / Exp req reduction": "10.4%",
+  "Upgrade Info (click to expand) / Exp increase": "104%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 53,
+  "Upgrade Info (click to expand) / Exp req reduction": "10.6%",
+  "Upgrade Info (click to expand) / Exp increase": "106%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 54,
+  "Upgrade Info (click to expand) / Exp req reduction": "10.8%",
+  "Upgrade Info (click to expand) / Exp increase": "108%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 55,
+  "Upgrade Info (click to expand) / Exp req reduction": "11.0%",
+  "Upgrade Info (click to expand) / Exp increase": "110%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 56,
+  "Upgrade Info (click to expand) / Exp req reduction": "11.2%",
+  "Upgrade Info (click to expand) / Exp increase": "112%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 57,
+  "Upgrade Info (click to expand) / Exp req reduction": "11.4%",
+  "Upgrade Info (click to expand) / Exp increase": "114%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 58,
+  "Upgrade Info (click to expand) / Exp req reduction": "11.6%",
+  "Upgrade Info (click to expand) / Exp increase": "116%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 59,
+  "Upgrade Info (click to expand) / Exp req reduction": "11.8%",
+  "Upgrade Info (click to expand) / Exp increase": "118%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 60,
+  "Upgrade Info (click to expand) / Exp req reduction": "12.0%",
+  "Upgrade Info (click to expand) / Exp increase": "120%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 61,
+  "Upgrade Info (click to expand) / Exp req reduction": "12.2%",
+  "Upgrade Info (click to expand) / Exp increase": "122%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 62,
+  "Upgrade Info (click to expand) / Exp req reduction": "12.4%",
+  "Upgrade Info (click to expand) / Exp increase": "124%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 63,
+  "Upgrade Info (click to expand) / Exp req reduction": "12.6%",
+  "Upgrade Info (click to expand) / Exp increase": "126%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 64,
+  "Upgrade Info (click to expand) / Exp req reduction": "12.8%",
+  "Upgrade Info (click to expand) / Exp increase": "128%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 65,
+  "Upgrade Info (click to expand) / Exp req reduction": "13.0%",
+  "Upgrade Info (click to expand) / Exp increase": "130%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 66,
+  "Upgrade Info (click to expand) / Exp req reduction": "13.2%",
+  "Upgrade Info (click to expand) / Exp increase": "132%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 67,
+  "Upgrade Info (click to expand) / Exp req reduction": "13.4%",
+  "Upgrade Info (click to expand) / Exp increase": "134%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 68,
+  "Upgrade Info (click to expand) / Exp req reduction": "13.6%",
+  "Upgrade Info (click to expand) / Exp increase": "136%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 69,
+  "Upgrade Info (click to expand) / Exp req reduction": "13.8%",
+  "Upgrade Info (click to expand) / Exp increase": "138%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 70,
+  "Upgrade Info (click to expand) / Exp req reduction": "14.0%",
+  "Upgrade Info (click to expand) / Exp increase": "140%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 71,
+  "Upgrade Info (click to expand) / Exp req reduction": "14.2%",
+  "Upgrade Info (click to expand) / Exp increase": "142%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 72,
+  "Upgrade Info (click to expand) / Exp req reduction": "14.4%",
+  "Upgrade Info (click to expand) / Exp increase": "144%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 73,
+  "Upgrade Info (click to expand) / Exp req reduction": "14.6%",
+  "Upgrade Info (click to expand) / Exp increase": "146%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 74,
+  "Upgrade Info (click to expand) / Exp req reduction": "14.8%",
+  "Upgrade Info (click to expand) / Exp increase": "148%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 75,
+  "Upgrade Info (click to expand) / Exp req reduction": "15.0%",
+  "Upgrade Info (click to expand) / Exp increase": "150%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 76,
+  "Upgrade Info (click to expand) / Exp req reduction": "15.2%",
+  "Upgrade Info (click to expand) / Exp increase": "152%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 77,
+  "Upgrade Info (click to expand) / Exp req reduction": "15.4%",
+  "Upgrade Info (click to expand) / Exp increase": "154%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 78,
+  "Upgrade Info (click to expand) / Exp req reduction": "15.6%",
+  "Upgrade Info (click to expand) / Exp increase": "156%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 79,
+  "Upgrade Info (click to expand) / Exp req reduction": "15.8%",
+  "Upgrade Info (click to expand) / Exp increase": "158%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 80,
+  "Upgrade Info (click to expand) / Exp req reduction": "16.0%",
+  "Upgrade Info (click to expand) / Exp increase": "160%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 81,
+  "Upgrade Info (click to expand) / Exp req reduction": "16.2%",
+  "Upgrade Info (click to expand) / Exp increase": "162%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 82,
+  "Upgrade Info (click to expand) / Exp req reduction": "16.4%",
+  "Upgrade Info (click to expand) / Exp increase": "164%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 83,
+  "Upgrade Info (click to expand) / Exp req reduction": "16.6%",
+  "Upgrade Info (click to expand) / Exp increase": "166%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 84,
+  "Upgrade Info (click to expand) / Exp req reduction": "16.8%",
+  "Upgrade Info (click to expand) / Exp increase": "168%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 85,
+  "Upgrade Info (click to expand) / Exp req reduction": "17.0%",
+  "Upgrade Info (click to expand) / Exp increase": "170%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 86,
+  "Upgrade Info (click to expand) / Exp req reduction": "17.2%",
+  "Upgrade Info (click to expand) / Exp increase": "172%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 87,
+  "Upgrade Info (click to expand) / Exp req reduction": "17.4%",
+  "Upgrade Info (click to expand) / Exp increase": "174%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 88,
+  "Upgrade Info (click to expand) / Exp req reduction": "17.6%",
+  "Upgrade Info (click to expand) / Exp increase": "176%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 89,
+  "Upgrade Info (click to expand) / Exp req reduction": "17.8%",
+  "Upgrade Info (click to expand) / Exp increase": "178%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 90,
+  "Upgrade Info (click to expand) / Exp req reduction": "18.0%",
+  "Upgrade Info (click to expand) / Exp increase": "180%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 91,
+  "Upgrade Info (click to expand) / Exp req reduction": "18.2%",
+  "Upgrade Info (click to expand) / Exp increase": "182%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 92,
+  "Upgrade Info (click to expand) / Exp req reduction": "18.4%",
+  "Upgrade Info (click to expand) / Exp increase": "184%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 93,
+  "Upgrade Info (click to expand) / Exp req reduction": "18.6%",
+  "Upgrade Info (click to expand) / Exp increase": "186%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 94,
+  "Upgrade Info (click to expand) / Exp req reduction": "18.8%",
+  "Upgrade Info (click to expand) / Exp increase": "188%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 95,
+  "Upgrade Info (click to expand) / Exp req reduction": "19.0%",
+  "Upgrade Info (click to expand) / Exp increase": "190%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 96,
+  "Upgrade Info (click to expand) / Exp req reduction": "19.2%",
+  "Upgrade Info (click to expand) / Exp increase": "192%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 97,
+  "Upgrade Info (click to expand) / Exp req reduction": "19.4%",
+  "Upgrade Info (click to expand) / Exp increase": "194%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 98,
+  "Upgrade Info (click to expand) / Exp req reduction": "19.6%",
+  "Upgrade Info (click to expand) / Exp increase": "196%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 99,
+  "Upgrade Info (click to expand) / Exp req reduction": "19.8%",
+  "Upgrade Info (click to expand) / Exp increase": "198%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ },
+ {
+  "_page": "Raids",
+  "_section": "Gift Shop",
+  "_table": 3,
+  "Upgrade Info (click to expand) / Starting level": 100,
+  "Upgrade Info (click to expand) / Exp req reduction": "20.0%",
+  "Upgrade Info (click to expand) / Exp increase": "200%",
+  "Upgrade Info (click to expand) / Auto cast": "??",
+  "Upgrade Info (click to expand) / Nr. of skills/buffs": "N/A"
+ }
+]

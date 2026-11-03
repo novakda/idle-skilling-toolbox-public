@@ -1,0 +1,36 @@
+<onlyinclude><includeonly><!--
+
+-->{{Mbox<!--
+ -->|header        =<!--
+                     -->{{#if:{{{header|}}}|<!--
+                      -->{{{header}}}<!--
+                      -->{{#if:{{abbvalid|{{{games|}}}}}<!--
+                       -->|{{#if:{{{details|}}}|&#032;({{{details}}})}}<!--
+                       -->|{{#if:{{{games|}}}|&#032;({{{games}}})}}<!--
+                      -->}}<!--
+                     -->}}<!--
+ -->|content       ={{{content|}}}<!--
+ -->|footer        ={{{footer|}}}<!--
+ -->|image         ={{{image|Mbox default.png}}}<!--
+ -->|color         ={{{color|grey}}}<!--
+ -->|cssclass      =va-mbox-management<!--
+-->}}<!--
+
+-->{{#ifeq:{{#invoke:Namespace manager|articleManagement|{{uc:{{NAMESPACE}}}}}}|true|<!--
+	-->{{#if:{{{category|}}}|<!--
+		-->{{#invoke:Abb|category<!--
+			-->|games    ={{{games|}}}<!--
+			-->|category ={{{category}}}<!--
+			-->|mode     =append<!--
+			-->|prepend  =(<!--
+			-->|sort key ={{{sort key|}}}<!--
+			-->|append   =)<!--
+		-->}}<!--
+	-->}}<!--
+-->}}<!--
+
+--></includeonly></onlyinclude>
+
+{{Documentation}}
+
+[[Category:Page management templates]]

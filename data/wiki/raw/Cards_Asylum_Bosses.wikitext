@@ -1,0 +1,125 @@
+<table-progress-tracking table-id="AsylumBosses1" unique-column-index="2">
+{| class="listing sortable" style="width: 100%;" border="0" align="center"
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |Zone
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+|-
+|[[File:Card_Emigdala.png|36px]]
+|Emigdala-1
+|Emigdala
+|Str exp gained (passive)
+|100%
+|2000%
+|-
+|[[File:Card_Emigdala-X.png|36px]]
+|Emigdala-3
+|Emigdala X
+|Botany Growth Speed (passive)
+|15%
+|300%
+|-
+|[[File:Card_Emigdala-Y.png|36px]]
+|Emigdala-7
+|Emigdala Y
+|Monster Cash (passive)
+|50%
+|1000%
+|-
+|[[File:Card_Emigdala-Z.png|36px]]
+|Emigdala-15
+|Emigdala Z
+|Total damage
+|75%
+|1500%
+|-
+|[[File:Card_Occulon.png|36px]]
+|Occulon-1
+|Occulon
+|Perk Points gained (passive)
+|6%
+|120%
+|-
+|[[File:Card_Occulon-X.png|36px]]
+|Occulon-3
+|Occulon X
+|More asylum keys (passive)
+|10%
+|50%
+|-
+|[[File:Card_Occulon-Y.png|36px]]
+|Occulon-7
+|Occulon Y
+|Base Damage (passive)
+|25%
+|500%
+|-
+|[[File:Card_Occulon-Z.png|36px]]
+|Occulon-15
+|Occulon Z
+|Critical Damage
+|80%
+|1600%
+|-
+|[[File:Card_Scallius.png|36px]]
+|Scallius-1
+|Scallius
+|Pachinko Balls (passive)*
+|7%
+|35%
+|-
+|[[File:Card_Scallius-X.png|36px]]
+|Scallius-3
+|Scallius X
+|Total Health (passive)
+|35%
+|700%
+|-
+|[[File:Card_Scallius-Y.png|36px]]
+|Scallius-7
+|Scallius Y
+|Double brew chance (passive)
+|25%
+|125%
+|-
+|[[File:Card_Scallius-Z.png|36px]]
+|Scallius-15
+|Scallius Z
+|Ores and fish
+|60%
+|1200%
+|-
+|[[File:Card_Gorshank.png|36px]]
+|Gorshank-1
+|Gorshank
+|BP on Rebirth
+More AP(passive)*
+| +18, 6%
+| +90, 30%
+|-
+|[[File:Card_Gorshank-X.png|36px]]
+|Gorshank-3
+|Gorshank X
+|Damage from trinkets
+|60%
+|1200%
+|-
+|[[File:Card_Gorshank-Y.png|36px]]
+|Gorshank-7
+|Gorshank Y
+|Chain level chance (passive)*
+|1.5%
+|7.5%
+|-
+|[[File:Card_Goshank-Z.png|36px]]
+|Gorshank-15
+|Gorshank Z
+|More Kills per kill
+|50%
+|250%
+|}
+</table-progress-tracking>
+[[Category:Cards]]

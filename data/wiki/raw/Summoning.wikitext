@@ -1,0 +1,266 @@
+{{:Header/Limbo}}
+
+==Rifts==
+
+You can purchase Rifts with souls acquired from Spiriting. These rifts immediately provide benefits, but their effectiveness grows over time as their level increases. Rifts level up each time the Glyphs they summon are fully cycled from top to bottom. You can increase the efficiency this is done by spending more souls to level up their Value and Speed variables. Value increases the amount of Glyph EXP awarded to level up Rifts and also adds to the amount of Summoning EXP periodically gained that helps to unlock higher tier Rifts sooner. Speed increases the rate Glyphs are produced and the rate their summoning cycles are completed.
+
+===Pro Rifts===
+Each rift (except for Gem Rift) can have a secondary effect, unlocked through [[Construction]]. These effects are permanent, they do not reset with Ascension or Rebirth, though the rifts must be re-purchased for them to activate. To upgrade these bonuses, two types of resource are used:
+*Pink Souls - converted from White Souls via Machines, requires Pink Printer construction,
+*Treasures - gained through [[Spelunking]].
+
+{| class="article-table" cellspacing="0" cellpadding="0" border="1" align="center"
+|-
+! style="text-align: center;" colspan="9"| Gold Coin Rift
+|-
+| rowspan="3"| [[File:Coin_rift.png|thumb|center]]
+| style="text-align:center;"|NORMAL
+|Gives cash based on current Fighting enemy
+|
+| style="text-align:center;"|PRO
+|1.X cash gain increase for every 10 rift levels
+| rowspan="3"| [[File:Pro_coin_rift.png|thumb|150px]]
+|-
+| style="text-align: center;"|Cost to Unlock
+| style="text-align: center;"| -
+| style="text-align: center;"| -
+| style="text-align:center;"|Max Bonus
+|1.5x increase
+|-
+| style="text-align: center;"|Level Req.
+| style="text-align: center;"|1
+| style="text-align: center;"|
+|Unlock Req.
+|Level 1 Rift Pro
+|-
+| colspan="9"|
+|-
+! style="text-align: center;" colspan="9"| Water Rift
+|-
+| rowspan="3"| [[File:Water_rift.png|thumb|center]]
+|NORMAL
+|
+Boosts all offline and away H2O earned by 15% + 3% per level
+|
+| style="text-align:center;"|PRO
+|H2O exp required goes up slower when you level up
+| rowspan="3"| [[File:Pro_water_rift.png|thumb|150px]]
+|-
+| style="text-align: center;"|Cost to Unlock
+| style="text-align: center;"|10x[[File:Red_soul.png|40px]]
+| style="text-align: center;"|
+| style="text-align:center;"|Max Bonus
+|by 10.23% per level
+|-
+| style="text-align: center;"|Level Req.
+| style="text-align: center;"|10
+| style="text-align: center;"|
+|Unlock Req.
+|Level 2 Rift Pro
+|-
+| colspan="9"|
+|-
+! style="text-align: center;" colspan="9"| Power Rift
+|-
+| rowspan="3"| [[File:Power_rift.png|thumb|center]]
+| style="text-align:center;"|NORMAL
+|Boosts all damage dealt by 20% + 5% per level
+|
+| style="text-align:center;"|PRO
+|Boosts all pet damage dealt
+| rowspan="3"| [[File:Pro_power_rift.png|thumb|150px]]
+|-
+| style="text-align: center;"|Cost to Unlock
+| style="text-align: center;"|300x[[File:Red_soul.png|40px]]     20x[[File:Orange_soul.png|40px]]
+| style="text-align: center;"|
+| style="text-align:center;"|Max Bonus
+|by 153%
+|-
+| style="text-align: center;"|Level Req.
+| style="text-align: center;"|20
+| style="text-align: center;"|
+|Unlock Req.
+|Level 3 Rift Pro
+|-
+| colspan="9"|
+|-
+! style="text-align: center;" colspan="9"| Health Rift
+|-
+| rowspan="3"| [[File:Health_rift.png|thumb|center]]
+| style="text-align:center;"|NORMAL
+|Boosts maximum HP 16% + 4% per level
+|
+| style="text-align:center;"|PRO
+|Boosts max pet HP
+| rowspan="3"| [[File:Pro_health_rift.png|thumb|150px]]
+|-
+| style="text-align: center;"|Cost to Unlock
+| style="text-align: center;"|400x[[File:Orange_soul.png|40px]]     25x[[File:Yellow_soul.png|40px]]
+| style="text-align: center;"|
+| style="text-align:center;"|Max Bonus
+|by 191%
+|-
+| style="text-align: center;"|Level Req.
+| style="text-align: center;"|30
+| style="text-align: center;"|
+|Unlock Req.
+|Level 4 Rift Pro
+|-
+| colspan="9"|
+|-
+! style="text-align: center;" colspan="9"| Mining Rift
+|-
+| rowspan="3"| [[File:Mining_rift.png|thumb|center]]
+| style="text-align:center;"|NORMAL
+|Boosts offline and away ores and EXP gained by 20% + 5% per level
+|
+| style="text-align:center;"|PRO
+|Mining exp required goes up slower when you level up
+| rowspan="3"| [[File:Pro_mining_rift.png|thumb|150px]]
+|-
+| style="text-align: center;"|Cost to Unlock
+| style="text-align: center;"|400x[[File:Yellow_soul.png|40px]]     3x[[File:Blue_soul.png|40px]]
+| style="text-align: center;"|
+| style="text-align:center;"|Max Bonus
+|by 25.74% per level
+|-
+| style="text-align: center;"|Level Req.
+| style="text-align: center;"|40
+| style="text-align: center;"|
+|Unlock Req.
+|Level 5 Rift Pro
+|-
+| colspan="9"|
+|-
+! style="text-align: center;" colspan="9"| Attack Speed Rift
+|-
+| rowspan="3"| [[File:Atk_speed_rift.png|thumb|center]]
+| style="text-align:center;"|NORMAL
+|Boosts idle attack speed by 13% + 5% per level
+|
+| style="text-align:center;"|PRO
+|Boosts builder and machine speed
+| rowspan="3"| [[File:Pro_atk_speed_rift.png|thumb|150px]]
+|-
+| style="text-align: center;"|Cost to Unlock
+| style="text-align: center;"|500x[[File:Green_soul.png|40px]]     5x[[File:Purple_soul.png|40px]]
+| style="text-align: center;"|
+| style="text-align:center;"|Max Bonus
+|by 152.4%
+|-
+| style="text-align: center;"|Level Req.
+| style="text-align: center;"|50
+| style="text-align: center;"|
+|Unlock Req.
+|Level 1 Rift God
+|-
+| colspan="9"|
+|-
+! style="text-align: center;" colspan="9"| Shield Rift
+|-
+| rowspan="3"| [[File:Spirit_rift.png|thumb|center]]
+| style="text-align:center;"|NORMAL
+|Boosts maximum shield charge by 15% + 5% per level
+|
+| style="text-align:center;"|PRO
+|Get more asylum traces from both bosses and skills
+| rowspan="3"| [[File:Pro_shield_rift.png|thumb|150px]]
+|-
+| style="text-align: center;"|Cost to Unlock
+| style="text-align: center;"|200x[[File:Blue_soul.png|40px]]     20x[[File:Purple_soul.png|40px]]
+| style="text-align: center;"|
+| style="text-align:center;"|Max Bonus
+|by 227.8%
+|-
+| style="text-align: center;"|Level Req.
+| style="text-align: center;"|60
+| style="text-align: center;"|
+|Unlock Req.
+|Level 2 Rift God
+|-
+| colspan="9"|
+|-
+! style="text-align: center;" colspan="9"| Mega AP Rift
+|-
+| rowspan="3"| [[File:Ap_rift.png|thumb|center]]
+| style="text-align:center;"|NORMAL
+|Boosts AP gained on Ascension by 25% + 5% per level
+|
+| style="text-align:center;"|PRO
+|Increases BP gained each rebirth
+| rowspan="3"| [[File:Pro_ap_rift.png|thumb|150px]]
+|-
+| style="text-align: center;"|Cost to Unlock
+| style="text-align: center;" |80x[[File:Purple_soul.png|40px]]     5x[[File:White_soul.png|40px]]
+| style="text-align: center;" |
+| style="text-align:center;"|Max Bonus
+|by 226.9%
+|-
+| style="text-align: center;"|Level Req.
+| style="text-align: center;"|70
+| style="text-align: center;"|
+|Unlock Req.
+|Level 3 Rift God
+|-
+| colspan="9"|
+|-
+! colspan="9" style="text-align: center;" | Rift Rift
+|-
+| rowspan="3"| [[File:Summon_rift.png|thumb|center]]
+| style="text-align:center;"|NORMAL
+|Boosts the level of each Rift by 1 per level
+|
+| style="text-align:center;"|PRO
+|Rift Rift has a chance to trigger twice
+| rowspan="3"| [[File:Pro_rift_rift.png|thumb|150px]]
+|-
+| style="text-align: center;"|Cost to Unlock
+| style="text-align: center;"|700Mx[[File:Red_soul.png|40px]]     15x[[File:White_soul.png|40px]]
+| style="text-align: center;"|
+| style="text-align:center;"|Max Bonus
+|22.9% chance
+|-
+| style="text-align: center;"|Level Req.
+| style="text-align: center;"|80
+| style="text-align: center;"|
+|Unlock Req.
+|Level 4 Rift God
+|-
+| colspan="9"|
+|-
+! colspan="9" style="text-align: center;" | Gem Rift
+|-
+| rowspan="3"| [[File:Gem_rift.png|thumb|center]]
+|
+|Generates 1500 Gems over 10 days
+|
+|
+|
+|-
+| style="text-align: center;"|Cost to Unlock
+| style="text-align: center;"|
+500[[File:Loot_Gem.png|40px]]in [[Gem Shop]]
+| style="text-align: center;"|
+|
+|
+|-
+| style="text-align: center;"|Level Req.
+| style="text-align: center;"|1
+| style="text-align: center;"|
+|
+|
+|}
+==Summoning Boosts==
+===Summoning Level===
+*4 [[Cards#Cards List|Cards]] that increase Summoning EXP chance, up to 320%.
+*The 4th Shop 2 item from [[Contracts#Merit Shop|Contracts]] grants up to 10 levels to Summoning.
+*Gift shop painting from [[Raids#Gift Shop|Raids]] increase starting level and reduces EXP required to level.
+*The Skill Max [[Ascension#AP Perk Tree|Ascension]] perk grants +1 level to Summoning per purchase.
+*The Double Summon EXP bonus from the Gem Shop grants 100% more Summoning EXP per purchase.
+===Rift Levels===
+*Two blue skill perks that increase Rift's speed by 5% per level (up to 50%) and increases Rift EXP amount by 5% per level (up to 50%).
+*4 [[Cards#Cards List|Cards]] that increase Rift EXP amount gained, up to 440%.
+*At Summoning level 80, the Rift Rift increases every other Rift level by its own level.
+*The Rift Kickstarter [[Ascension#AP Perk Tree|Ascension]] perk adds +1 level to every Rift per purchase.
+*The Overclocked Glyphs bonus from the Gem Shop grants 50% more Rift EXP every cycle per purchase.
+[[Category:Limbo]]

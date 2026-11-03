@@ -1,0 +1,279 @@
+{| align="center"
+|[[File:Grasslandsbanner.png|150px|link=Grasslands]]
+|<<<
+|[[File:Vaultbanner.png]]
+|}
+
+
+Vault is a special zone that is unlocked after clearing [[Grasslands]], and it features 23 unique, golden monsters. Each monster drops a larger sum of gold than its normal variant, making them an excellent source of income early-game. However, none of these golden monsters drop Cards.
+
+This zone may be accessed anytime for a duration of 30 seconds, but is locked afterwards and reopens after a one hour cooldown period. When no [[Events]] are running, a Vault Pass item may be purchased from the [[Gem Shop#Miscellaneous|Gem Shop]] for 25 gems which bypasses this cooldown.
+
+While none of the monsters deal any damage in this zone, after 30 seconds pass the screen will change to Death's screen. However, this sequence can be avoided if a different zone is entered before the time limit passes, but forfeits any remaining time left in the process. Additionally, for best profits, use the Midas skill within the last 10 seconds of the visit.
+
+The following table shows the '''base''' values for each monster in the zone.
+
+{| class="article-table" border="1" align="center"
+|-
+! scope="col"|Image
+! scope="col"|Name
+! scope="col"|HP
+! scope="col"|Gold
+|-
+|[[File:Mushy_g.png|50px]]
+|Mushy G
+|50
+|250
+|-
+|[[File:Slimey_g.png|50px]]
+|Slimey G
+|240
+|635
+|-
+|[[File:Stumpy_g.png|50px]]
+|Stumpy G
+|864
+|1209
+|-
+|[[File:Wormy_g.png|50px]]
+|Wormy G
+|2764
+|2048
+|-
+|[[File:Strawby_g.png|50px]]
+|Strawby G
+|8294
+|3251
+|-
+|[[File:Wurm_g.png|50px]]
+|Wurm G
+|23887
+|4955
+|-
+|[[File:It's_quenchy.png|50px]]
+|It's Quenchy
+|66886
+|7342
+|-
+|[[File:Nutty_g.png|50px]]
+|Nutty G
+|183458
+|10657
+|-
+|[[File:Jelly_g.png|50px]]
+|Jelly G
+|495338
+|15226
+|-
+|[[File:Mappy_g.png|50px]]
+|Mappy G
+|1.32M
+|21486
+|-
+|[[File:Bling_beetle.png|50px]]
+|Bling Beetle
+|3.48M
+|30017
+|-
+|[[File:Aristocrat.png|50px]]
+|Aristocrat
+|9.13M
+|41589
+|-
+|[[File:Yellow_snow.png|50px]]
+|Yellow Snow
+|23.73M
+|57217
+|-
+|[[File:Gilded_flake.png|50px]]
+|Gilded Flake
+|61.35M
+|78255
+|-
+|[[File:Lil_goaty_g.png|50px]]
+|Lil Goaty G
+|157.76M
+|106483
+|-
+|[[File:Gold_bloque.png|50px]]
+|Gold Bloque
+|403.88M
+|144249
+|-
+|[[File:Stripey_g.png|50px]]
+|Stripey G
+|1.02B
+|194647
+|-
+|[[File:Diet_soda.png|50px]]
+|Diet Soda
+|2.61B
+|261743
+|-
+|[[File:Alchy_g.png|50px]]
+|Alchy G
+|6.63B
+|350881
+|-
+|[[File:Mimic_g.png|50px]]
+|Mimic G
+|16.74B
+|469073
+|-
+|[[File:Agent_g.png|50px]]
+|Agent G
+|42.2B
+|625509
+|-
+|[[File:Gold_cube.png|50px]]
+|Gold Cube
+|106.12B
+|832225
+|-
+|[[File:Moneylord.png|50px]]
+|Moneylord
+|266.28B
+|1.1M
+|-
+|
+|Moneylord 2
+|666.86B
+|1.464M
+|-
+|
+|Moneylord 3
+|1.66T
+|1.937M
+|-
+|
+|Moneylord 4
+|4.16T
+|2.55M
+|-
+|
+|Moneylord 5
+|10.37T
+|3.374M
+|-
+|
+|Moneylord 6
+|25.71T
+|4.444M
+|-
+|
+|Moneylord 7
+|64.16T
+|5.845M
+|-
+|
+|Moneylord 8
+|159.3T
+|7.680M
+|-
+|
+|Moneylord 9
+|395.06T
+|10.07M
+|-
+|
+|Moneylord 10
+|978.74T
+|13.213M
+|-
+|
+|Moneylord 11
+|2.42Q
+|17.305M
+|-
+|
+|Moneylord 12
+|5.98Q
+|22.64M
+|-
+|
+|Moneylord 13
+|14.79Q
+|29.602M
+|-
+|
+|Moneylord 14
+|36.53Q
+|38669M
+|-
+|
+|Moneylord 15
+|90.11Q
+|50.47M
+|-
+|
+|Moneylord 16
+|222.11Q
+|65835M
+|-
+|
+|Moneylord 17
+|547.09Q
+|85811M
+|-
+|
+|Moneylord 18
+|1.34S
+|111.77M
+|-
+|
+|Moneylord 19
+|3.31S
+|145.5M
+|-
+|
+|Moneylord 20
+|8.14S
+|189.29M
+|-
+|
+|Moneylord 21
+|20.01S
+|246.13M
+|-
+|
+|Moneylord 22
+|49.14S
+|319.85M
+|-
+|
+|Moneylord 23
+|120.63S
+|415.44M
+|-
+|
+|Moneylord 24
+|295.96S
+|539.34M
+|-
+|
+|Moneylord 25
+|725.74S
+|699.85M
+|-
+|
+|Moneylord 26
+|1.77AA
+|907.72M
+|-
+|
+|Moneylord 27
+|4.35AA
+|1.176B
+|-
+|
+|Moneylord 28
+|10.67AA
+|1.525B
+|-
+|
+|Moneylord 29
+|26.12AA
+|1975B
+|}
+[[Category:Zone]]
+[[Category:Fighting]]

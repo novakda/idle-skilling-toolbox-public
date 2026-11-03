@@ -1,0 +1,22 @@
+The Hoops challenge is an unlockable [[Gem Shop|Gem]] earning method.
+
+==Unlock==
+To unlock hoops one must find the Basketball in [[Raids]] and drag the ball to the Gift Shop button. The ball will then be on the Gift Shop Screen. Then the player must drag the ball to the Exit Button. You can then see it on the training menu. Once in training drag the ball to the Portal button. Then it will be on the Portal screen. Drag it to the figure that says "Lava" under it and Hoops will be unlocked. (If this figure doesn't appear, click on the man floating through space on the Portal screen to make it appear.)
+
+Now, you will be sent to a screen where Lava is on a moving platform, holding a ball and a basket to throw it in. You get 3 tries per day to score as much as you can, and then you will get free Gems according to your total score among the 3 tries. After the 3 tries, you still can throw the ball to practice, but no Gems will be awarded.
+
+Each shot normally scores 1 point, but a ball that goes in "nothing but net" (without hitting the hoop or backboard first) scores 2 points.
+
+Clicking on the ball as it flies will cause it to drop directly down, which can be used to save shots that would otherwise go over the hoop. However, the click on the moving ball has to be quite precise. Beware that as soon as a ball reappears in Lava's hands (which can happen before the current ball finishes its shot), he will throw again when you click, probably missing and ending the current trial.
+
+Once your score on a single trial is 10 or higher, Lava will begin to move back and forth on his platform as well as up and down. At 20 score, the basket will start moving back and forth as well. At 30 score, the basket will move both horizontally and vertically.
+
+To Access Hoops again, click the Hoops button in the bottom left of the Portal screen.
+
+==Pet==
+To obtain the Hoops pet, one must achieve a combined score of 66 from all 3 trials combined. [[File:Pet_BasketBall.png|thumb|right|50px]]
+==Notes==
+If the ball is not found on the raid screen, click just below and to the right of the largest fish on the fishing help screen to unlock Hoops.
+
+[[Category:Portal]]
+[[Category:Secrets]]

@@ -1,0 +1,33 @@
+The Portal is permanently unlocked after Keymaster Y is defeated in the [[Grasslands]]. This hub provides immediate access to [[Ascension]], [[Raids]], [https://idle-skilling.fandom.com/wiki/Asylum Asylum], [[Purgatory]], [https://idle-skilling.fandom.com/wiki/Dairy_Aisle Dairy Aisle] and [[Mastery]], but access to [[Secrets]] will become available after they are unlocked. Once secrets are unlocked, their unique worlds will loop between each other within their respective portal.
+
+
+{| style="width: 80%;" cellspacing="0" cellpadding="0" border="0" align="center"
+| style="width: 15%;" |[[File:Purgatory_banner.png|center|100px|link=Purgatory]]
+| style="width: 15%;" |[[File:Ascension_icon.png|center|link=Ascension]]
+| style="width: 15%;" |[[File:Raids icon.png|center|link=Raids]]
+|-
+! style="text-align: center;" |[[Purgatory]]
+! style="text-align: center;" |[[Ascension]]
+! style="text-align: center;" |[[Raids]]
+|-
+|
+|
+|
+|-
+|[[File:Secrets icon.png|center|link=Secrets]]
+|[[File:DairyAisle_Icon.png|center|60px|link=https://idle-skilling.fandom.com/wiki/Dairy_Aisle]]
+|[[File:Asylum_Icon.png|center|60px|link=https://idle-skilling.fandom.com/wiki/Asylum]]
+|-
+![[Secrets]]
+![[Dairy Aisle]]
+![[Asylum]]
+|-
+|[[File:Mastery Icon.png|center|100px|link=Mastery]]
+|[[File:Rebirth icon.png|center|100px|link=Rebirth]]
+|[[File:LordsLair Icon.png|center]]
+|-
+![[Mastery]]
+![[Rebirth]]
+![[Lord's Lair]]
+|}
+[[Category:Portal]]

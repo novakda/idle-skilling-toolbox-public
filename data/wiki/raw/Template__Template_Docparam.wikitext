@@ -1,0 +1,15 @@
+<onlyinclude><!--
+
+--><div class="va-docparam"><!--
+ --><div class="va-docparam-icon">{{#switch:{{{req}}}|no={{icon|neutral}}|semi={{icon|neutral}}|yes|#default={{icon|yes}}}}</div><!--
+ -->{{#if:{{{default|}}}|<div class="va-docparam-default">(default: {{#switch:{{lc:{{{default}}}}}|none|-=none|#default="{{{default}}}"}}{{#if:{{{default2|}}}|&#032;or {{#switch:{{lc:{{{default2}}}}}|none|-=none|#default="{{{default2}}}"}}}})</div>}}<!--
+ --><span class="va-docparam-params">'''{{#if:{{{name|{{{1|}}}}}}|{{#replace:{{#replace:{{#replace:{{#replace:{{{name|{{{1|}}}}}}||&#032;}}|&#032;>>&#032;|''' up to '''}}|&#032;//&#032;|''' or '''}}|&#032;++&#032;|''', '''}}|Name?}}</span>'''<!--
+--></div><!--
+
+--><div class="va-docparam-desc"><!--
+ -->{{{desc|Description?}}}<!--
+--></div><!--
+-->[[Category:Templates using docparam]]<!--
+
+--></onlyinclude>
+{{Documentation}}

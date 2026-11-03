@@ -1,0 +1,1627 @@
+[
+ {
+  "_page": "Smithing",
+  "_section": "Anvil Costs",
+  "_table": 0,
+  "Forge": 1,
+  "Unlock Cost": "-",
+  "Cost to Unlock Maximum Forge Charges / 4": "77K",
+  "Cost to Unlock Maximum Forge Charges / 5": "106K",
+  "Cost to Unlock Maximum Forge Charges / 6": "147K",
+  "Cost to Unlock Maximum Forge Charges / 7": "237K",
+  "Cost to Unlock Maximum Forge Charges / 8": "526K",
+  "Cost to Unlock Maximum Forge Charges / 9": "1615K",
+  "Cost to Unlock Maximum Forge Charges / 10": "5936K",
+  "Cost to Unlock Maximum Forge Charges / 11": "24M",
+  "Cost to Unlock Maximum Forge Charges / 12": "94M",
+  "Cost to Unlock Maximum Forge Charges / 13": "377M",
+  "Cost to Unlock Maximum Forge Charges / 14": "1519M"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Anvil Costs",
+  "_table": 0,
+  "Forge": 2,
+  "Unlock Cost": "100K",
+  "Cost to Unlock Maximum Forge Charges / 4": "-",
+  "Cost to Unlock Maximum Forge Charges / 5": "106K",
+  "Cost to Unlock Maximum Forge Charges / 6": "147K",
+  "Cost to Unlock Maximum Forge Charges / 7": "237K",
+  "Cost to Unlock Maximum Forge Charges / 8": "526K",
+  "Cost to Unlock Maximum Forge Charges / 9": "1615K",
+  "Cost to Unlock Maximum Forge Charges / 10": "5936K",
+  "Cost to Unlock Maximum Forge Charges / 11": "24M",
+  "Cost to Unlock Maximum Forge Charges / 12": "94M",
+  "Cost to Unlock Maximum Forge Charges / 13": "377M",
+  "Cost to Unlock Maximum Forge Charges / 14": "1519M"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Anvil Costs",
+  "_table": 0,
+  "Forge": 3,
+  "Unlock Cost": "5M",
+  "Cost to Unlock Maximum Forge Charges / 4": "-",
+  "Cost to Unlock Maximum Forge Charges / 5": "-",
+  "Cost to Unlock Maximum Forge Charges / 6": "-",
+  "Cost to Unlock Maximum Forge Charges / 7": "237K",
+  "Cost to Unlock Maximum Forge Charges / 8": "526K",
+  "Cost to Unlock Maximum Forge Charges / 9": "1615K",
+  "Cost to Unlock Maximum Forge Charges / 10": "5936K",
+  "Cost to Unlock Maximum Forge Charges / 11": "24M",
+  "Cost to Unlock Maximum Forge Charges / 12": "94M",
+  "Cost to Unlock Maximum Forge Charges / 13": "377M",
+  "Cost to Unlock Maximum Forge Charges / 14": "1519M"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Tiers",
+  "_table": 1,
+  "Tier": "Trainee",
+  "Smithing Level Required": 1,
+  "Tier_2": "Master",
+  "Smithing Level Required_2": 50
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Tiers",
+  "_table": 1,
+  "Tier": "Novice",
+  "Smithing Level Required": 10,
+  "Tier_2": "Legend",
+  "Smithing Level Required_2": 60
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Tiers",
+  "_table": 1,
+  "Tier": "Skilled",
+  "Smithing Level Required": 20,
+  "Tier_2": "Godly",
+  "Smithing Level Required_2": 70
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Tiers",
+  "_table": 1,
+  "Tier": "Adept",
+  "Smithing Level Required": 30,
+  "Tier_2": "Warped",
+  "Smithing Level Required_2": 90
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Tiers",
+  "_table": 1,
+  "Tier": "Virtuo",
+  "Smithing Level Required": 40,
+  "Tier_2": "Djinn",
+  "Smithing Level Required_2": 120
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Smithing Break",
+  "_table": 2,
+  "Breakpoint": 1,
+  "Crafted Amount": "Depends on smith cost reduc.",
+  "Base Craft Cost (Estimates)": "1Q"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Smithing Break",
+  "_table": 2,
+  "Breakpoint": 2,
+  "Crafted Amount": "10k",
+  "Base Craft Cost (Estimates)": "2Q"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Smithing Break",
+  "_table": 2,
+  "Breakpoint": 3,
+  "Crafted Amount": "50k",
+  "Base Craft Cost (Estimates)": "4Q"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Smithing Break",
+  "_table": 2,
+  "Breakpoint": 4,
+  "Crafted Amount": "250k",
+  "Base Craft Cost (Estimates)": "8Q"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Smithing Break",
+  "_table": 2,
+  "Breakpoint": 5,
+  "Crafted Amount": "1M",
+  "Base Craft Cost (Estimates)": "16Q"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Smithing Break",
+  "_table": 2,
+  "Breakpoint": 6,
+  "Crafted Amount": "5M",
+  "Base Craft Cost (Estimates)": "32Q"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Smithing Break",
+  "_table": 2,
+  "Breakpoint": 7,
+  "Crafted Amount": "25M",
+  "Base Craft Cost (Estimates)": "64Q"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Crafted Benefit Caps",
+  "_table": 3,
+  "Craft Name": "Fast Reps",
+  "Effect Cap": "+25K% Rep Speed",
+  "Craft Amount Reached": "50K"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Crafted Benefit Caps",
+  "_table": 3,
+  "Craft Name": "Rapid Reps",
+  "Effect Cap": "+50K% Rep Speed",
+  "Craft Amount Reached": "50K"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Crafted Benefit Caps",
+  "_table": 3,
+  "Craft Name": "Turbo Reps",
+  "Effect Cap": "+100K% Rep Speed",
+  "Craft Amount Reached": "50K"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Crafted Benefit Caps",
+  "_table": 3,
+  "Craft Name": "Gotta Go Fast",
+  "Effect Cap": "+150K% Rep Speed",
+  "Craft Amount Reached": "50K"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Crafted Benefit Caps",
+  "_table": 3,
+  "Craft Name": "BP Straight Up",
+  "Effect Cap": "+1K BP When Rebirthing",
+  "Craft Amount Reached": 5625
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Crafted Benefit Caps",
+  "_table": 3,
+  "Craft Name": "Tin Pail Tree",
+  "Effect Cap": "+6K% Botany Growth Speed"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Crafted Benefit Caps",
+  "_table": 3,
+  "Craft Name": "Crystal Supremacy",
+  "Effect Cap": "+20% Crystal Bonuses"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Crafted Benefit Caps",
+  "_table": 3,
+  "Craft Name": "Ensouled Head",
+  "Effect Cap": "+10 Kills per Kill",
+  "Craft Amount Reached": 2450
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Crafted Benefit Caps",
+  "_table": 3,
+  "Craft Name": "Righteous Rift",
+  "Effect Cap": "+70% Less XP Needed"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Crafted Benefit Caps",
+  "_table": 3,
+  "Craft Name": "Mythical Serfdom",
+  "Effect Cap": "+4K% Tilling Land Exp"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Crafted Benefit Caps",
+  "_table": 3,
+  "Craft Name": "Normie Rocks",
+  "Effect Cap": "+20% Crystal Bonuses",
+  "Craft Amount Reached": 2255
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Crafted Benefit Caps",
+  "_table": 3,
+  "Craft Name": "Cyber F Series",
+  "Effect Cap": "+2.5K% Shields Every Fishwich Bite",
+  "Craft Amount Reached": "10k"
+ },
+ {
+  "_page": "Smithing",
+  "_section": "Crafted Benefit Caps",
+  "_table": 3,
+  "Craft Name": "Cyber J Series",
+  "Effect Cap": "+4K% Shields Every Noodles Bite",
+  "Craft Amount Reached": 4000
+ },
+ {
+  "_page": "Smithing/Novice",
+  "_section": "",
+  "_table": 0,
+  "Req.": 10,
+  "Item Name": "Platinum Trinket",
+  "Amt.": "+0.75%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Platinum_trinket.png",
+   "Platinum.png",
+   "Jellyfish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Novice",
+  "_section": "",
+  "_table": 0,
+  "Req.": 10,
+  "Item Name": "Longsword",
+  "Amt.": 10,
+  "Amt._raw": "+10",
+  "Bonus per Level": "Base Damage",
+  "_images": [
+   "Longsword.png",
+   "Gold.png",
+   "Medium_yellow_fish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Novice",
+  "_section": "",
+  "_table": 0,
+  "Req.": 10,
+  "Item Name": "Jellyfish Noodles",
+  "Amt.": 15,
+  "Amt._raw": "+15",
+  "Bonus per Level": "HP every Bite",
+  "_images": [
+   "Jellyfish_noodles.png",
+   "Jellyfish.png",
+   "Chainmailfish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Novice",
+  "_section": "",
+  "_table": 0,
+  "Req.": 10,
+  "Item Name": "Pilfering",
+  "Amt.": "+3%",
+  "Bonus per Level": "Cash from Enemies",
+  "_images": [
+   "Pilfering.png",
+   "Gold.png",
+   "Medium_yellow_fish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Novice",
+  "_section": "",
+  "_table": 0,
+  "Req.": 10,
+  "Item Name": "Fast Reps",
+  "Amt.": "+0.5%",
+  "Bonus per Level": "Rep Speed (caps at 50k crafts)",
+  "_images": [
+   "Fast_reps.png",
+   "Gold.png",
+   "Platinum.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Novice",
+  "_section": "",
+  "_table": 0,
+  "Req.": 10,
+  "Item Name": "Golden Armor",
+  "Amt.": "-0.08%",
+  "Bonus per Level": "Monster Damage",
+  "_images": [
+   "Golden_armor.png",
+   "Tin_can.png",
+   "Chainmailfish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Novice",
+  "_section": "",
+  "_table": 0,
+  "Req.": 10,
+  "Item Name": "Fish Bundle",
+  "Amt.": "+3%",
+  "Bonus per Level": "Fish per Catch",
+  "_images": [
+   "Fish_bundle.png",
+   "Platinum.png",
+   "Small_tuna.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Novice",
+  "_section": "",
+  "_table": 0,
+  "Req.": 10,
+  "Item Name": "Battle Boots",
+  "Amt.": "+0.5%",
+  "Bonus per Level": "Idle Attack Speed",
+  "_images": [
+   "Battle_boots.png",
+   "Platinum.png",
+   "Old_shoe.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Adept",
+  "_section": "",
+  "_table": 0,
+  "Req.": 30,
+  "Item Name": "Effluvium Trinket",
+  "Amt.": "+2%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Effluvium_trinket.png",
+   "Effluvium.png",
+   "Yellow_fin_tuna.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Adept",
+  "_section": "",
+  "_table": 0,
+  "Req.": 30,
+  "Item Name": "Stabby Thing",
+  "Amt.": 50,
+  "Amt._raw": "+50",
+  "Bonus per Level": "Base Damage",
+  "_images": [
+   "Stabby_thing.png",
+   "Effluvium.png",
+   "Sword_fish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Adept",
+  "_section": "",
+  "_table": 0,
+  "Req.": 30,
+  "Item Name": "Angler Cuts",
+  "Amt.": 50,
+  "Amt._raw": "+50",
+  "Bonus per Level": "HP Every Bite",
+  "_images": [
+   "Angler_cuts.png",
+   "Angler_fish.png",
+   "Lobster.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Adept",
+  "_section": "",
+  "_table": 0,
+  "Req.": 30,
+  "Item Name": "Plunder Meister",
+  "Amt.": "+6%",
+  "Bonus per Level": "Cash from Enemies",
+  "_images": [
+   "Plunder_meister.png",
+   "Effluvium.png",
+   "Puffer_fish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Adept",
+  "_section": "",
+  "_table": 0,
+  "Req.": 30,
+  "Item Name": "Rapid Reps",
+  "Amt.": "+1%",
+  "Bonus per Level": "Rep Speed (caps at 50k crafts)",
+  "_images": [
+   "Rapid_reps.png",
+   "Antimatter.png",
+   "Bonefish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Adept",
+  "_section": "",
+  "_table": 0,
+  "Req.": 30,
+  "Item Name": "Effluvium Armor",
+  "Amt.": "-0.1%",
+  "Bonus per Level": "Monster Damage",
+  "_images": [
+   "Effluvium_armor.png",
+   "Effluvium.png",
+   "Chainmailfish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Adept",
+  "_section": "",
+  "_table": 0,
+  "Req.": 30,
+  "Item Name": "Void Mining Kit",
+  "Amt.": "+25%",
+  "Bonus per Level": "Ores Mined",
+  "_images": [
+   "Void_mining_kit.png",
+   "Antimatter.png",
+   "Blue_shark.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Adept",
+  "_section": "",
+  "_table": 0,
+  "Req.": 30,
+  "Item Name": "Facestompers",
+  "Amt.": "+1.5%",
+  "Bonus per Level": "Idle Attack Damage",
+  "_images": [
+   "Face stompers.png",
+   "Antimatter.png",
+   "Pink_swordfish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Master",
+  "_section": "",
+  "_table": 0,
+  "Req.": 50,
+  "Item Name": "Dubloon Trinket",
+  "Amt.": "+5%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Dubloon_trinket.png",
+   "Dubloonium.png",
+   "Bobbit_worm.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Master",
+  "_section": "",
+  "_table": 0,
+  "Req.": 50,
+  "Item Name": "And My Axe",
+  "Amt.": 2750,
+  "Amt._raw": "+2750",
+  "Bonus per Level": "Base Damage",
+  "_images": [
+   "And_my_axe.png",
+   "Dubloonium.png",
+   "Giant_sea_urchin.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Master",
+  "_section": "",
+  "_table": 0,
+  "Req.": 50,
+  "Item Name": "Fished Corn",
+  "Amt.": 200,
+  "Amt._raw": "+200",
+  "Bonus per Level": "HP Every Bite",
+  "_images": [
+   "Fished_corn.png",
+   "Pike_fish.png",
+   "Yellow_gulper.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Master",
+  "_section": "",
+  "_table": 0,
+  "Req.": 50,
+  "Item Name": "Looter Lord",
+  "Amt.": "+10%",
+  "Bonus per Level": "Cash from Enemies",
+  "_images": [
+   "Looter_lord.png",
+   "Glume.png",
+   "Dollar_fish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Master",
+  "_section": "",
+  "_table": 0,
+  "Req.": 50,
+  "Item Name": "Blessed Experience",
+  "Amt.": "+0.5%",
+  "Bonus per Level": "EXP Gain Chance",
+  "_images": [
+   "Blessed_experience.png",
+   "Dubloonium.png",
+   "Yellow_gulper.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Master",
+  "_section": "",
+  "_table": 0,
+  "Req.": 50,
+  "Item Name": "Languished Lungs",
+  "Amt.": 350,
+  "Amt._raw": "+350",
+  "Bonus per Level": "Base Max. HP",
+  "_images": [
+   "Languished_lungs.png",
+   "Glume.png",
+   "Manta_ray.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Master",
+  "_section": "",
+  "_table": 0,
+  "Req.": 50,
+  "Item Name": "Dubaroo Kit",
+  "Amt.": "+50%",
+  "Bonus per Level": "Ores Mined",
+  "_images": [
+   "Dubaroo_kit.png",
+   "Dubloonium.png",
+   "Yellow_gulper.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Master",
+  "_section": "",
+  "_table": 0,
+  "Req.": 50,
+  "Item Name": "Tech Skippers",
+  "Amt.": "+2%",
+  "Bonus per Level": "Idle Attack Speed",
+  "_images": [
+   "Tech_skippers.png",
+   "Dubloonium.png",
+   "Glume.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Legend",
+  "_section": "",
+  "_table": 0,
+  "Req.": 60,
+  "Item Name": "Plumentine Trinket",
+  "Amt.": "+8%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Plumentine_trinket.png",
+   "Plument.png",
+   "Hammerhead_shark.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Legend",
+  "_section": "",
+  "_table": 0,
+  "Req.": 60,
+  "Item Name": "Big Ol' Sword",
+  "Amt.": 500,
+  "Amt._raw": "+500",
+  "Bonus per Level": "Base Damage",
+  "_images": [
+   "Big_ol_sword.png",
+   "Plument.png",
+   "Giant_sea_urchin.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Legend",
+  "_section": "",
+  "_table": 0,
+  "Req.": 60,
+  "Item Name": "Flapjacks",
+  "Amt.": 400,
+  "Amt._raw": "+400",
+  "Bonus per Level": "HP Every BIte",
+  "_images": [
+   "Flapjacks.png",
+   "Yellow_gulper.png",
+   "Giant_sea_serpent.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Legend",
+  "_section": "",
+  "_table": 0,
+  "Req.": 60,
+  "Item Name": "Royalty Income",
+  "Amt.": 1000,
+  "Amt._raw": "+1000",
+  "Bonus per Level": "Cash every Minute",
+  "_images": [
+   "Royalty_income.png",
+   "Plument.png",
+   "Crystalfish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Legend",
+  "_section": "",
+  "_table": 0,
+  "Req.": 60,
+  "Item Name": "Gotta Go Fast",
+  "Amt.": "+3%",
+  "Bonus per Level": "Rep Speed (caps at 50k crafts)",
+  "_images": [
+   "Gotta_go_fast.png",
+   "Figmentation.png",
+   "Pike_fish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Legend",
+  "_section": "",
+  "_table": 0,
+  "Req.": 60,
+  "Item Name": "Figmentation Mail",
+  "Amt.": "-0.3%",
+  "Bonus per Level": "Monster Damage",
+  "_images": [
+   "Figmentation_mail.png",
+   "Figmentation.png",
+   "Snail_fish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Legend",
+  "_section": "",
+  "_table": 0,
+  "Req.": 60,
+  "Item Name": "Manifestation Kit",
+  "Amt.": "+75%",
+  "Bonus per Level": "Ores Mined",
+  "_images": [
+   "Manifestation_kit.png",
+   "Figmentation.png",
+   "Dollar_fish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Legend",
+  "_section": "",
+  "_table": 0,
+  "Req.": 60,
+  "Item Name": "Dragoneye Charm",
+  "Amt.": "+0.75%",
+  "Bonus per Level": "Crit Hit Chance",
+  "_images": [
+   "Dragoneye_charm.png",
+   "Plument.png",
+   "Ice_cube_fish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Godly",
+  "_section": "",
+  "_table": 0,
+  "Req.": 70,
+  "Item Name": "Godly Trinket",
+  "Amt.": "+15%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Godly_trinket.png",
+   "Godshard.png",
+   "Manta_ray.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Godly",
+  "_section": "",
+  "_table": 0,
+  "Req.": 70,
+  "Item Name": "Galaxial Slasher",
+  "Amt.": 1000,
+  "Amt._raw": "+1000",
+  "Bonus per Level": "Base Damage",
+  "_images": [
+   "Galaxial_slasher.png",
+   "Godshard.png",
+   "Kraken.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Godly",
+  "_section": "",
+  "_table": 0,
+  "Req.": 70,
+  "Item Name": "Bonus Reset AP",
+  "Amt.": "+2%",
+  "Bonus per Level": "AP on Ascension",
+  "_images": [
+   "Bonus_reset_ap.png",
+   "Godshard.png",
+   "Demonite.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Godly",
+  "_section": "",
+  "_table": 0,
+  "Req.": 70,
+  "Item Name": "Quantum Profits",
+  "Amt.": 2500,
+  "Amt._raw": "+2500",
+  "Bonus per Level": "Cash every Minute",
+  "_images": [
+   "Quantum_profits.png",
+   "Godshard.png",
+   "Hammerhead_shark.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Godly",
+  "_section": "",
+  "_table": 0,
+  "Req.": 70,
+  "Item Name": "Universal EXP",
+  "Amt.": "+0.8%",
+  "Bonus per Level": "EXP Gain Chance",
+  "_images": [
+   "Universal_exp.png",
+   "Godshard.png",
+   "Giant_sea_serpent.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Godly",
+  "_section": "",
+  "_table": 0,
+  "Req.": 70,
+  "Item Name": "Aortic Affinity",
+  "Amt.": 1000,
+  "Amt._raw": "+1000",
+  "Bonus per Level": "Base Max. HP",
+  "_images": [
+   "Aortic_affinity.png",
+   "Demonite.png",
+   "Jumbo_shrimp.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Godly",
+  "_section": "",
+  "_table": 0,
+  "Req.": 70,
+  "Item Name": "Hyper Fishing",
+  "Amt.": "+20%",
+  "Bonus per Level": "Fish per Catch",
+  "_images": [
+   "Hyper_fishing.png",
+   "Kraken.png",
+   "Godshard.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Godly",
+  "_section": "",
+  "_table": 0,
+  "Req.": 70,
+  "Item Name": "Dimension Hoppers",
+  "Amt.": "+4%",
+  "Bonus per Level": "Idle Attack Speed",
+  "_images": [
+   "Dimension_hoppers.png",
+   "Godshard.png",
+   "Jumbo_shrimp.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Djinnic",
+  "_section": "",
+  "_table": 0,
+  "Req.": 120,
+  "Item Name": "Djinnic Trinket",
+  "Amt.": "+100%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Djinnic_trinket.png",
+   "Djinn.png",
+   "Manta_ray.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Djinnic",
+  "_section": "",
+  "_table": 0,
+  "Req.": 120,
+  "Item Name": "Oberons Obliterator",
+  "Amt.": 89717,
+  "Amt._raw": "+89717",
+  "Bonus per Level": "Base Damage (Based on Kills)",
+  "_images": [
+   "Oberons_obliterator.png",
+   "Djinn.png",
+   "Old_shoe.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Djinnic",
+  "_section": "",
+  "_table": 0,
+  "Req.": 120,
+  "Item Name": "Cyber J Series",
+  "Amt.": "+1%",
+  "Bonus per Level": "Shields Every Noodles Bite (caps at 4000%)",
+  "_images": [
+   "Cyber_j_series.png",
+   "Djinn.png",
+   "Antimatter.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Djinnic",
+  "_section": "",
+  "_table": 0,
+  "Req.": 120,
+  "Item Name": "Ensouled Head",
+  "Amt.": "+<0.2%",
+  "Bonus per Level": "Kills per Kill (caps at +10)",
+  "_images": [
+   "Ensouled_head.png",
+   "Djinn.png",
+   "Demonite.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Djinnic",
+  "_section": "",
+  "_table": 0,
+  "Req.": 120,
+  "Item Name": "Righteous Rift",
+  "Amt.": "+<1.7%",
+  "Bonus per Level": "Less EXP to Level Up Rifts (caps at 70%)",
+  "_images": [
+   "Righteous_rift.png",
+   "Gummi.png",
+   "Giant_sea_urchin.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Djinnic",
+  "_section": "",
+  "_table": 0,
+  "Req.": 120,
+  "Item Name": "Pimpin Pumper",
+  "Amt.": 10000,
+  "Amt._raw": "+10000",
+  "Bonus per Level": "Base Max HP",
+  "_images": [
+   "Pimpin_pumper.png",
+   "Gummi.png",
+   "Crystalfish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Djinnic",
+  "_section": "",
+  "_table": 0,
+  "Req.": 120,
+  "Item Name": "Mythical Serfdoms",
+  "Amt.": "+5-10%",
+  "Bonus per Level": "Tilling Perk EXP (caps at 4000%)",
+  "_images": [
+   "Mythical_serfdoms.png",
+   "Gummi.png",
+   "Yellow_gulper.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Djinnic",
+  "_section": "",
+  "_table": 0,
+  "Req.": 120,
+  "Item Name": "Normie Rocks",
+  "Amt.": "+0.1-0.4%",
+  "Bonus per Level": "Crystal Bonus (Red, Yellow, Blue, Purple) (caps at 20%)",
+  "_images": [
+   "Normie_rocks.png",
+   "Gummi.png",
+   "Djinn.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Gaxial",
+  "_section": "",
+  "_table": 0,
+  "Req.": "? + Hammer Time Lv. 1",
+  "Item Name": "Slamacow Trinket",
+  "Amt.": "+X",
+  "Bonus per Level": "Increases all smith trinket bonuses to the power of 1.X",
+  "_images": [
+   "Slamacow_Trinket.png",
+   "Baubles.png",
+   "Crystalfish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Gaxial",
+  "_section": "",
+  "_table": 0,
+  "Req.": "? + Hammer Time Lv. 1",
+  "Item Name": "Gaxmis Glaive",
+  "Amt.": "+X",
+  "Bonus per Level": "Base Damage per best Afterlife ever reached",
+  "_images": [
+   "Gaxmis_Glaive.png",
+   "Djinn.png",
+   "T calming obol.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Gaxial",
+  "_section": "",
+  "_table": 0,
+  "Req.": "? + Hammer Time Lv. 2",
+  "Item Name": "Irradiated Builders",
+  "Amt.": "+X%",
+  "Bonus per Level": "Build Speed for Iodized Builders",
+  "_images": [
+   "Irradiated_Builders.png",
+   "Refractium.png",
+   "T wealth obol.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Gaxial",
+  "_section": "",
+  "_table": 0,
+  "Req.": "? + Hammer Time Lv. 2",
+  "Item Name": "Snapped Time",
+  "Amt.": "+X",
+  "Bonus per Level": "Increases all smithing cash bonuses to the power of 1.X",
+  "_images": [
+   "Snapped_Time.png",
+   "Gummi.png",
+   "T coin.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Gaxial",
+  "_section": "",
+  "_table": 0,
+  "Req.": "? + Hammer Time Lv. 3",
+  "Item Name": "One Swing Pick",
+  "Amt.": "+X",
+  "Bonus per Level": "(1+X)x gain of all resources for each star of cool cash",
+  "_images": [
+   "One_Swing_Pick.png",
+   "Giant sea serpent.png",
+   "Legendary12.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Gaxial",
+  "_section": "",
+  "_table": 0,
+  "Req.": "? + Hammer Time Lv. 3",
+  "Item Name": "Timelesseum",
+  "Amt.": "+X%",
+  "Bonus per Level": "Chance to trigger a super chain upon H20 level up",
+  "_images": [
+   "Timelesseum.png",
+   "Hammerhead shark.png",
+   "Perarlescent7.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Gaxial",
+  "_section": "",
+  "_table": 0,
+  "Req.": "? + Hammer Time Lv. 4",
+  "Item Name": "Sparkle Goop",
+  "Amt.": "+X%",
+  "Bonus per Level": "Realm coins per best Afterlife reaches",
+  "_images": [
+   "Sparkle_Goop.png",
+   "T the mark.png",
+   "Rare12.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Gaxial",
+  "_section": "",
+  "_table": 0,
+  "Req.": "? + Hammer Time Lv. 4",
+  "Item Name": "The One and Only",
+  "Amt.": "+X%",
+  "Bonus per Level": "Minion Dmg per best Afterlife after 50",
+  "_images": [
+   "The_One_and_Only.png",
+   "T temper obol.png",
+   "Pearlescent9.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Trainee",
+  "_section": "",
+  "_table": 0,
+  "Req.": 1,
+  "Item Name": "Copper Trinket",
+  "Amt.": "+0.5%",
+  "Bonus per Level": "Damage",
+  "Resources Needed_2": "-",
+  "_images": [
+   "Copper_trinket.png",
+   "Copper.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Trainee",
+  "_section": "",
+  "_table": 0,
+  "Req.": 1,
+  "Item Name": "Broken Dagger",
+  "Amt.": 5,
+  "Amt._raw": "+5",
+  "Bonus per Level": "Base Damage",
+  "Resources Needed_2": "-",
+  "_images": [
+   "Broken_dagger.png",
+   "Copper.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Trainee",
+  "_section": "",
+  "_table": 0,
+  "Req.": 1,
+  "Item Name": "Fishwich",
+  "Amt.": 6,
+  "Amt._raw": "+6",
+  "Bonus per Level": "HP every Bite",
+  "_images": [
+   "Fishwich.png",
+   "Copper.png",
+   "Small_tuna.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Trainee",
+  "_section": "",
+  "_table": 0,
+  "Req.": 1,
+  "Item Name": "Petty Theft",
+  "Amt.": "+2%",
+  "Bonus per Level": "Cash from Enemies",
+  "_images": [
+   "Petty_theft.png",
+   "Copper.png",
+   "Iron.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Trainee",
+  "_section": "",
+  "_table": 0,
+  "Req.": 1,
+  "Item Name": "Reinforced EXP",
+  "Amt.": "+0.1%",
+  "Bonus per Level": "EXP Gain Chance",
+  "_images": [
+   "Reinforced_exp.png",
+   "Iron.png",
+   "Tin_can.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Trainee",
+  "_section": "",
+  "_table": 0,
+  "Req.": 1,
+  "Item Name": "Steel Stomach",
+  "Amt.": 10,
+  "Amt._raw": "+10",
+  "Bonus per Level": "Base Max. HP",
+  "Resources Needed_2": "-",
+  "_images": [
+   "Steel_stomach.png",
+   "Iron.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Trainee",
+  "_section": "",
+  "_table": 0,
+  "Req.": 1,
+  "Item Name": "Iron Rod",
+  "Amt.": 10,
+  "Amt._raw": "+10",
+  "Bonus per Level": "Fishing Power",
+  "_images": [
+   "Iron_rod.png",
+   "Iron.png",
+   "Old_shoe.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Trainee",
+  "_section": "",
+  "_table": 0,
+  "Req.": 1,
+  "Item Name": "Copper Dusters",
+  "Amt.": "+0.75%",
+  "Bonus per Level": "Crit Damage",
+  "_images": [
+   "Copper_dusters.png",
+   "Copper.png",
+   "Old_shoe.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Skilled",
+  "_section": "",
+  "_table": 0,
+  "Req.": 20,
+  "Item Name": "Cobalt Trinket",
+  "Amt.": "+1.25%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Cobalt_trinket.png",
+   "Cobalt.png",
+   "Platinum.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Skilled",
+  "_section": "",
+  "_table": 0,
+  "Req.": 20,
+  "Item Name": "Imbued Scimitar",
+  "Amt.": 25,
+  "Amt._raw": "+25",
+  "Bonus per Level": "Base Damage",
+  "_images": [
+   "Imbued_scimitar.png",
+   "Cobalt.png",
+   "Blue_shark.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Skilled",
+  "_section": "",
+  "_table": 0,
+  "Req.": 20,
+  "Item Name": "Blacksmith Pills",
+  "Amt.": "-",
+  "Bonus per Level": "May Cause Fever Dreams",
+  "_images": [
+   "Blacksmith_pills.png",
+   "Red_herring.png",
+   "Ice_cube_fish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Skilled",
+  "_section": "",
+  "_table": 0,
+  "Req.": 20,
+  "Item Name": "Minor Investment",
+  "Amt.": 30,
+  "Amt._raw": "+30",
+  "Bonus per Level": "Cash every Minute",
+  "Resources Needed_2": "-",
+  "_images": [
+   "Minor_investment.png",
+   "Firesalt.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Skilled",
+  "_section": "",
+  "_table": 0,
+  "Req.": 20,
+  "Item Name": "Lava Liver",
+  "Amt.": 50,
+  "Amt._raw": "+50",
+  "Bonus per Level": "Base Max. HP",
+  "_images": [
+   "Lava_liver.png",
+   "Firesalt.png",
+   "Medium_yellow_fish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Skilled",
+  "_section": "",
+  "_table": 0,
+  "Req.": 20,
+  "Item Name": "Firestone EXP",
+  "Amt.": "+0.2%",
+  "Bonus per Level": "EXP Gain Chance",
+  "_images": [
+   "Firestone_exp.png",
+   "Firesalt.png",
+   "Lobster.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Skilled",
+  "_section": "",
+  "_table": 0,
+  "Req.": 20,
+  "Item Name": "Cobalt Rod",
+  "Amt.": 15,
+  "Amt._raw": "+15",
+  "Bonus per Level": "Fishing Power",
+  "_images": [
+   "Cobalt_rod.png",
+   "Cobalt.png",
+   "Bonefish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Skilled",
+  "_section": "",
+  "_table": 0,
+  "Req.": 20,
+  "Item Name": "Cobalt Pendant",
+  "Amt.": "+0.25%",
+  "Bonus per Level": "Crit Chance",
+  "_images": [
+   "Cobalt_pendant.png",
+   "Cobalt.png",
+   "Blue_shark.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Virtuo",
+  "_section": "",
+  "_table": 0,
+  "Req.": 40,
+  "Item Name": "Rubillic Trinket",
+  "Amt.": "+3.5%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Rubillic_trinket.png",
+   "Ruby.png",
+   "Angler_fish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Virtuo",
+  "_section": "",
+  "_table": 0,
+  "Req.": 40,
+  "Item Name": "Crystalline Ripper",
+  "Amt.": 100,
+  "Amt._raw": "+100",
+  "Bonus per Level": "Base Damage",
+  "_images": [
+   "Crystalline_ripper.png",
+   "Ruby.png",
+   "Pink_swordfish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Virtuo",
+  "_section": "",
+  "_table": 0,
+  "Req.": 40,
+  "Item Name": "Enigmatic Booster",
+  "Amt.": "+2%",
+  "Bonus per Level": "Value from all Secrets",
+  "_images": [
+   "Enigmatic_booster.png",
+   "Refractium.png",
+   "Yellow_grouper.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Virtuo",
+  "_section": "",
+  "_table": 0,
+  "Req.": 40,
+  "Item Name": "Major Investment",
+  "Amt.": 400,
+  "Amt._raw": "+400",
+  "Bonus per Level": "Cash every Minute",
+  "_images": [
+   "Major_investment.png",
+   "Refractium.png",
+   "Puffer_fish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Virtuo",
+  "_section": "",
+  "_table": 0,
+  "Req.": 40,
+  "Item Name": "Turbo Reps",
+  "Amt.": "+2%",
+  "Bonus per Level": "Rep Speed (caps at 50k crafts)",
+  "_images": [
+   "Turbo_reps.png",
+   "Refractium.png",
+   "Crystalfish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Virtuo",
+  "_section": "",
+  "_table": 0,
+  "Req.": 40,
+  "Item Name": "Fractal Armor",
+  "Amt.": "-0.1%",
+  "Bonus per Level": "Monster Damage",
+  "_images": [
+   "Fractal_armor.png",
+   "Refractium.png",
+   "Ruby.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Virtuo",
+  "_section": "",
+  "_table": 0,
+  "Req.": 40,
+  "Item Name": "Rainbow Rod",
+  "Amt.": 50,
+  "Amt._raw": "+50",
+  "Bonus per Level": "Fishing Power",
+  "_images": [
+   "Rainbow_rod.png",
+   "Refractium.png",
+   "Crystalfish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Virtuo",
+  "_section": "",
+  "_table": 0,
+  "Req.": 40,
+  "Item Name": "Rubium Dusters",
+  "Amt.": "+2.5%",
+  "Bonus per Level": "Crit Damage",
+  "_images": [
+   "Rubium_dusters.png",
+   "Ruby.png",
+   "Crystalfish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Warped",
+  "_section": "",
+  "_table": 0,
+  "Req.": 90,
+  "Item Name": "Warped Trinket",
+  "Amt.": "+35%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Warped_trinket.png",
+   "Warpium.png",
+   "Kraken.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Warped",
+  "_section": "",
+  "_table": 0,
+  "Req.": 90,
+  "Item Name": "Cuttokillicus",
+  "Amt.": 100,
+  "Amt._raw": "+100",
+  "Bonus per Level": "Base Damage per Mining Lv",
+  "_images": [
+   "Cuttokillicus.png",
+   "Warpium.png",
+   "Demonite.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Warped",
+  "_section": "",
+  "_table": 0,
+  "Req.": 90,
+  "Item Name": "Cyber F Series",
+  "Amt.": "+0.25%",
+  "Bonus per Level": "Shields Every Fishwich Bite (caps at 2500%)",
+  "_images": [
+   "Cyber_f_series.png",
+   "Jumbo_shrimp.png",
+   "Demonite.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Warped",
+  "_section": "",
+  "_table": 0,
+  "Req.": 90,
+  "Item Name": "Lightning Larceny",
+  "Amt.": "+40%",
+  "Bonus per Level": "Cash from Enemies",
+  "_images": [
+   "Lightning_larceny.png",
+   "Anodizia.png",
+   "Yellow_grouper.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Warped",
+  "_section": "",
+  "_table": 0,
+  "Req.": 90,
+  "Item Name": "Blinged Pickaxe",
+  "Amt.": "+5%",
+  "Bonus per Level": "Mining EXP",
+  "_images": [
+   "Blinged_pickaxe.png",
+   "Warpium.png",
+   "Snail_fish.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Warped",
+  "_section": "",
+  "_table": 0,
+  "Req.": 90,
+  "Item Name": "BP Straight Up",
+  "Amt.": "+0.5%",
+  "Bonus per Level": "BP when Ascending (caps at 1000)",
+  "_images": [
+   "Bp_straight_up.png",
+   "Warpium.png",
+   "Kraken.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Warped",
+  "_section": "",
+  "_table": 0,
+  "Req.": 90,
+  "Item Name": "Tin Pail Tree",
+  "Amt.": "+5-10%",
+  "Bonus per Level": "Botany Growth Speed (caps at 6000%)",
+  "_images": [
+   "Tin_pail_tree.png",
+   "Anodizia.png",
+   "Demonite.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Warped",
+  "_section": "",
+  "_table": 0,
+  "Req.": 90,
+  "Item Name": "Crystal Supremacy",
+  "Amt.": "+0.1-0.4%",
+  "Bonus per Level": "Crystal Bonus (Green, Orange, Purple) (caps at 20%)",
+  "_images": [
+   "Crystal_supremacy.png",
+   "Anodizia.png",
+   "Godshard.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Zaqqic",
+  "_section": "",
+  "_table": 0,
+  "Req.": "170 + Smithy Cert Lv. 1",
+  "Item Name": "Zaqqum Trinket",
+  "Amt.": "+X%",
+  "Bonus per Level": "Damage Every 100 Strength Levels",
+  "_images": [
+   "Zaqqum_Trinket.png",
+   "Copper.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Zaqqic",
+  "_section": "",
+  "_table": 0,
+  "Req.": "170 + Smithy Cert Lv. 1",
+  "Item Name": "Doom Gauntlet",
+  "Amt.": "+X",
+  "Bonus per Level": "Base Damage (scales with Crusade 15 levels)",
+  "_images": [
+   "Doom_Gauntlet.png",
+   "Gold.png",
+   "Jumbo_shrimp.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Zaqqic",
+  "_section": "",
+  "_table": 0,
+  "Req.": "170 + Smithy Cert Lv. 2",
+  "Item Name": "Cremation Jar",
+  "Amt.": "+X",
+  "Bonus per Level": "Max Levels to Mystic Botany BP Perk (and adds a new bonus)",
+  "_images": [
+   "Cremation_Jar.png",
+   "Anodizia.png",
+   "T_coin.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Zaqqic",
+  "_section": "",
+  "_table": 0,
+  "Req.": "170 + Smithy Cert Lv. 2",
+  "Item Name": "Smouldering Steal",
+  "Amt.": "+X%",
+  "Bonus per Level": "Cash from enemies every 10 spelunking levels",
+  "_images": [
+   "Smouldering_Steal.png",
+   "Bobbit_worm.png",
+   "T_wealth_obol.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Zaqqic",
+  "_section": "",
+  "_table": 0,
+  "Req.": "170 + Smithy Cert Lv. 3",
+  "Item Name": "Charons Obol",
+  "Amt.": "+X%",
+  "Bonus per Level": "Faster Attack Speed for all Realm Minions",
+  "_images": [
+   "Charons_Obol.png",
+   "Yellow_gulper.png",
+   "Epic12.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Zaqqic",
+  "_section": "",
+  "_table": 0,
+  "Req.": "170 + Smithy Cert Lv. 3",
+  "Item Name": "Firebrand Essence",
+  "Amt.": "+X%",
+  "Bonus per Level": "Double brew chance; Multibrew cap is now +X (max 15)",
+  "_images": [
+   "Firebrand_Essence.png",
+   "Firesalt.png",
+   "t_irish_clover.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Zaqqic",
+  "_section": "",
+  "_table": 0,
+  "Req.": "170 + Smithy Cert Lv. 4",
+  "Item Name": "Don't Go Fetch",
+  "Amt.": "+X%",
+  "Bonus per Level": "Pet Damage and Trekking Move Speed",
+  "_images": [
+   "Dont_Go_Fetch.png",
+   "Red_herring.png",
+   "Epic13.png"
+  ]
+ },
+ {
+  "_page": "Smithing/Zaqqic",
+  "_section": "",
+  "_table": 0,
+  "Req.": "170 + Smithy Cert Lv. 4",
+  "Item Name": "Sacrificial Altar",
+  "Amt.": "+X%",
+  "Bonus per Level": "More Traces Earned from Asylum Bosses",
+  "_images": [
+   "Sacrificial_Altar.png",
+   "Ruby.png",
+   "t_prime_meat.png"
+  ]
+ }
+]

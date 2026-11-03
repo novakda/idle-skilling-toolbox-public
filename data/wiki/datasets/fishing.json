@@ -1,0 +1,247 @@
+[
+ {
+  "_page": "Fishing",
+  "_section": "Small Fish",
+  "_table": 0,
+  "Name": "Old Boot",
+  "Level Required": 1,
+  "Name_2": "Red Herring",
+  "Level Required_2": 24,
+  "_images": [
+   "Old_shoe.png",
+   "Red_herring.png"
+  ]
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Small Fish",
+  "_table": 0,
+  "Name": "Tin Can",
+  "Level Required": 1,
+  "Name_2": "Sword Fish",
+  "Level Required_2": 30,
+  "_images": [
+   "Tin_can.png",
+   "Sword_fish.png"
+  ]
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Small Fish",
+  "_table": 0,
+  "Name": "Minnow",
+  "Level Required": 1,
+  "Name_2": "Ice Cube Fish",
+  "Level Required_2": 36,
+  "_images": [
+   "Minnow.png",
+   "Ice_cube_fish.png"
+  ]
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Small Fish",
+  "_table": 0,
+  "Name": "Small Tuna",
+  "Level Required": 1,
+  "Name_2": "Puffer Fish",
+  "Level Required_2": 42,
+  "_images": [
+   "Small_tuna.png",
+   "Puffer_fish.png"
+  ]
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Small Fish",
+  "_table": 0,
+  "Name": "Jellyfish",
+  "Level Required": 6,
+  "Name_2": "Crystal Fish",
+  "Level Required_2": 48,
+  "_images": [
+   "Jellyfish.png",
+   "Crystalfish.png"
+  ]
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Small Fish",
+  "_table": 0,
+  "Name": "Medium Yellow Fish",
+  "Level Required": 12,
+  "Name_2": "Bobbit Worm",
+  "Level Required_2": 54,
+  "_images": [
+   "Medium_yellow_fish.png",
+   "Bobbit_worm.png"
+  ]
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Small Fish",
+  "_table": 0,
+  "Name": "Chainmail Fish",
+  "Level Required": 18,
+  "Name_2": "Dollar Fish",
+  "Level Required_2": 60,
+  "_images": [
+   "Chainmailfish.png",
+   "Dollar_fish.png"
+  ]
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Medium Fish",
+  "_table": 1,
+  "Name": "Angler Fish",
+  "Level Required": 1,
+  "Name_2": "Pink Swordfish",
+  "Level Required_2": 40,
+  "_images": [
+   "Angler_fish.png",
+   "Pink_swordfish.png"
+  ]
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Medium Fish",
+  "_table": 1,
+  "Name": "Lobster",
+  "Level Required": 8,
+  "Name_2": "Snail Fish",
+  "Level Required_2": 48,
+  "_images": [
+   "Lobster.png",
+   "Snail_fish.png"
+  ]
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Medium Fish",
+  "_table": 1,
+  "Name": "Bonefish",
+  "Level Required": 16,
+  "Name_2": "Hammerhead Shark",
+  "Level Required_2": 56,
+  "_images": [
+   "Bonefish.png",
+   "Hammerhead_shark.png"
+  ]
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Medium Fish",
+  "_table": 1,
+  "Name": "Blue Shark",
+  "Level Required": 24,
+  "Name_2": "Yellow Gulper",
+  "Level Required_2": 64,
+  "_images": [
+   "Blue_shark.png",
+   "Yellow_gulper.png"
+  ]
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Medium Fish",
+  "_table": 1,
+  "Name": "Yellow Fin Tuna",
+  "Level Required": 32,
+  "Name_2": "Pike Fish",
+  "Level Required_2": 72,
+  "_images": [
+   "Yellow_fin_tuna.png",
+   "Pike_fish.png"
+  ]
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Large Fish",
+  "_table": 2,
+  "Name": "Giant Sea Urchin",
+  "Level Required": 1,
+  "Name_2": "Giant Sea Serpent",
+  "Level Required_2": 45,
+  "_images": [
+   "Giant_sea_urchin.png",
+   "Giant_sea_serpent.png"
+  ]
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Large Fish",
+  "_table": 2,
+  "Name": "Manta Ray",
+  "Level Required": 15,
+  "Name_2": "Kraken",
+  "Level Required_2": 60,
+  "_images": [
+   "Manta_ray.png",
+   "Kraken.png"
+  ]
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Large Fish",
+  "_table": 2,
+  "Name": "Yellow Grouper",
+  "Level Required": 30,
+  "Name_2": "Jumbo Shrimp",
+  "Level Required_2": 75,
+  "_images": [
+   "Yellow_grouper.png",
+   "Jumbo_shrimp.png"
+  ]
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Large Fish",
+  "_table": 3,
+  "Types of Rod": "Wood",
+  "Unlock Lvl. Smithing": "Default",
+  "Types of Hook": "Copper",
+  "Unlock Lvl. Fishing": "Default"
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Large Fish",
+  "_table": 3,
+  "Types of Rod": "Iron",
+  "Unlock Lvl. Smithing": 1,
+  "Types of Hook": "Iron",
+  "Unlock Lvl. Fishing": 10
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Large Fish",
+  "_table": 3,
+  "Types of Rod": "Cobalt",
+  "Unlock Lvl. Smithing": 20,
+  "Types of Hook": "Gold",
+  "Unlock Lvl. Fishing": 20
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Large Fish",
+  "_table": 3,
+  "Types of Rod": "Rainbow",
+  "Unlock Lvl. Smithing": 40,
+  "Types of Hook": "Platinum",
+  "Unlock Lvl. Fishing": 30
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Large Fish",
+  "_table": 3,
+  "Types of Hook": "Cobalt",
+  "Unlock Lvl. Fishing": 40
+ },
+ {
+  "_page": "Fishing",
+  "_section": "Large Fish",
+  "_table": 3,
+  "Types of Hook": "Firesalt",
+  "Unlock Lvl. Fishing": 50
+ }
+]

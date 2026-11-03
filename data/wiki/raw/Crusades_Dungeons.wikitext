@@ -1,0 +1,48 @@
+{| class="article-table" border="1" align="center"
+|-
+! scope="col" style="text-align: center;" |Narcissus
+! colspan="8" scope="col" style="text-align: center;" |Unlocks at Level 99
+|-
+| rowspan="2" |[[File:Narcissus.png]]
+| colspan="2" |[[File:Sadness.png|center]]
+| colspan="2" |[[File:Jealousy.png|center]]
+| colspan="2" |[[File:Envy.png|center]]
+| colspan="2" |[[File:Anger.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Sadness
+| colspan="2" |Jealousy
+| colspan="2" |Envy
+| colspan="2" |Anger
+|-
+! style="text-align: center;" |Tier
+| colspan="2" |[[File:Tier1skull.png|center|40px]]
+| colspan="2" |[[File:Tier2skull.png|center|40px]]
+|[[File:Tier3skull.png|center|40px]]
+|[[File:Tier4skull.png|center|40px]]
+|[[File:Tier5skull.png|center|40px]]
+|[[File:Tier6skull.png|center|40px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Defense
+| colspan="2" |100M
+| colspan="2" |482M
+|6654M
+|91B
+|1264B
+|17T
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |1Q
+| colspan="2" |13Q
+|2QQ
+|371QQ
+|53QQQ
+|YIKES
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |2B
+| colspan="2" |5.4B
+|80B
+|1.6T
+|35T
+|707T
+|}

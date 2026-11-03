@@ -1,0 +1,17 @@
+title: $:/
+
+SiteTitle: Idle Skilling Wiki
+SiteSubtitle: unofficial ad-free mirror of the Fandom wiki · text CC BY-SA 3.0
+DefaultTiddlers: [[Idle Skilling Wiki]]
+palette: $:/is/palette
+config/WikiParserRules/Inline/wikilink: disable
+config/AnimationDuration: 0
+config/DefaultSidebarTab: $:/is/ui/SideBar/Contents
+themes/tiddlywiki/vanilla/options/sidebarlayout: fluid-fixed
+themes/tiddlywiki/vanilla/metrics/sidebarwidth: 340px
+themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint: 1000px
+themes/tiddlywiki/vanilla/metrics/fontsize: 14px
+themes/tiddlywiki/vanilla/metrics/lineheight: 20px
+themes/tiddlywiki/vanilla/settings/fontfamily: system-ui, "Segoe UI", Roboto, sans-serif
+themes/tiddlywiki/vanilla/settings/codefontfamily: ui-monospace, Consolas, monospace
+config/Navigation/UpdateAddressBar: permalink

@@ -1,0 +1,3 @@
+<small><sup>{{#ifexpr: ({{#time:U|{{CURRENTTIMESTAMP}}}}-{{#time:U|{{{1|{{CURRENTTIMESTAMP}}}}}}}) > 1209600|<span style="color: red;">citation overdue</span><includeonly>[[Category:Verification overdue]]</includeonly>|[citation needed]}}</sup></small><includeonly>[[Category:Citation needed]]</includeonly><noinclude>{{documentation}}
+[[Category:Page management templates|{{PAGENAME}}]]
+</noinclude>

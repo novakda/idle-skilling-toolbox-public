@@ -1,0 +1,57 @@
+:root {
+  /* Dark only, blue-grey surfaces, blue accent (the author 2026-10-11, #40; values picked by eye after Idleon Toolbox's look).
+     Every text colour below is WCAG AA (>= 4.5:1) on --bg, --panel and its own status tint. */
+  --bg: #131920; --panel: #1b232c; --text: #e2e7ec; --muted: #95a1ad; --border: #2c3640; --accent: #5ea8f2;
+  /* Status colours: verdicts only (win / close / no, trash, ready). Text colour + a faint cell tint. */
+  --good: #6cc98a; --good-bg: #183326; --warn: #e5b45a; --warn-bg: #33290f; --bad: #f08178; --bad-bg: #3a1f1f;
+  font: 15px/1.45 system-ui, 'Segoe UI', Roboto, sans-serif; color-scheme: dark;
+}
+a { color: var(--accent); }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); }
+code, td.v { font-family: ui-monospace, Consolas, monospace; font-size: 13px; }
+
+/* Page header (docs/ux-direction.md item 2): title, what it answers, up to four flat key-number tiles. */
+.page-head { margin: 0 0 14px; }
+.page-head h2 { font-size: 20px; margin: 0; }
+.page-head > p { margin: 2px 0 10px; color: var(--muted); }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 8px; max-width: 720px; }
+.tile { border: 1px solid var(--border); border-radius: 6px; background: var(--panel); padding: 8px 12px; }
+.tile b { display: block; font-size: 20px; font-variant-numeric: tabular-nums; }
+.tile span { color: var(--muted); font-size: 13px; }
+
+/* List tables (item 3): wrap in .tbl so wide ones scroll inside the box, never the page. */
+.tbl { overflow: auto; max-height: 70vh; border: 1px solid var(--border); border-radius: 6px; margin-bottom: 12px; background: var(--panel); }
+table.list { width: 100%; min-width: 640px; border-collapse: collapse; font-size: 13px; line-height: 1.35; }
+table.list th { position: sticky; top: 0; z-index: 1; background: var(--panel); text-align: left; font-weight: 600; color: var(--muted);
+  padding: 5px 8px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+table.list td { padding: 3px 8px; border-bottom: 1px solid var(--border); vertical-align: top; }
+table.list tbody tr:last-child td { border-bottom: 0; }
+table.list tbody tr:hover td:not([class*=st-]) { background: color-mix(in srgb, var(--text) 5%, transparent); }
+table.list .num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+/* Click a header to sort (table-sort.ts); class "nosort" where the row order is the meaning (step plans). */
+table.list:not(.nosort) > thead th { cursor: pointer; user-select: none; }
+table.list th[aria-sort=ascending]::after { content: ' ▲'; } table.list th[aria-sort=descending]::after { content: ' ▼'; }
+.st-good { color: var(--good); } .st-warn { color: var(--warn); } .st-bad { color: var(--bad); }
+td.st-good { background: var(--good-bg); } td.st-warn { background: var(--warn-bg); } td.st-bad { background: var(--bad-bg); }
+
+/* Patterns adapted from Idleon Toolbox (docs/ux-idleon-reference.md), Pets first. */
+/* Section tabs: one page, several areas; flat strip, scrolls sideways on narrow screens, no transitions. */
+.subtabs { display: flex; gap: 2px; overflow-x: auto; border-bottom: 1px solid var(--border); margin: 14px 0 4px; }
+.subtabs button { font: inherit; font-size: 14px; background: none; border: 0; border-bottom: 2px solid transparent; color: var(--muted);
+  padding: 6px 12px; cursor: pointer; white-space: nowrap; }
+.subtabs button:hover { color: var(--text); }
+.subtabs button[aria-selected=true] { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+/* Section header: bold title with a muted one-line subtitle beside it. */
+.sec-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; margin: 16px 0 6px; }
+.sec-head h3, .sec-head h4 { margin: 0; }
+.sec-head > .m { font-size: 13px; color: var(--muted); font-weight: normal; }
+/* Facts row: bold label, value on the same line, items wrap as units. */
+.facts { display: flex; flex-wrap: wrap; gap: 4px 18px; margin: 0 0 10px; }
+.facts > span { white-space: nowrap; }
+/* "How it's worked out": formulas and sources stay one click away instead of between the tables. */
+details.how { margin: 0 0 12px; font-size: 13px; color: var(--muted); }
+details.how summary { cursor: pointer; width: fit-content; }
+details.how p { margin: 4px 0 0 16px; }
+@media (max-width: 600px) { .subtabs button, details.how summary { min-height: 44px; } .facts > span { white-space: normal; } }
+.goal { margin: 4px 0 10px; } .goal select { font: inherit; }

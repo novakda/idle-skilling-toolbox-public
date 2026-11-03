@@ -1,0 +1,1292 @@
+[
+ {
+  "_page": "Crusades",
+  "_section": "Drops",
+  "_table": 0,
+  "CrusadeLevel": 1,
+  "_images": [
+   "The_bruiser.png",
+   "Common1.png",
+   "Common2.png",
+   "Common11.png",
+   "Uncommon1.png",
+   "Uncommon10.png"
+  ]
+ },
+ {
+  "_page": "Crusades",
+  "_section": "Drops",
+  "_table": 0,
+  "CrusadeLevel": 5,
+  "_images": [
+   "Toxic_sludge.png",
+   "Common6.png",
+   "Common12.png",
+   "Common7.png",
+   "Uncommon4.png",
+   "Uncommon9.png"
+  ]
+ },
+ {
+  "_page": "Crusades",
+  "_section": "Drops",
+  "_table": 0,
+  "CrusadeLevel": 10,
+  "_images": [
+   "Killer_rabbit.png",
+   "Common4.png",
+   "Common8.png",
+   "Common14.png",
+   "Uncommon7.png",
+   "Uncommon5.png"
+  ]
+ },
+ {
+  "_page": "Crusades",
+  "_section": "Drops",
+  "_table": 0,
+  "CrusadeLevel": 15,
+  "_images": [
+   "Desert_giant.png",
+   "Common5.png",
+   "Common3.png",
+   "Common10.png",
+   "Rare1.png",
+   "Rare4.png"
+  ]
+ },
+ {
+  "_page": "Crusades",
+  "_section": "Drops",
+  "_table": 0,
+  "CrusadeLevel": 20,
+  "_images": [
+   "Pincermin.png",
+   "Common9.png",
+   "Common13.png",
+   "Uncommon3.png",
+   "Rare11.png",
+   "Epic1.png"
+  ]
+ },
+ {
+  "_page": "Crusades",
+  "_section": "Drops",
+  "_table": 0,
+  "CrusadeLevel": 30,
+  "_images": [
+   "Desert_wurm.png",
+   "Common15.png",
+   "Common16.png",
+   "Uncommon6.png",
+   "Uncommon8.png",
+   "Epic3.png"
+  ]
+ },
+ {
+  "_page": "Crusades",
+  "_section": "Drops",
+  "_table": 0,
+  "CrusadeLevel": 40,
+  "_images": [
+   "Faust.png",
+   "Uncommon11.png",
+   "Uncommon2.png",
+   "Rare2.png",
+   "Epic10.png",
+   "Epic8.png"
+  ]
+ },
+ {
+  "_page": "Crusades",
+  "_section": "Drops",
+  "_table": 0,
+  "CrusadeLevel": 50,
+  "_images": [
+   "Arachneon.png",
+   "Rare7.png",
+   "Rare5.png",
+   "Epic2.png",
+   "Epic5.png",
+   "Legendary9.png"
+  ]
+ },
+ {
+  "_page": "Crusades",
+  "_section": "Drops",
+  "_table": 0,
+  "CrusadeLevel": 60,
+  "_images": [
+   "Gheist.png",
+   "Rare6.png",
+   "Rare8.png",
+   "Rare10.png",
+   "Epic9.png",
+   "Legendary1.png"
+  ]
+ },
+ {
+  "_page": "Crusades",
+  "_section": "Drops",
+  "_table": 0,
+  "CrusadeLevel": 70,
+  "_images": [
+   "Basilisk.png",
+   "Rare9.png",
+   "Rare3.png",
+   "Epic4.png",
+   "Legendary10.png",
+   "Legendary4.png"
+  ]
+ },
+ {
+  "_page": "Crusades",
+  "_section": "Drops",
+  "_table": 0,
+  "CrusadeLevel": 80,
+  "_images": [
+   "Blobulytes.png",
+   "Epic6.png",
+   "Epic11.png",
+   "Epic7.png",
+   "Legendary5.png",
+   "Pearl2.png"
+  ]
+ },
+ {
+  "_page": "Crusades",
+  "_section": "Drops",
+  "_table": 0,
+  "CrusadeLevel": 90,
+  "_images": [
+   "Puppeteer.png",
+   "Legendary2.png",
+   "Legendary6.png",
+   "Legendary8.png",
+   "Pearl1.png",
+   "Pearl6.png"
+  ]
+ },
+ {
+  "_page": "Crusades",
+  "_section": "Drops",
+  "_table": 0,
+  "CrusadeLevel": 99,
+  "_images": [
+   "Narcissus.png",
+   "Legendary3.png",
+   "Legendary7.png",
+   "Pearl8.png",
+   "Pearl5.png",
+   "Pearl9.png"
+  ]
+ },
+ {
+  "_page": "Crusades",
+  "_section": "Drops",
+  "_table": 1,
+  "col1": 120,
+  "_images": [
+   "Crusader crapotti.png",
+   "Uncommon12.png",
+   "Rare12.png",
+   "Epic12.png",
+   "Legendary11.png",
+   "Perarlescent7.png"
+  ]
+ },
+ {
+  "_page": "Crusades",
+  "_section": "Drops",
+  "_table": 2,
+  "col1": 140,
+  "_images": [
+   "Crusader father of all.png",
+   "Rare13.png",
+   "Epic13.png",
+   "Legendary12.png",
+   "Pearlescent8.png",
+   "Pearlescent9.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Grasslands",
+  "_section": "",
+  "_table": 0,
+  "Unlocks at Level 1": "Bandit Shroom",
+  "Unlocks at Level 1_2": "Bandit Shroom",
+  "Unlocks at Level 1_3": "Patchy",
+  "Unlocks at Level 1_4": "Patchy",
+  "Unlocks at Level 1_5": "Snailsin",
+  "Unlocks at Level 1_6": "Snailsin",
+  "Unlocks at Level 1_7": "Lmr Deckhand",
+  "Unlocks at Level 1_8": "Lmr Deckhand",
+  "_images": [
+   "The_bruiser.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Grasslands",
+  "_section": "",
+  "_table": 0,
+  "The Bruiser": "Tier",
+  "_images": [
+   "Tier1skull.png",
+   "Tier2skull.png",
+   "Tier3skull.png",
+   "Tier4skull.png",
+   "Tier5skull.png",
+   "Tier6skull.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Grasslands",
+  "_section": "",
+  "_table": 0,
+  "The Bruiser": "Defense",
+  "Unlocks at Level 1": 2,
+  "Unlocks at Level 1_2": 2,
+  "Unlocks at Level 1_3": 5.9,
+  "Unlocks at Level 1_4": 5.9,
+  "Unlocks at Level 1_5": 36,
+  "Unlocks at Level 1_6": 228,
+  "Unlocks at Level 1_7": 1417,
+  "Unlocks at Level 1_8": 8777
+ },
+ {
+  "_page": "Crusades/Grasslands",
+  "_section": "",
+  "_table": 0,
+  "The Bruiser": "Health",
+  "Unlocks at Level 1": "866K",
+  "Unlocks at Level 1_2": "866K",
+  "Unlocks at Level 1_3": "4.4M",
+  "Unlocks at Level 1_4": "4.4M",
+  "Unlocks at Level 1_5": "153M",
+  "Unlocks at Level 1_6": "6B",
+  "Unlocks at Level 1_7": "228B",
+  "Unlocks at Level 1_8": "8.3T"
+ },
+ {
+  "_page": "Crusades/Grasslands",
+  "_section": "",
+  "_table": 0,
+  "The Bruiser": "Damage",
+  "Unlocks at Level 1": "1K",
+  "Unlocks at Level 1_2": "1K",
+  "Unlocks at Level 1_3": "2.2K",
+  "Unlocks at Level 1_4": "2.2K",
+  "Unlocks at Level 1_5": "11K",
+  "Unlocks at Level 1_6": "69K",
+  "Unlocks at Level 1_7": "413K",
+  "Unlocks at Level 1_8": "2.3M"
+ },
+ {
+  "_page": "Crusades/Grasslands",
+  "_section": "",
+  "_table": 1,
+  "Unlocks at Level 5": "Recruit",
+  "Unlocks at Level 5_2": "Recruit",
+  "Unlocks at Level 5_3": "Limpy",
+  "Unlocks at Level 5_4": "Limpy",
+  "Unlocks at Level 5_5": "Smile",
+  "Unlocks at Level 5_6": "Smile",
+  "Unlocks at Level 5_7": "Mime",
+  "Unlocks at Level 5_8": "Mime",
+  "_images": [
+   "Toxic_sludge.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Grasslands",
+  "_section": "",
+  "_table": 1,
+  "Toxic Sludge": "Tier",
+  "_images": [
+   "Tier1skull.png",
+   "Tier2skull.png",
+   "Tier3skull.png",
+   "Tier4skull.png",
+   "Tier5skull.png",
+   "Tier6skull.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Grasslands",
+  "_section": "",
+  "_table": 1,
+  "Toxic Sludge": "Defense",
+  "Unlocks at Level 5": 4,
+  "Unlocks at Level 5_2": 4,
+  "Unlocks at Level 5_3": 11,
+  "Unlocks at Level 5_4": 11,
+  "Unlocks at Level 5_5": 73,
+  "Unlocks at Level 5_6": 457,
+  "Unlocks at Level 5_7": 2835,
+  "Unlocks at Level 5_8": "17K"
+ },
+ {
+  "_page": "Crusades/Grasslands",
+  "_section": "",
+  "_table": 1,
+  "Toxic Sludge": "Health",
+  "Unlocks at Level 5": "4.3M",
+  "Unlocks at Level 5_2": "4.3M",
+  "Unlocks at Level 5_3": "22M",
+  "Unlocks at Level 5_4": "22M",
+  "Unlocks at Level 5_5": "765M",
+  "Unlocks at Level 5_6": "30B",
+  "Unlocks at Level 5_7": "1.1T",
+  "Unlocks at Level 5_8": "41T"
+ },
+ {
+  "_page": "Crusades/Grasslands",
+  "_section": "",
+  "_table": 1,
+  "Toxic Sludge": "Damage",
+  "Unlocks at Level 5": "4K",
+  "Unlocks at Level 5_2": "4K",
+  "Unlocks at Level 5_3": "9.6K",
+  "Unlocks at Level 5_4": "9.6K",
+  "Unlocks at Level 5_5": "53K",
+  "Unlocks at Level 5_6": "358K",
+  "Unlocks at Level 5_7": "2.3M",
+  "Unlocks at Level 5_8": "14M"
+ },
+ {
+  "_page": "Crusades/Grasslands",
+  "_section": "",
+  "_table": 2,
+  "Unlocks at Level 10": "Chewed",
+  "Unlocks at Level 10_2": "Chewed",
+  "Unlocks at Level 10_3": "Nibbled",
+  "Unlocks at Level 10_4": "Nibbled",
+  "Unlocks at Level 10_5": "Bitten",
+  "Unlocks at Level 10_6": "Bitten",
+  "Unlocks at Level 10_7": "Munched",
+  "Unlocks at Level 10_8": "Munched",
+  "_images": [
+   "Killer_rabbit.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Grasslands",
+  "_section": "",
+  "_table": 2,
+  "Killer Rabbit": "Tier",
+  "_images": [
+   "Tier1skull.png",
+   "Tier2skull.png",
+   "Tier3skull.png",
+   "Tier4skull.png",
+   "Tier5skull.png",
+   "Tier6skull.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Grasslands",
+  "_section": "",
+  "_table": 2,
+  "Killer Rabbit": "Defense",
+  "Unlocks at Level 10": 7,
+  "Unlocks at Level 10_2": 7,
+  "Unlocks at Level 10_3": 21,
+  "Unlocks at Level 10_4": 21,
+  "Unlocks at Level 10_5": 147,
+  "Unlocks at Level 10_6": 994,
+  "Unlocks at Level 10_7": 6689,
+  "Unlocks at Level 10_8": "45K"
+ },
+ {
+  "_page": "Crusades/Grasslands",
+  "_section": "",
+  "_table": 2,
+  "Killer Rabbit": "Health",
+  "Unlocks at Level 10": "13M",
+  "Unlocks at Level 10_2": "13M",
+  "Unlocks at Level 10_3": "68M",
+  "Unlocks at Level 10_4": "68M",
+  "Unlocks at Level 10_5": "2.5B",
+  "Unlocks at Level 10_6": "108B",
+  "Unlocks at Level 10_7": "4.4T",
+  "Unlocks at Level 10_8": "173T"
+ },
+ {
+  "_page": "Crusades/Grasslands",
+  "_section": "",
+  "_table": 2,
+  "Killer Rabbit": "Damage",
+  "Unlocks at Level 10": "3K",
+  "Unlocks at Level 10_2": "3K",
+  "Unlocks at Level 10_3": "7.3K",
+  "Unlocks at Level 10_4": "7.3K",
+  "Unlocks at Level 10_5": "42K",
+  "Unlocks at Level 10_6": "300K",
+  "Unlocks at Level 10_7": "2M",
+  "Unlocks at Level 10_8": "13M"
+ },
+ {
+  "_page": "Crusades/Desert",
+  "_section": "",
+  "_table": 0,
+  "Unlocks at Level 15": "Monoclesius",
+  "Unlocks at Level 15_2": "Monoclesius",
+  "Unlocks at Level 15_3": "Teassius",
+  "Unlocks at Level 15_4": "Teassius",
+  "Unlocks at Level 15_5": "Cactaurus",
+  "Unlocks at Level 15_6": "Cactaurus",
+  "Unlocks at Level 15_7": "Canesius",
+  "Unlocks at Level 15_8": "Canesius",
+  "_images": [
+   "Desert_giant.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Desert",
+  "_section": "",
+  "_table": 0,
+  "Desert Giant": "Tier",
+  "_images": [
+   "Tier1skull.png",
+   "Tier2skull.png",
+   "Tier3skull.png",
+   "Tier4skull.png",
+   "Tier5skull.png",
+   "Tier6skull.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Desert",
+  "_section": "",
+  "_table": 0,
+  "Desert Giant": "Defense",
+  "Unlocks at Level 15": 15,
+  "Unlocks at Level 15_2": 15,
+  "Unlocks at Level 15_3": 47,
+  "Unlocks at Level 15_4": 47,
+  "Unlocks at Level 15_5": 316,
+  "Unlocks at Level 15_6": 2130,
+  "Unlocks at Level 15_7": "14K",
+  "Unlocks at Level 15_8": "96K"
+ },
+ {
+  "_page": "Crusades/Desert",
+  "_section": "",
+  "_table": 0,
+  "Desert Giant": "Health",
+  "Unlocks at Level 15": "133M",
+  "Unlocks at Level 15_2": "133M",
+  "Unlocks at Level 15_3": "592M",
+  "Unlocks at Level 15_4": "592M",
+  "Unlocks at Level 15_5": "22B",
+  "Unlocks at Level 15_6": "996B",
+  "Unlocks at Level 15_7": "41T",
+  "Unlocks at Level 15_8": "1Q"
+ },
+ {
+  "_page": "Crusades/Desert",
+  "_section": "",
+  "_table": 0,
+  "Desert Giant": "Damage",
+  "Unlocks at Level 15": "25K",
+  "Unlocks at Level 15_2": "25K",
+  "Unlocks at Level 15_3": "59K",
+  "Unlocks at Level 15_4": "59K",
+  "Unlocks at Level 15_5": "384K",
+  "Unlocks at Level 15_6": "2.9M",
+  "Unlocks at Level 15_7": "22M",
+  "Unlocks at Level 15_8": "156M"
+ },
+ {
+  "_page": "Crusades/Desert",
+  "_section": "",
+  "_table": 1,
+  "Unlocks at Level 20": "Blade Row",
+  "Unlocks at Level 20_2": "Blade Row",
+  "Unlocks at Level 20_3": "White P Hat",
+  "Unlocks at Level 20_4": "White P Hat",
+  "Unlocks at Level 20_5": "Spike O Nut",
+  "Unlocks at Level 20_6": "Spike O Nut",
+  "Unlocks at Level 20_7": "Pinch Buggo",
+  "Unlocks at Level 20_8": "Pinch Buggo",
+  "_images": [
+   "Pincermin.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Desert",
+  "_section": "",
+  "_table": 1,
+  "Pincermin": "Tier",
+  "_images": [
+   "Tier1skull.png",
+   "Tier2skull.png",
+   "Tier3skull.png",
+   "Tier4skull.png",
+   "Tier5skull.png",
+   "Tier6skull.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Desert",
+  "_section": "",
+  "_table": 1,
+  "Pincermin": "Defense",
+  "Unlocks at Level 20": 35,
+  "Unlocks at Level 20_2": 35,
+  "Unlocks at Level 20_3": 109,
+  "Unlocks at Level 20_4": 109,
+  "Unlocks at Level 20_5": 738,
+  "Unlocks at Level 20_6": 4971,
+  "Unlocks at Level 20_7": "33K",
+  "Unlocks at Level 20_8": "225K"
+ },
+ {
+  "_page": "Crusades/Desert",
+  "_section": "",
+  "_table": 1,
+  "Pincermin": "Health",
+  "Unlocks at Level 20": "333M",
+  "Unlocks at Level 20_2": "333M",
+  "Unlocks at Level 20_3": "1.6B",
+  "Unlocks at Level 20_4": "1.6B",
+  "Unlocks at Level 20_5": "68B",
+  "Unlocks at Level 20_6": "3.1T",
+  "Unlocks at Level 20_7": "139T",
+  "Unlocks at Level 20_8": "5Q"
+ },
+ {
+  "_page": "Crusades/Desert",
+  "_section": "",
+  "_table": 1,
+  "Pincermin": "Damage",
+  "Unlocks at Level 20": "50K",
+  "Unlocks at Level 20_2": "50K",
+  "Unlocks at Level 20_3": "135K",
+  "Unlocks at Level 20_4": "135K",
+  "Unlocks at Level 20_5": "906K",
+  "Unlocks at Level 20_6": "7.1M",
+  "Unlocks at Level 20_7": "54M",
+  "Unlocks at Level 20_8": "396M"
+ },
+ {
+  "_page": "Crusades/Desert",
+  "_section": "",
+  "_table": 2,
+  "Unlocks at Level 30": "Babby Wurm",
+  "Unlocks at Level 30_2": "Babby Wurm",
+  "Unlocks at Level 30_3": "Scorpy Wurm",
+  "Unlocks at Level 30_4": "Scorpy Wurm",
+  "Unlocks at Level 30_5": "Vampy Wurm",
+  "Unlocks at Level 30_6": "Vampy Wurm",
+  "Unlocks at Level 30_7": "Tubby Wurm",
+  "Unlocks at Level 30_8": "Tubby Wurm",
+  "_images": [
+   "Desert_wurm.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Desert",
+  "_section": "",
+  "_table": 2,
+  "Desert Wurm": "Tier",
+  "_images": [
+   "Tier1skull.png",
+   "Tier2skull.png",
+   "Tier3skull.png",
+   "Tier4skull.png",
+   "Tier5skull.png",
+   "Tier6skull.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Desert",
+  "_section": "",
+  "_table": 2,
+  "Desert Wurm": "Defense",
+  "Unlocks at Level 30": 120,
+  "Unlocks at Level 30_2": 120,
+  "Unlocks at Level 30_3": 376,
+  "Unlocks at Level 30_4": 376,
+  "Unlocks at Level 30_5": 2533,
+  "Unlocks at Level 30_6": "17K",
+  "Unlocks at Level 30_7": "114K",
+  "Unlocks at Level 30_8": "771K"
+ },
+ {
+  "_page": "Crusades/Desert",
+  "_section": "",
+  "_table": 2,
+  "Desert Wurm": "Health",
+  "Unlocks at Level 30": "0.9B",
+  "Unlocks at Level 30_2": "0.9B",
+  "Unlocks at Level 30_3": "6.3B",
+  "Unlocks at Level 30_4": "6.3B",
+  "Unlocks at Level 30_5": "251B",
+  "Unlocks at Level 30_6": "11T",
+  "Unlocks at Level 30_7": "476T",
+  "Unlocks at Level 30_8": "19Q"
+ },
+ {
+  "_page": "Crusades/Desert",
+  "_section": "",
+  "_table": 2,
+  "Desert Wurm": "Damage",
+  "Unlocks at Level 30": "300K",
+  "Unlocks at Level 30_2": "300K",
+  "Unlocks at Level 30_3": "732K",
+  "Unlocks at Level 30_4": "732K",
+  "Unlocks at Level 30_5": "5M",
+  "Unlocks at Level 30_6": "41M",
+  "Unlocks at Level 30_7": "328M",
+  "Unlocks at Level 30_8": "2.4B"
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 0,
+  "Unlocks at Level 40": "Minty",
+  "Unlocks at Level 40_2": "Minty",
+  "Unlocks at Level 40_3": "Enigma",
+  "Unlocks at Level 40_4": "Enigma",
+  "Unlocks at Level 40_5": "Withness",
+  "Unlocks at Level 40_6": "Withness",
+  "Unlocks at Level 40_7": "Identity",
+  "Unlocks at Level 40_8": "Identity",
+  "_images": [
+   "Faust.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 0,
+  "Faust": "Tier",
+  "_images": [
+   "Tier1skull.png",
+   "Tier2skull.png",
+   "Tier3skull.png",
+   "Tier4skull.png",
+   "Tier5skull.png",
+   "Tier6skull.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 0,
+  "Faust": "Defense",
+  "Unlocks at Level 40": 300,
+  "Unlocks at Level 40_2": 300,
+  "Unlocks at Level 40_3": 941,
+  "Unlocks at Level 40_4": 941,
+  "Unlocks at Level 40_5": 6334,
+  "Unlocks at Level 40_6": "42K",
+  "Unlocks at Level 40_7": "286K",
+  "Unlocks at Level 40_8": "1928K"
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 0,
+  "Faust": "Health",
+  "Unlocks at Level 40": "4.5B",
+  "Unlocks at Level 40_2": "4.5B",
+  "Unlocks at Level 40_3": "21B",
+  "Unlocks at Level 40_4": "21B",
+  "Unlocks at Level 40_5": "958B",
+  "Unlocks at Level 40_6": "48T",
+  "Unlocks at Level 40_7": "2Q",
+  "Unlocks at Level 40_8": "105Q"
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 0,
+  "Faust": "Damage",
+  "Unlocks at Level 40": "250K",
+  "Unlocks at Level 40_2": "250K",
+  "Unlocks at Level 40_3": "615K",
+  "Unlocks at Level 40_4": "615K",
+  "Unlocks at Level 40_5": "4.3M",
+  "Unlocks at Level 40_6": "37M",
+  "Unlocks at Level 40_7": "299M",
+  "Unlocks at Level 40_8": "2.2B"
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 1,
+  "Unlocks at Level 50": "Spiderling",
+  "Unlocks at Level 50_2": "Spiderling",
+  "Unlocks at Level 50_3": "Webbo",
+  "Unlocks at Level 50_4": "Webbo",
+  "Unlocks at Level 50_5": "Bounded Bob",
+  "Unlocks at Level 50_6": "Bounded Bob",
+  "Unlocks at Level 50_7": "Queens Egg",
+  "Unlocks at Level 50_8": "Queens Egg",
+  "_images": [
+   "Arachneon.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 1,
+  "Arachneon": "Tier",
+  "_images": [
+   "Tier1skull.png",
+   "Tier2skull.png",
+   "Tier3skull.png",
+   "Tier4skull.png",
+   "Tier5skull.png",
+   "Tier6skull.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 1,
+  "Arachneon": "Defense",
+  "Unlocks at Level 50": 2000,
+  "Unlocks at Level 50_2": 2000,
+  "Unlocks at Level 50_3": 6925,
+  "Unlocks at Level 50_4": 6925,
+  "Unlocks at Level 50_5": "54K",
+  "Unlocks at Level 50_6": "435K",
+  "Unlocks at Level 50_7": "3448K",
+  "Unlocks at Level 50_8": "27M"
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 1,
+  "Arachneon": "Health",
+  "Unlocks at Level 50": "18B",
+  "Unlocks at Level 50_2": "18B",
+  "Unlocks at Level 50_3": "104B",
+  "Unlocks at Level 50_4": "104B",
+  "Unlocks at Level 50_5": "4.9T",
+  "Unlocks at Level 50_6": "259T",
+  "Unlocks at Level 50_7": "12Q",
+  "Unlocks at Level 50_8": "629Q"
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 1,
+  "Arachneon": "Damage",
+  "Unlocks at Level 50": "1M",
+  "Unlocks at Level 50_2": "1M",
+  "Unlocks at Level 50_3": "2.6M",
+  "Unlocks at Level 50_4": "2.6M",
+  "Unlocks at Level 50_5": "19M",
+  "Unlocks at Level 50_6": "171M",
+  "Unlocks at Level 50_7": "1.4B",
+  "Unlocks at Level 50_8": "11B"
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 2,
+  "Unlocks at Level 60": "Follower",
+  "Unlocks at Level 60_2": "Follower",
+  "Unlocks at Level 60_3": "Fabricio",
+  "Unlocks at Level 60_4": "Fabricio",
+  "Unlocks at Level 60_5": "Fliquer",
+  "Unlocks at Level 60_6": "Fliquer",
+  "Unlocks at Level 60_7": "Devout",
+  "Unlocks at Level 60_8": "Devout",
+  "_images": [
+   "Gheist.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 2,
+  "Gheist": "Tier",
+  "_images": [
+   "Tier1skull.png",
+   "Tier2skull.png",
+   "Tier3skull.png",
+   "Tier4skull.png",
+   "Tier5skull.png",
+   "Tier6skull.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 2,
+  "Gheist": "Defense",
+  "Unlocks at Level 60": "15K",
+  "Unlocks at Level 60_2": "15K",
+  "Unlocks at Level 60_3": "54K",
+  "Unlocks at Level 60_4": "54K",
+  "Unlocks at Level 60_5": "411K",
+  "Unlocks at Level 60_6": "3263K",
+  "Unlocks at Level 60_7": "25M",
+  "Unlocks at Level 60_8": "204M"
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 2,
+  "Gheist": "Health",
+  "Unlocks at Level 60": "90B",
+  "Unlocks at Level 60_2": "90B",
+  "Unlocks at Level 60_3": "543B",
+  "Unlocks at Level 60_4": "543B",
+  "Unlocks at Level 60_5": "27T",
+  "Unlocks at Level 60_6": "1Q",
+  "Unlocks at Level 60_7": "83Q",
+  "Unlocks at Level 60_8": "4QQ"
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 2,
+  "Gheist": "Damage",
+  "Unlocks at Level 60": "4M",
+  "Unlocks at Level 60_2": "4M",
+  "Unlocks at Level 60_3": "10M",
+  "Unlocks at Level 60_4": "10M",
+  "Unlocks at Level 60_5": "83M",
+  "Unlocks at Level 60_6": "765M",
+  "Unlocks at Level 60_7": "6.6B",
+  "Unlocks at Level 60_8": "55B"
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 3,
+  "Unlocks at Level 70": "Toothu",
+  "Unlocks at Level 70_2": "Toothu",
+  "Unlocks at Level 70_3": "Poisson",
+  "Unlocks at Level 70_4": "Poisson",
+  "Unlocks at Level 70_5": "Turned Wurm",
+  "Unlocks at Level 70_6": "Turned Wurm",
+  "Unlocks at Level 70_7": "Basiling",
+  "Unlocks at Level 70_8": "Basiling",
+  "_images": [
+   "Basilisk.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 3,
+  "Basilisk": "Tier",
+  "_images": [
+   "Tier1skull.png",
+   "Tier2skull.png",
+   "Tier3skull.png",
+   "Tier4skull.png",
+   "Tier5skull.png",
+   "Tier6skull.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 3,
+  "Basilisk": "Defense",
+  "Unlocks at Level 70": "100K",
+  "Unlocks at Level 70_2": "100K",
+  "Unlocks at Level 70_3": "363K",
+  "Unlocks at Level 70_4": "363K",
+  "Unlocks at Level 70_5": "3124K",
+  "Unlocks at Level 70_6": "26M",
+  "Unlocks at Level 70_7": "230M",
+  "Unlocks at Level 70_8": "1983M"
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 3,
+  "Basilisk": "Health",
+  "Unlocks at Level 70": "566B",
+  "Unlocks at Level 70_2": "566B",
+  "Unlocks at Level 70_3": "3.4T",
+  "Unlocks at Level 70_4": "3.4T",
+  "Unlocks at Level 70_5": "174T",
+  "Unlocks at Level 70_6": "9Q",
+  "Unlocks at Level 70_7": "523Q",
+  "Unlocks at Level 70_8": "27QQ"
+ },
+ {
+  "_page": "Crusades/Mountains",
+  "_section": "",
+  "_table": 3,
+  "Basilisk": "Damage",
+  "Unlocks at Level 70": "10M",
+  "Unlocks at Level 70_2": "10M",
+  "Unlocks at Level 70_3": "26M",
+  "Unlocks at Level 70_4": "26M",
+  "Unlocks at Level 70_5": "208M",
+  "Unlocks at Level 70_6": "1.9B",
+  "Unlocks at Level 70_7": "16B",
+  "Unlocks at Level 70_8": "137B"
+ },
+ {
+  "_page": "Crusades/The Mist",
+  "_section": "",
+  "_table": 0,
+  "Unlocks at Level 80": "Infant",
+  "Unlocks at Level 80_2": "Infant",
+  "Unlocks at Level 80_3": "Child",
+  "Unlocks at Level 80_4": "Child",
+  "Unlocks at Level 80_5": "Supervisor",
+  "Unlocks at Level 80_6": "Supervisor",
+  "Unlocks at Level 80_7": "Heavy Miner",
+  "Unlocks at Level 80_8": "Heavy Miner",
+  "_images": [
+   "Blobulytes.png"
+  ]
+ },
+ {
+  "_page": "Crusades/The Mist",
+  "_section": "",
+  "_table": 0,
+  "Blobulytes": "Tier",
+  "_images": [
+   "Tier1skull.png",
+   "Tier2skull.png",
+   "Tier3skull.png",
+   "Tier4skull.png",
+   "Tier5skull.png",
+   "Tier6skull.png"
+  ]
+ },
+ {
+  "_page": "Crusades/The Mist",
+  "_section": "",
+  "_table": 0,
+  "Blobulytes": "Defense",
+  "Unlocks at Level 80": "1M",
+  "Unlocks at Level 80_2": "1M",
+  "Unlocks at Level 80_3": "4M",
+  "Unlocks at Level 80_4": "4M",
+  "Unlocks at Level 80_5": "40M",
+  "Unlocks at Level 80_6": "407M",
+  "Unlocks at Level 80_7": "4105M",
+  "Unlocks at Level 80_8": "41B"
+ },
+ {
+  "_page": "Crusades/The Mist",
+  "_section": "",
+  "_table": 0,
+  "Blobulytes": "Health",
+  "Unlocks at Level 80": "5.6T",
+  "Unlocks at Level 80_2": "5.6T",
+  "Unlocks at Level 80_3": "30T",
+  "Unlocks at Level 80_4": "30T",
+  "Unlocks at Level 80_5": "1Q",
+  "Unlocks at Level 80_6": "124Q",
+  "Unlocks at Level 80_7": "7QQ",
+  "Unlocks at Level 80_8": "469QQ"
+ },
+ {
+  "_page": "Crusades/The Mist",
+  "_section": "",
+  "_table": 0,
+  "Blobulytes": "Damage",
+  "Unlocks at Level 80": "50M",
+  "Unlocks at Level 80_2": "50M",
+  "Unlocks at Level 80_3": "130M",
+  "Unlocks at Level 80_4": "130M",
+  "Unlocks at Level 80_5": "1.1B",
+  "Unlocks at Level 80_6": "11B",
+  "Unlocks at Level 80_7": "108B",
+  "Unlocks at Level 80_8": "981B"
+ },
+ {
+  "_page": "Crusades/The Mist",
+  "_section": "",
+  "_table": 1,
+  "Unlocks at Level 90": "Controlled",
+  "Unlocks at Level 90_2": "Controlled",
+  "Unlocks at Level 90_3": "Taken",
+  "Unlocks at Level 90_4": "Taken",
+  "Unlocks at Level 90_5": "Posessed",
+  "Unlocks at Level 90_6": "Posessed",
+  "Unlocks at Level 90_7": "Bob Too",
+  "Unlocks at Level 90_8": "Bob Too",
+  "_images": [
+   "Puppeteer.png"
+  ]
+ },
+ {
+  "_page": "Crusades/The Mist",
+  "_section": "",
+  "_table": 1,
+  "Puppeteer": "Tier",
+  "_images": [
+   "Tier1skull.png",
+   "Tier2skull.png",
+   "Tier3skull.png",
+   "Tier4skull.png",
+   "Tier5skull.png",
+   "Tier6skull.png"
+  ]
+ },
+ {
+  "_page": "Crusades/The Mist",
+  "_section": "",
+  "_table": 1,
+  "Puppeteer": "Defense",
+  "Unlocks at Level 90": "10M",
+  "Unlocks at Level 90_2": "10M",
+  "Unlocks at Level 90_3": "43M",
+  "Unlocks at Level 90_4": "43M",
+  "Unlocks at Level 90_5": "519M",
+  "Unlocks at Level 90_6": "6129M",
+  "Unlocks at Level 90_7": "72B",
+  "Unlocks at Level 90_8": "854B"
+ },
+ {
+  "_page": "Crusades/The Mist",
+  "_section": "",
+  "_table": 1,
+  "Puppeteer": "Health",
+  "Unlocks at Level 90": "113T",
+  "Unlocks at Level 90_2": "113T",
+  "Unlocks at Level 90_3": "732T",
+  "Unlocks at Level 90_4": "732T",
+  "Unlocks at Level 90_5": "43Q",
+  "Unlocks at Level 90_6": "2QQ",
+  "Unlocks at Level 90_7": "171QQ",
+  "Unlocks at Level 90_8": "10QQQ"
+ },
+ {
+  "_page": "Crusades/The Mist",
+  "_section": "",
+  "_table": 1,
+  "Puppeteer": "Damage",
+  "Unlocks at Level 90": "200M",
+  "Unlocks at Level 90_2": "200M",
+  "Unlocks at Level 90_3": "556M",
+  "Unlocks at Level 90_4": "556M",
+  "Unlocks at Level 90_5": "4.7B",
+  "Unlocks at Level 90_6": "47B",
+  "Unlocks at Level 90_7": "447B",
+  "Unlocks at Level 90_8": "4T"
+ },
+ {
+  "_page": "Crusades/Dungeons",
+  "_section": "",
+  "_table": 0,
+  "Unlocks at Level 99": "Sadness",
+  "Unlocks at Level 99_2": "Sadness",
+  "Unlocks at Level 99_3": "Jealousy",
+  "Unlocks at Level 99_4": "Jealousy",
+  "Unlocks at Level 99_5": "Envy",
+  "Unlocks at Level 99_6": "Envy",
+  "Unlocks at Level 99_7": "Anger",
+  "Unlocks at Level 99_8": "Anger",
+  "_images": [
+   "Narcissus.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Dungeons",
+  "_section": "",
+  "_table": 0,
+  "Narcissus": "Tier",
+  "_images": [
+   "Tier1skull.png",
+   "Tier2skull.png",
+   "Tier3skull.png",
+   "Tier4skull.png",
+   "Tier5skull.png",
+   "Tier6skull.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Dungeons",
+  "_section": "",
+  "_table": 0,
+  "Narcissus": "Defense",
+  "Unlocks at Level 99": "100M",
+  "Unlocks at Level 99_2": "100M",
+  "Unlocks at Level 99_3": "482M",
+  "Unlocks at Level 99_4": "482M",
+  "Unlocks at Level 99_5": "6654M",
+  "Unlocks at Level 99_6": "91B",
+  "Unlocks at Level 99_7": "1264B",
+  "Unlocks at Level 99_8": "17T"
+ },
+ {
+  "_page": "Crusades/Dungeons",
+  "_section": "",
+  "_table": 0,
+  "Narcissus": "Health",
+  "Unlocks at Level 99": "1Q",
+  "Unlocks at Level 99_2": "1Q",
+  "Unlocks at Level 99_3": "13Q",
+  "Unlocks at Level 99_4": "13Q",
+  "Unlocks at Level 99_5": "2QQ",
+  "Unlocks at Level 99_6": "371QQ",
+  "Unlocks at Level 99_7": "53QQQ",
+  "Unlocks at Level 99_8": "YIKES"
+ },
+ {
+  "_page": "Crusades/Dungeons",
+  "_section": "",
+  "_table": 0,
+  "Narcissus": "Damage",
+  "Unlocks at Level 99": "2B",
+  "Unlocks at Level 99_2": "2B",
+  "Unlocks at Level 99_3": "5.4B",
+  "Unlocks at Level 99_4": "5.4B",
+  "Unlocks at Level 99_5": "80B",
+  "Unlocks at Level 99_6": "1.6T",
+  "Unlocks at Level 99_7": "35T",
+  "Unlocks at Level 99_8": "707T"
+ },
+ {
+  "_page": "Crusades/Voyage Pact",
+  "_section": "",
+  "_table": 0,
+  "Unlocks with Voyage Pact and accessible at Level 120": "Loockey",
+  "Unlocks with Voyage Pact and accessible at Level 120_2": "Loockey",
+  "Unlocks with Voyage Pact and accessible at Level 120_3": "Merceneye",
+  "Unlocks with Voyage Pact and accessible at Level 120_4": "Merceneye",
+  "Unlocks with Voyage Pact and accessible at Level 120_5": "Eyefull",
+  "Unlocks with Voyage Pact and accessible at Level 120_6": "Eyefull",
+  "Unlocks with Voyage Pact and accessible at Level 120_7": "Watchtower",
+  "Unlocks with Voyage Pact and accessible at Level 120_8": "Watchtower",
+  "_images": [
+   "Crusader_crapotti.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Voyage Pact",
+  "_section": "",
+  "_table": 0,
+  "Crapotti": "Tier",
+  "_images": [
+   "Tier1skull.png",
+   "Tier2skull.png",
+   "Tier3skull.png",
+   "Tier4skull.png",
+   "Tier5skull.png",
+   "Tier6skull.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Voyage Pact",
+  "_section": "",
+  "_table": 0,
+  "Crapotti": "Defense",
+  "Unlocks with Voyage Pact and accessible at Level 120": "1M",
+  "Unlocks with Voyage Pact and accessible at Level 120_2": "1M",
+  "Unlocks with Voyage Pact and accessible at Level 120_3": "4M",
+  "Unlocks with Voyage Pact and accessible at Level 120_4": "4M",
+  "Unlocks with Voyage Pact and accessible at Level 120_5": "40M",
+  "Unlocks with Voyage Pact and accessible at Level 120_6": "407M",
+  "Unlocks with Voyage Pact and accessible at Level 120_7": "4105M",
+  "Unlocks with Voyage Pact and accessible at Level 120_8": "41B"
+ },
+ {
+  "_page": "Crusades/Voyage Pact",
+  "_section": "",
+  "_table": 0,
+  "Crapotti": "Health",
+  "Unlocks with Voyage Pact and accessible at Level 120": "5.6T",
+  "Unlocks with Voyage Pact and accessible at Level 120_2": "5.6T",
+  "Unlocks with Voyage Pact and accessible at Level 120_3": "30T",
+  "Unlocks with Voyage Pact and accessible at Level 120_4": "30T",
+  "Unlocks with Voyage Pact and accessible at Level 120_5": "1Q",
+  "Unlocks with Voyage Pact and accessible at Level 120_6": "124Q",
+  "Unlocks with Voyage Pact and accessible at Level 120_7": "7QQ",
+  "Unlocks with Voyage Pact and accessible at Level 120_8": "469QQ"
+ },
+ {
+  "_page": "Crusades/Voyage Pact",
+  "_section": "",
+  "_table": 0,
+  "Crapotti": "Damage",
+  "Unlocks with Voyage Pact and accessible at Level 120": "50M",
+  "Unlocks with Voyage Pact and accessible at Level 120_2": "50M",
+  "Unlocks with Voyage Pact and accessible at Level 120_3": "130M",
+  "Unlocks with Voyage Pact and accessible at Level 120_4": "130M",
+  "Unlocks with Voyage Pact and accessible at Level 120_5": "1.1B",
+  "Unlocks with Voyage Pact and accessible at Level 120_6": "11B",
+  "Unlocks with Voyage Pact and accessible at Level 120_7": "108B",
+  "Unlocks with Voyage Pact and accessible at Level 120_8": "981B"
+ },
+ {
+  "_page": "Crusades/Voyage Pact",
+  "_section": "",
+  "_table": 1,
+  "Unlocks with Voyage Pact and accessible at Level 140": "Slimmle",
+  "Unlocks with Voyage Pact and accessible at Level 140_2": "Slimmle",
+  "Unlocks with Voyage Pact and accessible at Level 140_3": "Squiddle",
+  "Unlocks with Voyage Pact and accessible at Level 140_4": "Squiddle",
+  "Unlocks with Voyage Pact and accessible at Level 140_5": "Wawawoo",
+  "Unlocks with Voyage Pact and accessible at Level 140_6": "Wawawoo",
+  "Unlocks with Voyage Pact and accessible at Level 140_7": "Bro Of Some",
+  "Unlocks with Voyage Pact and accessible at Level 140_8": "Bro Of Some",
+  "_images": [
+   "Crusader_father_of_all.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Voyage Pact",
+  "_section": "",
+  "_table": 1,
+  "Father Of All": "Tier",
+  "_images": [
+   "Tier1skull.png",
+   "Tier2skull.png",
+   "Tier3skull.png",
+   "Tier4skull.png",
+   "Tier5skull.png",
+   "Tier6skull.png"
+  ]
+ },
+ {
+  "_page": "Crusades/Voyage Pact",
+  "_section": "",
+  "_table": 1,
+  "Father Of All": "Defense",
+  "Unlocks with Voyage Pact and accessible at Level 140": "10M",
+  "Unlocks with Voyage Pact and accessible at Level 140_2": "10M",
+  "Unlocks with Voyage Pact and accessible at Level 140_3": "43M",
+  "Unlocks with Voyage Pact and accessible at Level 140_4": "43M",
+  "Unlocks with Voyage Pact and accessible at Level 140_5": "519M",
+  "Unlocks with Voyage Pact and accessible at Level 140_6": "6129M",
+  "Unlocks with Voyage Pact and accessible at Level 140_7": "72B",
+  "Unlocks with Voyage Pact and accessible at Level 140_8": "854B"
+ },
+ {
+  "_page": "Crusades/Voyage Pact",
+  "_section": "",
+  "_table": 1,
+  "Father Of All": "Health",
+  "Unlocks with Voyage Pact and accessible at Level 140": "113T",
+  "Unlocks with Voyage Pact and accessible at Level 140_2": "113T",
+  "Unlocks with Voyage Pact and accessible at Level 140_3": "732T",
+  "Unlocks with Voyage Pact and accessible at Level 140_4": "732T",
+  "Unlocks with Voyage Pact and accessible at Level 140_5": "43Q",
+  "Unlocks with Voyage Pact and accessible at Level 140_6": "2QQ",
+  "Unlocks with Voyage Pact and accessible at Level 140_7": "171QQ",
+  "Unlocks with Voyage Pact and accessible at Level 140_8": "10QQQ"
+ },
+ {
+  "_page": "Crusades/Voyage Pact",
+  "_section": "",
+  "_table": 1,
+  "Father Of All": "Damage",
+  "Unlocks with Voyage Pact and accessible at Level 140": "200M",
+  "Unlocks with Voyage Pact and accessible at Level 140_2": "200M",
+  "Unlocks with Voyage Pact and accessible at Level 140_3": "556M",
+  "Unlocks with Voyage Pact and accessible at Level 140_4": "556M",
+  "Unlocks with Voyage Pact and accessible at Level 140_5": "4.7B",
+  "Unlocks with Voyage Pact and accessible at Level 140_6": "47B",
+  "Unlocks with Voyage Pact and accessible at Level 140_7": "447B",
+  "Unlocks with Voyage Pact and accessible at Level 140_8": "4T"
+ }
+]

@@ -1,0 +1,65 @@
+==Description==
+To use this template, copy the following code and fill in the appropriate fields.
+
+==Syntax==
+<pre>
+{{infobox character
+ | name         =
+ | image        =
+ | imagecaption =
+ | aliases      =
+ | relatives .  =
+ | affiliation  =
+ | marital      =
+ | birthDate    =
+ | birthPlace   =
+ | deathDate    =
+ | deathPlace   =
+ | species      =
+ | gender       =
+ | height       =
+ | weight       =
+ | eyes         =
+}}
+</pre>
+
+==Samples==
+{{infobox character
+ | name         = Flowa
+ | image        = Example.jpg
+ | imagecaption = Flowa, at rest
+ | aliases      = Flo
+ | relatives .  =
+ | affiliation  =
+ | marital      =
+ | birthDate    = July 21st, 2013
+ | birthPlace   = Iowa
+ | deathDate    =
+ | deathPlace   =
+ | species      = Plant
+ | gender       =
+ | height       =
+ | weight       =
+ | eyes         = 
+}}
+<pre>
+{{infobox character
+ | name         = Flowa
+ | image        = Example.jpg
+ | imagecaption = Flowa, at rest
+ | aliases      = Flo
+ | relatives .  =
+ | affiliation  =
+ | marital      =
+ | birthDate    = July 21st, 2013
+ | birthPlace   = Iowa
+ | deathDate    =
+ | deathPlace   =
+ | species      = Plant
+ | gender       =
+ | height       =
+ | weight       =
+ | eyes         = 
+}}
+</pre>
+<includeonly>[[Category:Templates|{{PAGENAME}}]][[Category:Templates/Infobox|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

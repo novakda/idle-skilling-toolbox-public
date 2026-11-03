@@ -1,0 +1,941 @@
+[
+ {
+  "_page": "Perks",
+  "_section": "Red Attack Perk Tree",
+  "_table": 0,
+  "Location (Bottom to Top)_2": "Bottom",
+  "Cost": 1,
+  "Description": "Unlock the Attack Dojo",
+  "Per Level Bonus": "-",
+  "_images": [
+   "Redperk1.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Red Attack Perk Tree",
+  "_table": 0,
+  "Location (Bottom to Top)_2": "2nd Bottom",
+  "Cost": 2,
+  "Description": "Unlock the Mining Skill",
+  "Per Level Bonus": "-",
+  "_images": [
+   "Redperk2.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Red Attack Perk Tree",
+  "_table": 0,
+  "Location (Bottom to Top)_2": "1st Left",
+  "Cost": 2,
+  "Description": "[+%] Double Ore Chance",
+  "Per Level Bonus": "+10% per Level",
+  "_images": [
+   "Redperk3.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Red Attack Perk Tree",
+  "_table": 0,
+  "Location (Bottom to Top)_2": "2nd Left",
+  "Cost": 3,
+  "Description": "[+%] Ores per Mining Level",
+  "Per Level Bonus": "+1% per Level",
+  "_images": [
+   "Redperk5.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Red Attack Perk Tree",
+  "_table": 0,
+  "Location (Bottom to Top)_2": "1st Right",
+  "Cost": 3,
+  "Description": "Claw Attacks [+X] Times",
+  "Per Level Bonus": "+2 per Level",
+  "_images": [
+   "Redperk4.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Red Attack Perk Tree",
+  "_table": 0,
+  "Location (Bottom to Top)_2": "Middle",
+  "Cost": 4,
+  "Description": "Unlocks Vision, Gives [+5%] Crit Chance",
+  "Per Level Bonus": "+5% per Level",
+  "_images": [
+   "Redperk6.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Red Attack Perk Tree",
+  "_table": 0,
+  "Location (Bottom to Top)_2": "3rd Left",
+  "Cost": 5,
+  "Description": "Minimum Damage is [+20%] of Maximum",
+  "Per Level Bonus": "+8% per Level",
+  "_images": [
+   "Redperk7.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Red Attack Perk Tree",
+  "_table": 0,
+  "Location (Bottom to Top)_2": "2nd Right",
+  "Cost": 5,
+  "Description": "Unlocks Smite, Deals [+300%] Damage",
+  "Per Level Bonus": "+100% per Level",
+  "_images": [
+   "Redperk8.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Red Attack Perk Tree",
+  "_table": 0,
+  "Location (Bottom to Top)_2": "Top Left",
+  "Cost": 10,
+  "Description": "[+%] Idle Attack Speed",
+  "Per Level Bonus": "+10% per Level",
+  "_images": [
+   "Redperk9.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Red Attack Perk Tree",
+  "_table": 0,
+  "Location (Bottom to Top)_2": "Top Right",
+  "Cost": 10,
+  "Description": "Claw Deals [+100%] Damage",
+  "Per Level Bonus": "+80% per Level",
+  "_images": [
+   "Redperk10.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Orange Strength Perk Tree",
+  "_table": 1,
+  "Location (Bottom to Top)_2": "Bottom",
+  "Cost": 1,
+  "Description": "Unlock the Strength Mountain",
+  "Per Level Bonus": "-",
+  "_images": [
+   "Orangeperk1.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Orange Strength Perk Tree",
+  "_table": 1,
+  "Location (Bottom to Top)_2": "2nd Bottom",
+  "Cost": 2,
+  "Description": "Unlock the Smithing Skill",
+  "Per Level Bonus": "-",
+  "_images": [
+   "Orangeperk2.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Orange Strength Perk Tree",
+  "_table": 1,
+  "Location (Bottom to Top)_2": "1st Left",
+  "Cost": 2,
+  "Description": "Forge Charges [+%] Faster",
+  "Per Level Bonus": "+20% per level",
+  "_images": [
+   "Orangeperk3.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Orange Strength Perk Tree",
+  "_table": 1,
+  "Location (Bottom to Top)_2": "2nd Left",
+  "Cost": 3,
+  "Description": "Crafting Gives [+%] more EXP",
+  "Per Level Bonus": "+20% per level",
+  "_images": [
+   "Orangeperk5.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Orange Strength Perk Tree",
+  "_table": 1,
+  "Location (Bottom to Top)_2": "1st Right",
+  "Cost": 3,
+  "Description": "Unlocks Meteor, Deals [+150%] Damage",
+  "Per Level Bonus": "+50% per level",
+  "_images": [
+   "Orangeperk4.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Orange Strength Perk Tree",
+  "_table": 1,
+  "Location (Bottom to Top)_2": "Middle",
+  "Cost": 4,
+  "Description": "Unlocks Flurry, Deals [+100%] Damage",
+  "Per Level Bonus": "+20% per level",
+  "_images": [
+   "Orangeperk6.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Orange Strength Perk Tree",
+  "_table": 1,
+  "Location (Bottom to Top)_2": "3rd Left",
+  "Cost": 5,
+  "Description": "All Skills Deal [+%] Damage",
+  "Per Level Bonus": "+10% per level",
+  "_images": [
+   "Orangeperk7.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Orange Strength Perk Tree",
+  "_table": 1,
+  "Location (Bottom to Top)_2": "2nd Right",
+  "Cost": 5,
+  "Description": "Unlocks Valor, Increases Damage and HP by [+%]",
+  "Per Level Bonus": "+20% per level",
+  "_images": [
+   "Orangeperk8.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Orange Strength Perk Tree",
+  "_table": 1,
+  "Location (Bottom to Top)_2": "Top Left",
+  "Cost": 10,
+  "Description": "[+%] Chance for Double Craft",
+  "Per Level Bonus": "+20% per level",
+  "_images": [
+   "Orangeperk9.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Orange Strength Perk Tree",
+  "_table": 1,
+  "Location (Bottom to Top)_2": "Top Right",
+  "Cost": 10,
+  "Description": "[+X] Kills per Kill",
+  "Per Level Bonus": "+0.1 per level",
+  "_images": [
+   "Orangeperk10.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Green Endurance Perk Tree",
+  "_table": 2,
+  "Location (Bottom to Top)_2": "Bottom",
+  "Cost": 1,
+  "Description": "Unlock the Endurance Fields",
+  "Per Level Bonus": "-",
+  "_images": [
+   "Greenperk1.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Green Endurance Perk Tree",
+  "_table": 2,
+  "Location (Bottom to Top)_2": "2nd Bottom",
+  "Cost": 2,
+  "Description": "Unlock the Fishing Skill",
+  "Per Level Bonus": "-",
+  "_images": [
+   "Greenperk2.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Green Endurance Perk Tree",
+  "_table": 2,
+  "Location (Bottom to Top)_2": "1st Left",
+  "Cost": 2,
+  "Description": "Fishing is [+%] Faster",
+  "Per Level Bonus": "+5% per level",
+  "_images": [
+   "Greenperk3.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Green Endurance Perk Tree",
+  "_table": 2,
+  "Location (Bottom to Top)_2": "2nd Left",
+  "Cost": 3,
+  "Description": "Unlocks the Fishing Warp, Skip [X] Seconds on Click",
+  "Per Level Bonus": "+1 per level",
+  "_images": [
+   "Greenperk5.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Green Endurance Perk Tree",
+  "_table": 2,
+  "Location (Bottom to Top)_2": "1st Right",
+  "Cost": 3,
+  "Description": "Unlocks Poison, Hits Every [X] Second",
+  "Per Level Bonus": "-0.1 per level",
+  "_images": [
+   "Greenperk4.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Green Endurance Perk Tree",
+  "_table": 2,
+  "Location (Bottom to Top)_2": "Middle",
+  "Cost": 4,
+  "Description": "Unlocks Midas, Clicks Give [+%] Monster Gold",
+  "Per Level Bonus": "+10% per level",
+  "_images": [
+   "Greenperk6.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Green Endurance Perk Tree",
+  "_table": 2,
+  "Location (Bottom to Top)_2": "3rd Left",
+  "Cost": 5,
+  "Description": "All Food Heals [+%] Health",
+  "Per Level Bonus": "+20% per level",
+  "_images": [
+   "Greenperk7.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Green Endurance Perk Tree",
+  "_table": 2,
+  "Location (Bottom to Top)_2": "2nd Right",
+  "Cost": 5,
+  "Description": "Unlocks Seal, No Enemy Damage for [X] Seconds",
+  "Per Level Bonus": "+1 per level",
+  "_images": [
+   "Greenperk8.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Green Endurance Perk Tree",
+  "_table": 2,
+  "Location (Bottom to Top)_2": "Top Left",
+  "Cost": 10,
+  "Description": "Each Endurance Level Gives [+10%] HP",
+  "Per Level Bonus": "+3% per level",
+  "_images": [
+   "Greenperk9.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Green Endurance Perk Tree",
+  "_table": 2,
+  "Location (Bottom to Top)_2": "Top Right",
+  "Cost": 10,
+  "Description": "[+%] Resource Collection",
+  "Per Level Bonus": "+20% per level",
+  "_images": [
+   "Greenperk10.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Blue Limbo Perk Tree",
+  "_table": 3,
+  "Location (Bottom to Top)_2": "Bottom",
+  "Cost": 1,
+  "Description": "Unlock Limbo, Check the Fishing Docks",
+  "Per Level Bonus": "-",
+  "_images": [
+   "Blueperk1.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Blue Limbo Perk Tree",
+  "_table": 3,
+  "Location (Bottom to Top)_2": "2nd Bottom",
+  "Cost": 2,
+  "Description": "[+%] Spiriting EXP Chance",
+  "Per Level Bonus": "+2% per level",
+  "_images": [
+   "Blueperk2.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Blue Limbo Perk Tree",
+  "_table": 3,
+  "Location (Bottom to Top)_2": "1st Left",
+  "Cost": 2,
+  "Description": "[+%] Cultist Efficiency",
+  "Per Level Bonus": "+5% per level",
+  "_images": [
+   "Blueperk3.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Blue Limbo Perk Tree",
+  "_table": 3,
+  "Location (Bottom to Top)_2": "2nd Left",
+  "Cost": 3,
+  "Description": "[+%] Acolyte Efficiency",
+  "Per Level Bonus": "+5% per level",
+  "_images": [
+   "Blueperk5.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Blue Limbo Perk Tree",
+  "_table": 3,
+  "Location (Bottom to Top)_2": "1st Right",
+  "Cost": 3,
+  "Description": "Summoning Rifts are [+%] Faster",
+  "Per Level Bonus": "+5% per level",
+  "_images": [
+   "Blueperk4.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Blue Limbo Perk Tree",
+  "_table": 3,
+  "Location (Bottom to Top)_2": "Middle",
+  "Cost": 4,
+  "Description": "[+%] More Rift EXP",
+  "Per Level Bonus": "+5% per level",
+  "_images": [
+   "Blueperk6.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Blue Limbo Perk Tree",
+  "_table": 3,
+  "Location (Bottom to Top)_2": "3rd Left",
+  "Cost": 5,
+  "Description": "[+%] More AP After Ascending",
+  "Per Level Bonus": "+4% per level",
+  "_images": [
+   "Blueperk7.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Blue Limbo Perk Tree",
+  "_table": 3,
+  "Location (Bottom to Top)_2": "2nd Right",
+  "Cost": 5,
+  "Description": "[+%] Damage Every 10 Merits Spent",
+  "Per Level Bonus": "+1% per level",
+  "_images": [
+   "Blueperk8.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Blue Limbo Perk Tree",
+  "_table": 3,
+  "Location (Bottom to Top)_2": "Top Left",
+  "Cost": 10,
+  "Description": "[+%] Damage for Every Contract Completed",
+  "Per Level Bonus": "+0.5% per level",
+  "_images": [
+   "Blueperk9.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Blue Limbo Perk Tree",
+  "_table": 3,
+  "Location (Bottom to Top)_2": "Top Right",
+  "Cost": 10,
+  "Description": "[+%] HP for Every Contract Completed",
+  "Per Level Bonus": "+0.5% per level",
+  "_images": [
+   "Blueperk10.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Gray Crusades Perk Tree",
+  "_table": 4,
+  "Location (Bottom to Top)_2": "Bottom",
+  "Cost": 1,
+  "Description": "Unlocks Special Skill Toggle",
+  "Per Level Bonus": "-",
+  "_images": [
+   "Grayperk1.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Gray Crusades Perk Tree",
+  "_table": 4,
+  "Location (Bottom to Top)_2": "2nd Bottom",
+  "Cost": 2,
+  "Description": "[+X] Inactive Crusaders",
+  "Per Level Bonus": "+2 per level",
+  "_images": [
+   "Grayperk2.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Gray Crusades Perk Tree",
+  "_table": 4,
+  "Location (Bottom to Top)_2": "1st Left",
+  "Cost": 2,
+  "Description": "[+%] Crusade EXP",
+  "Per Level Bonus": "+10% per level",
+  "_images": [
+   "Grayperk3.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Gray Crusades Perk Tree",
+  "_table": 4,
+  "Location (Bottom to Top)_2": "2nd Left",
+  "Cost": 3,
+  "Description": "[+%] Max Fight Bonus",
+  "Per Level Bonus": "+10% per leve",
+  "_images": [
+   "Grayperk5.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Gray Crusades Perk Tree",
+  "_table": 4,
+  "Location (Bottom to Top)_2": "1st Right",
+  "Cost": 3,
+  "Description": "[+%] Tinkering EXP",
+  "Per Level Bonus": "+10% per level",
+  "_images": [
+   "Grayperk4.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Gray Crusades Perk Tree",
+  "_table": 4,
+  "Location (Bottom to Top)_2": "Middle",
+  "Cost": 4,
+  "Description": "Unlocks Anion, Deals [+300%] Damage",
+  "Per Level Bonus": "+100% per level",
+  "_images": [
+   "Grayperk6.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Gray Crusades Perk Tree",
+  "_table": 4,
+  "Location (Bottom to Top)_2": "3rd Left",
+  "Cost": 5,
+  "Description": "[+%] Max Shield",
+  "Per Level Bonus": "+25% per level",
+  "_images": [
+   "Grayperk7.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Gray Crusades Perk Tree",
+  "_table": 4,
+  "Location (Bottom to Top)_2": "2nd Right",
+  "Cost": 5,
+  "Description": "[+%] Idle Damage Every Booster Level",
+  "Per Level Bonus": "+1% per level",
+  "_images": [
+   "Grayperk8.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Gray Crusades Perk Tree",
+  "_table": 4,
+  "Location (Bottom to Top)_2": "Top Left",
+  "Cost": 10,
+  "Description": "Unlocks Icies, deals [+1800%] Damage",
+  "Per Level Bonus": "+600% per level",
+  "_images": [
+   "Grayperk9.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Gray Crusades Perk Tree",
+  "_table": 4,
+  "Location (Bottom to Top)_2": "Top Right",
+  "Cost": 10,
+  "Description": "Unlocks Mark, Buffs Monster Damage and HP by 400%, but Gives [+%] Reward",
+  "Per Level Bonus": "+20% per level",
+  "_images": [
+   "Grayperk10.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Yellow Farming Perk Tree",
+  "_table": 5,
+  "Location (Bottom to Top)_2": "Bottom",
+  "Cost": 1,
+  "Description": "[+%] Potion Cost Redux",
+  "Per Level Bonus": "+2% per Level",
+  "_images": [
+   "Yellowperk1.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Yellow Farming Perk Tree",
+  "_table": 5,
+  "Location (Bottom to Top)_2": "2nd Bottom",
+  "Cost": 2,
+  "Description": "[+%] for Double Brew",
+  "Per Level Bonus": "+3% per Level",
+  "_images": [
+   "Yellowperk2.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Yellow Farming Perk Tree",
+  "_table": 5,
+  "Location (Bottom to Top)_2": "1st Left",
+  "Cost": 2,
+  "Description": "[+X] Max Botany Speed Lv. Every 25 Tilling Lv.",
+  "Per Level Bonus": "+1 per Level",
+  "_images": [
+   "Yellowperk3.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Yellow Farming Perk Tree",
+  "_table": 5,
+  "Location (Bottom to Top)_2": "2nd Left",
+  "Cost": 3,
+  "Description": "[+%] Double Crop Chance",
+  "Per Level Bonus": "+5% per Level",
+  "_images": [
+   "Yellowperk4.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Yellow Farming Perk Tree",
+  "_table": 5,
+  "Location (Bottom to Top)_2": "1st Right",
+  "Cost": 3,
+  "Description": "[+%] Gem Bonuses",
+  "Per Level Bonus": "+1.5 per Level",
+  "_images": [
+   "Yellowperk5.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Yellow Farming Perk Tree",
+  "_table": 5,
+  "Location (Bottom to Top)_2": "Middle",
+  "Cost": 4,
+  "Description": "[+%] Potion Brew Speed",
+  "Per Level Bonus": "+10% per Level",
+  "_images": [
+   "Yellowperk6.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Yellow Farming Perk Tree",
+  "_table": 5,
+  "Location (Bottom to Top)_2": "3rd Left",
+  "Cost": 5,
+  "Description": "[+%] Botany Multidrop",
+  "Per Level Bonus": "+15% per Level",
+  "_images": [
+   "Yellowperk7.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Yellow Farming Perk Tree",
+  "_table": 5,
+  "Location (Bottom to Top)_2": "2nd Right",
+  "Cost": 5,
+  "Description": "[+%] Overgrow Flower Bonus",
+  "Per Level Bonus": "+1% per Level",
+  "_images": [
+   "Yellowperk8.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Yellow Farming Perk Tree",
+  "_table": 5,
+  "Location (Bottom to Top)_2": "Top Left",
+  "Cost": 10,
+  "Description": "[+%] Crops for Every Mythic Pot Owned",
+  "Per Level Bonus": "+3% per Level",
+  "_images": [
+   "Yellowperk9.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Yellow Farming Perk Tree",
+  "_table": 5,
+  "Location (Bottom to Top)_2": "Top Right",
+  "Cost": 10,
+  "Description": "[+%] Overgrowth Time Redux",
+  "Per Level Bonus": "+10% per Level",
+  "_images": [
+   "Yellowperk10.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Infinite Perk Tree",
+  "_table": 6,
+  "Location (Bottom to Top)_2": "Bottom",
+  "Cost": "+1 each upgrade",
+  "Description": "[+%] Damage",
+  "Per Level Bonus": "+2% per Level",
+  "_images": [
+   "InfPerk_01.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Infinite Perk Tree",
+  "_table": 6,
+  "Location (Bottom to Top)_2": "2nd Bottom",
+  "Cost": "+1 each upgrade",
+  "Description": "[+%] Lower Smith Cost Cap",
+  "Per Level Bonus": "+3% per Level",
+  "_images": [
+   "InfPerk_02.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Infinite Perk Tree",
+  "_table": 6,
+  "Location (Bottom to Top)_2": "1st Left",
+  "Cost": "+1 each upgrade",
+  "Description": "[+%] Vessel Gain",
+  "Per Level Bonus": "+1% per Level",
+  "_images": [
+   "InfPerk_03.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Infinite Perk Tree",
+  "_table": 6,
+  "Location (Bottom to Top)_2": "2nd Left",
+  "Cost": "+1 each upgrade",
+  "Description": "[+%] RP Gain From All Tanks",
+  "Per Level Bonus": "+3% per Level",
+  "_images": [
+   "InfPerk_04.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Infinite Perk Tree",
+  "_table": 6,
+  "Location (Bottom to Top)_2": "1st Right",
+  "Cost": "+1 each upgrade",
+  "Description": "[+%] BP From Rebirthing",
+  "Per Level Bonus": "+1.5% per Level",
+  "_images": [
+   "InfPerk_05.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Infinite Perk Tree",
+  "_table": 6,
+  "Location (Bottom to Top)_2": "Middle",
+  "Cost": "+1 each upgrade",
+  "Description": "[+%] Potion Brew Speed",
+  "Per Level Bonus": "+0.1% per Level",
+  "_images": [
+   "InfPerk_06.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Infinite Perk Tree",
+  "_table": 6,
+  "Location (Bottom to Top)_2": "3rd Left",
+  "Cost": "+1 each upgrade",
+  "Description": "[+%] Chain Lv Chance",
+  "Per Level Bonus": "+X% per Level",
+  "_images": [
+   "InfPerk_07.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Infinite Perk Tree",
+  "_table": 6,
+  "Location (Bottom to Top)_2": "2nd Right",
+  "Cost": "+1 each upgrade",
+  "Description": "[+%] More Away Time",
+  "Per Level Bonus": "+X% per Level",
+  "_images": [
+   "InfPerk_08.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Infinite Perk Tree",
+  "_table": 6,
+  "Location (Bottom to Top)_2": "Top Left",
+  "Cost": "+1 each upgrade",
+  "Description": "[+%] Pet Damage",
+  "Per Level Bonus": "+3% per Level",
+  "_images": [
+   "InfPerk_09.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Infinite Perk Tree",
+  "_table": 6,
+  "Location (Bottom to Top)_2": "Top Right",
+  "Cost": "+1 each upgrade",
+  "Description": "[X]x Spelunking Speed and Learn Rate",
+  "Per Level Bonus": "+Xx per Level",
+  "_images": [
+   "InfPerk_10.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Ascension Perks",
+  "_table": 7,
+  "Perk_2": "Starting Perk Points",
+  "Benefit": "+1 starting Perk Points per level",
+  "Requirement": "Clear Grasslands, Green Key",
+  "_images": [
+   "Starting perk points.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Ascension Perks",
+  "_table": 7,
+  "Perk_2": "Skill Point Bonanza",
+  "Benefit": "+10% Perk Points per level",
+  "Requirement": "Clear Mountains",
+  "_images": [
+   "Skill point bonanza.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Cards",
+  "_table": 8,
+  "Card_2": "Chewed",
+  "Type": "Perk Points Gained",
+  "Benefit": "3% Base, 60% Max",
+  "_images": [
+   "C chewed.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Cards",
+  "_table": 8,
+  "Card_2": "Waddles",
+  "Type": "Perk Points Gained",
+  "Benefit": "4% Base, 80% Max",
+  "_images": [
+   "C waddles.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Cards",
+  "_table": 8,
+  "Card_2": "Ruler",
+  "Type": "Perk Points Gained",
+  "Benefit": "4% Base, 80% Max",
+  "_images": [
+   "C ruler.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Cards",
+  "_table": 8,
+  "Card_2": "Tubby Wurm",
+  "Type": "Perk Points Gained",
+  "Benefit": "5% Base, 100% Max",
+  "_images": [
+   "C tubby wurm.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Cards",
+  "_table": 8,
+  "Card_2": "Occulon",
+  "Type": "Perk Points Gained (passive)",
+  "Benefit": "6% Base, 120% Max",
+  "_images": [
+   "Card Occulon.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Pets",
+  "_table": 9,
+  "Pet_2": "Duck (ID 8)",
+  "Passive": "Perk Points Gained",
+  "Benefit": "+8% per level",
+  "_images": [
+   "Pet Duck.png"
+  ]
+ },
+ {
+  "_page": "Perks",
+  "_section": "Pets",
+  "_table": 9,
+  "Pet_2": "Spaghetti (ID 35)",
+  "Passive": "Perk Points Gained",
+  "Benefit": "+15% per level",
+  "_images": [
+   "Pet Spagetti.png"
+  ]
+ }
+]

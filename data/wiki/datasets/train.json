@@ -1,0 +1,370 @@
+[
+ {
+  "_page": "Train",
+  "_section": "Gym",
+  "_table": 0,
+  "col1": "Skiller",
+  "col2": "Benching",
+  "col3": "Fighting",
+  "col4": "Pushups",
+  "col5": "Squats",
+  "col6": "Situps"
+ },
+ {
+  "_page": "Train",
+  "_section": "Gym",
+  "_table": 0,
+  "col1": "Skill",
+  "col2": "Strength",
+  "col3": "Attack",
+  "col4": "Endurance",
+  "col5": "Strength",
+  "col6": "Endurance"
+ },
+ {
+  "_page": "Train",
+  "_section": "Gym",
+  "_table": 0,
+  "col1": "H20 Req.",
+  "col2": 0,
+  "col3": 4,
+  "col4": 10,
+  "col5": 14,
+  "col6": 20
+ },
+ {
+  "_page": "Train",
+  "_section": "Gym",
+  "_table": 0,
+  "col1": "Gold Cost",
+  "col2": 0,
+  "col3": 5000,
+  "col4": 50000,
+  "col5": "375K",
+  "col6": "2500K"
+ },
+ {
+  "_page": "Train",
+  "_section": "Attack Dojo",
+  "_table": 1,
+  "col1": "Skiller",
+  "col2": "Assassin",
+  "col3": "Swordsman",
+  "col4": "Killer",
+  "col5": "Bandit",
+  "col6": "Streetz"
+ },
+ {
+  "_page": "Train",
+  "_section": "Attack Dojo",
+  "_table": 1,
+  "col1": "Skill",
+  "col2": "Attack",
+  "col3": "Attack",
+  "col4": "Attack",
+  "col5": "Attack",
+  "col6": "Attack"
+ },
+ {
+  "_page": "Train",
+  "_section": "Attack Dojo",
+  "_table": 1,
+  "col1": "H20 Req.",
+  "col2": 0,
+  "col3": 7,
+  "col4": 16,
+  "col5": 23,
+  "col6": 32
+ },
+ {
+  "_page": "Train",
+  "_section": "Attack Dojo",
+  "_table": 1,
+  "col1": "Gold Cost",
+  "col2": 0,
+  "col3": 10000,
+  "col4": 50000,
+  "col5": "250K",
+  "col6": "1250K"
+ },
+ {
+  "_page": "Train",
+  "_section": "Strength Mountain",
+  "_table": 2,
+  "col1": "Skiller",
+  "col2": "Boulder",
+  "col3": "Chopchop",
+  "col4": "Laborer",
+  "col5": "Bender",
+  "col6": "Rockman"
+ },
+ {
+  "_page": "Train",
+  "_section": "Strength Mountain",
+  "_table": 2,
+  "col1": "Skill",
+  "col2": "Strength",
+  "col3": "Strength",
+  "col4": "Strength",
+  "col5": "Strength",
+  "col6": "Strength"
+ },
+ {
+  "_page": "Train",
+  "_section": "Strength Mountain",
+  "_table": 2,
+  "col1": "H20 Req.",
+  "col2": 0,
+  "col3": 7,
+  "col4": 16,
+  "col5": 23,
+  "col6": 32
+ },
+ {
+  "_page": "Train",
+  "_section": "Strength Mountain",
+  "_table": 2,
+  "col1": "Gold Cost",
+  "col2": 0,
+  "col3": 10000,
+  "col4": 50000,
+  "col5": "250K",
+  "col6": "1250K"
+ },
+ {
+  "_page": "Train",
+  "_section": "Endurance Fields",
+  "_table": 3,
+  "col1": "Skiller",
+  "col2": "Running",
+  "col3": "Waiting",
+  "col4": "Sleeping",
+  "col5": "Feaster",
+  "col6": "Gamer"
+ },
+ {
+  "_page": "Train",
+  "_section": "Endurance Fields",
+  "_table": 3,
+  "col1": "Skill",
+  "col2": "Endurance",
+  "col3": "Endurance",
+  "col4": "Endurance",
+  "col5": "Endurance",
+  "col6": "Endurance"
+ },
+ {
+  "_page": "Train",
+  "_section": "Endurance Fields",
+  "_table": 3,
+  "col1": "H20 Req.",
+  "col2": 0,
+  "col3": 7,
+  "col4": 16,
+  "col5": 23,
+  "col6": 32
+ },
+ {
+  "_page": "Train",
+  "_section": "Endurance Fields",
+  "_table": 3,
+  "col1": "Gold Cost",
+  "col2": 0,
+  "col3": 10000,
+  "col4": 50000,
+  "col5": "250K",
+  "col6": "1250K"
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "AP",
+  "Effect": "5% Damage, 10% Accuracy",
+  "Minimum T-Perk Cost": "22M Cash",
+  "_images": [
+   "TPerk_Damage1.png",
+   "Lock-1.png"
+  ]
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "AP",
+  "Effect": "1% Health per endurance level",
+  "Minimum T-Perk Cost": "890M Cash",
+  "_images": [
+   "TPerk_Health.png",
+   "Lock-2.png"
+  ]
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "AP",
+  "Effect": "15% Cash",
+  "Minimum T-Perk Cost": "480B Cash",
+  "_images": [
+   "TPerk_Cash.png",
+   "Lock-3.png"
+  ]
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "AP",
+  "Effect": "8% Ore and Fish, 5% Mining exp",
+  "Minimum T-Perk Cost": "370T Cash",
+  "_images": [
+   "TPerk_Resources.png",
+   "Lock-4.png"
+  ]
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "AP",
+  "Effect": "1 Inactive crusader",
+  "Minimum T-Perk Cost": "37QQ Cash",
+  "_images": [
+   "TPerk_Crusaders.png",
+   "Lock-5.png"
+  ]
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "AP",
+  "Effect": "12% Brew speed",
+  "Minimum T-Perk Cost": "590M Plasma",
+  "_images": [
+   "TPerk_BrewSpeed1.png",
+   "Lock-6.png"
+  ]
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "BP",
+  "Effect": "20% Damage, 5% Accuracy",
+  "Minimum T-Perk Cost": "950B Plasma",
+  "_images": [
+   "TPerk_Damage2.png",
+   "Lock-7.png"
+  ]
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "BP",
+  "Effect": "10% Crops gained",
+  "Minimum T-Perk Cost": "2QQ Plasma",
+  "_images": [
+   "TPerk_Crops.png",
+   "Lock-8.png"
+  ]
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "BP",
+  "Effect": "2% Chance for rift level up",
+  "Minimum T-Perk Cost": "22 Lava",
+  "_images": [
+   "TPerk_Rift.png",
+   "Lock-9.png"
+  ]
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "BP",
+  "Effect": "25% Brew speed",
+  "Minimum T-Perk Cost": "300K Lava",
+  "_images": [
+   "TPerk_BrewSpeed2.png",
+   "Lock-10.png"
+  ]
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "BP",
+  "Effect": "2% BP on rebirth",
+  "Minimum T-Perk Cost": "5B Lava",
+  "_images": [
+   "TPerk_BP.png",
+   "Lock-11.png"
+  ]
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "BP",
+  "Effect": "2% Tank RP Gain",
+  "Minimum T-Perk Cost": "56T Lava",
+  "_images": [
+   "Tperk_RP.png",
+   "Lock-12.png"
+  ]
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "BP",
+  "Effect": "2% non-Boss traces",
+  "Minimum T-Perk Cost": "770Q Lava",
+  "_images": [
+   "TPerk_Traces.png",
+   "Lock-13.png"
+  ]
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "BP",
+  "Effect": "50% Damage",
+  "Minimum T-Perk Cost": "150k Dimensional",
+  "_images": [
+   "TPerk_Damage3.png",
+   "Lock-14.png"
+  ]
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "BP",
+  "Effect": "2% Kills/Kill",
+  "Minimum T-Perk Cost": "350Q Dimensional",
+  "_images": [
+   "TPerk_Kills.png",
+   "Lock-15.png"
+  ]
+ },
+ {
+  "_page": "Train",
+  "_section": "Training Perks",
+  "_table": 4,
+  "Unlock": "BP",
+  "Effect": "0.1% Chain level up chance",
+  "Minimum T-Perk Cost": "3000QQ Post-Dimensional",
+  "_images": [
+   "TPerk_Chain.png",
+   "Lock-16.png"
+  ]
+ }
+]

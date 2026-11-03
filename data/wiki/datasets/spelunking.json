@@ -1,0 +1,502 @@
+[
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": 100,
+  "Name": "Coin",
+  "_images": [
+   "bag_1.png",
+   "t_coin.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "1k",
+  "Name": "Ore Veins",
+  "_images": [
+   "bag_2.png",
+   "t_ore_veins.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "10k",
+  "Name": "Crown",
+  "_images": [
+   "bag_3.png",
+   "t_crown.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "100k",
+  "Name": "Candle",
+  "_images": [
+   "bag_4.png",
+   "t_candle.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "1M",
+  "Name": "Heavy Bars",
+  "_images": [
+   "bag_5.png",
+   "t_heavy_bars.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "10M",
+  "Name": "Starlight",
+  "_images": [
+   "bag_6.png",
+   "t_starlight.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "100M",
+  "Name": "Wealth Obol",
+  "_images": [
+   "bag_7.png",
+   "t_wealth_obol.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "1B",
+  "Name": "Music Note",
+  "_images": [
+   "bag_8.png",
+   "t_music_note.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "10B",
+  "Name": "Diamond",
+  "_images": [
+   "bag_9.png",
+   "t_diamond.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "100B",
+  "Name": "Maybe Soap",
+  "_images": [
+   "bag_10.png",
+   "t_maybe_soap.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "1T",
+  "Name": "Silver Booty",
+  "_images": [
+   "bag_11.png",
+   "t_silver_booty.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "10T",
+  "Name": "Champ Cup",
+  "_images": [
+   "bag_12.png",
+   "t_champ_cup.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "100T",
+  "Name": "Shrapnel",
+  "_images": [
+   "bag_13.png",
+   "t_shrapnel.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "1Q",
+  "Name": "Frozen Obol",
+  "_images": [
+   "bag_14.png",
+   "t_frozen_obol.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "10Q",
+  "Name": "Irish Clover",
+  "_images": [
+   "bag_15.png",
+   "t_irish_clover.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "100Q",
+  "Name": "Octagox",
+  "_images": [
+   "bag_16.png",
+   "t_octagox.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "1QQ",
+  "Name": "Cristils",
+  "_images": [
+   "sack_mach_1.png",
+   "t_cristils.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "10QQ",
+  "Name": "Leaf Ring",
+  "_images": [
+   "sack_mach_2.png",
+   "t_leaf_ring.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "100QQ",
+  "Name": "Geode",
+  "_images": [
+   "sack_mach_3.png",
+   "t_geode.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": 1,
+  "Name": "Jade",
+  "_images": [
+   "sack_mach_4.png",
+   "t_jade.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": 10,
+  "Name": "Calming Obol",
+  "_images": [
+   "sack_mach_5.png",
+   "t_calming_obol.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": 100,
+  "Name": "Blobbish",
+  "_images": [
+   "sack_mach_6.png",
+   "t_blobbish.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "1k",
+  "Name": "Ruby",
+  "_images": [
+   "sack_mach_7.png",
+   "t_ruby.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "10k",
+  "Name": "Prime Meat",
+  "_images": [
+   "sack_mach_8.png",
+   "t_prime_meat.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "100k",
+  "Name": "Scroll",
+  "_images": [
+   "sack_mach_9.png",
+   "t_scroll.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Value": "1M",
+  "Name": "Sigil",
+  "_images": [
+   "sack_mach_10.png",
+   "t_sigil.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Name": "The Mark",
+  "_images": [
+   "t_the_mark.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Treasure",
+  "_table": 0,
+  "Name": "Temper Obol",
+  "_images": [
+   "t_temper_obol.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Learn",
+  "_table": 1,
+  "No.": 1,
+  "Perk": "Basic Swiftness",
+  "Bonus": "Speed increased by 10% per level",
+  "Max": "-",
+  "Learning required (single)": 144,
+  "Learning required (cumulative)": 144,
+  "_images": [
+   "Basic_Swiftness.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Learn",
+  "_table": 1,
+  "No.": 2,
+  "Perk": "Value Town",
+  "Bonus": "Treasure bag value increased by X%",
+  "Max": "-",
+  "Learning required (single)": 576,
+  "Learning required (cumulative)": 720,
+  "_images": [
+   "Value_Town.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Learn",
+  "_table": 1,
+  "No.": 3,
+  "Perk": "Big Brained",
+  "Bonus": "Learning rate increased by X%",
+  "Max": "200%",
+  "Learning required (single)": 720,
+  "Learning required (cumulative)": 1440,
+  "_images": [
+   "Big_Brained.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Learn",
+  "_table": 1,
+  "No.": 4,
+  "Perk": "Diggy Hole",
+  "Bonus": "Dig down amount increased by 5% per level",
+  "Max": "-",
+  "Learning required (single)": 1400,
+  "Learning required (cumulative)": 2840,
+  "_images": [
+   "Diggy_Hole.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Learn",
+  "_table": 1,
+  "No.": 5,
+  "Perk": "Craaazy Skull",
+  "Bonus": "Gain X% more Spelunking EXP from this guy",
+  "Max": "100%",
+  "Learning required (single)": 2700,
+  "Learning required (cumulative)": 5540,
+  "_images": [
+   "Craaazy_Skull.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Learn",
+  "_table": 1,
+  "No.": 6,
+  "Perk": "Extra Baggage",
+  "Bonus": "Treasure bags hold X% more treasure items",
+  "Max": "500%",
+  "Learning required (single)": 3000,
+  "Learning required (cumulative)": 8540,
+  "_images": [
+   "Extra_Baggage.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Learn",
+  "_table": 1,
+  "No.": 7,
+  "Perk": "Were Goin Down",
+  "Bonus": "X% Dig down multiplier (all spelunkers)",
+  "Max": "-",
+  "Learning required (single)": 5700,
+  "Learning required (cumulative)": 14240,
+  "_images": [
+   "Were_Goin_Down.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Learn",
+  "_table": 1,
+  "No.": 8,
+  "Perk": "Sacks On Sacks",
+  "Bonus": "Gain X extra bags with Y% value of previous",
+  "Max": "2 / 60%",
+  "Learning required (single)": 7200,
+  "Learning required (cumulative)": 21440,
+  "_images": [
+   "Sacks_On_Sacks.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Learn",
+  "_table": 1,
+  "No.": 9,
+  "Perk": "Galaxy Brained",
+  "Bonus": "X% Learn rate multiplier (all spelunkers)",
+  "Max": "40%",
+  "Learning required (single)": 8600,
+  "Learning required (cumulative)": 30040,
+  "_images": [
+   "Galaxy_Brained.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Learn",
+  "_table": 1,
+  "No.": 10,
+  "Perk": "Obol Blessing",
+  "Bonus": "+0.1% dig down & +0.1% speed per Spelunk lvl per level",
+  "Max": "-",
+  "Learning required (single)": 10000,
+  "Learning required (cumulative)": 40040,
+  "_images": [
+   "Obol_Blessing.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Learn",
+  "_table": 1,
+  "No.": 11,
+  "Perk": "Sanic Speed",
+  "Bonus": "X% speed multiplier (all spelunkers)",
+  "Max": "150%",
+  "Learning required (single)": 11000,
+  "Learning required (cumulative)": 51040,
+  "_images": [
+   "Sanic_Speed.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Learn",
+  "_table": 1,
+  "No.": 12,
+  "Perk": "Shiny Is Good",
+  "Bonus": "Each treasure is worth 4% more",
+  "Max": "-",
+  "Learning required (single)": 12000,
+  "Learning required (cumulative)": 63040,
+  "_images": [
+   "Shiny_Is_Good.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Learn",
+  "_table": 1,
+  "No.": 13,
+  "Perk": "Hey Look Ma",
+  "Bonus": "Rare treasures are X% more likely",
+  "Max": "250%",
+  "Learning required (single)": 14000,
+  "Learning required (cumulative)": 77040,
+  "_images": [
+   "Hey_Look_Ma.png"
+  ]
+ },
+ {
+  "_page": "Spelunking",
+  "_section": "Learn",
+  "_table": 1,
+  "No.": 14,
+  "Perk": "Hammer Time",
+  "Bonus": "Building speed boosted by X%",
+  "Max": "50%",
+  "Learning required (single)": 33000,
+  "Learning required (cumulative)": 110040,
+  "_images": [
+   "Hammer_Time.png"
+  ]
+ }
+]

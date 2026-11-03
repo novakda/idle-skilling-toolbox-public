@@ -1,0 +1,71 @@
+<noinclude>{{Documentationpage}}</noinclude>
+Auxiliary template for {{tl|Infobox}}.
+
+==Usage==
+<pre>{{abb|abbreviation}}</pre>
+
+==Parameters==
+<templatedata>
+{
+	"params": {
+		"1": {
+			"aliases": [
+				"abb"
+			],
+			"label": "Abb",
+			"description": "Game abbrevation; see Template:Abb for list of valid inputs.",
+			"type": "string",
+			"required": true
+		},
+		"mode": {
+			"label": "Mode",
+			"description": "Determines the template output.",
+			"example": "Available options: icon, link, short, text",
+			"type": "string",
+			"required": true
+		}
+	},
+	"description": "Small template which retrieves the name of a ''Fallout'' game for a given user entry."
+}
+</templatedata>
+
+==Available options for <nowiki>{{{mode|}}}</nowiki>==
+* ''icon'': Returns the name of the game's icon (without "File:" prefix).
+* ''link'': Returns the name of the game's overview article.
+* ''short'': Returns a shortened version of the game's name for display in narrow spaces.
+* ''text'': Returns the game's name.
+
+==Abbreviations==
+<section begin="abbrevations" />
+{| class="va-table sortable" style="text-align:center;"
+! Abbreviation
+! text
+! short
+! link
+! class="unsortable" | icon
+|-
+| '''Wiki'''
+| {{abb|Wiki}}
+| {{abb|mode=short|Wiki}}
+| [[{{abb|mode=link|Wiki}}]]
+| [[File:{{abb|mode=icon|Wiki}}|x40px]]
+|}
+<section end="abbrevations" />
+
+===Adding new abbrevations===
+New abbreviations need adding to [[Module:Abb/data]]
+
+Please note:
+* The abbreviation needs to be in all-uppercase.
+* Icon file names should be specified without "File:" prefix.
+In addition, please try to maintain alphabetical order of abbreviations within the template.
+
+==Examples==
+{| class="va-table"
+|-
+! Input
+! Result
+|-
+| <code><nowiki>{{abb|Wiki}}</nowiki></code>
+| {{abb|Wiki}}
+|}

@@ -1,0 +1,69 @@
+<table-progress-tracking table-id="Apothecary1" unique-column-index="2">
+{{#if: {{{1|}}} | {{{!}} class="article-table mw-collapsible mw-collapsed" border="1" align="center"
+! colspan="8" {{!}} Apothecary Card List | {{{!}} class="listing sortable" style="width: 100%;" border="0" align="center"}}
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |Zone
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+|-
+|[[File:C_red_pot.png|36px]]
+|Apothecary-1
+|Red Pot
+|Apothecary EXP
+|5%
+|25%
+|-
+|[[File:C_orange_pot.png|36px]]
+|Apothecary-2
+|Orange Pot
+|Potion Cost Redux
+|2%
+|10%
+|-
+|[[File:C_yellow_pot.png|36px]]
+|Apothecary-3
+|Yellow Pot
+|Apothecary EXP
+|6%
+|30%
+|-
+|[[File:C_lime_pot.png|36px]]
+|Apothecary-4
+|Lime Pot
+|Chance for Double Potion Level Up
+|4%
+|20%
+|-
+|[[File:C_cyan_pot.png|36px]]
+|Apothecary-5
+|Cyan Pot
+|Potion Cost Redux
+|3%
+|15%
+|-
+|[[File:C_purple_pot.png|36px]]
+|Apothecary-6
+|Purple Pot
+|Chance for Double Potion Level Up
+|6%
+|30%
+|-
+|[[File:C_demon_pot.png|36px]]
+|Apothecary-7
+|Demon Pot
+|Potion Cost Redux
+|4%
+|20%
+|-
+|[[File:C_godly_pot.png|36px]]
+|Apothecary-8
+|Godly Pot
+|Potion Cost Redux Every 50 Apoth. Levels
+|2%
+|10%
+|}
+</table-progress-tracking>
+[[Category:Cards]]

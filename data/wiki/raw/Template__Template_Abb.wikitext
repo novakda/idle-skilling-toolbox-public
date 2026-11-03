@@ -1,0 +1,16 @@
+<includeonly><!--
+
+-->{{#switch:{{uc:{{{1|{{{abb|}}}}}}}}<!--
+
+-->|WIKI=<!--
+ -->{{#switch:{{lc:{{{mode|}}}}}<!--
+  -->|icon          =Site-logo.png<!--
+  -->|link          =Idle Skilling Wiki<!--
+  -->|short         =IS Wiki<!--
+  -->|text|#default =Idle Skilling Wiki<!--
+ -->}}<!--
+
+-->}}<!--
+
+--></includeonly><noinclude>{{Documentation}}
+[[Category:Abbreviation templates]]</noinclude>

@@ -1,0 +1,16 @@
+<noinclude>{{Documentationpage}}</noinclude>
+Nominates a page for deletion and adds it to [[:Category:Nominated for deletion]].
+
+Based on {{tl|mbox}}.
+
+==Usage==
+<pre>{{delete|reason}}</pre>
+
+===Parameters===
+{{Docparam|name=&lt;unnamed 1<nowiki/>>|req=yes|default=|desc=
+Reason why this page should be deleted
+}}
+
+{{Docparam|name=bot|req=no|default=|desc=
+If set to "yes," the deletion request is specified as having been made by a [[Help:Bots|bot]]. Overrides <code>reason</code> and should only be used for automated revisions.
+}}

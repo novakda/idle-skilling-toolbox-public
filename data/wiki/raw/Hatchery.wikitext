@@ -1,0 +1,977 @@
+{{:Header/Pets}}
+
+== Breeding Pets ==
+[[File:Hatchery Pet.png|thumb|144x144px|A pet slime. Under the pet is its genetic (Health) and Level (1).]]
+In the Hatchery, pets can be bred. Pets are used to fight in [[Trekking]]. A pets genetic (a square or circular icon underneath it) indicates its special ability in trekking. A pets level (underneath its genetic) indicates its damage and health in trekking.
+
+Placing two pets into a nest starts a countdown timer to the creation of an egg. Hatching an egg will create a pet whose species (ID) is the same as one of its parents or a new species (highest parent ID+1).
+
+Pets and eggs can be trashed to give egg shells that can used to upgrade nests.
+
+When the egg timer finishes, a nest can also upgrade the rarity of an egg in the nest. Rarer eggs give rarer egg shells in addition to lower rarity egg shells. Rarer eggs also have a better chance of hatching new pets and higher leveled pets.
+
+== Nest ==
+
+The hatchery starts off with only one nest available. More are unlocked as your hatchery level increases.
+{| class="article-table"
+|Nest
+|1
+|2
+|3
+|4
+|5
+|6
+|-
+|Hatchery Level
+|0
+|5
+|10
+|20
+|30
+|50
+|}
+Nests can be upgraded using gold, egg shells and vessels from [[Trekking]]. Value increases the chance of creating a higher rarity of egg. Speed reduces the time it takes to hatch an egg. Size increases the maximum number of eggs it can hold.
+
+Nests can also be upgraded to Golden Nests in the [[Gem_Shop#Pets|Gem Shop]]. This gives 4x hatching speed, 3x chance to create rarer eggs and 3x bonus to hatching new pets.
+
+Hatcheries can be upgraded in 3 stats:
+
+Value - Rarity of the egg including a chance to get a new Pet
+
+Speed - How fast the hatchery generates a new egg
+
+Size - How many eggs the hatchery can hold with a maximum of 6 eggs
+
+Each upgrade type consumes Cash resources until half way, then takes Vessels and Egg Shell fragments until maxed out.
+
+Prestige:
+
+After all 3 above stats are maxed out, you can choose to prestige the nest to gain an additional 60 levels each stat (Value, Speed, Size).  This buff stacks infinitely as you prestige each nest (e.g. 1 prestige = 60, 2 prestige = 120, 100 prestige = 6000 bonus levels).
+
+== Pet list ==
+<table-progress-tracking table-id="1" unique-column-index="2">
+{| class="listing sortable" style="width: 100%;" border="0" align="center"
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |ID
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: center;" |
+! scope="col" style="text-align: left;" |Genetic
+! scope="col" style="text-align: left;" |Passive
+! scope="col" style="text-align: left;" |Per Level
+! scope="col" style="text-align: left;" |Obtained from
+! scope="col" style="text-align: left;" |Pet Odds
+|-
+|[[File:Pet_Poop.png|thumb|32px]]
+|0
+|Poop
+|[[File:Genetic_Health.png|thumb|32px]]
+|Health
+|Stinkyness
+|1%
+|Pets Tutorial
+| -
+|-
+|[[File:Pet_Slime.png|thumb|32px]]
+|1
+|Slime
+|[[File:Genetic_Health.png|thumb|32px]]
+|Health
+|Pet Max HP
+|5%
+|Pets Tutorial
+|35%
+|-
+|[[File:Pet_Bear.png|thumb|32px]]
+|2
+|Bear
+|[[File:Genetic_FireFist.png|thumb|32px]]
+|Fire Fist
+|Fight Damage
+|10%
+|Discovery
+|26%
+|-
+|[[File:Pet_Frog.png|thumb|32px]]
+|3
+|Frog
+|[[File:Genetic_Swiftness.png|thumb|32px]]
+|Swiftness
+|Fish Caught
+|20%
+|Discovery
+|20%
+|-
+|[[File:Pet_Duck.png|thumb|32px]]
+|4
+|Duck
+|[[File:Genetic_Perception.png|thumb|32px]]
+|Perception
+|Perk Points Gained
+|8%
+|Discovery
+|16%
+|-
+|[[File:Pet_Bubbles.png|thumb|32px]]
+|5
+|Bubbles
+|[[File:Genetic_Health.png|thumb|32px]]
+|Health
+|Ap Gained
+|10%
+|Discovery
+|10%
+|-
+|[[File:Pet_Genie.png|thumb|32px]]
+|6
+|Genie
+|[[File:Genetic_Loot.png|thumb|32px]]
+|Loot
+|Ores Mined
+|25%
+|Discovery
+|7%
+|-
+|[[File:Pet_Sheep.png|thumb|32px]]
+|7
+|Sheep
+|[[File:Genetic_Healing.png|thumb|32px]]
+|Healing
+|Cash
+|20%
+|Discovery
+|4%
+|-
+|[[File:Pet_Seagull.png|thumb|32px]]
+|8
+|Seagull
+|[[File:Genetic_Perception.png|thumb|32px]]
+|Perception
+|Smith Exp Gained
+|10%
+|Discovery
+|2.5%
+|-
+|[[File:Pet_Panda.png|thumb|32px]]
+|9
+|Panda
+|[[File:Genetic_FireFist.png|thumb|32px]]
+|Fire Fist
+|Str Exp Gained
+|20%
+|Discovery
+|1.5%
+|-
+|[[File:Pet_Deer.png|thumb|32px]]
+|10
+|Deer
+|[[File:Genetic_Swiftness.png|thumb|32px]]
+|Swiftness
+|H2O Exp Gained
+|25%
+|Discovery
+|1%
+|-
+|[[File:Pet_DartFrog.png|thumb|32px]]
+|11
+|Dart Frog
+|[[File:Genetic_CurseSkull.png|thumb|32px]]
+|Curse Skull
+|Monster Kills
+|10%
+|Discovery
+|0.7%
+|-
+|[[File:Pet_Dog.png|thumb|32px]]
+|12
+|Dog
+|[[File:Genetic_Incubation.png|thumb|32px]]
+|Incubation
+|Pachi Balls
+|3%
+|Discovery
+|0.5%
+|-
+|[[File:Pet_Crow.png|thumb|32px]]
+|13
+|Crow
+|[[File:Genetic_LifeLeech.png|thumb|32px]]
+|Life Leech
+|Fight Damage
+|25%
+|Discovery
+|0.3%
+|-
+|[[File:Pet_Penguin.png|thumb|32px]]
+|14
+|Penguin
+|[[File:Genetic_Healing.png|thumb|32px]]
+|Healing
+|Tilling Crops
+|20%
+|Discovery
+|0.2%
+|-
+|[[File:Pet_Spirit.png|thumb|32px]]
+|15
+|Spirit
+|[[File:Genetic_Loot.png|thumb|32px]]
+|Loot
+|Rebirth BP
+|15%
+|Discovery
+|0.12%
+|-
+|[[File:Pet_Pencil.png|thumb|32px]]
+|16
+|Pencil
+|[[File:Genetic_Evasive.png|thumb|32px]]
+|Evasive
+|Ores Mined
+|40%
+|Discovery
+|0.07%
+|-
+|[[File:Pet_Eagle.png|thumb|32px]]
+|17
+|Eagle
+|[[File:Genetic_Boomerang.png|thumb|32px]]
+|Boomerang
+|Fish Caught
+|50%
+|Discovery
+|0.04%
+|-
+|[[File:Pet_Spore.png|thumb|32px]]
+|18
+|Spore
+|[[File:Genetic_Healing.png|thumb|32px]]
+|Healing
+|Fight Accurancy
+|15%
+|Discovery
+|0.025
+|-
+|[[File:Pet_Zebra.png|thumb|32px]]
+|19
+|Zebra
+|[[File:Genetic_Enthusiasm.png|thumb|32px]]
+|Enthusiasm
+|Brewing Speed
+|30%
+|Discovery
+|0.012
+|-
+|[[File:Pet_Fireplop.png|thumb|32px]]
+|20
+|Fireplop
+|[[File:Genetic_FireFist.png|thumb|32px]]
+|Fire Fist
+|Botany Speed
+|20%
+|Discovery
+|0.006%
+|-
+|[[File:Pet_Bitey.png|thumb|32px]]
+|21
+|Bitey
+|[[File:Genetic_LifeLeech.png|thumb|32px]]
+|Life Leech
+|Smith Exp Gained
+|20%
+|Discovery
+|0.003%
+|-
+|[[File:Pet_Spoon.png|thumb|32px]]
+|22
+|Spoon
+|[[File:Genetic_Discovery.png|thumb|32px]]
+|Discovery
+|Asylum Traces
+|15%
+|Discovery
+|0.0017%
+|-
+|[[File:Pet_PolarKing.png|thumb|32px]]
+|23
+|Polar King
+|[[File:Genetic_Enthusiasm.png|thumb|32px]]
+|Enthusiasm
+| +X Cauldron Speed Upgrade
+|4
+|Discovery
+|0.001%
+|-
+|[[File:Pet_BullFrog.png|thumb|32px]]
+|24
+|Bull Frog
+|[[File:Genetic_Snipe.png|thumb|32px]]
+|Snipe
+|Monster Kills
+|20%
+|Discovery
+|0.0007%
+|-
+|[[File:Pet_Djinn.png|thumb|32px]]
+|25
+|Djinn
+|[[File:Genetic_Loot.png|thumb|32px]]
+|Loot
+|Cash
+|50%
+|Discovery
+|0.0004%
+|-
+|[[File:Pet_KingPing.png|thumb|32px]]
+|26
+|KingPing
+|[[File:Genetic_Defender.png|thumb|32px]]
+|Defender
+|Fight Damage
+|50%
+|Discovery
+|0.00025%
+|-
+|[[File:Pet_Shroom.png|thumb|32px]]
+|27
+|Shroom
+|[[File:Genetic_Radiation.png|thumb|32px]]
+|Radiation
+|Ores Mined
+|60%
+|Discovery
+|0.00013%
+|-
+|[[File:Pet_IceCream.png|thumb|32px]]
+|28
+|Ice Cream
+|[[File:Genetic_CurseSkull.png|thumb|32px]]
+|Curse Skull
+|Brew Speed
+|50%
+|Discovery
+|0.00008%
+|-
+|[[File:Pet_CrystalBird.png|thumb|32px]]
+|29
+|Crystal Bird
+|[[File:Genetic_Bubbler.png|thumb|32px]]
+|Bubbler
+| +X Cauldron Speed Upgrade
+|5
+|Discovery
+|0.00005%
+|-
+|[[File:Pet_Parrot.png|thumb|32px]]
+|30
+|Parrot
+|[[File:Genetic_Incubation.png|thumb|32px]]
+|Incubation
+| +X Starting Skill Levels
+|2
+|Discovery
+|0.00003%
+|-
+|[[File:Pet_Hyena.png|thumb|32px]]
+|31
+|Hyena
+|[[File:Genetic_Trekkey.png|thumb|32px]]
+|Trekkery
+|Tilling Crops
+|60%
+|Discovery
+|0.000017%
+|-
+|[[File:Pet_CornDog.png|thumb|32px]]
+|32
+|Corn Dog
+|[[File:Genetic_Genesis.png|thumb|32px]]
+|Genesis
+|Botany Speed
+|50%
+|Discovery
+|0.00001%
+|-
+|[[File:Pet_Camel.png|thumb|32px]]
+|33
+|Camel
+|[[File:Genetic_Bubbler.png|thumb|32px]]
+|Bubbler
+|Fight Accurancy
+|25%
+|Discovery
+|7.0e-6%
+|-
+|[[File:Pet_Vampire.png|thumb|32px]]
+|34
+|Vampire
+|[[File:Genetic_LifeLeech.png|thumb|32px]]
+|Life Leech
+|Str Exp Gained
+|100%
+|Discovery
+|4.0e-6%
+|-
+|[[File:Pet_Spagetti.png|thumb|32px]]
+|35
+|Spagetti
+|[[File:Genetic_Snapzi.png|thumb|32px]]
+|Snapzi
+|Perk Points Gained
+|15%
+|Discovery
+|2.5e-6%
+|-
+|[[File:Pet_Fungo.png|thumb|32px]]
+|36
+|Fungo
+|[[File:Genetic_Snipe.png|thumb|32px]]
+|Snipe
+|Asylum Traces
+|30%
+|Discovery
+|1.6e-6%
+|-
+|[[File:Pet_ChaosBeast.png|thumb|32px]]
+|37
+|Chaos Beast
+|[[File:Genetic_CurseSkull.png|thumb|32px]]
+|Curse Skull
+|H2O Exp Gained
+|150%
+|Discovery
+|1.0e-6%
+|-
+|[[File:Pet_PuppetBall.png|thumb|32px]]
+|38
+|Puppet Ball
+|[[File:Genetic_Swiftness.png|thumb|32px]]
+|Swiftness
+|Tilling Crops
+|100%
+|Discovery
+|4.0e-7%
+|-
+|[[File:Pet_MiniLava.png|thumb|32px]]
+|39
+|Mini Lava
+|[[File:Genetic_Genesis.png|thumb|32px]]
+|Genesis
+|Chain Level Chance
+|0.3%
+|Discovery & [[Dairy Aisle|Ice Cream 1]]
+|2.5e-7%
+|-
+|[[File:Pet_Platypus.png|thumb|32px]]
+|40
+|Platypus
+|[[File:Genetic_SoulBound.png|thumb|32px]]
+|SoulBound
+|Pet Max HP
+|10%
+|Discovery & [[Dairy Aisle|Ice Cream 2]]
+|1.7e-7%
+|-
+|[[File:Pet_Whisp.png|thumb|32px]]
+|41
+|Whisp
+|[[File:Genetic_Swiftness.png|thumb|32px]]
+|Swiftness
+| +X Starting Levels
+|6
+|Discovery & [[Dairy Aisle|Ice Cream 3]]
+|5.0e-8%
+|-
+|[[File:Pet_Hyduck.png|thumb|32px]]
+|42
+|Hyduck
+|[[File:Genetic_Snapzi.png|thumb|32px]]
+|Snapzi
+|Rebirth BP
+|60%
+|Discovery & [[Dairy Aisle|Ice Cream 4]]
+|1.0e-8%
+|-
+|[[File:Pet_Plantz.png|thumb|32px]]
+|43
+|Plantz
+|[[File:Genetic_Snipe.png|thumb|32px]]
+|Snipe
+| +X Cauldron Speed Upgrade
+|15
+|Discovery & [[Dairy Aisle|Ice Cream 5]]
+|1.0e-9%
+|-
+|[[File:Pet_Highness.png|thumb|32px]]
+|44
+|Highness
+|[[File:Genetic_Enthusiasm.png|thumb|32px]]
+|Enthusiasm
+|Capsule Exp Rate
+|20%
+|Discovery & [[Dairy Aisle|Ice Cream 6]]
+|1.0e-10%
+|-
+|[[File:Pet_Almighty.png|thumb|32px]]
+|45
+|Almighty
+|[[File:Genetic_Loot.png|thumb|32px]]
+|Loot
+|Pet Travel Speed
+|25%
+|Discovery & [[Dairy Aisle|Ice Cream 7]]
+| -
+|-
+|[[File:Pet_King.png|thumb|32px]]
+|46
+|King
+|[[File:Genetic_Genesis.png|thumb|32px]]
+|Genesis
+|Pet Damage
+|10%
+|Raid drop - [[Raids#Pets|Defiled King]]
+|1/150
+|-
+|[[File:Pet_Entertainer.png|thumb|32px]]
+|47
+|Entertainer
+|[[File:Genetic_Trekkey.png|thumb|32px]]
+|Trekkery
+|Capsule Exp Rate
+|11%
+|Raid drop - [[Raids#Pets|Headless Entertainer]]
+|1/175
+|-
+|[[File:Pet_SentinelB.png|thumb|32px]]
+|48
+|Sentinel B
+|[[File:Genetic_Ionize.png|thumb|32px]]
+|Ionize
+|Lower Smith Cap
+|10%
+|Raid drop - [[Raids#Pets|Two Faced Sentinel]]
+|1/200
+|-
+|[[File:Pet_SentinelR.png|thumb|32px]]
+|49
+|Sentinel R
+|[[File:Genetic_RattlinGun.png|thumb|32px]]
+|Rattling Gun
+|Brew Speed
+|75%
+|Raid/Aslyum drop - Any
+|<div class="mw-customtoggle-SentinelR wikia-menu-button">Show/Hide chances</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-SentinelR" style="text-align: center;">
+----
+'''Boss: Chance'''
+----
+King: 1/700
+----
+Entertainer: 1/800
+----
+Sentinel: 1/900
+----
+Demon: 1/1000
+----
+Emigdala: 1/444
+----
+Occulon: 1/489
+----
+Scallax: 1/662
+----
+Gorshank: 1/667
+----
+</div>
+|-
+|[[File:Pet_SentinelY.png|thumb|32px]]
+|50
+|Sentinel Y
+|[[File:Genetic_Incubation.png|thumb|32px]]
+|Incubation
+| +X Cauldron Speed Upgrade
+|11
+|Raid/Aslyum drop - Any
+|<div class="mw-customtoggle-SentinelY wikia-menu-button">Show/Hide chances</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-SentinelY" style="text-align: center;">
+----
+'''Boss: Chance'''
+----
+King: 1/2000
+----
+Entertainer: 1/2200
+----
+Sentinel: 1/2300
+----
+Demon: 1/2500
+----
+Emigdala: 1/1556
+----
+Occulon: 1/1778
+----
+Scallax: 1/2000
+----
+Gorshank: 1/2222
+----
+</div>
+|-
+|[[File:Pet_Demon.png|thumb|32px]]
+|51
+|Demon
+|[[File:Genetic_Respawn.png|thumb|32px]]
+|Respawn
+|Pet Max HP
+|18%
+|Raid drop - [[Raids#Pets|Demonic Anathema]]
+|1/220
+|-
+|[[File:Pet_Emigdala.png|thumb|32px]]
+|52
+|Emigdala
+|[[File:Genetic_RattlinGun.png|thumb|32px]]
+|Rattling Gun
+|Capsule Exp Rate
+|15%
+|Asylum drop - [[Asylum#Pets|Emigdala]]
+|1/108
+|-
+|[[File:Pet_Occulon.png|thumb|32px]]
+|53
+|Occulon
+|[[File:Genetic_ZeusBolt.png|thumb|32px]]
+|Zeus Bolt
+|Pachi Balls
+|12%
+|Asylum drop - [[Asylum#Pets|Occulon]]
+|1/146
+|-
+|[[File:Pet_Scallax.png|thumb|32px]]
+|54
+|Scallax
+|[[File:Genetic_Ionize.png|thumb|32px]]
+|Ionize
+|Pet Damage
+|25%
+|Asylum drop - [[Asylum#Pets|Scallius]]
+|1/182
+|-
+|[[File:Pet_Gorshank.png|thumb|32px]]
+|55
+|Gorshank
+|[[File:Genetic_Abdominable.png|thumb|32px]]
+|Abominable
+|Pet Travel Speed
+|30%
+|Asylum drop - [[Asylum#Pets|Gorshank]]
+|1/211
+|-
+|[[File:Golden boy.png|thumb|32px]]
+|56
+|Golden Boy
+|[[File:Genetic_Loot.png|thumb|32px]]
+|Loot
+|Cash
+|80%
+|Tunnels - [[Secrets|Secret]]
+| -
+|-
+|[[File:Pet_BasketBall.png|thumb|32px]]
+|57
+|Basketball
+|[[File:Genetic_Snapzi.png|thumb|32px]]
+|Snapzi
+|Hoop Gem Cap
+|8
+|Hoops Minigame - 66 points, 3 trials combined
+| -
+|-
+|[[File:Pet_Bob.png|thumb|32px]]
+|58
+|Bob
+|[[File:Genetic_Loot.png|thumb|32px]]
+|Loot
+|Crypt Loot
+|10%
+|Purple research tank 'Our Best Friend' first perk - Lvl 535, Bob perfume level 1
+| -
+|-
+|[[File:Pet_PoopyG.png|thumb|32px]]
+|59
+|Poopy G
+|[[File:Genetic_Loot.png|thumb|32px]]
+|Boomerang
+|Pachi Balls
+|1%
+|Hatchery Level - 150
+| -
+|}
+</table-progress-tracking>
+
+== Genes ==
+
+Genes on pets are used to help your team progress in [[Trekking]].
+
+Circular genes are Attack Moves. These are abilities that either attack the enemy, heal your team or both! Pets with these gene must be in fighter slots (bottom row) to be used. However they can still count towards combos when in support slots.
+
+Square genes are Team Buffs. These can buff various team stats such as health or critical chance.
+
+Having 3, 6 or 9 total of a gene gives an additonal bonus to your team.
+
+A pet can have up to 3 genes. A chance to breed pets with 2 and 3 genes are unlocked at Hatchery levels 20 and 40 respectively. The chance to get multiple genes increases with Hatchery levels.
+
+Please notice that some combos are bugged and may not work.These will be fixed (hopefully) soon
+
+=== Genes list ===
+{| class="article-table" style="width: 100%;text-align:center;" align="center" border="1"
+! rowspan="2" style="text-align: center;" |[[File:Trekking_01.png|center|68px|link=Hatchery]]
+! colspan="6" style="text-align: center;" | Genetics
+|-
+! colspan="1" style="text-align: center;" |Genetic Name
+! colspan="1" style="text-align: center;" | Type
+! rowspan="1" style="text-align: center;" | Passive 
+! rowspan="1" style="text-align: center;" | Combo of 3 
+! rowspan="1" style="text-align: center;" | Combo of 6 
+! rowspan="1" style="text-align: center;" | Combo of 9 
+|-
+|[[File:Genetic_FireFist.png|center|68px]]
+| style="text-align:left;" |Fire Fist
+|Attack Move
+|Deals 150% Damage<br />
+Fire Rate: Medium(6)
+|Fire Fist Deal 250% Damage Instead Of 150% Damage
+|Fire Fist Deal 350% Damage Instead Of 150% Damage
+|Fire Fist Deal 550% Damage Instead Of 150% Damage
+|-
+|[[File:Genetic_CurseSkull.png|center|68px]]
+| style="text-align:left;" |Curse Skull
+|Attack Move
+|Adds Stacking +10% Damage Boost to All Damage<br />
+Fire Rate : Fast(7)
+|All Attacks Have a 15% Chance of Applying a 10% Curse
+|All Attacks Have a 30% Chance of Applying a 10% Curse
+|All Attacks Have a 45% Chance of Applying a 10% Curse
+|-
+|[[File:Genetic_Healing.png|center|68px]]
+| style="text-align:left;" |Healing
+|Attack Move
+|Heals 5% of Total HP<br />
+Fire Rate: Slow(3)
+|Heals For 7% HP Instead of 5% But Only When HP is Below 50%
+|Heals for 9% HP instead of 5% But Only When HP is Below 50%
+|Heals for 11% HP instead of 5% But Only When HP is Below 50%
+|-
+|[[File:Genetic_Boomerang.png|center|68px]]
+| style="text-align:left;" |Boomerang
+|Attack Move
+|Deals 150% Damage With 33% Chance to Bounce<br />
+Fire Rate: Medium(5)
+|Boomerang Have 40% Bounce Chance and Bounces Multiply Damage By 1.33x
+|Boomerang Have 47% Bounce Chance and Bounces Multiply Damage By 1.66x
+|Boomerang Have 54% Bounce Chance and Bounces Multiply Damage By 2x
+|-
+|[[File:Genetic_LifeLeech.png|center|68px]]
+| style="text-align:left;" |Life Leech
+|Attack Move
+|200% Damage and Heals Team Based On % Damage Done<br />
+Fire Rate: Medium(4)
+|Lifesteal Deals +3% More Damage for Every 1% of Pet HP Missing
+|Lifesteal Deals +6% More Damage for Every 1% of Pet HP Missing
+|Lifesteal Deals +9% More Damage for Every 1% of Pet HP Missing
+|-
+|[[File:Genetic_Bubbler.png|center|68px]]
+| style="text-align:left;" |Bubbler
+|Attack Move
+|Deals 200% Damage For Every Second it travels<br />
+Fire Rate: Slow(3)
+|Buuble Moves 20% Slower and Gains +50% More Damage Per Second
+|Buuble Moves 40% Slower and Gains +100% More Damage Per Second
+|Buuble Moves 60% Slower and Gains +200% More Damage Per Second
+|-
+|[[File:Genetic_Snipe.png|center|68px]]
+| style="text-align:left;" |Snipe
+|Attack Move
+|1200% Damage With a 50% miss Chance<br />
+Fire Rate: Slower(2)
+|2000% Damage With a 40% Miss Chance<br />
+Fire Rate: Slower(2)
+|2800% Damage With a 30% Miss chance
+
+Fire Rate: Slower(2)
+|4400% Damage With a 20% Miss chance
+
+Fire Rate: Slower(2)
+|-
+|[[File:Genetic_Radiation.png|center|68px]]
+| style="text-align:left;" |Radiation
+|Attack Move
+|Gives 2x Damage to The Next Attack That Hits<br />
+Fire Rate: Medium(5)
+|Radiation Bonus Has a 25% Chance to Not Got Away
+|Radiation Bonus Has a 50% Chance to Not Got Away
+|Radiation Bonus Has a 75% Chance to Not Got Away
+|-
+|[[File:Genetic_RattlinGun.png|center|68px]]
+| style="text-align:left;" |Rattlin Gun
+|Attack Move
+|25% Damage +2% For Each Consecutive Bone Attack<br />
+Fire Rate: Faster(10)
+|Each Bone Attack Gives +3% Damage to All Bone Attacks
+|Each Bone Attack Gives +4% Damage to All Bone Attacks
+|Each Bone Attack Gives +5% Damage to All Bone Attacks
+|-
+|[[File:Genetic_ZeusBolt.png|center|68px]]
+| style="text-align:left;" |Zeus Bolt
+|Attack Move
+|250% Damage With 2x Crit Chance and 3x Crit Damage<br />
+Fire Rate: Fast(8)
+|Bolts Do 300% Damage With 4x Crit Damage
+|Bolts Do 350% Damage With 5x Crit Damage
+|Bolts Do 450% Damage With 7x Crit Damage
+|-
+|[[File:Genetic_Health.png|center|68px]]
+| style="text-align:left;" |Health
+|Team Buff
+| +25% Max HP
+| +75% Max Pet Healthand  All Healing is +10% Better
+| +150% Max Pet Healthand  All Healing is +20% Better
+|300% Max Pet Healthand  All Healing is +30% Better
+|-
+|[[File:Genetic_Perception.png|center|68px]]
+| style="text-align:left;" |Perception
+|Team Buff
+| +5% Critical Chance
+| +10% Critical Chance and +15%Critical Damage
+| +20% Critical Chance and +30%Critical Damage
+| +30% Critical Chance and +60%Critical Damage
+|-
+|[[File:Genetic_Swiftness.png|center|68px]]
+| style="text-align:left;" |Swiftness
+|Team Buff
+| +15% Distance Travelled When A Monster Killed
+|Travel 2x as Far For Each Monster Kill
+|Travel 3x as Far For Each Monster Kill
+|Travel 5x as Far For Each Monster Kill
+|-
+|[[File:Genetic_Incubation.png|center|68px]]
+| style="text-align:left;" |Incubation
+|Personal Buff
+| +40% Hatching Speed For The Nest This Pet Is In
+|Base Distance Travel is 2m
+|Base Distance Travel is 4m
+|Base Distance Travel is 5m
+|-
+|[[File:Genetic_Loot.png|center|68px]]
+| style="text-align:left;" |Loot
+|Team Buff
+| +25% Vessel Gained
+|Loot Genetics Give a +50% Bonus Instead of a +25% Bonus
+|Loot Genetics Give a +75%  Bonus Instead of a +25% Bonus
+|Loot Genetics Give a +125%  Bonus Instead of a +25% Bonus
+|-
+|[[File:Genetic_Evasive.png|center|68px]]
+| style="text-align:left;" |Evasive
+|Team Buff
+| +5% Chance to Completely Avoid Incoming Damage
+|Each Evasion Of Damage Gives A +10% Damage Bonus To All Attacks
+|Each Evasion of Damage Gives a 20% Damage Bonus to All Attacks
+|Each Evasion of Damage Gives a 30% Damage Bonus to All Attacks
+|-
+|[[File:Genetic_Enthusiasm.png|center|68px]]
+| style="text-align:left;" |Enthusiasm
+|Team Buff
+| +5% Attack Speed<br />
++10% All Damage
+| +10% Attack Speed<br />
++15% All Damage
+| +20% Attack Speed<br />
++30% All Damage
+|
++30% Attack Speed
+
++45% All Damage
+|-
+|[[File:Genetic_Discovery.png|center|68px]]
+| style="text-align:left;" |Discovery
+|Personal Buff
+|1.25x New Pet Odds for The Nest This Pet is in
+|1.5x Vessels Gain
+|2x Vessels Gain
+|2.5x Vessels Gain
+|-
+|[[File:Genetic_Defender.png|center|68px]]
+| style="text-align:left;" |Defender
+|Team Buff
+| +5% of All Incoming Damage Ignored
+| Monsters Deal 25% Less Damage Than Normal
+| Monsters Deal 50% Less Damage Than Normal
+|Monsters Deal 75% Less Damage Than Normal
+|-
+|[[File:Genetic_Trekkey.png|center|68px]]
+| style="text-align:left;" |Trekkery
+|Team Buff
+| +20% Trekking Exp Gained
+| +1% Pet Travel Speed and +1% Exp Gain Per Trekking Level
+| +2% Pet Travel Speed and +2% Exp Gain Per Trekking Level
+| +3% Pet Travel Speed and +3% Exp Gain Per Trekking Level
+|-
+|[[File:Genetic_Snapzi.png|center|68px]]
+| style="text-align:left;" |Snapzi
+|Team Buff
+| +25% Critical Damage
+|Snapzi Genetics Give +50% Crit Damage instead of +25%
+|Snapzi Genetics Give +75% Crit Damage instead of +25%
+|Snapzi Genetics Give +125% Crit Damage instead of +25%
+|-
+|[[File:Genetic_Genesis.png|center|68px]]
+| style="text-align:left;" |Genesis
+|Team Buff
+| +5% Chance to Cast 2 Attack Instead of 1
+|2nd Attack Has 1.5x Damage
+|2nd Attack Has 2x Damage
+|2nd Attack Has 2.5x Damage
+|-
+|[[File:Genetic_SoulBound.png|center|68px]]
+| style="text-align:left;" |SoulBound*
+(Not wrong but more info bellow)
+|Team Buff
+|This Genetic Has No Bonus Other Than Its Combos
+|Double Middle Genetic for Fighters
+|Double Left Genetic for Fighters
+|Double Right Genetic for Fighters
+|-
+|[[File:Genetic_Ionize.png|center|68px]]
+| style="text-align:left;" |Ionize**
+(Codex is wrong see bellow)
+|All Capsules
+| Extra Pet Exp Gain When Stored in a Capsule:
+Middle:+50% Left: +30%
+
+Right: +20% 
+|2x Capsule Exp
+2x Tank Exp
+|3x Capsule Exp
+3x Tank Exp
+|4x Capsule Exp
+4x Tank Exp
+|-
+|[[File:Genetic_Respawn.png|center|68px]]
+| style="text-align:left;" |Respawn
+|Team Buff
+|Monster Respawn +25% Faster
+|2x Away Gains For Trekking
+|3x Away Gains For Trekking
+|4x Away Gains For Trekking
+|-
+|[[File:Genetic_Abdominable.png|center|68px]]
+| style="text-align:left;" |Abominable
+|Team Buff
+| +50% Damage<br />
++4% Crit Chance<br />
++20% HP<br />
++25% Travel Speed
+|Doubles All Pet Damage
+|Triples All Pet Damage
+|Quadrouples All Pet DamageSoul
+|}
+<nowiki>*</nowiki> Soulbound  3/6/9 doubles 3-middle / 6-middle+left / 9-all 3 Note: for only fighters not supporters.
+
+<nowiki>**</nowiki> Ionize genetics in combat 3/6/9 give 2x/3x/4x Trekking exp AND also Ionize genetics on pets that are placed in capsules will receive the passive bonus stated.[[Category:Pets]]

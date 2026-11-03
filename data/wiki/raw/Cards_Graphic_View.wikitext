@@ -1,0 +1,509 @@
+<div style="display:flex;">
+<div style="font-size:50%;max-height:1000px;overflow-y:auto;margin-right:25px;">
+[[#filter_1|Accuracy]] (8)<br />
+[[#filter_2|Acolyte Efficiency]] (6)<br />
+[[#filter_3|Apothecary EXP]] (4)<br />
+[[#filter_4|Attack EXP Chance]] (5)<br />
+[[#filter_5|Away Progress from Every Screen]] (2)<br />
+[[#filter_6|Banana Bonk Skill Damage]] (3)<br />
+[[#filter_7|Base Damage]] (10)<br />
+[[#filter_8|Base Damage (passive)]] (1)<br />
+[[#filter_9|Base Ignore Defense]] (1)<br />
+[[#filter_10|Black Crystal Bonus]] (2)<br />
+[[#filter_11|Blue Crystal Bonus]] (1)<br />
+[[#filter_12|Booster Chance]] (1)<br />
+[[#filter_13|Botany EXP Gain]] (2)<br />
+[[#filter_14|Botany EXP Gains]] (1)<br />
+[[#filter_15|Botany Growth Speed]] (7)<br />
+[[#filter_16|Botany growth speed]] (7)<br />
+[[#filter_17|Botany Growth Speed (passive)]] (1)<br />
+[[#filter_18|Botany Speed Upgrades]] (6)<br />
+[[#filter_19|Botany speed upgrades]] (6)<br />
+[[#filter_20|BP on Rebirth, More AP (passive)*]] (1)<br />
+[[#filter_21|BP Upon Rebirth]] (3)<br />
+[[#filter_22|Card Drop Chance]] (6)<br />
+[[#filter_23|Cash]] (1)<br />
+[[#filter_24|Cash from Midas]] (1)<br />
+[[#filter_25|Chain level chance (passive)*]] (1)<br />
+[[#filter_26|Chance for Double Potion Level Up]] (3)<br />
+[[#filter_27|Claw Skill Damage]] (5)<br />
+[[#filter_28|Common Material Cost Reduction]] (2)<br />
+[[#filter_29|Crit Chance]] (4)<br />
+[[#filter_30|Crit Damage]] (7)<br />
+[[#filter_31|Critical Chance]] (2)<br />
+[[#filter_32|Critical Damage]] (1)<br />
+[[#filter_33|Crops for Every Tiller on Ancient Dew]] (1)<br />
+[[#filter_34|Crops for Every Tiller on Cabbage]] (1)<br />
+[[#filter_35|Crops for Every Tiller on Corn]] (1)<br />
+[[#filter_36|Crops for Every Tiller on Crystal]] (1)<br />
+[[#filter_37|Crops for Every Tiller on Dirt]] (1)<br />
+[[#filter_38|Crops for Every Tiller on Egg Yolk]] (1)<br />
+[[#filter_39|Crops for Every Tiller on Essence]] (1)<br />
+[[#filter_40|Crops for Every Tiller on Grass]] (1)<br />
+[[#filter_41|Crops for Every Tiller on Hallownil]] (1)<br />
+[[#filter_42|Crops for Every Tiller on Hyper Stalk]] (1)<br />
+[[#filter_43|Crops for Every Tiller on Lil Pumpkin]] (1)<br />
+[[#filter_44|Crops for Every Tiller on Lucentium]] (1)<br />
+[[#filter_45|Crops for Every Tiller on Macromato]] (1)<br />
+[[#filter_46|Crops for Every Tiller on Maize]] (1)<br />
+[[#filter_47|Crops for Every Tiller on Packed Clay]] (1)<br />
+[[#filter_48|Crops for Every Tiller on Prismatism]] (1)<br />
+[[#filter_49|Crops for Every Tiller on Quality Hay]] (1)<br />
+[[#filter_50|Crops for Every Tiller on Saffron]] (1)<br />
+[[#filter_51|Crops for Every Tiller on Sammatian]] (1)<br />
+[[#filter_52|Crops for Every Tiller on Spooktobble]] (1)<br />
+[[#filter_53|Crusade Card Chance]] (2)<br />
+[[#filter_54|Crusade EXP]] (5)<br />
+[[#filter_55|Crusade Heal Uses]] (1)<br />
+[[#filter_56|Crusade Reward]] (1)<br />
+[[#filter_57|Crusade Reward Multiplier]] (4)<br />
+[[#filter_58|Crusade Seal Uses]] (1)<br />
+[[#filter_59|Crypt Rewards (passive)*]] (1)<br />
+[[#filter_60|Cultist Efficiency]] (6)<br />
+[[#filter_61|Cyber Food Efficiency]] (3)<br />
+[[#filter_62|Daily Crusade Max. Fight Bonus]] (2)<br />
+[[#filter_63|Damage from Trinkets]] (7)<br />
+[[#filter_64|Damage from trinkets]] (7)<br />
+[[#filter_65|Double brew chance (passive)]] (1)<br />
+[[#filter_66|Endurance EXP Chance]] (3)<br />
+[[#filter_67|Fish Caught]] (2)<br />
+[[#filter_68|Fishes Caught]] (1)<br />
+[[#filter_69|Fishes Caught (passive)]] (3)<br />
+[[#filter_70|Flurry Skill Damage]] (2)<br />
+[[#filter_71|Green Crystal Bonus]] (1)<br />
+[[#filter_72|Hatchery Exp]] (1)<br />
+[[#filter_73|Healing from Food]] (5)<br />
+[[#filter_74|Healing from Heal Skill]] (4)<br />
+[[#filter_75|Hoops Max Gems (passive)*]] (1)<br />
+[[#filter_76|Idle Attack Damage]] (8)<br />
+[[#filter_77|Idle Attack Speed]] (4)<br />
+[[#filter_78|Idle Crusaders]] (3)<br />
+[[#filter_79|Ignore Defense]] (3)<br />
+[[#filter_80|Inactive Crusaders]] (2)<br />
+[[#filter_81|Max Shields]] (6)<br />
+[[#filter_82|Meteor Skill Damage]] (3)<br />
+[[#filter_83|Mining EXP Chance]] (4)<br />
+[[#filter_84|Mining EXP Gained]] (9)<br />
+[[#filter_85|Monster Cash]] (7)<br />
+[[#filter_86|Monster Cash (passive)]] (5)<br />
+[[#filter_87|Monster Damage Reduction]] (5)<br />
+[[#filter_88|More asylum keys (passive)]] (2)<br />
+[[#filter_89|More Asylum Keys (passive)]] (2)<br />
+[[#filter_90|More Kills]] (1)<br />
+[[#filter_91|More Kills per kill]] (1)<br />
+[[#filter_92|Orange Crystal Bonus]] (1)<br />
+[[#filter_93|Ores and fish]] (2)<br />
+[[#filter_94|Ores and Fish]] (2)<br />
+[[#filter_95|Ores from Mining]] (9)<br />
+[[#filter_96|Ores from Mining (passive)]] (1)<br />
+[[#filter_97|Overgrowth Bonus Bonus for Blue Flowers]] (1)<br />
+[[#filter_98|Overgrowth Bonus Bonus for Green Flowers]] (1)<br />
+[[#filter_99|Overgrowth Exotic Bonus for Gold Flowers]] (1)<br />
+[[#filter_100|Overgrowth Exotic Bonus for Green Flowers]] (1)<br />
+[[#filter_101|Overgrowth Exotic Bonus for Red Flowers]] (1)<br />
+[[#filter_102|Overgrowth EXP Bonus for Green Flowers]] (1)<br />
+[[#filter_103|Overgrowth Flower Bonus for Blue Flowers]] (1)<br />
+[[#filter_104|Overgrowth Flower Bonus for Gold Flowers]] (1)<br />
+[[#filter_105|Overgrowth Flower Bonus for Green Flowers]] (1)<br />
+[[#filter_106|Overgrowth Flower Bonus for Red Flowers]] (2)<br />
+[[#filter_107|Overgrowth Flower Redux for Green Flowers]] (1)<br />
+[[#filter_108|Overgrowth Time]] (1)<br />
+[[#filter_109|Overgrowth Time Redux for All Flowers]] (2)<br />
+[[#filter_110|Pachinko Balls (passive)*]] (2)<br />
+[[#filter_111|Perk Points Gained]] (3)<br />
+[[#filter_112|Perk Points gained (passive)]] (1)<br />
+[[#filter_113|Pet Damage (passive)*]] (1)<br />
+[[#filter_114|Pink Crystal Bonus]] (2)<br />
+[[#filter_115|Poison Damage]] (1)<br />
+[[#filter_116|Poison Skill Damage]] (2)<br />
+[[#filter_117|Potion Cost Redux]] (5)<br />
+[[#filter_118|Potion Cost Redux Every 50 Apothecary Levels]] (1)<br />
+[[#filter_119|Purple Crystal Bonus]] (1)<br />
+[[#filter_120|Raid Drop Luck]] (6)<br />
+[[#filter_121|Raid Drop Luck (passive)]] (3)<br />
+[[#filter_122|Rare Material Cost Reduction]] (2)<br />
+[[#filter_123|Red Crystal Bonus]] (1)<br />
+[[#filter_124|Rift EXP]] (6)<br />
+[[#filter_125|Shield Charge Rate]] (3)<br />
+[[#filter_126|Smite Skill Damage]] (2)<br />
+[[#filter_127|Smithing EXP from Crafting]] (5)<br />
+[[#filter_128|Smithing EXP Gained]] (1)<br />
+[[#filter_129|Souls kept after Ascending]] (5)<br />
+[[#filter_130|Spirit EXP Chance]] (4)<br />
+[[#filter_131|Str exp gained (passive)]] (1)<br />
+[[#filter_132|Strength EXP Chance]] (4)<br />
+[[#filter_133|Summon EXP Chance]] (4)<br />
+[[#filter_134|Tinkering EXP]] (3)<br />
+[[#filter_135|Total Damage]] (9)<br />
+[[#filter_136|Total damage]] (9)<br />
+[[#filter_137|Total Damage (passive)]] (3)<br />
+[[#filter_138|Total Health]] (6)<br />
+[[#filter_139|Total Health (passive)]] (1)<br />
+[[#filter_140|Trinket Efficiency]] (1)<br />
+[[#filter_141|Uncommon Material Cost Reduction]] (2)<br />
+[[#filter_142|Yellow Crystal Bonus]] (2)<br />
+</div>
+<div id="filter_opacity">
+<div id="filter_1"><div id="filter_2"><div id="filter_3"><div id="filter_4"><div id="filter_5"><div id="filter_6"><div id="filter_7"><div id="filter_8"><div id="filter_9"><div id="filter_10"><div id="filter_11"><div id="filter_12"><div id="filter_13"><div id="filter_14"><div id="filter_15"><div id="filter_16"><div id="filter_17"><div id="filter_18"><div id="filter_19"><div id="filter_20"><div id="filter_21"><div id="filter_22"><div id="filter_23"><div id="filter_24"><div id="filter_25"><div id="filter_26"><div id="filter_27"><div id="filter_28"><div id="filter_29"><div id="filter_30"><div id="filter_31"><div id="filter_32"><div id="filter_33"><div id="filter_34"><div id="filter_35"><div id="filter_36"><div id="filter_37"><div id="filter_38"><div id="filter_39"><div id="filter_40"><div id="filter_41"><div id="filter_42"><div id="filter_43"><div id="filter_44"><div id="filter_45"><div id="filter_46"><div id="filter_47"><div id="filter_48"><div id="filter_49"><div id="filter_50"><div id="filter_51"><div id="filter_52"><div id="filter_53"><div id="filter_54"><div id="filter_55"><div id="filter_56"><div id="filter_57"><div id="filter_58"><div id="filter_59"><div id="filter_60"><div id="filter_61"><div id="filter_62"><div id="filter_63"><div id="filter_64"><div id="filter_65"><div id="filter_66"><div id="filter_67"><div id="filter_68"><div id="filter_69"><div id="filter_70"><div id="filter_71"><div id="filter_72"><div id="filter_73"><div id="filter_74"><div id="filter_75"><div id="filter_76"><div id="filter_77"><div id="filter_78"><div id="filter_79"><div id="filter_80"><div id="filter_81"><div id="filter_82"><div id="filter_83"><div id="filter_84"><div id="filter_85"><div id="filter_86"><div id="filter_87"><div id="filter_88"><div id="filter_89"><div id="filter_90"><div id="filter_91"><div id="filter_92"><div id="filter_93"><div id="filter_94"><div id="filter_95"><div id="filter_96"><div id="filter_97"><div id="filter_98"><div id="filter_99"><div id="filter_100"><div id="filter_101"><div id="filter_102"><div id="filter_103"><div id="filter_104"><div id="filter_105"><div id="filter_106"><div id="filter_107"><div id="filter_108"><div id="filter_109"><div id="filter_110"><div id="filter_111"><div id="filter_112"><div id="filter_113"><div id="filter_114"><div id="filter_115"><div id="filter_116"><div id="filter_117"><div id="filter_118"><div id="filter_119"><div id="filter_120"><div id="filter_121"><div id="filter_122"><div id="filter_123"><div id="filter_124"><div id="filter_125"><div id="filter_126"><div id="filter_127"><div id="filter_128"><div id="filter_129"><div id="filter_130"><div id="filter_131"><div id="filter_132"><div id="filter_133"><div id="filter_134"><div id="filter_135"><div id="filter_136"><div id="filter_137"><div id="filter_138"><div id="filter_139"><div id="filter_140"><div id="filter_141"><div id="filter_142">
+<span data-filter="132" title="Strength EXP Chance">[[File:C_mushroom.png|24px]]</span> 
+<span data-filter="66" title="Endurance EXP Chance">[[File:C_slime.png|24px]]</span> 
+<span data-filter="74" title="Healing from Heal Skill">[[File:C_stumpo.png|24px]]</span> 
+<span data-filter="83" title="Mining EXP Chance">[[File:C_rogue_rock.png|24px]]</span> 
+<span data-filter="1" title="Accuracy">[[File:C_shrubbery.png|24px]]</span> 
+<span data-filter="87" title="Monster Damage Reduction">[[File:C_snail.png|24px]]</span> 
+<span data-filter="4" title="Attack EXP Chance">[[File:C_flowey.png|24px]]</span> 
+<span data-filter="27" title="Claw Skill Damage">[[File:C_relic_squad.png|24px]]</span> 
+<span data-filter="127" title="Smithing EXP from Crafting">[[File:C_wormie.png|24px]]</span> 
+<span data-filter="22" title="Card Drop Chance">[[File:C_monkey.png|24px]]</span> 
+<span data-filter="73" title="Healing from Food">[[File:C_strawby.png|24px]]</span> 
+<span data-filter="138" title="Total Health">[[File:C_bored_bean.png|24px]]</span> 
+<span data-filter="77" title="Idle Attack Speed">[[File:C_plain.png|24px]]</span> 
+<span data-filter="76" title="Idle Attack Damage">[[File:C_disciple_y.png|24px]]</span> 
+<span data-filter="95" title="Ores from Mining">[[File:C_keymaster_y.png|24px]]</span><br />
+<span data-filter="124" title="Rift EXP">[[File:C_grasslands_glitch.png|24px]]</span><br />
+<span data-filter="130" title="Spirit EXP Chance">[[File:C_potted_sand.png|24px]]</span> 
+<span data-filter="29" title="Crit Chance">[[File:C_cacto.png|24px]]</span> 
+<span data-filter="133" title="Summon EXP Chance">[[File:C_potted_pot.png|24px]]</span> 
+<span data-filter="1" title="Accuracy">[[File:C_dung_ball.png|24px]]</span> 
+<span data-filter="87" title="Monster Damage Reduction">[[File:C_dung_beetle.png|24px]]</span> 
+<span data-filter="85" title="Monster Cash">[[File:C_yellow_phat.png|24px]]</span> 
+<span data-filter="4" title="Attack EXP Chance">[[File:C_quicksand.png|24px]]</span> 
+<span data-filter="77" title="Idle Attack Speed">[[File:C_tornado.png|24px]]</span> 
+<span data-filter="60" title="Cultist Efficiency">[[File:C_coco.png|24px]]</span> 
+<span data-filter="2" title="Acolyte Efficiency">[[File:C_nutto.png|24px]]</span> 
+<span data-filter="66" title="Endurance EXP Chance">[[File:C_wurm.png|24px]]</span> 
+<span data-filter="84" title="Mining EXP Gained">[[File:C_sand_jelly.png|24px]]</span> 
+<span data-filter="120" title="Raid Drop Luck">[[File:C_bandit_bob.png|24px]]</span> 
+<span data-filter="27" title="Claw Skill Damage">[[File:C_deadly_trap.png|24px]]</span> 
+<span data-filter="22" title="Card Drop Chance">[[File:C_dryic_relic.png|24px]]</span><br />
+<span data-filter="132" title="Strength EXP Chance">[[File:C_mirage_slime.png|24px]]</span> 
+<span data-filter="83" title="Mining EXP Chance">[[File:C_mappy.png|24px]]</span> 
+<span data-filter="95" title="Ores from Mining">[[File:C_spade.png|24px]]</span> 
+<span data-filter="129" title="Souls kept after Ascending">[[File:C_treasure.png|24px]]</span> 
+<span data-filter="63" title="Damage from Trinkets">[[File:C_mimic.png|24px]]</span> 
+<span data-filter="73" title="Healing from Food">[[File:C_desert_drink.png|24px]]</span> 
+<span data-filter="127" title="Smithing EXP from Crafting">[[File:C_zombie_bob.png|24px]]</span> 
+<span data-filter="124" title="Rift EXP">[[File:C_sand_rattler.png|24px]]</span> 
+<span data-filter="30" title="Crit Damage">[[File:C_a_monster.png|24px]]</span> 
+<span data-filter="76" title="Idle Attack Damage">[[File:C_stripe.png|24px]]</span> 
+<span data-filter="63" title="Damage from Trinkets">[[File:C_unacceptable.png|24px]]</span> 
+<span data-filter="85" title="Monster Cash">[[File:C_desert_baron.png|24px]]</span> 
+<span data-filter="130" title="Spirit EXP Chance">[[File:C_disciple_b.png|24px]]</span> 
+<span data-filter="7" title="Base Damage">[[File:C_keymaster_b.png|24px]]</span> 
+<span data-filter="129" title="Souls kept after Ascending">[[File:C_desert_glitch.png|24px]]</span><br />
+<span data-filter="60" title="Cultist Efficiency">[[File:C_flakey.png|24px]]</span> 
+<span data-filter="133" title="Summon EXP Chance">[[File:C_snow_pot.png|24px]]</span> 
+<span data-filter="74" title="Healing from Heal Skill">[[File:C_ice_cream.png|24px]]</span> 
+<span data-filter="84" title="Mining EXP Gained">[[File:C_ice_rock.png|24px]]</span> 
+<span data-filter="1" title="Accuracy">[[File:C_baby_goat.png|24px]]</span> 
+<span data-filter="2" title="Acolyte Efficiency">[[File:C_snowballs.png|24px]]</span> 
+<span data-filter="4" title="Attack EXP Chance">[[File:C_flakissimo.png|24px]]</span> 
+<span data-filter="66" title="Endurance EXP Chance">[[File:C_sickle.png|24px]]</span> 
+<span data-filter="130" title="Spirit EXP Chance">[[File:C_yeti.png|24px]]</span> 
+<span data-filter="127" title="Smithing EXP from Crafting">[[File:C_glouwey.png|24px]]</span> 
+<span data-filter="30" title="Crit Damage">[[File:C_ice_jelly.png|24px]]</span> 
+<span data-filter="73" title="Healing from Food">[[File:C_coll_drink.png|24px]]</span> 
+<span data-filter="133" title="Summon EXP Chance">[[File:C_grow_goat.png|24px]]</span> 
+<span data-filter="85" title="Monster Cash">[[File:C_blue_phat.png|24px]]</span> 
+<span data-filter="120" title="Raid Drop Luck">[[File:C_snaps.png|24px]]</span><br />
+<span data-filter="27" title="Claw Skill Damage">[[File:C_sea_monster.png|24px]]</span> 
+<span data-filter="95" title="Ores from Mining">[[File:C_cylic_relic.png|24px]]</span> 
+<span data-filter="87" title="Monster Damage Reduction">[[File:C_bloque.png|24px]]</span> 
+<span data-filter="7" title="Base Damage">[[File:C_elder_goat.png|24px]]</span> 
+<span data-filter="83" title="Mining EXP Chance">[[File:C_cold_slime.png|24px]]</span> 
+<span data-filter="76" title="Idle Attack Damage">[[File:C_crystalline.png|24px]]</span> 
+<span data-filter="127" title="Smithing EXP from Crafting">[[File:C_frozen_bob.png|24px]]</span> 
+<span data-filter="84" title="Mining EXP Gained">[[File:C_twostrip.png|24px]]</span> 
+<span data-filter="29" title="Crit Chance">[[File:C_disciple_r.png|24px]]</span> 
+<span data-filter="138" title="Total Health">[[File:C_keymaster_r.png|24px]]</span> 
+<span data-filter="4" title="Attack EXP Chance">[[File:C_mountains_glitch.png|24px]]</span><br />
+<span data-filter="124" title="Rift EXP">[[File:C_soda.png|24px]]</span> 
+<span data-filter="2" title="Acolyte Efficiency">[[File:C_sweetz.png|24px]]</span> 
+<span data-filter="132" title="Strength EXP Chance">[[File:C_verm.png|24px]]</span> 
+<span data-filter="77" title="Idle Attack Speed">[[File:C_mist_mytes.png|24px]]</span> 
+<span data-filter="74" title="Healing from Heal Skill">[[File:C_piglo.png|24px]]</span> 
+<span data-filter="60" title="Cultist Efficiency">[[File:C_catsup.png|24px]]</span> 
+<span data-filter="83" title="Mining EXP Chance">[[File:C_edgy_rock.png|24px]]</span> 
+<span data-filter="29" title="Crit Chance">[[File:C_gordy.png|24px]]</span> 
+<span data-filter="4" title="Attack EXP Chance">[[File:C_spinail.png|24px]]</span> 
+<span data-filter="120" title="Raid Drop Luck">[[File:C_spectre_bob.png|24px]]</span> 
+<span data-filter="130" title="Spirit EXP Chance">[[File:C_octogon.png|24px]]</span> 
+<span data-filter="63" title="Damage from Trinkets">[[File:C_a_sea_monster.png|24px]]</span> 
+<span data-filter="133" title="Summon EXP Chance">[[File:C_evil_dandy.png|24px]]</span> 
+<span data-filter="7" title="Base Damage">[[File:C_squode.png|24px]]</span> 
+<span data-filter="30" title="Crit Damage">[[File:C_hyper_jelly.png|24px]]</span><br />
+<span data-filter="95" title="Ores from Mining">[[File:C_totem_goop.png|24px]]</span> 
+<span data-filter="1" title="Accuracy">[[File:C_mystism.png|24px]]</span> 
+<span data-filter="138" title="Total Health">[[File:C_horizon.png|24px]]</span> 
+<span data-filter="132" title="Strength EXP Chance">[[File:C_disciple_z.png|24px]]</span> 
+<span data-filter="22" title="Card Drop Chance">[[File:C_keymaster_z.png|24px]]</span> 
+<span data-filter="84" title="Mining EXP Gained">[[File:C_the_mist_glitch.png|24px]]</span><br />
+<span data-filter="27" title="Claw Skill Damage">[[File:C_agent.png|24px]]</span> 
+<span data-filter="63" title="Damage from Trinkets">[[File:C_pot_o_gold.png|24px]]</span> 
+<span data-filter="60" title="Cultist Efficiency">[[File:C_skelebob.png|24px]]</span> 
+<span data-filter="87" title="Monster Damage Reduction">[[File:C_lockhart.png|24px]]</span> 
+<span data-filter="2" title="Acolyte Efficiency">[[File:C_jelly_cube.png|24px]]</span> 
+<span data-filter="95" title="Ores from Mining">[[File:C_chaineran.png|24px]]</span> 
+<span data-filter="73" title="Healing from Food">[[File:C_chalice.png|24px]]</span> 
+<span data-filter="127" title="Smithing EXP from Crafting">[[File:C_unlucky_lad.png|24px]]</span> 
+<span data-filter="120" title="Raid Drop Luck">[[File:C_mimicridon.png|24px]]</span> 
+<span data-filter="7" title="Base Damage">[[File:C_skaul.png|24px]]</span> 
+<span data-filter="30" title="Crit Damage">[[File:C_rich_snake.png|24px]]</span> 
+<span data-filter="129" title="Souls kept after Ascending">[[File:C_trap_mach.png|24px]]</span> 
+<span data-filter="77" title="Idle Attack Speed">[[File:C_munnies.png|24px]]</span> 
+<span data-filter="76" title="Idle Attack Damage">[[File:C_holy_relic.png|24px]]</span> 
+<span data-filter="29" title="Crit Chance">[[File:C_disciple_p.png|24px]]</span><br />
+<span data-filter="135" title="Total Damage">[[File:C_keymaster_p.png|24px]]</span> 
+<span data-filter="85" title="Monster Cash">[[File:C_noob.png|24px]]</span><br />
+<span data-filter="63" title="Damage from Trinkets">[[File:C_king_x.png|24px]]</span> 
+<span data-filter="138" title="Total Health">[[File:C_king_y.png|24px]]</span> 
+<span data-filter="135" title="Total Damage">[[File:C_king_z.png|24px]]</span> 
+<span data-filter="30" title="Crit Damage">[[File:C_entertainer_x.png|24px]]</span> 
+<span data-filter="7" title="Base Damage">[[File:C_entertainer_y.png|24px]]</span> 
+<span data-filter="85" title="Monster Cash">[[File:C_entertainer_z.png|24px]]</span> 
+<span data-filter="87" title="Monster Damage Reduction">[[File:C_sentinel_x.png|24px]]</span> 
+<span data-filter="76" title="Idle Attack Damage">[[File:C_sentinel_y.png|24px]]</span> 
+<span data-filter="5" title="Away Progress from Every Screen">[[File:C_sentinel_z.png|24px]]</span> 
+<span data-filter="7" title="Base Damage">[[File:C_demon_x.png|24px]]</span> 
+<span data-filter="135" title="Total Damage">[[File:C_demon_y.png|24px]]</span> 
+<span data-filter="5" title="Away Progress from Every Screen">[[File:C_demon_z.png|24px]]</span><br />
+<span data-filter="129" title="Souls kept after Ascending">[[File:C_secretkeeper.png|24px]]</span> 
+<span data-filter="120" title="Raid Drop Luck">[[File:C_spooktober.png|24px]]</span> 
+<span data-filter="22" title="Card Drop Chance">[[File:C_golden_turkey.png|24px]]</span> 
+<span data-filter="95" title="Ores from Mining">[[File:C_coal_buddy.png|24px]]</span> 
+<span data-filter="111" title="Perk Points Gained">[[File:C_waddles.png|24px]]</span> 
+<span data-filter="60" title="Cultist Efficiency">[[File:Moon_man.png|24px]]</span> 
+<span data-filter="84" title="Mining EXP Gained">[[File:Magic_slab.png|24px]]</span> 
+<span data-filter="7" title="Base Damage">[[File:Qqoxzle.png|24px]]</span> 
+<span data-filter="23" title="Cash">[[File:Card_BlackHole.png|24px]]</span> 
+<span data-filter="72" title="Hatchery Exp">[[File:Card_NestEgg.png|24px]]</span> 
+<span data-filter="30" title="Crit Damage">[[File:Card_Bluehero.png|24px]]</span> 
+<span data-filter="113" title="Pet Damage (passive)*">[[File:Qqoxzle.png|24px]]</span> <span style="visibility:hidden;">[[File:C_mushroom.png|24px]]</span>
+<span data-filter="75" title="Hoops Max Gems (passive)*">[[File:Qqoxzle.png|24px]]</span> 
+<span data-filter="59" title="Crypt Rewards (passive)*">[[File:Qqoxzle.png|24px]]</span><br />
+<span data-filter="27" title="Claw Skill Damage">[[File:C_bandit_shroom.png|24px]]</span> 
+<span data-filter="28" title="Common Material Cost Reduction">[[File:C_patchy.png|24px]]</span> 
+<span data-filter="116" title="Poison Skill Damage">[[File:C_snailsin.png|24px]]</span> 
+<span data-filter="54" title="Crusade EXP">[[File:C_lmr_deckhand.png|24px]]</span> 
+<span data-filter="62" title="Daily Crusade Max. Fight Bonus">[[File:C_the_bruiser.png|24px]]</span> 
+<span data-filter="53" title="Crusade Card Chance">[[File:C_recruit.png|24px]]</span> 
+<span data-filter="85" title="Monster Cash">[[File:C_limpy.png|24px]]</span> 
+<span data-filter="1" title="Accuracy">[[File:C_smile.png|24px]]</span> 
+<span data-filter="73" title="Healing from Food">[[File:C_mime.png|24px]]</span> 
+<span data-filter="55" title="Crusade Heal Uses">[[File:C_toxic_sludge.png|24px]]</span> 
+<span data-filter="111" title="Perk Points Gained">[[File:C_chewed.png|24px]]</span> 
+<span data-filter="74" title="Healing from Heal Skill">[[File:C_nibbled.png|24px]]</span> 
+<span data-filter="54" title="Crusade EXP">[[File:C_bitten.png|24px]]</span> 
+<span data-filter="81" title="Max Shields">[[File:C_munched.png|24px]]</span> 
+<span data-filter="78" title="Idle Crusaders">[[File:C_killer_rabbit.png|24px]]</span><br />
+<span data-filter="82" title="Meteor Skill Damage">[[File:C_monoclesius.png|24px]]</span> 
+<span data-filter="63" title="Damage from Trinkets">[[File:C_teassius.png|24px]]</span> 
+<span data-filter="28" title="Common Material Cost Reduction">[[File:C_cactarus.png|24px]]</span> 
+<span data-filter="125" title="Shield Charge Rate">[[File:C_canesius.png|24px]]</span> 
+<span data-filter="134" title="Tinkering EXP">[[File:C_desert_giant.png|24px]]</span> 
+<span data-filter="57" title="Crusade Reward Multiplier">[[File:C_blade_row.png|24px]]</span> 
+<span data-filter="9" title="Base Ignore Defense">[[File:C_white_p_hat.png|24px]]</span> 
+<span data-filter="84" title="Mining EXP Gained">[[File:C_spike_o_nut.png|24px]]</span> 
+<span data-filter="82" title="Meteor Skill Damage">[[File:C_punch_buggo.png|24px]]</span> 
+<span data-filter="135" title="Total Damage">[[File:C_pincermin.png|24px]]</span> 
+<span data-filter="116" title="Poison Skill Damage">[[File:C_babby_wurm.png|24px]]</span> 
+<span data-filter="7" title="Base Damage">[[File:C_scorpy_wurm.png|24px]]</span> 
+<span data-filter="141" title="Uncommon Material Cost Reduction">[[File:C_vampy_wurm.png|24px]]</span> 
+<span data-filter="111" title="Perk Points Gained">[[File:C_tubby_wurm.png|24px]]</span> 
+<span data-filter="76" title="Idle Attack Damage">[[File:C_tremor_wurm.png|24px]]</span><br />
+<span data-filter="24" title="Cash from Midas">[[File:C_minty.png|24px]]</span> 
+<span data-filter="61" title="Cyber Food Efficiency">[[File:C_enigma.png|24px]]</span> 
+<span data-filter="129" title="Souls kept after Ascending">[[File:C_witness.png|24px]]</span> 
+<span data-filter="81" title="Max Shields">[[File:C_identity.png|24px]]</span> 
+<span data-filter="81" title="Max Shields">[[File:C_faust.png|24px]]</span> 
+<span data-filter="141" title="Uncommon Material Cost Reduction">[[File:C_spiderling.png|24px]]</span> 
+<span data-filter="70" title="Flurry Skill Damage">[[File:C_webbo.png|24px]]</span> 
+<span data-filter="126" title="Smite Skill Damage">[[File:C_bounded_bob.png|24px]]</span> 
+<span data-filter="122" title="Rare Material Cost Reduction">[[File:C_queens_egg.png|24px]]</span> 
+<span data-filter="58" title="Crusade Seal Uses">[[File:C_arachneon.png|24px]]</span> 
+<span data-filter="6" title="Banana Bonk Skill Damage">[[File:C_follower.png|24px]]</span> 
+<span data-filter="134" title="Tinkering EXP">[[File:C_fabricio.png|24px]]</span> 
+<span data-filter="78" title="Idle Crusaders">[[File:C_fliquer.png|24px]]</span> 
+<span data-filter="57" title="Crusade Reward Multiplier">[[File:C_devout.png|24px]]</span> 
+<span data-filter="79" title="Ignore Defense">[[File:C_gheist.png|24px]]</span><br />
+<span data-filter="122" title="Rare Material Cost Reduction">[[File:C_toothu.png|24px]]</span> 
+<span data-filter="61" title="Cyber Food Efficiency">[[File:C_poisson.png|24px]]</span> 
+<span data-filter="53" title="Crusade Card Chance">[[File:C_turned_worm.png|24px]]</span> 
+<span data-filter="7" title="Base Damage">[[File:C_basiling.png|24px]]</span> 
+<span data-filter="54" title="Crusade EXP">[[File:C_basilisk.png|24px]]</span><br />
+<span data-filter="125" title="Shield Charge Rate">[[File:C_infant.png|24px]]</span> 
+<span data-filter="6" title="Banana Bonk Skill Damage">[[File:C_child.png|24px]]</span> 
+<span data-filter="78" title="Idle Crusaders">[[File:C_supervisor.png|24px]]</span> 
+<span data-filter="95" title="Ores from Mining">[[File:C_heavy_miner.png|24px]]</span> 
+<span data-filter="135" title="Total Damage">[[File:C_blobulytes.png|24px]]</span> 
+<span data-filter="76" title="Idle Attack Damage">[[File:C_controlled.png|24px]]</span> 
+<span data-filter="138" title="Total Health">[[File:C_taken.png|24px]]</span> 
+<span data-filter="62" title="Daily Crusade Max. Fight Bonus">[[File:C_posessed.png|24px]]</span> 
+<span data-filter="30" title="Crit Damage">[[File:C_bob_too.png|24px]]</span> 
+<span data-filter="79" title="Ignore Defense">[[File:C_puppeteer.png|24px]]</span> 
+<span data-filter="81" title="Max Shields">[[File:C_sadness.png|24px]]</span> 
+<span data-filter="57" title="Crusade Reward Multiplier">[[File:C_jealousy.png|24px]]</span> 
+<span data-filter="135" title="Total Damage">[[File:C_envy.png|24px]]</span> 
+<span data-filter="79" title="Ignore Defense">[[File:C_anger.png|24px]]</span> 
+<span data-filter="12" title="Booster Chance">[[File:C_narcissus.png|24px]]</span><br />
+<span data-filter="131" title="Str exp gained (passive)">[[File:Card_Emigdala.png|24px]]</span> 
+<span data-filter="17" title="Botany Growth Speed (passive)">[[File:Card_Emigdala-X.png|24px]]</span> 
+<span data-filter="86" title="Monster Cash (passive)">[[File:Card_Emigdala-Y.png|24px]]</span> 
+<span data-filter="135" title="Total damage">[[File:Card_Emigdala-Z.png|24px]]</span> 
+<span data-filter="112" title="Perk Points gained (passive)">[[File:Card_Occulon.png|24px]]</span> 
+<span data-filter="88" title="More asylum keys (passive)">[[File:Card_Occulon-X.png|24px]]</span> 
+<span data-filter="8" title="Base Damage (passive)">[[File:Card_Occulon-Y.png|24px]]</span> 
+<span data-filter="32" title="Critical Damage">[[File:Card_Occulon-Z.png|24px]]</span> 
+<span data-filter="110" title="Pachinko Balls (passive)*">[[File:Card_Scallius.png|24px]]</span> 
+<span data-filter="139" title="Total Health (passive)">[[File:Card_Scallius-X.png|24px]]</span> 
+<span data-filter="65" title="Double brew chance (passive)">[[File:Card_Scallius-Y.png|24px]]</span> 
+<span data-filter="93" title="Ores and fish">[[File:Card_Scallius-Z.png|24px]]</span> 
+<span data-filter="20" title="BP on Rebirth, More AP (passive)*">[[File:Card_Gorshank.png|24px]]</span> 
+<span data-filter="63" title="Damage from trinkets">[[File:Card_Gorshank-X.png|24px]]</span> 
+<span data-filter="25" title="Chain level chance (passive)*">[[File:Card_Gorshank-Y.png|24px]]</span><br />
+<span data-filter="91" title="More Kills per kill">[[File:Card Goshank-Z.png|24px]]</span><br />
+<span data-filter="37" title="Crops for Every Tiller on Dirt">[[File:C_dirt.png|24px]]</span> 
+<span data-filter="40" title="Crops for Every Tiller on Grass">[[File:C_grass.png|24px]]</span> 
+<span data-filter="49" title="Crops for Every Tiller on Quality Hay">[[File:C_quality_hay.png|24px]]</span> 
+<span data-filter="50" title="Crops for Every Tiller on Saffron">[[File:C_saffron.png|24px]]</span> 
+<span data-filter="35" title="Crops for Every Tiller on Corn">[[File:C_corn.png|24px]]</span> 
+<span data-filter="46" title="Crops for Every Tiller on Maize">[[File:C_maize.png|24px]]</span> 
+<span data-filter="42" title="Crops for Every Tiller on Hyper Stalk">[[File:C_hyper_stalk.png|24px]]</span> 
+<span data-filter="34" title="Crops for Every Tiller on Cabbage">[[File:C_cabbage.png|24px]]</span> 
+<span data-filter="33" title="Crops for Every Tiller on Ancient Dew">[[File:C_ancient_dew.png|24px]]</span> 
+<span data-filter="38" title="Crops for Every Tiller on Egg Yolk">[[File:C_egg_yolk.png|24px]]</span> 
+<span data-filter="47" title="Crops for Every Tiller on Packed Clay">[[File:C_packed_clay.png|24px]]</span> 
+<span data-filter="43" title="Crops for Every Tiller on Lil Pumpkin">[[File:C_lil_pumpkin.png|24px]]</span> 
+<span data-filter="45" title="Crops for Every Tiller on Macromato">[[File:C_macromato.png|24px]]</span> 
+<span data-filter="52" title="Crops for Every Tiller on Spooktobble">[[File:C_spooktobble.png|24px]]</span> 
+<span data-filter="36" title="Crops for Every Tiller on Crystal">[[File:C_crystal.png|24px]]</span><br />
+<span data-filter="44" title="Crops for Every Tiller on Lucentium">[[File:C_lucentium.png|24px]]</span> 
+<span data-filter="48" title="Crops for Every Tiller on Prismatism">[[File:C_prismatism.png|24px]]</span> 
+<span data-filter="39" title="Crops for Every Tiller on Essence">[[File:C_essence.png|24px]]</span> 
+<span data-filter="41" title="Crops for Every Tiller on Hallownil">[[File:C_hallownil.png|24px]]</span> 
+<span data-filter="51" title="Crops for Every Tiller on Sammatian">[[File:C_sammatian.png|24px]]</span> <span style="visibility:hidden;">[[File:C_mushroom.png|24px]]</span> <span style="visibility:hidden;">[[File:C_mushroom.png|24px]]</span>
+<span data-filter="3" title="Apothecary EXP">[[File:C_red_pot.png|24px]]</span> 
+<span data-filter="117" title="Potion Cost Redux">[[File:C_orange_pot.png|24px]]</span> 
+<span data-filter="3" title="Apothecary EXP">[[File:C_yellow_pot.png|24px]]</span> 
+<span data-filter="26" title="Chance for Double Potion Level Up">[[File:C_lime_pot.png|24px]]</span> 
+<span data-filter="117" title="Potion Cost Redux">[[File:C_cyan_pot.png|24px]]</span> 
+<span data-filter="26" title="Chance for Double Potion Level Up">[[File:C_purple_pot.png|24px]]</span> 
+<span data-filter="117" title="Potion Cost Redux">[[File:C_demon_pot.png|24px]]</span> 
+<span data-filter="118" title="Potion Cost Redux Every 50 Apothecary Levels">[[File:C_godly_pot.png|24px]]</span><br />
+<span data-filter="13" title="Botany EXP Gain">[[File:C_weeds.png|24px]]</span> 
+<span data-filter="15" title="Botany Growth Speed">[[File:C_berries.png|24px]]</span> 
+<span data-filter="105" title="Overgrowth Flower Bonus for Green Flowers">[[File:C_typha.png|24px]]</span> 
+<span data-filter="98" title="Overgrowth Bonus Bonus for Green Flowers">[[File:C_flowers.png|24px]]</span> 
+<span data-filter="100" title="Overgrowth Exotic Bonus for Green Flowers">[[File:C_cactus.png|24px]]</span> 
+<span data-filter="107" title="Overgrowth Flower Redux for Green Flowers">[[File:C_palm_tree.png|24px]]</span> 
+<span data-filter="15" title="Botany Growth Speed">[[File:C_sapling.png|24px]]</span> 
+<span data-filter="102" title="Overgrowth EXP Bonus for Green Flowers">[[File:C_weeplings.png|24px]]</span> 
+<span data-filter="109" title="Overgrowth Time Redux for All Flowers">[[File:C_saharn_foal.png|24px]]</span> 
+<span data-filter="103" title="Overgrowth Flower Bonus for Blue Flowers">[[File:C_mint_cane.png|24px]]</span> 
+<span data-filter="97" title="Overgrowth Bonus Bonus for Blue Flowers">[[File:C_crystals.png|24px]]</span> 
+<span data-filter="18" title="Botany Speed Upgrades">[[File:C_candypop.png|24px]]</span> 
+<span data-filter="13" title="Botany EXP Gain">[[File:C_fyreling.png|24px]]</span> 
+<span data-filter="106" title="Overgrowth Flower Bonus for Red Flowers">[[File:C_blood_tree.png|24px]]</span> 
+<span data-filter="101" title="Overgrowth Exotic Bonus for Red Flowers">[[File:C_mushroom.png|24px]]</span><br />
+<span data-filter="15" title="Botany Growth Speed">[[File:C_flesh_tree.png|24px]]</span> 
+<span data-filter="18" title="Botany Speed Upgrades">[[File:C_demonia.png|24px]]</span> 
+<span data-filter="106" title="Overgrowth Flower Bonus for Red Flowers">[[File:C_cursed_eye.png|24px]]</span> 
+<span data-filter="14" title="Botany EXP Gains">[[File:C_veninsulic.png|24px]]</span> 
+<span data-filter="99" title="Overgrowth Exotic Bonus for Gold Flowers">[[File:C_lemming.png|24px]]</span> 
+<span data-filter="18" title="Botany Speed Upgrades">[[File:C_chlorine.png|24px]]</span> 
+<span data-filter="104" title="Overgrowth Flower Bonus for Gold Flowers">[[File:C_icecream.png|24px]]</span> 
+<span data-filter="15" title="Botany Growth Speed">[[File:C_belldrop.png|24px]]</span> 
+<span data-filter="109" title="Overgrowth Time Redux for All Flowers">[[File:C_sunburst.png|24px]]</span><br />
+<span data-filter="1" title="Accuracy">[[File:C_flatclot.png|24px]]</span> 
+<span data-filter="115" title="Poison Damage">[[File:C_clackity.png|24px]]</span> 
+<span data-filter="124" title="Rift EXP">[[File:C_naked_nib.png|24px]]</span> 
+<span data-filter="67" title="Fish Caught">[[File:C_shrim_imp.png|24px]]</span> 
+<span data-filter="81" title="Max Shields">[[File:C_flesh_bloat.png|24px]]</span> 
+<span data-filter="128" title="Smithing EXP Gained">[[File:C_viscereye.png|24px]]</span> 
+<span data-filter="2" title="Acolyte Efficiency">[[File:C_heat_bloque.png|24px]]</span> 
+<span data-filter="142" title="Yellow Crystal Bonus">[[File:C_moisturize.png|24px]]</span> 
+<span data-filter="54" title="Crusade EXP">[[File:C_chaotic_bob.png|24px]]</span> 
+<span data-filter="15" title="Botany Growth Speed">[[File:C_lava_ooze.png|24px]]</span> 
+<span data-filter="22" title="Card Drop Chance">[[File:C_the_cursed.png|24px]]</span> 
+<span data-filter="3" title="Apothecary EXP">[[File:C_confused_leg.png|24px]]</span> 
+<span data-filter="21" title="BP Upon Rebirth">[[File:C_the_banished.png|24px]]</span> 
+<span data-filter="80" title="Inactive Crusaders">[[File:C_anticlopse.png|24px]]</span> 
+<span data-filter="126" title="Smite Skill Damage">[[File:C_wriggler.png|24px]]</span><br />
+<span data-filter="140" title="Trinket Efficiency">[[File:C_hemoglobble.png|24px]]</span> 
+<span data-filter="84" title="Mining EXP Gained">[[File:C_tezuk.png|24px]]</span> 
+<span data-filter="114" title="Pink Crystal Bonus">[[File:C_occulox.png|24px]]</span> 
+<span data-filter="18" title="Botany Speed Upgrades">[[File:C_disciple_h.png|24px]]</span> 
+<span data-filter="135" title="Total Damage">[[File:C_keymaster_h.png|24px]]</span> 
+<span data-filter="10" title="Black Crystal Bonus">[[File:C_purgatory_glitch.png|24px]]</span><br />
+<span data-filter="82" title="Meteor Skill Damage">[[File:C_mudnut.png|24px]]</span> 
+<span data-filter="60" title="Cultist Efficiency">[[File:C_septislime.png|24px]]</span> 
+<span data-filter="61" title="Cyber Food Efficiency">[[File:C_booger.png|24px]]</span> 
+<span data-filter="70" title="Flurry Skill Damage">[[File:C_halluccino.png|24px]]</span> 
+<span data-filter="21" title="BP Upon Rebirth">[[File:C_mushketeer.png|24px]]</span> 
+<span data-filter="11" title="Blue Crystal Bonus">[[File:C_wormies.png|24px]]</span> 
+<span data-filter="120" title="Raid Drop Luck">[[File:C_swampeek.png|24px]]</span> 
+<span data-filter="26" title="Chance for Double Potion Level Up">[[File:C_magick_mushy.png|24px]]</span> 
+<span data-filter="6" title="Banana Bonk Skill Damage">[[File:C_fungi_bob.png|24px]]</span> 
+<span data-filter="95" title="Ores from Mining">[[File:C_yucky_foot.png|24px]]</span> 
+<span data-filter="31" title="Critical Chance">[[File:C_swamp_angel.png|24px]]</span> 
+<span data-filter="117" title="Potion Cost Redux">[[File:C_psyccidello.png|24px]]</span> 
+<span data-filter="134" title="Tinkering EXP">[[File:C_bog_terror.png|24px]]</span> 
+<span data-filter="71" title="Green Crystal Bonus">[[File:C_mishudusa.png|24px]]</span> 
+<span data-filter="138" title="Total Health">[[File:C_spots.png|24px]]</span><br />
+<span data-filter="1" title="Accuracy">[[File:C_nesto.png|24px]]</span> 
+<span data-filter="76" title="Idle Attack Damage">[[File:C_bog_monster.png|24px]]</span> 
+<span data-filter="92" title="Orange Crystal Bonus">[[File:C_biggie.png|24px]]</span> 
+<span data-filter="3" title="Apothecary EXP">[[File:C_discple_l.png|24px]]</span> 
+<span data-filter="85" title="Monster Cash">[[File:C_keymaster_l.png|24px]]</span> 
+<span data-filter="84" title="Mining EXP Gained">[[File:C_the_bog_glitch.png|24px]]</span><br />
+<span data-filter="123" title="Red Crystal Bonus">[[File:C_flexo.png|24px]]</span> 
+<span data-filter="81" title="Max Shields">[[File:2_-_Moon_Pie.png|24px]]</span> 
+<span data-filter="22" title="Card Drop Chance">[[File:3_-_Thimbulo.png|24px]]</span> 
+<span data-filter="57" title="Crusade Reward Multiplier">[[File:4_-_Crateros.png|24px]]</span> 
+<span data-filter="119" title="Purple Crystal Bonus">[[File:5_-_Parchmint.png|24px]]</span> 
+<span data-filter="84" title="Mining EXP Gained">[[File:6_-_Loaded.png|24px]]</span> 
+<span data-filter="67" title="Fish Caught">[[File:7_-_MTV.png|24px]]</span> 
+<span data-filter="21" title="BP Upon Rebirth">[[File:8_-_Funni_Boi.png|24px]]</span> 
+<span data-filter="18" title="Botany Speed Upgrades">[[File:9_-_Lunadryl.png|24px]]</span> 
+<span data-filter="124" title="Rift EXP">[[File:10_-_Krombopuli.png|24px]]</span> 
+<span data-filter="142" title="Yellow Crystal Bonus">[[File:11_-_Maiden_Bob.png|24px]]</span> 
+<span data-filter="125" title="Shield Charge Rate">[[File:12_-_Lunar_Jim.png|24px]]</span> 
+<span data-filter="54" title="Crusade EXP">[[File:13_-_Nosip.png|24px]]</span> 
+<span data-filter="2" title="Acolyte Efficiency">[[File:14_-_Sprigglio.png|24px]]</span> 
+<span data-filter="15" title="Botany Growth Speed">[[File:15_-_The_Maw.png|24px]]</span><br />
+<span data-filter="95" title="Ores from Mining">[[File:16_-_Nevrblink.png|24px]]</span> 
+<span data-filter="80" title="Inactive Crusaders">[[File:17_-_Wee_Wee.png|24px]]</span> 
+<span data-filter="114" title="Pink Crystal Bonus">[[File:18_-_Chill_Bros-0.png|24px]]</span> 
+<span data-filter="31" title="Critical Chance">[[File:19_-_Lenscythe.png|24px]]</span> 
+<span data-filter="10" title="Black Crystal Bonus">[[File:20_-_Terminus.png|24px]]</span> 
+<span data-filter="7" title="Base Damage">[[File:21_-_Disciple_MS-0.png|24px]]</span> 
+<span data-filter="108" title="Overgrowth Time">[[File:22_-_Keymaster_MS.png|24px]]</span> 
+<span data-filter="117" title="Potion Cost Redux">[[File:23_-_Glitch.png|24px]]</span><br />
+<span data-filter="15" title="Botany growth speed">[[File:Card_Maelstrom-01.png|24px]]</span> 
+<span data-filter="1" title="Accuracy">[[File:Card_Maelstrom-02.png|24px]]</span> 
+<span data-filter="56" title="Crusade Reward">[[File:Card_Maelstrom-03.png|24px]]</span> 
+<span data-filter="124" title="Rift EXP">[[File:Card_Maelstrom-04.png|24px]]</span> 
+<span data-filter="68" title="Fishes Caught">[[File:Card_Maelstrom-05.png|24px]]</span> 
+<span data-filter="86" title="Monster Cash (passive)">[[File:Card_Maelstrom-06.png|24px]]</span> 
+<span data-filter="121" title="Raid Drop Luck (passive)">[[File:Card_Maelstrom-07.png|24px]]</span> 
+<span data-filter="137" title="Total Damage (passive)">[[File:Card_Maelstrom-08.png|24px]]</span> 
+<span data-filter="69" title="Fishes Caught (passive)">[[File:Card_Maelstrom-09.png|24px]]</span> 
+<span data-filter="86" title="Monster Cash (passive)">[[File:Card_Maelstrom-10.png|24px]]</span> 
+<span data-filter="137" title="Total Damage (passive)">[[File:Card_Maelstrom-11.png|24px]]</span> 
+<span data-filter="88" title="More Asylum Keys (passive)">[[File:Card_Maelstrom-12.png|24px]]</span> 
+<span data-filter="121" title="Raid Drop Luck (passive)">[[File:Card_Maelstrom-13.png|24px]]</span> 
+<span data-filter="86" title="Monster Cash (passive)">[[File:Card_Maelstrom-14.png|24px]]</span> 
+<span data-filter="69" title="Fishes Caught (passive)">[[File:Card_Maelstrom-15.png|24px]]</span><br />
+<span data-filter="137" title="Total Damage (passive)">[[File:Card_Maelstrom-16.png|24px]]</span> 
+<span data-filter="110" title="Pachinko Balls (passive)*">[[File:Card_Maelstrom-17.png|24px]]</span> 
+<span data-filter="86" title="Monster Cash (passive)">[[File:Card_Maelstrom-18.png|24px]]</span> 
+<span data-filter="69" title="Fishes Caught (passive)">[[File:Card_Maelstrom-19.png|24px]]</span> 
+<span data-filter="121" title="Raid Drop Luck (passive)">[[File:Card_Maelstrom-20.png|24px]]</span> 
+<span data-filter="96" title="Ores from Mining (passive)">[[File:Card_Maelstrom-21.png|24px]]</span> 
+<span data-filter="18" title="Botany speed upgrades">[[File:Card_Maelstrom-22.png|24px]]</span> 
+<span data-filter="135" title="Total Damage">[[File:Card_Maelstrom-23.png|24px]]</span> 
+<span data-filter="90" title="More Kills">[[File:Card_Maelstrom-24.png|24px]]</span> 
+<span data-filter="93" title="Ores and Fish">[[File:Card_Maelstrom-25.png|24px]]</span>
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+</div>
+[[Category:Cards]]

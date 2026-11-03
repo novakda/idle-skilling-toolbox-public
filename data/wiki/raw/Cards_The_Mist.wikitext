@@ -1,0 +1,159 @@
+<table-progress-tracking table-id="TheMist1" unique-column-index="2">
+{| class="listing sortable" style="width: 100%;" border="0" align="center"
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |Zone
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+|-
+|[[File:C_soda.png|36px]]
+|TheMist-1
+|Soda
+|Rift EXP
+|10%
+|200%
+|-
+|[[File:C_sweetz.png|36px]]
+|TheMist-2
+|Sweetz
+|Acolyte Efficiency
+|7%
+|140%
+|-
+|[[File:C_verm.png|36px]]
+|TheMist-3
+|Verm
+|Strength EXP Chance
+|5%
+|100%
+|-
+|[[File:C_mist_mytes.png|36px]]
+|TheMist-4
+|Mist Mites
+|Idle Attack Speed
+|10%
+|200%
+|-
+|[[File:C_piglo.png|36px]]
+|TheMist-5
+|Piglo
+|Healing from Heal Skill
+|15%
+|300%
+|-
+|[[File:C_catsup.png|36px]]
+|TheMist-6
+|Catsup
+|Cultist Efficiency
+|7%
+|140%
+|-
+|[[File:C_edgy_rock.png|36px]]
+|TheMist-7
+|Edgy Rock
+|Mining EXP Chance
+|5%
+|100%
+|-
+|[[File:C_gordy.png|36px]]
+|TheMist-8
+|Gordy
+|Crit Chance
+|0.5%
+|10%
+|-
+|[[File:C_spinail.png|36px]]
+|TheMist-9
+|Spinail
+|Attack EXP Chance
+|5%
+|100%
+|-
+|[[File:C_spectre_bob.png|36px]]
+|TheMist-10
+|Spectre Bob
+|Raid Drop Luck
+|9%
+|180%
+|-
+|[[File:C_octogon.png|36px]]
+|TheMist-11
+|Octogon
+|Spirit EXP Chance
+|5%
+|100%
+|-
+|[[File:C_a_sea_monster.png|36px]]
+|TheMist-12
+|A Sea Monster
+|Damage from Trinkets
+|8%
+|160%
+|-
+|[[File:C_evil_dandy.png|36px]]
+|TheMist-13
+|Evil Dandy
+|Summon EXP Chance
+|5%
+|100%
+|-
+|[[File:C_squode.png|36px]]
+|TheMist-14
+|Squode
+|Base Damage
+|8%
+|160%
+|-
+|[[File:C_hyper_jelly.png|36px]]
+|TheMist-15
+|Hyper Jelly
+|Crit Damage
+|10%
+|200%
+|-
+|[[File:C_totem_goop.png|36px]]
+|TheMist-16
+|Totem Goop
+|Ores from Mining
+|9%
+|180%
+|-
+|[[File:C_mystism.png|36px]]
+|TheMist-17
+|Mystism
+|Accuracy
+|7%
+|140%
+|-
+|[[File:C_horizon.png|36px]]
+|TheMist-18
+|Horizon
+|Total Health
+|12%
+|240%
+|-
+|[[File:C_disciple_z.png|36px]]
+|TheMist-19
+|Disciple Z
+|Strength EXP Chance
+|5%
+|100%
+|-
+|[[File:C_keymaster_z.png|36px]]
+|TheMist-20
+|Keymaster Z
+|Card Drop Chance
+|5%
+|100%
+|-
+|[[File:C_the_mist_glitch.png|36px]]
+|TheMist-21+
+|Mist Glitch
+|Mining EXP Gained
+|5%
+|100%
+|}
+</table-progress-tracking>
+[[Category:Cards]]

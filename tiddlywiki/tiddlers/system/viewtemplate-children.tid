@@ -1,0 +1,15 @@
+title: $:/is/ui/ViewTemplate/children
+tags: $:/tags/ViewTemplate
+list-after: $:/core/ui/ViewTemplate/body
+list-before: $:/is/ui/ViewTemplate/source
+
+<$list filter="[all[current]!has[entity-kind]tagging[]!has[entity]first[]]" variable="_">
+<div class="is-children">
+<div class="is-label">In this section</div>
+<ul>
+<$list filter="[all[current]tagging[]!has[entity]]">
+<li><$link><$transclude field="caption"><$view field="title"/></$transclude></$link></li>
+</$list>
+</ul>
+</div>
+</$list>

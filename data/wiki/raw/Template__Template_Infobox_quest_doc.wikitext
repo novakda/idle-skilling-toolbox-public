@@ -1,0 +1,33 @@
+{{infobox quest
+ | title         = Example infobox
+ | image         = Example.jpg
+ | start         = Chrys
+ | end           = Geran
+ | prerequisites = None
+ | level         = 5
+ | location      = Earth
+ | rewards       = Justice-Wrought Petals
+ | previous      = A
+ | next          = C
+}}
+==Description==
+To use this template, copy the following code and fill in the appropriate fields. To add a field, use [[Special:InfoboxBuilder]].
+
+==Syntax==
+<pre>
+{{infobox quest
+ | title         = 
+ | image         = [e.g. "Example.jpg"]
+ | imagecaption  = 
+ | start         = 
+ | end           = 
+ | prerequisites = 
+ | level         = 
+ | location      = 
+ | rewards       = 
+ | previous      =
+ | next          =
+}}
+</pre>
+
+<includeonly>[[Category:Templates|{{PAGENAME}}]][[Category:Templates/Infobox|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

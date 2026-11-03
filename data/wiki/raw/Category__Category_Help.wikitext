@@ -1,0 +1,2 @@
+'''For a full list of help pages, see [[Help:Contents]],''' which includes help pages shared across Wikia.
+[[Category:Browse]]

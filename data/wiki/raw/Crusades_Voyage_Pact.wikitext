@@ -1,0 +1,94 @@
+{| class="article-table" border="1" align="center"
+|-
+! scope="col" style="text-align: center;" |Crapotti
+! colspan="8" scope="col" style="text-align: center;" |Unlocks with Voyage Pact and accessible at Level 120
+|-
+| rowspan="2" |[[File:Crusader_crapotti.png]]
+| colspan="2" |[[File:Loockey.png|center]]
+| colspan="2" |[[File:Merceneye.png|center]]
+| colspan="2" |[[File:Eyefull.png|center]]
+| colspan="2" |[[File:Watchtower.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Loockey
+| colspan="2" |Merceneye
+| colspan="2" |Eyefull
+| colspan="2" |Watchtower
+|-
+! style="text-align: center;" |Tier
+| colspan="2" |[[File:Tier1skull.png|center|40px]]
+| colspan="2" |[[File:Tier2skull.png|center|40px]]
+|[[File:Tier3skull.png|center|40px]]
+|[[File:Tier4skull.png|center|40px]]
+|[[File:Tier5skull.png|center|40px]]
+|[[File:Tier6skull.png|center|40px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Defense
+| colspan="2" |1M
+| colspan="2" |4M
+|40M
+|407M
+|4105M
+|41B
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |5.6T
+| colspan="2" |30T
+|1Q
+|124Q
+|7QQ
+|469QQ
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |50M
+| colspan="2" |130M
+|1.1B
+|11B
+|108B
+|981B
+|-
+! scope="col" style="text-align: center;" |Father Of All
+! colspan="8" scope="col" style="text-align: center;" |Unlocks with Voyage Pact and accessible at Level 140
+|-
+| rowspan="2" |[[File:Crusader_father_of_all.png]]
+| colspan="2" |[[File:Slimmle.png|center]]
+| colspan="2" |[[File:Squiddle.png|center]]
+| colspan="2" |[[File:Wawawoo.png|center]]
+| colspan="2" |[[File:Bro_of_some.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Slimmle
+| colspan="2" |Squiddle
+| colspan="2" |Wawawoo
+| colspan="2" |Bro Of Some
+|-
+! style="text-align: center;" |Tier
+| colspan="2" |[[File:Tier1skull.png|center|40px]]
+| colspan="2" |[[File:Tier2skull.png|center|40px]]
+|[[File:Tier3skull.png|center|40px]]
+|[[File:Tier4skull.png|center|40px]]
+|[[File:Tier5skull.png|center|40px]]
+|[[File:Tier6skull.png|center|40px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Defense
+| colspan="2" |10M
+| colspan="2" |43M
+|519M
+|6129M
+|72B
+|854B
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |113T
+| colspan="2" |732T
+|43Q
+|2QQ
+|171QQ
+|10QQQ
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |200M
+| colspan="2" |556M
+|4.7B
+|47B
+|447B
+|4T
+|}

@@ -1,0 +1,55 @@
+<onlyinclude>
+<div role="note">
+{| role="presentation" class="va-mbox" style="border-left: 10px solid {{{color|{{{Color|grey}}}}}}; {{{style|{{{Style|}}}}}}"
+|-
+! <!--
+-->{{#vardefine: image|{{{image|Mbox default.png}}}}}<!--
+-->{{#if:{{#pos:{{#var:image}}|.png}}<!--
+    -->{{#pos:{{#var:image}}|.gif}}<!--
+    -->{{#pos:{{#var:image}}|.jpg}}<!--
+    -->{{#pos:{{#var:image}}|.jpeg}}<!--
+    -->{{#pos:{{#var:image}}|.webp}}<!--
+    -->{{#pos:{{#var:image}}|.ico}}<!--
+    -->{{#pos:{{#var:image}}|.pdf}}<!--
+    -->{{#pos:{{#var:image}}|.svg}}<!--
+    -->{{#pos:{{#var:image}}|.odm}}<!--
+    -->{{#pos:{{#var:image}}|.ogg}}<!--
+    -->{{#pos:{{#var:image}}|.ogv}}<!--
+    -->{{#pos:{{#var:image}}|.oga}}<!--
+    -->{{#pos:{{#var:image}}|.flac}}<!--
+    -->{{#pos:{{#var:image}}|.opus}}<!--
+    -->{{#pos:{{#var:image}}|.wav}}<!--
+    -->{{#pos:{{#var:image}}|.webm}}<!--
+    -->{{#pos:{{#var:image}}|.mp3}}<!--
+-->|<!--
+    -->{{#ifeq:{{#sub:{{#var:image}}|1|4}}|span|<!--
+        -->{{#var:image}}<!--
+    -->|<!--
+        -->{{#ifeq:{{#var:image}}1|1|<!--
+            -->Test: {{#var:image}}<!--
+        -->|<!--
+            -->{{#ifeq:{{#sub:{{#var:image}}|2|5}}|File:|<!--
+                -->{{#var:image}}<!--
+            -->|<!--
+                -->[[File:{{#var:image}}|35x30px|alt=|link=]]<!--
+            -->}}<!--
+        -->}}<!--
+    -->}}<!--
+-->|<!--
+    -->{{#ifeq:{{#invoke:String|find|{{#var:image}}|'"`UNIQ}}|0|<!--
+        -->{{icon|{{#var:image}}|35x30px}}<!--
+    -->|<!--
+        -->{{#var:image}}<!--
+    -->}}<!--
+-->}}
+| style="vertical-align:{{{align|middle}}};"|<div>'''{{{header|{{{Header|header?}}}}}}'''</div>
+<div>{{{content|{{{Content|content?}}}}}}</div>
+<div style="font-size: 90%;">{{{note|{{{Note|}}}}}}</div>
+|}
+</div><!--
+
+--></onlyinclude><noinclude>
+{{documentation}}
+[[Category:Page management templates]]
+[[Category:Meta templates]]
+</noinclude>

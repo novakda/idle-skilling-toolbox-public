@@ -1,0 +1,223 @@
+<table-progress-tracking table-id="Oblivion1" unique-column-index="2">
+{| class="listing sortable" style="width: 100%;" border="0" align="center"
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |Zone
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+|-
+|[[File:C_bean_baby.png|36px]]
+|Oblivion-1
+|Bean Baby
+|Apothecary EXP
+|7%
+|35%
+|-
+|[[File:c_frogger.png|36px]]
+|Oblivion-2
+|Frooger
+|Cultist Efficiency
+|25%
+|500%
+|-
+|[[File:c_glow_pop.png|36px]]
+|Oblivion-3
+|Glow Pop
+|Potion Brewing Speed
+|10%
+|50%
+|-
+|[[File:c_blither.png|36px]]
+|Oblivion-4
+|Blither
+|Inactive Crusaders
+|<nowiki>+6</nowiki>
+|<nowiki>+30</nowiki>
+|-
+|[[File:c_whoops.png|36px]]
+|Oblivion-5
+|Whoops
+|Mining EXP Gained
+|28%
+|560%
+|-
+|[[File:c_ruler.png|36px]]
+|Oblivion-6
+|Ruler
+|Perk Points Gained
+|4%
+|80%
+|-
+|[[File:c_youre_epic.png|36px]]
+|Oblivion-7
+|Youre Epic
+|Monster Cash
+|30%
+|600%
+|-
+|[[File:c_jk_lol.png|36px]]
+|Oblivion-8
+|Jk Lol
+|Fishies Caught
+|60%
+|1200%
+|-
+|[[File:c_throwback.png|36px]]
+|Oblivion-9
+|Throwback
+|Crusade Reward Multi
+|40%
+|800%
+|-
+|[[File:c_tie.png|36px]]
+|Oblivion-10
+|Tie
+|Asylum Traces Gained (passive)
+|6%
+|30%
+|-
+|[[File:c_tubular.png|36px]]
+|Oblivion-11
+|Tubular
+|BP Upon Rebirthing
+|40
+|200
+|-
+|[[File:c_trojan_hive.png|36px]]
+|Oblivion-12
+|Trojan Hive
+|Rift EXP
+|48%
+|960%
+|-
+|[[File:c_relaxin_bob.png|36px]]
+|Oblivion-13
+|Relaxin Bob
+|Ores From Mining
+|33%
+|660%
+|-
+|[[File:c_concubine.png|36px]]
+|Oblivion-14
+|Concubine
+|Botany Growth Speed
+|15%
+|75%
+|-
+|[[File:c_tie_2.png|36px]]
+|Oblivion-15
+|Tie
+|Spelunk Cards Chance
+|4%
+|20%
+|-
+|[[File:c_neolithia.png|36px]]
+|Oblivion-16
+|Neolithia
+|Acolyte Efficiency
+|28%
+|560%
+|-
+|[[File:c_vile.png|36px]]
+|Oblivion-17
+|Vile
+|Potion Cost Redux
+|5%
+|30%
+|-
+|[[File:c_putrid.png|36px]]
+|Oblivion-18
+|Putrid
+|Potion Brewing Speed
+|16%
+|80%
+|-
+|[[File:c_disgusting.png|36px]]
+|Oblivion-19
+|Disgusting
+|Summon EXP Chance
+|25%
+|500%
+|-
+|[[File:c_orpheus.png|36px]]
+|Oblivion-20
+|Orpheus
+|Asylum Traces Gained (passive)
+|9%
+|45%
+|-
+|[[File:c_protestor.png|36px]]
+|Oblivion-21
+|Protestor
+|Crusade Reward Multi
+|60%
+|1200%
+|-
+|[[File:c_vertigo.png|36px]]
+|Oblivion-22
+|Vertigo
+|Builder Speed
+|6%
+|30%
+|-
+|[[File:c_incarnate_a.png|36px]]
+|Oblivion-23
+|Incarnate 1-14
+|More Kills
+|30%
+|150%
+|-
+|[[File:c_incarnate_b.png|36px]]
+|Oblivion-24
+|Incarnate 15-28
+|Fishies Caught
+|150%
+|3000%
+|-
+|[[File:c_incarnate_c.png|36px]]
+|Oblivion-25
+|Incarnate 29-42
+|Booster Chance
+|1%
+|3%
+|-
+|[[File:c_incarnate_d.png|36px]]
+|Oblivion-26
+|Incarnate 43-56
+|Ores and Fish
+|48%
+|960%
+|-
+|[[File:c_incarnate_e.png|36px]]
+|Oblivion-27
+|Incarnate 57-70
+|Spelunk Cards Chance
+|9%
+|45%
+|-
+|[[File:c_incarnate_f.png|36px]]
+|Oblivion-28
+|Incarnate 71-84
+|Gains On All Screens
+|2%
+|10%
+|-
+|[[File:c_incarnate_g.png|36px]]
+|Oblivion-29
+|Incarnate 85-98
+|Monster Cash
+|59%
+|1180%
+|-
+|[[File:c_tee_hee.png|36px]]
+|Oblivion-30+
+|Incarnate 99-106 or
+Tee Hee
+|Spelunker Learn Rate
+|6%
+|30%
+|}
+</table-progress-tracking>
+[[Category:Cards]]

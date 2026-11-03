@@ -1,0 +1,223 @@
+{| align="center"
+|[[File:Dungeon_banner.png|150px|link=Dungeon]]
+|<<<
+|[[File:Purgatory_banner.png|link=Purgatory]]
+|>>>
+|[[File:The_bog_banner.png|150px|link=The Bog]]
+|}
+
+
+Purgatory is a an advanced [[Fight]]ing zone accessed through the [[Portal]]. In addition to increased idle speed and accuracy penalties, this zone features 21 unique enemies over 100 encounters. Clearing the Purgatory unlocks [[The Bog]]. Minimum attack needed for Flatclot is 130 without modifiers.
+
+The following table shows the '''base''' values for each monster in the zone. (Note: '''<span style="color:PaleTurquoise">1</span>''' = 1000 QQ)
+
+{| class="article-table" border="1"  style="width: 100%;"
+! colspan="2" style="text-align: center;"| Monster
+! style="text-align: center;"| Damage
+! style="text-align: center;"| HP
+! style="text-align: center;"| Gold
+! style="text-align: center;"| Kill Req.
+! style="text-align: center;"| Bonus
+|-
+| rowspan="3"|[[File:Flatclot.png|50px|center]] || Flatclot 1 || 5859K || 286QQ || 1.13B || 3770 || rowspan="3"|15% Accuracy
+|-
+| Flatclot 2 || 6115K || 380QQ || 1.17B || 4210
+|-
+| Flatclot 3 || 6375K || 506QQ || 1.21B || 4650
+|-
+| rowspan="3"|[[File:Clackity.png|50px|center]] || Clackity 1 || 6640K || 677QQ || 1.26B || 5090 || rowspan="3"|25% Poison Skill Damage
+|-
+| Clackity 2 || 6910K || 910QQ || 1.32B || 5530
+|-
+| Clackity 3 || 7184K || '''<span style="color:PaleTurquoise">1</span>''' || 1.37B || 5970
+|-
+| rowspan="3"|[[File:Naked_nib.png|50px|center]] || Naked Nib 1 || 7463K || '''<span style="color:PaleTurquoise">1</span>''' || 1.44B || 6410 || rowspan="3"|18% Rift EXP
+|-
+| Naked Nib 2 || 7747K || '''<span style="color:PaleTurquoise">2</span>''' || 1.5B || 6850
+|-
+| Naked Nib 3 || 8036K || '''<span style="color:PaleTurquoise">3</span>''' || 1.58B || 7290
+|-
+| rowspan="3"|[[File:Shrim_imp.png|50px|center]] || Shrim Imp 1 || 8330K || '''<span style="color:PaleTurquoise">4</span>''' || 1.66B || 7730 || rowspan="3"|20% Fish Caught
+|-
+| Shrim Imp 2 || 8629K || '''<span style="color:PaleTurquoise">5</span>''' || 1.76B || 8170
+|-
+| Shrim Imp 3 || 8934K || '''<span style="color:PaleTurquoise">8</span>''' || 1.86B || 8610
+|-
+| rowspan="3"|[[File:Flesh_bloat.png|50px|center]] || Flesh Bloat 1 || 9243K || '''<span style="color:PaleTurquoise">11</span>''' || 1.98B || 9050 || rowspan="3"|15% Max. Shields
+|-
+| Flesh Bloat 2 || 9558K || '''<span style="color:PaleTurquoise">15</span>''' || 2.11B || 9490
+|-
+| Flesh Bloat 3 || 9878K || '''<span style="color:PaleTurquoise">22</span>''' || 2.26B || 9930
+|-
+| rowspan="3"|[[File:Viscereye.png|50px|center]] || Viscereye 1 || 10203K || '''<span style="color:PaleTurquoise">31</span>''' || 2.42B || 10370 || rowspan="3"|6% Smithing EXP Gained
+|-
+| Viscereye 2 || 10535K || '''<span style="color:PaleTurquoise">44</span>''' || 2.6B || 10810
+|-
+| Viscereye 3 || 10871K || '''<span style="color:PaleTurquoise">52</span>''' || 2.8B || 11250
+|-
+| rowspan="3"|[[File:Heat_bloque.png|50px|center]] || Meat Bloque 1 || 11214K || '''<span style="color:PaleTurquoise">62</span>''' || 3.03B || 11690 || rowspan="3"|12% Acolyte Efficiency
+|-
+| Meat Bloque 2 || 11562K || '''<span style="color:PaleTurquoise">73</span>''' || 3.28B || 12130
+|-
+| Meat Bloque 3 || 11916K || '''<span style="color:PaleTurquoise">87</span>''' || 3.56B || 12570
+|-
+| rowspan="3"|[[File:Moisturize.png|50px|center]] || Moisturize 1 || 12276K || '''<span style="color:PaleTurquoise">102</span>''' || 3.87B || 13010 || rowspan="3"|3% Yellow Crystal Bonus
+|-
+| Moisturize 2 || 12642K || '''<span style="color:PaleTurquoise">122</span>''' || 4.21B || 13450
+|-
+| Moisturize 3 || 13014K || '''<span style="color:PaleTurquoise">145</span>''' || 4.59B || 13890
+|-
+| rowspan="3"|[[File:Chaotic_bob.png|50px|center]] || Chaotic Bob 1 || 13392K || '''<span style="color:PaleTurquoise">173</span>''' || 5.01B || 14330 || rowspan="3"|10% Crusade EXP
+|-
+| Chaotic Bob 2 || 13776K || '''<span style="color:PaleTurquoise">206</span>''' || 5.48B || 14770
+|-
+| Chaotic Bob 3 || 14167K || '''<span style="color:PaleTurquoise">246</span>''' || 5.99B || 15210
+|-
+| rowspan="3"|[[File:Lava_ooze.png|50px|center]] || Lava Ooze 1 || 14565K || '''<span style="color:PaleTurquoise">295</span>''' || 6.55B || 15650 || rowspan="3"|5% Botany Growth Speed
+|-
+| Lava Ooze 2 || 14968K || '''<span style="color:PaleTurquoise">354</span>''' || 7.7B || 16090
+|-
+| Lava Ooze 3 || 15379K || <span style="color:PaleTurquoise">'''425'''</span>|| 7.85B || 16530
+|-
+| rowspan="3"|[[File:The_cursed.png|50px|center]] || The Cursed 1 || 15796K || '''<span style="color:PaleTurquoise">511</span>''' || 8.59B || 16970 || rowspan="3"|5% Card Drop Chance
+|-
+| The Cursed 2 || 16220K || '''<span style="color:PaleTurquoise">616</span>''' || 9.4B || 17410
+|-
+| The Cursed 3 || 16651K || '''<span style="color:PaleTurquoise">744</span>''' || 10.2B || 17850
+|-
+| rowspan="3"|[[File:Confused_leg.png|50px|center]] || Confused Leg 1 || 17089K || '''<span style="color:PaleTurquoise">899</span>''' || 11.2B || 18290 || rowspan="3"|5% Apothecary EXP
+|-
+| Confused Leg 2 || 17534K || '''<span style="color:PaleTurquoise">1088</span>''' || 12.3B || 18730
+|-
+| Confused Leg 3 || 17986K || '''<span style="color:PaleTurquoise">1320</span>''' || 13.4B || 19170
+|-
+| rowspan="3"|[[File:The_banished.png|50px|center]] || The Banished 1 || 18445K || '''<span style="color:PaleTurquoise">1603</span>''' || 14.7B || 19610 || rowspan="3"|6 BP Upon Rebirth
+|-
+| The Banished 2 || 18912K || '''<span style="color:PaleTurquoise">1950</span>''' || 16B || 20050
+|-
+| The Banished 3 || 19387K || '''<span style="color:PaleTurquoise">2375</span>''' || 17.5B || 20490
+|-
+| rowspan="3"|[[File:Anitclopse.png|50px|center]] || Anticlopse 1 || 19869K || '''<span style="color:PaleTurquoise">2898</span>''' || 19.1B || 20930 || rowspan="3"|2 Inactive Crusaders
+|-
+| Anticlopse 2 || 20358K || '''<span style="color:PaleTurquoise">3542</span>''' || 20.9B || 21370
+|-
+| Anticlopse 3 || 20856K || '''<span style="color:PaleTurquoise">4335</span>''' || 22.7B || 21810
+|-
+| rowspan="3"|[[File:Wriggler.png|50px|center]] || Wriggler 1 || 21361K || '''<span style="color:PaleTurquoise">5314</span>''' || 24.8B || 22250 || rowspan="3"|15% Smite Skill Damage
+|-
+| Wriggler 2 || 21875K || '''<span style="color:PaleTurquoise">6524</span>''' || 27B || 22690
+|-
+| Wriggler 3 || 22396K || '''<span style="color:PaleTurquoise">8022</span>''' || 29.4B || 23130
+|-
+| rowspan="3"|[[File:Hemoglobble.png|50px|center]] || Hemoglobble 1 || 22926K || '''<span style="color:PaleTurquoise">9878</span>''' || 31.9B || 23570 || rowspan="3"|9% Trinket Efficiency
+|-
+| Hemoglobble 2 || 23464K || '''<span style="color:PaleTurquoise">12184</span>''' || 34.7B || 24010
+|-
+| Hemoglobble 3 || 24011K || '''<span style="color:PaleTurquoise">15050</span>''' || 37.7B || 24450
+|-
+| rowspan="3"|[[File:Tezuk.png|50px|center]] || Tezuk 1 || 24566K || '''<span style="color:PaleTurquoise">18618</span>''' || 40.9B || 24890 || rowspan="3"|15% Mining EXP Gained
+|-
+| Tezuk 2 || 25130K || '''<span style="color:PaleTurquoise">23068</span>''' || 44.3B || 25330
+|-
+| Tezuk 3 || 25703K || '''<span style="color:PaleTurquoise">28624</span>''' || 48B || 25770
+|-
+| rowspan="3"|[[File:Occulox.png|50px|center]] || Occulox 1 || 26285K || '''<span style="color:PaleTurquoise">35572</span>''' || 52B || 26210 || rowspan="3"|2% Pink Crystal Bonus
+|-
+| Occulox 2 || 26876K || '''<span style="color:PaleTurquoise">44273</span>''' || 56.3B || 26650
+|-
+| Occulox 3 || 27476K || '''<span style="color:PaleTurquoise">55184</span>''' || 60.9B || 27090
+|-
+| [[File:Disciple_h.png|50px|center]] || Disciple B || 28085K || '''<span style="color:PaleTurquoise">68887</span>''' || 65.8B || 27530 || 5 Botany Speed Upgrades
+|-
+| [[File:Keymaster_h.png|50px|center]] || Keymaster B || 28704K || '''<span style="color:PaleTurquoise">86121</span>''' || 71.1B || 27970 || 13% Total Damage
+|-
+| [[File:Purgatory_glitch.png|50px|center]] || Glitch 1 || 29332K || '''<span style="color:PaleTurquoise">107826</span>''' || 75.2B || 28410 || 2% Black Crystal Bonus
+|-
+|  style="text-align: center;"| - || Glitch 2 || 29970K || '''<span style="color:PaleTurquoise">135202</span>''' || 79.6B || 28850 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 3 || 30618K || '''<span style="color:PaleTurquoise">169777</span>''' || 84.1B || 29290 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 4 || 31276K || '''<span style="color:PaleTurquoise">213508</span>''' || 88.9B || 29730 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 5 || 31944K || '''<span style="color:PaleTurquoise">268897</span>''' || 93.8B || 30170 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 6 || 32623K || '''<span style="color:PaleTurquoise">359151</span>''' || 99B || 30610 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 7 || 33311K || '''<span style="color:PaleTurquoise">428384</span>''' || 104B || 31050 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 8 || 34010K || '''<span style="color:PaleTurquoise">541882</span>''' || 110B || 31490 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 9 || 34720K || '''<span style="color:PaleTurquoise">686443</span>''' || 115B || 31930 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 10 || 35441K || '''<span style="color:PaleTurquoise">870827</span>''' || 122B || 32370 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 11 || 36173K || '''<span style="color:PaleTurquoise">1.1M</span>''' || 128B || 32810 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 12 || 36915K || '''<span style="color:PaleTurquoise">1.4M</span>''' || 135B || 33250 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 13 || 37669K || '''<span style="color:PaleTurquoise">1.79M</span>''' || 142B || 33690 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 14 || 38435K || '''<span style="color:PaleTurquoise">2.28M</span>''' || 149B || 34130 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 15 || 39212K || '''<span style="color:PaleTurquoise">2.92M</span>''' || 156B || 34570 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 16 || 40000K || '''<span style="color:PaleTurquoise">3.74M</span>''' || 164B || 35010 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 17 || 40801K || '''<span style="color:PaleTurquoise">4.79M</span>''' || 172B || 35450 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 18 || 41613K || '''<span style="color:PaleTurquoise">6.15M</span>''' || 181B || 35890 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 19 || 42438K || '''<span style="color:PaleTurquoise">7.9M</span>''' || 189B || 36330 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 20 || 43275K || '''<span style="color:PaleTurquoise">10.1M</span>''' || 198B || 36770 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 21 || 44125K || '''<span style="color:PaleTurquoise">13.1M</span>''' || 208B || 37210 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 22 || 44987K || '''<span style="color:PaleTurquoise">16.9M</span>''' || 218B || 37650 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 23 || 45862K || '''<span style="color:PaleTurquoise">21.8M</span>''' || 228B || 38090 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 24 || 46750K || '''<span style="color:PaleTurquoise">28.2M</span>''' || 238B || 38530 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 25 || 47651K || '''<span style="color:PaleTurquoise">36.6M</span>''' || 249B || 38970 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 26 || 48566K || '''<span style="color:PaleTurquoise">47.5M</span>''' || 261B || 39410 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 27 || 49494K || '''<span style="color:PaleTurquoise">61.7M</span>''' || 272B || 39850 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 28 || 50436K || '''<span style="color:PaleTurquoise">80.3M</span>''' || 284B || 40290 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 29 || 51392K || '''<span style="color:PaleTurquoise">104M</span>''' || 297B || 40730 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 30 || 52362K || '''<span style="color:PaleTurquoise">136M</span>''' || 310B || 41170 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 31 || 53346K || '''<span style="color:PaleTurquoise">178M</span>''' || 323B || 41610 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 32 || 54345K || '''<span style="color:PaleTurquoise">233M</span>''' || 337B || 42050 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 33 || 55359K || '''<span style="color:PaleTurquoise">305M</span>''' || 352B || 42490 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 34 || 56387K || '''<span style="color:PaleTurquoise">401M</span>''' || 367B || 42930 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 35 || 57430K || '''<span style="color:PaleTurquoise">527M</span>''' || 382B || 43370 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 36 || 58489K || '''<span style="color:PaleTurquoise">693M</span>''' || 398B || 43810 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 37 || 59563K || '''<span style="color:PaleTurquoise">913M</span>''' || 415B || 44250 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 38 || 60652K || '''<span style="color:PaleTurquoise">1.2B</span>''' || 432B || 44690 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 39 || 61758K || '''<span style="color:PaleTurquoise">1.59B</span>''' || 449B || 45130 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 40 || 62879K || '''<span style="color:PaleTurquoise">2.1B</span>''' || 467B || 45570 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 41 || 64017K || '''<span style="color:PaleTurquoise">2.78B</span>''' || 486B || 46010 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 42 || 65171K || '''<span style="color:PaleTurquoise">3.69B</span>''' || 505B || 46450 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 43 || 66343K || '''<span style="color:PaleTurquoise">4.9B</span>''' || 525B || 46890 ||  style="text-align: center;"| -
+|-
+|  style="text-align: center;"| - || Glitch 44 || 67530K || '''<span style="color:PaleTurquoise">6.51B</span>''' || 546B ||  style="text-align: center;"| - ||  style="text-align: center;"| -
+|}
+[[Category:Zone]]
+[[Category:Fighting]]

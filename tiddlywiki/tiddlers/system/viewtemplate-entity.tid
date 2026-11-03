@@ -1,0 +1,39 @@
+title: $:/is/ui/ViewTemplate/entity
+tags: $:/tags/ViewTemplate
+list-after: $:/core/ui/ViewTemplate/body
+list-before: $:/is/ui/ViewTemplate/children
+
+<%if [<currentTiddler>has[entity]] %>
+<div class="is-entity">
+<p>
+<$link to={{!!entity}}><$view field="entity"/></$link>
+from the table on <$link to={{!!source-page}}><$view field="source-page"/></$link>
+<%if [<currentTiddler>has[section]] %>(section <$view field="section"/>)<%endif%>, row <$text text={{{ [{!!row}add[1]] }}}/>.
+</p>
+<table class="is-fields">
+<$list filter="[<currentTiddler>fields[]] -title -text -tags -entity -source -source-page -source-table -row -section -wiki-images -name -uses -modified -created -modifier -creator -revision -bag +[!prefix[n-]]" variable="f">
+<tr><th><$text text=<<f>>/></th><td><$view field=<<f>>/></td></tr>
+</$list>
+</table>
+<%if [<currentTiddler>has[uses]] %>
+<p>Uses:
+<$list filter="[enlist{!!uses}]" join=", "><$link/></$list>
+</p>
+<%endif%>
+<$let me=<<currentTiddler>>>
+<$list filter="[has[entity]contains:uses<me>first[]]" variable="_">
+<p>Used by:</p>
+<ul class="is-usedby">
+<$list filter="[has[entity]contains:uses<me>each[entity]get[entity]sort[]]" variable="kind">
+<li><$link to=<<kind>>><$text text=<<kind>>/></$link>:
+<$list filter="[has[entity]contains:uses<me>field:entity<kind>sort[name]]" join=", "><$link/></$list>
+</li>
+</$list>
+</ul>
+</$list>
+</$let>
+<%if [<currentTiddler>has[wiki-images]] %>
+<p>Images on the wiki: <$transclude $variable="image-chips" names={{!!wiki-images}}/></p>
+<%endif%>
+</div>
+<%endif%>

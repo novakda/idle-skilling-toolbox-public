@@ -1,0 +1,17 @@
+<noinclude>{{Documentationpage}}</noinclude>
+Template for easy linking of templates with the appearance of wiki syntax.
+
+==Usage==
+<pre>{{tl|name}}</pre>
+
+===Parameters===
+{{Docparam|name=&lt;unnamed 1>|req=yes|default=|desc=
+Name of the template (without "Template:").
+}}
+
+==Example==
+<pre>{{tl|Main}}</pre>
+results in:
+{{tl|Main}}
+
+{{Copyright Wikipedia|Template:Tl}}

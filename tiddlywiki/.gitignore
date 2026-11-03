@@ -1,0 +1,3 @@
+# built by scripts/wiki/to-tiddlywiki.ts and `bunx tiddlywiki ... --build`
+tiddlers/generated/
+output/

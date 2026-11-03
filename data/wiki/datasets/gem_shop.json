@@ -1,0 +1,832 @@
+[
+ {
+  "_page": "Gem Shop",
+  "_section": "",
+  "_table": 0,
+  "Package_2": "Pile of Gems",
+  "Gems Purchased": 200,
+  "USD Cost": "$2",
+  "_images": [
+   "Pile_of_gems.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "",
+  "_table": 0,
+  "Package_2": "Sack of Gems",
+  "Gems Purchased": 600,
+  "USD Cost": "$5",
+  "_images": [
+   "Sack_of_gems.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "",
+  "_table": 0,
+  "Package_2": "Chest of Gems",
+  "Gems Purchased": 1500,
+  "USD Cost": "$10",
+  "_images": [
+   "Chest_of_gems.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "",
+  "_table": 0,
+  "Package_2": "Mountain of Gems",
+  "Gems Purchased": 4000,
+  "USD Cost": "$20",
+  "_images": [
+   "Mountain_of_gems.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "General",
+  "_table": 1,
+  "Item_2": "Time Candy",
+  "Description": "Get one random Time Candy Time Candy is used to gain instant progress in a single area of your choice Some Candies are rarer than others",
+  "Gem Cost": 50,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_random_time_candy.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "General",
+  "_table": 1,
+  "Item_2": "Vault Pass",
+  "Description": "Instantly refresh the timer on the Vault Player must have the Vault unlocked to purchase this (note: not available during events)",
+  "Gem Cost": 25,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_vault_pass.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "General",
+  "_table": 1,
+  "Item_2": "Raid Tickets",
+  "Description": "3 Raid Tickets used to fight Raid bosses Raids are unlocked after killing the first Keymaster (note: not available during events)",
+  "Gem Cost": 25,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_raid_tickets.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "General",
+  "_table": 1,
+  "Item_2": "Overlord Miner",
+  "Description": "Overlord Miners are twice as fast and mine twice as much ore forever This purchase gives you a single Overlord Miner",
+  "Gem Cost": 75,
+  "Max. Amount": 6,
+  "_images": [
+   "Shop_overlord.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "General",
+  "_table": 1,
+  "Item_2": "Infinity Forge",
+  "Description": "Buy this once and you'll never run out of Forge uses again Also doubles all future smithing EXP",
+  "Gem Cost": 200,
+  "Max. Amount": 1,
+  "_images": [
+   "Shop_infinity_forge.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "General",
+  "_table": 1,
+  "Item_2": "Funny Hat",
+  "Description": "Buy this hat and you will fish twice as fast and earn twice as much fishing EXP Each additional purchase doubles both bonuses again",
+  "Gem Cost": 100,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_funny_hat.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Time Candy",
+  "_table": 2,
+  "Candy_2": "2 Hour",
+  "Flavortext": "-",
+  "Roll": "1 - 44",
+  "Chance": "44%",
+  "_images": [
+   "2hr_candy.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Time Candy",
+  "_table": 2,
+  "Candy_2": "4 Hour",
+  "Flavortext": "Not too shabby",
+  "Roll": "45 - 70",
+  "Chance": "26%",
+  "_images": [
+   "4hr_candy.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Time Candy",
+  "_table": 2,
+  "Candy_2": "8 Hour",
+  "Flavortext": "Hey that's pretty good",
+  "Roll": "71 - 88",
+  "Chance": "18%",
+  "_images": [
+   "8hr_candy.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Time Candy",
+  "_table": 2,
+  "Candy_2": "24 Hour",
+  "Flavortext": "I don't quite believe it",
+  "Roll": "89 - 96",
+  "Chance": "8%",
+  "_images": [
+   "24hr_candy.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Time Candy",
+  "_table": 2,
+  "Candy_2": "72 Hour",
+  "Flavortext": "Ladies and gentlemen we have a winner",
+  "Roll": "97 - 100",
+  "Chance": "4%",
+  "_images": [
+   "72hr_candy.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Limbo",
+  "_table": 3,
+  "Item_2": "2x Spirit EXP",
+  "Description": "Permanently gain twice as much spiriting EXP Each additional purchase gives +100% more EXP",
+  "Gem Cost": 125,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_2x_spirit.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Limbo",
+  "_table": 3,
+  "Item_2": "2x Summon EXP",
+  "Description": "Permanently gain twice as much Summoning EXP Each additional purchase gives +100% more EXP",
+  "Gem Cost": 125,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_2x_summon.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Limbo",
+  "_table": 3,
+  "Item_2": "2x AP",
+  "Description": "Permanently gain twice as much AP every ascension Each additional purchase gives +100% more AP",
+  "Gem Cost": 100,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_double_ap.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Limbo",
+  "_table": 3,
+  "Item_2": "Hyper Spirits",
+  "Description": "Hyper Skillers give twice the souls and are twice as lucky This purchase gives both one Cultist and one Acolyte",
+  "Gem Cost": 70,
+  "Max. Amount": 8,
+  "_images": [
+   "Shop_hyperspiriting.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Limbo",
+  "_table": 3,
+  "Item_2": "Bonus Rift EXP",
+  "Description": "Glyphs are Rift EXP Each purchase gives +50% more Rift EXP every rift cycle Affects all rifts",
+  "Gem Cost": 40,
+  "Max. Amount": 1000,
+  "_images": [
+   "Shop_overclocked.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Limbo",
+  "_table": 3,
+  "Item_2": "Gem Rift",
+  "Description": "Gives you 150 Gems every day for 10 days That is a total of 1500 Gems",
+  "Gem Cost": 500,
+  "Max. Amount": 1,
+  "_images": [
+   "Shop_gem_portal.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Cards",
+  "_table": 4,
+  "Item_2": "Extra Card Slot",
+  "Description": "Opens up another slot for you to put Cards into You can have up to 10 slots",
+  "Gem Cost": 100,
+  "Max. Amount": 10,
+  "_images": [
+   "Shop_card_slots.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Cards",
+  "_table": 4,
+  "Item_2": "Star Cards",
+  "Description": "This pack gives 12 Gray Stars 3 Green Stars 1 Blue Star Open this pack in the Card screen Stars are used to upgrade Cards",
+  "Gem Cost": 100,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_star_cards.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Cards",
+  "_table": 4,
+  "Item_2": "Star Cards+",
+  "Description": "This pack gives 7 Green Stars 2 Blue Stars 1 Purple Star 1 random Star, Blue or Orange Open this pack in the Card screen",
+  "Gem Cost": 250,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_star_cards+.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Cards",
+  "_table": 4,
+  "Item_2": "Starter Pack",
+  "Description": "Gives 5 Cards Cards are from zones 1 or 2 and can be up to Blue rarity Open this pack in the Card screen",
+  "Gem Cost": 75,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_starter_pack.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Cards",
+  "_table": 4,
+  "Item_2": "Journeyman Pack",
+  "Description": "Gives 5 Cards Cards are from Zones 2 or 3 or 4 and can be up to Purple rarity with a minimum rarity of Green Chance for a Raid Boss Card",
+  "Gem Cost": 400,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_journerman_pack.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Cards",
+  "_table": 4,
+  "Item_2": "Legend Pack",
+  "Description": "Gives 5 Cards Cards are from Zones 3 or 4 or 5 and can be up to Orange rarity with a minimum rarity of Blue Guaranteeed [sic] one Raid Boss Card",
+  "Gem Cost": 1000,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_legend_pack.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Farming",
+  "_table": 5,
+  "Item_2": "Mystical Tiller",
+  "Description": "Mystical Tillers work 2x as fast Harvest 2x the crops And give a +25% crop bonus to all other Tillers",
+  "Gem Cost": 150,
+  "Max. Amount": 8,
+  "_images": [
+   "Shop_mystical_tiller.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Farming",
+  "_table": 5,
+  "Item_2": "Friendly Mushroom",
+  "Description": "These mushrooms will triple your flower growth speed Mama mia Thatsa fast",
+  "Gem Cost": 125,
+  "Max. Amount": 14,
+  "_images": [
+   "Shop_friendly_mushrooms.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Farming",
+  "_table": 5,
+  "Item_2": "Eternal Cauldron",
+  "Description": "Eternal Cauldrons brew Potions 4x as fast and also have +50% chance to triple lvl up a potion when brewing",
+  "Gem Cost": 175,
+  "Max. Amount": 6,
+  "_images": [
+   "Shop_eternity_cauldron.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Farming",
+  "_table": 5,
+  "Item_2": "Beginner Potions",
+  "Description": "3 Coupons which give a random level 10 potion from Red to Yellow rarity Gives +10 LVs if its a duplicate Redeem the Coupons in the potion page",
+  "Gem Cost": 150,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_beginner_potions.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Farming",
+  "_table": 5,
+  "Item_2": "Sovereign Potions",
+  "Description": "3 Coupons which give a random level 15 potion from Yellow to Cyan rarity Gives +15 LVs if its a duplicate Redeem the Coupons in the potion page",
+  "Gem Cost": 375,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_sovereign_potions.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Farming",
+  "_table": 5,
+  "Item_2": "Godly Potions",
+  "Description": "3 Coupons which give a random level 20 potion from Cyan to Godly rarity Gives +20 LVs if its a duplicate Redeem the Coupons in the potion page",
+  "Gem Cost": 750,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_godly_potions.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Crusades",
+  "_table": 6,
+  "Item_2": "Misc Bundle",
+  "Description": "3 Safety Charms 3 Lucky Donuts 3 Crystal Genesis 3 Chaotic Mutators 3 Benign Mutators 20% better value compared to buying each upgrade individually",
+  "Gem Cost": 600,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_misc_bundle.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Crusades",
+  "_table": 6,
+  "Item_2": "Safety Charms",
+  "Description": "Pack of 5 Using these will prevent an upgrade slot from being used if a Booster fails",
+  "Gem Cost": 300,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_safety_charms.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Crusades",
+  "_table": 6,
+  "Item_2": "Lucky Donuts",
+  "Description": "Pack of 5 Using these gives your Booster a +15% chance to succeed Especially useful for the more powerful Boosters",
+  "Gem Cost": 250,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_lucky_donuts.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Crusades",
+  "_table": 6,
+  "Item_2": "Crystal Genesis",
+  "Description": "Pack of 5 Using these will double the bonus of the upgrade However Genesis only has a 50% chance to work",
+  "Gem Cost": 250,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_crystal_genesis.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Crusades",
+  "_table": 6,
+  "Item_2": "Chaotic Mutators",
+  "Description": "Pack of 5 Using these will double the effect of your Mutator However these will also cut Booster success chance in half",
+  "Gem Cost": 200,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_chaotic_mutators.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Crusades",
+  "_table": 6,
+  "Item_2": "Benign Mutators",
+  "Description": "Pack of 5 Using these will prevent your Mutator from multiplying by a number less than one",
+  "Gem Cost": 200,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_benign_mutators.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Crusades",
+  "_table": 7,
+  "Item_2": "Second Necklace",
+  "Description": "Unlocks the second slot for Necklaces This allows you to equip two different necklaces at the same time",
+  "Gem Cost": 350,
+  "Max. Amount": 1,
+  "_images": [
+   "Shop_second_necklace.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Crusades",
+  "_table": 7,
+  "Item_2": "Pillager Pack",
+  "Description": "5 Crusade Cards Can be from Crusade 1 to 6 and can be up to Blue Rarity There is a small chance for a Crusade Boss Card",
+  "Gem Cost": 350,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_pillager_pack.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Crusades",
+  "_table": 7,
+  "Item_2": "Deus Vult Pack",
+  "Description": "5 Crusade Cards Can be from Crusade 4 to 10 and can be up to Orange rarity with a minimum of at least Blue rarity There is a good chance for a Crusade Boss Card",
+  "Gem Cost": 750,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_deus_vult_pack.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Crusades",
+  "_table": 7,
+  "Item_2": "Extra Card Deck Extra Tinker Deck More Pet Inventory",
+  "Description": "1 additional deck to switch between and link to different screens (Extra Card Deck/Extra Tinker Deck) 5 additional spaces to store Pets in (More Pet Inventory)",
+  "Gem Cost": 150,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_card_deck.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Crusades",
+  "_table": 7,
+  "Item_2": "2x Crusade EXP",
+  "Description": "Permanently gain twice as much Crusade EXP Each additional purchase gives +100% more EXP",
+  "Gem Cost": 150,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_2x_crusade_exp.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Crusades",
+  "_table": 7,
+  "Item_2": "2x Tinkering EXP",
+  "Description": "Permanently gain twice as much Tinkering EXP Each additional purchase gives +100% more EXP",
+  "Gem Cost": 150,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_2x_tinker_exp.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Rebirth",
+  "_table": 8,
+  "Item_2": "Crystal Slots",
+  "Description": "Unlocks all 3 slots for one thing Choose between Cauldron or Rock (Cauldron or Mining)",
+  "Gem Cost": 250,
+  "Max. Amount": "6 / 6",
+  "_images": [
+   "Shop_crystal_slots.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Rebirth",
+  "_table": 8,
+  "Item_2": "Premium Gems",
+  "Description": "1 Green Crystal 1 Orange Crystal Green gives: +100% EXP +100% Production +100% Double Chance Orange gives: +20% boost to all other Crystals",
+  "Gem Cost": 175,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_premium_crystals.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Rebirth",
+  "_table": 8,
+  "Item_2": "Supreme Gems",
+  "Description": "1 Pink Crystal 1 Black Crystal These affect all adjacent miners Pink gives: +200% Cauldron speed +200% Mining EXP Black gives: -40% Potion cost +200% Mining Ores",
+  "Gem Cost": 275,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_supreme_crystals.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Rebirth",
+  "_table": 8,
+  "Item_2": "2x BP",
+  "Description": "Permanently gain twice as much BP Each additional purchase gives +100% more BP",
+  "Gem Cost": 350,
+  "Max. Amount": 5,
+  "_images": [
+   "Shop_double_bp.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Rebirth",
+  "_table": 8,
+  "Item_2": "Normal Gems",
+  "Description": "Includes 1 Yellow 1 Red 1 Purple 1 Blue Crystal Just so you know You can earn these for free by playing",
+  "Gem Cost": 100,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_extra_crystals.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Rebirth",
+  "_table": 8,
+  "Item_2": "Rebirth Coupons",
+  "Description": "3 coupons that give all unearned BP without needing to rebirth Includes 1 bonus AP coupon Rebirth required to buy again",
+  "Gem Cost": 450,
+  "Max. Amount": "∞, but only 1 per Rebirth",
+  "_images": [
+   "Shop_rebirth_scrolls.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Asylum",
+  "_table": 9,
+  "Item_2": "Asylum Keys",
+  "Description": "5 Asylum Keys used to fight ASylum Bosses To reach the Asylum you must defeat the Raid Demon Boss",
+  "Gem Cost": 55,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_asylum_keys.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Asylum",
+  "_table": 9,
+  "Item_2": "Scavengers Wit",
+  "Description": "Permanently gain twice as many Shrine items Each additional purchase gives another +100% bonus",
+  "Gem Cost": 325,
+  "Max. Amount": 7,
+  "_images": [
+   "Shop_scavengers_wit.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Asylum",
+  "_table": 9,
+  "Item_2": "Pachinko Balls",
+  "Description": "100 balls to use in the Pachi Arcade See a full list of possible prizes by going to the Arcade and clicking on the Stars",
+  "Gem Cost": 275,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_pachinko_balls.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Asylum",
+  "_table": 9,
+  "Item_2": "Trauma Pack",
+  "Description": "Gives 5 Cards Cards are from Zones 6 or 7 and can be up to Blue rarity Good chance for an Asylum Card up to low quality",
+  "Gem Cost": 300,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_trauma_pack.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Asylum",
+  "_table": 9,
+  "Item_2": "Insanity Pack",
+  "Description": "Gives 5 Cards Cards are from Zones 7 or 8 and can be up to Purple rarity Great chance for an Asylum Card up to high quality",
+  "Gem Cost": 750,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_insanity_pack.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Asylum",
+  "_table": 9,
+  "Item_2": "Psychosis Pack",
+  "Description": "Gives 5 Cards You can get several Asylum Boss Cards in a single pack up to Orange rarity Guaranteed at least one Asylum Card up to best quality",
+  "Gem Cost": 1500,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_psychosis_pac.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Pets",
+  "_table": 10,
+  "Location Affected": "Hatchery",
+  "Item_2": "Golden Nest",
+  "Description": "Golden Nests have: 4x faster hatching speed 3x chance to create rarer eggs 3x bonus to hatching new Pets",
+  "Gem Cost": 375,
+  "Max. Amount": 6,
+  "_images": [
+   "GemPurchase_GoldenNest.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Pets",
+  "_table": 10,
+  "Location Affected": "Trekking",
+  "Item_2": "Arcane Carpet",
+  "Description": "Used by support Pets The genetics of the pet on this carpet have 2x the effect and count for 2 in Trekking combos",
+  "Gem Cost": 525,
+  "Max. Amount": 4,
+  "_images": [
+   "GemPurchase_AranceCarpet.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Pets",
+  "_table": 10,
+  "Location Affected": "Research",
+  "Item_2": "Diamond Piping",
+  "Description": "Lets you change 1 piping into Diamond permanently Diamond Pipes give the connected tank: 4x RP gain +200% for double LV 3x RP effect",
+  "Gem Cost": 225,
+  "Max. Amount": 45,
+  "_images": [
+   "GemPurchase_DiamondPiping.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Pets",
+  "_table": 10,
+  "Location Affected": "Hatchery",
+  "Item_2": "Hyper Egg Coupon",
+  "Description": "Hyper Eggs have a chance to hatch an Exquisite Boss Pet Otherwise you get a 30% chance to hatch a new Pet Pets hatched always have high power",
+  "Gem Cost": 300,
+  "Max. Amount": "∞",
+  "_images": [
+   "GemPurchase_HyperEggCoupon.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Pets",
+  "_table": 10,
+  "Location Affected": "Trekking",
+  "Item_2": "2x Vessels",
+  "Description": "Permanently gain twice as many Veseels [sic] from Trekking Each additional purchase gives +100% more Vessels",
+  "Gem Cost": 450,
+  "Max. Amount": 6,
+  "_images": [
+   "GemPurchase_DoubleVessels.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Pets",
+  "_table": 10,
+  "Location Affected": "Research",
+  "Item_2": "Shiny Vat",
+  "Description": "Unlocks the Shiny Lab Vat which gives: 2x RP Gain Bonus +50% 2x LV chance +100% research EXP for all tanks Shiny Vat can be upgraded even more with Gems",
+  "Gem Cost": 675,
+  "Max. Amount": 1,
+  "_images": [
+   "GemPurchase_ShinyVat.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Tunnels",
+  "_table": 11,
+  "Item_2": "Desolator Spelunker",
+  "Description": "These Spelunkers have: 5x Speed 4x Dig Down amount +2 additional Treasure Bags every extraction",
+  "Gem Cost": 375,
+  "Max. Amount": 8,
+  "_images": [
+   "Shop_desolator.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Tunnels",
+  "_table": 11,
+  "Item_2": "Sentinel Canary",
+  "Description": "Each bird gives one Spelunker: 4x Learning Rate Double Absorb Powers (You can Absorb twice instead of just once)",
+  "Gem Cost": 350,
+  "Max. Amount": 8,
+  "_images": [
+   "Shop_sentinel_canary.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Tunnels",
+  "_table": 11,
+  "Item_2": "Iodized Builder",
+  "Description": "These Builders have: 3x Building Speed +10% speed every Construction level instead of +2% Also gives immediate access to the Builder",
+  "Gem Cost": 325,
+  "Max. Amount": 10,
+  "_images": [
+   "Shop_iodized_builder.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Tunnels",
+  "_table": 11,
+  "Item_2": "6-Star Pack",
+  "Description": "Gives 5 Cards all of 6 Star rarity These Cards can be from anywhere in the game (Tunnel Cards are more likely to be gotten) 33% chance per pack to get a Raid/Asylum Boss",
+  "Gem Cost": 550,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_6_star_pack.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Tunnels",
+  "_table": 11,
+  "Item_2": "Fabled Potions",
+  "Description": "3 Coupons which give a level 15 Potion randomly selected from the first 24 Darkmode Potions Gives +15 LVs if the Potion is a duplicate Must have Extended Brewing unlocked from Construction to buy",
+  "Gem Cost": 525,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_fabled_potions.png"
+  ]
+ },
+ {
+  "_page": "Gem Shop",
+  "_section": "Tunnels",
+  "_table": 11,
+  "Item_2": "Timeless Potions",
+  "Description": "3 Coupons which give a level 20 Potion randomly selected from the last 24 Darkmode Potions Gives +20 LVs if the Potion is a duplicate Must have Extended Brewing unlocked from Construction to buy",
+  "Gem Cost": 900,
+  "Max. Amount": "∞",
+  "_images": [
+   "Shop_timeless_potions.png"
+  ]
+ }
+]

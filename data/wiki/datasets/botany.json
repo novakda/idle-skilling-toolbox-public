@@ -1,0 +1,1248 @@
+[
+ {
+  "_page": "Botany",
+  "_section": "Pots",
+  "_table": 0,
+  "Unlock Req.": "Cost",
+  "Pot 1": "-",
+  "Pot 2": "1500k",
+  "Pot 3": "45m",
+  "Pot 4": "1.1b",
+  "Pot 5": "20.3b",
+  "Pot 6": "379.7b",
+  "Pot 7": "6.9t"
+ },
+ {
+  "_page": "Botany",
+  "_section": "Pots",
+  "_table": 0,
+  "Unlock Req.": "H2O Level",
+  "Pot 1": "-",
+  "Pot 2": 21,
+  "Pot 3": 27,
+  "Pot 4": 33,
+  "Pot 5": 39,
+  "Pot 6": 45,
+  "Pot 7": 51
+ },
+ {
+  "_page": "Botany",
+  "_section": "Pots",
+  "_table": 1,
+  "Unlock Req.": "Cost",
+  "Pot 8": "239.3t",
+  "Pot 9": "12.4q",
+  "Pot 10": "899.6q",
+  "Pot 11": "72.7qq",
+  "Pot 12": 5,
+  "Pot 13": 486,
+  "Pot 14": 39534
+ },
+ {
+  "_page": "Botany",
+  "_section": "Pots",
+  "_table": 1,
+  "Unlock Req.": "H2O Level",
+  "Pot 8": 57,
+  "Pot 9": 63,
+  "Pot 10": 69,
+  "Pot 11": 75,
+  "Pot 12": 81,
+  "Pot 13": 87,
+  "Pot 14": 93
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Weeds",
+  "Plant Requirements / Base Growth": 250,
+  "Plant Requirements / Pot Level / 1": 1,
+  "Plant Requirements / Pot Level / 2": 2,
+  "Plant Requirements / Pot Level / 3": 4,
+  "Plant Requirements / Pot Level / 4": 6,
+  "Plant Requirements / Pot Level / 5": 8,
+  "Plant Requirements / Pot Level / 6": 10,
+  "Plant Requirements / Pot Level / 7": 12,
+  "Plant Requirements / Pot Level / 8": 14,
+  "Plant Requirements / Pot Level / 9": 16,
+  "Plant Requirements / Pot Level / 10": 18,
+  "Plant Requirements / Pot Level / 11": 20,
+  "Plant Requirements / Pot Level / 12": 22,
+  "Plant Requirements / Pot Level / 13": 24,
+  "Plant Requirements / Pot Level / 14": 26,
+  "_images": [
+   "Weeds.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Berries",
+  "Plant Requirements / Base Growth": 750,
+  "Plant Requirements / Pot Level / 1": 3,
+  "Plant Requirements / Pot Level / 2": 5,
+  "Plant Requirements / Pot Level / 3": 7,
+  "Plant Requirements / Pot Level / 4": 9,
+  "Plant Requirements / Pot Level / 5": 11,
+  "Plant Requirements / Pot Level / 6": 13,
+  "Plant Requirements / Pot Level / 7": 15,
+  "Plant Requirements / Pot Level / 8": 17,
+  "Plant Requirements / Pot Level / 9": 19,
+  "Plant Requirements / Pot Level / 10": 21,
+  "Plant Requirements / Pot Level / 11": 23,
+  "Plant Requirements / Pot Level / 12": 25,
+  "Plant Requirements / Pot Level / 13": 27,
+  "Plant Requirements / Pot Level / 14": 29,
+  "_images": [
+   "Berries.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Typha",
+  "Plant Requirements / Base Growth": "2k",
+  "Plant Requirements / Pot Level / 1": 6,
+  "Plant Requirements / Pot Level / 2": 8,
+  "Plant Requirements / Pot Level / 3": 10,
+  "Plant Requirements / Pot Level / 4": 12,
+  "Plant Requirements / Pot Level / 5": 14,
+  "Plant Requirements / Pot Level / 6": 16,
+  "Plant Requirements / Pot Level / 7": 18,
+  "Plant Requirements / Pot Level / 8": 20,
+  "Plant Requirements / Pot Level / 9": 22,
+  "Plant Requirements / Pot Level / 10": 24,
+  "Plant Requirements / Pot Level / 11": 26,
+  "Plant Requirements / Pot Level / 12": 28,
+  "Plant Requirements / Pot Level / 13": 30,
+  "Plant Requirements / Pot Level / 14": 32,
+  "_images": [
+   "Typha.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Flowers",
+  "Plant Requirements / Base Growth": "5k",
+  "Plant Requirements / Pot Level / 1": 9,
+  "Plant Requirements / Pot Level / 2": 11,
+  "Plant Requirements / Pot Level / 3": 13,
+  "Plant Requirements / Pot Level / 4": 15,
+  "Plant Requirements / Pot Level / 5": 17,
+  "Plant Requirements / Pot Level / 6": 19,
+  "Plant Requirements / Pot Level / 7": 21,
+  "Plant Requirements / Pot Level / 8": 23,
+  "Plant Requirements / Pot Level / 9": 25,
+  "Plant Requirements / Pot Level / 10": 27,
+  "Plant Requirements / Pot Level / 11": 29,
+  "Plant Requirements / Pot Level / 12": 31,
+  "Plant Requirements / Pot Level / 13": 33,
+  "Plant Requirements / Pot Level / 14": 35,
+  "_images": [
+   "Flowers.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Cactus",
+  "Plant Requirements / Base Growth": "10k",
+  "Plant Requirements / Pot Level / 1": 12,
+  "Plant Requirements / Pot Level / 2": 14,
+  "Plant Requirements / Pot Level / 3": 16,
+  "Plant Requirements / Pot Level / 4": 18,
+  "Plant Requirements / Pot Level / 5": 20,
+  "Plant Requirements / Pot Level / 6": 22,
+  "Plant Requirements / Pot Level / 7": 24,
+  "Plant Requirements / Pot Level / 8": 26,
+  "Plant Requirements / Pot Level / 9": 28,
+  "Plant Requirements / Pot Level / 10": 30,
+  "Plant Requirements / Pot Level / 11": 32,
+  "Plant Requirements / Pot Level / 12": 34,
+  "Plant Requirements / Pot Level / 13": 36,
+  "Plant Requirements / Pot Level / 14": 38,
+  "_images": [
+   "Cactus.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Palm Tree",
+  "Plant Requirements / Base Growth": "25k",
+  "Plant Requirements / Pot Level / 1": 15,
+  "Plant Requirements / Pot Level / 2": 17,
+  "Plant Requirements / Pot Level / 3": 19,
+  "Plant Requirements / Pot Level / 4": 21,
+  "Plant Requirements / Pot Level / 5": 23,
+  "Plant Requirements / Pot Level / 6": 25,
+  "Plant Requirements / Pot Level / 7": 27,
+  "Plant Requirements / Pot Level / 8": 29,
+  "Plant Requirements / Pot Level / 9": 31,
+  "Plant Requirements / Pot Level / 10": 33,
+  "Plant Requirements / Pot Level / 11": 35,
+  "Plant Requirements / Pot Level / 12": 37,
+  "Plant Requirements / Pot Level / 13": 39,
+  "Plant Requirements / Pot Level / 14": 41,
+  "_images": [
+   "Palm_tree.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Sapling",
+  "Plant Requirements / Base Growth": "100k",
+  "Plant Requirements / Pot Level / 1": 18,
+  "Plant Requirements / Pot Level / 2": 20,
+  "Plant Requirements / Pot Level / 3": 22,
+  "Plant Requirements / Pot Level / 4": 24,
+  "Plant Requirements / Pot Level / 5": 26,
+  "Plant Requirements / Pot Level / 6": 28,
+  "Plant Requirements / Pot Level / 7": 30,
+  "Plant Requirements / Pot Level / 8": 32,
+  "Plant Requirements / Pot Level / 9": 34,
+  "Plant Requirements / Pot Level / 10": 36,
+  "Plant Requirements / Pot Level / 11": 38,
+  "Plant Requirements / Pot Level / 12": 40,
+  "Plant Requirements / Pot Level / 13": 42,
+  "Plant Requirements / Pot Level / 14": 44,
+  "_images": [
+   "Sapling.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Weeplings",
+  "Plant Requirements / Base Growth": "225k",
+  "Plant Requirements / Pot Level / 1": 21,
+  "Plant Requirements / Pot Level / 2": 23,
+  "Plant Requirements / Pot Level / 3": 25,
+  "Plant Requirements / Pot Level / 4": 27,
+  "Plant Requirements / Pot Level / 5": 29,
+  "Plant Requirements / Pot Level / 6": 31,
+  "Plant Requirements / Pot Level / 7": 33,
+  "Plant Requirements / Pot Level / 8": 35,
+  "Plant Requirements / Pot Level / 9": 37,
+  "Plant Requirements / Pot Level / 10": 39,
+  "Plant Requirements / Pot Level / 11": 41,
+  "Plant Requirements / Pot Level / 12": 43,
+  "Plant Requirements / Pot Level / 13": 45,
+  "Plant Requirements / Pot Level / 14": 47,
+  "_images": [
+   "Weeplings.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Saharan Foal",
+  "Plant Requirements / Base Growth": "500k",
+  "Plant Requirements / Pot Level / 1": 24,
+  "Plant Requirements / Pot Level / 2": 26,
+  "Plant Requirements / Pot Level / 3": 28,
+  "Plant Requirements / Pot Level / 4": 30,
+  "Plant Requirements / Pot Level / 5": 32,
+  "Plant Requirements / Pot Level / 6": 34,
+  "Plant Requirements / Pot Level / 7": 36,
+  "Plant Requirements / Pot Level / 8": 38,
+  "Plant Requirements / Pot Level / 9": 40,
+  "Plant Requirements / Pot Level / 10": 42,
+  "Plant Requirements / Pot Level / 11": 44,
+  "Plant Requirements / Pot Level / 12": 46,
+  "Plant Requirements / Pot Level / 13": 48,
+  "Plant Requirements / Pot Level / 14": 50,
+  "_images": [
+   "Saharan foal.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Mint Cane",
+  "Plant Requirements / Base Growth": "1m",
+  "Plant Requirements / Pot Level / 1": 27,
+  "Plant Requirements / Pot Level / 2": 29,
+  "Plant Requirements / Pot Level / 3": 31,
+  "Plant Requirements / Pot Level / 4": 33,
+  "Plant Requirements / Pot Level / 5": 35,
+  "Plant Requirements / Pot Level / 6": 37,
+  "Plant Requirements / Pot Level / 7": 39,
+  "Plant Requirements / Pot Level / 8": 41,
+  "Plant Requirements / Pot Level / 9": 43,
+  "Plant Requirements / Pot Level / 10": 45,
+  "Plant Requirements / Pot Level / 11": 47,
+  "Plant Requirements / Pot Level / 12": 49,
+  "Plant Requirements / Pot Level / 13": 51,
+  "Plant Requirements / Pot Level / 14": 53,
+  "_images": [
+   "Mint_cane.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Crystals",
+  "Plant Requirements / Base Growth": "2.5m",
+  "Plant Requirements / Pot Level / 1": 30,
+  "Plant Requirements / Pot Level / 2": 32,
+  "Plant Requirements / Pot Level / 3": 34,
+  "Plant Requirements / Pot Level / 4": 36,
+  "Plant Requirements / Pot Level / 5": 38,
+  "Plant Requirements / Pot Level / 6": 40,
+  "Plant Requirements / Pot Level / 7": 42,
+  "Plant Requirements / Pot Level / 8": 44,
+  "Plant Requirements / Pot Level / 9": 46,
+  "Plant Requirements / Pot Level / 10": 48,
+  "Plant Requirements / Pot Level / 11": 50,
+  "Plant Requirements / Pot Level / 12": 52,
+  "Plant Requirements / Pot Level / 13": 54,
+  "Plant Requirements / Pot Level / 14": 56,
+  "_images": [
+   "Crystals.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Candypop",
+  "Plant Requirements / Base Growth": "5m",
+  "Plant Requirements / Pot Level / 1": 33,
+  "Plant Requirements / Pot Level / 2": 35,
+  "Plant Requirements / Pot Level / 3": 37,
+  "Plant Requirements / Pot Level / 4": 39,
+  "Plant Requirements / Pot Level / 5": 41,
+  "Plant Requirements / Pot Level / 6": 43,
+  "Plant Requirements / Pot Level / 7": 45,
+  "Plant Requirements / Pot Level / 8": 47,
+  "Plant Requirements / Pot Level / 9": 49,
+  "Plant Requirements / Pot Level / 10": 51,
+  "Plant Requirements / Pot Level / 11": 53,
+  "Plant Requirements / Pot Level / 12": 55,
+  "Plant Requirements / Pot Level / 13": 57,
+  "Plant Requirements / Pot Level / 14": 59,
+  "_images": [
+   "Candypop.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Fyreling",
+  "Plant Requirements / Base Growth": "25m",
+  "Plant Requirements / Pot Level / 1": 36,
+  "Plant Requirements / Pot Level / 2": 38,
+  "Plant Requirements / Pot Level / 3": 40,
+  "Plant Requirements / Pot Level / 4": 42,
+  "Plant Requirements / Pot Level / 5": 44,
+  "Plant Requirements / Pot Level / 6": 46,
+  "Plant Requirements / Pot Level / 7": 48,
+  "Plant Requirements / Pot Level / 8": 50,
+  "Plant Requirements / Pot Level / 9": 52,
+  "Plant Requirements / Pot Level / 10": 54,
+  "Plant Requirements / Pot Level / 11": 56,
+  "Plant Requirements / Pot Level / 12": 58,
+  "Plant Requirements / Pot Level / 13": 60,
+  "Plant Requirements / Pot Level / 14": 62,
+  "_images": [
+   "Fyreling.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Blood Tree",
+  "Plant Requirements / Base Growth": "50m",
+  "Plant Requirements / Pot Level / 1": 39,
+  "Plant Requirements / Pot Level / 2": 41,
+  "Plant Requirements / Pot Level / 3": 43,
+  "Plant Requirements / Pot Level / 4": 45,
+  "Plant Requirements / Pot Level / 5": 47,
+  "Plant Requirements / Pot Level / 6": 49,
+  "Plant Requirements / Pot Level / 7": 51,
+  "Plant Requirements / Pot Level / 8": 53,
+  "Plant Requirements / Pot Level / 9": 55,
+  "Plant Requirements / Pot Level / 10": 57,
+  "Plant Requirements / Pot Level / 11": 59,
+  "Plant Requirements / Pot Level / 12": 61,
+  "Plant Requirements / Pot Level / 13": 63,
+  "Plant Requirements / Pot Level / 14": 65,
+  "_images": [
+   "Blood_tree.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Mushroom",
+  "Plant Requirements / Base Growth": "125m",
+  "Plant Requirements / Pot Level / 1": 42,
+  "Plant Requirements / Pot Level / 2": 44,
+  "Plant Requirements / Pot Level / 3": 46,
+  "Plant Requirements / Pot Level / 4": 48,
+  "Plant Requirements / Pot Level / 5": 50,
+  "Plant Requirements / Pot Level / 6": 52,
+  "Plant Requirements / Pot Level / 7": 54,
+  "Plant Requirements / Pot Level / 8": 56,
+  "Plant Requirements / Pot Level / 9": 58,
+  "Plant Requirements / Pot Level / 10": 60,
+  "Plant Requirements / Pot Level / 11": 62,
+  "Plant Requirements / Pot Level / 12": 64,
+  "Plant Requirements / Pot Level / 13": 66,
+  "Plant Requirements / Pot Level / 14": 68,
+  "_images": [
+   "Mushroom_ingredient.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Flesh Tree",
+  "Plant Requirements / Base Growth": "300m",
+  "Plant Requirements / Pot Level / 1": 45,
+  "Plant Requirements / Pot Level / 2": 47,
+  "Plant Requirements / Pot Level / 3": 49,
+  "Plant Requirements / Pot Level / 4": 51,
+  "Plant Requirements / Pot Level / 5": 53,
+  "Plant Requirements / Pot Level / 6": 55,
+  "Plant Requirements / Pot Level / 7": 57,
+  "Plant Requirements / Pot Level / 8": 59,
+  "Plant Requirements / Pot Level / 9": 61,
+  "Plant Requirements / Pot Level / 10": 63,
+  "Plant Requirements / Pot Level / 11": 65,
+  "Plant Requirements / Pot Level / 12": 67,
+  "Plant Requirements / Pot Level / 13": 69,
+  "Plant Requirements / Pot Level / 14": 71,
+  "_images": [
+   "Flesh_tree.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Demonia",
+  "Plant Requirements / Base Growth": "800m",
+  "Plant Requirements / Pot Level / 1": 48,
+  "Plant Requirements / Pot Level / 2": 50,
+  "Plant Requirements / Pot Level / 3": 52,
+  "Plant Requirements / Pot Level / 4": 54,
+  "Plant Requirements / Pot Level / 5": 56,
+  "Plant Requirements / Pot Level / 6": 58,
+  "Plant Requirements / Pot Level / 7": 60,
+  "Plant Requirements / Pot Level / 8": 62,
+  "Plant Requirements / Pot Level / 9": 64,
+  "Plant Requirements / Pot Level / 10": 66,
+  "Plant Requirements / Pot Level / 11": 68,
+  "Plant Requirements / Pot Level / 12": 70,
+  "Plant Requirements / Pot Level / 13": 72,
+  "Plant Requirements / Pot Level / 14": 74,
+  "_images": [
+   "Demonia.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Cursed Eye",
+  "Plant Requirements / Base Growth": "1.5b",
+  "Plant Requirements / Pot Level / 1": 51,
+  "Plant Requirements / Pot Level / 2": 53,
+  "Plant Requirements / Pot Level / 3": 55,
+  "Plant Requirements / Pot Level / 4": 57,
+  "Plant Requirements / Pot Level / 5": 59,
+  "Plant Requirements / Pot Level / 6": 61,
+  "Plant Requirements / Pot Level / 7": 63,
+  "Plant Requirements / Pot Level / 8": 65,
+  "Plant Requirements / Pot Level / 9": 67,
+  "Plant Requirements / Pot Level / 10": 69,
+  "Plant Requirements / Pot Level / 11": 71,
+  "Plant Requirements / Pot Level / 12": 73,
+  "Plant Requirements / Pot Level / 13": 75,
+  "Plant Requirements / Pot Level / 14": 77,
+  "_images": [
+   "Cursed_eye.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Veninsulic",
+  "Plant Requirements / Base Growth": "8b",
+  "Plant Requirements / Pot Level / 1": 54,
+  "Plant Requirements / Pot Level / 2": 56,
+  "Plant Requirements / Pot Level / 3": 58,
+  "Plant Requirements / Pot Level / 4": 60,
+  "Plant Requirements / Pot Level / 5": 62,
+  "Plant Requirements / Pot Level / 6": 64,
+  "Plant Requirements / Pot Level / 7": 66,
+  "Plant Requirements / Pot Level / 8": 68,
+  "Plant Requirements / Pot Level / 9": 70,
+  "Plant Requirements / Pot Level / 10": 72,
+  "Plant Requirements / Pot Level / 11": 74,
+  "Plant Requirements / Pot Level / 12": 76,
+  "Plant Requirements / Pot Level / 13": 78,
+  "Plant Requirements / Pot Level / 14": 80,
+  "_images": [
+   "Veninsulic.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Lemming",
+  "Plant Requirements / Base Growth": "15b",
+  "Plant Requirements / Pot Level / 1": 57,
+  "Plant Requirements / Pot Level / 2": 59,
+  "Plant Requirements / Pot Level / 3": 61,
+  "Plant Requirements / Pot Level / 4": 63,
+  "Plant Requirements / Pot Level / 5": 65,
+  "Plant Requirements / Pot Level / 6": 67,
+  "Plant Requirements / Pot Level / 7": 69,
+  "Plant Requirements / Pot Level / 8": 71,
+  "Plant Requirements / Pot Level / 9": 73,
+  "Plant Requirements / Pot Level / 10": 75,
+  "Plant Requirements / Pot Level / 11": 77,
+  "Plant Requirements / Pot Level / 12": 79,
+  "Plant Requirements / Pot Level / 13": 81,
+  "Plant Requirements / Pot Level / 14": 83,
+  "_images": [
+   "Lemming.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Chlorine",
+  "Plant Requirements / Base Growth": "29b",
+  "Plant Requirements / Pot Level / 1": 60,
+  "Plant Requirements / Pot Level / 2": 62,
+  "Plant Requirements / Pot Level / 3": 64,
+  "Plant Requirements / Pot Level / 4": 66,
+  "Plant Requirements / Pot Level / 5": 68,
+  "Plant Requirements / Pot Level / 6": 70,
+  "Plant Requirements / Pot Level / 7": 72,
+  "Plant Requirements / Pot Level / 8": 74,
+  "Plant Requirements / Pot Level / 9": 76,
+  "Plant Requirements / Pot Level / 10": 78,
+  "Plant Requirements / Pot Level / 11": 80,
+  "Plant Requirements / Pot Level / 12": 82,
+  "Plant Requirements / Pot Level / 13": 84,
+  "Plant Requirements / Pot Level / 14": 86,
+  "_images": [
+   "Chlorine.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Icecream",
+  "Plant Requirements / Base Growth": "100b",
+  "Plant Requirements / Pot Level / 1": 63,
+  "Plant Requirements / Pot Level / 2": 65,
+  "Plant Requirements / Pot Level / 3": 67,
+  "Plant Requirements / Pot Level / 4": 69,
+  "Plant Requirements / Pot Level / 5": 71,
+  "Plant Requirements / Pot Level / 6": 73,
+  "Plant Requirements / Pot Level / 7": 75,
+  "Plant Requirements / Pot Level / 8": 77,
+  "Plant Requirements / Pot Level / 9": 79,
+  "Plant Requirements / Pot Level / 10": 81,
+  "Plant Requirements / Pot Level / 11": 83,
+  "Plant Requirements / Pot Level / 12": 85,
+  "Plant Requirements / Pot Level / 13": 87,
+  "Plant Requirements / Pot Level / 14": 89,
+  "_images": [
+   "Icecream.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Belldrop",
+  "Plant Requirements / Base Growth": "699b",
+  "Plant Requirements / Pot Level / 1": 66,
+  "Plant Requirements / Pot Level / 2": 68,
+  "Plant Requirements / Pot Level / 3": 70,
+  "Plant Requirements / Pot Level / 4": 72,
+  "Plant Requirements / Pot Level / 5": 74,
+  "Plant Requirements / Pot Level / 6": 76,
+  "Plant Requirements / Pot Level / 7": 78,
+  "Plant Requirements / Pot Level / 8": 80,
+  "Plant Requirements / Pot Level / 9": 82,
+  "Plant Requirements / Pot Level / 10": 84,
+  "Plant Requirements / Pot Level / 11": 86,
+  "Plant Requirements / Pot Level / 12": 88,
+  "Plant Requirements / Pot Level / 13": 90,
+  "Plant Requirements / Pot Level / 14": 92,
+  "_images": [
+   "Belldrop.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Plants",
+  "_table": 2,
+  "Plant Requirements / Plant_2": "Sunburst",
+  "Plant Requirements / Base Growth": "4.9t",
+  "Plant Requirements / Pot Level / 1": 69,
+  "Plant Requirements / Pot Level / 2": 71,
+  "Plant Requirements / Pot Level / 3": 73,
+  "Plant Requirements / Pot Level / 4": 75,
+  "Plant Requirements / Pot Level / 5": 77,
+  "Plant Requirements / Pot Level / 6": 79,
+  "Plant Requirements / Pot Level / 7": 81,
+  "Plant Requirements / Pot Level / 8": 83,
+  "Plant Requirements / Pot Level / 9": 85,
+  "Plant Requirements / Pot Level / 10": 87,
+  "Plant Requirements / Pot Level / 11": 89,
+  "Plant Requirements / Pot Level / 12": 91,
+  "Plant Requirements / Pot Level / 13": 93,
+  "Plant Requirements / Pot Level / 14": 95,
+  "_images": [
+   "Sunburst.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Darkmode Plants",
+  "_table": 3,
+  "Plant Requirements / Plant_2": "Baubles",
+  "Plant Requirements / Base Growth": "40t",
+  "Plant Requirements / Construction": "Bucketeers Lv. 1",
+  "Plant Requirements / Plant_4": "Swissile",
+  "Plant Requirements / Base Growth_2": "4.5qq",
+  "Plant Requirements / Construction_2": "Plant Em All Lv.1",
+  "_images": [
+   "Baubles.png",
+   "Bucketeers.png",
+   "Swissile.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Darkmode Plants",
+  "_table": 3,
+  "Plant Requirements / Plant_2": "Fluxissa",
+  "Plant Requirements / Base Growth": "80t",
+  "Plant Requirements / Construction": "Bucketeers Lv. 1",
+  "Plant Requirements / Plant_4": "Spider Tree",
+  "Plant Requirements / Base Growth_2": "15qq",
+  "Plant Requirements / Construction_2": "Plant Em All Lv.1",
+  "_images": [
+   "Fluxissa.png",
+   "Bucketeers.png",
+   "Spider_tree.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Darkmode Plants",
+  "_table": 3,
+  "Plant Requirements / Plant_2": "Spillage",
+  "Plant Requirements / Base Growth": "150t",
+  "Plant Requirements / Construction": "Bucketeers Lv. 1",
+  "Plant Requirements / Plant_4": "Normal Rook",
+  "Plant Requirements / Base Growth_2": "35qq",
+  "Plant Requirements / Construction_2": "Plant Em All Lv.1",
+  "_images": [
+   "Spillage.png",
+   "Bucketeers.png",
+   "Normal_rook.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Darkmode Plants",
+  "_table": 3,
+  "Plant Requirements / Plant_2": "Alienbush",
+  "Plant Requirements / Base Growth": "350t",
+  "Plant Requirements / Construction": "Bucketeers Lv. 1",
+  "Plant Requirements / Plant_4": "Podacian",
+  "Plant Requirements / Base Growth_2": "80qq",
+  "Plant Requirements / Construction_2": "Plant Em All Lv.1",
+  "_images": [
+   "Alienbush.png",
+   "Bucketeers.png",
+   "Podacian.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Darkmode Plants",
+  "_table": 3,
+  "Plant Requirements / Plant_2": "Tentacles",
+  "Plant Requirements / Base Growth": "800t",
+  "Plant Requirements / Construction": "Bucketeers Lv. 1",
+  "Plant Requirements / Plant_4": "Marsh Mello",
+  "Plant Requirements / Base Growth_2": "250qq",
+  "Plant Requirements / Construction_2": "Plant Em All Lv.1",
+  "_images": [
+   "Tentacles.png",
+   "Bucketeers.png",
+   "Marsh_mello.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Darkmode Plants",
+  "_table": 3,
+  "Plant Requirements / Plant_2": "Eggsacks",
+  "Plant Requirements / Base Growth": "1.5q",
+  "Plant Requirements / Construction": "Bucketeers Lv. 1",
+  "Plant Requirements / Plant_4": "Snowlad",
+  "Plant Requirements / Base Growth_2": "600qq",
+  "Plant Requirements / Construction_2": "Plant Em All Lv.1",
+  "_images": [
+   "Eggsacks.png",
+   "Bucketeers.png",
+   "Snowlad.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Darkmode Plants",
+  "_table": 3,
+  "Plant Requirements / Plant_2": "Shrapnil",
+  "Plant Requirements / Base Growth": "9q",
+  "Plant Requirements / Construction": "Bucketeers Lv. 2",
+  "Plant Requirements / Plant_4": "Stem Cells",
+  "Plant Requirements / Base Growth_2": 5,
+  "Plant Requirements / Construction_2": "Plant Em All Lv. 2",
+  "_images": [
+   "Shrapnil.png",
+   "Bucketeers.png",
+   "Stem_cells.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Darkmode Plants",
+  "_table": 3,
+  "Plant Requirements / Plant_2": "Dabberdoo",
+  "Plant Requirements / Base Growth": "35q",
+  "Plant Requirements / Construction": "Bucketeers Lv. 2",
+  "Plant Requirements / Plant_4": "Dank Vine",
+  "Plant Requirements / Base Growth_2": 30,
+  "Plant Requirements / Construction_2": "Plant Em All Lv. 2",
+  "_images": [
+   "Dabberdoo.png",
+   "Bucketeers.png",
+   "Dank_vine.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Darkmode Plants",
+  "_table": 3,
+  "Plant Requirements / Plant_2": "Fourchese",
+  "Plant Requirements / Base Growth": "85q",
+  "Plant Requirements / Construction": "Bucketeers Lv. 2",
+  "Plant Requirements / Plant_3": "​​",
+  "Plant Requirements / Plant_4": "Candypop",
+  "Plant Requirements / Base Growth_2": 199,
+  "Plant Requirements / Construction_2": "Plant Em All Lv. 2",
+  "_images": [
+   "Fourchese.png",
+   "Bucketeers.png",
+   "Candypop2.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Darkmode Plants",
+  "_table": 3,
+  "Plant Requirements / Plant_2": "Sapswing",
+  "Plant Requirements / Base Growth": "200q",
+  "Plant Requirements / Construction": "Bucketeers Lv. 2",
+  "Plant Requirements / Plant_4": "Emoticons",
+  "Plant Requirements / Base Growth_2": "4k",
+  "Plant Requirements / Construction_2": "Plant Em All Lv. 2",
+  "_images": [
+   "Sapswing.png",
+   "Bucketeers.png",
+   "Emoticons.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Darkmode Plants",
+  "_table": 3,
+  "Plant Requirements / Plant_2": "Twisturn",
+  "Plant Requirements / Base Growth": "650q",
+  "Plant Requirements / Construction": "Bucketeers Lv. 2",
+  "Plant Requirements / Plant_3": "​​​",
+  "Plant Requirements / Plant_4": "Camouflage",
+  "Plant Requirements / Base Growth_2": "90k",
+  "Plant Requirements / Construction_2": "Plant Em All Lv. 2",
+  "_images": [
+   "Twisturn.png",
+   "Bucketeers.png",
+   "Camouflage.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Darkmode Plants",
+  "_table": 3,
+  "Plant Requirements / Plant_2": "Corale",
+  "Plant Requirements / Base Growth": "2.5qq",
+  "Plant Requirements / Construction": "Bucketeers Lv. 2",
+  "Plant Requirements / Plant_4": "Glassicle",
+  "Plant Requirements / Base Growth_2": "5m",
+  "Plant Requirements / Construction_2": "Plant Em All Lv. 2",
+  "_images": [
+   "Corale.png",
+   "Bucketeers.png",
+   "Glassicle.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Pot Perks",
+  "_table": 4,
+  "Rank": "-",
+  "Perk": "-",
+  "Bonus": "-",
+  "_images": [
+   "Botany_pot1.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Pot Perks",
+  "_table": 4,
+  "Bonus": "+25% Speed Every Pot Level",
+  "_images": [
+   "Botany_pot2.png",
+   "Farmingrank1.png",
+   "Botanyperk1.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Pot Perks",
+  "_table": 4,
+  "Bonus": "+50% EXP for All Pots",
+  "_images": [
+   "Botany_pot3.png",
+   "Farmingrank2.png",
+   "Botanyperk2.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Pot Perks",
+  "_table": 4,
+  "Bonus": "+1% Speed Every Upgrade Level",
+  "_images": [
+   "Botany_pot4.png",
+   "Farmingrank3.png",
+   "Botanyperk3.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Pot Perks",
+  "_table": 4,
+  "Bonus": "+10 Max Speed Upgrade Levels",
+  "_images": [
+   "Botany_pot5.png",
+   "Farmingrank4.png",
+   "Botanyperk4.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Pot Perks",
+  "_table": 4,
+  "Bonus": "+30% Plant Gain for Every Pot",
+  "_images": [
+   "Botany_pot6.png",
+   "Farmingrank5.png",
+   "Botanyperk5.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Pot Perks",
+  "_table": 4,
+  "Rank": "-",
+  "Perk": "-",
+  "Bonus": "-",
+  "_images": [
+   "Botany_pot7.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Pot Perks",
+  "_table": 4,
+  "Bonus": "+30% Speed for All Pots",
+  "_images": [
+   "Botany_pot8.png",
+   "Farmingrank7.png",
+   "Botanyperk6.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Miracle Grow",
+  "Botany Potions List / Per Level Bonus": "4% Botany Growth Speed",
+  "_images": [
+   "Miracle_grow.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Flower Power",
+  "Botany Potions List / Per Level Bonus": "5% Flowers Gained for All Botany Pots",
+  "_images": [
+   "Flower_power.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Big Farma",
+  "Botany Potions List / Per Level Bonus": "5% Botany EXP",
+  "_images": [
+   "Big_farma.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Exotic Yield",
+  "Botany Potions List / Per Level Bonus": "10% Exotic Flowers",
+  "_images": [
+   "Exotic_yield.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Weed Speed",
+  "Botany Potions List / Per Level Bonus": "10% Botany Growth Speeds",
+  "_images": [
+   "Weed_speed.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Pot Enabler",
+  "Botany Potions List / Per Level Bonus": "1 Max Upgradeable Flower Pot Speed Level (Bonus Increases by 1 Every 3 Levels)",
+  "_images": [
+   "Pot_enabler.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Growgrow",
+  "Botany Potions List / Per Level Bonus": "15% Botany Plants Given",
+  "_images": [
+   "Growgrow.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Hype Jar",
+  "Botany Potions List / Per Level Bonus": "30% Botany EXP Gained",
+  "_images": [
+   "Hype_jar.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Flower Flow",
+  "Botany Potions List / Per Level Bonus": "40% Botany Growth Speed",
+  "_images": [
+   "Flower_flow.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Exotic Mix",
+  "Botany Potions List / Per Level Bonus": "40% Exotic Flowers",
+  "_images": [
+   "Exotic_mix.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Plant Vroom",
+  "Botany Potions List / Per Level Bonus": "50% Botany Plants Given",
+  "_images": [
+   "Plant_vroom.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "More Fast",
+  "Botany Potions List / Per Level Bonus": "1 Max Upgradeable Flower Pot Speed Level (Bonus Increases by 1 Every 2 Levels)",
+  "_images": [
+   "More_fast.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Peak Plant",
+  "Botany Potions List / Per Level Bonus": "100% Botany EXP",
+  "_images": [
+   "Peak_plant.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Salve Labo",
+  "Botany Potions List / Per Level Bonus": "Enigmatic Booster from Smithing Boosts Botany Speed by 2% for Each Craft",
+  "_images": [
+   "Salve_labo.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Plant Vroom",
+  "Botany Potions List / Per Level Bonus": "3% Botany Growth Speed for Every Botany Level",
+  "_images": [
+   "Plant_vroom2.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Redemptsin",
+  "Botany Potions List / Per Level Bonus": "Failing To Get a New Flower Increases New Flower Chance by X% (Only for Highest Plant)",
+  "_images": [
+   "Redemptsin.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "O Cal Masty",
+  "Botany Potions List / Per Level Bonus": "Bonuses of the Mastery Perks Shown Below Are Multiplied by X",
+  "_images": [
+   "O_Cal_Masty.png",
+   "Mastery_fight_3.png",
+   "Mastery_collect_1.png",
+   "Mastery_collect_2.png",
+   "Mastery_collect_3.png",
+   "Mastery_collect_4.png",
+   "Mastery_collect_7.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Gray Drank",
+  "Botany Potions List / Per Level Bonus": "Leveling Up Botany Has a X% Chance to Increase the Value and Speed LVL of All Pots",
+  "_images": [
+   "Gray_Drank.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Badonkadonk",
+  "Botany Potions List / Per Level Bonus": "+X% Ores Every 50 Balls Launched (powered up by Baba Donakka potion)",
+  "_images": [
+   "Badonkadonk.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Certo Fizz",
+  "Botany Potions List / Per Level Bonus": "times X Flower Gain per Cert. Fish Certification Req:Show/Hide table  Fish Amount Fish Amount 24px]] 1 24px]] 1q 24px]] 10 24px]] 10q 24px]] 100 24px]] 100q 24px]] 1k 24px]] 1qq 24px]] 10k 24px]] 10qq 24px]] 100k 24px]] 100qq 24px]] 1m 24px]] 1 24px]] 10m 24px]] 10 24px]] 100m 24px]] 100 24px]] 1b 24px]] 1k 24px]] 10b 24px]] 10k 24px]] 100b 24px]] 100k 24px]] 1t 24px]] 1m 24px]] 10t 24px]] 10m 24px]] 100t 24px]] 100m",
+  "_images": [
+   "Certo_Fizz.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Resoursake",
+  "Botany Potions List / Per Level Bonus": "Ore. Fish. Botany. Potion. Crusade. and Limbo Card Bonuses are Increased to the Power of X",
+  "_images": [
+   "Resoursake.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 5,
+  "Botany Potions List / Potion_2": "Baba Donakka",
+  "Botany Potions List / Per Level Bonus": "Badonkadonk Potion Now Boosts More Things (Fish. Crops. Flowers. Brew Speed. Dmg) Its Boost is Increased to the Power of X (caps at 2)",
+  "_images": [
+   "Baba_Donakka.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 6,
+  "Zone": "Purgatory-10",
+  "Name": "Lava Ooze",
+  "Bonus": "Botany Growth Speed",
+  "col5": "5%",
+  "col6": "25%",
+  "col7": "30%",
+  "_images": [
+   "c_lava_ooze.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 6,
+  "Zone": "Purgatory-19",
+  "Name": "Disciple B",
+  "Bonus": "Botany Speed Upgrades",
+  "col5": 5,
+  "col6": 25,
+  "col7": 30,
+  "_images": [
+   "C_disciple_h.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 6,
+  "Zone": "LunarIsle-9",
+  "Name": "Lunardyl",
+  "Bonus": "Botany Speed Upgrades",
+  "col5": 6,
+  "col6": 30,
+  "col7": 36,
+  "_images": [
+   "9_-_Lunadryl.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 6,
+  "Zone": "LunarIsle-15",
+  "Name": "The Maw",
+  "Bonus": "Botany Growth Speed",
+  "col5": "6%",
+  "col6": "30%",
+  "col7": "36%",
+  "_images": [
+   "15_-_The_Maw.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 6,
+  "Zone": "LunarIsle-22",
+  "Name": "Keymaster MS",
+  "Bonus": "Overgrowth Time Redux",
+  "col5": "8%",
+  "col6": "40%",
+  "col7": "48%",
+  "_images": [
+   "22_-_Keymaster_MS.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 6,
+  "Zone": "Oblivion-14",
+  "Name": "Concubine",
+  "Bonus": "Botany Growth Speed",
+  "col5": "15%",
+  "col6": "75%",
+  "col7": "90%",
+  "_images": [
+   "C_concubine.png"
+  ]
+ },
+ {
+  "_page": "Botany",
+  "_section": "Other",
+  "_table": 6,
+  "Zone": "Emigdala-3",
+  "Name": "Emigdala X",
+  "Bonus": "Botany Growth Speed (passive)",
+  "col5": "15%",
+  "col6": "300%",
+  "col7": "810%",
+  "_images": [
+   "Card_Emigdala-X.png"
+  ]
+ }
+]

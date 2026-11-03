@@ -1,0 +1,140 @@
+{| class="article-table" border="1" align="center"
+|-
+! scope="col" style="text-align: center;" |Desert Giant
+! colspan="8" scope="col" style="text-align: center;" |Unlocks at Level 15
+|-
+| rowspan="2" |[[File:Desert_giant.png]]
+| colspan="2" |[[File:Monoclesius.png|center]]
+| colspan="2" |[[File:Teassius.png|center]]
+| colspan="2" |[[File:Cactaurus.png|center]]
+| colspan="2" |[[File:Canesius.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Monoclesius
+| colspan="2" |Teassius
+| colspan="2" |Cactaurus
+| colspan="2" |Canesius
+|-
+! style="text-align: center;" |Tier
+| colspan="2" |[[File:Tier1skull.png|center|40px]]
+| colspan="2" |[[File:Tier2skull.png|center|40px]]
+|[[File:Tier3skull.png|center|40px]]
+|[[File:Tier4skull.png|center|40px]]
+|[[File:Tier5skull.png|center|40px]]
+|[[File:Tier6skull.png|center|40px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Defense
+| colspan="2" |15
+| colspan="2" |47
+|316
+|2130
+|14K
+|96K
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |133M
+| colspan="2" |592M
+|22B
+|996B
+|41T
+|1Q
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |25K
+| colspan="2" |59K
+|384K
+|2.9M
+|22M
+|156M
+|-
+! scope="col" style="text-align: center;" |Pincermin
+! colspan="8" scope="col" style="text-align: center;" |Unlocks at Level 20
+|-
+| rowspan="2" |[[File:Pincermin.png]]
+| colspan="2" |[[File:Blade_row.png|center]]
+| colspan="2" |[[File:White_p_hat.png|center]]
+| colspan="2" |[[File:Spike_o_nut.png|center]]
+| colspan="2" |[[File:Pinch_buggo.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Blade Row
+| colspan="2" |White P Hat
+| colspan="2" |Spike O Nut
+| colspan="2" |Pinch Buggo
+|-
+! style="text-align: center;" |Tier
+| colspan="2" |[[File:Tier1skull.png|center|40px]]
+| colspan="2" |[[File:Tier2skull.png|center|40px]]
+|[[File:Tier3skull.png|center|40px]]
+|[[File:Tier4skull.png|center|40px]]
+|[[File:Tier5skull.png|center|40px]]
+|[[File:Tier6skull.png|center|40px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Defense
+| colspan="2" |35
+| colspan="2" |109
+|738
+|4971
+|33K
+|225K
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |333M
+| colspan="2" |1.6B
+|68B
+|3.1T
+|139T
+|5Q
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |50K
+| colspan="2" |135K
+|906K
+|7.1M
+|54M
+|396M
+|-
+! scope="col" style="text-align: center;" |Desert Wurm
+! colspan="8" scope="col" style="text-align: center;" |Unlocks at Level 30
+|-
+| rowspan="2" |[[File:Desert_wurm.png]]
+| colspan="2" |[[File:Babby_wurm.png|center]]
+| colspan="2" |[[File:Scorpy_wurm.png|center]]
+| colspan="2" |[[File:Vampy_wurm.png|center]]
+| colspan="2" |[[File:Tubby_wurm.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Babby Wurm
+| colspan="2" |Scorpy Wurm
+| colspan="2" |Vampy Wurm
+| colspan="2" |Tubby Wurm
+|-
+! style="text-align: center;" |Tier
+| colspan="2" |[[File:Tier1skull.png|center|40px]]
+| colspan="2" |[[File:Tier2skull.png|center|40px]]
+|[[File:Tier3skull.png|center|40px]]
+|[[File:Tier4skull.png|center|40px]]
+|[[File:Tier5skull.png|center|40px]]
+|[[File:Tier6skull.png|center|40px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Defense
+| colspan="2" |120
+| colspan="2" |376
+|2533
+|17K
+|114K
+|771K
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |0.9B
+| colspan="2" |6.3B
+|251B
+|11T
+|476T
+|19Q
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |300K
+| colspan="2" |732K
+|5M
+|41M
+|328M
+|2.4B
+|}

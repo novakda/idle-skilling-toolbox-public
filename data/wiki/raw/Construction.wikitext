@@ -1,0 +1,302 @@
+{{Header/Tunneling}}
+==Domains==
+The main part of the Construction screen is the four Domains, guarded by their respective Sentinels. When you present each Sentinel the treasure he asks for, he will allow you to build a variety of upgrades in his Domain. Pay the cost and assign Builders to build an upgrade and unlock new ones.
+===Yellow Domain===
+[[File:sentinel_yellow.png|100px]]You must present 5 [[File:T_coin.png|25px]] ([[Spelunking|Treasure]] no.1) to the Sentinel to unlock this Domain.
+{| class="article-table"
+! colspan="2" scope="col" style="width: 80px;" style="text-align:center;"|'''Upgrade'''
+! scope="col" style="text-align:center;"|'''Effect'''
+! scope="col" style="width: 80px;"|'''Prerequisite '''
+! scope="col" style="text-align:center;"|'''Max Lvl'''
+|-
+| '''Builder Bros'''
+| [[File:Builder_bros.png|50px]]
+| +(1-9) Builders
+| style="text-align:center;"| -
+| style="text-align:center;"|9
+|-
+| '''Sitty Chair'''
+| [[File:Sitty_chair.png|50px]]
+| +(2*lvl)% Spelunker Speed and gives Construction Exp per hour
+| Builder Bros
+| style="text-align:center;"| 100
+|-
+| '''Mining Mind'''
+| [[File:Mining_mind.png|50px]]
+| Every 20 Mining levels multiplies ore gain by 1+(.022*lvl) times
+| Builder Bros
+| style="text-align:center;"| 32
+|-
+| '''Machinery'''
+| [[File:Machinery.png|50px]]
+| +(1-8) Machines
+| Mining Mind
+| style="text-align:center;"| 8
+|-
+| '''Spliney Shoe'''
+| [[File:Spliney_shoes.png|50px]]
+| +(10*lvl)% damage per luck lvl of all [[spiriting]] skillers
+| Machinery
+| style="text-align:center;"| 40
+|-
+| '''Hyper Bricks'''
+| [[File:Hyper_bricks.png|50px]]
+| [[Summoning|Rifts]] get a 1.5X multiplicative bonus to its XP gain per brick
+| Spliney Shoe
+| style="text-align:center;" | 30
+|-
+| '''Foil Cards'''
+| [[File:Foil_cards.png|50px]]
+| Turn in a full set of 5 star [[cards]] to increase the max level of those cards to 6
+[note: you lose the cards upon finishing the upgrade]
+| Machinery
+| style="text-align:center;"| 10
+|-
+| '''Pink Printer'''
+| [[File:Pink_printer.png|50px]]
+| Lets you convert white souls to pink souls at a rate of X to 1
+| Foil Cards
+| style="text-align:center;"| 5
+|-
+| '''Rift Pro'''
+| [[File:Rift_pro.png|50px]]
+| Adds an alternate bonus to a rift
+| Pink Printer
+| style="text-align:center;"| 5
+|-
+| '''Voyage Pact'''
+| [[File:Voyage_pact.png|50px]]
+| Grants access to [[Crusades]] 14 and 15
+| Rift Pro
+| style="text-align:center;"| 1
+|}
+===Blue Domain===
+[[File:sentinel_blue.png|100px]]You must present 3 [[File:T_music_note.png|25px]] ([[Spelunking|Treasure]] no.8) to the Sentinel to unlock this Domain.
+{| class="article-table"
+! colspan="2" scope="col" style="width: 80px;" style="text-align:center;"|'''Upgrade'''
+! scope="col" style="text-align:center;"|'''Effect'''
+! scope="col" style="width: 80px;"|'''Prerequisite '''
+! scope="col" style="text-align:center;"|'''Max Lvl'''
+|-
+| '''Dirts Ahoy'''
+| [[File:Dirts_ahoy.png|50px]]
+| 5/10 new crops unlocked
+| style="text-align:center;"| -
+| style="text-align:center;"| 2
+|-
+| '''Iron Throne'''
+| [[File:Iron_throne_construction.png|50px]]
+| +(2*lvl)% Construction Speed and gives Construction Exp per hour
+| Dirts Ahoy
+| style="text-align:center;"| 100
+|-
+| '''Bucketeers'''
+| [[File:Bucketeers.png|50px]]
+| 6/12 new flowers unlocked
+| Dirts Ahoy
+| style="text-align:center;"| 2
+|-
+| '''Brew Laddy'''
+| [[File:Brew_laddy.png|50px]]
+| 3/6/9/12 new potions unlocked
+| Bucketeers
+| style="text-align:center;"| 4
+|-
+| '''Mach Speed'''
+| [[File:Mach_speed.png|50px]]
+| X% faster machine conversion rate
+| Brew Laddy
+| style="text-align:center;"| 20
+|-
+| '''Tink Time'''
+| [[File:Tink_time.png|50px]]
+| Gives a 3rd stat line to the first (1-10) items in the [[Tinkering|weapon]], helmet, and shirt categories of tinkering items
+| Mach Speed
+| style="text-align:center;"| 10
+|-
+| '''Smithy Cert'''
+| [[File:Smithy_cert.png|50px]]
+| 2/4/6/8 new [[Smithing|crafts]] unlocked
+| Tink Time
+| style="text-align:center;"| 4
+|-
+| '''Foil Bosses'''
+| [[File:Foil_bosses.png|50px]]
+|Turn in a full set of 5 star cards to increase the max level of those cards to 6
+[note: you lose the cards upon finishing the upgrade]
+| Smithy Cert
+| style="text-align:center;"| 8
+|-
+| '''Rift God'''
+| [[File:Rift_god.png|50px]]
+| Adds an alternate bonus to a rift
+| Foil Bosses
+| style="text-align:center;"| 4
+|}
+===Green Domain===
+[[File:sentinel_green.png|100px]]You must present 8 [[File:T_irish_clover.png|25px]] ([[Spelunking|Treasure]] no.15) to the Sentinel to unlock this Domain.
+{| class="article-table"
+! colspan="2" scope="col" style="width: 80px;" style="text-align:center;"|'''Upgrade'''
+! scope="col" style="text-align:center;"|'''Effect'''
+! scope="col" style="width: 80px;"|'''Prerequisite '''
+! scope="col" style="text-align:center;"|'''Max Lvl'''
+|-
+| '''Ni Ni Shrubbery'''
+| [[File:Ni_ni_shrubbery.png|50px]]
+| +(0.75*lvl)% Learning Speed and gives Construction Exp per hour
+| style="text-align:center;" | '''Brew Man'''
+| style="text-align:center;"| 100
+|-
+| '''Brew Man'''
+| [[File:Brew_man.png|50px]]
+| 3/6/9/12 new potions unlocked
+| - 
+| style="text-align:center;"| 4
+|-
+| '''Big Boy Bags'''
+| [[File:Big_boy_bags.png|50px]]
+| +(1-?) treasure per bag
+| Brew Man
+| style="text-align:center;"| 9
+|-
+| '''Croppy Notes'''
+| [[File:Croppy_notes.png|50px]]
+| 5/10 new crops unlocked
+| Big Boy Bags
+| style="text-align:center;"| 4
+|-
+| '''Plant Em All'''
+| [[File:Plant_em_all.png|50px]]
+| 6/12 new flowers unlocked
+| Croppy Notes
+| style="text-align:center;"| 2
+|-
+| '''Hammer Time'''
+| [[File:Hammer_time_construction.png|50px]]
+| 2/4/6/8 new crafts unlocked
+| Plant Em All
+| style="text-align:center;"| 4
+|-
+| '''Brew Maestro'''
+| [[File:Brew_maestro.png|50px]]
+| 3/6/9/12 new potions unlocked
+| Hammer Time
+| style="text-align:center;"| 4
+|-
+| '''Boostio'''
+| [[File:Boostio.png|50px]]
+| Boosters now have a (3*lvl)% chance to apply a Y% higher boost [Note: Y scales with highest boost lvl]
+| Hammer Time
+| style="text-align:center;"| 20
+|-
+| '''Tinkolicious'''
+| [[File:Tinkolicious.png|50px]]
+| Gives a 3rd stat line to the first (1-10) items in the pants, offhand, and pendant categories of tinkering items
+| Boostio
+| style="text-align:center;"| 10
+|-
+| '''BOGO Offer'''
+| [[File:Bogo_offer.png|50px]]
+| Applies a 35% cost reduction to potion brewing (lvl) times (multiplicative)
+| Tinkolicious
+| style="text-align:center;"| 25
+|}
+===Red Domain===
+[[File:sentinel_red.png|100px]]You must present 5 [[File:T_blobbish.png|25px]] ([[Spelunking|Treasure]] no.22) to the Sentinel to unlock this Domain.
+{| class="article-table"
+! colspan="2" scope="col" style="width: 80px;" style="text-align:center;"|'''Upgrade'''
+! scope="col" style="text-align:center;"|'''Effect'''
+! scope="col" style="width: 80px;"|'''Prerequisite '''
+! scope="col" style="text-align:center;"|'''Max Lvl'''
+|-
+| '''Mama Mia'''
+| [[File:Mama_mia.png|50px]]
+| Every 20 Apothecary levels multiplies cauldron brew speed by 1.X times
+| style="text-align:center;"| -
+| style="text-align:center;"|30
+|-
+| '''Chandelier'''
+| [[File:Chandelier_construction.png|50px]]
+| Gives Construction Exp per hour
+| Mama Mia
+| style="text-align:center;"|100
+|-
+| '''Brew Bobby'''
+| [[File:Brew_bobby.png|50px]]
+| 3/6/9/12 new potions unlocked
+| Mama Mia
+| style="text-align:center;"|4
+|-
+| '''Gattaca'''
+| [[File:Gattaca.png|50px]]
+|
+Permanently gives an additional gene toward your trekking combos. Total:
+
+[[File:Genetic_Perception.png|20px]][[File:Genetic_Swiftness.png|20px]][[File:Genetic_Loot.png|20px]][[File:Genetic_Enthusiasm.png|20px]][[File:Genetic_Genesis.png|20px]][[File:Genetic_Respawn.png|20px]][[File:Genetic_Abominable.png|20px]]
+|Brew Bobby
+| style="text-align:center;"|7
+|-
+| '''Anotha One'''
+| [[File:Anotha_one.png|50px]]
+| +1/2/3 max boost slots for Tinkering equips
+|Gattaca
+| style="text-align:center;"|3
+|-
+| '''Prosperity'''
+| [[File:Prosperity.png|50px]]
+| Afterlife Minions make (lvl*0.15?) more Coins
+| Anotha One
+| style="text-align:center;"|10
+|-
+| '''Kilowater'''
+| [[File:Kilowater.png|50px]]
+| +X% Cash and Damage per H2O lvl above 1000
+| Prosperity
+| style="text-align:center;"|50
+|-
+| '''Repentance'''
+| [[File:Repentance.png|50px]]
+| Randomly Get Away Time in Afterlife Based on Skulls lvl
+| Kilowater
+| style="text-align:center;"|10
+|-
+| '''Juiced Up'''
+| [[File:Juiced_up.png|50px]]
+| +X% Ores, Fish, Crops and Flowers per H2O lvl above 1000
+| Repentance
+| style="text-align:center;"|50
+|-
+| '''Stoicism'''
+| [[File:Stoicism.png|50px]]
+| +X% More Spirals when resetting in the Afterlife
+| Juiced Up
+| style="text-align:center;"|10
+|-
+| '''Fury'''
+| [[File:Fury.png|50px]]
+| Your minions do +1.01X more dmg per afterlife reached. (1.1X cap)
+| Stoicism
+| style="text-align:center;"|10
+|}
+=='''Builders'''==
+
+Start with 1 Builder, unlocking additional ones with Builder Bros construction in Yellow Domain, up to 10. However, by purchasing Iodized Builders, not only can existing Builders be improved, but also new ones can be bought, omitting the construction.
+
+The following is a list of ways to improve Builder speed:
+* Upgrading Builders
+* Iodized Builders ([[Gem Shop]] purchase)
+* Iron Throne (construction, Blue Domain)
+* Cards (several Spelunking cards (Candle, Geode), Bro of Some (Crusade 15), Vertigo (Oblivion))
+* Attack Speed Pro Rift (6th Pro Rift unlocked via construction)
+* Irradiated Builders ([[Smithing/Gaxial|Gaxial smithing]], only affects Iodized Builders)
+* Hammer Time ([[Spelunking]], learning perk 14)
+Finally, builders get a +2% build speed bonus per construction level (Iodized builders get 10%). Therefore, anything that provides a construction experience boost provides a second-hand boost to construction speed.
+==Machines==
+Machines are unlocked with Machinery construction in Yellow Domain, up to 8. Input a treasure and choose an output treasure to convert higher tier treasures into a lower tier. The ratio of conversion is 1:3 per tier, which means if you place 1 Ore Vein, you can get 3 Coins. If you place 1 Crown, you can get 3 Ore Veins or 9 Coins, etc. With Pink Printer construction you can also make Pink Souls from White Souls with a rate of conversion listed on the upgrade.
+
+The following is a list of ways to improve the conversion speed of Machines:
+*Upgrading Machines with treasures
+*Mach Speed ([[#Blue_Domain|Blue Domain - Construction]])
+*Spelunking Cards (Champ Cup, Ruby)
+*Hybriseed ([[Apothecary#Brew_Man|9th Bew Man Darkmode potion in Apothecary]], unlocked via [[#Green_Domain|Brew Man - Green Domain - Construction]]).
+*Attack Speed Pro Rift ([[Summoning#Pro_Rifts|6th Pro Rift]], unlocked via [[#Blue_Domain|Rift God - Blue Domain - Construction]]).

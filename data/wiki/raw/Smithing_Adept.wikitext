@@ -1,0 +1,74 @@
+{| class="listing sortable" border="0" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Effluvium_trinket.png|center]]
+| style="text-align: center;" |30
+|Effluvium Trinket
+| +2%
+| Damage
+|[[File:Effluvium.png|center]]
+|[[File:Yellow_fin_tuna.png|center]]
+|-
+|[[File:Stabby_thing.png|center]]
+| style="text-align: center;" |30
+|Stabby Thing
+| +50
+| Base Damage
+|[[File:Effluvium.png|center]]
+|[[File:Sword_fish.png|center]]
+|-
+|[[File:Angler_cuts.png|center]]
+| style="text-align: center;" |30
+|Angler Cuts
+| +50
+| HP Every Bite
+|[[File:Angler_fish.png|center]]
+|[[File:Lobster.png|center]]
+|-
+|[[File:Plunder_meister.png|center]]
+| style="text-align: center;" |30
+|Plunder Meister
+| +6%
+| Cash from Enemies
+|[[File:Effluvium.png|center]]
+|[[File:Puffer_fish.png|center]]
+|-
+|[[File:Rapid_reps.png|center]]
+| style="text-align: center;" |30
+|Rapid Reps
+| +1%
+| Rep Speed (caps at 50k crafts)
+|[[File:Antimatter.png|center]]
+|[[File:Bonefish.png|center]]
+|-
+|[[File:Effluvium_armor.png|center]]
+| style="text-align: center;" |30
+|Effluvium Armor
+| -0.1%
+| Monster Damage
+|[[File:Effluvium.png|center]]
+|[[File:Chainmailfish.png|center]]
+|-
+|[[File:Void_mining_kit.png|center]]
+| style="text-align: center;" |30
+|Void Mining Kit
+| +25%
+| Ores Mined
+|[[File:Antimatter.png|center]]
+|[[File:Blue_shark.png|center]]
+|-
+|[[File:Face stompers.png|center]]
+| style="text-align: center;" |30
+|Facestompers
+| +1.5%
+| Idle Attack Damage
+|[[File:Antimatter.png|center]]
+|[[File:Pink_swordfish.png|center]]
+|}
+[[Category:Smithing]]

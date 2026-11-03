@@ -1,0 +1,13 @@
+title: $:/is/ui/ViewTemplate/source
+tags: $:/tags/ViewTemplate
+list-after: $:/core/ui/ViewTemplate/body
+
+<%if [<currentTiddler>has[source]] %>
+<div class="is-source">
+From <a class="tc-tiddlylink-external" href={{!!source}} target="_blank" rel="noopener noreferrer">this page on the Idle Skilling Fandom wiki</a>
+(<a class="tc-tiddlylink-external" href={{{ [{!!source}addsuffix[?action=history]] }}} target="_blank" rel="noopener noreferrer">history and authors</a>)
+· text <a class="tc-tiddlylink-external" href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a>
+<%if [<currentTiddler>has[wiki-modified]] %>· last wiki edit <$text text={{{ [{!!wiki-modified}split[T]first[]] }}}/><%endif%>
+· unofficial mirror, [[about|About this mirror]]
+</div>
+<%endif%>

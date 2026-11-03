@@ -1,0 +1,1094 @@
+The mastery tree is accessible from the [[Portal]] Menu.
+
+==Mastery Tasks==
+There are 10 sets of 20 tasks. Every set unlocks with its corresponding [[Fight|Zone]] and this is when you can begin to complete its Tasks - any action done earlier does not count. Every completed task gives you a quantity of mastery points varying on the set. The maximum number of points one can earn is 1100.
+=== SET 1 (Desert) ===
+{| class="article-table mw-collapsible mw-collapsed" border="1" style="width: 100%;"|
+! colspan="3" style="text-align: center;"| 1 Mastery Point per Task
+|-
+! style="text-align: center;"| Task
+! style="text-align: center;"| Screen
+! style="text-align: center;"| Comments
+|-
+|Open up the mastery task list
+|[[File:Mastery_Icon.png|40px]]
+|
+|-
+|Defeat A monster... Literally
+|[[File:Fight_icon.png|40px]]
+|2-24: A Monster (24th monster of zone 2)
+|-
+|Mine Gold with miner 2
+|[[File:Mining_icon.png|40px]]
+|
+|-
+|Hire the 3rd endurance skiller
+|[[File:Gym_icon.png|40px]]
+|
+|-
+|Complete a medium contract
+|[[File:Contracts_icon.png|40px]]
+|
+|-
+|Successfully boost an equipment
+|[[File:Boosters_icon.png|40px]]
+|
+|-
+|Upgrade the 2nd rift
+|[[File:Summoning_icon.png|40px]]
+|
+|-
+|Get a gold reward in the arcade
+|[[File:Arcade_Icon.png|40px]]
+|
+|-
+|Have a 3 star monkey card
+|[[File:Cards_icon.png|40px]]
+|1-10: Monkey (10 monster of 1st zone)
+|-
+|Defeat the Defiled King
+|[[File:Raids_icon.png|40px]]
+|
+|-
+|Reach last grasslands glitch
+|[[File:Fight_icon.png|40px]]
+|Not Qoxzul, but Glitch 1-84.
+|-
+|Craft some Jellyfish Noodles
+|[[File:Smithing_icon.png|40px]]
+|
+|-
+|Set cultist B to orange souls
+|[[File:Spiriting_icon.png|40px]]
+|
+|-
+|Catch a boot 60 seconds after ascend
+|[[File:Fishing_icon.png|40px]]
+|
+|-
+|Get a bronze skull on Bored Bean
+|[[File:Fight_icon.png|40px]]
+|1-12: Bored Bean (12th monster of zone 1), 100k kills
+|-
+|Defeat the Toxic Sludge
+|[[File:Crusades_icon.png|40px]]
+|Second crusade boss
+|-
+|Upgrade benching to Lv. 30 speed
+|[[File:Gym_icon.png|40px]]
+|1st skiller of Gym.
+|-
+|Hatch a bear
+|[[File:Hatchery_icon.png|40px]]
+|And keep it.
+|-
+|Get H2O damage ascension perk to Lv. 19
+|[[File:Ascension_icon.png|40px]]
+|
+|-
+|Collect all grassland cards
+|[[File:Cards_icon.png|40px]]
+|Don't forget Qoxzul's one, after glitches. (he is not needed for this)
+|}
+
+=== SET 2 (Mountain) ===
+{| class="article-table mw-collapsible mw-collapsed" border="1" style="width: 100%;"|
+! colspan="3" style="text-align: center;"| 2 Mastery Points per Task
+|-
+!Task
+!Screen
+!Comments
+|-
+|Hatch a bronze egg & keep the pet.
+|[[File:Hatchery_icon.png|40px]]
+|
+|-
+|Craft a Lava Liver
+|[[File:Smithing_icon.png|40px]]
+|Requires level 20 smithing.
+|-
+|Stare at me for 92 seconds
+|[[File:Mastery_Icon.png|40px]]
+|Just put away your device for a minute.
+|-
+|Equip viking horns
+|[[File:Tinkering_icon.png|40px]]
+|
+|-
+|Survive Killer Rabbit for 60 seconds
+|[[File:Crusades_icon.png|40px]]
+|Make sure to set it to difficulty 1 before trying.
+|-
+|Collect a green soul
+|[[File:Spiriting_icon.png|40px]]
+|
+|-
+|Own 100 Raid tickets at once
+|[[File:Raids_icon.png|40px]]
+|
+|-
+|Mine Firesalt on miner 3
+|[[File:Mining_icon.png|40px]]
+|
+|-
+|
+Defeat the 2 Face Sentinel
+|[[File:Raids_icon.png|40px]]
+|
+|-
+|Upgrade starting Mining Lv. to 13
+|[[File:Raids_icon.png|40px]]
+|
+|-
+|Upgrade Swordsman to Lv.70 value
+|[[File:Dojo_icon.png|40px]]
+|
+|-
+|Buy a contract shop 1 upgrade
+|[[File:Contracts_icon.png|40px]]
+|
+|-
+|Reach Gold Bloque in vault
+|[[File:Fight_icon.png|40px]]
+|
+This is in Vault 1 (Grasslands)
+|-
+|Have a 4 star Mimic card
+|[[File:Cards_icon.png|40px]]
+|2-19: Mimic (19th monster of 2nd zone)
+|-
+|Open a valve to a red tank
+|[[File:Research_icon.png|40px]]
+|3rd tier of tanks
+|-
+|Defeat the final desert glitch
+|[[File:Fight_icon.png|40px]]
+|Glitch 2-71
+|-
+|Catch a shark
+|[[File:Fishing_icon.png|40px]]
+|Medium tier fish
+|-
+|This one's on the house buddy
+|[[File:Mastery_Icon.png|40px]]
+|This one is autocompleted on set unlock
+|-
+|Own more than 42 gems at once
+|[[File:Gems_icon.png|40px]]
+|
+|-
+|Collect the King X card
+|[[File:Cards_icon.png|40px]]
+|
+|}
+
+=== SET 3 (Mist) ===
+{| class="article-table mw-collapsible mw-collapsed" border="1" style="width: 100%;"|
+! colspan="3" style="text-align: center;"| 3 Mastery Points per Task
+|-
+!Task
+!Screen
+!Comments
+|-
+|Defeat the final mountain glitch
+|[[File:Fight_icon.png|40px]]
+|Glitch 3-52
+|-
+|Upgrade feaster to Lv. 75 speed
+|[[File:Fields_icon.png|40px]]
+|4th trainer on field
+|-
+|Mine 1b ore in total
+|[[File:Mining_icon.png|40px]]
+|
+|-
+|Own 50k AP at once
+|[[File:Ascension_icon.png|40px]]
+|
+|-
+|Reach the jungle in trekking
+|[[File:Trekking_icon.png|40px]]
+|
+|-
+|Get an elite reward from arcade
+|[[File:Arcade_Icon.png|40px]]
+|Purple Level Reward
+|-
+|Have a 3 star mist mites card
+|[[File:Cards_icon.png|40px]]
+|
+|-
+|Get a 3x potion Lv. Up
+|[[File:Brewing_icon.png|40px]]
+|
+|-
+|Craft broken dagger to Lv.100
+|[[File:Smithing_icon.png|40px]]
+|
+|-
+|Catch a jumbo Shrimp
+|[[File:Fishing_icon.png|40px]]
+|
+|-
+|Defeat Pincermin
+|[[File:Crusades_icon.png|40px]]
+|
+|-
+|Use a candy on smithing LOL
+|[[File:Candy_icon.png|40px]]
+|
+|-
+|Hatch a slime with 2 HP genes
+|[[File:Hatchery_icon.png|40px]]
+|
+|-
+|Equip the Flame Dagger
+|[[File:Tinkering_icon.png|40px]]
+|T3 offhand weapon.
+|-
+|Unlock the 4th rift
+|[[File:Summoning_icon.png|40px]]
+|
+|-
+|Defeat Emigdala in the Asylum
+|[[File:Asylum_Icon.png|40px]]
+|
+|-
+|Be blessed by deaths son
+|[[File:Secrets_icon.png|40px]]
+|
+|-
+|Find the lord of the flies
+|[[File:Secrets_icon.png|40px]]
+|
+|-
+|Get 25 gems from hoops in 1 day
+|[[File:Hoops_icon.png|40px]]
+|
+|-
+|Ascend within 5 minutes of ascending
+|[[File:Ascension_icon.png|40px]]
+|
+|}
+
+=== SET 4 (Dungeon) ===
+{| class="article-table mw-collapsible mw-collapsed" border="1" style="width: 100%;"|
+! colspan="3" style="text-align: center;"| 4 Mastery Points per Task
+|-
+!Task
+!Screen
+!Comments
+|-
+|Get a 9 gene combo in trekking
+|[[File:Trekking_icon.png|40px]]
+|
+|-
+|Get threatened by little lava
+|[[File:Portal_icon.png|40px]]
+|Talk to little lava until he threatens you... (can take quite a long time)[[File:Threaten portal mini lava.jpg|220x220px]]
+|-
+|Get a gold skull on Zombie BOB
+|[[File:Fight_icon.png|40px]]
+|2-22: Zombie BOB (22nd monster of zone 2)
+|-
+|Grow a plant to OG 16
+|[[File:Farming_icon.png|40px]]
+|(OG: OverGrowth)
+|-
+|Defeat Occulon
+|[[File:Asylum_Icon.png|40px]]
+|
+|-
+|Complete an Ungodly contract
+|[[File:Contracts_icon.png|40px]]
+|Tier 7 Contracts, unlocked with Rebirth.
+|-
+|Equip the ancient Skirt
+|[[File:Tinkering_icon.png|40px]]
+|Bottom row T4 pants.
+|-
+|Defeat Demon Z in 1 second
+|[[File:Raids_icon.png|40px]]
+|
+|-
+|Use a 72 hours candy
+|[[File:Candy_icon.png|40px]]
+|
+|-
+|Brew a cyan potion in cauldron 5
+|[[File:Brewing_icon.png|40px]]
+|
+|-
+|Reach the final Dungeon Noob
+|[[File:Fight_icon.png|40px]]
+|Noob 5-56 (56th monster of zone 5)
+|-
+|Boost an equipment to 250%
+|[[File:Boosters_icon.png|40px]]
+|
+|-
+|Hatch a pencil
+|[[File:Hatchery_icon.png|40px]]
+|And keep it until returning to the Mastery screen.
+|-
+|Defeat difficulty 50 Faust
+|[[File:Crusades_icon.png|40px]]
+|
+|-
+|Get trips in the arcade cardgame
+|[[File:Arcade_Icon.png|40px]]
+|
+|-
+|Get a white soul
+|[[File:Spiriting_icon.png|40px]]
+|
+|-
+|Use the haste buff
+|[[File:Fight_icon.png|40px]]
+|Unlocked by talking to mini-lava on portals.
+|-
+|Upgrade Streetz to Lv.100 speed
+|[[File:Dojo_icon.png|40px]]
+|Last trainer of dojo.
+|-
+|Fish up the great clam
+|[[File:Secrets_icon.png|40px]]
+|Fisherman's secret.
+|-
+|Till Yolk 5 minutes after rebirthing
+|[[File:Tilling_icon.png|40px]]
+|Egg Yolk is the orange cabbage, 10th crop.
+|}
+
+=== SET 5 (Purgatory) ===
+{| class="article-table mw-collapsible mw-collapsed" border="1" style="width: 100%;"|
+! colspan="3" style="text-align: center;"| 5 Mastery Points per Task
+|-
+!Task
+!Screen
+!Comments
+|-
+|Turn your H2O bar green
+|[[File:Train_icon.png|40px]]
+|Reach Lv.100 H2O
+|-
+|Collect all desert cards
+|[[File:Cards_icon.png|40px]]
+|
+|-
+|Defeat difficulty 70 puppeteer
+|[[File:Crusades_icon.png|40px]]
+|
+|-
+|Complete set 1 arcade tasks
+|[[File:Arcade_Icon.png|40px]]
+|Bronze set
+|-
+|Craft platinum trinket to Lv.10k
+|[[File:Smithing_icon.png|40px]]
+|Wait for smith break
+|-
+|Earn 10b H2O exp. per minute
+|[[File:Train_icon.png|40px]]
+|Hit the Totals button on any of the train screens. 
+|-
+|Own 250b Dirt
+|[[File:Tilling_icon.png|40px]]
+|
+|-
+|Defeat Scallius
+|[[File:Asylum_Icon.png|40px]]
+|
+|-
+|Get a divine reward from arcade
+|[[File:Arcade_Icon.png|40px]]
+|Red Tier Reward
+|-
+|Mine Anodizia with miner 2
+|[[File:Mining_icon.png|40px]]
+|18th ore, needs 9th tier BP purchase.
+|-
+|Tap on the long green arrow
+|[[File:Help_icon.png|40px]]
+|Help - Smithing tab
+|-
+|Survive Arachneon for 60 seconds
+|[[File:Crusades_icon.png|40px]]
+|Make sure to set it to difficulty 1 before trying.
+|-
+|Reach the willows in trekking
+|[[File:Trekking_icon.png|40px]]
+|
+|-
+|Find the tiny civilization
+|[[File:Secrets_icon.png|40px]]
+|
+|-
+|Grow the final botany plant
+|[[File:Farming_icon.png|40px]]
+|The Sunburst
+|-
+|Upgrade a shrine to Lv.35
+|[[File:Asylum_Icon.png|40px]]
+|
+|-
+|Get plasma cash (green money)
+|[[File:Fight_icon.png|40px]]
+|(plasma cash: green money, 2nd tier)
+|-
+|Equip the blood screamer
+|[[File:Tinkering_icon.png|40px]]
+|Top row T5 mainhand weapon.
+|-
+|Get cauldron 1 to 200k speed
+|[[File:Brewing_icon.png|40px]]
+|
+|-
+|Set Acolyte H to white souls
+|[[File:Spiriting_icon.png|40px]]
+|
+|}
+
+=== SET 6 (The Bog) ===
+{| class="article-table mw-collapsible mw-collapsed" border="1" style="width: 100%;"|
+! colspan="3" style="text-align: center;"| 6 Mastery Points per Task
+|-
+!Task
+!Screen
+!Comments
+|-
+|Get rift rift to Lv.70
+|[[File:Summoning_icon.png|40px]]
+|
+|-
+|Invest 1m RP in green tanks
+|[[File:Research_icon.png|40px]]
+|
+|-
+|Have an idle speed of 0.02 seconds
+|[[File:Fight_icon.png|40px]]
+|Make sure to remove some levels of heavy cash.
+|-
+|Boost an equipment to 750%
+|[[File:Boosters_icon.png|40px]]
+|
+|-
+|Get plasma cash from 1 kill
+|[[File:Fight_icon.png|40px]]
+|(plasma cash: green money, 2nd tier)
+|-
+|Have over 10k% shields
+|[[File:Fight_icon.png|40px]]
+|Canned Shield Potion helps the most
+|-
+|Hatch a 2* rad gene shroom
+|[[File:Hatchery_icon.png|40px]]
+|
+|-
+|Get All dungeon cards to 5 star
+|[[File:Cards_icon.png|40px]]
+|
+|-
+|Ascend within 1 minute of ascending
+|[[File:Ascension_icon.png|40px]]
+|
+|-
+|Defeat difficulty 75 Narcissus
+|[[File:Crusades_icon.png|40px]]
+|
+|-
+|Collect 10k crusade candy
+|[[File:Crusades_icon.png|40px]]
+|Last loot of Blobulytes.
+|-
+|Defeat Gorshank
+|[[File:Asylum_Icon.png|40px]]
+|
+|-
+|Get a diamond skull on Mudnut 1
+|[[File:Fight_icon.png|40px]]
+|100m kills on 7-1: Mudnut 1 (1st monster of zone 7)
+|-
+|Equip the divination eye
+|[[File:Tinkering_icon.png|40px]]
+|Top row T5 necklace.
+|-
+|Have 200 total crusaders
+|[[File:Crusades_icon.png|40px]]
+|
+|-
+|Brew a god potion in cauldron 6
+|[[File:Brewing_icon.png|40px]]
+|
+|-
+|Get endurance to Lv.300
+|[[File:Train_icon.png|40px]]
+|
+|-
+|Get the emigdala X card
+|[[File:Cards_icon.png|40px]]
+|
+|-
+|Get 500b cash from a Mushroom
+|[[File:Fight_icon.png|40px]]
+|Defeat 1-1: Mushroom with a large enough cash multiplier.
+|}
+
+=== SET 7 (Lunar Isle) ===
+{| class="article-table mw-collapsible mw-collapsed" border="1" style="width: 100%;"|
+! colspan="3" style="text-align: center;"| 7 Mastery Points per Task
+|-
+!Task
+!Screen
+!Comments
+|-
+|Hatch a platypus
+|[[File:Hatchery_icon.png|40px]]
+|
+|-
+|Get lava cash (red money)
+|[[File:Fight_icon.png|40px]]
+|
+|-
+|Tap the scent
+|[[File:Tinkering_icon.png|40px]]
+|[[File:Perlea scent secret.jpg|220x220px]]
+|-
+|Kill 25 Singularities
+|[[File:Fight_icon.png|40px]]
+|Singularities are the "Death" monsters of Purgatory. If you can't die to purgatory monsters, let Gorshank 11bell put you against singularities. Or wait for Crypt to time out.
+|-
+|Get hatchery to Lv.70
+|[[File:Hatchery_icon.png|40px]]
+|
+|-
+|Reach the canyon in trekking
+|[[File:Trekking_icon.png|40px]]
+|
+|-
+|Mine Djinn with miner 6
+|[[File:Mining_icon.png|40px]]
+|20th ore, needs to buy 10th tier smithing with BP.
+|-
+|Defeat difficulty 100 Narcissus
+|[[File:Crusades_icon.png|40px]]
+|
+|-
+|Mine 50b ores per minute
+|[[File:Mining_icon.png|40px]]
+|
+|-
+|Get Lv. 999 fishing
+|[[File:Fishing_icon.png|40px]]
+|
+|-
+|Get a total potion Lv. of 10k
+|[[File:Brewing_icon.png|40px]]
+|Does not count the levels of [[Apothecary#Darkmode Potions|darkmode]] potions
+|-
+|Reach PuttPutt in Crypt
+|[[File:Fight_icon.png|40px]]
+|Crypt is the Vault for Purgatory.
+|-
+|Get all purgatory cards to 5 star
+|[[File:Cards_icon.png|40px]]
+|
+|-
+|Get 100 kills in a single kill
+|[[File:Fight_icon.png|40px]]
+|
+|-
+|Boost an equipment to 1250%
+|[[File:Boosters_icon.png|40px]]
+|
+|-
+|Complete set 2 arcade tasks
+|[[File:Arcade_Icon.png|40px]]
+|Silver tasks.
+|-
+|Own 500k BP at once
+|[[File:Rebirth_icon.png|40px]]
+|
+|-
+|Craft Stabby Thing to Lv.5m
+|[[File:Smithing_icon.png|40px]]
+|4th tier weapon, green one.
+|-
+|Reach crystal fish display
+|[[File:Fishing_icon.png|40px]]
+|Fish lots of QQ fish.
+|-
+|Get the Gorshank Z card
+|[[File:Cards_icon.png|40px]]
+|
+|}
+
+=== SET 8 (Maelstrom) ===
+{| class="article-table mw-collapsible mw-collapsed" border="1" style="width: 100%;"|
+! colspan="3" style="text-align: center;"| 8 Mastery Points per Task
+|-
+!Task
+!Screen
+!Comments
+|-
+|Complete a Lavathian contract
+|[[File:Contracts_icon.png|40px]]
+|Contract tier 9, must be bought with BP.
+|-
+|Open a valve to a white tank
+|[[File:Research_icon.png|40px]]
+|8th tank tier.
+|-
+|Boost away gain rate up to 85%
+|Misc.
+|
+|-
+|Reach "E" in Crypt
+|[[File:Fight_icon.png|40px]]
+|
+|-
+|Defeat Occulon at bell 3
+|[[File:Asylum_Icon.png|40px]]
+|
+|-
+|Collect 999Q crusade wood logs
+|[[File:Crusades_icon.png|40px]]
+|
+|-
+|Upgrade a shrine to Lv.50
+|[[File:Asylum_Icon.png|40px]]
+|
+|-
+|Grow a plant to OG 76
+|[[File:Farming_icon.png|40px]]
+|Make sure to use OG time reduction
+|-
+|Rebirth for 100k BP
+|[[File:Rebirth_icon.png|40px]]
+|
+|-
+|Have 500 total crusaders
+|[[File:Crusades_icon.png|40px]]
+|
+|-
+|Use the vampire attack move
+|[[File:Fight_icon.png|40px]]
+|Secret unlocked in Asylum
+|-
+|50m RP invested in purple tanks
+|[[File:Research_icon.png|40px]]
+|
+|-
+|Own 10QQ copper ore
+|[[File:Mining_icon.png|40px]]
+|
+|-
+|Mine warpium 3 minutes after rebirth
+|[[File:Mining_icon.png|40px]]
+|
+|-
+|Boost an equipment to 3k%
+|[[File:Boosters_icon.png|40px]]
+|3k% is the pearlescent tier treshold.
+|-
+|Collect all raid cards
+|[[File:Cards_icon.png|40px]]
+|
+|-
+|Get a tree perk to Lv. 200
+|[[File:Perks_icon.png|40px]]
+|Only possible on infinite perks with 20k skill points.
+|-
+|Get flower pot 1 to Overlevel 10
+|[[File:Farming_icon.png|40px]]
+|Mythic pot (red) levels.
+|-
+|Get all 4 occulon cards
+|[[File:Cards_icon.png|40px]]
+|
+|}
+
+=== SET 9 (Oblivion) ===
+{| class="article-table mw-collapsible mw-collapsed" border="1" style="width: 100%;"|
+! colspan="3" style="text-align: center;"| 9 Mastery Points per Task
+|-
+!Task
+!Screen
+!Comments
+|-
+|Get cool cash (blue money)
+|[[File:Fight_icon.png|40px]]
+|
+|-
+|Kill an incarnate
+|[[File:Fight_icon.png|40px]]
+|10-22: Incarnate 1 (10T required kills)
+|-
+|Craft Cuttokillicus to Lv. 1b
+|[[File:Smithing_icon.png|40px]]
+|Warped (9) tier weapon. May be bugged and not completed with auto craft, hit yellow craft button after crafting to Lv. 1000M
+|-
+|Get cauldron 6 to 100T speed
+|[[File:Brewing_icon.png|40px]]
+|
+|-
+|Get a hoops highscore of 37
+|[[File:Hoops_icon.png|40px]]
+|You can do it even being out of daily gem reward trials.
+|-
+|Rebirth within 3 minutes
+|[[File:Rebirth_icon.png|40px]]
+|
+|-
+|Get tilling land 1 to Overlevel 13
+|[[File:Tilling_icon.png|40px]]
+|Upgrade the tilling land with crops.
+|-
+|Collect All Asylum cards
+|[[File:Cards_icon.png|40px]]
+|
+|-
+|Complete set 3 arcade tasks
+|[[File:Arcade_Icon.png|40px]]
+|Gold tasks.
+|-
+|Defeat Gorshank 11 in 4 seconds
+|[[File:Asylum_Icon.png|40px]]
+|
+|-
+|Reach "EZ" in Crypt
+|[[File:Fight_icon.png|40px]]
+|
+|-
+|Buy out Contract shop 1,2 & 3
+|[[File:Contracts_icon.png|40px]]
+|
+|-
+|Get mack attack to Lv.750
+|[[File:Brewing_icon.png|40px]]
+|Mack attack is the first red potion.
+|-
+|Have 6 9*genetics combos 
+|[[File:Trekking_icon.png|40px]]
+|[[Builds#Mastery_.28SET_9_-_have_six_9-gene_combos.29|You require Beastmaster, Gattaca, and 4 Arcane carpets]]
+|-
+|Complete an ice cream
+|[[File:Orders_icon.png|40px]]
+|
+|-
+|Get a prestige 7 nest
+|[[File:Hatchery_icon.png|40px]]
+|Only counts the first nest
+|-
+|Get a tank bonus to Lv.1000
+|[[File:Research_icon.png|40px]]
+|Also known as Max Level
+|-
+|Defeat difficulty 200 Narcissus
+|[[File:Crusades_icon.png|40px]]
+|
+|-
+|Get 777B AP in a single ascension
+|[[File:Ascension_icon.png|40px]]
+|
+|-
+|Grow Sunburst in 1 second
+|[[File:Farming_icon.png|40px]]
+|
+|}
+
+=== SET 10 (Icecream 1) ===
+{| class="article-table mw-collapsible mw-collapsed" border="1" style="width: 100%;"|
+! colspan="3" style="text-align: center;"| 10 Mastery Points per Task
+|-
+!Task
+!Screen
+!Comments
+|-
+|Be recognized as the legend 27
+|[[File:Orders_icon.png|40px]]
+|Finish all 7 Icecreams
+|-
+|Reach a TeeHee in 6 minutes
+|[[File:Fight_icon.png|40px]]
+|After rebirth
+|-
+|Get a combined farming lv of 1750
+|[[File:Farming_icon.png|40px]]
+|
+|-
+|Boost all T5 equips to pearlescent
+|[[File:Boosters_icon.png|40px]]
+|Upgrade 2 T5 of each equip type, last equip in every row.
+|-
+|Reach monster 200 in aberrant
+|[[File:Trekking_icon.png|40px]]
+|
+|-
+|Get 9 star nova damage
+|[[File:Fight_icon.png|40px]]
+|
+|-
+|Get 9 star cool cash
+|[[File:Fight_icon.png|40px]]
+|
+|-
+|Defeat difficulty 275 Narcissus
+|[[File:Crusades_icon.png|40px]]
+|
+|-
+|Get Lv.350 mining
+|[[File:Mining_icon.png|40px]]
+|
+|-
+|Get a total potion Lv. of 56789
+|[[File:Brewing_icon.png|40px]]
+|Average potion Lv. of 536.
+Does not count the levels of [[Apothecary#Darkmode Potions|darkmode]] potions
+|-
+|Not sure yet...
+|[[File:Arcade_Icon.png|40px]]
+|Get a pachinko jackpot
+|-
+|Get total trainer Lv. of 60k
+|[[File:Train_icon.png|40px]]
+|
+|-
+|Rebirth within 30 seconds
+|[[File:Rebirth_icon.png|40px]]
+|
+|-
+|Get inf Rebirth perks to Lv.250
+|[[File:Rebirth_icon.png|40px]]
+|
+|-
+|Get Lv.1500 H2O
+|[[File:Train_icon.png|40px]]
+|
+|-
+|Upgrade a shrine to Lv.70
+|[[File:Asylum_Icon.png|40px]]
+|
+|-
+|Reach the end of the Crypt
+|[[File:Fight_icon.png|40px]]
+|
+|-
+|Hatch a 3* loot gene Almighty
+|[[File:Hatchery_icon.png|40px]]
+|
+|-
+|Diamond skulls on 1st 250 mobs
+|[[File:Fight_icon.png|40px]]
+|From Mushroom to Mountain Glitch 2
+Best to wait until you can smith tons of Enig. Booster
+|-
+|Get every card to 5 star
+|[[File:Cards_icon.png|40px]]
+|
+|}
+
+==Mastery Tree Perks==
+
+Mastery points can be spent to buy permanent upgrades. There are 3 categories and each of them splits into 3 branches. Upgrading each perk in each branch once costs 550 mastery points. There are 125 masteries in the mastery tree. [[File:Mastery_doubler.png|thumb|right]]
+
+Once a whole category is bought out, it can be upgraded again. Every completion colors the perks correspondingly (yellow > green > purple > blue). Mastery perks cannot be reset by any means.
+
+You can buy mastery perk points Doubler for 900 [[File:Loot_Gem.png|20px]]. It doubles all Points and allows to upgrade each category 4 times, instead of initial 2. As it works retroactively, you do not have to worry about losses. 
+
+<nowiki>*</nowiki>only available in the $10 arcade pack unfortunately
+
+
+
+===Fight Tree===
+{| border="1" align="left" cellspacing="1" cellpadding="1" align="center" style="width: 70%;" class="article-table"
+|-
+! style="text-align:center;" scope="col"|Perk
+! style="text-align:center;" scope="col"|Total Cost
+! style="text-align:center;" scope="col"|Bonus
+! style="text-align:center;" scope="col"|Total Effect
+|-
+|[[File:Mastery_fight_1.png|50px|center]]
+|
+|Damage
+|140%
+|-
+|[[File:Mastery_fight_2.png|50px|center]]
+|
+|Crit Damage
+|68%
+|-
+|[[File:Mastery_fight_3.png|50px|center]]
+|
+|Cash
+|248%
+|-
+|[[File:Mastery_fight_4.png|50px|center]]
+|
+|Idle Damage
+|20%
+|-
+|[[File:Mastery_fight_5.png|50px|center]]
+|
+|Accuracy
+|140%
+|-
+|[[File:Mastery_fight_6.png|50px|center]]
+|
+|Extra Kills
+|108%
+|-
+|[[File:Mastery_fight_keystone1.png|50px|center]]
+|80
+|Dmg per Hatchery level
+|4%
+|-
+|[[File:Mastery_fight_keystone2.png|50px|center]]
+|48
+|Cash
+|240%
+|-
+|[[File:Mastery_fight_keystone3.png|50px|center]]
+|40
+|Total Damage
+|120%
+|}
+
+===Collect Tree===
+{| border="1" align="left" cellspacing="1" cellpadding="1" align="center" style="width: 70%;" class="article-table"
+|-
+! style="text-align:center;" scope="col"|Perk
+! style="text-align:center;" scope="col"|Total Cost
+! style="text-align:center;" scope="col"|Bonus
+! style="text-align:center;" scope="col"|Total Effect
+|-
+|[[File:Mastery_collect_1.png|50px|center]]
+|144
+|Ores Mined
+|332%
+|-
+|[[File:Mastery_collect_2.png|50px|center]]
+|60
+|Fish Caught
+|168%
+|-
+|[[File:Mastery_collect_3.png|50px|center]]
+|84
+|Crop Gain
+|184%
+|-
+|[[File:Mastery_collect_4.png|50px|center]]
+|76
+|Flower Gain
+|172%
+|-
+|[[File:Mastery_collect_5.png|50px|center]]
+|32
+|Soul Gain
+|96%
+|-
+|[[File:Mastery_collect_6.png|50px|center]]
+|44
+|Vessel Gain
+|80%
+|-
+|[[File:Mastery_collect_7.png|50px|center]]
+|56
+|Crusade Materials Gain
+|132%
+|-
+|[[File:Mastery_collect_keystone1.png|50px|center]]
+|40
+|AP Kept when Rebirthing
+|28%
+|-
+|[[File:Mastery_collect_keystone2.png|50px|center]]
+|48
+|Chain Level Chance
+|12%
+|-
+|[[File:Mastery_collect_keystone3.png|50px|center]]
+|80
+|Faster Ticket and Key Gain
+|28%
+|}
+
+===Variety Tree===
+{| border="1" align="left" cellspacing="1" cellpadding="1" align="center" style="width: 70%;" class="article-table"
+|-
+! style="text-align:center;" scope="col"|Perk
+! style="text-align:center;" scope="col"|Total Cost
+! style="text-align:center;" scope="col"|Bonus
+! style="text-align:center;" scope="col"|Total Effect
+|-
+|[[File:Mastery_variety_1.png|50px|center]]
+|24
+|Lower Smith Cost
+|28%
+|-
+|[[File:Mastery_variety_2.png|50px|center]]
+|76
+|Starting levels
+| +24
+|-
+|[[File:Mastery_variety_3.png|50px|center]]
+|72
+|Booster Odds
+|7.2%
+|-
+|[[File:Mastery_variety_4.png|50px|center]]
+|28
+|Pet Skills EXP
+|68%
+|-
+|[[File:Mastery_variety_5.png|50px|center]]
+|68
+|Pet Travel Speed
+|64%
+|-
+|[[File:Mastery_variety_6.png|50px|center]]
+|20
+|Brew Speed
+|28%
+|-
+|[[File:Mastery_variety_7.png|50px|center]]
+|96
+|Green Merits
+| +24
+|-
+|[[File:Mastery_variety_8.png|50px|center]]
+|52
+|AP Gain
+|68%
+|-
+|[[File:Mastery_variety_9.png|50px|center]]
+|56
+|BP Gain
+|64%
+|-
+|[[File:Mastery_variety_10.png|50px|center]]
+|64
+|Pet Damage
+|44%
+|-
+|[[File:Mastery_variety_11.png|50px|center]]
+|72
+|Nest Speed
+|84%
+|-
+|[[File:Mastery_variety_keystone1.png|50px|center]]
+|40
+|Levels Every 100 Levels
+| +12
+|-
+|[[File:Mastery_variety_keystone2.png|50px|center]]
+|48
+|Cashback on Upgrades
+|40%
+|-
+|[[File:Mastery_variety_keystone3.png|50px|center]]
+|80
+|Away Gains
+|20%
+|}
+[[Category:Portal]]

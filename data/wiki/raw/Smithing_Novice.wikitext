@@ -1,0 +1,74 @@
+{| class="listing sortable" border="0" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Platinum_trinket.png|center]]
+| style="text-align: center;" |10
+|Platinum Trinket
+| +0.75%
+| Damage
+|[[File:Platinum.png|center]]
+|[[File:Jellyfish.png|center]]
+|-
+|[[File:Longsword.png|center]]
+| style="text-align: center;" |10
+|Longsword
+| +10
+| Base Damage
+|[[File:Gold.png|center]]
+|[[File:Medium_yellow_fish.png|center]]
+|-
+|[[File:Jellyfish_noodles.png|center]]
+| style="text-align: center;" |10
+|Jellyfish Noodles
+| +15
+| HP every Bite
+|[[File:Jellyfish.png|center]]
+|[[File:Chainmailfish.png|center]]
+|-
+|[[File:Pilfering.png|center]]
+| style="text-align: center;" |10
+|Pilfering
+| +3%
+| Cash from Enemies
+|[[File:Gold.png|center]]
+|[[File:Medium_yellow_fish.png|center]]
+|-
+|[[File:Fast_reps.png|center]]
+| style="text-align: center;" |10
+|Fast Reps
+| +0.5%
+| Rep Speed (caps at 50k crafts)
+|[[File:Gold.png|center]]
+|[[File:Platinum.png|center]]
+|-
+|[[File:Golden_armor.png|center]]
+| style="text-align: center;" |10
+|Golden Armor
+| -0.08%
+| Monster Damage
+|[[File:Tin_can.png|center]]
+|[[File:Chainmailfish.png|center]]
+|-
+|[[File:Fish_bundle.png|center]]
+| style="text-align: center;" |10
+|Fish Bundle
+| +3%
+| Fish per Catch
+|[[File:Platinum.png|center]]
+|[[File:Small_tuna.png|center]]
+|-
+|[[File:Battle_boots.png|center]]
+| style="text-align: center;" |10
+|Battle Boots
+| +0.5%
+| Idle Attack Speed
+|[[File:Platinum.png|center]]
+|[[File:Old_shoe.png|center]]
+|}
+[[Category:Smithing]]

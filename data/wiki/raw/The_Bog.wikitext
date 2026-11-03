@@ -1,0 +1,216 @@
+{| align="center"
+|[[File:Purgatory_banner.png|150px|link=Purgatory]]
+|<<<
+|[[File:The_bog_banner.png|link=The Bog]]
+|>>>
+|[[File:Lunar Isle Banner.png|150px|link=Lunar Isle]]
+|}
+The Bog is the second advanced [[Fight]]ing zone and features 21 unique monsters over 100 encounters. Clearing [[The Bog]] unlocks [[Lunar Isle|The Lunar Isle]]
+
+The following table shows the '''base''' values for each monster in the zone. (Note: '''<span style="color:PaleTurquoise">1</span>''' = 1000 QQ)
+
+{| class="article-table" border="1" style="width: 100%;"
+! colspan="2" |Monster !! Damage !! HP !! Gold !! Kill Req. !! Bonus
+|-
+| rowspan="3" |[[File:Mudnut.png|50px|center]] || Mudnut 1 || 41991K || '''<span style="color:PaleTurquoise">589540</span>''' || 115B || 4415 || rowspan="3" |20% Meteor Skill Damage
+|-
+| Mudnut 2 || 43825K || '''<span style="color:PaleTurquoise">690021</span>''' || 119B || 5375
+|-
+| Mudnut 3 || 45691K || '''<span style="color:PaleTurquoise">811237</span>''' || 123B || 6335
+|-
+| rowspan="3" |[[File:Septislime.png|50px|center]] || Septislime 1 || 47590K || '''<span style="color:PaleTurquoise">957994</span>''' || 127B || 7295 || rowspan="3" |10% Cultist Efficiency
+|-
+| Septislime 2 || 49523K || '''<span style="color:PaleTurquoise">1.13M</span>''' || 131B || 8255
+|-
+| Septislime 3 || 51489K || '''<span style="color:PaleTurquoise">1.35M</span>''' || 136B || 9215
+|-
+| rowspan="3" |[[File:Booger.png|50px|center]] || Booger 1 || 53490K || '''<span style="color:PaleTurquoise">1.62M</span>''' || 141B || 10175 || rowspan="3" |10% Cyber Food Efficiency
+|-
+| Booger 2 || 55525K || '''<span style="color:PaleTurquoise">1.94M</span>''' || 146B || 11135
+|-
+| Booger 3 || 57596K || '''<span style="color:PaleTurquoise">2.35M</span>''' || 152B || 12095
+|-
+| rowspan="3" |[[File:Halluccino.png|50px|center]] || Halluccino 1 || 59703K || '''<span style="color:PaleTurquoise">2.84M</span>''' || 158B || 13055 || rowspan="3" |25% Flurry Skill Damage
+|-
+| Halluccino 2 || 61846K || '''<span style="color:PaleTurquoise">3.47M</span>''' || 165B || 14015
+|-
+| Halluccino 3 || 64026K || '''<span style="color:PaleTurquoise">4.24M</span>''' || 173B || 14975
+|-
+| rowspan="3" |[[File:Mushketeer.png|50px|center]] || Mushketeer 1 || 66244K || '''<span style="color:PaleTurquoise">5.21M</span>''' || 181B || 15935 || rowspan="3" |8 BP Upon Rebirth
+|-
+| Mushketeer 2 || 68500K || '''<span style="color:PaleTurquoise">6.43M</span>''' || 190B || 16895
+|-
+| Mushketeer 3 || 70793K || '''<span style="color:PaleTurquoise">7.96M</span>''' || 200B || 17855
+|-
+| rowspan="3" |[[File:Wormies.png|50px|center]] || Wormies 1 || 73127K || '''<span style="color:PaleTurquoise">9.91M</span>''' || 211B || 18815 || rowspan="3" |2% Blue Crystal Bonus
+|-
+| Wormies 2 || 75499K || '''<span style="color:PaleTurquoise">12.3M</span>''' || 223B || 19775
+|-
+| Wormies 3 || 77912K || '''<span style="color:PaleTurquoise">13.6M</span>''' || 236B || 20735
+|-
+| rowspan="3" |[[File:Swampeek.png|50px|center]] || Swampeek 1 || 80365K || '''<span style="color:PaleTurquoise">15M</span>''' || 251B || 21695 || rowspan="3" |15% Raid Drop Luck
+|-
+| Swampeek 2 || 82860K || '''<span style="color:PaleTurquoise">16.5M</span>''' || 267B || 22655
+|-
+| Swampeek 3 || 85397K || '''<span style="color:PaleTurquoise">18.3M</span>''' || 285B || 23615
+|-
+| rowspan="3" |[[File:Magic_mushy.png|50px|center]] || Magic Mushy 1 || 87976K || '''<span style="color:PaleTurquoise">20.4M</span>''' || 305B || 24575 || rowspan="3" |5% Chance for Double Potion Level Up
+|-
+| Magic Mushy 2 || 90598K || '''<span style="color:PaleTurquoise">22.7M</span>''' || 326B || 25535
+|-
+| Magic Mushy 3 || 93264K || '''<span style="color:PaleTurquoise">25.3M</span>''' || 350B || 26495
+|-
+| rowspan="3" |[[File:Fungi_bob.png|50px|center]] || Fungi Bob 1 || 95974K || '''<span style="color:PaleTurquoise">28.3M</span>''' || 377B || 27455 || rowspan="3" |20% Banana Bonk Damage
+|-
+| Fungi Bob 2 || 98728K || '''<span style="color:PaleTurquoise">31.8M</span>''' || 406B || 28415
+|-
+| Fungi Bob 3 || 101M || '''<span style="color:PaleTurquoise">35.7M</span>''' || 438B || 29375
+|-
+| rowspan="3" |[[File:Yucky_foot.png|50px|center]] || Yucky Foot 1 || 104M || '''<span style="color:PaleTurquoise">40.3M</span>''' || 473B || 30335 || rowspan="3" |20% Ores from Mining
+|-
+| Yucky Foot 2 || 107M || '''<span style="color:PaleTurquoise">45.5M</span>''' || 512B || 31295
+|-
+| Yucky Foot 3 || 110M || '''<span style="color:PaleTurquoise">51.6M</span>''' || 554B || 32255
+|-
+| rowspan="3" |[[File:Swamp_angel.png|50px|center]] || Swamp Angel 1 || 113M || '''<span style="color:PaleTurquoise">58.6M</span>''' || 601B || 33215 || rowspan="3" |2% Critical Chance
+|-
+| Swamp Angel 2 || 116M || '''<span style="color:PaleTurquoise">66.7M</span>''' || 652B || 34175
+|-
+| Swamp Angel 3 || 119M || '''<span style="color:PaleTurquoise">76.1M</span>''' || 707B || 35135
+|-
+| rowspan="3" |[[File:Psyccidello.png|50px|center]] || Psyccidello 1 || 122M || '''<span style="color:PaleTurquoise">87M</span>''' || 768B || 36095 || rowspan="3" |3% Potion Cost Redux
+|-
+| Psyccidello 2 || 125M || '''<span style="color:PaleTurquoise">99.7M</span>''' || 834B || 37055
+|-
+| Psyccidello 3 || 128M || '''<span style="color:PaleTurquoise">114M</span>''' || 907B || 38015
+|-
+| rowspan="3" |[[File:Bog_terror.png|50px|center]] || Bog Terror 1 || 132M || '''<span style="color:PaleTurquoise">132M</span>''' || 985B || 38975 || rowspan="3" |15% Tinkering EXP
+|-
+| Bog Terror 2 || 135M || '''<span style="color:PaleTurquoise">152M</span>''' || 1.07T || 39935
+|-
+| Bog Terror 3 || 138M || '''<span style="color:PaleTurquoise">176M</span>''' || 1.16T || 40895
+|-
+| rowspan="3" |[[File:Mishudusa.png|50px|center]] || Mishudusa 1 || 142M || '''<span style="color:PaleTurquoise">204M</span>''' || 1.26T || 41855 || rowspan="3" |4% Green Crystal Bonus
+|-
+| Mishudusa 2 || 145M || '''<span style="color:PaleTurquoise">237M</span>''' || 1.37T || 42815
+|-
+| Mishudusa 3 || 149M || '''<span style="color:PaleTurquoise">277M</span>''' || 1.49T || 43775
+|-
+| rowspan="3" |[[File:Spots.png|50px|center]] || Spots 1 || 153M || '''<span style="color:PaleTurquoise">323M</span>''' || 1.62T || 44735 || rowspan="3" |18% Total Health
+|-
+| Spots 2 || 156M || '''<span style="color:PaleTurquoise">378M</span>''' || 1.76T || 45695
+|-
+| Spots 3 || 160M || '''<span style="color:PaleTurquoise">444M</span>''' || 1.91T || 46655
+|-
+| rowspan="3" |[[File:Nesto.png|50px|center]] || Nesto 1 || 164M || '''<span style="color:PaleTurquoise">522M</span>''' || 2.07T || 47615 || rowspan="3" |20% Accuracy
+|-
+| Nesto 2 || 168M || '''<span style="color:PaleTurquoise">616M</span>''' || 2.25T || 48575
+|-
+| Nesto 3 || 172M || '''<span style="color:PaleTurquoise">728M</span>''' || 2.44T || 49535
+|-
+| rowspan="3" |[[File:Bog_monster.png|50px|center]] || Bog Monster 1 || 176M || '''<span style="color:PaleTurquoise">862M</span>''' || 2.65T || 50495 || rowspan="3" |20% Idle Attack Damage
+|-
+| Bog Monster 2 || 180M || '''<span style="color:PaleTurquoise">1.02B</span>''' || 2.84T || 51455
+|-
+| Bog Monster 3 || 184M || '''<span style="color:PaleTurquoise">1.21B</span>''' || 3.11T || 52415
+|-
+| rowspan="3" |[[File:Biggie.png|50px|center]] || Biggie 1 || 188M || '''<span style="color:PaleTurquoise">1.45B</span>''' || 3.36T || 53375 || rowspan="3" |2% Orange Crystal Bonus
+|-
+| Biggie 2 || 192M || '''<span style="color:PaleTurquoise">1.73B</span>''' || 3.64T || 54335
+|-
+| Biggie 3 || 196M || '''<span style="color:PaleTurquoise">2.07B</span>''' || 3.94T || 55295
+|-
+| [[File:Disciple_l.png|50px|center]] || Disciple L || 201M || '''<span style="color:PaleTurquoise">2.49B</span>''' || 4.26T || 56255 || 5% Apothecary EXP
+|-
+| [[File:Keymaster_l.png|50px|center]] || Keymaster L || 205M || '''<span style="color:PaleTurquoise">3B</span>''' || 4.6T || 57215 || 20% Monster Cash
+|-
+| rowspan="44" | [[File:The_bog_glitch.png|50px|center]] || The Bog Glitch 1 || 210M || '''<span style="color:PaleTurquoise">3.62B</span>''' || 4.87T || 58175 || rowspan="44" | 7% Mining EXP Gained
+|-
+| The Bog Glitch 2 || 214M || '''<span style="color:PaleTurquoise">4.37B</span>''' || 5.15T || 59135 
+|-
+| The Bog Glitch 3 || 219M || '''<span style="color:PaleTurquoise">5.29B</span>''' || 5.45T || 60095 
+|-
+| The Bog Glitch 4 || 224M || '''<span style="color:PaleTurquoise">6.43B</span>''' || 5.76T || 61055 
+|-
+| The Bog Glitch 5 || 228M || '''<span style="color:PaleTurquoise">7.82B</span>''' || 6.09T || 62015 
+|-
+| The Bog Glitch 6 || 233M || '''<span style="color:PaleTurquoise">9.54B</span>''' || 6.43T || 62975 
+|-
+| The Bog Glitch 7 || 238M || '''<span style="color:PaleTurquoise">11.6B</span>''' || 6.79T || 63935 
+|-
+| The Bog Glitch 8 || 243M || '''<span style="color:PaleTurquoise">14.2B</span>''' || 7.16T || 64895 
+|-
+| The Bog Glitch 9 || 248M || '''<span style="color:PaleTurquoise">17.5B</span>''' || 7.55T || 65855 
+|-
+| The Bog Glitch 10 || 253M || '''<span style="color:PaleTurquoise">21.5B</span>''' || 7.96T || 66815 
+|-
+| The Bog Glitch 11 || 259M || '''<span style="color:PaleTurquoise">26.5B</span>''' || 8.39T || 67775 
+|-
+| The Bog Glitch 12 || 264M || '''<span style="color:PaleTurquoise">32.8B</span>''' || 8.83T || 68735 
+|-
+| The Bog Glitch 13 || 269M || '''<span style="color:PaleTurquoise">40.6B</span>''' || 9.3T || 69695 
+|-
+| The Bog Glitch 14 || 275M || '''<span style="color:PaleTurquoise">50.3B</span>''' || 9.78T || 70655 
+|-
+| The Bog Glitch 15 || 280M || '''<span style="color:PaleTurquoise">62.6B</span>''' || 10.2T || 71615 
+|-
+| The Bog Glitch 16 || 286M || '''<span style="color:PaleTurquoise">78B</span>''' || 10.8T || 72575 
+|-
+| The Bog Glitch 17 || 292M || '''<span style="color:PaleTurquoise">97.4B</span>''' || 11.3T || 73535 
+|-
+| The Bog Glitch 18 || 298M || '''<span style="color:PaleTurquoise">121B</span>''' || 11.9T || 74495 
+|-
+| The Bog Glitch 19 || 304M || '''<span style="color:PaleTurquoise">152B</span>''' || 12.5T || 75455 
+|-
+| The Bog Glitch 20 || 310M || '''<span style="color:PaleTurquoise">192B</span>''' || 13.1T || 76415 
+|-
+| The Bog Glitch 21 || 316M || '''<span style="color:PaleTurquoise">241B</span>''' || 13.7T || 77375 
+|-
+| The Bog Glitch 22 || 322M || '''<span style="color:PaleTurquoise">305B</span>''' || 14.4T || 78335 
+|-
+| The Bog Glitch 23 || 328M || '''<span style="color:PaleTurquoise">386B</span>''' || 15.1T || 79295 
+|-
+| The Bog Glitch 24 || 334M || '''<span style="color:PaleTurquoise">489B</span>''' || 15.8T || 80255 
+|-
+| The Bog Glitch 25 || 341M || '''<span style="color:PaleTurquoise">621B</span>''' || 16.6T || 81215 
+|-
+| The Bog Glitch 26 || 347M || '''<span style="color:PaleTurquoise">790B</span>''' || 17.3T || 82175 
+|-
+| The Bog Glitch 27 || 354M || '''<span style="color:PaleTurquoise">1T</span>''' || 18.1T || 83135 
+|-
+| The Bog Glitch 28 || 361M || '''<span style="color:PaleTurquoise">1.28T</span>''' || 19T || 84095 
+|-
+| The Bog Glitch 29 || 368M || '''<span style="color:PaleTurquoise">1.64T</span>''' || 19.8T || 85055 
+|-
+| The Bog Glitch 30 || 375M || '''<span style="color:PaleTurquoise">2.11T</span>''' || 20.7T || 86015 
+|-
+| The Bog Glitch 31 || 382M || '''<span style="color:PaleTurquoise">2.71T</span>''' || 21.7T || 86975 
+|-
+| The Bog Glitch 32 || 389M || '''<span style="color:PaleTurquoise">3.5T</span>''' || 22.6T || 87935 
+|-
+| The Bog Glitch 33 || 396M ||'''<span style="color:PaleTurquoise">4.52T</span>''' || 23.6T || 88895 
+|-
+| The Bog Glitch 34 || 403M || '''<span style="color:PaleTurquoise">5.84T</span>''' || 24.7T || 89855 
+|-
+| The Bog Glitch 35 || 411M || '''<span style="color:PaleTurquoise">7.58T</span>''' || 25.8T || 90815 
+|-
+| The Bog Glitch 36 || 418M || '''<span style="color:PaleTurquoise">9.84T</span>''' || 26.9T || 91775 
+|-
+| The Bog Glitch 37 || 426M || '''<span style="color:PaleTurquoise">12.8T</span>''' || 28T || 92735 
+|-
+| The Bog Glitch 38 || 434M || '''<span style="color:PaleTurquoise">16.7T</span>''' || 29.2T || 93695 
+|-
+| The Bog Glitch 39 || 442M || '''<span style="color:PaleTurquoise">21.8T</span>''' || 30.4T || 94655 
+|-
+| The Bog Glitch 40 || 450M || '''<span style="color:PaleTurquoise">28.5T</span>''' || 31.7T || 95615 
+|-
+| The Bog Glitch 41 || 458M || '''<span style="color:PaleTurquoise">37.4T</span>''' || 33T || 96575 
+|-
+| The Bog Glitch 42 || 466M || '''<span style="color:PaleTurquoise">49.2T</span>''' || 34.4T || 97535 
+|-
+| The Bog Glitch 43 || 475M || '''<span style="color:PaleTurquoise">64.9T</span>''' || 35.8T || 98495 
+|-
+| The Bog Glitch 44 || 483M || '''<span style="color:PaleTurquoise">85.6T</span>''' || 37.3T || style="text-align: center;" | - 
+|}
+[[Category:Zone]]
+[[Category:Fighting]]

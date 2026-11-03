@@ -1,0 +1,75 @@
+{| class="listing sortable" border="0" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+| [[File:Zaqqum_Trinket.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 1
+|Zaqqum Trinket
+| +X%
+| Damage Every 100 Strength Levels
+|[[File:Copper.png|center]]
+|
+|-
+| [[File:Doom_Gauntlet.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 1
+|Doom Gauntlet
+| +X
+| Base Damage (scales with Crusade 15 levels)
+|[[File:Gold.png|center]]
+|[[File:Jumbo_shrimp.png|center|46px]]
+|-
+| [[File:Cremation_Jar.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 2
+|Cremation Jar
+| +X
+| Max Levels to Mystic Botany BP Perk (and adds a new bonus)
+|[[File:Anodizia.png|center]]
+|[[File:T_coin.png|center]]
+|-
+| [[File:Smouldering_Steal.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 2
+|Smouldering Steal
+| +X%
+| Cash from enemies every 10 spelunking levels
+|[[File:Bobbit_worm.png|center]]
+|[[File:T_wealth_obol.png|center]]
+|-
+| [[File:Charons_Obol.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 3
+|Charons Obol
+| +X%
+| Faster Attack Speed for all Realm Minions
+|[[File:Yellow_gulper.png|center]]
+|[[File:Epic12.png|center|32px]]
+|-
+| [[File:Firebrand_Essence.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 3
+|Firebrand Essence
+| +X%
+| Double brew chance; Multibrew cap is now +X (max 15)
+|[[File:Firesalt.png|center]]
+|[[File:t_irish_clover.png|center]]
+|-
+| [[File:Dont_Go_Fetch.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 4
+|Don't Go Fetch
+| +X%
+| Pet Damage and Trekking Move Speed
+|[[File:Red_herring.png|center]]
+|[[File:Epic13.png|center|32px]]
+|-
+| [[File:Sacrificial_Altar.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 4
+|Sacrificial Altar
+| +X%
+| More Traces Earned from Asylum Bosses
+|[[File:Ruby.png|center]]
+|[[File:t_prime_meat.png|center]]
+|}
+
+[[Category:Smithing]]

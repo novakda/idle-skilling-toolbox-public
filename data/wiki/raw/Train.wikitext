@@ -1,0 +1,223 @@
+There are 4 different training areas, the first of which is the Gym that is unlocked by default. The other three, Attack Dojo, Strength Mountain, and Endurance Field can be unlocked through [[Perks]]. Each area has 5 skillers with the first skiller already unlocked, while the other four can be unlocked once you reach the required H2O level and a cost of some coins.
+
+Each skiller has two upgrade options: Value & Speed. Value increases potential skill EXP and H2O EXP earned per repetition. Speed increases the speed at which repetitions are made. Skill EXP increases the level of the specific skill while H2O EXP increases the H2O level.
+
+Each skill provides some stats per level. Attack increases accuracy, but it also provides 8 base damage and a 4% damage boost per level. Strength focuses purely on damage, providing 25 base damage and a 10% damage boost per level. Endurance provides health and 2 base damage per level. Each level gained in both skills and H2O level also provides some progress towards a Perk Point.
+
+Increasing the H2O level is still a good idea even after you've unlocked all the skillers, as the first set of ascension perks provide a buff that increases in effectiveness based on the H2O level.
+
+=== Gym [[File:Small_gym_icon.png]]===
+{| class="article-table"
+|'''Skiller'''
+|Benching
+|Fighting
+|Pushups
+|Squats
+|Situps
+|-
+|'''Skill'''
+|Strength
+|Attack
+|Endurance
+|Strength
+|Endurance
+|-
+|'''H20 Req.'''
+|0
+|4
+|10
+|14
+|20
+|-
+|Gold Cost
+|0
+|5000
+|50000
+|375K
+|2500K
+|}
+
+=== Attack Dojo [[File:Small_dojo_icon.png]]===
+{| class="article-table"
+|'''Skiller'''
+|Assassin
+|Swordsman
+|Killer
+|Bandit
+|Streetz
+|-
+|'''Skill'''
+|Attack
+|Attack
+|Attack
+|Attack
+|Attack
+|-
+|'''H20 Req.'''
+|0
+|7
+|16
+|23
+|32
+|-
+|Gold Cost
+|0
+|10000
+|50000
+|250K
+|1250K
+|}
+
+=== Strength Mountain [[File:Small_strength_icon.png]]===
+{| class="article-table"
+|'''Skiller'''
+|Boulder
+|Chopchop
+|Laborer
+|Bender
+|Rockman
+|-
+|'''Skill'''
+|Strength
+|Strength
+|Strength
+|Strength
+|Strength
+|-
+|'''H20 Req.'''
+|0
+|7
+|16
+|23
+|32
+|-
+|Gold Cost
+|0
+|10000
+|50000
+|250K
+|1250K
+|}
+
+=== Endurance Fields [[File:Small_fields_icon.png]]===
+{| class="article-table"
+|'''Skiller'''
+|Running
+|Waiting
+|Sleeping
+|Feaster
+|Gamer
+|-
+|'''Skill'''
+|Endurance
+|Endurance
+|Endurance
+|Endurance
+|Endurance
+|-
+|'''H20 Req.'''
+|0
+|7
+|16
+|23
+|32
+|-
+|Gold Cost
+|0
+|10000
+|50000
+|250K
+|1250K
+|}
+
+==Training Perks==
+Training Perks are unlocked through [[Ascension]] and [[Rebirth]]. To use them it is required to reach a certain amount of Training skiller upgrades. To see your current total skiller level, click the T-Perk you have selected to unselect it. Training Perk points are earned through Ascension and Rebirth perks as well as 1 point for each 3 H2O levels. Training Perks persist through Ascension and Rebirth but spent points are reset. They can also be reset by spending 20 Gems or one time for free each Ascension/Rebirth. Each Training Perk can be upgraded to a maximum level of 99.
+{| class="article-table" style="clear:all; padding=5px; text-align: center" border="1" width="100%;"
+! style="text-align: center;" |Training Perk
+! style="text-align: center;" colspan="2" |Unlock
+! style="text-align: center;" |Effect
+! style="text-align: center;" |Minimum T-Perk Cost
+|-
+|[[File:TPerk_Damage1.png|42px]]
+| style="" rowspan="6" | AP
+|[[File:Lock-1.png|42px]]
+|5% Damage, 10% Accuracy
+|22M Cash
+|-
+|[[File:TPerk_Health.png|42px]]
+|[[File:Lock-2.png|42px]]
+|1% Health per endurance level
+|890M Cash
+|-
+|[[File:TPerk_Cash.png|42px]]
+|[[File:Lock-3.png|42px]]
+|15% Cash
+|480B Cash
+|-
+|[[File:TPerk_Resources.png|42px]]
+|[[File:Lock-4.png|42px]]
+|8% [[Mining|Ore]] and [[Fishing|Fish]], 5% Mining exp
+|370T Cash
+|-
+|[[File:TPerk_Crusaders.png|42px]]
+|[[File:Lock-5.png|42px]]
+|1 [[Crusades|Inactive crusader]]
+|37QQ Cash
+|-
+|[[File:TPerk_BrewSpeed1.png|42px]]
+|[[File:Lock-6.png|42px]]
+|12% [[Apothecary|Brew speed]]
+|590M Plasma
+|-
+|[[File:TPerk_Damage2.png|42px]]
+| rowspan="10" | BP
+|[[File:Lock-7.png|42px]]
+|20% Damage, 5% Accuracy
+|950B Plasma
+|-
+|[[File:TPerk_Crops.png|42px]]
+|[[File:Lock-8.png|42px]]
+|10% [[Tilling|Crops]] gained
+|2QQ Plasma
+|-
+|[[File:TPerk_Rift.png|42px]]
+|[[File:Lock-9.png|42px]]
+|2% Chance for [[Summoning|rift]] level up
+|22 Lava
+|-
+|[[File:TPerk_BrewSpeed2.png|42px]]
+|[[File:Lock-10.png|42px]]
+|25% Brew speed
+|300K Lava
+|-
+|[[File:TPerk_BP.png|42px]]
+|[[File:Lock-11.png|42px]]
+|2% BP on rebirth
+|5B Lava
+|-
+|[[File:Tperk_RP.png|42px]]
+|[[File:Lock-12.png|42px]]
+|2% Tank RP Gain
+|56T Lava
+|-
+|[[File:TPerk_Traces.png|42px]]
+|[[File:Lock-13.png|42px]]
+|2% non-Boss [[Asylum|traces]]
+|770Q Lava
+|-
+|[[File:TPerk_Damage3.png|42px]]
+|[[File:Lock-14.png|42px]]
+| 50% Damage
+|150k Dimensional
+|-
+|[[File:TPerk_Kills.png|42px]]
+|[[File:Lock-15.png|42px]]
+|2% Kills/Kill
+|350Q Dimensional
+|-
+|[[File:TPerk_Chain.png|42px]]
+|[[File:Lock-16.png|42px]]
+| 0.1% Chain level up chance
+|3000QQ Post-Dimensional
+|}
+[[Category:Train]]

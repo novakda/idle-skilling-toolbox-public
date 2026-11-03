@@ -1,0 +1,74 @@
+{| class="listing sortable" border="0" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+| [[File:Slamacow_Trinket.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 1
+|Slamacow Trinket
+| +X
+| Increases all smith trinket bonuses to the power of 1.X
+|[[File:Baubles.png|center]]
+|[[File:Crystalfish.png|center]]
+|-
+| [[File:Gaxmis_Glaive.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 1
+|Gaxmis Glaive
+| +X
+| Base Damage per best Afterlife ever reached
+|[[File:Djinn.png|center]]
+|[[File:T calming obol.png|center]]
+|-
+| [[File:Irradiated_Builders.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 2
+|Irradiated Builders
+| +X%
+| Build Speed for Iodized Builders
+|[[File:Refractium.png|center]]
+|[[File:T wealth obol.png|center]]
+|-
+| [[File:Snapped_Time.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 2
+|Snapped Time
+| +X
+| Increases all smithing cash bonuses to the power of 1.X
+|[[File:Gummi.png|center]]
+|[[File:T coin.png|center]]
+|-
+| [[File:One_Swing_Pick.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 3
+|One Swing Pick
+| +X
+| (1+X)x gain of all resources for each star of cool cash
+|[[File:Giant sea serpent.png|center]]
+|[[File:Legendary12.png|center|32px]]
+|-
+| [[File:Timelesseum.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 3
+|Timelesseum
+| +X%
+| Chance to trigger a super chain upon H20 level up
+|[[File:Hammerhead shark.png|center]]
+|[[File:Perarlescent7.png|center|32px]]
+|-
+| [[File:Sparkle_Goop.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 4
+|Sparkle Goop
+| +X%
+| Realm coins per best Afterlife reaches
+|[[File:T the mark.png|center|32px]]
+|[[File:Rare12.png|center|32px]]
+|-
+| [[File:The_One_and_Only.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 4
+|The One and Only
+| +X%
+| Minion Dmg per best Afterlife after 50
+|[[File:T temper obol.png|center|32px]]
+|[[File:Pearlescent9.png|center|32px]]
+|}
+[[Category:Smithing]]

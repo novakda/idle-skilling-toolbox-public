@@ -1,0 +1,29 @@
+title: Save reader: Botany speed cap
+tags: [[Data and tools]]
+caption: Save reader: Botany speed cap
+
+Paste a save as JSON (for example `data/save.json` from the toolbox's `bun run extract`). It stays in this browser tab: it goes into a `$:/temp/` tiddler, which is never saved with the wiki. Everything below is TiddlyWiki filter arithmetic on the pasted JSON (`jsonget`, `compare`, `count`, `add`), following `web/src/botany-calc.ts` (`speedCap`, `tierPerks`).
+
+<$edit-text tiddler="$:/temp/is/save" tag="textarea" class="is-save" placeholder='{"HerbloreMaxSpeedLV": 321.48, "HerblorePotLevel": [0, 8, 8, ...], "HerbloreLV2": [...], ...}'/>
+
+<$let save={{$:/temp/is/save}} cap={{{ [{$:/temp/is/save}jsonget[HerbloreMaxSpeedLV]] }}}>
+<%if [<save>is[blank]] %>
+<p class="is-note">Nothing pasted yet.</p>
+<%elseif [<cap>is[blank]] %>
+<p class="is-note">This JSON has no `HerbloreMaxSpeedLV` (the Botany speed cap the game stores). Is it a full save?</p>
+<%else%>
+<$let tier5={{{ [range[1],[14]] :filter[<save>jsonget[HerblorePotLevel],<currentTiddler>compare:number:gteq[5]] +[count[]] }}}
+      base={{{ [<tier5>multiply[10]add[120]] }}}
+      buy={{{ [<cap>add[25]] }}}
+      rest={{{ [<cap>subtract<base>fixed[2]] }}}
+      open={{{ [range[1],[14]] :filter[<save>jsonget[HerbloreLV2],<currentTiddler>compare:number:lt<buy>] +[count[]] }}}>
+<div class="is-tiles">
+<div class="is-tile"><b><<cap>></b><span>Botany speed cap (HerbloreMaxSpeedLV)</span></div>
+<div class="is-tile"><b><<buy>></b><span>speed upgrades buyable below this level (cap + 25)</span></div>
+<div class="is-tile"><b><<open>> / 14</b><span>pots whose speed level is still below that</span></div>
+<div class="is-tile"><b><<tier5>> / 14</b><span>pots at tier 5+ (each adds 10 to the base)</span></div>
+</div>
+<p>Base from pot tiers: 120 + 10 × <<tier5>> = <<base>>. The other <<rest>> comes from potions, cards and the Tilling perk, which the game adds when Botany opens (see [[Botany]]).</p>
+</$let>
+<%endif%>
+</$let>

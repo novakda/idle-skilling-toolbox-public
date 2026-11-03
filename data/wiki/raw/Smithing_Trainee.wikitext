@@ -1,0 +1,74 @@
+{| class="listing sortable" border="0" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Copper_trinket.png|center]]
+| style="text-align: center;" |1
+|Copper Trinket
+| +0.5%
+| Damage
+|[[File:Copper.png|center]]
+| style="text-align: center;" | -
+|-
+|[[File:Broken_dagger.png|center]]
+| style="text-align: center;" |1
+|Broken Dagger
+| +5
+| Base Damage
+|[[File:Copper.png|center]]
+| style="text-align: center;" | -
+|-
+|[[File:Fishwich.png|center]]
+| style="text-align: center;" |1
+|Fishwich
+| +6
+| HP every Bite
+|[[File:Copper.png|center]]
+|[[File:Small_tuna.png|center]]
+|-
+|[[File:Petty_theft.png|center]]
+| style="text-align: center;" |1
+|Petty Theft
+| +2%
+| Cash from Enemies
+|[[File:Copper.png|center]]
+|[[File:Iron.png|center]]
+|-
+|[[File:Reinforced_exp.png|center]]
+| style="text-align: center;" |1
+|Reinforced EXP
+| +0.1%
+| EXP Gain Chance
+|[[File:Iron.png|center]]
+|[[File:Tin_can.png|center]]
+|-
+|[[File:Steel_stomach.png|center]]
+| style="text-align: center;" |1
+|Steel Stomach
+| +10
+| Base Max. HP
+|[[File:Iron.png|center]]
+| style="text-align: center;" | -
+|-
+|[[File:Iron_rod.png|center]]
+| style="text-align: center;" |1
+|Iron Rod
+| +10
+| Fishing Power
+|[[File:Iron.png|center]]
+|[[File:Old_shoe.png|center]]
+|-
+|[[File:Copper_dusters.png|center]]
+| style="text-align: center;" |1
+|Copper Dusters
+| +0.75%
+| Crit Damage
+|[[File:Copper.png|center]]
+|[[File:Old_shoe.png|center]]
+|}
+[[Category:Smithing]]

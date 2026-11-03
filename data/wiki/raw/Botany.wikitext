@@ -1,0 +1,526 @@
+{{:Header/Farming}}The Botany screen becomes available after reaching the [[Mountains]] in [[Fight]]ing. [[Ascension]] does not reset or change any aspect in Botany, but [[Rebirth]]ing resets all plants owned and Botany level.
+
+==<span style="color:#ffb31a">!!! WARNING !!!</span>==
+<u>If you have a Card Deck Link for Botany</u> it will '''<u>only</u>''' function correct if you first navigate to [[Apothecary]] screen then Botany screen, '''<u>otherwise</u>''' you will have to apply the deck manually through the [[Cards]] screen by equipping a different deck then Botany deck!
+
+==Overgrowth==
+Once a pot's growth bar is filled, it will reset and gain overgrowth effect which does the following:
+*Multiply growing time by 5 (can be reduced by cards to the minimum of 2.3x , at 120% card effect)
+*Multiply flowers gained by 2
+It is possible to accumulate multiple overgrowth. The current overgrowth is written next to the growth bar.
+
+== Pots==
+Pots are the upgradeable tools used to grow and harvest plants used in [[Apothecary]]. The amount of herbs ([[File:Botany plant icon.png]]) and Botany EXP gained on harvest ([[File:Herbexp_icon.png|14px]]) is increased by upgrading a pot's Value. Also, the amount of time required to grow a plant ([[File:Time_icon.png|14px]]) is reduced by upgrading a pot's Speed. Lastly, the chance for the next plant seed to be harvested ([[File:Newseed_icon.png|14px]]) is increased by "Exotic Plant Chance" potions and allowing plants to be overgrown. Botany EXP is awarded only when plants are harvested.
+
+One pot is available to start with, but up to 14 pots can be owned once prerequisite H2O levels are met and they're purchased with gold.
+
+{| class="article-table" border="1" align="center" style="text-align: center;" |
+!Unlock Req.
+! style="text-align: center;" |Pot 1
+! style="text-align: center;" | Pot 2
+! style="text-align: center;" |Pot 3
+! style="text-align: center;" |Pot 4
+! style="text-align: center;" |Pot 5
+! style="text-align: center;" |Pot 6
+! style="text-align: center;" |Pot 7
+|-
+!Cost
+| style="text-align: center;" | - ||<span style="color:#ffb31a">1500k</span>||<span style="color:#ffb31a">45m</span> ||<span style="color:#ffb31a">1.1b</span>||<span style="color:#ffb31a">20.3b</span>||<span style="color:#ffb31a">379.7b</span>||<span style="color:#ffb31a">6.9t</span>
+|-
+!H2O Level
+| style="text-align: center;" | -|| 21||27||33||39||45||51
+|-
+!Unlock Req.
+! style="text-align: center;" |Pot 8
+! style="text-align: center;" |Pot 9
+! style="text-align: center;" |Pot 10
+! style="text-align: center;" |Pot 11
+! style="text-align: center;" |Pot 12
+! style="text-align: center;" |Pot 13
+! style="text-align: center;" |Pot 14
+|-
+!Cost
+|<span style="color:#ffb31a">239.3t</span>||<span style="color:#ffb31a">12.4q</span>||<span style="color:#ffb31a">899.6q</span> ||<span style="color:#ffb31a">72.7qq</span>||<span style="color:#00FA9A">5</span>||<span style="color:#00FA9A">486</span>||<span style="color:#00FA9A">39534</span>
+|-
+!H2O Level
+|57 ||63||69|| 75||81||87|| 93
+|}
+
+==Plants==
+While new plants can be unlocked at any time, the level required to grow plants in each pot varies for each pot.
+{| class="article-table" border="1" align="center" style="text-align: center;" |
+! colspan="17" style="text-align: center;" |Plant Requirements 
+|-
+! colspan="2" rowspan="2" style="text-align: center;" |Plant
+! rowspan="2" style="text-align: center;" |Base Growth
+! colspan="14" style="text-align: center;" |Pot Level
+|-
+! style="text-align: center;" |1
+! style="text-align: center;" |2
+! style="text-align: center;" |3
+! style="text-align: center;" |4
+! style="text-align: center;" |5
+! style="text-align: center;" |6
+! style="text-align: center;" | 7
+! style="text-align: center;" |8
+! style="text-align: center;" | 9
+! style="text-align: center;" |10
+! style="text-align: center;" |11
+! style="text-align: center;" |12
+! style="text-align: center;" |13
+! style="text-align: center;" | 14
+|-
+|[[File:Weeds.png|center]]||Weeds|| style="text-align: center;" ! |'''250'''||1|| 2|| 4||6||8||10||12||14||16||18 || 20||22||24||26
+|-
+| [[File:Berries.png|center]]||Berries || style="text-align: center;" ! |'''750'''||3||5 || 7 ||9||11||13||15||17||19||21||23||25||27||29
+|-
+|[[File:Typha.png|center]] || Typha || style="text-align: center;" ! |'''2k'''||6 || 8||10||12||14||16||18||20||22||24 || 26 || 28 || 30 || 32
+|-
+|[[File:Flowers.png|center]] || Flowers|| style="text-align: center;" ! |'''5k'''||9||11||13 ||15||17||19||21||23||25||27||29 || 31 || 33 || 35
+|-
+|[[File:Cactus.png|center]]||Cactus || style="text-align: center;" ! |'''10k'''||12||14||16||18||20 ||22||24||26||28||30||32|| 34 || 36 || 38
+|-
+|[[File:Palm_tree.png|center]]||Palm Tree || style="text-align: center;" ! |'''25k'''||15||17||19||21||23||25||27||29||31||33||35||37||39||41
+|-
+|[[File:Sapling.png|center]]||Sapling|| style="text-align: center;" ! |'''100k'''||18||20||22||24||26 ||28||30||32||34|| 36||38 ||40||42||44
+|-
+| [[File:Weeplings.png|center]] || Weeplings|| style="text-align: center;" ! |'''225k'''||21||23||25||27||29||31 || 33||35||37||39 ||41||43||45 || 47
+|-
+|[[File:Saharan foal.png|center]]||Saharan Foal|| style="text-align: center;" ! |'''500k'''||24||26||28||30||32||34||36||38||40||42||44||46||48||50
+|-
+|[[File:Mint_cane.png|center]]||Mint Cane|| style="text-align: center;" ! |'''1m'''||27||29||31||33||35||37||39||41||43||45||47||49||51||53
+|-
+| [[File:Crystals.png|center]]||Crystals|| style="text-align: center;" ! |'''2.5m'''||30||32 || 34||36 || 38||40||42||44 ||46||48||50||52||54||56
+|-
+|[[File:Candypop.png|center]] || Candypop || style="text-align: center;" ! |'''5m'''||33||35|| 37 ||39 ||41||43||45||47||49||51||53||55 || 57 || 59
+|-
+|[[File:Fyreling.png|center]]||Fyreling|| style="text-align: center;" ! |'''25m'''||36||38||40||42||44||46||48|| 50||52||54||56||58||60||62
+|-
+|[[File:Blood_tree.png|center]] || Blood Tree|| style="text-align: center;" ! |'''50m'''||39||41||43||45|| 47 ||49 ||51||53||55||57||59||61||63||65
+|-
+|[[File:Mushroom_ingredient.png|center]]||Mushroom|| style="text-align: center;" ! |'''125m'''||42||44||46||48||50|| 52||54||56||58||60||62||64 || 66 || 68
+|-
+|[[File:Flesh_tree.png|center]] || Flesh Tree|| style="text-align: center;" ! |'''300m'''||45||47||49||51 ||53|| 55||57||59||61||63||65||67 || 69 || 71
+|-
+|[[File:Demonia.png|center]] || Demonia|| style="text-align: center;" ! |'''800m'''||48||50||52||54||56||58|| 60||62||64||66||68||70||72||74
+|-
+|[[File:Cursed_eye.png|center]]||Cursed Eye|| style="text-align: center;" ! |'''1.5b'''||51||53|| 55 ||57||59||61||63||65||67||69||71|| 73 || 75 || 77
+|-
+|[[File:Veninsulic.png|center]] || Veninsulic|| style="text-align: center;" ! |'''8b'''||54||56||58||60||62||64||66||68||70||72||74 || 76 || 78 || 80
+|-
+|[[File:Lemming.png|center]] || Lemming|| style="text-align: center;" ! |'''15b'''||57||59||61||63||65 ||67||69||71||73||75||77|| 79 || 81 || 83
+|-
+|[[File:Chlorine.png|center]]||Chlorine|| style="text-align: center;" ! |'''29b'''||60||62||64||66||68||70||72||74||76||78||80||82||84||86
+|-
+|[[File:Icecream.png|center]] || Icecream || style="text-align: center;" ! |'''100b'''||63||65||67||69||71||73||75||77||79||81||83||85||87||89
+|-
+|[[File:Belldrop.png|center]] || Belldrop || style="text-align: center;" ! |'''699b'''||66||68||70||72||74||76 ||78|| 80||82||84||86||88|| 90||92
+|-
+|[[File:Sunburst.png|center]]||Sunburst|| style="text-align: center;" ! |'''4.9t'''||69||71||73||75||77 ||79||81||83||85 || 87||89 || 91||93||95
+|}
+
+==Darkmode Plants==
+The spelunking update (4.00) expanded the botany section by adding 24 new plants. These plants don't need any botany level to unlock them, but require related [[Construction]]s instead. These plants can be displayed by clicking on the black spot in the upper right corner.
+{| class="article-table" border="1" align="center" style="text-align: center;" |
+! colspan="8" style="text-align: center;" |Plant Requirements
+|-
+! colspan="2" style="text-align:center;" |Plant
+! style="text-align:center;" |Base Growth
+! style="text-align: center;" |Construction
+! colspan="2" style="text-align:center;" |Plant
+! style="text-align:center;" |Base Growth
+! style="text-align: center;" |Construction
+|-
+|[[File:Baubles.png|center]]
+|Baubles
+| style="text-align: center;" ! |'''40t'''
+| rowspan="6" | [[File:Bucketeers.png|center]] Bucketeers Lv. 1
+|[[File:Swissile.png|center]]
+|Swissile
+| style="text-align: center;" ! |'''4.5qq'''
+| rowspan="6" |[[File:Plant_em_all.png|center]] Plant Em All Lv.1
+|-
+|[[File:Fluxissa.png|center]]
+|Fluxissa
+| style="text-align: center;" ! |'''80t'''
+|[[File:Spider_tree.png|center]]
+|Spider Tree
+| style="text-align: center;" ! |'''15qq'''
+|-
+|[[File:Spillage.png|center]]
+|Spillage
+| style="text-align: center;" ! |'''150t'''
+|[[File:Normal_rook.png|center]]
+|Normal Rook
+| style="text-align: center;" ! |'''35qq'''
+|-
+|[[File:Alienbush.png|center]]
+|Alienbush
+| style="text-align: center;" ! |'''350t'''
+|[[File:Podacian.png|center]]
+|Podacian
+| style="text-align: center;" ! |'''80qq'''
+|-
+|[[File:Tentacles.png|center]]
+|Tentacles
+| style="text-align: center;" ! |'''800t'''
+|[[File:Marsh_mello.png|center]]
+|Marsh Mello
+| style="text-align: center;" ! |'''250qq'''
+|-
+|[[File:Eggsacks.png|center]]
+|Eggsacks
+| style="text-align: center;" ! |'''1.5q'''
+|[[File:Snowlad.png|center]]
+|Snowlad
+| style="text-align: center;" ! |'''600qq'''
+|-
+|[[File:Shrapnil.png|center]]
+|Shrapnil
+| style="text-align: center;" ! |'''9q'''
+| rowspan="6" |[[File:Bucketeers.png|center]] Bucketeers Lv. 2
+|[[File:Stem_cells.png|center]]
+|Stem Cells
+| style="text-align: center;" ! | '''<span style="color:#00FA9A">5</span>'''
+| rowspan="6" |[[File:Plant_em_all.png|center]] Plant Em All Lv. 2
+|-
+|[[File:Dabberdoo.png|center]]
+|Dabberdoo
+| style="text-align: center;" ! |'''35q'''
+|[[File:Dank_vine.png|center]]
+|Dank Vine
+| style="text-align: center;" ! |'''<span style="color:#00FA9A">30</span>'''
+|-
+|[[File:Fourchese.png|center]]
+|Fourchese
+| style="text-align: center;" ! |'''85q'''
+|[[File:Candypop2.png|center]]​​
+|Candypop
+| style="text-align: center;" ! |'''<span style="color:#00FA9A">199</span>'''
+|-
+|[[File:Sapswing.png|center]]
+|Sapswing
+| style="text-align: center;" ! |'''200q'''
+|[[File:Emoticons.png|center]]
+|Emoticons
+| style="text-align: center;" ! |'''<span style="color:#00FA9A">4k</span>'''
+|-
+|[[File:Twisturn.png|center]]
+|Twisturn
+| style="text-align: center;" ! |'''650q'''
+|[[File:Camouflage.png|center]]​​​
+|Camouflage
+| style="text-align: center;" ! |'''<span style="color:#00FA9A">90k</span>'''
+|-
+|[[File:Corale.png|center]]
+|Corale
+| style="text-align: center;" ! |'''2.5qq'''
+|[[File:Glassicle.png|center]]
+|Glassicle
+| style="text-align: center;" ! |'''<span style="color:#00FA9A">5m</span>'''
+|}
+
+==Botany Boosts==
+
+===Pot Perks===
+Every pot has an individual rank that levels up as plants are harvested from them. As pots rank up, they also unlock perks that both affect itself and all pots in beneficial ways.
+{| class="article-table" border="1" align="center"
+! style="text-align:center;" |Pot Tier
+! style="text-align:center;" |Rank
+! style="text-align:center;" |Perk
+! style="text-align:center;" | Bonus
+|-
+|[[File:Botany_pot1.png|center|40px]]
+| style="text-align:center;" | -
+| style="text-align:center;" | -
+| style="text-align:center;" | -
+|-
+|[[File:Botany_pot2.png|center|40px]]
+|[[File:Farmingrank1.png|center|40px]]
+|[[File:Botanyperk1.png|center|40px]]
+| +25% Speed Every Pot Level
+|-
+|[[File:Botany_pot3.png|center|40px]]
+|[[File:Farmingrank2.png|center|40px]]
+|[[File:Botanyperk2.png|center|40px]]
+| +50% EXP for All Pots
+|-
+|[[File:Botany_pot4.png|center|40px]]
+|[[File:Farmingrank3.png|center|40px]]
+|[[File:Botanyperk3.png|center|40px]]
+| +1% Speed Every Upgrade Level
+|-
+|[[File:Botany_pot5.png|center|40px]]
+|[[File:Farmingrank4.png|center|40px]]
+|[[File:Botanyperk4.png|center|40px]]
+| +10 Max Speed Upgrade Levels
+|-
+|[[File:Botany_pot6.png|center|40px]]
+|[[File:Farmingrank5.png|center|40px]]
+|[[File:Botanyperk5.png|center|40px]]
+| +30% Plant Gain for Every Pot
+|-
+|[[File:Botany_pot7.png|center|40px]]
+| style="text-align:center;" | -
+| style="text-align:center;" | -
+| style="text-align:center;" | -
+|-
+|[[File:Botany_pot8.png|center|40px]]
+|[[File:Farmingrank7.png|center|40px]]
+|[[File:Botanyperk6.png|center|40px]]
+| +30% Speed for All Pots
+|}
+
+There is no cap on pot levels, but the amount EXP required for each pot is defined by the exponential formula:
+*<code>previousCost * (15 - potID) / 3 + 50 * rankLevel + 100 * potID</code>
+
+
+===Cards===
+Unique Botany [[cards]] can be earned when harvesting plants on the screen. Each plant has its own card and the drop chance improves with each overgrowth level (see [https://docs.google.com/spreadsheets/d/10yruc84LIIKtTUxwYqBMEQTb-IggGKpz79BUbuEyDpo/edit#gid=675803075%7C this sheet]), being nearly guaranteed at overgrowth level 14. However, card drop bonus does not influence botany card drop rates.
+
+{{:Cards/Botany|1}}
+<hr />
+<br />
+=== Other===
+*[[Apothecary|Potions]]:<div class="mw-customtoggle-BotanyPotions wikia-menu-button">Show/Hide table</div>
+{| class="article-table mw-collapsible mw-collapsed" align="center"
+|-
+! colspan="3" style="text-align: center;" |Botany Potions List
+|-
+! colspan="2" style="text-align: center;" |Potion 
+! style="text-align: center;" |Per Level Bonus
+|-
+| style="text-align: center;" |[[File:Miracle_grow.png|center|30px]]||Miracle Grow||4% Botany Growth Speed
+|-
+| style="text-align: center;" | [[File:Flower_power.png|center|30px]]||Flower Power||5% Flowers Gained for All Botany Pots
+|-
+| style="text-align: center;" |[[File:Big_farma.png|center|30px]] ||Big Farma||5% Botany EXP
+|-
+| style="text-align: center;" |[[File:Exotic_yield.png|center|30px]]||Exotic Yield||10% Exotic Flowers
+|-
+| style="text-align: center;" |[[File:Weed_speed.png|center|30px]]||Weed Speed || 10% Botany Growth Speeds
+|-
+| style="text-align: center;" |[[File:Pot_enabler.png|center|30px]]||Pot Enabler ||1 Max Upgradeable Flower Pot Speed Level (Bonus Increases by 1 Every 3 Levels)
+|-
+| style="text-align: center;" |[[File:Growgrow.png|center|30px]]||Growgrow||15% Botany Plants Given
+|-
+| style="text-align: center;" |[[File:Hype_jar.png|center|30px]]||Hype Jar|| 30% Botany EXP Gained
+|-
+| style="text-align: center;" |[[File:Flower_flow.png|center|30px]]||Flower Flow|| 40% Botany Growth Speed
+|-
+| style="text-align: center;" | [[File:Exotic_mix.png|center|30px]]||Exotic Mix||40% Exotic Flowers
+|-
+| style="text-align: center;" |[[File:Plant_vroom.png|center|30px]] || Plant Vroom||50% Botany Plants Given
+|-
+| style="text-align: center;" |[[File:More_fast.png|center|30px]]||More Fast||1 Max Upgradeable Flower Pot Speed Level (Bonus Increases by 1 Every 2 Levels)
+|-
+| style="text-align: center;" |[[File:Peak_plant.png|center|30px]]||Peak Plant|| 100% Botany EXP
+|-
+| style="text-align: center;" |[[File:Salve_labo.png|center|30px]]||Salve Labo||Enigmatic Booster from Smithing Boosts Botany Speed by 2% for Each Craft
+|-
+| style="text-align: center;" |[[File:Plant_vroom2.png|center|30px]]||Plant Vroom||3% Botany Growth Speed for Every Botany Level
+|-
+| style="text-align: center;" |[[File:Redemptsin.png|center|30px]]||Redemptsin||Failing To Get a New Flower Increases New Flower Chance by X% (Only for Highest Plant)
+|-
+| style="text-align: center;" |[[File:O_Cal_Masty.png|center|30px]]||O Cal Masty||Bonuses of the Mastery Perks Shown Below Are Multiplied by X
+[[File:Mastery_fight_3.png|24px]][[File:Mastery_collect_1.png|24px]][[File:Mastery_collect_2.png|24px]][[File:Mastery_collect_3.png|24px]][[File:Mastery_collect_4.png|24px]][[File:Mastery_collect_7.png|24px]]
+|-
+| style="text-align: center;" |[[File:Gray_Drank.png|center|30px]]||Gray Drank ||Leveling Up Botany Has a X% Chance to Increase the Value and Speed LVL of All Pots
+|-
+| style="text-align: center;" |[[File:Badonkadonk.png|center|30px]]||Badonkadonk||+X% Ores Every 50 Balls Launched (powered up by Baba Donakka potion)
+|-
+| style="text-align: center;" |[[File:Certo_Fizz.png|center|30px]]||Certo Fizz||
+times X Flower Gain per Cert. Fish
+Certification Req:<div class="mw-customtoggle-CertoFizz wikia-menu-button">Show/Hide table</div>
+{| class="article-table mw-collapsible mw-collapsed" align="center"
+|-
+! scope="col" |Fish
+! scope="col" |Amount
+! scope="col" |Fish
+! scope="col" |Amount
+|-
+|[[File:Old_shoe.png|center|24px]]
+|<span style="color:#00FA9A">1</span>
+|[[File:Lobster.png|center|24px]]
+|<span style="color:#00FA9A">1q</span>
+|-
+|[[File:Tin_can.png|center|24px]]
+|<span style="color:#00FA9A">10</span>
+|[[File:Bonefish.png|center|24px]]
+|<span style="color:#00FA9A">10q</span>
+|-
+|[[File:Minnow.png|center|24px]]
+|<span style="color:#00FA9A">100</span>
+|[[File:Blue_shark.png|center|24px]]
+|<span style="color:#00FA9A">100q</span>
+|-
+|[[File:Small_tuna.png|center|24px]]
+|<span style="color:#00FA9A">1k</span>
+|[[File:Yellow_fin_tuna.png|center|24px]]
+|<span style="color:#00FA9A">1qq</span>
+|-
+|[[File:Jellyfish.png|center|24px]]
+|<span style="color:#00FA9A">10k</span>
+|[[File:Pink_swordfish.png|center|24px]]
+|<span style="color:#00FA9A">10qq</span>
+|-
+|[[File:Medium_yellow_fish.png|center|24px]]
+|<span style="color:#00FA9A">100k</span>
+|[[File:Snail_fish.png|center|24px]]
+|<span style="color:#00FA9A">100qq</span>
+|-
+|[[File:Chainmailfish.png|center|24px]]
+|<span style="color:#00FA9A">1m</span>
+|[[File:Hammerhead_shark.png|center|24px]]
+|<span style="color:#ff471a">1</span>
+|-
+|[[File:Red_herring.png|center|24px]]
+|<span style="color:#00FA9A">10m</span>
+|[[File:Yellow_gulper.png|center|24px]]
+|<span style="color:#ff471a">10</span>
+|-
+|[[File:Sword_fish.png|center|24px]]
+|<span style="color:#00FA9A">100m</span>
+|[[File:Pike_fish.png|center|24px]]
+|<span style="color:#ff471a">100</span>
+|-
+|[[File:Ice_cube_fish.png|center|24px]]
+|<span style="color:#00FA9A">1b</span>
+|[[File:Giant_sea_urchin.png|center|24px]]
+|<span style="color:#ff471a">1k</span>
+|-
+|[[File:Puffer_fish.png|center|24px]]
+|<span style="color:#00FA9A">10b</span>
+|[[File:Manta_ray.png|center|24px]]
+|<span style="color:#ff471a">10k</span>
+|-
+|[[File:Crystalfish.png|center|24px]]
+|<span style="color:#00FA9A">100b</span>
+|[[File:Yellow_grouper.png|center|24px]]
+|<span style="color:#ff471a">100k</span>
+|-
+|[[File:Bobbit_worm.png|center|24px]]
+|<span style="color:#00FA9A">1t</span>
+|[[File:Giant_sea_serpent.png|center|24px]]
+|<span style="color:#ff471a">1m</span>
+|-
+|[[File:Dollar_fish.png|center|24px]]
+|<span style="color:#00FA9A">10t</span>
+|[[File:Kraken.png|center|24px]]
+|<span style="color:#ff471a">10m</span>
+|-
+|[[File:Angler_fish.png|center|24px]]
+|<span style="color:#00FA9A">100t</span>
+|[[File:Jumbo_shrimp.png|center|24px]]
+|<span style="color:#ff471a">100m</span>
+|}
+|-
+| style="text-align: center;" |[[File:Resoursake.png|center|30px]]||Resoursake||Ore. Fish. Botany. Potion. Crusade. and Limbo Card Bonuses are Increased to the Power of X
+|-
+| style="text-align: center;" |[[File:Baba_Donakka.png|center|30px]]||Baba Donakka||Badonkadonk Potion Now Boosts More Things (Fish. Crops. Flowers. Brew Speed. Dmg)
+Its Boost is Increased to the Power of X (caps at 2)
+|}
+*[[Cards]]:<div class="mw-customtoggle-BotanyCards wikia-menu-button">Show/Hide table</div>
+{| class="article-table mw-collapsible mw-collapsed" align="center"
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |Zone 
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:6star.png|text-bottom]]
+|-
+|[[File:c_lava_ooze.png|30px]]
+|Purgatory-10
+|Lava Ooze
+|Botany Growth Speed
+|5%
+|25%
+|30%
+|-
+|[[File:C_disciple_h.png|30px]]
+|Purgatory-19
+|Disciple B
+|Botany Speed Upgrades
+|5
+|25
+|30
+|-
+|[[File:9_-_Lunadryl.png|30px]]
+|LunarIsle-9
+|Lunardyl
+|Botany Speed Upgrades
+|6
+|30
+|36
+|-
+|[[File:15_-_The_Maw.png|30px]]
+|LunarIsle-15
+|The Maw
+|Botany Growth Speed
+|6%
+|30%
+|36%
+|-
+|[[File:22_-_Keymaster_MS.png|30px]]
+|LunarIsle-22
+|Keymaster MS
+|Overgrowth Time Redux
+|8%
+|40%
+|48%
+|-
+|[[File:C_concubine.png|30px]] 
+|Oblivion-14 
+|Concubine
+|Botany Growth Speed
+|15%
+|75%
+|90%
+|-
+|[[File:Card_Emigdala-X.png|30px]]
+| Emigdala-3 
+|Emigdala X
+|Botany Growth Speed (passive)
+|15%
+|300%
+|810%
+|} 
+*[[Perks#Yellow Farming Perk Tree|Perk]] tree perks:
+**[[File:Yellowperk3.png|24px]] +1 max pot speed lvl every 25 Tilling lvls (up to +50).
+**[[File:Yellowperk7.png|24px]] +15% multidrop chance to get an extra plant harvest (up to 750%).
+**[[File:Yellowperk8.png|24px]] +1% overgrowth flower bonus multiplier (up to 50%).
+**[[File:Yellowperk10.png|24px]] +10% overgrowth speed (up to 150%).
+*[[Rebirth]] perks: 
+**[[File:BP_BotanyLvls.png|24px]] Herbal Legalization, +1 Botany starting levels after Rebirth (up to +50).
+** [[File:BP_OverlvlSpeed.png|24px]] Mystic Botany, +5% growing speed for each pot overlevel.
+*[[Mastery]] perks:
+** [[File:Mastery_collect_4.png|24px]] flower gain (up to 172%).
+* [[Smithing]] crafts:
+**[[File:Tin_pail_tree.png|24px]] Tin Pail Tree, Warped tier - up to +6,000% botany growth speed.
+**[[File:Cremation_Jar.png|24px]] Cremation Jar, Zaqqic tier - additional max lvls to Mystic Botany Rebirth perk. Levels over 200 also grant +5% flower gain per overlevel.
+*[[Tinkering]] gear:
+**[[File:Sword.png|24px]] Sword, 10% flower pot EXP.
+**[[File:Stalagmitite.png|24px]] Stalagmitite, 70% flowers gained per Botany lvl.
+**[[File:Crystal_basher.png|24px]] Crystal Basher, 70% new flower odds.
+**[[File:Demons_head.png|24px]] Demons Head, 150% flowers gained per Botany lvl.
+**[[File:Tribal_tattoo.png|24px]] Tribal Tattoo, 50% botany grow speed.
+**[[File:Seat_belts.png|24px]] Seat Belts, 25% flower pot EXP.
+**[[File:Parallax_armor.png|24px]] Parallax Armor, 37% new flower odds.
+**[[File:Martial_pants.png|24px]] Martial Pants, 22% new flower odds.
+**[[File:Radiated_pants.png|24px]] Radiated Pants, 40% botany grow speed.
+**[[File:Worm_ruff.png|24px]] Worm Ruff, 20% flowers gained per Botany lvl.
+**[[File:Cheist_pearls.png|24px]] Gheist Pearls, 35% botany grow speed.
+*[[Hatchery#Pet list|Pet]] passives: 
+**[[File:Pet_Fireplop.png|24px]] ID20 Fireplop, 20% botany speed per lvl.
+**[[File:Pet_CornDog.png|24px]] ID32 Corn Dog, 50% botany speed per lvl.
+*[[Research]] tanks:
+**[[File:Tank_Green.png|20px]] Green Tank 4, bonus 3 (botany grow speed).
+**[[File:Tank_Purple.png|20px]] Purple Tank 5, bonus 1 (bonus away time in Farming areas).
+**[[File:Tank_Purple.png|20px]] Purple Tank 5, bonus 2 (botany grow speed).
+*[[Contracts]] shop bonuses:
+**[[File:Shop_4_contract.png|24px]] Shop 4, bonus 4 - grants 5% chance to get the next flower for every overgrowth level.
+*[[Gem Shop]] purchases:
+**[[File:Shop_friendly_mushrooms.png|24px]] Friendly Mushrooms triple a pot's flower growth speed.
+[[Category:Farming]]

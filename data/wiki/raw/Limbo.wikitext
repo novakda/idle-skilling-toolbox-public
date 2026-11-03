@@ -1,0 +1,21 @@
+{{:Header/Limbo}}
+
+The ethereal plane can first be accessed after you've defeated Keymaster Y in the [[Grasslands]] Zone. Once you've completed this, unlock the first perk from the [[Perks#Blue Limbo Perk Tree|Blue Perk Tree]] and enter a peculiar rift that's now available from the [[Fishing]] docks. After you've done this once, you can permanently access Limbo from the top left menu.
+
+
+[[File:Limbo_rift.png|center]]
+
+
+Limbo features three activities: [[Spiriting]], [[Summoning]], and [[Contracts]]. Spiriting generates souls which you spend on building Summoning Rifts, which provide additional bonuses towards most aspects of the game. Contracting is a quest-based feature where you earn merit badges that unlock [[Ascension]] Perks, auto progression for zones, and various additional boosts.
+
+
+{| style="width: 60%;"  cellspacing="0" cellpadding="0" border="0" align="center"
+| style="width: 15%;"|[[File:Spiriting_icon.png|center|link=Spiriting]]
+| style="width: 15%;"|[[File:Summoning_icon.png|center|link=Summoning]]
+| style="width: 15%;"|[[File:Contracts_icon.png|center|link=Contracts]]
+|-
+| style="text-align: center;"|[[Spiriting]]
+| style="text-align: center;"|[[Summoning]]
+| style="text-align: center;"|[[Contracts]]
+|}
+[[Category:Limbo]]

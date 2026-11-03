@@ -1,0 +1,267 @@
+==Rebirth==
+Similar to [[Ascension]], but a more advanced way to earn additional permanent bonuses, but at a greater cost to current progression. The Rebirth screen becomes available after clearing [[The Mist]] and is also accessible through the [[Portal]]. This feature uses a separate currency called BP, and while some perks are locked behind unlockable cyan keys and the preceding zone lock, almost every proceeding perk requires a certain amount of BP be spend in preceding perks. You cannot use any Cyan Keys without getting to the [[Lunar Isle]] area first, whereas you can use all 4 when getting to [[Maelstrom]].
+
+In addition to everything Ascension resets, Rebirth also resets all skills levels except those from [[Crusades]], [[Pets]] and [[Construction]] content, resets resources owned from [[Tilling]], [[Botany]], [[Mining]], and [[Fishing]], and lastly resets all unspent AP.
+
+==How to Earn BP Points==
+The amount of BP earned is determined by:
+# Total Perk Levels from Tillers and Botany Pots, capping at 1250 BP.
+# Total Number of Botany Flowers Discovered, capping at 576 BP.
+# Total Number of Unspent Tilling Crops, capping at 750 BP.
+# Unspent AP, capping at 1500 BP (at around 5.5B AP).
+# Highest Monster Reached, capping at 5000 BP.
+# Miscellaneous bonuses:
+
+==== [[Cards]] ====
+{| class="article-table" align="center" border="1"
+! colspan="2" style="text-align: center;" |Card
+! style="text-align: center;" |Type
+! style="text-align: center;" |Benefit
+|-
+|[[File:C the banished.png|center|63x63px]]
+|The Banished
+|BP Upon Rebirthing
+| +6 Base, +30 Max
+|-
+|[[File:C mushketeer.png|center|63x63px]]
+|Mushketeer
+|BP Upon Rebirthing
+| +8 Base, +40 Max
+|-
+|[[File:8 - Funni Boi.png|center|63x63px]]
+|Funny Boi
+|BP Upon Rebirthing
+| +10 Base, +50 Max
+|-
+|[[File:C tubular.png|center|63x63px]]
+|Tubular
+|BP Upon Rebirthing
+| +40 Base, +200 Max
+|}
+
+==== Items ====
+{| class="article-table" align="center" border="1"
+! colspan="2" style="text-align: center;" |Craft
+! style="text-align: center;" |Bonus
+! style="text-align: center;" |Requirement
+|-
+|[[File:Bp straight up.png|center|46x46px]]
+|BP Straight Up
+| +0.5 BP per level (up to +1000 BP)
+|Level 90 [[Smithing|Smithing,]] Warped Smithing BP Perk
+|}
+
+* [[File:ArcadeShop_golden_ball.png|24px]]Spend golden balls in [[Arcade]] for more base BP (+2 per level, up to ?).
+
+
+===Other multipliers=== 
+
+*[[Pets|Pet]] Passives:
+**[[File:Pet_Spirit.png|24px]] ID15 Spirit, 15% BP per level,
+**[[File:Pet_Hyduck.png|24px]] ID42 Hyduck, 60% BP per level.
+*[[Research]] Tanks:
+**[[File:Tank_Pink.png|20px]] Pink Tank 4, bonus 2,
+**[[File:Tank_Purple.png|20px]] Purple Tank 3, bonus 2,
+**[[File:Tank_Blue.png|20px]] Blue Tank 1, bonus 2,
+**[[File:Tank_Blood.png|20px]] Blood Tank 3, bonus 2.
+*[[File:TPerk_BP.png|24px]] [[Train#Training_Perks|Training]] Perk no.11, 2% BP per level (up to 198%).
+*[[File:InfPerk_05.png|24px]] [[Perks#Infinite_Perk_Tree|Infinity]] Perk, 1.5% BP per level (unlimited).
+*[[File:Ap_rift.png|24px]] AP Rift Pro, unlocked through [[Construction]] (up to 226.9%).
+*[[File:Contracts_icon.png|24px]] Each level of the second perk from Shop 4 in [[Contracts]] grants 3% extra BP when Rebirthing, up to 33% (+30% with[[File:DairyAisle_Contract.png|30px]][[Dairy Aisle|Perfectionist]]).
+*Buy the Double BP bonus from the [[Gem Shop]] for 350 gems, adding 100% more BP per purchase, up to 5 times for a maximum bonus of 500%.
+
+
+
+You can redeem [[File:Loot_BPCoupon.png|50px]] BP Coupons to immidiately receive BP as if you have Rebirthed, but without resetting the progress. They can be bought in [[Gem Shop]] or dropped in [[Asylum]] and [[Crypt]].
+
+==BP Perks==
+[[File:RebirthTree.png|center|BP Perk Tree|500px]]
+{| class="article-table" style="clear:all; padding=5px; text-align: center" border="1"
+! colspan="7" style="text-align: center;" |Reach [[Dungeon]]
+|-
+| style="width:16.6%" |[[File:BP_SmithTier9.png|42px|center]]
+| style="width:16.6%" |[[File:BP_T-Perks.png|42px|center]]
+| style="width:16.6%" |[[File:BP_Contract7.png|42px|center]]
+| style="width:16.6%" |[[File:BP_Kills.png|42px|center]]
+| style="width:16.6%" |[[File:BP_CrystalSlots.png|42px|center]]
+| style="width:16.6%" |
+| style="width:16.6%" |
+|-
+|Warped Smithing
+|Training Perks
+|Ungodly Contract
+|Skull Crusher
+|Crystal Slots
+|
+|
+|-
+|Unlocks smithing and mining tier 9<br />+1n% Smithing Exp
+|Unlocks the other 10 training perks that you cannot get from [[Ascension|ascending]]
+|Unlocks ungodly contracts
+| +10n% kills
+|Unlocks crystal slots for apothecary and mining
+|
+|
+|-
+! colspan="7" style="text-align: center;" |Reach [[Purgatory]]
+|-
+|[[File:BP_PurpleCrystal.png|42px|center]]
+|[[File:BP_CritToggle.png|42px|center]]
+|[[File:BP_H2oSmithing.png|42px|center]]
+|[[File:BP_YellowCrystal.png|42px|center]]
+|[[File:BP_H2oDmg.png|42px|center]]
+|[[File:BP_H2oApo.png|42px|center]]
+|
+|-
+|Purple Crystals
+|Wasnt aiming for ya
+|H2O Smith Reeeeeedux
+|Yellow Crystals
+|H2O Kapow Kazaw
+|H2O Potion Damper
+|
+|-
+|<nowiki>+1n purple crystals</nowiki>
+| +1 max toggle, per toggle: -20% crit, +10% damage (damage is multiplicative with itself)
+| -0.1% smithing scaling per H2O level over 100 (bugged: no effect)
+|<nowiki>+1n yellow crystals</nowiki>
+| +1n% damage per H2O level over 100
+| -0.25% potion cost scaling per H2O level over 100
+|
+|-
+|
+|
+|
+|[[File:BP_TillingLvls.png|42px|center]]
+|[[File:BP_BotanyLvls.png|42px|center]]
+|[[File:BP_RedCrystal.png|42px|center]]
+|
+|-
+|
+|
+|
+|Potato Veins
+|Herbal Legalization
+|Red Crystals
+|
+|-
+|
+|
+|
+|<nowiki>+1n tilling starting level</nowiki>
+|<nowiki>+1n botany starting level</nowiki>
+|<nowiki>+1n red crystals</nowiki>
+|
+|-
+! colspan="6" style="text-align: center;" |Reach [[The Bog]]
+! colspan="6" style="text-align: center;" |
+|-
+|[[File:BP_BackdoorBog.png|42px|center]]
+|[[File:BP_SmithTier10.png|42px|center]]
+|[[File:BP_Resources.png|42px|center]]
+|[[File:BP_Contract8.png|42px|center]]
+|[[File:BP_Shop4.png|42px|center]]
+|[[File:BP_ApoLvls.png|42px|center]]
+|
+|-
+|Backdoor Bog
+|Djinnic Smithing
+|Oresome Fishtastic
+|Cerebral Contract
+|Contract Shop 4
+|Apocathery Canary
+|
+|-
+|Can only rebirth after reaching bog, 2x BP gain
+|Unlocks smithing and mining tier 10<br />+3% Smithing Exp
+| +10% ore<br />+30% fish
+|Unlocks cerebral contracts
+|Unlocks contract shop 4
+|<nowiki>+1n apothecary starting level</nowiki>
+|
+|-
+! colspan="7" style="text-align: center;" |Reach [[Lunar Isle]]
+|-
+|[[File:BP_BTQ2.png|42px|center]]
+|[[File:BP_H2oCash.png|42px|center]]
+|[[File:BP_BTQ1.png|42px|center]]
+|[[File:BP_OverlvlSpeed.png|42px|center]]
+|[[File:BP_BrewSpeed.png|42px|center]]
+|[[File:BP_APBonus.png|42px|center]]
+|
+|-
+|Forgotten Tongue
+|H2O Money Bags
+|Unspoken Words
+|Mystic Botany
+|Bubble Bubble
+|AP Extravaganza
+|
+|-
+| +15n% damage ([[Contracts#Shop_4|cyan key]] unlock)
+| +1% cash per H2O level over 100
+| +5n% damage ([[Contracts#Shop_4|cyan key]] unlock)
+| +5n% botany speed for each pots overlevel
+| +8n% brew speed
+| +10n% ap gain ([[Contracts#Shop_4|cyan key]] unlock)
+|
+|-
+! colspan="7" style="text-align: center;" |Reach [[Maelstrom]]
+|-
+|[[File:BP_TPerkPoints.png|42px|center]]
+|[[File:BP_Contract9.png|42px|center]]
+|[[File:BP_BlueCrystal.png|42px|center]]
+|[[File:BP_Shop5.png|42px|center]]
+|[[File:BP_NewHeights.png|42px|center]]
+|[[File:BP_BTQ3.png|42px|center]]
+|[[File:Rebirth_PetExpertise.png|42px|center]]
+|-
+|Extra H2O Tokens
+|Lavathian Contract
+|Blue Crystals
+|Contract Shop 5
+|New Heights
+|Derelict Warcry
+|Pet Expertise
+|-
+| +1n extra training perk tokens
+|Unlocks lavathian contracts
+|<nowiki>+1n blue crystals</nowiki>
+|Unlocks contract shop 5
+|Higher caps for some rebirth perks (H2O damage, BTQ1, BTQ2, H2O cash, brew speed)
+| +20n% damage
+|Increase exp gain for all 3 pet skills ([[Contracts#Shop_4|cyan key]] unlock)
+|-
+! colspan="7" style="text-align: center;" |Reach [[Oblivion]]
+|-
+|[[File:Rebirth_AllStar.png|42px|center]]
+|
+|
+|
+| style="width:16.6%" |
+| style="width:16.6%" |
+| style="width:16.6%" |
+|-
+|All Star
+|
+|
+|
+|
+|
+|
+|-
+|Skilltree perks can be leveled to 0+ n, caps at 5
+|
+|
+|
+|
+|
+|
+|}
+===Infinity BP Perks===
+Once the Tree is fully upgraded, a [[Dairy Aisle]] order is obtained, Perkinator. It allows to limitlessly spend the points on two new perks. 
+[[File:Rebirth_Tribalism.png|left|42px]]Tribalism At Its Finest: Increases the level of all damage rebirth perks (Unspoken Words, Forgotten Tongue, Derelict Warcry) by +1n. 
+
+
+[[File:Rebirth_Possessed.png|left|42px]]Possesed Pets: +1n% pet travel speed.
+[[Category:Portal]]

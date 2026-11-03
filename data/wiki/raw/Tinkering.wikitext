@@ -1,0 +1,923 @@
+<p style="text-align: center;">
+</p>
+
+{{:Header/Crusades}}
+Use Tinkering to craft and equip with materials gained from [[Crusades]]. There are 6 free equipment slots and 1 premium slot that can be purchased with 350 gems. No Tinkering materials, levels, or equipment are lost after [[Ascension|Ascending]].
+== Materials ==
+Crafting materials are organized into six tiers: Common, Uncommon, Rare, Epic, Legendary, and Pearlescent. Higher tier items drop from higher level Crusade bosses and difficulty tiers as represented in the following table:
+
+{| class="article-table" border="1" align="center"
+|-
+! rowspan="2" |Crusade<p style="text-align: center;">Level</p>
+! rowspan="2" scope="col" style="text-align: center;" |Boss
+! colspan="5" scope="col" style="text-align: center;" |Difficulty Level
+|-
+! colspan="2" style="text-align: center;"|1
+! style="text-align: center;"|7
+! style="text-align: center;"|17
+! style="text-align: center;"|27
+|-
+| style="text-align: center;"|1
+|[[File:The_bruiser.png|center|40px]]
+| style="background-color: gray" |[[File:Common1.png|center|32px]]
+| style="background-color: gray" |[[File:Common2.png|center|32px]]
+| style="background-color: gray" |[[File:Common11.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon1.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon10.png|center|32px]]
+|-
+| style="text-align: center;"|5
+|[[File:Toxic_sludge.png|center|40px]]
+| style="background-color: gray" |[[File:Common6.png|center|32px]]
+| style="background-color: gray" |[[File:Common12.png|center|32px]]
+| style="background-color: gray" |[[File:Common7.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon4.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon9.png|center|32px]]
+|-
+| style="text-align: center;" |10
+|[[File:Killer_rabbit.png|center|40px]]
+| style="background-color: gray" |[[File:Common4.png|center|32px]]
+| style="background-color: gray" |[[File:Common8.png|center|32px]]
+| style="background-color: gray" |[[File:Common14.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon7.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon5.png|center|32px]]
+|-
+| style="text-align: center;" |15
+|[[File:Desert_giant.png|center|40px]]
+| style="background-color: gray" |[[File:Common5.png|center|32px]]
+| style="background-color: gray" |[[File:Common3.png|center|32px]]
+| style="background-color: gray" |[[File:Common10.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare1.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare4.png|center|32px]]
+|-
+| style="text-align: center;" |20
+|[[File:Pincermin.png|center|40px]]
+| style="background-color: gray" |[[File:Common9.png|center|32px]]
+| style="background-color: gray" |[[File:Common13.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon3.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare11.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic1.png|center|32px]]
+|-
+| style="text-align: center;" |30
+|[[File:Desert_wurm.png|center|40px]]
+| style="background-color: gray" |[[File:Common15.png|center|32px]]
+| style="background-color: gray" |[[File:Common16.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon6.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon8.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic3.png|center|32px]]
+|-
+| style="text-align: center;" |40
+|[[File:Faust.png|center|40px]]
+| style="background-color: forestgreen" |[[File:Uncommon11.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon2.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare2.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic10.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic8.png|center|32px]]
+|-
+| style="text-align: center;" |50
+|[[File:Arachneon.png|center|40px]]
+| style="background-color: dodgerblue" |[[File:Rare7.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare5.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic2.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic5.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary9.png|center|32px]]
+|-
+| style="text-align: center;" |60
+|[[File:Gheist.png|center|40px]]
+| style="background-color: dodgerblue" |[[File:Rare6.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare8.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare10.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic9.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary1.png|center|32px]]
+|-
+| style="text-align: center;" |70
+|[[File:Basilisk.png|center|40px]]
+| style="background-color: dodgerblue" |[[File:Rare9.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare3.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic4.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary10.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary4.png|center|32px]]
+|-
+| style="text-align: center;" |80
+|[[File:Blobulytes.png|center|40px]]
+| style="background-color: blueviolet" |[[File:Epic6.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic11.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic7.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary5.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl2.png|center|32px]]
+|-
+| style="text-align: center;" |90
+|[[File:Puppeteer.png|center|40px]]
+| style="background-color: darkorange" |[[File:Legendary2.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary6.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary8.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl1.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl6.png|center|32px]]
+|-
+| style="text-align: center;" |99
+|[[File:Narcissus.png|center|40px]]
+| style="background-color: darkorange" |[[File:Legendary3.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary7.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl8.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl5.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl9.png|center|32px]]
+|-
+| style="text-align: center;" |120
+|[[File:Crusader crapotti.png|center|40px]]
+| style="background-color: forestgreen" |[[File:Uncommon12.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare12.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic12.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary11.png|center|32px]]
+| style="background-color: cyan" |[[File:Perarlescent7.png|center|32px]]
+|-
+| style="text-align: center;" |140
+|[[File:Crusader father of all.png|center|40px]]
+| style="background-color: dodgerblue" |[[File:Rare13.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic13.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary12.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearlescent8.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearlescent9.png|center|32px]]
+|}
+
+== Recipes ==
+Recipes are unlocked by gaining levels from crafting equipment and boosters. Higher tier recipes are crafted by using excess crafted items from previous tiers. This works out because it's necessary to create many lower tier items in order to level up Tinkering, so those resources are never lost and end up being used in later tiers.
+
+Once an item is crafted, it will always be available to be equipped, even if all excess items are used later. Recipe costs do not increase after crafting an item. Crusade item bonuses work everywhere in the game.
+
+Later on, in the Tunnel, you are able to unlock a 3rd bonus for each item by constructing the Tink Time building (for Weapons, Helmets and Shirts) and Tinkolicious building (for Pants, Offhands and Pendants)
+
+=== Weapons ===
+
+{| class="article-table" style="width:100%" border="1"
+!Item
+!Crusading<br />Level
+!Level
+!Bonus 1
+!Bonus 2
+!Bonus 3 (Unlocked)
+! colspan="2" |Material Costs
+!Previous Tier
+|- style="text-align: center;"
+|[[File:Wooden_spear.png|center|60px]]
+|5
+|1
+|500 Base Damage
+|20% Claw Damage
+|200% Monster Cash
+| style="background-color: gray; color: black;" |250 [[File:Common1.png|center|32px]]
+| style="background-color: gray; color: black;" |240 [[File:Common2.png|center|32px]]
+| -
+|- style="text-align: center;"
+|[[File:Metal_trident.png|center|60px]]
+|40
+|10
+|2K Base Damage
+|3% Crit Chance
+|10% Nest Speed
+| style="background-color: forestgreen; color: black;" |86[[File:Uncommon2.png|center|32px]]
+| style="background-color: gray; color: black;" |2.5K [[File:Common3.png|center|32px]]
+|25
+|- style="text-align: center;"
+|[[File:Royal_bayonet.png|center|60px]]
+|40
+|25
+|10K Base Damage
+|15% Idle Speed
+|12% Dig Down Amount
+| style="background-color: dodgerblue; color: black;" |19[[File:Rare2.png|center|32px]]
+| style="background-color: forestgreen; color: black;" |440 [[File:Uncommon5.png|center|32px]]
+|15
+|- style="text-align: center;"
+|[[File:Stalagmitite.png|center|60px]]
+|60
+|50
+|35K Base Damage
+|100% Idle Damage
+|70% Flowers Gained Per Botany Level
+| style="background-color: blueviolet; color: black;" |8[[File:Epic8.png|center|32px]]
+| style="background-color: dodgerblue; color: black;" |57 [[File:Rare6.png|center|32px]]
+|8
+|- style="text-align: center;"
+|[[File:Blood_screamer.png|center|60px]]
+|90
+|75
+|100K Base Damage
+|150% Total Damage
+|50% Tilling EXP Per H2O Level
+| style="background-color: darkorange; color: black;" |5[[File:Legendary2.png|center|32px]]
+| style="background-color: blueviolet; color: black;" |18[[File:Epic7.png|center|32px]]
+|4
+|- style="text-align: center;"
+|[[File:Sword.png|center|60px]]
+|15
+|5
+|20% Total Damage
+|40% Meteor Damage
+|10% Flower Pot EXP
+| style="background-color: gray; color: black;" |288 [[File:Common3.png|center|32px]]
+| style="background-color: gray; color: black;" |264 [[File:Common6.png|center|32px]]
+| -
+|- style="text-align: center;"
+|[[File:Warrior_axe.png|center|60px]]
+|40
+|15
+|50% Total Damage
+|50% Smite Damage
+|17% Crop Land EXP
+| style="background-color: forestgreen; color: black;" |446[[File:Uncommon2.png|center|32px]]
+| style="background-color: gray; color: black;" |3K [[File:Common13.png|center|32px]]
+|25
+|- style="text-align: center;"
+|[[File:Flaming_katana.png|center|60px]]
+|70
+|35
+|100% Total Damage
+|100 Ignore Defense
+|5% Spelunker Speed
+| style="background-color: dodgerblue; color: black;" |23 [[File:Rare3.png|center|32px]]
+| style="background-color: dodgerblue; color: black;" |21[[File:Rare5.png|center|32px]]
+|15
+|- style="text-align: center;"
+|[[File:Heroic_rapier.png|center|60px]]
+|60
+|60
+|200% Total Damage
+|50% Total HP
+|40% Crusade Multiplier
+| style="background-color: blueviolet; color: black;" |8 [[File:Epic9.png|center|32px]]
+| style="background-color: dodgerblue; color: black;" |78[[File:Rare8.png|center|32px]]
+|8
+|- style="text-align: center;"
+|[[File:Crystal_basher.png|center|60px]]
+|99
+|80
+|400% Total Damage
+|100% Crit Damage
+|70% New Flower Odds
+| style="background-color: darkorange; color: black;" |6[[File:Legendary3.png|center|32px]]
+| style="background-color: blueviolet; color: black;" |21[[File:Epic2.png|center|32px]]
+|4
+|}
+
+=== Helmets ===
+
+{| class="article-table" style="width:100%" border="1"
+!Item
+!Crusading<br />Level
+!Level
+!Bonus 1
+!Bonus 2
+!Bonus 3 (Unlocked)
+! colspan="2" |Material Costs
+!Previous Tier
+|- style="text-align: center;"
+|[[File:Gaurd_helmet.png|center|60px]]
+|5
+|1
+|2 Crusaders
+|4% Fight Bonus
+|110% Rift EXP
+| style="background-color: gray; color: black;" |172 [[File:Common12.png|center|32px]]
+| style="background-color: gray; color: black;" |238 [[File:Common6.png|center|32px]]
+| -
+|- style="text-align: center;"
+|[[File:Viking_horns.png|center|60px]]
+|30
+|8
+|4 Crusaders
+|400 Base HP
+|20% Tilling EXP Per H2O Level
+| style="background-color: forestgreen; color: black;" |91 [[File:Uncommon6.png|center|32px]]
+| style="background-color: forestgreen; color: black;" |91 [[File:Uncommon4.png|center|32px]]
+|25
+|- style="text-align: center;"
+|[[File:Trojan_helmet.png|center|60px]]
+|40
+|20
+|6 Crusaders
+|50% Monster Cash
+|23% Nest Speed
+| style="background-color: dodgerblue; color: black;" |22 [[File:Rare2.png|center|32px]]
+| style="background-color: forestgreen; color: black;" |520 [[File:Uncommon9.png|center|32px]]
+|15
+|- style="text-align: center;"
+|[[File:Crystal_crown.png|center|60px]]
+|70
+|40
+|8 Crusaders
+|70% Total HP
+|2% New Pet Odds
+| style="background-color: blueviolet; color: black;" |10 [[File:Epic4.png|center|32px]]
+| style="background-color: dodgerblue; color: black;" |76[[File:Rare9.png|center|32px]]
+|8
+|- style="text-align: center;"
+|[[File:Demons_head.png|center|60px]]
+|90
+|65
+|10 Crusaders
+|1% Ignore Defense
+|150% Flowers Gained Per Botany Level
+| style="background-color: darkorange; color: black;" |6[[File:Legendary8.png|center|32px]]
+| style="background-color: blueviolet; color: black;" |19 [[File:Epic3.png|center|32px]]
+|4
+|- style="text-align: center;"
+|[[File:Headband.png|center|60px]]
+|15
+|3
+|10% Fight Bonus
+|10% Accuracy
+|25% Mining EXP
+| style="background-color: gray; color: black;" |280 [[File:Common5.png|center|32px]]
+| style="background-color: gray; color: black;" |245 [[File:Common8.png|center|32px]]
+| -
+|- style="text-align: center;"
+|[[File:Eyepatch.png|center|60px]]
+|30
+|13
+|20% Fight Bonus
+|25% Fish Caught
+|1% Research EXP
+| style="background-color: forestgreen; color: black;" |107 [[File:Uncommon3.png|center|32px]]
+| style="background-color: gray; color: black;" |3.2K [[File:Common15.png|center|32px]]
+|25
+|- style="text-align: center;"
+|[[File:Monocle.png|center|60px]]
+|50
+|30
+|40% Fight Bonus
+|3% Crit Chance
+|1% Spelunker Learning Rate
+| style="background-color: dodgerblue; color: black;" |22[[File:Rare5.png|center|32px]]
+| style="background-color: forestgreen; color: black;" |443[[File:Uncommon8.png|center|32px]]
+|15
+|- style="text-align: center;"
+|[[File:Halo.png|center|60px]]
+|80
+|55
+|80% Fight Bonus
+|10% Shield Regen
+|600% Total Damage
+| style="background-color: blueviolet; color: black;" |8 [[File:Epic11.png|center|32px]]
+| style="background-color: dodgerblue; color: black;" |69 [[File:Rare10.png|center|32px]]
+|8
+|- style="text-align: center;"
+|[[File:Blue_party_hat.png|center|60px]]
+|99
+|77
+|200% Fight Bonus
+|20% Card Chance
+|300% Crusade Multiplier
+| style="background-color: cyan; color: black;" |2 [[File:Pearl2.png|center|32px]]
+| style="background-color: darkorange; color: black;" |6[[File:Legendary7.png|center|32px]]
+|4
+|}
+
+=== Shirts ===
+
+{| class="article-table" style="width:100%" border="1"
+!Item
+!Crusading<br />Level
+!Level
+!Bonus 1
+!Bonus 2
+!Bonus 3 (Unlocked)
+! colspan="2" |Material Costs
+!Previous Tier
+|- style="text-align: center;"
+|[[File:T_shirt.png|center|60px]]
+|10
+|1
+|25% Max Shields
+|25% Away Str EXP
+|100% Crusade EXP
+| style="background-color: gray; color: black;" |262 [[File:Common4.png|center|32px]]
+| style="background-color: gray; color: black;" |209 [[File:Common8.png|center|32px]]
+| -
+|- style="text-align: center;"
+|[[File:Rock_garb.png|center|60px]]
+|20
+|12
+|50% Max Shields
+|30% Ores Mined
+|1% New Pet Odds
+| style="background-color: forestgreen; color: black;" |87 [[File:Uncommon7.png|center|32px]]
+| style="background-color: gray; color: black;" |2.7K [[File:Common9.png|center|32px]]
+|25
+|- style="text-align: center;"
+|[[File:Hide_armor.png|center|60px]]
+|20
+|26
+|125% Max Shields
+|75% Idle Damage
+|15% Spelunker Dig Down Amount
+| style="background-color: forestgreen; color: black;" |462[[File:Uncommon3.png|center|32px]]
+| style="background-color: forestgreen; color: black;" |505 [[File:Uncommon4.png|center|32px]]
+|15
+|- style="text-align: center;"
+|[[File:Parallax_armor.png|center|60px]]
+|60
+|52
+|250% Max Shields
+|4 Crusaders
+|37% New Flower Odds
+| style="background-color: blueviolet; color: black;" |8[[File:Epic9.png|center|32px]]
+| style="background-color: dodgerblue; color: black;" |57 [[File:Rare6.png|center|32px]]
+|8
+|- style="text-align: center;"
+|[[File:Refraction_top.png|center|60px]]
+|70
+|70
+|500% Max Shields
+|15% Shield Regen
+|60% Nest Speed
+| style="background-color: darkorange; color: black;" |6 [[File:Legendary10.png|center|32px]]
+| style="background-color: dodgerblue; color: black;" |195[[File:Rare11.png|center|32px]]
+|4
+|- style="text-align: center;"
+|[[File:Leaf_sash.png|center|60px]]
+|15
+|7
+|25% Idle Damage
+|40% Rift EXP
+|2% Trekking Speed
+| style="background-color: gray; color: black;" |245 [[File:Common10.png|center|32px]]
+| style="background-color: gray; color: black;" |243 [[File:Common7.png|center|32px]]
+| -
+|- style="text-align: center;"
+|[[File:Tribal_tattoo.png|center|60px]]
+|30
+|18
+|50% Idle Damage
+|15 Ignore Defense
+|50% Botany Grow Speed
+| style="background-color: gray; color: black;" |3.2K [[File:Common15.png|center|32px]]
+| style="background-color: gray; color: black;" |2.9K [[File:Common16.png|center|32px]]
+|25
+|- style="text-align: center;"
+|[[File:Seat_belts.png|center|60px]]
+|20
+|31
+|100% Idle Damage
+|100% Max Shields
+|25% Flower Pot EXP
+| style="background-color: forestgreen; color: black;" |608 [[File:Uncommon11.png|center|32px]]
+| style="background-color: forestgreen; color: black;" |534 [[File:Uncommon3.png|center|32px]]
+|15
+|- style="text-align: center;"
+|[[File:Chilled_veins.png|center|60px]]
+|50
+|63
+|150% Idle Damage
+|60% Claw Damage
+|80% Crops Gained Per Tilling Level
+| style="background-color: blueviolet; color: black;" |9 [[File:Epic8.png|center|32px]]
+| style="background-color: dodgerblue; color: black;" |77 [[File:Rare7.png|center|32px]]
+|8
+|- style="text-align: center;"
+|[[File:Enraged_blood.png|center|60px]]
+|90
+|82
+|250% Idle Damage
+|175% Total Damage
+|125% Brew Speed
+| style="background-color: darkorange; color: black;" |2[[File:Legendary8.png|center|32px]]
+| style="background-color: blueviolet; color: black;" |29[[File:Epic3.png|center|32px]]
+|4
+|}
+
+=== Pants ===
+
+{| class="article-table" style="width:100%" border="1"
+!Item
+!Crusading Level
+!Level
+!Bonus 1
+!Bonus 2
+!Bonus 3 (Unlocked)
+! colspan="2" |Material Costs
+!Previous Tier
+|- style="text-align: center;"
+|[[File:Torn_jeans.png|center|60px]]
+|5
+|1
+|25% Total HP
+|30% Rift EXP
+|15% Vessel Gain
+| style="background-color: gray; color: black;" |250 [[File:Common11.png|center|32px]]
+| style="background-color: gray; color: black;" |269 [[File:Common7.png|center|32px]]
+| -
+|- style="text-align: center;"
+|[[File:Platelegs.png|center|60px]]
+|40
+|21
+|50% Total HP
+|4 Crusaders
+|1% Pet Damage
+| style="background-color: forestgreen; color: black;" |113 [[File:Uncommon2.png|center|32px]]
+| style="background-color: forestgreen; color: black;" |84 [[File:Uncommon11.png|center|32px]]
+|25
+|- style="text-align: center;"
+|[[File:Gilded_mail.png|center|60px]]
+|40
+|32
+|100% Total HP
+|10% Crus Multi
+|1% Research EXP
+| style="background-color: dodgerblue; color: black;" |24 [[File:Rare2.png|center|32px]]
+| style="background-color: forestgreen; color: black;" |546[[File:Uncommon6.png|center|32px]]
+|15
+|- style="text-align: center;"
+|[[File:Evil_scales.png|center|60px]]
+|70
+|47
+|200% Total HP
+|60% Ores Mined
+|12 Crusaders
+| style="background-color: blueviolet; color: black;" |11 [[File:Epic5.png|center|32px]]
+| style="background-color: dodgerblue; color: black;" |65 [[File:Rare3.png|center|32px]]
+|8
+|- style="text-align: center;"
+|[[File:Crystallax.png|center|60px]]
+|80
+|68
+|400% Total HP
+|150% Total Damage
+|12% Spelunker Speed
+| style="background-color: darkorange; color: black;" |6 [[File:Legendary5.png|center|32px]]
+| style="background-color: blueviolet; color: black;" |17 [[File:Epic8.png|center|32px]]
+|4
+|- style="text-align: center;"
+|[[File:Sweatpants.png|center|60px]]
+|15
+|4
+|10% All Skill Damage
+|30% Away Str EXP
+|10% Crop Land EXP
+| style="background-color: gray; color: black;" |298 [[File:Common5.png|center|32px]]
+| style="background-color: gray; color: black;" |280 [[File:Common4.png|center|32px]]
+| -
+|- style="text-align: center;"
+|[[File:Ninja_pants.png|center|60px]]
+|30
+|27
+|30% All Skill Damage
+|18% Accuracy
+|3% Trekking Speed
+| style="background-color: forestgreen; color: black;" |98 [[File:Uncommon5.png|center|32px]]
+| style="background-color: gray; color: black;" |3K [[File:Common15.png|center|32px]]
+|25
+|- style="text-align: center;"
+|[[File:Martial_pants.png|center|60px]]
+|60
+|41
+|100% All Skill Damage
+|6K Base Damage
+|22% New Flower Odds
+| style="background-color: dodgerblue; color: black;" |23 [[File:Rare4.png|center|32px]]
+| style="background-color: dodgerblue; color: black;" |20 [[File:Rare10.png|center|32px]]
+|15
+|- style="text-align: center;"
+|[[File:Ancient_skirt.png|center|60px]]
+|30
+|58
+|200% All Skill Damage
+|35% Mining EXP
+|6% Asylum Traces
+| style="background-color: blueviolet; color: black;" |8[[File:Epic3.png|center|32px]]
+| style="background-color: dodgerblue; color: black;" |75 [[File:Rare11.png|center|32px]]
+|8
+|- style="text-align: center;"
+|[[File:Radiated_pants.png|center|60px]]
+|99
+|71
+|400% All Skill Damage
+|300% Total HP
+|40% Botany Grow Speed
+| style="background-color: cyan; color: black;" |2 [[File:Pearl5.png|center|32px]]
+| style="background-color: blueviolet; color: black;" |58 [[File:Epic4.png|center|32px]]
+|4
+|}
+
+=== Off-hands ===
+
+{| class="article-table" style="width:100%" border="1"
+!Item
+!Crusading<br />Level
+!Level
+!Bonus 1
+!Bonus 2
+!Bonus 3 (Unlocked)
+! colspan="2" |Material Costs
+!Previous Tier
+|- style="text-align: center;"
+|[[File:Blunt_knife.png|center|60px]]
+|15
+|11
+|400 Base Damage
+|15% Idle Damage
+|120% Crusade EXP
+| style="background-color: gray; color: black;" |267 [[File:Common3.png|center|32px]]
+| style="background-color: gray; color: black;" |265 [[File:Common1.png|center|32px]]
+| -
+|- style="text-align: center;"
+|[[File:Combat_knife.png|center|60px]]
+|20
+|23
+|1.8K Base Damage
+|50% Fish Caught
+|25% Crops Gained Per Tilling Level
+| style="background-color: forestgreen; color: black;" |89 [[File:Uncommon7.png|center|32px]]
+| style="background-color: gray; color: black;" |2.7K [[File:Common13.png|center|32px]]
+|25
+|- style="text-align: center;"
+|[[File:Flame_dagger.png|center|60px]]
+|50
+|37
+|6K Base Damage
+|150% Meteor Damage
+|200% Rift EXP
+| style="background-color: dodgerblue; color: black;" |21 [[File:Rare5.png|center|32px]]
+| style="background-color: forestgreen; color: black;" |538 [[File:Uncommon9.png|center|32px]]
+|15
+|- style="text-align: center;"
+|[[File:Fluorescence.png|center|60px]]
+|50
+|49
+|20K Base Damage
+|125% All Skill Damage
+|5% Pet Damage
+| style="background-color: blueviolet; color: black;" |11 [[File:Epic2.png|center|32px]]
+| style="background-color: blueviolet; color: black;" |2[[File:Epic5.png|center|32px]]
+|8
+|- style="text-align: center;"
+|[[File:Trimmed_stabby.png|center|60px]]
+|90
+|78
+|80K Base Damage
+|250% Total Damage
+|1.5% Spelunker Learning Rate
+| style="background-color: cyan; color: black;" |2 [[File:Pearl1.png|center|32px]]
+| style="background-color: darkorange; color: black;" |6 [[File:Legendary9.png|center|32px]]
+|4
+|- style="text-align: center;"
+|[[File:Studded_shield.png|center|60px]]
+|
+20
+|16
+|400 Base HP
+|25% Ores Mined
+|100% Fish Caught
+| style="background-color: gray; color: black;" |253 [[File:Common9.png|center|32px]]
+| style="background-color: gray; color: black;" |296 [[File:Common2.png|center|32px]]
+| -
+|- style="text-align: center;"
+|[[File:Snow_stopper.png|center|60px]]
+|
+40
+|29
+|1.5K Base HP
+|40% Fish Caught
+|35% Vessel Gain
+| style="background-color: forestgreen; color: black;" |87 [[File:Uncommon11.png|center|32px]]
+| style="background-color: forestgreen; color: black;" |94 [[File:Uncommon7.png|center|32px]]
+|25
+|- style="text-align: center;"
+|[[File:Creeper_shield.png|center|60px]]
+|50
+|43
+|5K Base HP
+|30% Accuracy
+|1.5% Tilling EXP Per H2O Level
+| style="background-color: blueviolet; color: black;" |11 [[File:Epic5.png|center|32px]]
+| style="background-color: dodgerblue; color: black;" |39[[File:Rare7.png|center|32px]]
+|15
+|- style="text-align: center;"
+|[[File:Haunted_kite.png|center|60px]]
+|80
+|61
+|25K Base HP
+|250% Max Shields
+|75% Brew Speed
+| style="background-color: blueviolet; color: black;" |28 [[File:Epic7.png|center|32px]]
+| style="background-color: blueviolet; color: black;" |38 [[File:Epic11.png|center|32px]]
+|8
+|- style="text-align: center;"
+|[[File:Tremor_shield.png|center|60px]]
+|90
+|85
+|100K Base HP
+|120K Base Damage
+|10% Asylum Traces
+| style="background-color: cyan; color: black;" |2 [[File:Pearl1.png|center|32px]]
+| style="background-color: darkorange; color: black;" |6 [[File:Legendary8.png|center|32px]]
+|4
+|}
+
+=== Pendants ===
+
+{| class="article-table" style="width:100%" border="1"
+!Item
+!Crusading
+Level
+!Level
+!Bonus 1
+!Bonus 2
+!Bonus 3 (Unlocked)
+! colspan="2" |Material Costs
+!Previous Tier
+|- style="text-align: center;"
+|[[File:Carrot_charms.png|center|60px]]
+|10
+|14
+|10% Crusade EXP
+|30% Fish Caught
+|20% Crops Gained Per Tilling Level
+| style="background-color: gray; color: black;" |1.4K [[File:Common14.png|center|32px]]
+| style="background-color: gray; color: black;" |1.3K [[File:Common7.png|center|32px]]
+| -
+|- style="text-align: center;"
+|[[File:Cheist_pearls.png|center|60px]]
+|60
+|36
+|25% Crusade EXP
+|15% Fight Bonus
+|35% Botany Grow Speed
+| style="background-color: dodgerblue; color: black;" |82 [[File:Rare8.png|center|32px]]
+| style="background-color: dodgerblue; color: black;" |71 [[File:Rare6.png|center|32px]]
+|25
+|- style="text-align: center;"
+|[[File:Blobulytes_equip.png|center|60px]]
+|80
+|59
+|60% Crusade EXP
+|8 Crusaders
+|500% Monster Cash
+| style="background-color: blueviolet; color: black;" |55 [[File:Epic6.png|center|32px]]
+| style="background-color: blueviolet; color: black;" |39 [[File:Epic10.png|center|32px]]
+|15
+|- style="text-align: center;"
+|[[File:Cash_money.png|center|60px]]
+|99
+|79
+|120% Crusade EXP
+|600% Monster Cash
+|10% Spelunker Speed
+| style="background-color: darkorange; color: black;" |8 [[File:Legendary7.png|center|32px]]
+| style="background-color: darkorange; color: black;" |7 [[File:Legendary4.png|center|32px]]
+|8
+|- style="text-align: center;"
+|[[File:Divination_eye.png|center|60px]]
+|99
+|90
+|250% Crusade EXP
+|30% Card Chance
+|20 Crusaders
+| style="background-color: cyan; color: black;" |4 [[File:Pearl8.png|center|32px]]
+| style="background-color: cyan; color: black;" |3 [[File:Pearl6.png|center|32px]]
+|4
+|- style="text-align: center;"
+|[[File:Worm_ruff.png|center|60px]]
+|30
+|24
+|5% Crus Multi
+|30% Mining EXP
+|20% Flowers Gained Per Botany Level
+| style="background-color: forestgreen; color: black;" |350 [[File:Uncommon5.png|center|32px]]
+| style="background-color: forestgreen; color: black;" |452 [[File:Uncommon8.png|center|32px]]
+| -
+|- style="text-align: center;"
+|[[File:Poison_pendant.png|center|60px]]
+|70
+|45
+|15% Crus Multi
+|200% Poison Damage
+|200% Total Damage
+| style="background-color: dodgerblue; color: black;" |132 [[File:Rare9.png|center|32px]]
+| style="background-color: gray; color: black;" |49K [[File:Common7.png|center|32px]]
+|25
+|- style="text-align: center;"
+|[[File:Theatre_masks.png|center|60px]]
+|90
+|67
+|40% Crus Multi
+|2% Ignore Defense
+|200% Fish Caught
+| style="background-color: darkorange; color: black;" |7 [[File:Legendary6.png|center|32px]]
+| style="background-color: blueviolet; color: black;" |45 [[File:Epic10.png|center|32px]]
+|15
+|- style="text-align: center;"
+|[[File:Radiant_drop.png|center|60px]]
+|99
+|84
+|80% Crus Multi
+|400% All Skill Damage
+|150% Ores Mined
+| style="background-color: cyan; color: black;" |3 [[File:Pearl5.png|center|32px]]
+| style="background-color: darkorange; color: black;" |7 [[File:Legendary4.png|center|32px]]
+|8
+|- style="text-align: center;"
+|[[File:Crystal_skull.png|center|60px]]
+|99
+|99
+|150% Crus Multi
+|1K% Total Damage
+|3% Spelunker Learning Rate
+| style="background-color: cyan; color: black;" |2 [[File:Pearl9.png|center|32px]]
+| style="background-color: cyan; color: black;" |2 [[File:Pearl6.png|center|32px]]
+|4
+|}
+
+=== Boosters and Mutators ===
+
+{| class="article-table" style="width:100%" border="1"
+!Item
+!Crusading
+Level
+!Level
+!Effect
+! colspan="2" |Material Costs
+!Previous Tier
+|- style="text-align: center;"
+|[[File:Booster1.png|center|60px]]
+|1
+|1
+|90% Chance to give 10% Bonus
+| style="background-color: gray; color: black;" |200 [[File:Common1.png|center|32px]]
+| style="background-color: gray; color: black;" |150 [[File:Common2.png|center|32px]]
+| -
+|- style="text-align: center;"
+|[[File:Booster2.png|center|60px]]
+|15
+|10
+|70% Chance to give 25% Bonus
+| style="background-color: forestgreen; color: black;" |40 [[File:Uncommon1.png|center|32px]]
+| style="background-color: gray; color: black;" |740 [[File:Common10.png|center|32px]]
+|15
+|- style="text-align: center;"
+|[[File:Booster3.png|center|60px]]
+|50
+|20
+|50% Chance to give 50% Bonus
+| style="background-color: dodgerblue; color: black;" |18 [[File:Rare1.png|center|32px]]
+| style="background-color: dodgerblue; color: black;" |12 [[File:Rare7.png|center|32px]]
+|8
+|- style="text-align: center;"
+|[[File:Booster4.png|center|60px]]
+|50
+|30
+|30% Chance to give 100% Bonus
+| style="background-color: blueviolet; color: black;" |10 [[File:Epic1.png|center|32px]]
+| style="background-color: blueviolet; color: black;" |6 [[File:Epic2.png|center|32px]]
+|4
+|- style="text-align: center;"
+|[[File:Booster5.png|center|60px]]
+|70
+|50
+|15% Chance to give 250% Bonus
+| style="background-color: darkorange; color: black;" |5 [[File:Legendary1.png|center|32px]]
+| style="background-color: darkorange; color: black;" |3 [[File:Legendary10.png|center|32px]]
+|2
+|- style="text-align: center;"
+|[[File:Mutator1.png|center|60px]]
+|20
+|5
+|Multiplies booster by 0.8 - 1.3
+| style="background-color: gray; color: black;" |150 [[File:Common9.png|center|32px]]
+| style="background-color: gray; color: black;" |130 [[File:Common12.png|center|32px]]
+| -
+|- style="text-align: center;"
+|[[File:Mutator2.png|center|60px]]
+|10
+|15
+|Multiplies booster by 0.7 - 1.5
+| style="background-color: forestgreen; color: black;" |30 [[File:Uncommon1.png|center|32px]]
+| style="background-color: forestgreen; color: black;" |25 [[File:Uncommon7.png|center|32px]]
+|15
+|- style="text-align: center;"
+|[[File:Mutator3.png|center|60px]]
+|15
+|25
+|Multiplies booster by 0.6 - 1.8
+| style="background-color: dodgerblue; color: black;" |12 [[File:Rare1.png|center|32px]]
+| style="background-color: dodgerblue; color: black;" |6 [[File:Rare4.png|center|32px]]
+|8
+|- style="text-align: center;"
+|[[File:Mutator4.png|center|60px]]
+|50
+|40
+|Multiplies booster by 0.5 - 2.1
+| style="background-color: blueviolet; color: black;" |7 [[File:Epic1.png|center|32px]]
+| style="background-color: blueviolet; color: black;" |5 [[File:Epic5.png|center|32px]]
+|4
+|- style="text-align: center;"
+|[[File:Mutator5.png|center|60px]]
+|60
+|60
+|Multiplies booster by 0.3 - 2.5
+| style="background-color: darkorange; color: black;" |4 [[File:Legendary1.png|center|32px]]
+| style="background-color: darkorange; color: black;" |2 [[File:Legendary9.png|center|32px]]
+|2
+|}
+==Tinkering Boosts==
+*The third right perk in the Crusades perk tree grants +10% tinkering EXP per level, up to +100%.
+*The Desert Giant and Fabricio Crusade cards grant +12% and +8% tinkering EXP respectively, upgradeable to +240% and +160%.
+[[Category:Crusades]]

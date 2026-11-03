@@ -1,0 +1,37 @@
+{| class="article-table" style="width: 100%;" border="1"
+|-
+! colspan="2" style="text-align: center;" | Crystal Color
+! Bonus
+|-
+|[[File:Yellow_gem.png|center|42px]]
+|Yellow Crystal
+| <span style="color:hsl(60,100%,75%);">+50% EXP</span>
+|-
+|[[File:Red_gem.png|center|42px]]
+|Red Crystal
+| <span style="color:hsl(0,100%,75%);">+30% Brew Speed</span>
+|-
+|[[File:Purple_gem.png|center|42px]]
+|Purple Crystal
+| <span style="color:hsl(260,100%,75%);">+15% Cost Reduction</span>
+|-
+|[[File:Blue_gem.png|center|42px]]
+|Blue Crystal
+| <span style="color:hsl(210,100%,75%);">+25% Double Brew Chance</span>
+|-
+|[[File:Green_gem.png|center|42px]]
+|Green Crystal
+| <span style="color:hsl(60,100%,75%);">+100% EXP</span>, <span style="color:hsl(0,100%,75%);">+150% Brew Speed</span>, <span style="color:hsl(210,100%,75%);">+50% Double Brew Chance</span>
+|-
+|[[File:Orange_gem.png|center|42px]]
+|Orange Crystal
+| <span style="color:hsl(30,100%,75%);">+20% Bonus to all Crystals</span> on Screen
+|-
+|[[File:Pink_gem.png|center|42px]]
+|Pink Crystal
+| <span style="color:hsl(60,100%,75%);">+200% Brew Speed</span> to Slot and Adjacent Slots
+|-
+|[[File:Black_gem.png|center|42px]]
+|Black Crystal
+| <span style="color:hsl(260,100%,75%);">+40% Cost Reduction</span> to Slot and Adjacent Slots
+|}

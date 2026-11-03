@@ -1,0 +1,826 @@
+{| align="center"
+|[[File:Grasslandsbanner.png|150px|link=Grasslands]]
+|<<<
+|[[File:Desertbanner.png|link=Desert]]
+|>>>
+|[[File:Mountainsbanner.png|150px|link=Mountains]]
+|}
+
+
+Desert is the second zone in the [[Fight|Fight Screen]], featuring 30 unique enemies. Defeating Keymaster B at the end of the zone unlocks access to the next zone, [[Mountains]]. Clearing the Desert also unlocks the [[Perks#Gray Crusades Perk Tree|Gray Perk Tree]], [[Farming]], and the second row of [[Ascension]] perks.
+
+Every monster in the Desert has a 1/300 chance to drop a unique [[Cards|Card]], and have +20% chance afterwards to drop higher quality star cards.
+
+The following table shows the '''base''' values for each monster in the zone.
+
+{| class="article-table" border="1"
+|-
+! scope="col" colspan="2" style="text-align: center;"|Monsters
+! scope="col" |Damage
+! scope="col" |Health
+! scope="col" |Gold
+! scope="col" |Kill Req.
+! scope="col" |Card Bonus
+|-
+|[[File:Potted_Sand.png|50px]]
+|Potted Sand
+|784
+|127585
+|2405
+|30
+|3% Spirit EXP Chance
+|-
+|[[File:Cacto.png|50px]]
+|Cacto
+|816
+|148273
+|2553
+|50
+|0.5% Crit Chance
+|-
+|[[File:Potted_Pot.png|50px]]
+|Potted Pot
+|852
+|174991
+|2713
+|70
+|3% Summon EXP Chance
+|-
+|[[File:Dung_Ball.png|50px]]
+|Dung Ball
+|892
+|209902
+|2888
+|90
+|4% Accuracy
+|-
+|[[File:Dung_Beetle.png|50px]]
+|Dung Beetle
+|936
+|255611
+|3079
+|110
+|0.6% Monster Damage Reduction
+|-
+|[[File:Yellow_P_Hat.png|50px]]
+|Yellow P Hat
+|983
+|315269
+|3288
+|130
+|10% Monster Cash
+|-
+|[[File:Quicksand.png|50px]]
+|Quicksand
+|1034
+|392667
+|3516
+|150
+|3% Attack EXP Chance
+|-
+|[[File:Tornado.png|50px]]
+|Tornado
+|1088
+|492470
+|3765
+|170
+|5% Idle Attack SPeed
+|-
+|[[File:Coco.png|50px]]
+|Coco
+|1147
+|620182
+|4035
+|190
+|5% Cultist Efficiency
+|-
+|[[File:Mutto.png|50px]]
+|Nutto
+|1209
+|782567
+|4328
+|210
+|5% Acolyte Efficiency
+|-
+|[[File:Wurm.png|50px]]
+|Wurm
+|1276
+|987744
+|4644
+|230
+|3% Endurance EXP Chance
+|-
+|[[File:Sand_Jelly.png|50px]]
+|Sand Jelly
+|1347
+|1.24M
+|4983
+|250
+|3% Mining EXP Chance
+|-
+|[[File:Bandit_Bob.png|50px]]
+|Bandit Bob
+|1423
+|1.56M
+|5347
+|270
+|5% Raid Drop Luck
+|-
+|[[File:Deadly_Trap.png|50px]]
+|Deadly Trap
+|1502
+|1.96M
+|5737
+|290
+|7% Claw Skill Damage
+|-
+|[[File:Dryic_Relic.png|50px]]
+|Dryic Relic
+|1587
+|2.46M
+|6152
+|310
+|3% Card Drop Chance
+|-
+|[[File:Mirage_Slime.png|50px]]
+|Mirage Slime
+|1676
+|3.08M
+|6594
+|330
+|3% Strength EXP Chance
+|-
+|[[File:Mappy.png|50px]]
+|Mappy
+|1770
+|3.84M
+|7062
+|350
+|3% Mining EXP Chance
+|-
+|[[File:Spade.png|50px]]
+|Spade
+|1868
+|4.38M
+|7558
+|370
+|5% Ores from Mining
+|-
+|[[File:Treasure.png|50px]]
+|Treasure
+|1972
+|5M
+|8082
+|390
+|1% Souls kept after Ascending
+|-
+|[[File:Mimic.png|50px]]
+|Mimic
+|2081
+|5.72M
+|8634
+|410
+|5% Damage from Trinkets
+|-
+|[[File:Desert_Drink.png|50px]]
+|Desert Drink
+|2195
+|6.55M
+|9216
+|430
+|6% Healing from Food
+|-
+|[[File:Zombie_Bob.png|50px]]
+|Zombie Bob
+|2315
+|7.52M
+|9827
+|450
+|3% Smithing EXP from Crafting
+|-
+|[[File:Sand_Rattler.png|50px]]
+|Sand Rattler
+|2440
+|8.64M
+|10467
+|470
+|7% Rift EXP
+|-
+|[[File:A_Monster.png|50px]]
+|A Monster
+|2570
+|9.93M
+|11138
+|490
+|8% Crit Damage
+|-
+|[[File:Stripe.png|50px]]
+|Stripe
+|2707
+|11.41M
+|11839
+|510
+|6% Idle Damage
+|-
+|[[File:Unacceptable.png|50px]]
+|Unacceptable
+|2849
+|13.11M
+|12572
+|530
+|5% Damage from Trinkets
+|-
+|[[File:Desert_Baron.png|50px]]
+|Desert Baron
+|2997
+|15.05M
+|13336
+|550
+|12% Monster Cash
+|-
+|[[File:Disciple_B.png|50px]]
+|Disciple B
+|3151
+|17.27M
+|14131
+|570
+|3% Spirit EXP Chance
+|-
+|[[File:Keymaster_B.png|50px]]
+|Keymaster B
+|3311
+|19.79M
+|14959
+|590
+|5% Base Damage
+|-
+|[[File:Desert_Glitch.png|50px]]
+|Glitch 1
+|3478
+|22.66M
+|15819
+|610
+|1% Souls kept after Ascending
+|-
+|
+|Glitch 2
+|3651
+|25.91M
+|16713
+|630
+| style="text-align: center;"| -
+|-
+|
+|Glitch 3
+|3830
+|29.59M
+|17639
+|650
+| style="text-align: center;"| -
+|-
+|
+|Glitch 4
+|4016
+|33.75M
+|18599
+|670
+| style="text-align: center;"| -
+|-
+|
+|Glitch 5
+|4209
+|38.44M
+|19592
+|690
+| style="text-align: center;"| -
+|-
+|
+|Glitch 6
+|4409
+|43.73M
+|20620
+|710
+| style="text-align: center;"| -
+|-
+|
+|Glitch 7
+|4615
+|49.67M
+|21682
+|730
+| style="text-align: center;"| -
+|-
+|
+|Glitch 8
+|4829
+|56.34M
+|22779
+|750
+| style="text-align: center;"| -
+|-
+|
+|Glitch 9
+|5050
+|63.82M
+|23911
+|770
+| style="text-align: center;"| -
+|-
+|
+|Glitch 10
+|5278
+|72.2M
+|25079
+|790
+| style="text-align: center;"| -
+|-
+|
+|Glitch 11
+|5513
+|81.56M
+|26282
+|810
+| style="text-align: center;"| -
+|-
+|
+|Glitch 12
+|5756
+|92.02M
+|27521
+|830
+| style="text-align: center;"| -
+|-
+|
+|Glitch 13
+|6007
+|103.69M
+|28796
+|850
+| style="text-align: center;"| -
+|-
+|
+|Glitch 14
+|6265
+|116.68M
+|30107
+|870
+| style="text-align: center;"| -
+|-
+|
+|Glitch 15
+|6531
+|131.14M
+|31455
+|890
+| style="text-align: center;"| -
+|-
+|
+|Glitch 16
+|6805
+|147.21M
+|32841
+|910
+| style="text-align: center;"| -
+|-
+|
+|Glitch 17
+|7087
+|165.06M
+|34263
+|930
+| style="text-align: center;"| -
+|-
+|
+|Glitch 18
+|7377
+|184.85M
+|35723
+|950
+| style="text-align: center;"| -
+|-
+|
+|Glitch 19
+|7676
+|206.79M
+|37220
+|970
+| style="text-align: center;"| -
+|-
+|
+|Glitch 20
+|7983
+|231.07M
+|38756
+|990
+| style="text-align: center;"| -
+|-
+|
+|Glitch 21
+|8298
+|257.94M
+|40330
+|1010
+| style="text-align: center;"| -
+|-
+|
+|Glitch 22
+|8622
+|287.62M
+|41942
+|1030
+| style="text-align: center;"| -
+|-
+|
+|Glitch 23
+|8954
+|320.4M
+|43593
+|1050
+| style="text-align: center;"| -
+|-
+|
+|Glitch 24
+|9296
+|356.56M
+|45282
+|1070
+| style="text-align: center;"| -
+|-
+|
+|Glitch 25
+|9646
+|396.42M
+|47011
+|1090
+| style="text-align: center;"| -
+|-
+|
+|Glitch 26
+|10005
+|440.33M
+|48780
+|1110
+| style="text-align: center;"| -
+|-
+|
+|Glitch 27
+|10374
+|488.65M
+|50587
+|1130
+| style="text-align: center;"| -
+|-
+|
+|Glitch 28
+|10751
+|541.81M
+|52435
+|1150
+| style="text-align: center;"| -
+|-
+|
+|Glitch 29
+|11138
+|600.24M
+|54323
+|1170
+| style="text-align: center;"| -
+|-
+|
+|Glitch 30
+|11534
+|664.41M
+|56250
+|1190
+| style="text-align: center;"| -
+|-
+|
+|Glitch 31
+|11940
+|734.84M
+|58219
+|1210
+| style="text-align: center;"| -
+|-
+|
+|Glitch 32
+|12355
+|812.11M
+|60228
+|1230
+| style="text-align: center;"| -
+|-
+|
+|Glitch 33
+|12780
+|896.81M
+|62277
+|1250
+| style="text-align: center;"| -
+|-
+|
+|Glitch 34
+|13215
+|989.61M
+|64368
+|1270
+| style="text-align: center;"| -
+|-
+|
+|Glitch 35
+|13660
+|1.09B
+|66500
+|1290
+| style="text-align: center;"| -
+|-
+|
+|Glitch 36
+|14115
+|1.2B
+|68674
+|1310
+| style="text-align: center;"| -
+|-
+|
+|Glitch 37
+|14580
+|1.32B
+|70889
+|1330
+| style="text-align: center;"| -
+|-
+|
+|Glitch 38
+|15055
+|1.45B
+|73146
+|1350
+| style="text-align: center;"| -
+|-
+|
+|Glitch 39
+|15541
+|1.6B
+|75445
+|1370
+| style="text-align: center;"| -
+|-
+|
+|Glitch 40
+|16037
+|1.76B
+|77786
+|1390
+| style="text-align: center;"| -
+|-
+|
+|Glitch 41
+|16544
+|1.93B
+|80170
+|1410
+| style="text-align: center;"| -
+|-
+|
+|Glitch 42
+|17061
+|2.12B
+|82596
+|1430
+| style="text-align: center;"| -
+|-
+|
+|Glitch 43
+|17589
+|2.32B
+|85065
+|1450
+| style="text-align: center;"| -
+|-
+|
+|Glitch 44
+|18128
+|2.55B
+|87577
+|1470
+| style="text-align: center;"| -
+|-
+|
+|Glitch 45
+|18678
+|2.79B
+|90133
+|1490
+| style="text-align: center;"| -
+|-
+|
+|Glitch 46
+|19239
+|3.06B
+|92731
+|1510
+| style="text-align: center;"| -
+|-
+|
+|Glitch 47
+|19811
+|3.35B
+|95373
+|1530
+| style="text-align: center;"| -
+|-
+|
+|Glitch 48
+|20394
+|3.66B
+|98059
+|1550
+| style="text-align: center;"| -
+|-
+|
+|Glitch 49
+|20989
+|4.01B
+|100788
+|1570
+| style="text-align: center;"| -
+|-
+|
+|Glitch 50
+|21595
+|4.38B
+|103562
+|1590
+| style="text-align: center;"| -
+|-
+|
+|Glitch 51
+|22212
+|4.78B
+|106380
+|1610
+| style="text-align: center;"| -
+|-
+|
+|Glitch 52
+|22842
+|5.22B
+|109242
+|1630
+| style="text-align: center;"| -
+|-
+|
+|Glitch 53
+|23483
+|5.7B
+|112148
+|1650
+| style="text-align: center;"| -
+|-
+|
+|Glitch 54
+|24136
+|6.22B
+|115100
+|1670
+| style="text-align: center;"| -
+|-
+|
+|Glitch 55
+|24801
+|6.78B
+|118096
+|1690
+| style="text-align: center;"| -
+|-
+|
+|Glitch 56
+|25477
+|7.39B
+|121137
+|1710
+| style="text-align: center;"| -
+|-
+|
+|Glitch 57
+|26167
+|8.05B
+|124224
+|1730
+| style="text-align: center;"| -
+|-
+|
+|Glitch 58
+|26868
+|8.77B
+|127355
+|1750
+| style="text-align: center;"| -
+|-
+|
+|Glitch 59
+|27582
+|9.55B
+|130533
+|1770
+| style="text-align: center;"| -
+|-
+|
+|Glitch 60
+|28308
+|10.39B
+|133755
+|1790
+| style="text-align: center;"| -
+|-
+|
+|Glitch 61
+|29046
+|11.3B
+|137024
+|1810
+| style="text-align: center;"| -
+|-
+|
+|Glitch 62
+|29798
+|12.29B
+|140339
+|1830
+| style="text-align: center;"| -
+|-
+|
+|Glitch 63
+|30562
+|13.36B
+|143700
+|1850
+| style="text-align: center;"| -
+|-
+|
+|Glitch 64
+|31339
+|14.51B
+|147107
+|1870
+| style="text-align: center;"| -
+|-
+|
+|Glitch 65
+|32129
+|15.76B
+|150561
+|1890
+| style="text-align: center;"| -
+|-
+|
+|Glitch 66
+|32931
+|17.11B
+|154061
+|1910
+| style="text-align: center;"| -
+|-
+|
+|Glitch 67
+|33747
+|18.57B
+|157608
+|1930
+| style="text-align: center;"| -
+|-
+|
+|Glitch 68
+|34577
+|20.15B
+|161201
+|1950
+| style="text-align: center;"| -
+|-
+|
+|Glitch 69
+|35419
+|21.86B
+|164842
+|1970
+| style="text-align: center;"| -
+|-
+|
+|Glitch 70
+|36275
+|23.7B
+|168530
+|1990
+| style="text-align: center;"| -
+|-
+|
+|Glitch 71
+|37145
+|25.69B
+|172266
+| style="text-align: center;"| -
+| style="text-align: center;"| -
+|}
+[[Category:Zone]]
+[[Category:Fighting]]

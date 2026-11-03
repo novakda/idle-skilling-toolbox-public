@@ -1,0 +1,41 @@
+The hatnotes used for adding links between articles where more context is important.
+Broadly speaking, a hatnote should answer a readers' question: Am I on the right page?
+
+;{{T|Main}}: When an article is large, it often has a summary and a link to a main article. This template is used after the heading of the summary, to indicate a link to the subtopic article that has been summarized.
+;{{T|Further}}: Used to link to articles containing further information on this topic.
+;{{T|See also}}: Used to link to additional articles on related topics.
+
+== Usage ==
+
+; Basic usage:
+ &#123;{Main|''text''}}
+
+; All parameters:
+ &#123;{Main|''text''|extraclasses=''extra classes''|selfref=''yes''|category=''no''}}
+
+== Example ==
+:;{{T|Main|Main Page}}  →:{{Main|Main Page}}
+:;{{T|Main|Main Page|Main Page}}  →:{{Main|Main Page|Main Page}}
+
+== Parameters ==
+
+This template accepts the following parameters:
+
+:*<code>1</code>, <code>2</code>, <code>3</code>, ... – the pages to link to. If no page names are specified, the current page name is used instead (without the namespace prefix). Categories and files are automatically escaped with the [[Help:Colon trick|colon trick]], and links to sections are automatically formatted as ''page § section'', rather than the MediaWiki default of ''page#section''.
+:*<code>l1</code>, <code>l2</code>, <code>l3</code>, ... ''or''<code>label 1</code>, <code>label 2</code>, <code>label 3</code>, ... – optional labels for each of the pages to link to (this is for articles where a piped link would be used). Note that the extra parameters use a lower case 'L', for example, <code>l1</code>, <u>not</u> <code>L1</code>.
+:*<code>selfref</code> – if set to "yes", "y", "true" or "1", adds the CSS class "selfref". This is used to denote self-references.
+* <code>extraclasses</code> - any extra CSS classes to be added.
+* <code>category</code> - If set to "no", "n", "false", or "0", suppresses the error tracking category. This has an effect only if the leftmost parameter (the hatnote text) is omitted.
+
+== Errors ==
+See [[w:c:starter:Template:Hatnote/doc|the Hatnote template on Starter Wiki]] for a comprehensive error guide.
+
+
+== Technical details ==
+This template uses the [[Help:Lua|Lua templating language]], and more information can be found [[w:c:dev:Global_Lua_Modules/Hatnote|on the Global Lua Module page]]. '''For a traditional wikitext version of this template, see [[w:c:templates:Template:Hatnote|Hatnote on Templates Wiki]]'''.
+
+The HTML code produced by this template looks like this:
+
+* <code><nowiki><div role="note" class="hatnote"></nowiki>''hatnote text''<nowiki></div></nowiki></code>
+
+<includeonly>[[Category:Templates|{{PAGENAME}}]][[Category:Templates/Context-link|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

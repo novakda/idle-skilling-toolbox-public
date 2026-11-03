@@ -1,0 +1,61 @@
+<noinclude>{{Documentationpage}}</noinclude>{{Template dependencies|css=[[MediaWiki:Common.css]]}}
+Template for standardized formatting of template parameters in [[:Category:Template documentation|template documentation]]. 
+
+==Usage==
+<pre>{{Docparam|name=parameter|req=yes|desc=description}}</pre>
+
+===Parameters===
+{{Docparam|name=&lt;unnamed 1> // name|req=yes|default=|desc=
+Name of the parameter(s). Certain strings are automatically translated to allow for specification of alternative choices or parameter ranges. 
+
+Translated strings (all of these need to be enclosed by spaces):
+* <code>>></code> is converted to "up to"; used to indicate parameter ranges (e.g. "game1 up to game5").
+* <code>//</code> is converted to " or "; used for alternative choices (e.g. "&lt;unnamed 1> or title").
+* <code>++</code> is converted to a comma with a trailing space (", "); used for listing parameters which are separate but work the same (e.g. "contentA1, contentB1").
+}}
+
+{{Docparam|name=default ++ default2|req=no|default=|desc=
+The default value(s) of the parameter.
+}}
+
+{{Docparam|name=desc|req=yes|default=|desc=
+Description of the parameter.
+}}
+
+{{Docparam|name=req|req=semi|default=yes|desc=
+Specifies whether this parameter is required for the template to function.
+
+Available options:
+* {{yes}} ''yes'': Always required.
+* {{neutral}} ''semi'': Parameter is required in certain circumstances but optional in others. For a range of parameters (set via <code>up to</code>, this means that at least one of them is required.
+* {{neutral}} ''no'': Completely optional.
+}}
+
+==Copy/paste==
+<pre>
+{{Docparam|name=|req=|default=|desc=
+}}
+</pre>
+
+==Examples==
+===Simple===
+<pre>
+{{Docparam|name=parameter|req=yes|default=|desc=
+Description
+}}
+</pre>
+results in:
+{{Docparam|name=parameter|req=yes|default=|desc=
+Description
+}}
+
+===Advanced===
+<pre>
+{{Docparam|name=parameter // alternative ++ similar1 >> similar3|req=no|default=default setting|desc=
+Description
+}}
+</pre>
+results in:
+{{Docparam|name=parameter // alternative ++ similar1 >> similar3|req=no|default=default setting|desc=
+Description
+}}

@@ -1,0 +1,13 @@
+{| style="width: 60%;margin:auto;"  cellspacing="0" cellpadding="0" border="0"
+| style="width: 15%;"|[[File:Limbo_icon.png|center|link=Limbo]]
+| style="width: 15%;"|[[File:Spiriting_icon.png|center|link=Spiriting]]
+| style="width: 15%;"|[[File:Summoning_icon.png|center|link=Summoning]]
+| style="width: 15%;"|[[File:Contracts_icon.png|center|link=Contracts]]
+|-
+| style="text-align: center;"|[[Limbo]]
+| style="text-align: center;"|[[Spiriting]]
+| style="text-align: center;"|[[Summoning]]
+| style="text-align: center;"|[[Contracts]]
+|}
+
+<hr class="page-header__separator" style="margin-top:18px;" />

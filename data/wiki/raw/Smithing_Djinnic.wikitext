@@ -1,0 +1,75 @@
+{| class="listing sortable" border="0" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+
+|-
+|[[File:Djinnic_trinket.png|center]]
+| style="text-align: center;" |120
+| Djinnic Trinket
+| +100%
+| Damage
+|[[File:Djinn.png|center]]
+|[[File:Manta_ray.png|center|46px]]
+|-
+|[[File:Oberons_obliterator.png|center]]
+| style="text-align: center;" |120
+|Oberons Obliterator
+| +89717
+| Base Damage (Based on Kills)
+|[[File:Djinn.png|center]]
+|[[File:Old_shoe.png|center]]
+|-
+|[[File:Cyber_j_series.png|center]]
+| style="text-align: center;" |120
+|Cyber J Series
+| +1%
+| Shields Every Noodles Bite (caps at 4000%)
+|[[File:Djinn.png|center]]
+|[[File:Antimatter.png|center]]
+|-
+|[[File:Ensouled_head.png|center]]
+| style="text-align: center;" |120
+|Ensouled Head
+| +<0.2%
+|Kills per Kill (caps at +10)
+|[[File:Djinn.png|center]]
+|[[File:Demonite.png|center]]
+|-
+|[[File:Righteous_rift.png|center]]
+| style="text-align: center;" |120
+|Righteous Rift
+| +<1.7%
+| Less EXP to Level Up Rifts (caps at 70%)
+|[[File:Gummi.png|center]]
+|[[File:Giant_sea_urchin.png|center|46px]]
+|-
+|[[File:Pimpin_pumper.png|center]]
+| style="text-align: center;" |120
+|Pimpin Pumper
+| +10000
+| Base Max HP
+|[[File:Gummi.png|center]]
+|[[File:Crystalfish.png|center]]
+|-
+|[[File:Mythical_serfdoms.png|center]]
+| style="text-align: center;" |120
+|Mythical Serfdoms
+| +5-10%
+| Tilling Perk EXP (caps at 4000%)
+|[[File:Gummi.png|center]]
+|[[File:Yellow_gulper.png|center]]
+|-
+|[[File:Normie_rocks.png|center]]
+| style="text-align: center;" |120
+|Normie Rocks
+| +0.1-0.4%
+| Crystal Bonus (Red, Yellow, Blue, Purple) (caps at 20%)
+|[[File:Gummi.png|center]]
+|[[File:Djinn.png|center]]
+|}
+[[Category:Smithing]]

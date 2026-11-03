@@ -1,0 +1,186 @@
+{| class="article-table" border="1" align="center"
+|-
+! scope="col" style="text-align: center;" |Faust
+! colspan="8" scope="col" style="text-align: center;" |Unlocks at Level 40
+|-
+| rowspan="2" |[[File:Faust.png]]
+| colspan="2" |[[File:Minty.png|center]]
+| colspan="2" |[[File:Enigma.png|center]]
+| colspan="2" |[[File:Witness.png|center]]
+| colspan="2" |[[File:Identity.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Minty
+| colspan="2" |Enigma
+| colspan="2" |Withness
+| colspan="2" |Identity
+|-
+! style="text-align: center;" |Tier
+| colspan="2" |[[File:Tier1skull.png|center|40px]]
+| colspan="2" |[[File:Tier2skull.png|center|40px]]
+|[[File:Tier3skull.png|center|40px]]
+|[[File:Tier4skull.png|center|40px]]
+|[[File:Tier5skull.png|center|40px]]
+|[[File:Tier6skull.png|center|40px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Defense
+| colspan="2" |300
+| colspan="2" |941
+|6334
+|42K
+|286K
+|1928K
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |4.5B
+| colspan="2" |21B
+|958B
+|48T
+|2Q
+|105Q
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |250K
+| colspan="2" |615K
+|4.3M
+|37M
+|299M
+|2.2B
+|-
+! scope="col" style="text-align: center;" |Arachneon
+! colspan="8" scope="col" style="text-align: center;" |Unlocks at Level 50
+|-
+| rowspan="2" |[[File:Arachneon.png]]
+| colspan="2" |[[File:Spiderling.png|center]]
+| colspan="2" |[[File:Webbo.png|center]]
+| colspan="2" |[[File:Bounded_bob.png|center]]
+| colspan="2" |[[File:Queens_egg.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Spiderling
+| colspan="2" |Webbo
+| colspan="2" |Bounded Bob
+| colspan="2" |Queens Egg
+|-
+! style="text-align: center;" |Tier
+| colspan="2" |[[File:Tier1skull.png|center|40px]]
+| colspan="2" |[[File:Tier2skull.png|center|40px]]
+|[[File:Tier3skull.png|center|40px]]
+|[[File:Tier4skull.png|center|40px]]
+|[[File:Tier5skull.png|center|40px]]
+|[[File:Tier6skull.png|center|40px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Defense
+| colspan="2" |2000
+| colspan="2" |6925
+|54K
+|435K
+|3448K
+|27M
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |18B
+| colspan="2" |104B
+|4.9T
+|259T
+|12Q
+|629Q
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |1M
+| colspan="2" |2.6M
+|19M
+|171M
+|1.4B
+|11B
+|-
+! scope="col" style="text-align: center;" |Gheist
+! colspan="8" scope="col" style="text-align: center;" |Unlocks at Level 60
+|-
+| rowspan="2" |[[File:Gheist.png]]
+| colspan="2" |[[File:Follower.png|center]]
+| colspan="2" |[[File:Fabricio.png|center]]
+| colspan="2" |[[File:Fliquer.png|center]]
+| colspan="2" |[[File:Devout.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Follower
+| colspan="2" |Fabricio
+| colspan="2" |Fliquer
+| colspan="2" |Devout
+|-
+! style="text-align: center;" |Tier
+| colspan="2" |[[File:Tier1skull.png|center|40px]]
+| colspan="2" |[[File:Tier2skull.png|center|40px]]
+|[[File:Tier3skull.png|center|40px]]
+|[[File:Tier4skull.png|center|40px]]
+|[[File:Tier5skull.png|center|40px]]
+|[[File:Tier6skull.png|center|40px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Defense
+| colspan="2" |15K
+| colspan="2" |54K
+|411K
+|3263K
+|25M
+|204M
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |90B
+| colspan="2" |543B
+|27T
+|1Q
+|83Q
+|4QQ
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |4M
+| colspan="2" |10M
+|83M
+|765M
+|6.6B
+|55B
+|-
+! scope="col" style="text-align: center;" |Basilisk
+! colspan="8" scope="col" style="text-align: center;" |Unlocks at Level 70
+|-
+| rowspan="2" |[[File:Basilisk.png]]
+| colspan="2" |[[File:Toothu.png|center]]
+| colspan="2" |[[File:Poisson.png|center]]
+| colspan="2" |[[File:Turned_wurm.png|center]]
+| colspan="2" |[[File:Basiling.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Toothu
+| colspan="2" |Poisson
+| colspan="2" |Turned Wurm
+| colspan="2" |Basiling
+|-
+! style="text-align: center;" |Tier
+| colspan="2" |[[File:Tier1skull.png|center|40px]]
+| colspan="2" |[[File:Tier2skull.png|center|40px]]
+|[[File:Tier3skull.png|center|40px]]
+|[[File:Tier4skull.png|center|40px]]
+|[[File:Tier5skull.png|center|40px]]
+|[[File:Tier6skull.png|center|40px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Defense
+| colspan="2" |100K
+| colspan="2" |363K
+|3124K
+|26M
+|230M
+|1983M
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |566B
+| colspan="2" |3.4T
+|174T
+|9Q
+|523Q
+|27QQ
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |10M
+| colspan="2" |26M
+|208M
+|1.9B
+|16B
+|137B
+|}

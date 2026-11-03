@@ -1,0 +1,3592 @@
+A list of all Resources in Idle Skilling
+
+==Mining==
+{| style="width: 100%;" class="article-table" border="1" align="center"
+! colspan="2" rowspan="2" style="text-align: center;"|Ores
+! colspan="6" style="text-align: center;"|Mining Level Required
+|-
+! style="text-align: center;"|Miner 1
+! style="text-align: center;"|Miner 2
+! style="text-align: center;"|Miner 3
+! style="text-align: center;"|Miner 4
+! style="text-align: center;"|Miner 5
+! style="text-align: center;"|Miner 6
+|-
+|[[File:Copper.png|center]]
+|Copper
+| style="text-align: center;"|1
+| style="text-align: center;"|1
+| style="text-align: center;"|1
+| style="text-align: center;"|1
+| style="text-align: center;"|1
+| style="text-align: center;"|1
+|-
+|[[File:Iron.png|center]]
+|Iron
+| style="text-align: center;"|5
+| style="text-align: center;"|7
+| style="text-align: center;"|9
+| style="text-align: center;"|11
+| style="text-align: center;"|13
+| style="text-align: center;"|15
+|-
+|[[File:Gold.png|center]]
+|Gold
+| style="text-align: center;"|10
+| style="text-align: center;"|12
+| style="text-align: center;"|14
+| style="text-align: center;"|16
+| style="text-align: center;"|18
+| style="text-align: center;"|20
+|-
+|[[File:Platinum.png|center]]
+|Platinum
+| style="text-align: center;"|15
+| style="text-align: center;"|17
+| style="text-align: center;"|19
+| style="text-align: center;"|21
+| style="text-align: center;"|23
+| style="text-align: center;"|25
+|-
+|[[File:Cobalt.png|center]]
+|Cobalt
+| style="text-align: center;"|20
+| style="text-align: center;"|22
+| style="text-align: center;"|24
+| style="text-align: center;"|26
+| style="text-align: center;"|28
+| style="text-align: center;"|30
+|-
+|[[File:Firesalt.png|center]]
+|Firesalt
+| style="text-align: center;"|25
+| style="text-align: center;"|27
+| style="text-align: center;"|29
+| style="text-align: center;"|31
+| style="text-align: center;"|33
+| style="text-align: center;"|35
+|-
+|[[File:Effluvium.png|center]]
+|Effluvium
+| style="text-align: center;"|30
+| style="text-align: center;"|32
+| style="text-align: center;"|34
+| style="text-align: center;"|36
+| style="text-align: center;"|38
+| style="text-align: center;"|40
+|-
+|[[File:Antimatter.png|center]]
+|Antimatter
+| style="text-align: center;"|35
+| style="text-align: center;"|37
+| style="text-align: center;"|39
+| style="text-align: center;"|41
+| style="text-align: center;"|43
+| style="text-align: center;"|45
+|-
+|[[File:Ruby.png|center]]
+|Ruby
+| style="text-align: center;"|40
+| style="text-align: center;"|42
+| style="text-align: center;"|44
+| style="text-align: center;"|46
+| style="text-align: center;"|48
+| style="text-align: center;"|50
+|-
+|[[File:Refractium.png|center]]
+|Refractium
+| style="text-align: center;"|45
+| style="text-align: center;"|47
+| style="text-align: center;"|49
+| style="text-align: center;"|51
+| style="text-align: center;"|53
+| style="text-align: center;"|55
+|-
+|[[File:Dubloonium.png|center]]
+|Dubloonium
+| style="text-align: center;"|50
+| style="text-align: center;"|52
+| style="text-align: center;"|54
+| style="text-align: center;"|56
+| style="text-align: center;"|58
+| style="text-align: center;"|60
+|-
+|[[File:Glume.png|center]]
+|Glume
+| style="text-align: center;"|55
+| style="text-align: center;"|57
+| style="text-align: center;"|59
+| style="text-align: center;"|61
+| style="text-align: center;"|63
+| style="text-align: center;"|65
+|-
+|[[File:Plument.png|center]]
+|Plument
+| style="text-align: center;"|60
+| style="text-align: center;"|62
+| style="text-align: center;"|64
+| style="text-align: center;"|66
+| style="text-align: center;"|68
+| style="text-align: center;"|70
+|-
+|[[File:Figmentation.png|center]]
+|Figmentation
+| style="text-align: center;"|65
+| style="text-align: center;"|67
+| style="text-align: center;"|69
+| style="text-align: center;"|71
+| style="text-align: center;"|73
+| style="text-align: center;"|75
+|-
+|[[File:Demonite.png|center]]
+|Demonite
+| style="text-align: center;"|70
+| style="text-align: center;"|72
+| style="text-align: center;"|74
+| style="text-align: center;"|76
+| style="text-align: center;"|78
+| style="text-align: center;"|80
+|-
+|[[File:Godshard.png|center]]
+|Godshard
+| style="text-align: center;"|75
+| style="text-align: center;"|77
+| style="text-align: center;"|79
+| style="text-align: center;"|81
+| style="text-align: center;"|83
+| style="text-align: center;"|85
+|-
+|[[File:Warpium.png|center]]
+|Warpium
+| style="text-align: center;"|87
+| style="text-align: center;"|89
+| style="text-align: center;"|91
+| style="text-align: center;"|93
+| style="text-align: center;"|95
+| style="text-align: center;"|97
+|-
+|[[File:Anodizia.png|center]]
+|Anodizia
+| style="text-align: center;"|99
+| style="text-align: center;"|101
+| style="text-align: center;"|103
+| style="text-align: center;"|105
+| style="text-align: center;"|107
+| style="text-align: center;"|109
+|-
+|[[File:Gummi.png|center]]
+|Gummi
+| style="text-align: center;"|111
+| style="text-align: center;"|113
+| style="text-align: center;"|115
+| style="text-align: center;"|117
+| style="text-align: center;"|119
+| style="text-align: center;"|121
+|-
+|[[File:Djinn.png|center]]
+|Djinn
+| style="text-align: center;"|123
+| style="text-align: center;"|125
+| style="text-align: center;"|127
+| style="text-align: center;"|129
+| style="text-align: center;"|131
+| style="text-align: center;"|133
+|}
+
+==Fishing==
+===Small Fish===
+{| style="width: 100%;" class="article-table" cellspacing="1" cellpadding="1" border="0"
+|-
+! scope="col" style="text-align: center;"|Name
+! scope="col" style="text-align: center;"|Level Required
+! scope="col" style="text-align: center;"|Name
+! scope="col" style="text-align: center;"|Level Required
+|-
+|[[File:Old_shoe.png|thumb|left]]Old Boot
+| style="text-align: center;"|1
+|[[File:Red_herring.png|thumb|left]]Red Herring
+| style="text-align: center;"|24
+|-
+|[[File:Tin_can.png|thumb|left]]Tin Can
+| style="text-align: center;"|1
+|[[File:Sword_fish.png|thumb|left]]Sword Fish
+| style="text-align: center;"|30
+|-
+|[[File:Minnow.png|thumb|left]]Minnow
+| style="text-align: center;"|1
+|[[File:Ice_cube_fish.png|thumb|left]]Ice Cube Fish
+| style="text-align: center;"|36
+|-
+|[[File:Small_tuna.png|thumb|left]]Small Tuna
+| style="text-align: center;"|1
+|[[File:Puffer_fish.png|thumb|left]]Puffer Fish
+| style="text-align: center;"|42
+|-
+|[[File:Jellyfish.png|thumb|left]]Jellyfish
+| style="text-align: center;"|6
+|[[File:Crystalfish.png|thumb|left]]Crystal Fish
+| style="text-align: center;"|48
+|-
+|[[File:Medium_yellow_fish.png|thumb|left]]Medium Yellow Fish
+| style="text-align: center;"|12
+|[[File:Bobbit_worm.png|thumb|left]]Bobbit Worm
+| style="text-align: center;"|54
+|-
+|[[File:Chainmailfish.png|thumb|left]]Chainmail Fish
+| style="text-align: center;"|18
+|[[File:Dollar_fish.png|thumb|left]]Dollar Fish
+| style="text-align: center;"|60
+|}
+===Medium Fish===
+{| class="article-table" cellspacing="1" cellpadding="1" border="0"
+|-
+! scope="col" style="text-align: center;"|Name
+! scope="col" style="text-align: center;"|Level Required
+! scope="col" style="text-align: center;"|Name
+! scope="col" style="text-align: center;"|Level Required
+|-
+|[[File:Angler_fish.png|thumb|left]]Angler Fish
+| style="text-align: center;"|1
+|[[File:Pink_swordfish.png|thumb|left]]Pink Swordfish
+| style="text-align: center;"|40
+|-
+|[[File:Lobster.png|thumb|left]]Lobster
+| style="text-align: center;"|8
+|[[File:Snail_fish.png|thumb|left]]Snail Fish
+| style="text-align: center;"|48
+|-
+|[[File:Bonefish.png|thumb|left]]Bonefish
+| style="text-align: center;"|16
+|[[File:Hammerhead_shark.png|thumb|left]]Hammerhead Shark
+| style="text-align: center;"|56
+|-
+|[[File:Blue_shark.png|thumb|left]]Blue Shark
+| style="text-align: center;"|24
+|[[File:Yellow_gulper.png|thumb|left]]Yellow Gulper
+| style="text-align: center;"|64
+|-
+|[[File:Yellow_fin_tuna.png|thumb|left]]Yellow Fin Tuna
+| style="text-align: center;"|32
+|[[File:Pike_fish.png|thumb|left]]Pike Fish
+| style="text-align: center;"|72
+|}
+
+===Large Fish===
+{| class="article-table" cellspacing="1" cellpadding="1" border="0"
+|-
+! scope="col" style="text-align: center;"|Name
+! scope="col" style="text-align: center;"|Level Required
+! scope="col" style="text-align: center;"|Name
+! scope="col" style="text-align: center;"|Level Required
+|-
+|[[File:Giant_sea_urchin.png|thumb|left]]Giant Sea Urchin
+| style="text-align: center;"|1
+|[[File:Giant_sea_serpent.png|thumb|left]]Giant Sea Serpent
+| style="text-align: center;"|45
+|-
+|[[File:Manta_ray.png|thumb|left]]Manta Ray
+| style="text-align: center;"|15
+|[[File:Kraken.png|thumb|left]]Kraken
+| style="text-align: center;"|60
+|-
+|[[File:Yellow_grouper.png|thumb|left]]Yellow Grouper
+| style="text-align: center;"|30
+|[[File:Jumbo_shrimp.png|thumb|left]]Jumbo Shrimp
+| style="text-align: center;"|75
+|}
+==Smithing==
+===Trainee===
+{| style="width: 100%;" class="article-table" border="1" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Copper_trinket.png|center]]
+| style="text-align: center;" |1
+|Copper Trinket
+| +0.5%
+| Damage
+|[[File:Copper.png|center]]
+| style="text-align: center;" | -
+|-
+|[[File:Broken_dagger.png|center]]
+| style="text-align: center;" |1
+|Broken Dagger
+| +5
+| Base Damage
+|[[File:Copper.png|center]]
+| style="text-align: center;" | -
+|-
+|[[File:Fishwich.png|center]]
+| style="text-align: center;" |1
+|Fishwich
+| +6
+| HP every Bite
+|[[File:Copper.png|center]]
+|[[File:Small_tuna.png|center]]
+|-
+|[[File:Petty_theft.png|center]]
+| style="text-align: center;" |1
+|Petty Theft
+| +2%
+| Cash from Enemies
+|[[File:Copper.png|center]]
+|[[File:Iron.png|center]]
+|-
+|[[File:Reinforced_exp.png|center]]
+| style="text-align: center;" |1
+|Reinforced EXP
+| +0.1%
+| EXP Gain Chance
+|[[File:Iron.png|center]]
+|[[File:Tin_can.png|center]]
+|-
+|[[File:Steel_stomach.png|center]]
+| style="text-align: center;" |1
+|Steel Stomach
+| +10
+| Base Max. HP
+|[[File:Iron.png|center]]
+| style="text-align: center;" | -
+|-
+|[[File:Iron_rod.png|center]]
+| style="text-align: center;" |1
+|Iron Rod
+| +10
+| Fishing Power
+|[[File:Iron.png|center]]
+|[[File:Old_shoe.png|center]]
+|-
+|[[File:Copper_dusters.png|center]]
+| style="text-align: center;" |1
+|Copper Dusters
+| +0.75%
+| Crit Damage
+|[[File:Copper.png|center]]
+|[[File:Old_shoe.png|center]]
+|}
+===Novice===
+{| style="width: 100%;" class="article-table" border="1" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Platinum_trinket.png|center]]
+| style="text-align: center;" |10
+|Platinum Trinket
+| +0.75%
+| Damage
+|[[File:Platinum.png|center]]
+|[[File:Jellyfish.png|center]]
+|-
+|[[File:Longsword.png|center]]
+| style="text-align: center;" |10
+|Longsword
+| +10
+| Base Damage
+|[[File:Gold.png|center]]
+|[[File:Medium_yellow_fish.png|center]]
+|-
+|[[File:Jellyfish_noodles.png|center]]
+| style="text-align: center;" |10
+|Jellyfish Noodles
+| +15
+| HP every Bite
+|[[File:Jellyfish.png|center]]
+|[[File:Chainmailfish.png|center]]
+|-
+|[[File:Pilfering.png|center]]
+| style="text-align: center;" |10
+|Pilfering
+| +3%
+| Cash from Enemies
+|[[File:Gold.png|center]]
+|[[File:Medium_yellow_fish.png|center]]
+|-
+|[[File:Fast_reps.png|center]]
+| style="text-align: center;" |10
+|Fast Reps
+| +0.5%
+| Rep Speed (caps at 50k crafts)
+|[[File:Gold.png|center]]
+|[[File:Platinum.png|center]]
+|-
+|[[File:Golden_armor.png|center]]
+| style="text-align: center;" |10
+|Golden Armor
+| -0.08%
+| Monster Damage
+|[[File:Tin_can.png|center]]
+|[[File:Chainmailfish.png|center]]
+|-
+|[[File:Fish_bundle.png|center]]
+| style="text-align: center;" |10
+|Fish Bundle
+| +3%
+| Fish per Catch
+|[[File:Platinum.png|center]]
+|[[File:Small_tuna.png|center]]
+|-
+|[[File:Battle_boots.png|center]]
+| style="text-align: center;" |10
+|Battle Boots
+| +0.5%
+| Idle Attack Speed
+|[[File:Platinum.png|center]]
+|[[File:Old_shoe.png|center]]
+|}
+===Skilled===
+{| style="width: 100%;" class="article-table" border="1" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Cobalt_trinket.png|center]]
+| style="text-align: center;" |20
+|Cobalt Trinket
+| +1.25%
+| Damage
+|[[File:Cobalt.png|center]]
+|[[File:Platinum.png|center]]
+|-
+|[[File:Imbued_scimitar.png|center]]
+| style="text-align: center;" |20
+|Imbued Scimitar
+| +25
+| Base Damage
+|[[File:Cobalt.png|center]]
+|[[File:Blue_shark.png|center]]
+|-
+|[[File:Blacksmith_pills.png|center]]
+| style="text-align: center;" |20
+|Blacksmith Pills
+| style="text-align: center;" | -
+|May Cause Fever Dreams
+|[[File:Red_herring.png|center]]
+|[[File:Ice_cube_fish.png|center]]
+|-
+|[[File:Minor_investment.png|center]]
+| style="text-align: center;" |20
+|Minor Investment
+| +30
+| Cash every Minute
+|[[File:Firesalt.png|center]]
+| style="text-align: center;" | -
+|-
+|[[File:Lava_liver.png|center]]
+| style="text-align: center;" |20
+|Lava Liver
+| +50
+| Base Max. HP
+|[[File:Firesalt.png|center]]
+|[[File:Medium_yellow_fish.png|center]]
+|-
+|[[File:Firestone_exp.png|center]]
+| style="text-align: center;" |20
+|Firestone EXP
+| +0.2%
+| EXP Gain Chance
+|[[File:Firesalt.png|center]]
+|[[File:Lobster.png|center]]
+|-
+|[[File:Cobalt_rod.png|center]]
+| style="text-align: center;" |20
+|Cobalt Rod
+| +15
+| Fishing Power
+|[[File:Cobalt.png|center]]
+|[[File:Bonefish.png|center]]
+|-
+|[[File:Cobalt_pendant.png|center]]
+| style="text-align: center;" |20
+|Cobalt Pendant
+| +0.25%
+| Crit Chance
+|[[File:Cobalt.png|center]]
+|[[File:Blue_shark.png|center]]
+|}
+===Adept===
+{| style="width: 100%;" class="article-table" border="1" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Effluvium_trinket.png|center]]
+| style="text-align: center;" |30
+|Effluvium Trinket
+| +2%
+| Damage
+|[[File:Effluvium.png|center]]
+|[[File:Yellow_fin_tuna.png|center]]
+|-
+|[[File:Stabby_thing.png|center]]
+| style="text-align: center;" |30
+|Stabby Thing
+| +50
+| Base Damage
+|[[File:Effluvium.png|center]]
+|[[File:Sword_fish.png|center]]
+|-
+|[[File:Angler_cuts.png|center]]
+| style="text-align: center;" |30
+|Angler Cuts
+| +50
+| HP Every Bite
+|[[File:Angler_fish.png|center]]
+|[[File:Lobster.png|center]]
+|-
+|[[File:Plunder_meister.png|center]]
+| style="text-align: center;" |30
+|Plunder Meister
+| +6%
+| Cash from Enemies
+|[[File:Effluvium.png|center]]
+|[[File:Puffer_fish.png|center]]
+|-
+|[[File:Rapid_reps.png|center]]
+| style="text-align: center;" |30
+|Rapid Reps
+| +1%
+| Rep Speed (caps at 50k crafts)
+|[[File:Antimatter.png|center]]
+|[[File:Bonefish.png|center]]
+|-
+|[[File:Effluvium_armor.png|center]]
+| style="text-align: center;" |30
+|Effluvium Armor
+| -0.1%
+| Monster Damage
+|[[File:Effluvium.png|center]]
+|[[File:Chainmailfish.png|center]]
+|-
+|[[File:Void_mining_kit.png|center]]
+| style="text-align: center;" |30
+|Void Mining Kit
+| +25%
+| Ores Mined
+|[[File:Antimatter.png|center]]
+|[[File:Blue_shark.png|center]]
+|-
+|[[File:Face stompers.png|center]]
+| style="text-align: center;" |30
+|Facestompers
+| +1.5%
+| Idle Attack Damage
+|[[File:Antimatter.png|center]]
+|[[File:Pink_swordfish.png|center]]
+|}
+===Virtuo===
+{| style="width: 100%;" class="article-table" border="1" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Rubillic_trinket.png|center]]
+| style="text-align: center;" |40
+|Rubillic Trinket
+| +3.5%
+| Damage
+|[[File:Ruby.png|center]]
+|[[File:Angler_fish.png|center]]
+|-
+|[[File:Crystalline_ripper.png|center]]
+| style="text-align: center;" |40
+|Crystalline Ripper
+| +100
+| Base Damage
+|[[File:Ruby.png|center]]
+|[[File:Pink_swordfish.png|center]]
+|-
+|[[File:Enigmatic_booster.png|center]]
+| style="text-align: center;" |40
+|Enigmatic Booster
+| +2%
+| Value from all Secrets
+|[[File:Refractium.png|center]]
+|[[File:Yellow_grouper.png|center|43px]]
+|-
+|[[File:Major_investment.png|center]]
+| style="text-align: center;" |40
+|Major Investment
+| +400
+| Cash every Minute
+|[[File:Refractium.png|center]]
+|[[File:Puffer_fish.png|center]]
+|-
+|[[File:Turbo_reps.png|center]]
+| style="text-align: center;" |40
+|Turbo Reps
+| +2%
+| Rep Speed (caps at 50k crafts)
+|[[File:Refractium.png|center]]
+|[[File:Crystalfish.png|center]]
+|-
+|[[File:Fractal_armor.png|center]]
+| style="text-align: center;" |40
+|Fractal Armor
+| -0.1%
+| Monster Damage
+|[[File:Refractium.png|center]]
+|[[File:Ruby.png|center]]
+|-
+|[[File:Rainbow_rod.png|center]]
+| style="text-align: center;" |40
+|Rainbow Rod
+| +50
+| Fishing Power
+|[[File:Refractium.png|center]]
+|[[File:Crystalfish.png|center]]
+|-
+|[[File:Rubium_dusters.png|center]]
+| style="text-align: center;" |40
+|Rubium Dusters
+| +2.5%
+| Crit Damage
+|[[File:Ruby.png|center]]
+|[[File:Crystalfish.png|center]]
+|}
+===Master===
+{| style="width: 100%;" class="article-table" border="1" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Dubloon_trinket.png|center]]
+| style="text-align: center;" |50
+|Dubloon Trinket
+| +5%
+| Damage
+|[[File:Dubloonium.png|center]]
+|[[File:Bobbit_worm.png|center]]
+|-
+|[[File:And_my_axe.png|center]]
+| style="text-align: center;" |50
+|And My Axe
+| +2750
+| Base Damage
+|[[File:Dubloonium.png|center]]
+|[[File:Giant_sea_urchin.png|center|46px]]
+|-
+|[[File:Fished_corn.png|center]]
+| style="text-align: center;" |50
+|Fished Corn
+| +200
+| HP Every Bite
+|[[File:Pike_fish.png|center]]
+|[[File:Yellow_gulper.png|center]]
+|-
+|[[File:Looter_lord.png|center]]
+| style="text-align: center;" |50
+|Looter Lord
+| +10%
+| Cash from Enemies
+|[[File:Glume.png|center]]
+|[[File:Dollar_fish.png|center]]
+|-
+|[[File:Blessed_experience.png|center]]
+| style="text-align: center;" |50
+|Blessed Experience
+| +0.5%
+| EXP Gain Chance
+|[[File:Dubloonium.png|center]]
+|[[File:Yellow_gulper.png|center]]
+|-
+|[[File:Languished_lungs.png|center]]
+| style="text-align: center;" |50
+|Languished Lungs
+| +350
+| Base Max. HP
+|[[File:Glume.png|center]]
+|[[File:Manta_ray.png|center|46px]]
+|-
+|[[File:Dubaroo_kit.png|center]]
+| style="text-align: center;" |50
+|Dubaroo Kit
+| +50%
+| Ores Mined
+|[[File:Dubloonium.png|center]]
+|[[File:Yellow_gulper.png|center]]
+|-
+|[[File:Tech_skippers.png|center]]
+| style="text-align: center;" |50
+|Tech Skippers
+| +2%
+| Idle Attack Speed
+|[[File:Dubloonium.png|center]]
+|[[File:Glume.png|center]]
+|}
+===Legend===
+{| style="width: 100%;" class="article-table" border="1" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Plumentine_trinket.png|center]]
+| style="text-align: center;" |60
+|Plumentine Trinket
+| +8%
+| Damage
+|[[File:Plument.png|center]]
+|[[File:Hammerhead_shark.png|center]]
+|-
+|[[File:Big_ol_sword.png|center]]
+| style="text-align: center;" |60
+|Big Ol' Sword
+| +500
+| Base Damage
+|[[File:Plument.png|center]]
+|[[File:Giant_sea_urchin.png|center|46px]]
+|-
+|[[File:Flapjacks.png|center]]
+| style="text-align: center;" |60
+|Flapjacks
+| +400
+| HP Every BIte
+|[[File:Yellow_gulper.png|center]]
+|[[File:Giant_sea_serpent.png|center|46px]]
+|-
+|[[File:Royalty_income.png|center]]
+| style="text-align: center;" |60
+|Royalty Income
+| +1000
+| Cash every Minute
+|[[File:Plument.png|center]]
+|[[File:Crystalfish.png|center]]
+|-
+|[[File:Gotta_go_fast.png|center]]
+| style="text-align: center;" |60
+|Gotta Go Fast
+| +3%
+| Rep Speed (caps at 50k crafts)
+|[[File:Figmentation.png|center]]
+|[[File:Pike_fish.png|center]]
+|-
+|[[File:Figmentation_mail.png|center]]
+| style="text-align: center;" |60
+|Figmentation Mail
+| -0.3%
+| Monster Damage
+|[[File:Figmentation.png|center]]
+|[[File:Snail_fish.png|center]]
+|-
+|[[File:Manifestation_kit.png|center]]
+| style="text-align: center;" |60
+|Manifestation Kit
+| +75%
+| Ores Mined
+|[[File:Figmentation.png|center]]
+|[[File:Dollar_fish.png|center]]
+|-
+|[[File:Dragoneye_charm.png|center]]
+| style="text-align: center;" |60
+|Dragoneye Charm
+| +0.75%
+| Crit Hit Chance
+|[[File:Plument.png|center]]
+|[[File:Ice_cube_fish.png|center]]
+|}
+===Godly===
+{| style="width: 100%;" class="article-table" border="1" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Godly_trinket.png|center]]
+| style="text-align: center;" |70
+|Godly Trinket
+| +15%
+| Damage
+|[[File:Godshard.png|center]]
+|[[File:Manta_ray.png|center|46px]]
+|-
+|[[File:Galaxial_slasher.png|center]]
+| style="text-align: center;" |70
+|Galaxial Slasher
+| +1000
+| Base Damage
+|[[File:Godshard.png|center]]
+|[[File:Kraken.png|center|46px]]
+|-
+|[[File:Bonus_reset_ap.png|center]]
+| style="text-align: center;" |70
+|Bonus Reset AP
+| +2%
+| AP on Ascension
+|[[File:Godshard.png|center]]
+|[[File:Demonite.png|center]]
+|-
+|[[File:Quantum_profits.png|center]]
+| style="text-align: center;" |70
+|Quantum Profits
+| +2500
+| Cash every Minute
+|[[File:Godshard.png|center]]
+|[[File:Hammerhead_shark.png|center]]
+|-
+|[[File:Universal_exp.png|center]]
+| style="text-align: center;" |70
+|Universal EXP
+| +0.8%
+| EXP Gain Chance
+|[[File:Godshard.png|center]]
+|[[File:Giant_sea_serpent.png|center|46px]]
+|-
+|[[File:Aortic_affinity.png|center]]
+| style="text-align: center;" |70
+|Aortic Affinity
+| +1000
+| Base Max. HP
+|[[File:Demonite.png|center]]
+|[[File:Jumbo_shrimp.png|center|46px]]
+|-
+|[[File:Hyper_fishing.png|center]]
+| style="text-align: center;" |70
+|Hyper Fishing
+| +20%
+| Fish per Catch
+|[[File:Kraken.png|center|46px]]
+|[[File:Godshard.png|center]]
+|-
+|[[File:Dimension_hoppers.png|center]]
+| style="text-align: center;" |70
+|Dimension Hoppers
+| +4%
+| Idle Attack Speed
+|[[File:Godshard.png|center]]
+|[[File:Jumbo_shrimp.png|center|46px]]
+|}
+===Warped===
+{| style="width: 100%;" class="article-table" border="1" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Warped_trinket.png|center]]
+| style="text-align: center;" |90
+|Warped Trinket
+| +35%
+| Damage
+|[[File:Warpium.png|center]]
+|[[File:Kraken.png|center|46px]]
+|-
+|[[File:Cuttokillicus.png|center]]
+| style="text-align: center;" |90
+|Cuttokillicus
+| +100
+| Base Damage per Mining Lv
+|[[File:Warpium.png|center]]
+|[[File:Demonite.png|center]]
+|-
+|[[File:Cyber_f_series.png|center]]
+| style="text-align: center;" |90
+|Cyber F Series
+| +0.25%
+| Shields Every Fishwich Bite (caps at 2500%)
+|[[File:Jumbo_shrimp.png|center|46px]]
+|[[File:Demonite.png|center]]
+|-
+|[[File:Lightning_larceny.png|center]]
+| style="text-align: center;" |90
+|Lightning Larceny
+| +40%
+| Cash from Enemies
+|[[File:Anodizia.png|center]]
+|[[File:Yellow_grouper.png|center|46px]]
+|-
+|[[File:Blinged_pickaxe.png|center]]
+| style="text-align: center;" |90
+|Blinged Pickaxe
+| +5%
+| Mining EXP
+|[[File:Warpium.png|center]]
+|[[File:Snail_fish.png|center]]
+|-
+|[[File:Bp_straight_up.png|center]]
+| style="text-align: center;" |90
+|BP Straight Up
+| +0.5%
+| BP when Ascending (caps at 1000)
+|[[File:Warpium.png|center]]
+|[[File:Kraken.png|center|46px]]
+|-
+|[[File:Tin_pail_tree.png|center]]
+| style="text-align: center;" |90
+|Tin Pail Tree
+| +5-10%
+| Botany Growth Speed (caps at 6000%)
+|[[File:Anodizia.png|center]]
+|[[File:Demonite.png|center]]
+|-
+|[[File:Crystal_supremacy.png|center]]
+| style="text-align: center;" |90
+|Crystal Supremacy
+| +0.1-0.4%
+| Crystal Bonus (Green, Orange, Purple) (caps at 20%)
+|[[File:Anodizia.png|center]]
+|[[File:Godshard.png|center]]
+|}
+===Djinnic===
+{| style="width: 100%;" class="article-table" border="1" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+
+|-
+|[[File:Djinnic_trinket.png|center]]
+| style="text-align: center;" |120
+| Djinnic Trinket
+| +100%
+| Damage
+|[[File:Djinn.png|center]]
+|[[File:Manta_ray.png|center|46px]]
+|-
+|[[File:Oberons_obliterator.png|center]]
+| style="text-align: center;" |120
+|Oberons Obliterator
+| +89717
+| Base Damage (Based on Kills)
+|[[File:Djinn.png|center]]
+|[[File:Old_shoe.png|center]]
+|-
+|[[File:Cyber_j_series.png|center]]
+| style="text-align: center;" |120
+|Cyber J Series
+| +1%
+| Shields Every Noodles Bite (caps at 4000%)
+|[[File:Djinn.png|center]]
+|[[File:Antimatter.png|center]]
+|-
+|[[File:Ensouled_head.png|center]]
+| style="text-align: center;" |120
+|Ensouled Head
+| +<0.2%
+|Kills per Kill (caps at +10)
+|[[File:Djinn.png|center]]
+|[[File:Demonite.png|center]]
+|-
+|[[File:Righteous_rift.png|center]]
+| style="text-align: center;" |120
+|Righteous Rift
+| +<1.7%
+| Less EXP to Level Up Rifts (caps at 70%)
+|[[File:Gummi.png|center]]
+|[[File:Giant_sea_urchin.png|center|46px]]
+|-
+|[[File:Pimpin_pumper.png|center]]
+| style="text-align: center;" |120
+|Pimpin Pumper
+| +10000
+| Base Max HP
+|[[File:Gummi.png|center]]
+|[[File:Crystalfish.png|center]]
+|-
+|[[File:Mythical_serfdoms.png|center]]
+| style="text-align: center;" |120
+|Mythical Serfdoms
+| +5-10%
+| Tilling Perk EXP (caps at 4000%)
+|[[File:Gummi.png|center]]
+|[[File:Yellow_gulper.png|center]]
+|-
+|[[File:Normie_rocks.png|center]]
+| style="text-align: center;" |120
+|Normie Rocks
+| +0.1-0.4%
+| Crystal Bonus (Red, Yellow, Blue, Purple) (caps at 20%)
+|[[File:Gummi.png|center]]
+|[[File:Djinn.png|center]]
+|}
+===Zaqqic===
+{| style="width: 100%;" class="article-table" border="1" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+| [[File:Zaqqum_Trinket.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 1
+|Zaqqum Trinket
+| +X%
+| Damage Every 100 Strength Levels
+|[[File:Copper.png|center]]
+|
+|-
+| [[File:Doom_Gauntlet.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 1
+|Doom Gauntlet
+| +X
+| Base Damage (scales with Crusade 15 levels)
+|[[File:Gold.png|center]]
+|[[File:Jumbo_shrimp.png|center|46px]]
+|-
+| [[File:Cremation_Jar.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 2
+|Cremation Jar
+| +X
+| Max Levels to Mystic Botany BP Perk (and adds a new bonus)
+|[[File:Anodizia.png|center]]
+|[[File:T_coin.png|center]]
+|-
+| [[File:Smouldering_Steal.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 2
+|Smouldering Steal
+| +X%
+| Cash from enemies every 10 spelunking levels
+|[[File:Bobbit_worm.png|center]]
+|[[File:T_wealth_obol.png|center]]
+|-
+| [[File:Charons_Obol.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 3
+|Charons Obol
+| +X%
+| Less Damage Reduction per tier of Afterlife
+|[[File:Yellow_gulper.png|center]]
+|[[File:Epic12.png|center|32px]]
+|-
+| [[File:Firebrand_Essence.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 3
+|Firebrand Essence
+| +X%
+| Double brew chance; Multibrew cap is now +X (max 15)
+|[[File:Firesalt.png|center]]
+|[[File:t_irish_clover.png|center]]
+|-
+| [[File:Dont_Go_Fetch.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 4
+|Don't Go Fetch
+| +X%
+| Pet Damage and Trekking Move Speed
+|[[File:Red_herring.png|center]]
+|[[File:Epic13.png|center|32px]]
+|-
+| [[File:Sacrificial_Altar.png|center]]
+| style="text-align: center;" |170 + Smithy Cert Lv. 4
+|Sacrificial Altar
+| +X%
+| More Traces Earned from Asylum Bosses
+|[[File:Ruby.png|center]]
+|[[File:t_prime_meat.png|center]]
+|}
+===Gaxial===
+{| style="width: 100%;" class="article-table" border="1" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+| [[File:Slamacow_Trinket.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 1
+|Slamacow Trinket
+| +X
+| Increases all smith trinket bonuses to the power of 1.X
+|[[File:Baubles.png|center]]
+|[[File:Crystalfish.png|center]]
+|-
+| [[File:Gaxmis_Glaive.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 1
+|Gaxmis Glaive
+| +X
+| Base Damage per tier of Afterlife reached
+|[[File:Djinn.png|center]]
+|[[File:T calming obol.png|center]]
+|-
+| [[File:Irradiated_Builders.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 2
+|Irradiated Builders
+| +X%
+| Build Speed for Iodized Builders
+|[[File:Refractium.png|center]]
+|[[File:T wealth obol.png|center]]
+|-
+| [[File:Snapped_Time.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 2
+|Snapped Time
+| +X
+| Increases all smithing cash bonuses to the power of 1.X
+|[[File:Gummi.png|center]]
+|[[File:T coin.png|center]]
+|-
+| [[File:One_Swing_Pick.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 3
+|One Swing Pick
+| +X
+| (1+X)x gain of all resources for each star of cool cash
+|[[File:Giant sea serpent.png|center]]
+|[[File:Legendary12.png|center|32px]]
+|-
+| [[File:Timelesseum.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 3
+|Timelesseum
+| +X%
+| Chance to trigger a super chain upon H20 level up
+|[[File:Hammerhead shark.png|center]]
+|[[File:Perarlescent7.png|center|32px]]
+|-
+| [[File:Sparkle_Goop.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 4
+|Sparkle Goop
+| +X%
+| Realm Coins per Best Afterlife reached
+|[[File:T the mark.png|center|32px]]
+|[[File:Rare12.png|center|32px]]
+|-
+| [[File:The_One_and_Only.png|center]]
+| style="text-align: center;" |? + Hammer Time Lv. 4
+|The One and Only
+| +X%
+| Minion damage per best Afterlife after 50
+|[[File:T temper obol.png|center|32px]]
+|[[File:Pearlescent9.png|center|32px]]
+|}
+==Cards==
+{| class="article-table" style="width: 500px;" align="center"
+|-
+! colspan="7" scope="col" style="text-align: center;" |
+=== Monster Card Upgrade Costs ===
+|-
+! style="text-align: center;" |Upgrade Tier
+![[File:Whitestar.png|thumb|center]]
+![[File:Greenstar.png|thumb|center]]
+![[File:Bluestar.png|thumb|center]]
+![[File:Purplestar.png|thumb|center]]
+![[File:Orangestar.png|thumb|center]]
+!'''GSE'''
+'''(Grey Star Equivalent)'''
+|-
+| style="text-align: center;" |2nd Tier
+[[File:Whitestar.png|16px|text-bottom]] → [[File:Greenstar.png|16px|text-bottom]][[File:Greenstar.png|16px|text-bottom]]
+| style="text-align: center;" |3
+| style="text-align: center;" |1
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;"|8
+|-
+| style="text-align: center;" |3rd Tier
+[[File:Greenstar.png|16px|text-bottom]][[File:Greenstar.png|16px|text-bottom]] → [[File:Bluestar.png|16px|text-bottom]][[File:Bluestar.png|16px|text-bottom]][[File:Bluestar.png|16px|text-bottom]]
+| style="text-align: center;" |10
+| style="text-align: center;" |3
+| style="text-align: center;" |1
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;"|45
+|-
+| style="text-align: center;" |4th Tier
+[[File:Bluestar.png|16px|text-bottom]][[File:Bluestar.png|16px|text-bottom]][[File:Bluestar.png|16px|text-bottom]] → [[File:Purplestar.png|16px|text-bottom]][[File:Purplestar.png|16px|text-bottom]][[File:Purplestar.png|16px|text-bottom]][[File:Purplestar.png|16px|text-bottom]]
+| style="text-align: center;" |20
+| style="text-align: center;" |4
+| style="text-align: center;" |2
+| style="text-align: center;" |1
+| style="text-align: center;" | -
+| style="text-align: center;"|140
+|-
+| style="text-align: center;" |5th Tier
+[[File:Purplestar.png|16px|text-bottom]][[File:Purplestar.png|16px|text-bottom]][[File:Purplestar.png|16px|text-bottom]][[File:Purplestar.png|16px|text-bottom]] → [[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]]
+| style="text-align: center;" |100
+| style="text-align: center;" |20
+| style="text-align: center;" |4
+| style="text-align: center;" |2
+| style="text-align: center;" |1
+| style="text-align: center;"|520
+|-
+| style="text-align: center;" |6th Tier
+[[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]][[File:Orangestar.png|16px|text-bottom]] →[[File:Diamondstar.png|16px|text-bottom]][[File:Diamondstar.png|16px|text-bottom]][[File:Diamondstar.png|16px|text-bottom]][[File:Diamondstar.png|16px|text-bottom]][[File:Diamondstar.png|16px|text-bottom]][[File:Diamondstar.png|16px|text-bottom]]
+| style="text-align: center;" |250
+| style="text-align: center;" |75
+| style="text-align: center;" |20
+| style="text-align: center;" |10
+| style="text-align: center;" |4
+| style="text-align: center;"|2105
+|}
+==Spiriting==
+===Soul Color Requirements===
+{| style="width: 100%;" class="article-table" border="1"
+|-
+! scope="col" style="text-align: center;"|Cultists
+! scope="col" style="text-align: center;"|[[File:Red_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Orange_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Yellow_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Green_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Blue_soul.png|30px]]
+|-
+| style="text-align: center;"|Cultist A
+| style="text-align: center;"|1
+| style="text-align: center;"|10
+| style="text-align: center;"|20
+| style="text-align: center;"|30
+| style="text-align: center;"|40
+|-
+| style="text-align: center;"|Cultist B
+| style="text-align: center;"|1
+| style="text-align: center;"|12
+| style="text-align: center;"|22
+| style="text-align: center;"|32
+| style="text-align: center;"|42
+|-
+| style="text-align: center;"|Cultist C
+| style="text-align: center;"|1
+| style="text-align: center;"|14
+| style="text-align: center;"|24
+| style="text-align: center;"|34
+| style="text-align: center;"|44
+|-
+| style="text-align: center;"|Cultist D
+| style="text-align: center;"|1
+| style="text-align: center;"|16
+| style="text-align: center;"|26
+| style="text-align: center;"|36
+| style="text-align: center;"|46
+|-
+| style="text-align: center;"|Cultist E
+| style="text-align: center;"|1
+| style="text-align: center;"|18
+| style="text-align: center;"|28
+| style="text-align: center;"|38
+| style="text-align: center;"|48
+|-
+| style="text-align: center;"|Cultist F
+| style="text-align: center;"|1
+| style="text-align: center;"|20
+| style="text-align: center;"|30
+| style="text-align: center;"|40
+| style="text-align: center;"|50
+|-
+| style="text-align: center;"|Cultist G
+| style="text-align: center;"|1
+| style="text-align: center;"|22
+| style="text-align: center;"|32
+| style="text-align: center;"|42
+| style="text-align: center;"|52
+|-
+| style="text-align: center;"|Cultist H
+| style="text-align: center;"|1
+| style="text-align: center;"|24
+| style="text-align: center;"|34
+| style="text-align: center;"|44
+| style="text-align: center;"|54
+|}
+
+{| style="width: 100%;" class="article-table" border="1"
+|-
+! scope="col" style="text-align: center;"|Acolytes
+! scope="col" style="text-align: center;"|[[File:Red_soul.png|30px]] + [[File:Orange_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Orange_soul.png|30px]] + [[File:Yellow_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Yellow_soul.png|30px]] + [[File:Green_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Green_soul.png|30px]] + [[File:Blue_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Blue_soul.png|30px]] + [[File:Purple_soul.png|30px]]
+! scope="col" style="text-align: center;"|[[File:Purple_soul.png|30px]] + [[File:White_soul.png|30px]]
+|-
+| style="text-align: center;"|Acolyte A
+| style="text-align: center;"|1
+| style="text-align: center;"|10
+| style="text-align: center;"|20
+| style="text-align: center;"|30
+| style="text-align: center;"|40
+| style="text-align: center;"|50
+|-
+| style="text-align: center;"|Acolyte B
+| style="text-align: center;"|1
+| style="text-align: center;"|12
+| style="text-align: center;"|22
+| style="text-align: center;"|32
+| style="text-align: center;"|42
+| style="text-align: center;"|52
+|-
+| style="text-align: center;"|Acolyte C
+| style="text-align: center;"|1
+| style="text-align: center;"|14
+| style="text-align: center;"|24
+| style="text-align: center;"|34
+| style="text-align: center;"|44
+| style="text-align: center;"|54
+|-
+| style="text-align: center;"|Acolyte D
+| style="text-align: center;"|1
+| style="text-align: center;"|16
+| style="text-align: center;"|26
+| style="text-align: center;"|36
+| style="text-align: center;"|46
+| style="text-align: center;"|56
+|-
+| style="text-align: center;"|Acolyte E
+| style="text-align: center;"|1
+| style="text-align: center;"|18
+| style="text-align: center;"|28
+| style="text-align: center;"|38
+| style="text-align: center;"|48
+| style="text-align: center;"|58
+|-
+| style="text-align: center;"|Acolyte F
+| style="text-align: center;"|1
+| style="text-align: center;"|20
+| style="text-align: center;"|30
+| style="text-align: center;"|40
+| style="text-align: center;"|50
+| style="text-align: center;"|60
+|-
+| style="text-align: center;"|Acolyte G
+| style="text-align: center;"|1
+| style="text-align: center;"|22
+| style="text-align: center;"|32
+| style="text-align: center;"|42
+| style="text-align: center;"|52
+| style="text-align: center;"|62
+|-
+| style="text-align: center;"|Acolyte H
+| style="text-align: center;"|1
+| style="text-align: center;"|24
+| style="text-align: center;"|34
+| style="text-align: center;"|44
+| style="text-align: center;"|54
+| style="text-align: center;"|64
+|}
+==Merits==
+===Shop 1===
+{| class="article-table" style="width: 100%;" border="1"
+!Bonus Item per Purchase
+! style="text-align: center;" |1
+! style="text-align: center;" |2
+! style="text-align: center;" |3
+! style="text-align: center;" |4
+! style="text-align: center;" |5
+! style="text-align: center;" |6
+! style="text-align: center;" |7
+! style="text-align: center;" |8
+! style="text-align: center;" |9
+! style="text-align: center;" |10
+|-
+|Green Key
+|[[File:Badge1.png|center]]<p style="text-align: center;">x8</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x13</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x18</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x4</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+|Auto Progression
+|[[File:Badge1.png|center]]<p style="text-align: center;">x6</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x15</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+| +10% (1st bonus) then +5% Raid Ticket Drop Chance<ref name="dropmerit">Raid ticket drop chance are capped at 55% and gem drop chance are capped at 20%. This means you cannot go above those drop chance using ''Raid drop luck'' cards. You reach the cap when buying all rewards in contract shop, so if you use ''Raid drop luck'' cards, you might want avoid buying all rewards to not waste merits.</ref>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|-
+| +10% Cultist & Acolyte Efficiency
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge1.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|}
+
+===Shop 2===
+{| class="article-table" style="width: 100%;" border="1"
+!Bonus Item per Purchase
+! style="text-align: center;" |1
+! style="text-align: center;" |2
+! style="text-align: center;" |3
+! style="text-align: center;" |4
+! style="text-align: center;" |5
+! style="text-align: center;" |6
+! style="text-align: center;" |7
+! style="text-align: center;" |8
+! style="text-align: center;" |9
+! style="text-align: center;" | 10
+|-
+|Orange Key
+|[[File:Badge2.png|center]]<p style="text-align: center;">x10</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x10</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x15</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x6</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+|Auto Progression
+|[[File:Badge2.png|center]]<p style="text-align: center;">x10</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x15</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+| +2% Raid Gem Drop Chance<ref name="dropmerit" />
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x4</p>
+|-
+| +1 to All Starting Skill Levels
+|[[File:Badge2.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge2.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge3.png|center]]<p style="text-align: center;">x3</p>
+|}
+
+===Shop 3===
+{| class="article-table" style="width: 100%;" border="1"
+!Bonus Item per Purchase
+! style="text-align: center;" | 1
+! style="text-align: center;" |2
+! style="text-align: center;" |3
+! style="text-align: center;" |4
+! style="text-align: center;" |5
+! style="text-align: center;" | 6
+! style="text-align: center;" |7
+! style="text-align: center;" | 8
+! style="text-align: center;" |9
+! style="text-align: center;" | 10
+|-
+|Pink Key
+|[[File:Badge4.png|center]]<p style="text-align: center;">x8</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x10</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x12</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x8</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+|White Key
+|[[File:Badge4.png|center]]<p style="text-align: center;">x8</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x10</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x12</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x10</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+| +2 Idle Crusaders,
++3 Idle Crusaders (Level 6+)
+|[[File:Badge4.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|-
+| +10% Crops Harvested
+|[[File:Badge4.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x3</p>
+|}
+
+===Shop 4===
+{| class="article-table" style="width: 100%;" border="1"
+!Bonus Item per Purchase
+! style="text-align: center;" |1
+! style="text-align: center;" | 2
+! style="text-align: center;" |3
+! style="text-align: center;" |4
+! style="text-align: center;" |5
+! style="text-align: center;" |6
+! style="text-align: center;" |7
+! style="text-align: center;" |8
+! style="text-align: center;" |9
+! style="text-align: center;" |10
+|-
+|Cyan Key
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x6</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x8</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+| +3% BP on Rebirth
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|-
+| +20% Crusades EXP,
++25 Tinkering EXP
+|[[File:Badge4.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge4.png|center]]<p style="text-align: center;">x3</p>
+|
+[[File:Badge4.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|-
+| +5% Chance to Get Next
+Botany Flower per Overgrowth
+|[[File:Badge5.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge5.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|}
+
+===Shop 5===
+{| class="article-table" style="width: 100%;" border="1"
+!Bonus Item per Purchase
+! style="text-align: center;" |1
+! style="text-align: center;" |2
+! style="text-align: center;" |3
+! style="text-align: center;" |4
+! style="text-align: center;" |5
+! style="text-align: center;" |6
+! style="text-align: center;" |7
+! style="text-align: center;" |8
+! style="text-align: center;" |9
+! style="text-align: center;" |10
+|-
+|Auto Progression
+|[[File:Badge6.png|center]]<p style="text-align: center;">x3</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x4</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x5</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x6</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x7</p>
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+|5% Double Asylum Keys
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|
+[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|
+[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|
+[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|
+[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|
+[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|
+[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|-
+|5% More Vessels Gained
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|-
+|10% More Pet Capsule Exp Gain
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x1</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|[[File:Badge6.png|center]]<p style="text-align: center;">x2</p>
+|}
+
+
+==Traces==
+{| class="article-table" style="clear:all; padding=5px; text-align: center" border="1" width="100%;"
+! colspan="2" style="text-align: center;" | Trace
+! style="text-align: center;" |Drop Amount determined by:
+|-
+|[[File:Trace_Emigdala.png|50px|center]]
+|Emigdala
+|Difficulty, Mark
+|-
+|[[File:Trace_Occulon.png|50px|center]]
+|Occulon
+|Difficulty, Mark
+|-
+|[[File:Trace_Scallius.png|50px|center]]
+|Scallius
+|Difficulty, Mark
+|-
+|[[File:Trace_Gorshank.png|50px|center]]
+|Gorshank
+|Difficulty, Mark
+|-
+|[[File:Trace_Apo.png|50px|center]]
+|[[Apothecary]]
+|Apothecary level
+|-
+|[[File:Trace_Botany.png|50px|center]]
+|[[Botany]]
+|Botany level, Plant dropped, Plant level, Overgrowth
+|-
+|[[File:Trace_Tilling.png|50px|center]]
+|[[Tilling]]
+|Tilling level, Dirt owned
+|-
+|[[File:Trace_Mining.png|50px|center]]
+|[[Mining]]
+|Mining level, Ores per minute
+|-
+|[[File:Trace_Smithing.png|50px|center]]
+|[[Smithing]]
+|Smithing level, Craft number, Craft tier, Crafts per Craft
+|-
+|[[File:Trace_Fishing.png|50px|center]]
+|[[Fishing]]
+|Fishing level, Fish per catch
+|}
+
+==Crusades==
+===Materials===
+{| class="article-table" border="1" align="center"
+|-
+! rowspan="2" |Crusade<p style="text-align: center;">Level</p>
+! rowspan="2" scope="col" style="text-align: center;" |Boss
+! colspan="5" scope="col" style="text-align: center;" |Difficulty Level
+|-
+! colspan="2" style="text-align: center;"|1
+! style="text-align: center;"|7
+! style="text-align: center;"|17
+! style="text-align: center;"|27
+|-
+| style="text-align: center;"|1
+|[[File:The_bruiser.png|center|40px]]
+| style="background-color: gray" |[[File:Common1.png|center|32px]]
+| style="background-color: gray" |[[File:Common2.png|center|32px]]
+| style="background-color: gray" |[[File:Common11.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon1.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon10.png|center|32px]]
+|-
+| style="text-align: center;"|5
+|[[File:Toxic_sludge.png|center|40px]]
+| style="background-color: gray" |[[File:Common6.png|center|32px]]
+| style="background-color: gray" |[[File:Common12.png|center|32px]]
+| style="background-color: gray" |[[File:Common7.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon4.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon9.png|center|32px]]
+|-
+| style="text-align: center;" |10
+|[[File:Killer_rabbit.png|center|40px]]
+| style="background-color: gray" |[[File:Common4.png|center|32px]]
+| style="background-color: gray" |[[File:Common8.png|center|32px]]
+| style="background-color: gray" |[[File:Common14.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon7.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon5.png|center|32px]]
+|-
+| style="text-align: center;" |15
+|[[File:Desert_giant.png|center|40px]]
+| style="background-color: gray" |[[File:Common5.png|center|32px]]
+| style="background-color: gray" |[[File:Common3.png|center|32px]]
+| style="background-color: gray" |[[File:Common10.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare1.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare4.png|center|32px]]
+|-
+| style="text-align: center;" |20
+|[[File:Pincermin.png|center|40px]]
+| style="background-color: gray" |[[File:Common9.png|center|32px]]
+| style="background-color: gray" |[[File:Common13.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon3.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare11.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic1.png|center|32px]]
+|-
+| style="text-align: center;" |30
+|[[File:Desert_wurm.png|center|40px]]
+| style="background-color: gray" |[[File:Common15.png|center|32px]]
+| style="background-color: gray" |[[File:Common16.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon6.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon8.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic3.png|center|32px]]
+|-
+| style="text-align: center;" |40
+|[[File:Faust.png|center|40px]]
+| style="background-color: forestgreen" |[[File:Uncommon11.png|center|32px]]
+| style="background-color: forestgreen" |[[File:Uncommon2.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare2.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic10.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic8.png|center|32px]]
+|-
+| style="text-align: center;" |50
+|[[File:Arachneon.png|center|40px]]
+| style="background-color: dodgerblue" |[[File:Rare7.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare5.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic2.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic5.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary9.png|center|32px]]
+|-
+| style="text-align: center;" |60
+|[[File:Gheist.png|center|40px]]
+| style="background-color: dodgerblue" |[[File:Rare6.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare8.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare10.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic9.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary1.png|center|32px]]
+|-
+| style="text-align: center;" |70
+|[[File:Basilisk.png|center|40px]]
+| style="background-color: dodgerblue" |[[File:Rare9.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare3.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic4.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary10.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary4.png|center|32px]]
+|-
+| style="text-align: center;" |80
+|[[File:Blobulytes.png|center|40px]]
+| style="background-color: blueviolet" |[[File:Epic6.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic11.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic7.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary5.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl2.png|center|32px]]
+|-
+| style="text-align: center;" |90
+|[[File:Puppeteer.png|center|40px]]
+| style="background-color: darkorange" |[[File:Legendary2.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary6.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary8.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl1.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl6.png|center|32px]]
+|-
+| style="text-align: center;" |99
+|[[File:Narcissus.png|center|40px]]
+| style="background-color: darkorange" |[[File:Legendary3.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary7.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl8.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl5.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearl9.png|center|32px]]
+|-
+! colspan="2" |
+! style="text-align: center;" |1
+! style="text-align: center;" |8
+! style="text-align: center;" |15
+! style="text-align: center;" |30
+! style="text-align: center;" |40
+|-
+| style="text-align: center;" |120
+|[[File:Crusader crapotti.png|center|40px]]
+| style="background-color: forestgreen" |[[File:Uncommon12.png|center|32px]]
+| style="background-color: dodgerblue" |[[File:Rare12.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic12.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary11.png|center|32px]]
+| style="background-color: cyan" |[[File:Perarlescent7.png|center|32px]]
+|-
+! colspan="2" |
+! style="text-align: center;" |1
+! style="text-align: center;" |15
+! style="text-align: center;" |28
+! style="text-align: center;" |55
+! style="text-align: center;" |100
+|-
+| style="text-align: center;" |140
+|[[File:Crusader father of all.png|center|40px]]
+| style="background-color: dodgerblue" |[[File:Rare13.png|center|32px]]
+| style="background-color: blueviolet" |[[File:Epic13.png|center|32px]]
+| style="background-color: darkorange" |[[File:Legendary12.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearlescent8.png|center|32px]]
+| style="background-color: cyan" |[[File:Pearlescent9.png|center|32px]]
+|}
+===Boosters===
+{| style="width:100%" class="article-table"
+!Booster
+!Effect
+|-
+|[[File:Booster1.png|center|60px]]
+|90% chance to give +10% bonus
+|-
+|[[File:Booster2.png|center|60px]]
+|70% chance to give +25% bonus
+|-
+|[[File:Booster3.png|center|60px]]
+|50% chance to give +50% bonus
+|-
+|[[File:Booster4.png|center|60px]]
+|30% chance to give +100% bonus
+|-
+|[[File:Booster5.png|center|60px]]
+|15% chance to give +250% bonus
+|}
+
+===Mutators===
+{| style="width:100%" class="article-table"
+!Booster
+!Effect
+|-
+|[[File:Mutator1.png|center|60px]]
+|Multiplies the given bonus by a random number between 0.8 and 1.3
+|-
+|[[File:Mutator2.png|center|60px]]
+|Multiplies the given bonus by a random number between 0.7 and 1.5
+|-
+|[[File:Mutator3.png|center|60px]]
+|Multiplies the given bonus by a random number between 0.6 and 1.8
+|-
+|[[File:Mutator4.png|center|60px]]
+|Multiplies the given bonus by a random number between 0.5 and 2.1
+|-
+|[[File:Mutator5.png|center|60px]]
+|Multiplies the given bonus by a random number between 0.3 and 2.5
+|}
+
+====Misc. Mutators====
+{| style="width:100%" class="article-table"
+!Booster
+!Name
+!Effect
+|-
+|[[File:Misc1.png|center|60px]]
+|Safety Charm
+|Saves an upgrade use from being consumed when a booster fails
+|-
+|[[File:Misc2.png|center|60px]]
+|Lucky Donut
+|Adds +15% chance for a booster to succeed
+|-
+|[[File:Misc3.png|center|60px]]
+|Crystal Genesis
+|50% chance to double the applied booster's bonus
+|-
+|[[File:Misc4.png|center|60px]]
+|Chaotic Mutators
+|Doubles applied mutator bonus but reduces booster's success chance by 50% *(currently doubles success chance not halves)
+|-
+|[[File:Misc5.png|center|60px]]
+|Benign Mutators
+|Guarantees the applied mutator multiplies by 1.0 or more
+|}
+==Tilling==
+===Crops===
+{| class="article-table" border="1" align="center" style="text-align: center;"
+! colspan="10" style="text-align: center;"| Crop Requirements
+|-
+! colspan="2" rowspan="2" style="text-align: center;"| Crop
+! colspan="8" style="text-align: center;"| Plot / Tilling level
+|-
+! style="text-align: center;"| 1
+! style="text-align: center;"| 2
+! style="text-align: center;"| 3
+! style="text-align: center;"| 4
+! style="text-align: center;"| 5
+! style="text-align: center;"| 6
+! style="text-align: center;"| 7
+! style="text-align: center;"| 8
+|-
+| [[File:Dirt.png|center]] || Dirt || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+| [[File:Grass.png|center]] || Grass || 5 || 7 || 9 || 11 || 13 || 15 || 17 || 19
+|-
+| [[File:Quality_hay.png|center]] || Quality Hay || 10 || 12 || 14 || 16 || 18 || 20 || 22 || 24
+|-
+| [[File:Saffron.png|center]] || Saffron || 15 || 17 || 19 || 21 || 23 || 25 || 27 || 29
+|-
+| [[File:Corn.png|center]] || Corn || 20 || 22 || 24 || 26 || 28 || 30 || 32 || 34
+|-
+| [[File:Maize.png|center]] || Maize || 25 || 27 || 29 || 31 || 33 || 35 || 37 || 39
+|-
+| [[File:Hyper_stalk.png|center]] || Hyper Stalk || 30 || 32 || 34 || 36 || 38 || 40 || 42 || 44
+|-
+| [[File:Cabbage.png|center]] || Cabbage || 35 || 37 || 39 || 41 || 43 || 45 || 47 || 49
+|-
+| [[File:Ancient_dew.png|center]] || Ancient Dew || 40 || 42 || 44 || 46 || 48 || 50 || 52 || 54
+|-
+| [[File:Egg_yolk.png|center]] || Egg Yolk || 45 || 47 || 49 || 51 || 53 || 55 || 57 || 59
+|-
+| [[File:Packed_clay.png|center]] || Packed Clay || 50 || 52 || 54 || 56 || 58 || 60 || 62 || 64
+|-
+| [[File:Lil_pumpkin.png|center]] || Lil Pumpkin || 55 || 57 || 59 || 61 || 63 || 65 || 67 || 69
+|-
+| [[File:Macromato.png|center]] || Macromato || 60 || 62 || 64 || 66 || 68 || 70 || 72 || 74
+|-
+| [[File:Spooktobble.png|center]] || Spooktobble || 65 || 67 || 69 || 71 || 73 || 75 || 77 || 79
+|-
+| [[File:Crystal.png|center]] || Crystal || 70 || 72 || 74 || 76 || 78 || 80 || 82 || 84
+|-
+| [[File:Lucentium.png|center]] || Lucentium || 75 || 77 || 79 || 81 || 83 || 85 || 87 || 89
+|-
+| [[File:Prismatism.png|center]] || Prismatism || 80 || 82 || 84 || 86 || 88 || 90 || 92 || 94
+|-
+| [[File:Essence.png|center]] || Essence || 85 || 87 || 89 || 91 || 93 || 95 || 97 || 99
+|-
+| [[File:Hallownil.png|center]] || Hallownil || 90 || 92 || 94 || 96 || 98 || 100 || 102 || 104
+|-
+| [[File:Sammatian.png|center]] || Sammatian || 95 || 97 || 99 || 101 || 103 || 105 || 107 || 109
+|}
+
+===Darkmode Crops===
+
+{| class="article-table" border="1" align="center" style="text-align: center;"
+! colspan="11" style="text-align: center;"| Crop Requirements
+|-
+! colspan="2" rowspan="2" style="text-align: center;"| Crop
+! colspan="1" rowspan="2" style="text-align: center;"| Construction
+! colspan="8" style="text-align: center;"| Plot / Tilling level
+|-
+! style="text-align: center;"| 1
+! style="text-align: center;"| 2
+! style="text-align: center;"| 3
+! style="text-align: center;"| 4
+! style="text-align: center;"| 5
+! style="text-align: center;"| 6
+! style="text-align: center;"| 7
+! style="text-align: center;"| 8
+|-
+| [[File:Minril_soil.png]] || Minril Soil || rowspan="5" colspan="1"| [[File:Dirts_ahoy.png|center]] Dirts Ahoy Lv.1 || 105 || 110 || 115 || 120 || 125 || 130 || 135 ||140
+|-
+| [[File:Spuddies.png]] || Spuddies || 115 || 120 || 125 || 130 || 135 || 140 || 145 ||150
+|-
+| [[File:Vegetabip.png]] || Vegetabip || 125 || 130 || 135 || 140 || 145 || 150 || 155 ||160
+|-
+| [[File:Bunnymunch.png]] || Bunnymunch || 135 || 140 || 145 || 150 || 155 || 160 || 165 ||170
+|-
+| [[File:Darnedlion.png]] || Darnedlion || 145 || 150 || 155 || 160 || 165 || 170 || 175 ||180
+|-
+| [[File:Violetta.png]] || Violetta || rowspan="5" colspan="1"| [[File:Dirts_ahoy.png|center]] Dirts Ahoy Lv.2 || 155 || 160 || 165 || 170 || 175 || 180 || 185 ||190
+|-
+| [[File:Stunflower.png]] || Stunflower || 165 || 170 || 175 || 180 || 185 || 190 || 195 || 200
+|-
+| [[File:Lewdplants.png]] || LewdPlants || 175 || 180 || 185 || 190 || 195 || 200 || 205 || 210
+|-
+| [[File:Beanies.png]] || Beanies || 185 || 190 || 195 || 200 || 205 || 210 || 215 || 220
+|-
+| [[File:Banana_vine.png]] || Banana Vine || 195 || 200 || 205 || 210 || 215 || 220 || 225 || 230
+|-
+| [[File:Rupturium.png]] || Rupturium || rowspan="5" colspan="1"| [[File:Croppy_notes.png|center]] Croppy Notes Lv.1 || 205 || 210 || 215 || 220 || 225 || 230 || 235 ||240
+|-
+| [[File:Blue_grap.png]] || Blue Grap || 215 || 220 || 225 || 230 || 235 || 240 || 245 || 250
+|-
+| [[File:Pink_grap.png]] || Pink Grap || 225 || 230 || 235 || 240 || 245 || 250 || 255 || 260
+|-
+| [[File:White_grap.png]] || White Grap || 235 || 240 || 245 || 250 || 255 || 260 || 265 || 270
+|-
+| [[File:Abstract.png]] || Abstract || 245 || 250 || 255 || 260 || 265 || 270 || 275 || 280
+|-
+| [[File:Nonsensic.png]] || Nonsensic || rowspan="5" colspan="1"| [[File:Croppy_notes.png|center]] Croppy Notes Lv.2 || 255 || 260 || 265 || 270 || 275 || 280 || 285 ||290
+|-
+| [[File:Balderdash.png]] || Balderdash || 265 || 270 || 275 || 280 || 285 || 290 || 295 || 300
+|-
+| [[File:Choco_tree.png]] || Choco Tree || 275 || 280 || 285 || 290 || 295 || 300 || 305 || 310
+|-
+| [[File:Salt_lick.png]] || Salt Lick || 285 || 290 || 295 || 300 || 305 || 310 || 315 || 320
+|-
+| [[File:Carmamella.png]] || Carmamella || 295 || 300 || 305 || 310 || 315 || 320 || 325 || 330
+|}
+==Apothecary==
+===Potions===
+====Red Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 1 || [[File:Mack_attack.png|center|37px]] || Mack Attack || 1% Damage Every 10 Attack Levels || [[File:Dirt.png|center|21px]] || [[File:Weeds.png|center|21px]] || [[File:Dirt.png|center|21px]] || [[File:Weeds.png|center|21px]]
+|-
+| style="text-align: center;" | 2 || [[File:Whey_cool_exp.png|center|37px]] || Whey Cool EXP || 12% EXP From All Gym Skillers || [[File:Dirt.png|center|21px]] || [[File:Weeds.png|center|21px]] || [[File:Grass.png|center|21px]] || [[File:Weeds.png|center|21px]]
+|-
+| style="text-align: center;" | 3 || [[File:Monster_cash.png|center|37px]] || Monster Cash || 2% Cash from Enemies || [[File:Dirt.png|center|21px]] || [[File:Weeds.png|center|21px]] ||[[File:Dirt.png|center|21px]]||[[File:Berries.png|center|21px]]
+|-
+| style="text-align: center;" | 4 || [[File:Crop_remedy.png|center|37px]] || Crop Remedy || 3% Tilling Crops for All Tillers || [[File:Dirt.png|center|21px]] || [[File:Weeds.png|center|21px]] || [[File:Grass.png|center|21px]] || [[File:Berries.png|center|21px]]
+|-
+| style="text-align: center;" | 5 || [[File:Miracle_grow.png|center|37px]] || Miracle Grow || 4% Botany Growth Speed || [[File:Grass.png|center|21px]] || [[File:Weeds.png|center|21px]] || [[File:Dirt.png|center|21px]] || [[File:Typha.png|center|21px]]
+|-
+| style="text-align: center;" | 6 || [[File:Ore_boostio.png|center|37px]] || Ore Boostio || 4% Ores Mined || [[File:Grass.png|center|21px]] || [[File:Berries.png|center|21px]] || [[File:Quality_hay.png|center|21px]] || [[File:Berries.png|center|21px]]
+|-
+| style="text-align: center;" | 7 || [[File:Based_damage.png|center|37px]] || Based Damage || 400 Base Damage || [[File:Grass.png|center|21px]] || [[File:Berries.png|center|21px]] || [[File:Dirt.png|center|21px]] || [[File:Flowers.png|center|21px]]
+|-
+| style="text-align: center;" | 8 || [[File:Smith_redux.png|center|37px]] || Smith Redux || -0.25% Reduced Total Smithing Cost (Caps at -90%) || [[File:Grass.png|center|21px]] || [[File:Berries.png|center|21px]] || [[File:Corn.png|center|21px]] || [[File:Weeds.png|center|21px]]
+|}
+====Orange Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 12 || [[File:Strength_buster.png|center|37px]] || Strength Buster || 1% Damage Every 10 Strength Levels || [[File:Grass.png|center|21px]] || [[File:Berries.png|center|21px]] || [[File:Quality_hay.png|center|21px]] || [[File:Typha.png|center|21px]]
+|-
+| style="text-align: center;" | 13 || [[File:Dojo_blood.png|center|37px]] || Dojo Blood || 15% EXP from All Dojo Skillers || [[File:Quality_hay.png|center|21px]] || [[File:Berries.png|center|21px]] || [[File:Grass.png|center|21px]] || [[File:Flowers.png|center|21px]]
+|-
+| style="text-align: center;" | 14 || [[File:Cheap_pot.png|center|37px]] || Cheap Pot || -0.5% Cost of Potion Making (Caps at -90%) || [[File:Quality_hay.png|center|21px]] || [[File:Typha.png|center|21px]] || [[File:Saffron.png|center|21px]] || [[File:Typha.png|center|21px]]
+|-
+| style="text-align: center;" | 15 || [[File:Flower_power.png|center|37px]] || Flower Power || 5% Flowers Gained for All Botany Pots || [[File:Quality_hay.png|center|21px]] || [[File:Typha.png|center|21px]] || [[File:Quality_hay.png|center|21px]] || [[File:Flowers.png|center|21px]]
+|-
+| style="text-align: center;" | 16 || [[File:Idle_pow_pow.png|center|37px]] || Idle Pow Pow || 5% Idle Damage || [[File:Quality_hay.png|center|21px]] || [[File:Typha.png|center|21px]] || [[File:Saffron.png|center|21px]] || [[File:Flowers.png|center|21px]]
+|-
+| style="text-align: center;" | 17 || [[File:Minor_miner.png|center|37px]] || Minor Miner || 5% Mining EXP || [[File:Quality_hay.png|center|21px]] || [[File:Typha.png|center|21px]] || [[File:Corn.png|center|21px]] || [[File:Typha.png|center|21px]]
+|-
+| style="text-align: center;" | 18 || [[File:Big_farma.png|center|37px]] || Big Farma || 5% Botany EXP || [[File:Saffron.png|center|21px]] || [[File:Typha.png|center|21px]] || [[File:Corn.png|center|21px]] || [[File:Flowers.png|center|21px]]
+|-
+| style="text-align: center;" | 19 || [[File:Ap_cash_money.png|center|37px]] || AP Cash Money || 0.25% Monster Cash for Every Power of 10 AP Owned || [[File:Saffron.png|center|21px]] || [[File:Flowers.png|center|21px]] || [[File:Quality_hay.png|center|21px]] || [[File:Palm_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 20 || [[File:Scim_polish.png|center|37px]] || Scim Polish || Imbued Scimatars Give +3 More Base Damage Each || [[File:Saffron.png|center|21px]] || [[File:Flowers.png|center|21px]] || [[File:Corn.png|center|21px]] || [[File:Cactus.png|center|21px]]
+|-
+| style="text-align: center;" | 21 || [[File:Exotic_yield.png|center|37px]] || Exotic Yield || 10% Exotic Flowers || [[File:Saffron.png|center|21px]] || [[File:Flowers.png|center|21px]] || [[File:Quality_hay.png|center|21px]] || [[File:Sapling.png|center|21px]]
+|}
+
+====Yellow Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 26 || [[File:Smith_buff.png|center|37px]] || Smith Buff || 1% Damage Every 10 Smithing Levels || [[File:Corn.png|center|21px]] || [[File:Flowers.png|center|21px]] || [[File:Hyper_stalk.png|center|21px]] || [[File:Flowers.png|center|21px]]
+|-
+| style="text-align: center;" | 27 || [[File:Rock_mixture.png|center|37px]] || Rock Mixture || 15% EXP from all Mountain Skillers || [[File:Corn.png|center|21px]] || [[File:Flowers.png|center|21px]] || [[File:Maize.png|center|21px]] || [[File:Cactus.png|center|21px]]
+|-
+| style="text-align: center;" | 28 || [[File:Weed_speed.png|center|37px]] || Weed Speed || 10% Botany Growth Speeds || [[File:Corn.png|center|21px]] || [[File:Cactus.png|center|21px]] || [[File:Saffron.png|center|21px]] || [[File:Sapling.png|center|21px]]
+|-
+| style="text-align: center;" | 29 || [[File:Idle_zoom.png|center|37px]] || Idle Zoom || 5% Idle Speed || [[File:Corn.png|center|21px]] || [[File:Cactus.png|center|21px]] || [[File:Maize.png|center|21px]] || [[File:Palm_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 30 || [[File:Serf_serum.png|center|37px]] || Serf Serum || 10% Tilling EXP, 1% Tilling Speed || [[File:Maize.png|center|21px]] || [[File:Cactus.png|center|21px]] || [[File:Hyper_stalk.png|center|21px]] || [[File:Palm_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 31 || [[File:Penguinzo.png|center|37px]] || Penguinzo || 2% Critical Damage || [[File:Maize.png|center|21px]] || [[File:Cactus.png|center|21px]] || [[File:Maize.png|center|21px]] || [[File:Sapling.png|center|21px]]
+|-
+| style="text-align: center;" | 32 || [[File:Bubblez.png|center|37px]] || Bubblez || 5% Cauldron Speed || [[File:Maize.png|center|21px]] || [[File:Cactus.png|center|21px]] || [[File:Cabbage.png|center|21px]] || [[File:Palm_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 33 || [[File:Gold_cash.png|center|37px]] || Gold Cash || 0.5% Cash for Every Power of 10 Gold Ore Owned || [[File:Maize.png|center|21px]] || [[File:Palm_tree.png|center|21px]] || [[File:Hyper_stalk.png|center|21px]] || [[File:Sapling.png|center|21px]]
+|-
+| style="text-align: center;" | 34 || [[File:Ore_superbio.png|center|37px]] || Ore Superbio || 10% Ores Mined || [[File:Hyper_stalk.png|center|21px]] || [[File:Palm_tree.png|center|21px]] || [[File:Ancient_dew.png|center|21px]] || [[File:Palm_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 35 || [[File:Ripperoo.png|center|37px]] || Ripperoo || Crystalline Rippers Give +15 More Base Damage Each || [[File:Hyper_stalk.png|center|21px]] || [[File:Palm_tree.png|center|21px]] || [[File:Hyper_stalk.png|center|21px]] || [[File:Weeplings.png|center|21px]]
+|-
+| style="text-align: center;" | 36 || [[File:Smith_reredux.png|center|37px]] || Smith Reredux || -0.5% Reduced Total Smithing Cost (Caps at -95%) || [[File:Hyper_stalk.png|center|21px]] || [[File:Palm_tree.png|center|21px]] || [[File:Corn.png|center|21px]] || [[File:Mint_cane.png|center|21px]]
+|-
+| style="text-align: center;" | 37 || [[File:Potion_dubble.png|center|37px]] || Potion Dubble || 2% Chance for Potions to Level Up Twice Instead of Once (Chance to Level Up Thrice  at 100%+) || [[File:Hyper_stalk.png|center|21px]] || [[File:Sapling.png|center|21px]] || [[File:Ancient_dew.png|center|21px]] || [[File:Sapling.png|center|21px]]
+|}
+
+====Lime Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 42 || [[File:Hp_damagey.png|center|37px]] || HP Damagey || 1% Damage Every 10 Endurance Levels || [[File:Cabbage.png|center|21px]] || [[File:Sapling.png|center|21px]] || [[File:Cabbage.png|center|21px]] || [[File:Weeplings.png|center|21px]]
+|-
+| style="text-align: center;" | 43 || [[File:Field_dew.png|center|37px]] || Field Dew || 15% EXP from All Field Skillers || [[File:Cabbage.png|center|21px]] || [[File:Sapling.png|center|21px]] || [[File:Egg_yolk.png|center|21px]] || [[File:Sapling.png|center|21px]]
+|-
+| style="text-align: center;" | 44 || [[File:Pot_enabler.png|center|37px]] || Pot Enabler || 1 Max Upgradeable Flower Pot Speed Level (Bonus Increases by 1 Every 3 Levels) || [[File:Cabbage.png|center|21px]] || [[File:Sapling.png|center|21px]] || [[File:Ancient_dew.png|center|21px]] || [[File:Weeplings.png|center|21px]]
+|-
+| style="text-align: center;" | 45 || [[File:Croppin.png|center|37px]] || Croppin || 12% Crops Gained || [[File:Cabbage.png|center|21px]] || [[File:Weeplings.png|center|21px]] || [[File:Ancient_dew.png|center|21px]] || [[File:saharan_foal.png|center|21px]]
+|-
+| style="text-align: center;" | 46 || [[File:Og_damage.png|center|37px]] || OG Damage || 1500 Base Damage || [[File:Ancient_dew.png|center|21px]] || [[File:Weeplings.png|center|21px]] || [[File:Cabbage.png|center|21px]] || [[File:Mint_cane.png|center|21px]]
+|-
+| style="text-align: center;" | 47 || [[File:Crusoda.png|center|37px]] || Crusoda || 4% Crusade EXP || [[File:Ancient_dew.png|center|21px]] || [[File:Weeplings.png|center|21px]] || [[File:Egg_yolk.png|center|21px]] || [[File:saharan_foal.png|center|21px]]
+|-
+| style="text-align: center;" | 48 || [[File:Growgrow.png|center|37px]] || Growgrow || 15% Botany Plants Given || [[File:Ancient_dew.png|center|21px]] || [[File:Weeplings.png|center|21px]] || [[File:Ancient_dew.png|center|21px]] || [[File:Mint_cane.png|center|21px]]
+|-
+| style="text-align: center;" | 49 || [[File:Big_winner.png|center|37px]] || Big Winner || 10% Cash from Enemies || [[File:Ancient_dew.png|center|21px]] || [[File:saharan_foal.png|center|21px]] || [[File:Packed_clay.png|center|21px]] || [[File:saharan_foal.png|center|21px]]
+|-
+| style="text-align: center;" | 50 || [[File:Riftion.png|center|37px]] || Riftion || 8% Rift EXP || [[File:Egg_yolk.png|center|21px]] || [[File:saharan_foal.png|center|21px]] || [[File:Ancient_dew.png|center|21px]] || [[File:Crystals.png|center|21px]]
+|-
+| style="text-align: center;" | 51 || [[File:Raw_power.png|center|37px]] || Raw Power || 12% Total Damage || [[File:Egg_yolk.png|center|21px]] || [[File:saharan_foal.png|center|21px]] || [[File:Macromato.png|center|21px]] || [[File:Weeplings.png|center|21px]]
+|-
+| style="text-align: center;" | 52 || [[File:Hype_jar.png|center|37px]] || Hype Jar || 30% Botany EXP Gained || [[File:Egg_yolk.png|center|21px]] || [[File:saharan_foal.png|center|21px]] || [[File:Packed_clay.png|center|21px]] || [[File:Mint_cane.png|center|21px]]
+|-
+| style="text-align: center;" | 53 || [[File:Minexp.png|center|37px]] || MineXP || 15% Mining EXP || [[File:Egg_yolk.png|center|21px]] || [[File:Mint_cane.png|center|21px]] || [[File:Egg_yolk.png|center|21px]] || [[File:Crystals.png|center|21px]]
+|-
+| style="text-align: center;" | 54 || [[File:Smith_stunter.png|center|37px]] || Smith Stunter || Smithing Costs Go Up by 0.02% Less After Every Craft (Caps at -1.5%) || [[File:Egg_yolk.png|center|21px]] || [[File:Mint_cane.png|center|21px]] || [[File:Lil_pumpkin.png|center|21px]] || [[File:Mint_cane.png|center|21px]]
+|}
+
+====Cyan Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 59 || [[File:Water_goner.png|center|37px]] || Water Goner || 1% Damage Every 10 H2O Levels ||[[File:Packed_clay.png|center|21px]] || [[File:Mint_cane.png|center|21px]] || [[File:Packed_clay.png|center|21px]] || [[File:Crystals.png|center|21px]]
+|-
+| style="text-align: center;" | 60 || [[File:Sweat_cup.png|center|37px]] || Sweat Cup || 15% H2O EXP from Gym Skillers || [[File:Packed_clay.png|center|21px]] || [[File:Mint_cane.png|center|21px]] || [[File:Lil_pumpkin.png|center|21px]] || [[File:Crystals.png|center|21px]]
+|-
+| style="text-align: center;" | 61 || [[File:Smalloan.png|center|37px]] || Smalloan || Start New Ascensions with (5+0.5*lvl)% of Cash Owned before Ascending (Caps at 99%) || [[File:Packed_clay.png|center|21px]] || [[File:Crystals.png|center|21px]] || [[File:Egg_yolk.png|center|21px]] || [[File:Fyreling.png|center|21px]]
+|-
+| style="text-align: center;" | 62 || [[File:Flower_flow.png|center|37px]] || Flower Flow || 40% Botany Growth Speed || [[File:Packed_clay.png|center|21px]] || [[File:Crystals.png|center|21px]] || [[File:Lil_pumpkin.png|center|21px]] || [[File:Candypop.png|center|21px]]
+|-
+| style="text-align: center;" | 63 || [[File:Krunkade.png|center|37px]] || Krunkade || 8% Critical Damage || [[File:Packed_clay.png|center|21px]] || [[File:Crystals.png|center|21px]] || [[File:Packed_clay.png|center|21px]] || [[File:Fyreling.png|center|21px]]
+|-
+| style="text-align: center;" | 64 || [[File:Idle_woosh.png|center|37px]] || Idle Woosh || 15% Idle Speed || [[File:Lil_pumpkin.png|center|21px]] || [[File:Crystals.png|center|21px]] || [[File:Macromato.png|center|21px]] || [[File:Candypop.png|center|21px]]
+|-
+| style="text-align: center;" | 65 || [[File:Exotic_mix.png|center|37px]] || Exotic Mix || 40% Exotic Flowers || [[File:Lil_pumpkin.png|center|21px]] || [[File:Candypop.png|center|21px]] || [[File:Packed_clay.png|center|21px]] || [[File:Blood_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 66 || [[File:Oresome.png|center|37px]] || Oresome || 25% Ores Mined || [[File:Lil_pumpkin.png|center|21px]] || [[File:Candypop.png|center|21px]] || [[File:Crystal.png|center|21px]] || [[File:Crystals.png|center|21px]]
+|-
+| style="text-align: center;" | 67 || [[File:Cashin_out.png|center|37px]] || Cashin Out || 20% Cash from Enemies || [[File:Lil_pumpkin.png|center|21px]] || [[File:Candypop.png|center|21px]] || [[File:Macromato.png|center|21px]] || [[File:Fyreling.png|center|21px]]
+|-
+| style="text-align: center;" | 68 || [[File:Distill_till.png|center|37px]] || Distill Till || 2% Tilling EXP, 0.2% Tilling Speed for Every Tilling Level || [[File:Lil_pumpkin.png|center|21px]] || [[File:Candypop.png|center|21px]] || [[File:Lil_pumpkin.png|center|21px]] || [[File:Blood_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 69 || [[File:Plant_vroom.png|center|37px]] || Plant Vroom || 50% Botany Plants Given || [[File:Lil_pumpkin.png|center|21px]] || [[File:Fyreling.png|center|21px]] || [[File:Spooktobble.png|center|21px]] || [[File:Fyreling.png|center|21px]]
+|-
+| style="text-align: center;" | 70 || [[File:Bigger_big.png|center|37px]] || Bigger Big || Big Ol' Swords Give +60 More Base Damage Each || [[File:Macromato.png|center|21px]] || [[File:Fyreling.png|center|21px]] || [[File:Crystal.png|center|21px]] || [[File:Fyreling.png|center|21px]]
+|-
+| style="text-align: center;" | 71 || [[File:Smith_redoox.png|center|37px]] || Smith Redoox || -1% Reduced Total Smithing Cost (Caps at -98%) || [[File:Macromato.png|center|21px]] || [[File:Fyreling.png|center|21px]] || [[File:Spooktobble.png|center|21px]] || [[File:Blood_tree.png|center|21px]]
+|}
+
+====Purple Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 76 || [[File:Spirit_hit.png|center|37px]] || Spirit Hit || 2% Damage Every 10 Spiriting Levels || [[File:Macromato.png|center|21px]] || [[File:Fyreling.png|center|21px]] || [[File:Lucentium.png|center|21px]] || [[File:Fyreling.png|center|21px]]
+|-
+| style="text-align: center;" | 77 || [[File:Ap_tonic.png|center|37px]] || AP Tonic || 10% AP Gained || [[File:Macromato.png|center|21px]] || [[File:Blood_tree.png|center|21px]] || [[File:Crystal.png|center|21px]] || [[File:Blood_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 78 || [[File:More_fast.png|center|37px]] || More Fast || 1 Max Upgradeable Flower Pot Speed Level (Bonus Increases by 1 Every 2 Levels) || [[File:Macromato.png|center|21px]] || [[File:Blood_tree.png|center|21px]] || [[File:Prismatism.png|center|21px]] || [[File:Fyreling.png|center|21px]]
+|-
+| style="text-align: center;" | 79 || [[File:Crop_pop.png|center|37px]] || Crop Pop || 50% Crops Gained || [[File:Spooktobble.png|center|21px]] || [[File:Blood_tree.png|center|21px]] || [[File:Crystal.png|center|21px]] || [[File:Mushroom_ingredient.png|center|21px]]
+|-
+| style="text-align: center;" | 80 || [[File:Idle_kachow.png|center|37px]] || Idle Kachow || 10% Idle Damage || [[File:Spooktobble.png|center|21px]] || [[File:Blood_tree.png|center|21px]] || [[File:Macromato.png|center|21px]] || [[File:Demonia.png|center|21px]]
+|-
+| style="text-align: center;" | 81 || [[File:Peak_plant.png|center|37px]] || Peak Plant || +100 Botany EXP || [[File:Spooktobble.png|center|21px]] || [[File:Mushroom_ingredient.png|center|21px]] || [[File:Prismatism.png|center|21px]] || [[File:Blood_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 82 || [[File:Irrelevance.png|center|37px]] || Irrelevance || 4000 Base Damage || [[File:Spooktobble.png|center|21px]] || [[File:Mushroom_ingredient.png|center|21px]] || [[File:Lucentium.png|center|21px]] || [[File:Mushroom_ingredient.png|center|21px]]
+|-
+| style="text-align: center;" | 83 || [[File:Bargane.png|center|37px]] || Bargane || -2% Cost of Potion Brewing (Caps at -95%) || [[File:Crystal.png|center|21px]] || [[File:Mushroom_ingredient.png|center|21px]] || [[File:Essence.png|center|21px]] || [[File:Blood_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 84 || [[File:Thief_n_gin.png|center|37px]] || Thief N Gin || 0.2% Cash for Every Level of Trinkets Crafted || [[File:Crystal.png|center|21px]] || [[File:Mushroom_ingredient.png|center|21px]] || [[File:Lucentium.png|center|21px]] || [[File:Flesh_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 85 || [[File:Totalitariat.png|center|37px]] || Totalitariat || 40% Total Damage || [[File:Crystal.png|center|21px]] || [[File:Flesh_tree.png|center|21px]] || [[File:Prismatism.png|center|21px]] || [[File:Flesh_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 86 || [[File:M_vitality.png|center|37px]] || M Vitality || 30% Max HP || [[File:Crystal.png|center|21px]] || [[File:Flesh_tree.png|center|21px]] || [[File:Lucentium.png|center|21px]] || [[File:Demonia.png|center|21px]]
+|-
+| style="text-align: center;" | 87 || [[File:Converzin.png|center|37px]] || Converzin || 2 Base Damage for Every 100 Base HP that You Have || [[File:Crystal.png|center|21px]] || [[File:Flesh_tree.png|center|21px]] || [[File:Essence.png|center|21px]] || [[File:Flesh_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 88 || [[File:Smith_snail.png|center|37px]] || Smith Snail || Smithing Costs Go Up by 0.04% Less After Every Craft (Caps at -3%) || [[File:Lucentium.png|center|21px]] || [[File:Flesh_tree.png|center|21px]] || [[File:Prismatism.png|center|21px]] || [[File:Demonia.png|center|21px]]
+|}
+
+====Demon Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 94 || [[File:Contract_pact.png|center|37px]] || Contract Pact || 2% Damage Every 10 Contract Levels || [[File:Lucentium.png|center|21px]] || [[File:Demonia.png|center|21px]] || [[File:Hallownil.png|center|21px]] || [[File:Flesh_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 95 || [[File:Trinko_gogo.png|center|37px]] || Trinko Gogo || Dubloon Trinkets Give +0.5% Cash Each || [[File:Lucentium.png|center|21px]] || [[File:Demonia.png|center|21px]] || [[File:Prismatism.png|center|21px]] || [[File:Cursed_eye.png|center|21px]]
+|-
+| style="text-align: center;" | 96 || [[File:Salve_labo.png|center|37px]] || Salve Labo || Enigmatic Booster from Smithing Boosts Botany Speed by 2% for Each Craft || [[File:Lucentium.png|center|21px]] || [[File:Demonia.png|center|21px]] || [[File:Crystal.png|center|21px]] || [[File:Lemming.png|center|21px]]
+|-
+| style="text-align: center;" | 97 || [[File:Criticola.png|center|37px]] || Criticola || 20% Critical Damage || [[File:Lucentium.png|center|21px]] || [[File:Demonia.png|center|21px]] || [[File:Hallownil.png|center|21px]] || [[File:Demonia.png|center|21px]]
+|-
+| style="text-align: center;" | 98 || [[File:Value_yumyum.png|center|37px]] || Value Yumyum || 10% Skiller EXP for Every 100 Value Upgrades Bought || [[File:Prismatism.png|center|21px]] || [[File:Cursed_eye.png|center|21px]] || [[File:Essence.png|center|21px]] || [[File:Cursed_eye.png|center|21px]]
+|-
+| style="text-align: center;" | 99 || [[File:Till_recurve.png|center|37px]] || Till Recurve || 0.5% Crops for Every Tilling Level || [[File:Prismatism.png|center|21px]] || [[File:Cursed_eye.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Demonia.png|center|21px]]
+|-
+| style="text-align: center;" | 100 || [[File:Transfusion.png|center|37px]] || Transfusion || 1% Total Damage for Every +100% Total HP Bonus that You Have || [[File:Prismatism.png|center|21px]] || [[File:Cursed_eye.png|center|21px]] || [[File:Hallownil.png|center|21px]] || [[File:Cursed_eye.png|center|21px]]
+|-
+| style="text-align: center;" | 101 || [[File:Bonkloot.png|center|37px]] || Bonkloot || 2% Cash for Every Power of 10 Kills of Current Enemy || [[File:Prismatism.png|center|21px]] || [[File:Veninsulic.png|center|21px]] || [[File:Hallownil.png|center|21px]] || [[File:Veninsulic.png|center|21px]]
+|-
+| style="text-align: center;" | 102 || [[File:Plant_vroom2.png|center|37px]] || Plant Vroom || 3% Botany Growth Speed for Every Botany Level || [[File:Essence.png|center|21px]] || [[File:Veninsulic.png|center|21px]] || [[File:Essence.png|center|21px]] || [[File:Lemming.png|center|21px]]
+|-
+| style="text-align: center;" | 103 || [[File:Limbo_luck.png|center|37px]] || Limbo Luck || Increases Max Luck Upgrade Level by 1 in Spiriting Zone || [[File:Essence.png|center|21px]] || [[File:Veninsulic.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Veninsulic.png|center|21px]]
+|-
+| style="text-align: center;" | 104 || [[File:Canned_shield.png|center|37px]] || Canned Shield || 50% Max Shields || [[File:Essence.png|center|21px]] || [[File:Lemming.png|center|21px]] || [[File:Hallownil.png|center|21px]] || [[File:Lemming.png|center|21px]]
+|-
+| style="text-align: center;" | 105 || [[File:Ap_powah.png|center|37px]] || AP Powah || 10% Damage for Every Power of 10 AP Owned || [[File:Essence.png|center|21px]] || [[File:Lemming.png|center|21px]] || [[File:Prismatism.png|center|21px]] || [[File:Icecream.png|center|21px]]
+|-
+| style="text-align: center;" | 106 || [[File:Instacraft.png|center|37px]] || Daedry || Smithing Costs Go Up By 0.04% Less After Every Craft (Caps at 4%) || [[File:Essence.png|center|21px]] || [[File:Lemming.png|center|21px]] || [[File:Hallownil.png|center|21px]] || [[File:Chlorine.png|center|21px]]
+|}
+
+====Godly Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 113 || [[File:Drop_of_each.png|center|37px]] || Drop of Each || 0.02% Damage for Every Total Potion Level || [[File:Hallownil.png|center|21px]] || [[File:Chlorine.png|center|21px]] || [[File:Prismatism.png|center|21px]] || [[File:Belldrop.png|center|21px]]
+|-
+| style="text-align: center;" | 114 || [[File:Broken_galaxy.png|center|37px]] || Broken Galaxy || Galaxial Slasher Gives 50 More Base Damage for Every Broken Dagger Crafted || [[File:Hallownil.png|center|21px]] || [[File:Chlorine.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Chlorine.png|center|21px]]
+|-
+| style="text-align: center;" | 115 || [[File:Killionaire.png|center|37px]] || Killionaire || 15% Damage for Every Power of 10 Total Enemy Kills || [[File:Hallownil.png|center|21px]] || [[File:Chlorine.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Chlorine.png|center|21px]]
+|-
+| style="text-align: center;" | 116 || [[File:Standstill.png|center|37px]] || Standstill || Smithing Costs Go Up by 0.08% Less After Every Craft (Caps at -5.5%) || [[File:Hallownil.png|center|21px]] || [[File:Icecream.png|center|21px]] || [[File:Essence.png|center|21px]] || [[File:Belldrop.png|center|21px]]
+|-
+| style="text-align: center;" | 117 || [[File:Hourglass.png|center|37px]] || Hourglass || 5% Cash for Every Level of Hourglass Smithing Items Crafted || [[File:Hallownil.png|center|21px]] || [[File:Icecream.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Icecream.png|center|21px]]
+|-
+| style="text-align: center;" | 118 || [[File:Shiny.png|center|37px]] || Shiny || 20% Damage for Every Unspent Diamond Merit [[File:Badge5.png]] || [[File:Hallownil.png|center|21px]] || [[File:Icecream.png|center|21px]] || [[File:Hallownil.png|center|21px]] || [[File:Belldrop.png|center|21px]]
+|-
+| style="text-align: center;" | 119 || [[File:Fame.png|center|37px]] || Fame || 8% Damage for Every Power of 10 Raid Awards Owned || [[File:Hallownil.png|center|21px]] || [[File:Belldrop.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Belldrop.png|center|21px]]
+|-
+| style="text-align: center;" | 120 || [[File:Miracle_grow2.png|center|37px]] || Miracle || X% Chance for a Super Cool Tunnels Card || [[File:Sammatian.png|center|21px]] || [[File:Belldrop.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Belldrop.png|center|21px]]
+|-
+| style="text-align: center;" | 121 || [[File:Aloof.png|center|37px]] || Aloof || -0.1% Reduced Total Smithing Cost for Each Blacksmith Pill Crafted (Caps at -98%) || [[File:Sammatian.png|center|21px]] || [[File:Belldrop.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]]
+|-
+| style="text-align: center;" | 122 || [[File:Zyxkal.png|center|37px]] || Bob Perfume || How Strange... This Potion Didn't Come with Any Description Label (Note: Required for Unlocking 
+Bob Pet) 
+|| [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]]
+|-
+| style="text-align: center;" | 123 || [[File:Pride.png|center|37px]] || Pride || 5% Damage for Every Level 5 Monster Card || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]]
+|-
+| style="text-align: center;" | 124 || [[File:Unparalleled.png|center|37px]] || Unparalleled || 2% Card Bonus (caps at 612%) ||[[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]]
+|-
+| style="text-align: center;" | 125 || [[File:Blasphemy.png|center|37px]] || Blasphemy || 2% Potion Bonus || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]]
+|}
+====Cosmic Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="1" | Icecream
+|-
+| style="text-align: center;" | 126 || [[File:Cygnus.png|center|37px]] || Cygnus || Levels Up All Red, Orange and Yellow Potion Every Time This One Levels Up || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_1.png|center|21px]]
+|-
+| style="text-align: center;" | 127 || [[File:Lupinis.png|center|37px]] ||  Lupinis || Oberon Obliterator Boost From Kills Increased To Power of 0.055% Fueled By Ensouled Heads || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_1.png|center|21px]]
+|-
+| style="text-align: center;" | 128 || [[File:Orniun.png|center|37px]] || Orniun || 0.16% Chance for Exp Req to Not Go Up When You Level Up Your Strength Level || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_2.png|center|21px]]
+|-
+| style="text-align: center;" | 129 || [[File:Cepheus.png|center|37px]] || Cepheus || +1.5 Max Cauldron Speed Upgrade Levels || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_2.png|center|21px]]
+|-
+| style="text-align: center;" | 130 || [[File:Persezia.png|center|37px]] || Persezia || 0.16% Chance for Exp Req to Not Go Up When You Level Up Your Apothecary Level || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_3.png|center|21px]]
+|-
+| style="text-align: center;" | 131 || [[File:Auricia.png|center|37px]] || Auricia || 2% Vessels Gain in Trekking || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_3.png|center|21px]]
+|-
+| style="text-align: center;" | 132 || [[File:Dippah.png|center|37px]] || Dippah || 0.15% Chance for Exp Req to Not Go Up When You Level Up Your H2O Level || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_4.png|center|21px]]
+|-
+| style="text-align: center;" | 133 || [[File:Corvius.png|center|37px]] || Corvius || 3% RP Gain for All Tanks || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_4.png|center|21px]]
+|-
+| style="text-align: center;" | 134 || [[File:Serpenzu.png|center|37px]] || Serpenzu || Levels Up All Green, Cyan and Purple Potion Every Time This One Levels Up || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_5.png|center|21px]]
+|-
+| style="text-align: center;" | 135 || [[File:Cantivici.png|center|37px]] || Cantivici || 0.13% Chain Level Chance || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_6.png|center|21px]]
+|-
+| style="text-align: center;" | 136 || [[File:Ophiucus.png|center|37px]] || Ophiucus || Levels Up All Demon and Godly Potion Every Time This One Levels Up || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_7.png|center|21px]]
+|}
+===Darkmode Potions===
+==== Brew Laddy ====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! style="text-align: center;" | Cons. Lv.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New__dark_potion.png|center|42px]]
+|-
+| 152
+| rowspan="3" align="center" | 1
+| [[File:Redemptsin.png|center|37px]]
+|Redemptsin
+|Failing To Get a New Flower Increases New Flower Chance by X%
+(Only for Highest Plant)
+|[[File:minril_soil.png|center|20px]]
+|[[File:baubles.png|center|21px]]
+|
+|
+|-
+| 153
+| [[File:Tealy_Drank.png|center|37px]]
+|Tealy Drank
+|Leveling Up Fishing Has a X% Chance to Increase the Level of All 3 Power Upgrades
+|[[File:minril_soil.png|center|20px]]
+|[[File:baubles.png|center|21px]]
+|
+|
+|-
+| 154
+| [[File:Expendizzle.png|center|37px]]
+|Expendizzle
+|Tilling EXP Gain is Multiplied by X for Each New Crop Type Discovered
+|[[File:spuddies.png|center|21px]]
+|[[File:fluxissa.png|center|21px]]
+|
+|
+|-
+| 155
+| rowspan="3" align="center" | 2
+| [[File:Spunky_Pop.png|center|37px]]
+|Spunky Pop
+|Spelunking EXP Gain Increased by +X% Every Power of 10 Gold Skulls Owned
+|[[File:spuddies.png|center|21px]]
+|[[File:fluxissa.png|center|21px]]
+|
+|
+|-
+| 156
+| [[File:Evoluzin.png|center|37px]]
+|Evoluzin
+|Chance to Hatch a New Pet is Increased by X% Every 20 Hatchery Levels
+|[[File:vegetabip.png|center|21px]]
+|[[File:spillage.png|center|21px]]
+|
+|
+|-
+| 157
+| [[File:Admite.png|center|37px]]
+|Admite
+|Get a Permanent +X% Cash Bonus Every 10 Raid Tickets You Collect
+|[[File:vegetabip.png|center|21px]]
+|[[File:spillage.png|center|21px]]
+|
+|
+|-
+| 158
+| rowspan="3" align="center" | 3
+| [[File:Treasurade.png|center|37px]]
+|Treasurade
+| +X% Damage for Every Treasure You Have at Least 1 Million of
+<br>(Y for Each Skull)
+|[[File:vegetabip.png|center|21px]]
+|[[File:alienbush.png|center|21px]]
+|
+|
+|-
+| 159
+| [[File:Diet_Masty.png|center|37px]]
+|Diet Masty
+|Bonuses of the Mastery Perks Shown Below are Multiplied by X
+<br>[[File:Mastery_fight_1.png|24px]][[File:Mastery_fight_2.png|24px]][[File:Mastery_fight_6.png|24px]][[File:Mastery_variety_10.png|24px]]
+|[[File:bunnymunch.png|center|21px]]
+|[[File:alienbush.png|center|21px]]
+|
+|
+|-
+| 160
+| [[File:Purple_Drank.png|center|37px]]
+|Purple Drank
+|Leveling Up Mining Has a X% Chance to Increase the Value LVL of All Six Miners
+|[[File:bunnymunch.png|center|21px]]
+|[[File:tentacles.png|center|21px]]
+|
+|
+|-
+| 161
+| rowspan="3" align="center" | 4
+| [[File:Butof_Course.png|center|37px]]
+|Butof Course
+|EXP Gain for All 3 Pet Skills Increased by X%
+|[[File:darnedlion.png|center|21px]]
+|[[File:tentacles.png|center|21px]]
+|
+|
+|-
+| 162
+| [[File:Crackin_Yolk.png|center|37px]]
+|Crackin Yolk
+|10% Chance to Trigger an Eggshell Chain
+<br>These Eggshells are Worth times X More (caps at 3x)
+|[[File:darnedlion.png|center|21px]]
+|[[File:eggsacks.png|center|21px]]
+|
+|
+|-
+| 163
+| [[File:Forewordi.png|center|37px]]
+|Forewordi
+|times X Cash.
+<br>Applied Y Times (Apply More via Trekking)
+<br>(powered up by Nevasettle potion)
+|[[File:darnedlion.png|center|21px]]
+|[[File:eggsacks.png|center|21px]]
+|
+|
+|}
+
+==== Brew Man ====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! style="text-align: center;" | Cons. Lv.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New__dark_potion.png|center|42px]]
+|-
+| 
+| rowspan="3" align="center" | 1
+| [[File:Knowitall.png|center|37px]]
+|Knowitall
+|Spelunk Learning Rate Increased by X%
+|[[File:violetta.png|center|21px]]
+|[[File:shrapnil.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Keymeister.png|center|37px]]
+|Keymeister
+|Get a Permanent +X% Damage Bonus Every 10 Asylum Keys You Collect
+|[[File:violetta.png|center|21px]]
+|[[File:shrapnil.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Magno_Booko.png|center|37px]]
+|Magno Booko
+| +X% Spelunker Speed per 10 Spelunking LVLs
+<br>(Multiplied by Number of Learning Spelunkers)
+|[[File:stunflower.png|center|21px]]
+|[[File:dabberdoo.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 2
+| [[File:Coca_Prola.png|center|37px]]
+|Coca Prola
+|Increases the Maximum Bonus Upgrade LVL of Pro Rifts to X (Caps at 100)
+|[[File:stunflower.png|center|21px]]
+|[[File:dabberdoo.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Brown_Drank.png|center|37px]]
+|Brown Drank
+|Leveling Up Tilling Has a X% Chance to Increase the Value LVL of All Eight Tillers
+|[[File:lewdplants.png|center|21px]]
+|[[File:fourchese.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:O_Cal_Masty.png|center|37px]]
+|O Cal Masty
+|Bonuses of the Mastery Perks Shown Below Are Multiplied by X
+<br>[[File:Mastery_fight_3.png|24px]][[File:Mastery_collect_1.png|24px]][[File:Mastery_collect_2.png|24px]][[File:Mastery_collect_3.png|24px]][[File:Mastery_collect_4.png|24px]][[File:Mastery_collect_7.png|24px]]
+|[[File:lewdplants.png|center|21px]]
+|[[File:fourchese.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 3
+| [[File:Olivertime.png|center|37px]]
+|Olivertime
+|Dig Down Amount Increases X% Faster After Reaching the End of a Tunnel
+|[[File:lewdplants.png|center|21px]]
+|[[File:sapswing.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Gray_Drank.png|center|37px]]
+|Gray Drank
+|Leveling Up Botany Has a X% Chance to Increase the Value and Speed LVL of All Pots
+|[[File:beanies.png|center|21px]]
+|[[File:sapswing.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Hybriseed.png|center|37px]]
+|Hybriseed
+|Machine Speed Increase per Construction Level is X% Higher
+|[[File:beanies.png|center|21px]]
+|[[File:twisturn.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 4
+| [[File:Injurade.png|center|37px]]
+|Injurade
+| +X% Pet Damage Every 25 Percent of HP Your Team is Missing
+|[[File:Banana vine.png|center|21px]]
+|[[File:twisturn.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Yolks_On_Yolks.png|center|37px]]
+|Yolks On Yolks
+|Gives the Crackin Yolk Potion +X% Chance to Trigger an Eggshell Chain (caps at +65%)
+|[[File:Banana vine.png|center|21px]]
+|[[File:corale.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Donut_Bottle.png|center|37px]]
+|Donut Bottle
+|Smithing Costs Go Up by a Minimum of X%
+<br>Without This Potion the Minimum per LVL is 2.5%
+|[[File:Banana vine.png|center|21px]]
+|[[File:corale.png|center|21px]]
+|
+|
+|}
+
+==== Brew Maestro ====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! style="text-align: center;" | Cons. Lv.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New__dark_potion.png|center|42px]]
+|-
+| 
+| rowspan="3" align="center" | 1
+| [[File:Liste_Ntoit.png|center|37px]]
+|Liste Ntoit
+|Crop Costs for Brewing Reduced by X% for Every Power of 10 Saharan Foals Owned
+|[[File:rupturium.png|center|21px]]
+|[[File:swissile.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Cascade.png|center|37px]]
+|Cascade
+|Leveling Up a Rift Has a X% Chance to Level Up the Rift to its Left (caps at 50%)
+|[[File:rupturium.png|center|21px]]
+|[[File:swissile.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Riche_Biche.png|center|37px]]
+|Riche Biche
+|Spelunk Treasure is Worth X% More Every 10 Spelunking Level
+|[[File:Blue grap.png|center|21px]]
+|[[File:Spider tree.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 2
+| [[File:Macroppe.png|center|37px]]
+|Macroppe
+| +X% Crusade Material Gain for Every Crusade Level Above 160
+<br>(Also +Y% Crusade EXP)
+|[[File:Blue grap.png|center|21px]]
+|[[File:Spider tree.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Cup_Of_Calm.png|center|37px]]
+|Cup Of Calm
+| +X% Extra Levels Gained When a Spelunker Absorbs
+|[[File:Pink grap.png|center|21px]]
+|[[File:Normal rook.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Jug_Of_Storm.png|center|37px]]
+|Jug Of Storm
+|Learn Traits Can Now LVL Up by +X in a Single Absorb (caps at +15)
+|[[File:Pink grap.png|center|21px]]
+|[[File:Normal rook.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 3
+| [[File:Crimsi_Drank.png|center|37px]]
+|Crimsi Drank
+|Leveling Up Apothecary Has a X% Chance to Increase the Value and Speed LVL of Cauldrons
+|[[File:Pink grap.png|center|21px]]
+|[[File:Podacian.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Cooooool.png|center|37px]]
+|Cooooool
+| +X% Chance to Get Those Super Cool Tunnel Cards
+|[[File:White grap.png|center|21px]]
+|[[File:Podacian.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Nest_Lea.png|center|37px]]
+|Nest Lea
+| +X% Chance to Double LVL Up When Upgrading a Hatchery Nest (No Double Charge!) (caps at +200%)
+|[[File:White grap.png|center|21px]]
+|[[File:Marsh mello.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 4
+| [[File:Genetea.png|center|37px]]
+|Genetea
+| +X% Chance to Hatch a Pet with 2 or 3 Genes
+|[[File:Abstract.png|center|21px]]
+|[[File:Marsh mello.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Trunkoke.png|center|37px]]
+|Trunkoke
+|Tank LVL Up Reqs are Reduced by X% for Every Power of 10 Green Vessels Owned
+|[[File:Abstract.png|center|21px]]
+|[[File:Snowlad.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Badonkadonk.png|center|37px]]
+|Badonkadonk
+| +X% Ores Every 50 Balls Launched 
+<br>(powered up by Baba Donakka potion)
+|[[File:Abstract.png|center|21px]]
+|[[File:Snowlad.png|center|21px]]
+|
+|
+|}
+
+==== Brew Bobby ====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! style="text-align: center;" | Cons. Lv.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New__dark_potion.png|center|42px]]
+|-
+| 
+| rowspan="3" align="center" | 1
+| [[File:Hydrogenation.png|center|37px]]
+|Hydrogenation
+|times X Damage Bonus Applied Y Times
+<br>(Level Up H2O to Apply More Times)
+|[[File:Nonsensic.png|center|21px]]
+|[[File:Stem_cells.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Tressii.png|center|37px]]
+|Tressii
+|Increases the Max Perk Tree Upgrade LVL by +X
+<br>(3 Perks Unaffected) (Caps at +35)
+|[[File:Nonsensic.png|center|21px]]
+|[[File:Stem_cells.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Certo_Fizz.png|center|37px]]
+|Certo Fizz
+|times X Flower Gain per Cert. Fish
+<br>Certification Req: <div class="mw-customtoggle-CertoFizz wikia-menu-button">Show/Hide table</div>
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-CertoFizz" align="center"
+|-
+! scope="col" |Fish
+! scope="col" |Amount
+! scope="col" |Fish
+! scope="col" |Amount
+|-
+|[[File:Old_shoe.png|center|24px]]
+|<span style="color:#00FA9A">1</span>
+|[[File:Lobster.png|center|24px]]
+|<span style="color:#00FA9A">1q</span>
+|-
+|[[File:Tin_can.png|center|24px]]
+|<span style="color:#00FA9A">10</span>
+|[[File:Bonefish.png|center|24px]]
+|<span style="color:#00FA9A">10q</span>
+|-
+|[[File:Minnow.png|center|24px]]
+|<span style="color:#00FA9A">100</span>
+|[[File:Blue_shark.png|center|24px]]
+|<span style="color:#00FA9A">100q</span>
+|-
+|[[File:Small_tuna.png|center|24px]]
+|<span style="color:#00FA9A">1k</span>
+|[[File:Yellow_fin_tuna.png|center|24px]]
+|<span style="color:#00FA9A">1qq</span>
+|-
+|[[File:Jellyfish.png|center|24px]]
+|<span style="color:#00FA9A">10k</span>
+|[[File:Pink_swordfish.png|center|24px]]
+|<span style="color:#00FA9A">10qq</span>
+|-
+|[[File:Medium_yellow_fish.png|center|24px]]
+|<span style="color:#00FA9A">100k</span>
+|[[File:Snail_fish.png|center|24px]]
+|<span style="color:#00FA9A">100qq</span>
+|-
+|[[File:Chainmailfish.png|center|24px]]
+|<span style="color:#00FA9A">1m</span>
+|[[File:Hammerhead_shark.png|center|24px]]
+|<span style="color:#ff471a">1</span>
+|-
+|[[File:Red_herring.png|center|24px]]
+|<span style="color:#00FA9A">10m</span>
+|[[File:Yellow_gulper.png|center|24px]]
+|<span style="color:#ff471a">10</span>
+|-
+|[[File:Sword_fish.png|center|24px]]
+|<span style="color:#00FA9A">100m</span>
+|[[File:Pike_fish.png|center|24px]]
+|<span style="color:#ff471a">100</span>
+|-
+|[[File:Ice_cube_fish.png|center|24px]]
+|<span style="color:#00FA9A">1b</span>
+|[[File:Giant_sea_urchin.png|center|24px]]
+|<span style="color:#ff471a">1k</span>
+|-
+|[[File:Puffer_fish.png|center|24px]]
+|<span style="color:#00FA9A">10b</span>
+|[[File:Manta_ray.png|center|24px]]
+|<span style="color:#ff471a">10k</span>
+|-
+|[[File:Crystalfish.png|center|24px]]
+|<span style="color:#00FA9A">100b</span>
+|[[File:Yellow_grouper.png|center|24px]]
+|<span style="color:#ff471a">100k</span>
+|-
+|[[File:Bobbit_worm.png|center|24px]]
+|<span style="color:#00FA9A">1t</span>
+|[[File:Giant_sea_serpent.png|center|24px]]
+|<span style="color:#ff471a">1m</span>
+|-
+|[[File:Dollar_fish.png|center|24px]]
+|<span style="color:#00FA9A">10t</span>
+|[[File:Kraken.png|center|24px]]
+|<span style="color:#ff471a">10m</span>
+|-
+|[[File:Angler_fish.png|center|24px]]
+|<span style="color:#00FA9A">100t</span>
+|[[File:Jumbo_shrimp.png|center|24px]]
+|<span style="color:#ff471a">100m</span>
+|}
+|[[File:Balderdash.png|center|21px]]
+|[[File:Dank vine.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 2
+| [[File:Certo_Flav.png|center|37px]]
+|Certo Flav
+|times X Brew Speed per Cert. Flower
+<br>Certification Req: <div class="mw-customtoggle-CertoFlav wikia-menu-button">Show/Hide table</div>
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-CertoFlav" align="center"
+|-
+! scope="col" |Plant
+! scope="col" |Amount
+! scope="col" |Plant
+! scope="col" |Amount
+|-
+|[[File:Weeds.png|center|24px]]
+|<span style="color:#00FA9A">1</span>
+|[[File:Baubles.png|center|24px]]
+|<span style="color:#ff471a">1k</span>
+|-
+|[[File:Berries.png|center|24px]]
+|<span style="color:#00FA9A">10</span>
+|[[File:Fluxissa.png|center|24px]]
+|<span style="color:#ff471a">10k</span>
+|-
+|[[File:Typha.png|center|24px]]
+|<span style="color:#00FA9A">100</span>
+|[[File:Spillage.png|center|24px]]
+|<span style="color:#ff471a">100k</span>
+|-
+|[[File:Flowers.png|center|24px]]
+|<span style="color:#00FA9A">1k</span>
+|[[File:Alienbush.png|center|24px]]
+|<span style="color:#ff471a">1m</span>
+|-
+|[[File:Cactus.png|center|24px]]
+|<span style="color:#00FA9A">10k</span>
+|[[File:Tentacles.png|center|24px]]
+|<span style="color:#ff471a">10m</span>
+|-
+|[[File:Palm_tree.png|center|24px]]
+|<span style="color:#00FA9A">100k</span>
+|[[File:Eggsacks.png|center|24px]]
+|<span style="color:#ff471a">100m</span>
+|-
+|[[File:Sapling.png|center|24px]]
+|<span style="color:#00FA9A">1m</span>
+|[[File:Shrapnil.png|center|24px]]
+|<span style="color:#ff471a">1b</span>
+|-
+|[[File:Weeplings.png|center|24px]]
+|<span style="color:#00FA9A">10m</span>
+|[[File:Dabberdoo.png|center|24px]]
+|<span style="color:#ff471a">10b</span>
+|-
+|[[File:saharan_foal.png|center|24px]]
+|<span style="color:#00FA9A">100m</span>
+|[[File:Fourchese.png|center|24px]]
+|<span style="color:#ff471a">100b</span>
+|-
+|[[File:Mint_cane.png|center|24px]]
+|<span style="color:#00FA9A">1b</span>
+|[[File:Sapswing.png|center|24px]]
+|<span style="color:#ff471a">1t</span>
+|-
+|[[File:Crystals.png|center|24px]]
+|<span style="color:#00FA9A">10b</span>
+|[[File:Twisturn.png|center|24px]]
+|<span style="color:#ff471a">10t</span>
+|-
+|[[File:Candypop.png|center|24px]]
+|<span style="color:#00FA9A">100b</span>
+|[[File:Corale.png|center|24px]]
+|<span style="color:#ff471a">100t</span>
+|-
+|[[File:Fyreling.png|center|24px]]
+|<span style="color:#00FA9A">1t</span>
+|[[File:Swissile.png|center|24px]]
+|<span style="color:#ff471a">1q</span>
+|-
+|[[File:Blood_tree.png|center|24px]]
+|<span style="color:#00FA9A">10t</span>
+|[[File:Spider_tree.png|center|24px]]
+|<span style="color:#ff471a">10q</span>
+|-
+|[[File:Mushroom_ingredient.png|center|24px]]
+|<span style="color:#00FA9A">100t</span>
+|[[File:Normal_rook.png|center|24px]]
+|<span style="color:#ff471a">100q</span>
+|-
+|[[File:Flesh_tree.png|center|24px]]
+|<span style="color:#00FA9A">1q</span>
+|[[File:Podacian.png|center|24px]]
+|<span style="color:#ff471a">1qq</span>
+|-
+|[[File:Demonia.png|center|24px]]
+|<span style="color:#00FA9A">10q</span>
+|[[File:Marsh_mello.png|center|24px]]
+|<span style="color:#ff471a">10qq</span>
+|-
+|[[File:Cursed_eye.png|center|24px]]
+|<span style="color:#00FA9A">100q</span>
+|[[File:Snowlad.png|center|24px]]
+|<span style="color:#ff471a">100qq</span>
+|-
+|[[File:Veninsulic.png|center|24px]]
+|<span style="color:#00FA9A">1qq</span>
+|[[File:Stem_cells.png|center|24px]]
+|<span style="color:#3399ff">1</span>
+|-
+|[[File:Lemming.png|center|24px]]
+|<span style="color:#00FA9A">10qq</span>
+|[[File:Dank_vine.png|center|24px]]
+|<span style="color:#3399ff">10</span>
+|-
+|[[File:Chlorine.png|center|24px]]
+|<span style="color:#00FA9A">100qq</span>
+|[[File:Candypop2.png|center|24px]]
+|<span style="color:#3399ff">100</span>
+|-
+|[[File:Icecream.png|center|24px]]
+|<span style="color:#ff471a">1</span>
+|[[File:Emoticons.png|center|24px]]
+|<span style="color:#3399ff">1k</span>
+|-
+|[[File:Belldrop.png|center|24px]]
+|<span style="color:#ff471a">10</span>
+|[[File:Camouflage.png|center|24px]]
+|<span style="color:#3399ff">10k</span>
+|-
+|[[File:Sunburst.png|center|24px]]
+|<span style="color:#ff471a">100</span>
+|[[File:Glassicle.png|center|24px]]
+|<span style="color:#3399ff">100k</span>
+|}
+|[[File:Balderdash.png|center|21px]]
+|[[File:Dank vine.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Certo_Ouzo.png|center|37px]]
+|Certo Ouzo
+|times X Crop Gain per Cert. Ore
+<br>Certification Req: <div class="mw-customtoggle-CertoOuzo wikia-menu-button">Show/Hide table</div>
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-CertoOuzo" align="center"
+|-
+! scope="col" |Ore
+! scope="col" |Amount
+! scope="col" |Ore
+! scope="col" |Amount
+|-
+|[[File:Copper.png|center|24px]]
+|<span style="color:#00FA9A">1</span>
+|[[File:Dubloonium.png|center|24px]]
+|<span style="color:#00FA9A">10b</span>
+|-
+|[[File:Iron.png|center|24px]]
+|<span style="color:#00FA9A">10</span>
+|[[File:Glume.png|center|24px]]
+|<span style="color:#00FA9A">100b</span>
+|-
+|[[File:Gold.png|center|24px]]
+|<span style="color:#00FA9A">100</span>
+|[[File:Plument.png|center|24px]]
+|<span style="color:#00FA9A">1t</span>
+|-
+|[[File:Platinum.png|center|24px]]
+|<span style="color:#00FA9A">1k</span>
+|[[File:Figmentation.png|center|24px]]
+|<span style="color:#00FA9A">10t</span>
+|-
+|[[File:Cobalt.png|center|24px]]
+|<span style="color:#00FA9A">10k</span>
+|[[File:Demonite.png|center|24px]]
+|<span style="color:#00FA9A">100t</span>
+|-
+|[[File:Firesalt.png|center|24px]]
+|<span style="color:#00FA9A">100k</span>
+|[[File:Godshard.png|center|24px]]
+|<span style="color:#00FA9A">1q</span>
+|-
+|[[File:Effluvium.png|center|24px]]
+|<span style="color:#00FA9A">1m</span>
+|[[File:Warpium.png|center|24px]]
+|<span style="color:#00FA9A">10q</span>
+|-
+|[[File:Antimatter.png|center|24px]]
+|<span style="color:#00FA9A">10m</span>
+|[[File:Anodizia.png|center|24px]]
+|<span style="color:#00FA9A">100q</span>
+|-
+|[[File:Ruby.png|center|24px]]
+|<span style="color:#00FA9A">100m</span>
+|[[File:Gummi.png|center|24px]]
+|<span style="color:#00FA9A">1qq</span>
+|-
+|[[File:Refractium.png|center|24px]]
+|<span style="color:#00FA9A">1b</span>
+|[[File:Djinn.png|center|24px]]
+|<span style="color:#00FA9A">10qq</span>
+|}
+|[[File:Choco tree.png|center|21px]]
+|[[File:Candypop2.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Certo_Crum.png|center|37px]]
+|Certo Crum
+|times X Spelunk SPD per Cert. Crop
+<br>Certification Req: <div class="mw-customtoggle-CertoCrum wikia-menu-button">Show/Hide table</div>
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-CertoCrum" align="center"
+|-
+! scope="col" |Crop
+! scope="col" |Amount
+! scope="col" |Crop
+! scope="col" |Amount
+|-
+|[[File:Dirt.png|center|24px]]
+|<span style="color:#00FA9A">1</span>
+|[[File:Minril_soil.png|center|24px]]
+|<span style="color:#00FA9A">100qq</span>
+|-
+|[[File:Grass.png|center|24px]]
+|<span style="color:#00FA9A">10</span>
+|[[File:Spuddies.png|center|24px]]
+|<span style="color:#ff471a">1</span>
+|-
+|[[File:Quality_hay.png|center|24px]]
+|<span style="color:#00FA9A">100</span>
+|[[File:Vegetabip.png|center|24px]]
+|<span style="color:#ff471a">10</span>
+|-
+|[[File:Saffron.png|center|24px]]
+|<span style="color:#00FA9A">1k</span>
+|[[File:Bunnymunch.png|center|24px]]
+|<span style="color:#ff471a">100</span>
+|-
+|[[File:Corn.png|center|24px]]
+|<span style="color:#00FA9A">10k</span>
+|[[File:Darnedlion.png|center|24px]]
+|<span style="color:#ff471a">1k</span>
+|-
+|[[File:Maize.png|center|24px]]
+|<span style="color:#00FA9A">100k</span>
+|[[File:Violetta.png|center|24px]]
+|<span style="color:#ff471a">10k</span>
+|-
+|[[File:Hyper_stalk.png|center|24px]]
+|<span style="color:#00FA9A">1m</span>
+|[[File:Stunflower.png|center|24px]]
+|<span style="color:#ff471a">100k</span>
+|-
+|[[File:Cabbage.png|center|24px]]
+|<span style="color:#00FA9A">10m</span>
+|[[File:Lewdplants.png|center|24px]]
+|<span style="color:#ff471a">1m</span>
+|-
+|[[File:Ancient_dew.png|center|24px]]
+|<span style="color:#00FA9A">100m</span>
+|[[File:Beanies.png|center|24px]]
+|<span style="color:#ff471a">10m</span>
+|-
+|[[File:Egg_yolk.png|center|24px]]
+|<span style="color:#00FA9A">1b</span>
+|[[File:Banana_vine.png|center|24px]]
+|<span style="color:#ff471a">100m</span>
+|-
+|[[File:Packed_clay.png|center|24px]]
+|<span style="color:#00FA9A">10b</span>
+|[[File:Rupturium.png|center|24px]]
+|<span style="color:#ff471a">1b</span>
+|-
+|[[File:Lil_pumpkin.png|center|24px]]
+|<span style="color:#00FA9A">100b</span>
+|[[File:Blue_grap.png|center|24px]]
+|<span style="color:#ff471a">10b</span>
+|-
+|[[File:Macromato.png|center|24px]]
+|<span style="color:#00FA9A">1t</span>
+|[[File:Pink_grap.png|center|24px]]
+|<span style="color:#ff471a">100b</span>
+|-
+|[[File:Spooktobble.png|center|24px]]
+|<span style="color:#00FA9A">10t</span>
+|[[File:White_grap.png|center|24px]]
+|<span style="color:#ff471a">1t</span>
+|-
+|[[File:Crystal.png|center|24px]]
+|<span style="color:#00FA9A">100t</span>
+|[[File:Abstract.png|center|24px]]
+|<span style="color:#ff471a">10t</span>
+|-
+|[[File:Lucentium.png|center|24px]]
+|<span style="color:#00FA9A">1q</span>
+|[[File:Nonsensic.png|center|24px]]
+|<span style="color:#ff471a">100t</span>
+|-
+|[[File:Prismatism.png|center|24px]]
+|<span style="color:#00FA9A">10q</span>
+|[[File:Balderdash.png|center|24px]]
+|<span style="color:#ff471a">1q</span>
+|-
+|[[File:Essence.png|center|24px]]
+|<span style="color:#00FA9A">100q</span>
+|[[File:Choco_tree.png|center|24px]]
+|<span style="color:#ff471a">10q</span>
+|-
+|[[File:Hallownil.png|center|24px]]
+|<span style="color:#00FA9A">1qq</span>
+|[[File:Salt_lick.png|center|24px]]
+|<span style="color:#ff471a">100q</span>
+|-
+|[[File:Sammatian.png|center|24px]]
+|<span style="color:#00FA9A">10qq</span>
+|[[File:Carmamella.png|center|24px]]
+|<span style="color:#ff471a">1qq</span>
+|}
+|[[File:Choco tree.png|center|21px]]
+|[[File:Candypop2.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 3
+| [[File:Papa_Fisto.png|center|37px]]
+|Papa Fisto
+|Each Difficulty LVL Reached on the Final Crusade Boosts Doom Gauntlet by X
+|[[File:Choco tree.png|center|21px]]
+|[[File:Emoticons.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Travitatee.png|center|37px]]
+|Travitatee
+|This Potion Will Boost Afterlife Gains Later... Gives times X Ores for Now (caps at 2)
+|[[File:Salt lick.png|center|21px]]
+|[[File:Emoticons.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Resoursake.png|center|37px]]
+|Resoursake
+|Ore. Fish. Botany. Potion. Crusade. and Limbo Card Bonuses are Increased to the Power of X (caps at 2)
+|[[File:Salt lick.png|center|21px]]
+|[[File:Camouflage.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 4
+| [[File:Damagirdiente.png|center|37px]]
+|Damagirdiente
+|Cash. Kills. Tunnels. and All Damage Card Bonuses are Increased to the Power of X (caps at 2)
+|[[File:Carmamella.png|center|21px]]
+|[[File:Camouflage.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Baba_Donakka.png|center|37px]]
+|Baba Donakka
+|Badonkadonk Potion Now Boosts More Things (Fish. Crops. Flowers. Brew Speed. Dmg)
+<br>Its Boost is Increased to the Power of X (caps at 2)
+|[[File:Carmamella.png|center|21px]]
+|[[File:Glassicle.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Nevasettle.png|center|37px]]
+|Nevasettle
+|Forewordi Potion Now Boosts More Things (Damage. Ores. Tank EXP. Crops)
+<br>Also +1 Applied Bonus per 5 Aberrant Monsters (does not improve)
+|[[File:Carmamella.png|center|21px]]
+|[[File:Glassicle.png|center|21px]]
+|
+|
+|}
+
+==Botany==
+===Plants===
+{| class="article-table" border="1" align="center" style="text-align: center;"|
+! colspan="17" style="text-align: center;"|Plant Requirements
+|-
+! rowspan="2" colspan="2" style="text-align: center;"| Plant
+! rowspan="2" style="text-align: center;"| Base Growth
+! colspan="14" style="text-align: center;"| Pot Level
+|-
+! style="text-align: center;"| 1
+! style="text-align: center;"| 2
+! style="text-align: center;"| 3
+! style="text-align: center;"| 4
+! style="text-align: center;"| 5
+! style="text-align: center;"| 6
+! style="text-align: center;"| 7
+! style="text-align: center;"| 8
+! style="text-align: center;"| 9
+! style="text-align: center;"| 10
+! style="text-align: center;"| 11
+! style="text-align: center;"| 12
+! style="text-align: center;"| 13
+! style="text-align: center;"| 14
+|-
+| [[File:Weeds.png|center]] || Weeds || ! style="text-align: center;"|'''250''' || 1 || 2 || 4 || 6 || 8 || 10 || 12 || 14 || 16 || 18 || 20 || 22 || 24 || 26
+|-
+| [[File:Berries.png|center]] || Berries || ! style="text-align: center;"|'''750''' || 3 || 5 || 7 || 9 || 11 || 13 || 15 || 17 || 19 || 21 || 23 || 25 || 27 || 29
+|-
+| [[File:Typha.png|center]] || Typha || ! style="text-align: center;"|'''2k''' || 6 || 8 || 10 || 12 || 14 || 16 || 18 || 20 || 22 || 24 || 26 || 28 || 30 || 32
+|-
+| [[File:Flowers.png|center]] || Flowers || ! style="text-align: center;"|'''5k''' || 9 || 11 || 13 || 15 || 17 || 19 || 21 || 23 || 25 || 27 || 29 || 31 || 33 || 35
+|-
+| [[File:Cactus.png|center]] || Cactus || ! style="text-align: center;"|'''10k''' || 12 || 14 || 16 || 18 || 20 || 22 || 24 || 26 || 28 || 30 || 32 || 34 || 36 || 38
+|-
+| [[File:Palm_tree.png|center]] || Palm Tree || ! style="text-align: center;"|'''25k''' || 15 || 17 || 19 || 21 || 23 || 25 || 27 || 29 || 31 || 33 || 35 || 37 || 39 || 41
+|-
+| [[File:Sapling.png|center]] || Sapling || ! style="text-align: center;"|'''100k''' || 18 || 20 || 22 || 24 || 26 || 28 || 30 || 32 || 34 || 36 || 38 || 40 || 42 || 44
+|-
+| [[File:Weeplings.png|center]] || Weeplings || ! style="text-align: center;"|'''225k''' || 21 || 23 || 25 || 27 || 29 || 31 || 33 || 35 || 37 || 39 || 41 || 43 || 45 || 47
+|-
+| [[File:saharan_foal.png|center]] || Saharan Foal || style="text-align: center;" ! |'''500k''' || 24 || 26 || 28 || 30 || 32 || 34 || 36 || 38 || 40 || 42 || 44 || 46 || 48 || 50
+|-
+| [[File:Mint_cane.png|center]] || Mint Cane || ! style="text-align: center;"|'''1m''' || 27 || 29 || 31 || 33 || 35 || 37 || 39 || 41 || 43 || 45 || 47 || 49 || 51 || 53
+|-
+| [[File:Crystals.png|center]] || Crystals || ! style="text-align: center;"|'''2.5m''' || 30 || 32 || 34 || 36 || 38 || 40 || 42 || 44 || 46 || 48 || 50 || 52 || 54 || 56
+|-
+| [[File:Candypop.png|center]] || Candypop || ! style="text-align: center;"|'''5m''' || 33 || 35 || 37 || 39 || 41 || 43 || 45 || 47 || 49 || 51 || 53 || 55 || 57 || 59
+|-
+| [[File:Fyreling.png|center]] || Fyreling || ! style="text-align: center;"|'''25m''' || 36 || 38 || 40 || 42 || 44 || 46 || 48 || 50 || 52 || 54 || 56 || 58 || 60 || 62
+|-
+| [[File:Blood_tree.png|center]] || Blood Tree || ! style="text-align: center;"|'''50m''' || 39 || 41 || 43 || 45 || 47 || 49 || 51 || 53 || 55 || 57 || 59 || 61 || 63 || 65
+|-
+| [[File:Mushroom_ingredient.png|center]] || Mushroom || ! style="text-align: center;"|'''125m''' || 42 || 44 || 46 || 48 || 50 || 52 || 54 || 56 || 58 || 60 || 62 || 64 || 66 || 68
+|-
+| [[File:Flesh_tree.png|center]] || Flesh Tree || ! style="text-align: center;"|'''300m''' || 45 || 47 || 49 || 51 || 53 || 55 || 57 || 59 || 61 || 63 || 65 || 67 || 69 || 71
+|-
+| [[File:Demonia.png|center]] || Demonia || ! style="text-align: center;"|'''800m''' || 48 || 50 || 52 || 54 || 56 || 58 || 60 || 62 || 64 || 66 || 68 || 70 || 72 || 74
+|-
+| [[File:Cursed_eye.png|center]] || Cursed Eye || ! style="text-align: center;"|'''1.5b''' || 51 || 53 || 55 || 57 || 59 || 61 || 63 || 65 || 67 || 69 || 71 || 73 || 75 || 77
+|-
+| [[File:Veninsulic.png|center]] || Veninsulic || ! style="text-align: center;"|'''8b''' || 54 || 56 || 58 || 60 || 62 || 64 || 66 || 68 || 70 || 72 || 74 || 76 || 78 || 80
+|-
+| [[File:Lemming.png|center]] || Lemming || ! style="text-align: center;"|'''15b''' || 57 || 59 || 61 || 63 || 65 || 67 || 69 || 71 || 73 || 75 || 77 || 79 || 81 || 83
+|-
+| [[File:Chlorine.png|center]] || Chlorine || ! style="text-align: center;"|'''29b''' || 60 || 62 || 64 || 66 || 68 || 70 || 72 || 74 || 76 || 78 || 80 || 82 || 84 || 86
+|-
+| [[File:Icecream.png|center]] || Icecream || ! style="text-align: center;"|'''100b''' || 63 || 65 || 67 || 69 || 71 || 73 || 75 || 77 || 79 || 81 || 83 || 85 || 87 || 89
+|-
+| [[File:Belldrop.png|center]] || Belldrop || ! style="text-align: center;"|'''699b''' || 66 || 68 || 70 || 72 || 74 || 76 || 78 || 80 || 82 || 84 || 86 || 88 || 90 || 92
+|-
+| [[File:Sunburst.png|center]] || Sunburst || ! style="text-align: center;"|'''4.9t''' || 69 || 71 || 73 || 75 || 77 || 79 || 81 || 83 || 85 || 87 || 89 || 91 || 93 || 95
+|}
+===Darkmode Plants===
+{| class="article-table" border="1" align="center" style="text-align: center;" |
+! colspan="8" style="text-align: center;" |Plant Requirements
+|-
+! colspan="2" style="text-align:center;"|Plant
+! style="text-align:center;"|Base Growth
+! style="text-align: center;" | Construction
+! colspan="2" style="text-align:center;"|Plant
+! style="text-align:center;"|Base Growth
+! style="text-align: center;" | Construction
+|-
+| [[File:Baubles.png|center]]
+| Baubles
+|! style="text-align: center;" | '''40t'''
+| rowspan="6" | [[File:Bucketeers.png|center]] Bucketeers Lv. 1
+| [[File:Swissile.png|center]]
+| Swissile
+|! style="text-align: center;" | '''4.5qq'''
+| rowspan="6" | [[File:Plant_em_all.png|center]] Plant Em All Lv.1
+|-
+| [[File:Fluxissa.png|center]]
+| Fluxissa
+|! style="text-align: center;" | '''80t'''
+| [[File:Spider_tree.png|center]]
+| Spider Tree
+|! style="text-align: center;" | '''15qq'''
+|-
+| [[File:Spillage.png|center]]
+| Spillage
+|! style="text-align: center;" | '''150t'''
+| [[File:Normal_rook.png|center]]
+| Normal Rook
+|! style="text-align: center;" | '''35qq'''
+|-
+| [[File:Alienbush.png|center]]
+| Alienbush
+|! style="text-align: center;" | '''350t'''
+| [[File:Podacian.png|center]]
+| Podacian
+|! style="text-align: center;" | '''80qq'''
+|-
+| [[File:Tentacles.png|center]]
+| Tentacles
+|! style="text-align: center;" | '''800t'''
+| [[File:Marsh_mello.png|center]]
+| Marsh Mello
+|! style="text-align: center;" | '''250qq'''
+|-
+| [[File:Eggsacks.png|center]]
+| Eggsacks
+|! style="text-align: center;" | '''1.5q'''
+| [[File:Snowlad.png|center]]
+| Snowlad
+|! style="text-align: center;" | '''600qq'''
+|-
+| [[File:Shrapnil.png|center]]
+| Shrapnil
+|! style="text-align: center;" | '''9q'''
+| rowspan="6" | [[File:Bucketeers.png|center]] Bucketeers Lv. 2
+| [[File:Stem_cells.png|center]]
+| Stem Cells
+|! style="text-align: center;" | '''<span style="color:#00FA9A">5</span>'''
+| rowspan="6" | [[File:Plant_em_all.png|center]] Plant Em All Lv. 2
+|-
+| [[File:Dabberdoo.png|center]]
+| Dabberdoo
+|! style="text-align: center;" | '''35q'''
+| [[File:Dank_vine.png|center]]
+| Dank Vine
+|! style="text-align: center;" | '''<span style="color:#00FA9A">30</span>'''
+|-
+| [[File:Fourchese.png|center]]
+| Fourchese
+|! style="text-align: center;" | '''85q'''
+| [[File:Candypop2.png|center]]​​
+| Candypop
+|! style="text-align: center;" | '''<span style="color:#00FA9A">199</span>'''
+|-
+| [[File:Sapswing.png|center]]
+| Sapswing
+|! style="text-align: center;" | '''200q'''
+| [[File:Emoticons.png|center]]
+| Emoticons
+|! style="text-align: center;" | '''<span style="color:#00FA9A">4k</span>'''
+|-
+| [[File:Twisturn.png|center]]
+| Twisturn
+|! style="text-align: center;" | '''650q'''
+| [[File:Camouflage.png|center]]​​​
+| Camouflage
+|! style="text-align: center;" | '''<span style="color:#00FA9A">90k</span>'''
+|-
+| [[File:Corale.png|center]]
+| Corale
+|! style="text-align: center;" | '''2.5qq'''
+| [[File:Glassicle.png|center]]
+| Glassicle
+|! style="text-align: center;" | '''<span style="color:#00FA9A">5m</span>'''
+|}
+
+==Treasure==
+{| class="mw-collapsible article-table" style="width: 60%;" border="0" align="center"
+|-
+! scope="col" style="text-align:center;"|Value
+! scope="col" style="text-align:center;"|Bag
+! scope="col" style="text-align:center;"|Treasure
+! scope="col" style="text-align:left;"|Name
+|-
+|
+<p style="text-align:center;">'''100'''</p>
+| style="text-align:center;"|[[File:bag_1.png|36px]]
+| style="text-align:center;"|[[File:t_coin.png|36px]]
+|Coin
+|-
+| style="text-align:center;"|'''1k'''
+| style="text-align:center;"|[[File:bag_2.png|36px]]
+| style="text-align:center;"|[[File:t_ore_veins.png|36px]]
+|Ore Veins
+|-
+| style="text-align:center;"|'''10k'''
+| style="text-align:center;"|[[File:bag_3.png|36px]]
+| style="text-align:center;"|[[File:t_crown.png|36px]]
+|Crown
+|-
+| style="text-align:center;"|'''100k'''
+| style="text-align:center;"|[[File:bag_4.png|36px]]
+| style="text-align:center;"|[[File:t_candle.png|36px]]
+|Candle
+|-
+| style="text-align:center;"|'''1M'''
+| style="text-align:center;"|[[File:bag_5.png|36px]]
+| style="text-align:center;"|[[File:t_heavy_bars.png|36px]]
+|Heavy Bars
+|-
+| style="text-align:center;"|'''10M'''
+| style="text-align:center;"|[[File:bag_6.png|36px]]
+| style="text-align:center;"|[[File:t_starlight.png|36px]]
+|Starlight
+|-
+| style="text-align:center;"|'''100M'''
+| style="text-align:center;"|[[File:bag_7.png|36px]]
+| style="text-align:center;"|[[File:t_wealth_obol.png|36px]]
+|Wealth Obol
+|-
+| style="text-align:center;"|'''1B'''
+| style="text-align:center;"|[[File:bag_8.png|36px]]
+| style="text-align:center;"|[[File:t_music_note.png|36px]]
+|Music Note
+|-
+| style="text-align:center;"|'''10B'''
+| style="text-align:center;"|[[File:bag_9.png|36px]]
+| style="text-align:center;"|[[File:t_diamond.png|36px]]
+|Diamond
+|-
+| style="text-align:center;"|'''100B'''
+| style="text-align:center;"|[[File:bag_10.png|36px]]
+| style="text-align:center;"|[[File:t_maybe_soap.png|36px]]
+|Maybe Soap
+|-
+| style="text-align:center;"|'''1T'''
+| style="text-align:center;"|[[File:bag_11.png|36px]]
+| style="text-align:center;"|[[File:t_silver_booty.png|36px]]
+|Silver Booty
+|-
+| style="text-align:center;"|'''10T'''
+| style="text-align:center;"|[[File:bag_12.png|36px]]
+| style="text-align:center;"|[[File:t_champ_cup.png|36px]]
+|Champ Cup
+|-
+| style="text-align:center;"|'''100T'''
+| style="text-align:center;"|[[File:bag_13.png|36px]]
+| style="text-align:center;"|[[File:t_shrapnel.png|36px]]
+|Shrapnel
+|-
+| style="text-align:center;"|'''1Q'''
+| style="text-align:center;"|[[File:bag_14.png|36px]]
+| style="text-align:center;"|[[File:t_frozen_obol.png|36px]]
+|Frozen Obol
+|-
+| style="text-align:center;"|'''10Q'''
+| style="text-align:center;"|[[File:bag_15.png|36px]]
+| style="text-align:center;"|[[File:t_irish_clover.png|36px]]
+|Irish Clover
+|-
+| style="text-align:center;"|'''100Q'''
+| style="text-align:center;"|[[File:bag_16.png|36px]]
+| style="text-align:center;"|[[File:t_octagox.png|36px]]
+|Octagox
+|-
+| style="text-align:center;"|'''1QQ'''
+| style="text-align:center;"|[[File:sack_mach_1.png|36px]]
+| style="text-align:center;"|[[File:t_cristils.png|36px]]
+|Cristils
+|-
+| style="text-align:center;"|'''10QQ'''
+| style="text-align:center;"|[[File:sack_mach_2.png|36px]]
+| style="text-align:center;"|[[File:t_leaf_ring.png|36px]]
+|Leaf Ring
+|-
+| style="text-align:center;"|'''100QQ'''
+| style="text-align:center;"|[[File:sack_mach_3.png|36px]]
+| style="text-align:center;"|[[File:t_geode.png|36px]]
+|Geode
+|-
+| style="text-align:center;"|'''<span style="color:#00FA9A">1</span>'''
+| style="text-align:center;"|[[File:sack_mach_4.png|36px]]
+| style="text-align:center;"|[[File:t_jade.png|36px]]
+|Jade
+|-
+| style="text-align:center;"|'''<span style="color:#00FA9A">10</span>'''
+| style="text-align:center;"|[[File:sack_mach_5.png|36px]]
+| style="text-align:center;"|[[File:t_calming_obol.png|36px]]
+|Calming Obol
+|-
+| style="text-align:center;"|'''<span style="color:#00FA9A">100</span>'''
+| style="text-align:center;"|[[File:sack_mach_6.png|36px]]
+| style="text-align:center;"|[[File:t_blobbish.png|36px]]
+|Blobbish
+|-
+| style="text-align:center;"|'''<span style="color:#00FA9A">1k</span>'''
+| style="text-align:center;"|[[File:sack_mach_7.png|36px]]
+| style="text-align:center;"|[[File:t_ruby.png|36px]]
+|Ruby
+|-
+| style="text-align:center;"|'''<span style="color:#00FA9A">10k</span>'''
+| style="text-align:center;"|[[File:sack_mach_8.png|36px]]
+| style="text-align:center;"|[[File:t_prime_meat.png|36px]]
+|Prime Meat
+|-
+| style="text-align:center;"|'''<span style="color:#00FA9A">100k</span>'''
+| style="text-align:center;"|[[File:sack_mach_9.png|36px]]
+| style="text-align:center;"|[[File:t_scroll.png|36px]]
+|Scroll
+|-
+| style="text-align:center;"|'''<span style="color:#00FA9A">1M</span>'''
+| style="text-align:center;"|[[File:sack_mach_10.png|36px]]
+| style="text-align:center;"|[[File:t_sigil.png|36px]]
+|Sigil
+|-
+| style="text-align:center;"|
+| style="text-align:center;"|
+| style="text-align:center;"|[[File:t_the_mark.png|36px]]
+|The Mark
+|-
+| style="text-align:center;"|
+| style="text-align:center;"|
+| style="text-align:center;"|[[File:t_temper_obol.png|36px]]
+|
+Temper Obol
+|}
+==Notes==
+
+[[Category:Resources]]

@@ -1,0 +1,110 @@
+<table-progress-tracking table-id="Events1" unique-column-index="2">
+{| class="listing sortable" style="width: 100%;" border="0" align="center"
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |Zone
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+|-
+|[[File:C_secretkeeper.png|36px]]
+|Special
+|Secretkeeper
+|Souls kept after Ascending
+|1%
+|20%
+|-
+|[[File:C_spooktober.png|36px]]
+|Oct.Event
+|Spooktober
+|Raid Drop Luck
+|2%
+|40%
+|-
+|[[File:C_golden_turkey.png|36px]]
+|Nov.Event
+|Golden Turkey
+|Card Drop Chance
+|2%
+|40%
+|-
+|[[File:C_coal_buddy.png|36px]]
+|Dec.Event-1
+|Coal Buddy
+|Ores from Mining
+|5%
+|100%
+|-
+|[[File:C_waddles.png|36px]]
+|Dec.Event-2
+|Waddles
+|Perk Points Gained
+|4%
+|80%
+|-
+|[[File:Moon_man.png|36px]]
+|Lunar.Event-1
+|Moon Man
+|Cultist Efficiency
+|15%
+|300%
+|-
+|[[File:Magic_slab.png|36px]]
+|Lunar.Event-2
+|Magic Slab
+|Mining EXP Gained
+|8%
+|160%
+|-
+|[[File:Qqoxzle.png|36px]]
+|Grasslands-100
+|Qoxzul
+|Base Damage
+|1
+|20
+|-
+|[[File:Card_BlackHole.png|36px]]
+|EasterEvent-1
+|Black Hole
+|Cash
+|15%
+|300%
+|-
+|[[File:Card_NestEgg.png|36px]]
+|EasterEvent-2
+|Nest Egg
+| Hatchery Exp
+| 1%
+| 5%
+|-
+|[[File:Card_Bluehero.png|36px]]
+|EasterEvent-3
+|Bluehero
+|Crit Damage
+|10%
+|200%
+|-
+|[[File:Card_Statue.png|36px]]
+|FallEvent-1
+|Statue
+|Pet Damage (passive)*
+|2%
+|10%
+|-
+|[[File:Card_MinuteCandy.png|36px]]
+|FallEvent-2
+|Minute Candy
+|Hoops Max Gems (passive)**
+|2
+|10
+|-
+|[[File:Card_GoldCandy.png|36px]]
+|FallEvent-3
+|Gold Candy
+|Crypt Rewards (passive)*
+|3%
+|15%
+|}
+</table-progress-tracking>
+[[Category:Cards]]

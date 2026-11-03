@@ -1,0 +1,104 @@
+{{:Header/Crusades}}
+
+Both Boosters and Mutators can be crafted from [[Tinkering]], and also purchased from the [[Gem Shop#Crusades|Gem Shop]]. These are used to upgrade the bonuses of equipped gear. Every piece of equipment may be upgraded 5 times.
+
+To see the specific effects of Boosters and mutators on the game screen, hold left click over an item for one second.
+
+== Upgrading Equipment ==
+Gear must be equipped in order to be upgraded on the Boosters screen. Once a piece of equipment is selected, there are four slots that can be filled. The first slot is filled by a single Booster and is mandatory, as it defines the bonus an upgrade potentially receives. The other three are entirely optional and can be filled in any order. The first Mutator slot always affects the bonus of a selected Booster. The last two slots are filled by Misc. Mutators which have varying effects on upgrades.
+
+== Boosters ==
+Boosters have a set chance to increase equipment bonuses. This success chance decreases the higher quality bonus the booster gives.
+
+{| style="width:100%" class="article-table"
+!Booster
+!Effect
+|-
+|[[File:Booster1.png|center|60px]]
+|90% chance to give +10% bonus
+|-
+|[[File:Booster2.png|center|60px]]
+|70% chance to give +25% bonus
+|-
+|[[File:Booster3.png|center|60px]]
+|50% chance to give +50% bonus
+|-
+|[[File:Booster4.png|center|60px]]
+|30% chance to give +100% bonus
+|-
+|[[File:Booster5.png|center|60px]]
+|15% chance to give +250% bonus
+|}
+== Mutators ==
+Mutators are optional upgrade components that modify how much bonus Boosters can give. This effect is random and can sometimes reduce the bonus given, but still upgrades the equipment with an increased bonus.
+
+{| style="width:100%" class="article-table"
+!Booster
+!Effect
+|-
+|[[File:Mutator1.png|center|60px]]
+|Multiplies the given bonus by a random number between 0.8 and 1.3
+|-
+|[[File:Mutator2.png|center|60px]]
+|Multiplies the given bonus by a random number between 0.7 and 1.5
+|-
+|[[File:Mutator3.png|center|60px]]
+|Multiplies the given bonus by a random number between 0.6 and 1.8
+|-
+|[[File:Mutator4.png|center|60px]]
+|Multiplies the given bonus by a random number between 0.5 and 2.1
+|-
+|[[File:Mutator5.png|center|60px]]
+|Multiplies the given bonus by a random number between 0.3 and 2.5
+|}
+
+=== Misc. Mutators ===
+Miscellaneous mutators are additional optional upgrade components that affect the process in unique ways. Up to two may be applied at a time.
+
+{| style="width:100%" class="article-table"
+!Booster
+!Name
+!Effect
+|-
+|[[File:Misc1.png|center|60px]]
+|Safety Charm
+|Saves an upgrade use from being consumed when a booster fails
+|-
+|[[File:Misc2.png|center|60px]]
+|Lucky Donut
+|Adds +15% chance for a booster to succeed
+|-
+|[[File:Misc3.png|center|60px]]
+|Crystal Genesis
+|50% chance to double the applied booster's bonus
+|-
+|[[File:Misc4.png|center|60px]]
+|Chaotic Mutators
+|Doubles applied mutator bonus but reduces booster's success chance by 50% *(currently doubles success chance not halves)
+|-
+|[[File:Misc5.png|center|60px]]
+|Benign Mutators
+|Guarantees the applied mutator multiplies by 1.0 or more
+|}
+
+== Resetting Equipment ==
+If too many failures are applied to equipment, it might be better start over to aim for a better bonus. For the cost of 3 excess equipment of the same type, gear may be reset back to its base value. Alternatively, if there isn't any excess gear or the materials to craft them, 20 gems may be spent instead.
+==Booster Level==
+With the second top right Crusade perk, idle damage is increased by +1% every Booster level, upgradeable to 15%.
+
+== Booster Modifiers ==
+* Narcissus Crusade boss card: +1-6% to successful booster chance
+
+* Incarnate(3) 31-45 Oblivion stage card: +1-4% to successful booster chance
+
+* Boostio green construction: Gives  3%/per level chance(max60%) to give a  X times higher boost value where:
+** X = 1.0 + 0.01* boost level - so if booster level is 21 you get a chance at a 1.21x value
+
+* Anotha One red construction: +1/2/3 booster attempts goes from default 5->8
+
+* Tinkering Mastery Tree: Booster odds +1.3 - 7.2%  At  100 - 400%
+** Orange base: 15+6+4+7.2 = 32.2% chance to succeed a boost
+*** 3->60% chance at a 1.X higher value  if succeeded boost so 19.32% chance at a boosted result counting the chance at a failed boost
+
+* Currently July 1st 2020 Chaotic Mutators double success chance not halve.
+[[Category:Crusades]]

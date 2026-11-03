@@ -1,0 +1,12 @@
+{| class="article-table" style="width: 100%;text-align:center;" border="1"
+|-
+! colspan="3" style="text-align: center;" | {{{1}}}
+|-
+|[[File:{{{2}}}_gem.png|18px]][[File:{{{3}}}_gem.png|18px]][[File:{{{4}}}_gem.png|18px]]
+|[[File:{{{5}}}_gem.png|18px]][[File:{{{6}}}_gem.png|18px]][[File:{{{7}}}_gem.png|18px]]
+|[[File:{{{8}}}_gem.png|18px]][[File:{{{9}}}_gem.png|18px]][[File:{{{10}}}_gem.png|18px]]
+|-
+|[[File:{{{11}}}_gem.png|18px]][[File:{{{12}}}_gem.png|18px]][[File:{{{13}}}_gem.png|18px]]
+|[[File:{{{14}}}_gem.png|18px]][[File:{{{15}}}_gem.png|18px]][[File:{{{16}}}_gem.png|18px]]
+|[[File:{{{17}}}_gem.png|18px]][[File:{{{18}}}_gem.png|18px]][[File:{{{19}}}_gem.png|18px]]
+|}

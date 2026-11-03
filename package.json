@@ -1,0 +1,29 @@
+{
+  "name": "idle-skilling-toolbox",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "acorn": "8",
+    "classic-level": "3.0.0",
+    "xlsx": "0.18.5"
+  },
+  "scripts": {
+    "extract": "bun src/extract.ts",
+    "test": "bun test",
+    "wiki:fetch": "bun scripts/wiki/fetch.ts",
+    "wiki:parse": "bun scripts/wiki/parse.ts",
+    "map": "bun src/code-map.ts",
+    "map:extract": "bun src/code-map.ts --extract",
+    "derive": "bun src/derive-lists.ts && bun src/derive-shrines.ts && bun src/derive-cards.ts && bun src/derive-sources.ts && bun src/derive-activity-bonuses.ts && bun src/derive-potions.ts && bun src/derive-discovery.ts && bun src/derive-screens.ts && bun src/derive-cloud-map.ts && bun src/derive-card-catalog.ts && bun src/derive-card-globals.ts && bun src/derive-mastery.ts && bun src/derive-equipment.ts && bun src/derive-lab.ts && bun src/derive-smithing.ts && bun src/derive-tinkering.ts && bun src/derive-codex.ts && bun src/derive-perks.ts && bun src/derive-realm.ts && bun src/derive-pet-sprites.ts",
+    "crusade-timer": "bun src/crusade-timer.ts",
+    "wiki:tw": "bun scripts/wiki/to-tiddlywiki.ts && bunx tiddlywiki@5.3.8 tiddlywiki --build index",
+    "wiki:tw:serve": "bunx tiddlywiki@5.3.8 tiddlywiki --listen port=8087"
+  },
+  "license": "MIT"
+}

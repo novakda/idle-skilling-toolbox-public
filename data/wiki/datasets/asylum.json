@@ -1,0 +1,549 @@
+[
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster_2": "Emigdala",
+  "Keys": 1,
+  "Block": 100,
+  "Run Time": "2:01",
+  "HP (Variable*)": "2.5Q",
+  "Atk Required (Variable*)": 10,
+  "Card Chance": "1/99",
+  "_images": [
+   "Asylum_Emigdala.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster_2": "Emigdala X",
+  "Keys": 3,
+  "Block": 250,
+  "Run Time": "3:01",
+  "HP (Variable*)": "16.4 QQ",
+  "Atk Required (Variable*)": 11,
+  "Card Chance": "1/97",
+  "_images": [
+   "Asylum_Emigdala.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster_2": "Emigdala Y",
+  "Keys": 7,
+  "Block": 800,
+  "Run Time": "5:01",
+  "HP (Variable*)": "2.4 QQQQ",
+  "Atk Required (Variable*)": 16,
+  "Card Chance": "1/86",
+  "_images": [
+   "Asylum_Emigdala.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster_2": "Emigdala Z",
+  "Keys": 15,
+  "Block": 5000,
+  "Run Time": "8:01",
+  "HP (Variable*)": "42 M QQQQ",
+  "Atk Required (Variable*)": 31,
+  "Card Chance": "1/55",
+  "_images": [
+   "Asylum_Emigdala.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster_2": "Occulon",
+  "Keys": 1,
+  "Block": 125,
+  "Run Time": "2:01",
+  "HP (Variable*)": "10.5 QQ",
+  "Atk Required (Variable*)": 14,
+  "Card Chance": "1/109",
+  "_images": [
+   "Asylum_Occulon.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster_2": "Occulon X",
+  "Keys": 3,
+  "Block": 400,
+  "Run Time": "3:01",
+  "Atk Required (Variable*)": 15,
+  "Card Chance": "1/107",
+  "_images": [
+   "Asylum_Occulon.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster_2": "Occulon Y",
+  "Keys": 7,
+  "Block": 2000,
+  "Run Time": "5:01",
+  "Atk Required (Variable*)": 24,
+  "Card Chance": "1/96",
+  "_images": [
+   "Asylum_Occulon.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster_2": "Occulon Z",
+  "Keys": 15,
+  "Block": 10000,
+  "Run Time": "8:01",
+  "Atk Required (Variable*)": 48,
+  "Card Chance": "1/65",
+  "_images": [
+   "Asylum_Occulon.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster_2": "Scallius",
+  "Keys": 1,
+  "Block": 300,
+  "Run Time": "2:01",
+  "HP (Variable*)": "700 QQ",
+  "Atk Required (Variable*)": 13,
+  "Card Chance": "1/129",
+  "_images": [
+   "Asylum_Scallius.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster_2": "Scallius X",
+  "Keys": 3,
+  "Block": 1500,
+  "Run Time": "3:01",
+  "Atk Required (Variable*)": 14,
+  "Card Chance": "1/127",
+  "_images": [
+   "Asylum_Scallius.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster_2": "Scallius Y",
+  "Keys": 7,
+  "Block": 6000,
+  "Run Time": "5:01",
+  "Atk Required (Variable*)": 22,
+  "Card Chance": "1/116",
+  "_images": [
+   "Asylum_Scallius.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster_2": "Scallius Z",
+  "Keys": 15,
+  "Block": 25000,
+  "Run Time": "8:01",
+  "Atk Required (Variable*)": 42,
+  "Card Chance": "1/85",
+  "_images": [
+   "Asylum_Scallius.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster": "Phase 1 Phase 2",
+  "Monster_2": "Gorshank",
+  "Keys": 1,
+  "Block": "1000/2000 (see below)",
+  "Run Time": "2:01",
+  "HP (Variable*)": "3.5 QQQQ",
+  "Atk Required (Variable*)": 16,
+  "Card Chance": "1/144",
+  "_images": [
+   "Asylum_GorshankPhase1.png",
+   "Asylum_GorshankPhase2.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster": "Phase 1 Phase 2",
+  "Monster_2": "Gorshank X",
+  "Keys": 3,
+  "Block": "5000/12500? (see below)",
+  "Run Time": "3:01",
+  "Card Chance": "1/142",
+  "_images": [
+   "Asylum_GorshankPhase1.png",
+   "Asylum_GorshankPhase2.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster": "Phase 1 Phase 2",
+  "Monster_2": "Gorshank Y",
+  "Keys": 7,
+  "Block": "30000/60000? (see below)",
+  "Run Time": "5:01",
+  "Card Chance": "1/131",
+  "_images": [
+   "Asylum_GorshankPhase1.png",
+   "Asylum_GorshankPhase2.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Asylum Creatures",
+  "_table": 0,
+  "Monster": "Phase 1 Phase 2",
+  "Monster_2": "Gorshank Z",
+  "Keys": 15,
+  "Block": "75000/150000? (see below)",
+  "Run Time": "8:01",
+  "Card Chance": "1/100",
+  "_images": [
+   "Asylum_GorshankPhase1.png",
+   "Asylum_GorshankPhase2.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Pets",
+  "_table": 1,
+  "Boss": "Emigdala",
+  "Chance (Nightmare)": "45/4850 ≈ 1/108"
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Pets",
+  "_table": 1,
+  "Boss": "Occulon",
+  "Chance (Nightmare)": "45/6600 ≈ 1/147"
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Pets",
+  "_table": 1,
+  "Boss": "Scallius",
+  "Chance (Nightmare)": "45/8200 ≈ 1/182"
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Pets",
+  "_table": 1,
+  "Boss": "Gorshank",
+  "Chance (Nightmare)": "45/9500 ≈ 1/211"
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Traces",
+  "_table": 2,
+  "Trace_2": "Emigdala",
+  "Drop Amount determined by:": "Difficulty, Mark",
+  "_images": [
+   "Trace_Emigdala.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Traces",
+  "_table": 2,
+  "Trace_2": "Occulon",
+  "Drop Amount determined by:": "Difficulty, Mark",
+  "_images": [
+   "Trace_Occulon.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Traces",
+  "_table": 2,
+  "Trace_2": "Scallius",
+  "Drop Amount determined by:": "Difficulty, Mark",
+  "_images": [
+   "Trace_Scallius.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Traces",
+  "_table": 2,
+  "Trace_2": "Gorshank",
+  "Drop Amount determined by:": "Difficulty, Mark",
+  "_images": [
+   "Trace_Gorshank.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Traces",
+  "_table": 2,
+  "Trace_2": "Apothecary",
+  "Drop Amount determined by:": "Apothecary level",
+  "_images": [
+   "Trace_Apo.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Traces",
+  "_table": 2,
+  "Trace_2": "Botany",
+  "Drop Amount determined by:": "Botany level, Plant dropped, Plant level, Overgrowth",
+  "_images": [
+   "Trace_Botany.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Traces",
+  "_table": 2,
+  "Trace_2": "Tilling",
+  "Drop Amount determined by:": "Tilling level, Dirt owned",
+  "_images": [
+   "Trace_Tilling.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Traces",
+  "_table": 2,
+  "Trace_2": "Mining",
+  "Drop Amount determined by:": "Mining level, Ores per minute",
+  "_images": [
+   "Trace_Mining.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Traces",
+  "_table": 2,
+  "Trace_2": "Smithing",
+  "Drop Amount determined by:": "Smithing level, Craft number, Craft tier, Crafts per Craft",
+  "_images": [
+   "Trace_Smithing.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Traces",
+  "_table": 2,
+  "Trace_2": "Fishing",
+  "Drop Amount determined by:": "Fishing level, Fish per catch",
+  "_images": [
+   "Trace_Fishing.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 3,
+  "col1": "Name of Buff",
+  "col2": "Description",
+  "col3": "Increment",
+  "col4": "Currency",
+  "col5": "Currency",
+  "col6": "Currency"
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 3,
+  "col1": "Wrath",
+  "col2": "+% Damage For each STR LV above 50.",
+  "col3": "+1%",
+  "col6": "Also after lvl 10",
+  "_images": [
+   "Trace Emigdala.png",
+   "Trace Fishing.png",
+   "Trace Smithing.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 3,
+  "col1": "Prodigious",
+  "col2": "+% Bonus Stats to ALL Tinkering Equipment.",
+  "col3": "+1.%",
+  "col6": "-",
+  "_images": [
+   "Trace Emigdala.png",
+   "Trace Fishing.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 3,
+  "col1": "Recoup",
+  "col2": "+% chance to NOT use up Materials in Smithing and Brewing.",
+  "col3": "+1.5%",
+  "col6": "-",
+  "_images": [
+   "Trace Emigdala.png",
+   "Trace Mining.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 4,
+  "col1": "Name of Buff",
+  "col2": "Description",
+  "col3": "Increment",
+  "col4": "Currency",
+  "col5": "Currency"
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 4,
+  "col1": "Scavenge",
+  "col2": "+% Bonus to All forms of Resource Collection.",
+  "col3": "+5%",
+  "_images": [
+   "Trace Occulon.png",
+   "Trace Botany.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 4,
+  "col1": "Heavy Cash",
+  "col2": "+100% Attack Speed / +100% Cash. Allows you to sacrifice attack speed for more cash.",
+  "col3": "Changes by toggle amount first upgrade: 100 S / 100 C -> 80 S / 126 C",
+  "_images": [
+   "Trace Occulon.png",
+   "Trace Botany.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 4,
+  "col1": "Talent",
+  "col2": "Start with +% Exp when any skill levels up",
+  "col3": "0.6%",
+  "_images": [
+   "Trace Occulon.png",
+   "Trace Botany.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 5,
+  "col1": "Name of Buff",
+  "col2": "Description",
+  "col3": "Increment",
+  "col4": "Currency",
+  "col5": "Note"
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 5,
+  "col1": "Eviscerate",
+  "col2": "% of kills affect the next monster affect up to X monsters.",
+  "col3": "+1.5%",
+  "col5": "Eviscerate is hard-capped at +10 kills a head, while this caps at +4, research vessel caps at +10.",
+  "_images": [
+   "Trace_Scallius.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 5,
+  "col1": "Hydrate",
+  "col2": "+n H2O levels / +n% Chance for H2O to Lv Up twice.",
+  "col3": "+2 / +1%",
+  "_images": [
+   "Trace_Scallius.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 5,
+  "col1": "Best Rest",
+  "col2": "+n% Idle Gains on All Screens.",
+  "col3": "+0.5%",
+  "_images": [
+   "Trace_Scallius.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 6,
+  "col1": "Name of Buff",
+  "col2": "Description",
+  "col3": "Increment",
+  "col4": "Currency"
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 6,
+  "col1": "The Power",
+  "col2": "+% Damage +% Health +% Hatchery Exp",
+  "col3": "+10% Damage / level +15% Health / level +1% Hatchery / level (Max Lv. 50)",
+  "_images": [
+   "Trace_Gorshank.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 6,
+  "col1": "Chain Level",
+  "col2": "% Chance to trigger a chain when leveling up any skill",
+  "col3": "+ ~2.5% / level (Max Lv. 50)",
+  "_images": [
+   "Trace_Gorshank.png"
+  ]
+ },
+ {
+  "_page": "Asylum",
+  "_section": "Shop",
+  "_table": 6,
+  "col1": "Brewery",
+  "col2": "Potions start with % full brew bar after they level up",
+  "col3": "+ 1% / level (Max Lv. 50)",
+  "_images": [
+   "Trace_Gorshank.png"
+  ]
+ }
+]

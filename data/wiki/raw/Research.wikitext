@@ -1,0 +1,746 @@
+{{:Header/Pets}}
+In research you can use Vessels you gained from trekking to upgrade your main frame and vats, which help you get much more RP from tanks. Each Tank has their own bonuses, detailed information is down below. 
+
+Pets can be placed in Capsule to level up passive pet bonuses. Each capsule has individual exp gain, meaning you can put the same species of pet in multiple Capsules and get exp from each of them. Each species' passive starts at level 0, and the first level needs 12 hours of exp. You can accelerate exp gain with help from tanks and pet passives.
+
+If you want to reach lvl 400 in research, please read [https://docs.google.com/spreadsheets/d/1WscxHc--nSxZtsbLkyfmBSOzALcCQpZwW1bvly8U0mU/edit#gid=1396490651 Pushing IdleSkilling beyond its limits (by bart902)] (Note that it is outdated due to the Realm update)
+
+==Main Frame==
+
+
+
+[[File:Research_main_page.png|left|720px]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+== Tanks ==
+
+
+
+{| class="article-table" border="1" align="center"
+|-
+! scope="col" style="text-align: center;" |Main Frames
+! colspan="3" scope="col" style="text-align: center;" |Lab Main Frame  Pieces
+|-
+|[[File:Main_Frames.png|68px]]
+|              [[File:Main_Frames.png|68px]]
+|             [[File:Main_Frames.png|68px]]
+|               [[File:Main_Frames.png|68px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Frame Name
+| colspan="1" |Lab Mainframe I
+| colspan="1" |Lab Mainframe II
+| colspan="1" |Lab Mainframe III
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 1
+
+Unlocks at Lv0
+| colspan="1" |
+Expand The Lab
+
+Unlocks A New Capsule
+
+Unlocks A New Vat
+| colspan="1" |
+Expand The Lab
+
+Unlocks A New Capsule
+
+Unlocks A New Vat
+| colspan="1" |
+Expand The Lab
+
+Unlocks A New Capsule
+
+Unlocks A New Vat
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 2
+
+Unlocks at Lv5
+| colspan="1" |All Tanks Gain RP At A [aX]  Faster Rate
+| colspan="1" |All Tanks Bonuses Level Up [aX] Faster
+| colspan="1" |All Tanks Bonuses Level Up [aX] Faster
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 3
+
+Unlocks at Lv40
+| colspan="1" |All Tanks Have A [x%] Chance To  Double Level Up
+| colspan="1" |[x%] Chance For A  Tank Level Up To Chain Upward
+| colspan="1" |[x%] Chance For A  Tank Level Up To Chain Upward
+|}
+
+{| class="article-table" border="1" align="center"
+|-
+! scope="col" style="text-align: center;" |Capsules
+! colspan="3" scope="col" style="text-align: center;" | Capsules
+|-
+|[[File:Capsule.png|68px]]
+|              [[File:Capsule.png|68px]]
+|              [[File:Capsule.png|68px]]
+|              [[File:Capsule.png|68px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Capsule Number
+| colspan="1" |Capsule I
+| colspan="1" |Capsule II
+| colspan="1" |Capsule III
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 1
+
+Unlocks at Lv0
+| colspan="1" |
+Equip A Pet To Level Up Its Passive Bonus
+It Will Also Show Up In The Main Game
+| colspan="1" |
+Equip A Pet To Level Up Its Passive Bonus
+It Will Also Show Up In The Main Game
+| colspan="1" |
+Equip A Pet To Level Up Its Passive Bonus
+It Will Also Show Up In The Main Game
+|-
+|[[File:Capsule.png|68px]]
+|              [[File:Capsule.png|68px]]
+|              [[File:Capsule.png|68px]]
+|              [[File:Capsule.png|68px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Capsule Number
+| colspan="1" |Capsule IV
+| colspan="1" |Capsule V
+| colspan="1" |Capsule VI
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 1
+
+Unlocks at Lv0
+| colspan="1" |
+Equip A Pet To Level Up Its Passive Bonus
+It Will Also Show Up In The Main Game
+| colspan="1" |
+Equip A Pet To Level Up Its Passive Bonus
+It Will Also Show Up In The Main Game
+| colspan="1" |
+Equip A Pet To Level Up Its Passive Bonus
+It Will Also Show Up In The Main Game
+|}
+
+{| class="article-table" border="1" align="center"
+|-
+! scope="col" style="text-align: center;" |Vats
+! colspan="6" scope="col" style="text-align: center;" |Vats 1
+|-
+|[[File:Tank_Green.png|68px]]
+|[[File:Grasseous_Vat.png|90px|center]]
+|[[File:Glycogen_Vat.png|90px|center]]
+|[[File:Visceral_Vat.png|90px|center]]
+|[[File:CashMoney_Vat.png|90px|center]]
+|[[File:Shiny_Vat.png|90px|center]]
+|- style="text-align: center;"
+! style="text-align: center;" |Vat Name
+| colspan="1" |Grasseous Vat
+| colspan="1" |Glycogen Vat
+| colspan="1" |Visceral Vat
+| colspan="1" |Cash Money Vat
+| colspan="1" |Shiny Vat
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 1
+
+Unlocks at Lv0
+| colspan="1" |Green Tanks Gain RP At  A [aX] Faster Rate
+| colspan="1" |Orange Tanks Gain RP At  A [aX] Faster Rate
+| colspan="1" |Red Tanks Gain RP At  A [aX] Faster Rate
+| colspan="1" |Yellow Tanks Gain RP At  A [aX] Faster Rate
+| colspan="1" |
+[x%] Research Exp Gain 
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 2
+
+Unlocks at Lv50
+| colspan="1" |All Tanks Gain RP At A [aX]  Faster Rate
+| colspan="1" |All Tanks Gain RP At A [aX]  Faster Rate
+| colspan="1" |All Tanks Gain RP At A [aX]  Faster Rate
+| colspan="1" |All Tanks Gain RP At A [aX]  Faster Rate
+| colspan="1" |[x%] RP Gain
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 3
+
+Unlocks at Lv150
+| colspan="1" |All Tanks Have A [x%] Chance To  Double Level Up
+| colspan="1" |All Tanks Have A [x%] Chance To  Double Level Up
+| colspan="1" |All Tanks Have A [x%] Chance To  Double Level Up
+| colspan="1" |All Tanks Have A [x%] Chance To  Double Level Up
+| colspan="1" |[x%] Tank 2x Lvl Chance
+|-
+! scope="col" style="text-align: center;" |Vats
+! colspan="6" scope="col" style="text-align: center;" |Vats 2
+|-
+|[[File:Tank_Green.png|68px]]
+|[[File:Toolshed_Vat.png|90px|center]]
+|[[File:Ecksdee_Vat.png|90px|center]]
+|[[File:Mutagen_Vat.png|90px|center]]
+|[[File:Risquious_Vat.png|90px|center]]
+|[[File:Satanic_Vat.png|90px|center]]
+|- style="text-align: center;"
+! style="text-align: center;" |Vat Name
+| colspan="1" |Tool Shed Vat
+| colspan="1" |Ecksdee Vat
+| colspan="1" |Mutagen Vat
+| colspan="1" |Risquious  Vat
+| colspan="1" |Satanic Vat
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier X
+
+Unlocks at LvX
+| colspan="1" |PinkTanks Gain RP At  A [aX] Faster Rate
+| colspan="1" |Purple Tanks Gain RP At  A [aX] Faster Rate
+| colspan="1" |Blue Tanks Gain RP At  A [aX] Faster Rate
+| colspan="1" |WhiteTanks Gain RP At  A [aX] Faster Rate
+| colspan="1" |
+Blood Tanks Gain RP At  A [aX] Faster Rate
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier X
+
+Unlocks at LvX
+| colspan="1" |All Tanks Gain RP At A [aX]  Faster Rate
+| colspan="1" |All Tanks Gain RP At A [aX]  Faster Rate
+| colspan="1" |All Tanks Gain RP At A [aX]  Faster Rate
+| colspan="1" |All Tanks Gain RP At A [aX]  Faster Rate
+| colspan="1" |[x%] RP Gain
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier X
+
+Unlocks at LvX
+| colspan="1" |All Tanks Have A [x%] Chance To  Double Level Up
+| colspan="1" |All Tanks Have A [x%] Chance To  Double Level Up
+| colspan="1" |All Tanks Have A [x%] Chance To  Double Level Up
+| colspan="1" |All Tanks Have A [x%] Chance To  Double Level Up
+| colspan="1" |All Tanks Have A [x%] Chance To  Double Level Up              
+|}
+
+{| class="article-table" border="1" align="center"
+|-
+! scope="col" style="text-align: center;" |Green Research Tanks
+! colspan="6" scope="col" style="text-align: center;" |Unlocks at Level 0
+|-
+|[[File:Tank_Green.png|68px]]
+|[[File:GreenTank_1.png]]
+|[[File:GreenTank_2.png]]
+|[[File:GreenTank_3.png]]
+|[[File:GreenTank_4.png]]
+|[[File:GreenTank_5.png]]
+|- style="text-align: center;"
+! style="text-align: center;" |Tank Name
+| colspan="1" |Egg Fledgling
+| colspan="1" |Petrified Chicken
+| colspan="1" |Ballon Wolf
+| colspan="1" |Spotted Hippo
+| colspan="1" |Flooped Pig
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 1
+
+Unlocks at Lv0
+| colspan="1" |[x%] Bonus Nest Speed For Every Hatchery Lv
+| colspan="1" |[x%] Chance To Not Lose Perk Points When Spending
+| colspan="1" |[x%] Chance To Get An AP Coupon When Ascending
+| colspan="1" |[x%] Bonus Damage For Each Time You Have Ascended
+| colspan="1" |[x%] Bonus Away Time in All Crafting Areas
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 2
+
+Unlocks at Lv50
+| colspan="1" |[x%] Bonus Vessels From Trekking
+| colspan="1" |[x%] Rarer Eggs
+| colspan="1" |[x%] Bonus Damage
+Damage Set 1
+| colspan="1" |[x%] Extra RP Gain For All Tanks
+| colspan="1" |[x%] Faster Nest Speed
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 3
+
+Unlocks at Lv150
+| colspan="1" |[x%] Cash From Monster Cash Set1
+| colspan="1" |[x%] Extra RP Gain For Tanks Of This Colour
+| colspan="1" |[x%] Bonus Research Exp Gained
+| colspan="1" |[x%] Botany Grow Speed
+| colspan="1" |[x%] Tank 2x Lvl Chance
+|}
+
+{| class="article-table" border="1" align="center"
+! scope="col" style="text-align: center;" |Orange Research Tanks
+! colspan="6" scope="col" style="text-align: center;" |Unlocks at Level 15
+|-
+|[[File:Tank_Orange.png|68px]]
+|[[File:OrangeTank_1.png]]
+|[[File:OrangeTank_2.png]]
+|[[File:OrangeTank_3.png]]
+|[[File:OrangeTank_4.png]]
+|[[File:OrangeTank_5.png]]
+|- style="text-align: center;"
+! style="text-align: center;" |Tank Name
+| colspan="1" |Pretzled Salt
+| colspan="1" |Warm Dawg
+| colspan="1" |Mutton Plop
+| colspan="1" |Beeg Peeza
+| colspan="1" |Freedom Sandwich
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 1
+
+Unlocks at Lv0
+| colspan="1" |Investing RP Boosts RP Gain By [x%] More
+| colspan="1" |[x%] Bonus Chance Of Hatching New Pets
+| colspan="1" |[x%] Bonus Hatchery Exp
+| colspan="1" |Cash Rift Gives [x%] Bonus Cash Gain Per Level
+| colspan="1" |[x%] Multiplicative Damage Per Fight Zone Unlocked
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 2
+
+Unlocks at Lv50
+| colspan="1" |[x%] Bonus Monster Kills
+| colspan="1" |[x%] Extra Perk Points
+| colspan="1" |[x%] Bonus Vessel From Trekking
+| colspan="1" |[x%] Tank 2x Lvl Chance
+| colspan="1" |[x%] Bonus Research Exp Gained
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 3
+
+Unlocks at Lv150
+| colspan="1" |[x%] Extra RP Gain For All Tanks
+| colspan="1" |[x%] Bonus Fish Caught
+| colspan="1" |[x%] Extra AP From Ascending
+| colspan="1" |[x%] Bonus Damage Damage Set 1
+| colspan="1" |[x%] Cash From Monster
+Cash Set 1
+|}
+
+{| class="article-table" border="1" align="center"
+! scope="col" style="text-align: center;" |Red Research Tanks
+! colspan="6" scope="col" style="text-align: center;" |Unlocks at Level 30
+|-
+|[[File:Tank_Red.png|68px]]
+|[[File:RedTank_1.png]]
+|[[File:RedTank_2.png]]
+|[[File:RedTank_3.png]]
+|[[File:RedTank_4.png]]
+|[[File:RedTank_5.png]]
+|- style="text-align: center;"
+! style="text-align: center;" |Tank Name
+| colspan="1" |Egg Guard
+| colspan="1" |Unmarried Finger
+| colspan="1" |Fatality Byproduct
+| colspan="1" |Kick Appendage
+| colspan="1" |Icey
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 1
+
+Unlocks at Lv0
+| colspan="1" |Bottom [x%] Of Possible Pet Values Removed in Hatching
+| colspan="1" |[x%] Higher RP Gain For Every 2k Total Skiller Level
+| colspan="1" |[x%] Bonus Fish Caught For Each Apothecary Level
+| colspan="1" |Max Cauldron Speed Level Increased By [+X] Levels
+| colspan="1" |[x%] Bonus Trekking Exp
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 2
+
+Unlocks at Lv50
+| colspan="1" |[x%] Bonus Asylum Materials Gained
+| colspan="1" |[x%] Bonus Ores
+| colspan="1" |
+[x%] Cash From Monsters
+
+Cash Set 2
+| colspan="1" |[x%] Faster Nest Speed
+| colspan="1" |[x%] Bonus Damage
+Damage Set 2
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 3
+
+Unlocks at Lv150
+| colspan="1" |[x%] Potion Brew Speed
+| colspan="1" |[x%] Bonus Vessels From Trekking
+| colspan="1" |[x%] Tank 2x Lvl Chance
+| colspan="1" |[x%] Bonus Fish Caught
+| colspan="1" |
+[x%] Extra RP Gain For All Tanks
+
+Set 2
+|}
+
+{| class="article-table" border="1" align="center"
+! scope="col" style="text-align: center;" |Yellow Research Tanks
+! colspan="6" scope="col" style="text-align: center;" |Unlocks at Level 40
+|-
+|[[File:Tank_Yellow.png|68px]]
+|[[File:YellowTank_1.png]]
+|[[File:YellowTank_2.png]]
+|[[File:YellowTank_3.png]]
+|[[File:YellowTank_4.png]]
+|[[File:YellowTank_5.png]]
+|- style="text-align: center;"
+! style="text-align: center;" |Tank Name
+| colspan="1" |Laundery Sack
+| colspan="1" |A Gift From Lava
+| colspan="1" |Gaublet
+| colspan="1" |Emerald Cluster
+| colspan="1" |Wife Tax
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 1
+
+Unlocks at Lv0
+| colspan="1" |[x%] More Cash Per Power Of 10 Yellow Vessels Owned
+| colspan="1" |Sometimes Gives Gems When Leveling Up... Ur Welcome
+| colspan="1" |[x%] Extra Vessels For Every 5k Total Skiller Level
+| colspan="1" |Increase Crop Bonus Given By Oresome Fishtastic Perk
+| colspan="1" |[x%] Bonus Away Time in Fighting
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 2
+
+Unlocks at Lv50
+| colspan="1" |[x%] Tank 2x Lvl Chance
+| colspan="1" |[x%] Extra Chain Level
+| colspan="1" |
+[x%] Potion Brew Speed
+| colspan="1" |[x%] Bonus Damage Damage Set2
+| colspan="1" |[x%] Bonus Vessels From Trekking
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 3
+
+Unlocks at Lv150
+| colspan="1" |[x%] Faster Nest Speed
+| colspan="1" |[x%] Rarer Eggs
+| colspan="1" |[x%] Cash From Monsters
+Cash Set 2
+| colspan="1" |[x%] Extra RP Gain For All Tanks
+| colspan="1" |
+[x%] Extra RP Gain For Tanks Of This Colour
+|}
+
+{| class="article-table" border="1" align="center"
+! scope="col" style="text-align: center;" |Pink Research Tanks
+! colspan="6" scope="col" style="text-align: center;" |Unlocks at Level 58
+|-
+|[[File:Tank_Pink.png|68px]]
+|[[File:PinkTank_1.png]]
+|[[File:PinkTank_2.png]]
+|[[File:PinkTank_3.png]]
+|[[File:PinkTank_4.png]]
+|[[File:PinkTank_5.png]]
+|- style="text-align: center;"
+! style="text-align: center;" |Tank Name
+| colspan="1" |Egg Prophet
+| colspan="1" |Wretched Wrench
+| colspan="1" |Ladle
+| colspan="1" |Spungbo Spatula
+| colspan="1" |Mope Mop
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 1
+
+Unlocks at Lv0
+| colspan="1" |New Pet Odds Boost From Egg Rarity is [aX] Larger
+| colspan="1" |Nest Upgrade Eggshell Costs Are [x%] Lower
+| colspan="1" |[x%] Bonus Damage For Every Trekking Level
+| colspan="1" |Capsuled Pets Gain [x%] More Exp
+| colspan="1" |Eviscerate Shrine Affects [x] More Monsters
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 2
+
+Unlocks at Lv50
+| colspan="1" |
+[x%] Cash From Monsters
+
+Cash Set 3
+| colspan="1" |[x%] Tilling Crops
+| colspan="1" |
+[x%] Extra RP Gain For All Tanks
+| colspan="1" |[x%] Bonus Rebirth BP
+| colspan="1" |[x%] Rarer Eggs
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 3
+
+Unlocks at Lv150
+| colspan="1" |[x%] Tank 2x Lvl Chance
+| colspan="1" |[x%] Potion Brew Speed
+| colspan="1" |[x%] Bonus Damage
+Damage Set 3
+| colspan="1" |[x%] Extra RP Gain For Tanks Of This Colour
+| colspan="1" |
+[x%] Faster Nest Speed
+|}
+
+{| class="article-table" border="1" align="center"
+! scope="col" style="text-align: center;" |Purple Research Tanks
+! colspan="6" scope="col" style="text-align: center;" |Unlocks at Level 78
+|-
+|[[File:Tank_Purple.png|68px]]
+|[[File:PurpleTank_1.png]]
+|[[File:PurpleTank_2.png]]
+|[[File:PurpleTank_3.png]]
+|[[File:PurpleTank_4.png]]
+|[[File:PurpleTank_5.png]]
+|- style="text-align: center;"
+! style="text-align: center;" |Tank Name
+| colspan="1" |Tilty Chair
+| colspan="1" |Our Best Friend
+| colspan="1" |Figgy Spinny
+| colspan="1" |Tank Tank
+| colspan="1" |Mini Lava Clone
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 1
+
+Unlocks at Lv0
+| colspan="1" |[x%] Bonus Travel Speed For Pet Trekking
+| colspan="1" |Bob Stares Into Your Eyes Longingly
+| colspan="1" |[x%] Bonus Damage Per Point Of Your Hoops Highscore
+| colspan="1" |Tank Level Ups Chain To Above Bonus [x%] Chance
+| colspan="1" |[x%] Bonus Away Time in Farming Areas
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 2
+
+Unlocks at Lv50
+| colspan="1" |
+[x%] Bonus Damage
+
+Damage Set 3
+| colspan="1" |[x%] Tank x2 Level Chance
+| colspan="1" |
+[x%] Bonus Rebirth BP
+| colspan="1" |[x%] Potion Brew Speed
+| colspan="1" |[x%] Botany Grow Speed
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 3
+
+Unlocks at Lv150
+| colspan="1" |[x%] Bonus Ores
+| colspan="1" |
+[x%] Cash From Monsters
+
+Cash Set 3
+| colspan="1" |[x%] Extra RP Gain For All Tanks
+| colspan="1" |[x%] Bonus Vessels From Trekking
+| colspan="1" |
+[x%] Extra Chain Level Chance
+|}
+
+{| class="article-table" border="1" align="center"
+! scope="col" style="text-align: center;" |Blue Research Tanks
+! colspan="6" scope="col" style="text-align: center;" |Unlocks at Level 100
+|-
+|[[File:Tank_Blue.png|68px]]
+|[[File:BlueTank_1.png]]
+|[[File:BlueTank_2.png]]
+|[[File:BlueTank_3.png]]
+|[[File:BlueTank_4.png]]
+|[[File:BlueTank_5.png]]
+|- style="text-align: center;"
+! style="text-align: center;" |Tank Name
+| colspan="1" |Omnipotent Egg
+| colspan="1" |Caustic Ooze
+| colspan="1" |Flexo Magnus
+| colspan="1" |Conjoined Nuts
+| colspan="1" |Peeper Creeper
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 1
+
+Unlocks at Lv0
+| colspan="1" |[x%] Egg Rarity Per Prestige Level Of All Nests
+| colspan="1" |Oresome Fishtastic BP Perk Gets [+x] Max Level
+| colspan="1" |[x%] Bonus Brew Speed Per Research Level
+| colspan="1" |Non Gray Star Cards Also Give [x] Grey Star Cards
+| colspan="1" |[x%] Bonus Perk Points Gained
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 2
+
+Unlocks at Lv50
+| colspan="1" |
+[x%] Bonus Rebirth BP
+| colspan="1" |
+[x%] Damage Bonus
+
+Damage Set 4
+| colspan="1" |
+[x%] Tank x2 Level Chance
+| colspan="1" |
+[x%] Cash From Monsters
+
+Cast Set 4
+| colspan="1" |[x%] Bonus Asylum Materials Gained
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 3
+
+Unlocks at Lv150
+| colspan="1" |[x%] Rarer Eggs
+| colspan="1" |
+[x%] Extra RP Gain For All Tanks
+| colspan="1" |[x%] Tilling Crops
+| colspan="1" |[x%] Faster Nest Speed
+| colspan="1" |
+[x%] Bonus To Away H2O Exp Gain
+|}
+
+{| class="article-table" border="1" align="center"
+! scope="col" style="text-align: center;" |White Research Tanks
+! colspan="6" scope="col" style="text-align: center;" |Unlocks at Level 126
+|-
+|[[File:Tank_White.png|68px]]
+|[[File:WhiteTank_1.png]]
+|[[File:WhiteTank_2.png]]
+|[[File:WhiteTank_3.png]]
+|[[File:WhiteTank_4.png]]
+|[[File:WhiteTank_5.png]]
+|- style="text-align: center;"
+! style="text-align: center;" |Tank Name
+| colspan="1" |Twenty One
+| colspan="1" |Gambol
+| colspan="1" |Crap Die
+| colspan="1" |Whoops My Bad
+| colspan="1" |Empty Wallet
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 1
+
+Unlocks at Lv0
+| colspan="1" |Raises Max Level Of Prodigous And Scavenge Shrines By [x]
+| colspan="1" |Main Lab Upgrade Odds Are [aX] More Likely
+| colspan="1" |[x%] Bonus Crops For Every Red Land Overlevel
+| colspan="1" |Raises Max Level Of Best Rest And Talent Shrines By [x]
+| colspan="1" |Reduces Smithing Cost Cap By [x%]
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 2
+
+Unlocks at Lv50
+| colspan="1" |
+All Skills Start With [x] Additional Levels
+| colspan="1" |
+[x%] Extra RP Gain For All Tanks
+| colspan="1" |
+[x%] Extra Perk Points
+| colspan="1" |
+[x%] Bonus Monster Kills
+| colspan="1" | +[x%] Tank 2x Level Chance
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 3
+
+Unlocks at Lv150
+| colspan="1" |[x%] Bonus Vessels From Trekking
+| colspan="1" |
+[x%] Faster Nest Speed
+| colspan="1" |[x%] Extra Chain Level Chance
+| colspan="1" |
+[x%] Cash From Monsters
+
+Cash Set 4
+| colspan="1" |
+[x%] Bonus Damage
+
+Damage Set 4
+|}
+
+{| class="article-table" border="1" align="center"
+! scope="col" style="text-align: center;" |Blood Research Tanks
+! colspan="6" scope="col" style="text-align: center;" |Unlocks at Level 170
+|-
+|[[File:Tank_Blood.png|68px]]
+|[[File:BloodTank_1.png]]
+|[[File:BloodTank_2.png]]
+|[[File:BloodTank_3.png]]
+|[[File:BloodTank_4.png]]
+|[[File:BloodTank_5.png]]
+|- style="text-align: center;"
+! style="text-align: center;" |Tank Name
+| colspan="1" |Hell Brick
+| colspan="1" |Voodoo
+| colspan="1" |Evil Star Thing
+| colspan="1" |Babbels Horn
+| colspan="1" |Soul of Bluehero 
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 1
+
+Unlocks at Lv0
+| colspan="1" |Djinn Trinket gives [x%] DMG Per Trekking Level
+| colspan="1" |Unparalleled Potion has [+x%] Bigger Affect
+| colspan="1" |[x%] Chance To Get 2X Away Time In Pet Zones
+| colspan="1" |All Tank Bonuses Level Up [+x%] Faster 
+| colspan="1" |Boosts Tank Set Bonuses By the Power of [x] 
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 2
+
+Unlocks at Lv50
+| colspan="1" |
+[x%] Extra RP Gain For All Tanks
+| colspan="1" |
+[x%] Cash From Monsters Cash Set 5 
+| colspan="1" |
+[+x%] Bonus Rebirth BP
+| colspan="1" |
+[x%] Bonus To Away H2O Gain
+| colspan="1" |[x%] Extra RP Gain For Tanks Of This Colour 
+|- style="text-align: center;"
+! style="text-align: center;" |
+Tier 3
+
+Unlocks at Lv150
+| colspan="1" |[x%] Bonus Damage Damage Set 5
+| colspan="1" |
+[+x%] Tank 2x Lvl Chance 
+| colspan="1" |[x%] Bonus Research EXP Gained 
+| colspan="1" |[x%] Extra Chain Lvl Chance 
+| colspan="1" |
+All Skills Start With [x] Additional Levels 
+|}
+
+[[Category:Pets]]

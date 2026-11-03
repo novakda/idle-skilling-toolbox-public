@@ -1,0 +1,754 @@
+{| align="center"
+|[[File:Mountainsbanner.png|150px|link=Mountains]]
+|<<<
+|[[File:Themistbanner.png|link=The Mist]]
+|>>>
+|[[File:Dungeon_banner.png|150px|link=Dungeon]]
+|}
+
+
+The Mist is the fourth zone in the [[Fight|Fight Screen]], featuring 21 unique enemies. Defeating Keymaster Z at the end of the zone unlocks access to the next zone, [[Dungeon]]. Clearing The Mist also unlocks the fourth row of [[Ascension]] perks and unlocks [[Rebirth|Rebirth]], a second way to Ascend.
+
+Every monster in the The Mist has a 1/420 chance to drop a unique [[Cards|Card]], and have +60% chance afterwards to drop higher quality star cards.
+
+The following table shows the '''base''' values for each monster in the zone.
+
+{| class="article-table" border="1"
+|-
+! scope="col" colspan="2" style="text-align: center;"|Monsters
+! scope="col" |Damage
+! scope="col" |Health
+! scope="col" |Gold
+! scope="col" |Kill Req.
+! scope="col" |Card Bonus
+|-
+|rowspan="3"|[[File:Soda.png|50px]]
+|Soda 1
+|30714
+|100.31B
+|1.832M
+|80
+|rowspan="3"|10% Rift EXP
+|-
+|Soda 2
+|31745
+|118.99B
+|1.871M
+|120
+|-
+|Soda 3
+|32785
+|141.89B
+|1.913M
+|160
+|-
+|rowspan="3"|[[File:Sweetz.png|50px]]
+|Sweetz 1
+|33835
+|170.08B
+|1.959M
+|200
+|rowspan="3"|7% Acolyte Efficiency
+|-
+|Sweetz 2
+|34893
+|204.91B
+|2.009M
+|240
+|-
+|Sweetz 3
+|35961
+|248.15B
+|2.066M
+|280
+|-
+|rowspan="3"|[[File:Verm.png|50px]]
+|Verm 1
+|37039
+|302.03B
+|2.130M
+|320
+|rowspan="3"|5% Strength EXP Chance
+|-
+|Verm 2
+|38127
+|369.44B
+|2.202M
+|360
+|-
+|Verm 3
+|39224
+|454.13B
+|2.282M
+|400
+|-
+|rowspan="3"|[[File:Mist_Mites.png|50px]]
+|Mist Mites 1
+|40333
+|560.97B
+|2.372M
+|440
+|rowspan="3"|10% Idle Attack Speed
+|-
+|Mist Mites 2
+|41452
+|696.28B
+|2.471M
+|480
+|-
+|Mist Mites 3
+|42582
+|868.39B
+|2.581M
+|520
+|-
+|rowspan="3"|[[File:Piglo.png|50px]]
+|Piglo 1
+|43723
+|1.08T
+|2.702M
+|560
+|rowspan="3"|15% Healing from Heal Skill
+|-
+|Piglo 2
+|44876
+|1.37T
+|2.835M
+|600
+|-
+|Piglo 3
+|46041
+|1.73T
+|2.981M
+|640
+|-
+|rowspan="3"|[[File:Catsup.png|50px]]
+|Catsup 1
+|47218
+|2.2T
+|3.139M
+|680
+|rowspan="3"|7% Cultist Efficiency
+|-
+|Catsup 2
+|48407
+|2.81T
+|3.311M
+|720
+|-
+|Catsup 3
+|49610
+|3.05T
+|3.497M
+|760
+|-
+|rowspan="3"|[[File:Edgy_Rock.png|50px]]
+|Edgy Rock 1
+|50825
+|3.33T
+|3.698M
+|800
+|rowspan="3"|5% Mining EXP Chance
+|-
+|Edgy Rock 2
+|52053
+|3.63T
+|3.914M
+|840
+|-
+|Edgy Rock 3
+|53295
+|3.96T
+|4.145M
+|880
+|-
+|rowspan="3"|[[File:Gordy.png|50px]]
+|Gordy 1
+|54551
+|4.32T
+|4.392M
+|920
+|rowspan="3"|1.4% Crit Chance
+|-
+|Gordy 2
+|55821
+|4.72T
+|4.656M
+|960
+|-
+|Gordy 3
+|57106
+|5.16T
+|4.937M
+|1000
+|-
+|rowspan="3"|[[File:Spinail.png|50px]]
+|Spinail 1
+|58405
+|5.65T
+|5.235M
+|1040
+|rowspan="3"|5% Attack EXP Chance
+|-
+|Spinail 2
+|59719
+|6.2T
+|5.552M
+|1080
+|-
+|Spinail 3
+|61048
+|6.8T
+|5.886M
+|1120
+|-
+|rowspan="3"|[[File:Spectre_Bob.png|50px]]
+|Spectre Bob 1
+|62393
+|7.46T
+|6.240M
+|1160
+|rowspan="3"|9% Raid Drop Luck
+|-
+|Spectre Bob 2
+|63754
+|8.2T
+|6.612M
+|1200
+|-
+|Spectre Bob 3
+|65131
+|9.01T
+|7.005M
+|1240
+|-
+|rowspan="3"|[[File:Octogon.png|50px]]
+|Octogon 1
+|66524
+|9.92T
+|7.417M
+|1280
+|rowspan="3"|5% Spirit EXP Chance
+|-
+|Octogon 2
+|67934
+|10.92T
+|7.850M
+|1320
+|-
+|Octogon 3
+|69361
+|12.04T
+|8.304M
+|1360
+|-
+|rowspan="3"|[[File:A_Sea_Monstr.png|50px]]
+|A Sea Monstr 1
+|70806
+|13.28T
+|8.779M
+|1400
+|rowspan="3"|8% Damage from Trinkets
+|-
+|A Sea Monstr 2
+|72267
+|14.65T
+|9.276M
+|1440
+|-
+|A Sea Monstr 3
+|73747
+|16.19T
+|9.795M
+|1480
+|-
+|rowspan="3"|[[File:Evil_Dandy.png|50px]]
+|Evil Dandy 1
+|75245
+|17.9T
+|10.336M
+|1520
+|rowspan="3"|5% Summon EXP Chance
+|-
+|Evil Dandy 2
+|76761
+|19.8T
+|10.900M
+|1560
+|-
+|Evil Dandy 3
+|78295
+|21.92T
+|11.488M
+|1600
+|-
+|rowspan="3"|[[File:Squode.png|50px]]
+|Squode 1
+|79849
+|24.29T
+|12.099M
+|1640
+|rowspan="3"|8% Base Damage
+|-
+|Squode 2
+|81422
+|26.94T
+|12.734M
+|1680
+|-
+|Squode 3
+|83014
+|29.89T
+|13.393M
+|1720
+|-
+|rowspan="3"|[[File:Hyper_Jelly.png|50px]]
+|Hyper Jelly 1
+|84626
+|33.19T
+|14.077M
+|1760
+|rowspan="3"|10% Crit Damage
+|-
+|Hyper Jelly 2
+|86259
+|36.88T
+|14.786M
+|1800
+|-
+|Hyper Jelly 3
+|87911
+|41.01T
+|15.521M
+|1840
+|-
+|rowspan="3"|[[File:Totem_Goop.png|50px]]
+|Totem Goop 1
+|89585
+|45.64T
+|16.282M
+|1880
+|rowspan="3"|9% Ores from Mining
+|-
+|Totem Goop 2
+|91279
+|50.82T
+|17.068M
+|1920
+|-
+|Totem Goop 3
+|92994
+|56.63T
+|17.881M
+|1960
+|-
+|rowspan="3"|[[File:Mystism.png|50px]]
+|Mystism 1
+|94731
+|63.15T
+|18.721M
+|2000
+|rowspan="3"|7% Accuracy
+|-
+|Mystism 2
+|96490
+|70.47T
+|19.588M
+|2040
+|-
+|Mystism 3
+|98271
+|78.7T
+|20.482M
+|2080
+|-
+|rowspan="3"|[[File:Horizon.png|50px]]
+|Horizon 1
+|100074
+|87.94T
+|21.405M
+|2120
+|rowspan="3"|12% Total Health
+|-
+|Horizon 2
+|101899
+|98.34T
+|22.355M
+|2160
+|-
+|Horizon 3
+|103748
+|110.04T
+|23.334M
+|2200
+|-
+|[[File:Disciple_Z.png|50px]]
+|Disciple Z
+|105620
+|123.23T
+|24.342M
+|2240
+|5% Strength EXP Chance
+|-
+|[[File:Keymaster_Z.png|50px]]
+|Keymaster Z
+|107515
+|138.09T
+|25.379M
+|2280
+|5% Card Drop Chance
+|-
+|[[File:The_Mist_Glitch.png|50px]]
+|Glitch 1
+|109434
+|154.85T
+|26.446M
+|2320
+|5% Mining EXP Gained
+|-
+|
+|Glitch 2
+|111377
+|173.76T
+|27.542M
+|2360
+| style="text-align: center;"| -
+|-
+|
+|Glitch 3
+|113345
+|195.13T
+|28.66M
+|2400
+| style="text-align: center;"| -
+|-
+|
+|Glitch 4
+|115337
+|219.27T
+|29.82M
+|2440
+| style="text-align: center;"| -
+|-
+|
+|Glitch 5
+|117353
+|246.57T
+|31.01M
+|2480
+| style="text-align: center;"| -
+|-
+|
+|Glitch 6
+|119395
+|277.48T
+|32.23M
+|2520
+| style="text-align: center;"| -
+|-
+|
+|Glitch 7
+|121463
+|312.47T
+|33.48M
+|2560
+| style="text-align: center;"| -
+|-
+|
+|Glitch 8
+|123556
+|352.13T
+|34.76M
+|2600
+| style="text-align: center;"| -
+|-
+|
+|Glitch 9
+|125675
+|397.1T
+|36.07M
+|2640
+| style="text-align: center;"| -
+|-
+|
+|Glitch 10
+|127821
+|448.14T
+|37.42M
+|2680
+| style="text-align: center;"| -
+|-
+|
+|Glitch 11
+|129993
+|506.1T
+|38.8M
+|2720
+| style="text-align: center;"| -
+|-
+|
+|Glitch 12
+|132192
+|571.97T
+|40.21M
+|2760
+| style="text-align: center;"| -
+|-
+|
+|Glitch 13
+|134418
+|646.88T
+|41.65M
+|2800
+| style="text-align: center;"| -
+|-
+|
+|Glitch 14
+|136671
+|732.12T
+|43.13M
+|2840
+| style="text-align: center;"| -
+|-
+|
+|Glitch 15
+|138953
+|829.19T
+|44.64M
+|2880
+| style="text-align: center;"| -
+|-
+|
+|Glitch 16
+|141262
+|939.82T
+|46.19M
+|2920
+| style="text-align: center;"| -
+|-
+|
+|Glitch 17
+|143599
+|1.06Q
+|47.77M
+|2960
+| style="text-align: center;"| -
+|-
+|
+|Glitch 18
+|145965
+|1.2Q
+|49.38M
+|3000
+| style="text-align: center;"| -
+|-
+|
+|Glitch 19
+|148360
+|1.37Q
+|51.03M
+|3040
+| style="text-align: center;"| -
+|-
+|
+|Glitch 20
+|150784
+|1.56Q
+|52.72M
+|3080
+| style="text-align: center;"| -
+|-
+|
+|Glitch 21
+|153237
+|1.77Q
+|54.44M
+|3120
+| style="text-align: center;"| -
+|-
+|
+|Glitch 22
+|155720
+|2.02Q
+|56.2M
+|3160
+| style="text-align: center;"| -
+|-
+|
+|Glitch 23
+|158233
+|2.3Q
+|57.99M
+|3200
+| style="text-align: center;"| -
+|-
+|
+|Glitch 24
+|160776
+|2.62Q
+|59.82M
+|3240
+| style="text-align: center;"| -
+|-
+|
+|Glitch 25
+|163350
+|2.99Q
+|61.68M
+|3280
+| style="text-align: center;"| -
+|-
+|
+|Glitch 26
+|165955
+|3.42Q
+|63.58M
+|3320
+| style="text-align: center;"| -
+|-
+|
+|Glitch 27
+|168590
+|3.9Q
+|65.52M
+|3360
+| style="text-align: center;"| -
+|-
+|
+|Glitch 28
+|171257
+|4.47Q
+|67.5M
+|3400
+| style="text-align: center;"| -
+|-
+|
+|Glitch 29
+|173956
+|5.11Q
+|69.52M
+|3440
+| style="text-align: center;"| -
+|-
+|
+|Glitch 30
+|176686
+|5.85Q
+|71.57M
+|3480
+| style="text-align: center;"| -
+|-
+|
+|Glitch 31
+|179449
+|6.71Q
+|73.66M
+|3520
+| style="text-align: center;"| -
+|-
+|
+|Glitch 32
+|182244
+|7.69Q
+|75.79M
+|3560
+| style="text-align: center;"| -
+|-
+|
+|Glitch 33
+|185072
+|8.83Q
+|77.96M
+|3600
+| style="text-align: center;"| -
+|-
+|
+|Glitch 34
+|187933
+|10.14Q
+|80.16M
+|3640
+| style="text-align: center;"| -
+|-
+|
+|Glitch 35
+|190828
+|11.65Q
+|82.41M
+|3680
+| style="text-align: center;"| -
+|-
+|
+|Glitch 36
+|193756
+|13.4Q
+|84.7M
+|3720
+| style="text-align: center;"| -
+|-
+|
+|Glitch 37
+|196718
+|15.42Q
+|87.02M
+|3760
+| style="text-align: center;"| -
+|-
+|
+|Glitch 38
+|199714
+|17.76Q
+|89.39M
+|3800
+| style="text-align: center;"| -
+|-
+|
+|Glitch 39
+|202744
+|20.46Q
+|91.8M
+|3840
+| style="text-align: center;"| -
+|-
+|
+|Glitch 40
+|205810
+|23.6Q
+|94.24M
+|3880
+| style="text-align: center;"| -
+|-
+|
+|Glitch 41
+|208910
+|27.24Q
+|96.73M
+|3920
+| style="text-align: center;"| -
+|-
+|
+|Glitch 42
+|212046
+|31.46Q
+|99.26M
+|3960
+| style="text-align: center;"| -
+|-
+|
+|Glitch 43
+|215217
+|36.36Q
+|101.83M
+|4000
+| style="text-align: center;"| -
+|-
+|
+|Glitch 44
+|218424
+|42.05Q
+|104.45M
+| style="text-align: center;"| -
+| style="text-align: center;"| -
+|}
+[[Category:Zone]]
+[[Category:Fighting]]

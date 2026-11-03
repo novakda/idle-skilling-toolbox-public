@@ -1,0 +1,1452 @@
+[
+ {
+  "_page": "Tinkering",
+  "_section": "Materials",
+  "_table": 0,
+  "CrusadeLevel": 1,
+  "_images": [
+   "The_bruiser.png",
+   "Common1.png",
+   "Common2.png",
+   "Common11.png",
+   "Uncommon1.png",
+   "Uncommon10.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Materials",
+  "_table": 0,
+  "CrusadeLevel": 5,
+  "_images": [
+   "Toxic_sludge.png",
+   "Common6.png",
+   "Common12.png",
+   "Common7.png",
+   "Uncommon4.png",
+   "Uncommon9.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Materials",
+  "_table": 0,
+  "CrusadeLevel": 10,
+  "_images": [
+   "Killer_rabbit.png",
+   "Common4.png",
+   "Common8.png",
+   "Common14.png",
+   "Uncommon7.png",
+   "Uncommon5.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Materials",
+  "_table": 0,
+  "CrusadeLevel": 15,
+  "_images": [
+   "Desert_giant.png",
+   "Common5.png",
+   "Common3.png",
+   "Common10.png",
+   "Rare1.png",
+   "Rare4.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Materials",
+  "_table": 0,
+  "CrusadeLevel": 20,
+  "_images": [
+   "Pincermin.png",
+   "Common9.png",
+   "Common13.png",
+   "Uncommon3.png",
+   "Rare11.png",
+   "Epic1.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Materials",
+  "_table": 0,
+  "CrusadeLevel": 30,
+  "_images": [
+   "Desert_wurm.png",
+   "Common15.png",
+   "Common16.png",
+   "Uncommon6.png",
+   "Uncommon8.png",
+   "Epic3.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Materials",
+  "_table": 0,
+  "CrusadeLevel": 40,
+  "_images": [
+   "Faust.png",
+   "Uncommon11.png",
+   "Uncommon2.png",
+   "Rare2.png",
+   "Epic10.png",
+   "Epic8.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Materials",
+  "_table": 0,
+  "CrusadeLevel": 50,
+  "_images": [
+   "Arachneon.png",
+   "Rare7.png",
+   "Rare5.png",
+   "Epic2.png",
+   "Epic5.png",
+   "Legendary9.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Materials",
+  "_table": 0,
+  "CrusadeLevel": 60,
+  "_images": [
+   "Gheist.png",
+   "Rare6.png",
+   "Rare8.png",
+   "Rare10.png",
+   "Epic9.png",
+   "Legendary1.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Materials",
+  "_table": 0,
+  "CrusadeLevel": 70,
+  "_images": [
+   "Basilisk.png",
+   "Rare9.png",
+   "Rare3.png",
+   "Epic4.png",
+   "Legendary10.png",
+   "Legendary4.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Materials",
+  "_table": 0,
+  "CrusadeLevel": 80,
+  "_images": [
+   "Blobulytes.png",
+   "Epic6.png",
+   "Epic11.png",
+   "Epic7.png",
+   "Legendary5.png",
+   "Pearl2.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Materials",
+  "_table": 0,
+  "CrusadeLevel": 90,
+  "_images": [
+   "Puppeteer.png",
+   "Legendary2.png",
+   "Legendary6.png",
+   "Legendary8.png",
+   "Pearl1.png",
+   "Pearl6.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Materials",
+  "_table": 0,
+  "CrusadeLevel": 99,
+  "_images": [
+   "Narcissus.png",
+   "Legendary3.png",
+   "Legendary7.png",
+   "Pearl8.png",
+   "Pearl5.png",
+   "Pearl9.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Materials",
+  "_table": 0,
+  "CrusadeLevel": 120,
+  "_images": [
+   "Crusader crapotti.png",
+   "Uncommon12.png",
+   "Rare12.png",
+   "Epic12.png",
+   "Legendary11.png",
+   "Perarlescent7.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Materials",
+  "_table": 0,
+  "CrusadeLevel": 140,
+  "_images": [
+   "Crusader father of all.png",
+   "Rare13.png",
+   "Epic13.png",
+   "Legendary12.png",
+   "Pearlescent8.png",
+   "Pearlescent9.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Weapons",
+  "_table": 1,
+  "Crusading Level": 5,
+  "Level": 1,
+  "Bonus 1": "500 Base Damage",
+  "Bonus 2": "20% Claw Damage",
+  "Bonus 3 (Unlocked)": "200% Monster Cash",
+  "Material Costs": 250,
+  "Material Costs_2": 240,
+  "Previous Tier": "-",
+  "_images": [
+   "Wooden_spear.png",
+   "Common1.png",
+   "Common2.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Weapons",
+  "_table": 1,
+  "Crusading Level": 40,
+  "Level": 10,
+  "Bonus 1": "2K Base Damage",
+  "Bonus 2": "3% Crit Chance",
+  "Bonus 3 (Unlocked)": "10% Nest Speed",
+  "Material Costs": 86,
+  "Material Costs_2": "2.5K",
+  "Previous Tier": 25,
+  "_images": [
+   "Metal_trident.png",
+   "Uncommon2.png",
+   "Common3.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Weapons",
+  "_table": 1,
+  "Crusading Level": 40,
+  "Level": 25,
+  "Bonus 1": "10K Base Damage",
+  "Bonus 2": "15% Idle Speed",
+  "Bonus 3 (Unlocked)": "12% Dig Down Amount",
+  "Material Costs": 19,
+  "Material Costs_2": 440,
+  "Previous Tier": 15,
+  "_images": [
+   "Royal_bayonet.png",
+   "Rare2.png",
+   "Uncommon5.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Weapons",
+  "_table": 1,
+  "Crusading Level": 60,
+  "Level": 50,
+  "Bonus 1": "35K Base Damage",
+  "Bonus 2": "100% Idle Damage",
+  "Bonus 3 (Unlocked)": "70% Flowers Gained Per Botany Level",
+  "Material Costs": 8,
+  "Material Costs_2": 57,
+  "Previous Tier": 8,
+  "_images": [
+   "Stalagmitite.png",
+   "Epic8.png",
+   "Rare6.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Weapons",
+  "_table": 1,
+  "Crusading Level": 90,
+  "Level": 75,
+  "Bonus 1": "100K Base Damage",
+  "Bonus 2": "150% Total Damage",
+  "Bonus 3 (Unlocked)": "50% Tilling EXP Per H2O Level",
+  "Material Costs": 5,
+  "Material Costs_2": 18,
+  "Previous Tier": 4,
+  "_images": [
+   "Blood_screamer.png",
+   "Legendary2.png",
+   "Epic7.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Weapons",
+  "_table": 1,
+  "Crusading Level": 15,
+  "Level": 5,
+  "Bonus 1": "20% Total Damage",
+  "Bonus 2": "40% Meteor Damage",
+  "Bonus 3 (Unlocked)": "10% Flower Pot EXP",
+  "Material Costs": 288,
+  "Material Costs_2": 264,
+  "Previous Tier": "-",
+  "_images": [
+   "Sword.png",
+   "Common3.png",
+   "Common6.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Weapons",
+  "_table": 1,
+  "Crusading Level": 40,
+  "Level": 15,
+  "Bonus 1": "50% Total Damage",
+  "Bonus 2": "50% Smite Damage",
+  "Bonus 3 (Unlocked)": "17% Crop Land EXP",
+  "Material Costs": 446,
+  "Material Costs_2": "3K",
+  "Previous Tier": 25,
+  "_images": [
+   "Warrior_axe.png",
+   "Uncommon2.png",
+   "Common13.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Weapons",
+  "_table": 1,
+  "Crusading Level": 70,
+  "Level": 35,
+  "Bonus 1": "100% Total Damage",
+  "Bonus 2": "100 Ignore Defense",
+  "Bonus 3 (Unlocked)": "5% Spelunker Speed",
+  "Material Costs": 23,
+  "Material Costs_2": 21,
+  "Previous Tier": 15,
+  "_images": [
+   "Flaming_katana.png",
+   "Rare3.png",
+   "Rare5.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Weapons",
+  "_table": 1,
+  "Crusading Level": 60,
+  "Level": 60,
+  "Bonus 1": "200% Total Damage",
+  "Bonus 2": "50% Total HP",
+  "Bonus 3 (Unlocked)": "40% Crusade Multiplier",
+  "Material Costs": 8,
+  "Material Costs_2": 78,
+  "Previous Tier": 8,
+  "_images": [
+   "Heroic_rapier.png",
+   "Epic9.png",
+   "Rare8.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Weapons",
+  "_table": 1,
+  "Crusading Level": 99,
+  "Level": 80,
+  "Bonus 1": "400% Total Damage",
+  "Bonus 2": "100% Crit Damage",
+  "Bonus 3 (Unlocked)": "70% New Flower Odds",
+  "Material Costs": 6,
+  "Material Costs_2": 21,
+  "Previous Tier": 4,
+  "_images": [
+   "Crystal_basher.png",
+   "Legendary3.png",
+   "Epic2.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Helmets",
+  "_table": 2,
+  "Crusading Level": 5,
+  "Level": 1,
+  "Bonus 1": "2 Crusaders",
+  "Bonus 2": "4% Fight Bonus",
+  "Bonus 3 (Unlocked)": "110% Rift EXP",
+  "Material Costs": 172,
+  "Material Costs_2": 238,
+  "Previous Tier": "-",
+  "_images": [
+   "Gaurd_helmet.png",
+   "Common12.png",
+   "Common6.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Helmets",
+  "_table": 2,
+  "Crusading Level": 30,
+  "Level": 8,
+  "Bonus 1": "4 Crusaders",
+  "Bonus 2": "400 Base HP",
+  "Bonus 3 (Unlocked)": "20% Tilling EXP Per H2O Level",
+  "Material Costs": 91,
+  "Material Costs_2": 91,
+  "Previous Tier": 25,
+  "_images": [
+   "Viking_horns.png",
+   "Uncommon6.png",
+   "Uncommon4.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Helmets",
+  "_table": 2,
+  "Crusading Level": 40,
+  "Level": 20,
+  "Bonus 1": "6 Crusaders",
+  "Bonus 2": "50% Monster Cash",
+  "Bonus 3 (Unlocked)": "23% Nest Speed",
+  "Material Costs": 22,
+  "Material Costs_2": 520,
+  "Previous Tier": 15,
+  "_images": [
+   "Trojan_helmet.png",
+   "Rare2.png",
+   "Uncommon9.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Helmets",
+  "_table": 2,
+  "Crusading Level": 70,
+  "Level": 40,
+  "Bonus 1": "8 Crusaders",
+  "Bonus 2": "70% Total HP",
+  "Bonus 3 (Unlocked)": "2% New Pet Odds",
+  "Material Costs": 10,
+  "Material Costs_2": 76,
+  "Previous Tier": 8,
+  "_images": [
+   "Crystal_crown.png",
+   "Epic4.png",
+   "Rare9.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Helmets",
+  "_table": 2,
+  "Crusading Level": 90,
+  "Level": 65,
+  "Bonus 1": "10 Crusaders",
+  "Bonus 2": "1% Ignore Defense",
+  "Bonus 3 (Unlocked)": "150% Flowers Gained Per Botany Level",
+  "Material Costs": 6,
+  "Material Costs_2": 19,
+  "Previous Tier": 4,
+  "_images": [
+   "Demons_head.png",
+   "Legendary8.png",
+   "Epic3.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Helmets",
+  "_table": 2,
+  "Crusading Level": 15,
+  "Level": 3,
+  "Bonus 1": "10% Fight Bonus",
+  "Bonus 2": "10% Accuracy",
+  "Bonus 3 (Unlocked)": "25% Mining EXP",
+  "Material Costs": 280,
+  "Material Costs_2": 245,
+  "Previous Tier": "-",
+  "_images": [
+   "Headband.png",
+   "Common5.png",
+   "Common8.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Helmets",
+  "_table": 2,
+  "Crusading Level": 30,
+  "Level": 13,
+  "Bonus 1": "20% Fight Bonus",
+  "Bonus 2": "25% Fish Caught",
+  "Bonus 3 (Unlocked)": "1% Research EXP",
+  "Material Costs": 107,
+  "Material Costs_2": "3.2K",
+  "Previous Tier": 25,
+  "_images": [
+   "Eyepatch.png",
+   "Uncommon3.png",
+   "Common15.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Helmets",
+  "_table": 2,
+  "Crusading Level": 50,
+  "Level": 30,
+  "Bonus 1": "40% Fight Bonus",
+  "Bonus 2": "3% Crit Chance",
+  "Bonus 3 (Unlocked)": "1% Spelunker Learning Rate",
+  "Material Costs": 22,
+  "Material Costs_2": 443,
+  "Previous Tier": 15,
+  "_images": [
+   "Monocle.png",
+   "Rare5.png",
+   "Uncommon8.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Helmets",
+  "_table": 2,
+  "Crusading Level": 80,
+  "Level": 55,
+  "Bonus 1": "80% Fight Bonus",
+  "Bonus 2": "10% Shield Regen",
+  "Bonus 3 (Unlocked)": "600% Total Damage",
+  "Material Costs": 8,
+  "Material Costs_2": 69,
+  "Previous Tier": 8,
+  "_images": [
+   "Halo.png",
+   "Epic11.png",
+   "Rare10.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Helmets",
+  "_table": 2,
+  "Crusading Level": 99,
+  "Level": 77,
+  "Bonus 1": "200% Fight Bonus",
+  "Bonus 2": "20% Card Chance",
+  "Bonus 3 (Unlocked)": "300% Crusade Multiplier",
+  "Material Costs": 2,
+  "Material Costs_2": 6,
+  "Previous Tier": 4,
+  "_images": [
+   "Blue_party_hat.png",
+   "Pearl2.png",
+   "Legendary7.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Shirts",
+  "_table": 3,
+  "Crusading Level": 10,
+  "Level": 1,
+  "Bonus 1": "25% Max Shields",
+  "Bonus 2": "25% Away Str EXP",
+  "Bonus 3 (Unlocked)": "100% Crusade EXP",
+  "Material Costs": 262,
+  "Material Costs_2": 209,
+  "Previous Tier": "-",
+  "_images": [
+   "T_shirt.png",
+   "Common4.png",
+   "Common8.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Shirts",
+  "_table": 3,
+  "Crusading Level": 20,
+  "Level": 12,
+  "Bonus 1": "50% Max Shields",
+  "Bonus 2": "30% Ores Mined",
+  "Bonus 3 (Unlocked)": "1% New Pet Odds",
+  "Material Costs": 87,
+  "Material Costs_2": "2.7K",
+  "Previous Tier": 25,
+  "_images": [
+   "Rock_garb.png",
+   "Uncommon7.png",
+   "Common9.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Shirts",
+  "_table": 3,
+  "Crusading Level": 20,
+  "Level": 26,
+  "Bonus 1": "125% Max Shields",
+  "Bonus 2": "75% Idle Damage",
+  "Bonus 3 (Unlocked)": "15% Spelunker Dig Down Amount",
+  "Material Costs": 462,
+  "Material Costs_2": 505,
+  "Previous Tier": 15,
+  "_images": [
+   "Hide_armor.png",
+   "Uncommon3.png",
+   "Uncommon4.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Shirts",
+  "_table": 3,
+  "Crusading Level": 60,
+  "Level": 52,
+  "Bonus 1": "250% Max Shields",
+  "Bonus 2": "4 Crusaders",
+  "Bonus 3 (Unlocked)": "37% New Flower Odds",
+  "Material Costs": 8,
+  "Material Costs_2": 57,
+  "Previous Tier": 8,
+  "_images": [
+   "Parallax_armor.png",
+   "Epic9.png",
+   "Rare6.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Shirts",
+  "_table": 3,
+  "Crusading Level": 70,
+  "Level": 70,
+  "Bonus 1": "500% Max Shields",
+  "Bonus 2": "15% Shield Regen",
+  "Bonus 3 (Unlocked)": "60% Nest Speed",
+  "Material Costs": 6,
+  "Material Costs_2": 195,
+  "Previous Tier": 4,
+  "_images": [
+   "Refraction_top.png",
+   "Legendary10.png",
+   "Rare11.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Shirts",
+  "_table": 3,
+  "Crusading Level": 15,
+  "Level": 7,
+  "Bonus 1": "25% Idle Damage",
+  "Bonus 2": "40% Rift EXP",
+  "Bonus 3 (Unlocked)": "2% Trekking Speed",
+  "Material Costs": 245,
+  "Material Costs_2": 243,
+  "Previous Tier": "-",
+  "_images": [
+   "Leaf_sash.png",
+   "Common10.png",
+   "Common7.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Shirts",
+  "_table": 3,
+  "Crusading Level": 30,
+  "Level": 18,
+  "Bonus 1": "50% Idle Damage",
+  "Bonus 2": "15 Ignore Defense",
+  "Bonus 3 (Unlocked)": "50% Botany Grow Speed",
+  "Material Costs": "3.2K",
+  "Material Costs_2": "2.9K",
+  "Previous Tier": 25,
+  "_images": [
+   "Tribal_tattoo.png",
+   "Common15.png",
+   "Common16.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Shirts",
+  "_table": 3,
+  "Crusading Level": 20,
+  "Level": 31,
+  "Bonus 1": "100% Idle Damage",
+  "Bonus 2": "100% Max Shields",
+  "Bonus 3 (Unlocked)": "25% Flower Pot EXP",
+  "Material Costs": 608,
+  "Material Costs_2": 534,
+  "Previous Tier": 15,
+  "_images": [
+   "Seat_belts.png",
+   "Uncommon11.png",
+   "Uncommon3.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Shirts",
+  "_table": 3,
+  "Crusading Level": 50,
+  "Level": 63,
+  "Bonus 1": "150% Idle Damage",
+  "Bonus 2": "60% Claw Damage",
+  "Bonus 3 (Unlocked)": "80% Crops Gained Per Tilling Level",
+  "Material Costs": 9,
+  "Material Costs_2": 77,
+  "Previous Tier": 8,
+  "_images": [
+   "Chilled_veins.png",
+   "Epic8.png",
+   "Rare7.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Shirts",
+  "_table": 3,
+  "Crusading Level": 90,
+  "Level": 82,
+  "Bonus 1": "250% Idle Damage",
+  "Bonus 2": "175% Total Damage",
+  "Bonus 3 (Unlocked)": "125% Brew Speed",
+  "Material Costs": 2,
+  "Material Costs_2": 29,
+  "Previous Tier": 4,
+  "_images": [
+   "Enraged_blood.png",
+   "Legendary8.png",
+   "Epic3.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pants",
+  "_table": 4,
+  "Crusading Level": 5,
+  "Level": 1,
+  "Bonus 1": "25% Total HP",
+  "Bonus 2": "30% Rift EXP",
+  "Bonus 3 (Unlocked)": "15% Vessel Gain",
+  "Material Costs": 250,
+  "Material Costs_2": 269,
+  "Previous Tier": "-",
+  "_images": [
+   "Torn_jeans.png",
+   "Common11.png",
+   "Common7.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pants",
+  "_table": 4,
+  "Crusading Level": 40,
+  "Level": 21,
+  "Bonus 1": "50% Total HP",
+  "Bonus 2": "4 Crusaders",
+  "Bonus 3 (Unlocked)": "1% Pet Damage",
+  "Material Costs": 113,
+  "Material Costs_2": 84,
+  "Previous Tier": 25,
+  "_images": [
+   "Platelegs.png",
+   "Uncommon2.png",
+   "Uncommon11.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pants",
+  "_table": 4,
+  "Crusading Level": 40,
+  "Level": 32,
+  "Bonus 1": "100% Total HP",
+  "Bonus 2": "10% Crus Multi",
+  "Bonus 3 (Unlocked)": "1% Research EXP",
+  "Material Costs": 24,
+  "Material Costs_2": 546,
+  "Previous Tier": 15,
+  "_images": [
+   "Gilded_mail.png",
+   "Rare2.png",
+   "Uncommon6.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pants",
+  "_table": 4,
+  "Crusading Level": 70,
+  "Level": 47,
+  "Bonus 1": "200% Total HP",
+  "Bonus 2": "60% Ores Mined",
+  "Bonus 3 (Unlocked)": "12 Crusaders",
+  "Material Costs": 11,
+  "Material Costs_2": 65,
+  "Previous Tier": 8,
+  "_images": [
+   "Evil_scales.png",
+   "Epic5.png",
+   "Rare3.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pants",
+  "_table": 4,
+  "Crusading Level": 80,
+  "Level": 68,
+  "Bonus 1": "400% Total HP",
+  "Bonus 2": "150% Total Damage",
+  "Bonus 3 (Unlocked)": "12% Spelunker Speed",
+  "Material Costs": 6,
+  "Material Costs_2": 17,
+  "Previous Tier": 4,
+  "_images": [
+   "Crystallax.png",
+   "Legendary5.png",
+   "Epic8.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pants",
+  "_table": 4,
+  "Crusading Level": 15,
+  "Level": 4,
+  "Bonus 1": "10% All Skill Damage",
+  "Bonus 2": "30% Away Str EXP",
+  "Bonus 3 (Unlocked)": "10% Crop Land EXP",
+  "Material Costs": 298,
+  "Material Costs_2": 280,
+  "Previous Tier": "-",
+  "_images": [
+   "Sweatpants.png",
+   "Common5.png",
+   "Common4.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pants",
+  "_table": 4,
+  "Crusading Level": 30,
+  "Level": 27,
+  "Bonus 1": "30% All Skill Damage",
+  "Bonus 2": "18% Accuracy",
+  "Bonus 3 (Unlocked)": "3% Trekking Speed",
+  "Material Costs": 98,
+  "Material Costs_2": "3K",
+  "Previous Tier": 25,
+  "_images": [
+   "Ninja_pants.png",
+   "Uncommon5.png",
+   "Common15.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pants",
+  "_table": 4,
+  "Crusading Level": 60,
+  "Level": 41,
+  "Bonus 1": "100% All Skill Damage",
+  "Bonus 2": "6K Base Damage",
+  "Bonus 3 (Unlocked)": "22% New Flower Odds",
+  "Material Costs": 23,
+  "Material Costs_2": 20,
+  "Previous Tier": 15,
+  "_images": [
+   "Martial_pants.png",
+   "Rare4.png",
+   "Rare10.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pants",
+  "_table": 4,
+  "Crusading Level": 30,
+  "Level": 58,
+  "Bonus 1": "200% All Skill Damage",
+  "Bonus 2": "35% Mining EXP",
+  "Bonus 3 (Unlocked)": "6% Asylum Traces",
+  "Material Costs": 8,
+  "Material Costs_2": 75,
+  "Previous Tier": 8,
+  "_images": [
+   "Ancient_skirt.png",
+   "Epic3.png",
+   "Rare11.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pants",
+  "_table": 4,
+  "Crusading Level": 99,
+  "Level": 71,
+  "Bonus 1": "400% All Skill Damage",
+  "Bonus 2": "300% Total HP",
+  "Bonus 3 (Unlocked)": "40% Botany Grow Speed",
+  "Material Costs": 2,
+  "Material Costs_2": 58,
+  "Previous Tier": 4,
+  "_images": [
+   "Radiated_pants.png",
+   "Pearl5.png",
+   "Epic4.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Off-hands",
+  "_table": 5,
+  "Crusading Level": 15,
+  "Level": 11,
+  "Bonus 1": "400 Base Damage",
+  "Bonus 2": "15% Idle Damage",
+  "Bonus 3 (Unlocked)": "120% Crusade EXP",
+  "Material Costs": 267,
+  "Material Costs_2": 265,
+  "Previous Tier": "-",
+  "_images": [
+   "Blunt_knife.png",
+   "Common3.png",
+   "Common1.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Off-hands",
+  "_table": 5,
+  "Crusading Level": 20,
+  "Level": 23,
+  "Bonus 1": "1.8K Base Damage",
+  "Bonus 2": "50% Fish Caught",
+  "Bonus 3 (Unlocked)": "25% Crops Gained Per Tilling Level",
+  "Material Costs": 89,
+  "Material Costs_2": "2.7K",
+  "Previous Tier": 25,
+  "_images": [
+   "Combat_knife.png",
+   "Uncommon7.png",
+   "Common13.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Off-hands",
+  "_table": 5,
+  "Crusading Level": 50,
+  "Level": 37,
+  "Bonus 1": "6K Base Damage",
+  "Bonus 2": "150% Meteor Damage",
+  "Bonus 3 (Unlocked)": "200% Rift EXP",
+  "Material Costs": 21,
+  "Material Costs_2": 538,
+  "Previous Tier": 15,
+  "_images": [
+   "Flame_dagger.png",
+   "Rare5.png",
+   "Uncommon9.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Off-hands",
+  "_table": 5,
+  "Crusading Level": 50,
+  "Level": 49,
+  "Bonus 1": "20K Base Damage",
+  "Bonus 2": "125% All Skill Damage",
+  "Bonus 3 (Unlocked)": "5% Pet Damage",
+  "Material Costs": 11,
+  "Material Costs_2": 2,
+  "Previous Tier": 8,
+  "_images": [
+   "Fluorescence.png",
+   "Epic2.png",
+   "Epic5.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Off-hands",
+  "_table": 5,
+  "Crusading Level": 90,
+  "Level": 78,
+  "Bonus 1": "80K Base Damage",
+  "Bonus 2": "250% Total Damage",
+  "Bonus 3 (Unlocked)": "1.5% Spelunker Learning Rate",
+  "Material Costs": 2,
+  "Material Costs_2": 6,
+  "Previous Tier": 4,
+  "_images": [
+   "Trimmed_stabby.png",
+   "Pearl1.png",
+   "Legendary9.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Off-hands",
+  "_table": 5,
+  "Crusading Level": 20,
+  "Level": 16,
+  "Bonus 1": "400 Base HP",
+  "Bonus 2": "25% Ores Mined",
+  "Bonus 3 (Unlocked)": "100% Fish Caught",
+  "Material Costs": 253,
+  "Material Costs_2": 296,
+  "Previous Tier": "-",
+  "_images": [
+   "Studded_shield.png",
+   "Common9.png",
+   "Common2.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Off-hands",
+  "_table": 5,
+  "Crusading Level": 40,
+  "Level": 29,
+  "Bonus 1": "1.5K Base HP",
+  "Bonus 2": "40% Fish Caught",
+  "Bonus 3 (Unlocked)": "35% Vessel Gain",
+  "Material Costs": 87,
+  "Material Costs_2": 94,
+  "Previous Tier": 25,
+  "_images": [
+   "Snow_stopper.png",
+   "Uncommon11.png",
+   "Uncommon7.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Off-hands",
+  "_table": 5,
+  "Crusading Level": 50,
+  "Level": 43,
+  "Bonus 1": "5K Base HP",
+  "Bonus 2": "30% Accuracy",
+  "Bonus 3 (Unlocked)": "1.5% Tilling EXP Per H2O Level",
+  "Material Costs": 11,
+  "Material Costs_2": 39,
+  "Previous Tier": 15,
+  "_images": [
+   "Creeper_shield.png",
+   "Epic5.png",
+   "Rare7.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Off-hands",
+  "_table": 5,
+  "Crusading Level": 80,
+  "Level": 61,
+  "Bonus 1": "25K Base HP",
+  "Bonus 2": "250% Max Shields",
+  "Bonus 3 (Unlocked)": "75% Brew Speed",
+  "Material Costs": 28,
+  "Material Costs_2": 38,
+  "Previous Tier": 8,
+  "_images": [
+   "Haunted_kite.png",
+   "Epic7.png",
+   "Epic11.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Off-hands",
+  "_table": 5,
+  "Crusading Level": 90,
+  "Level": 85,
+  "Bonus 1": "100K Base HP",
+  "Bonus 2": "120K Base Damage",
+  "Bonus 3 (Unlocked)": "10% Asylum Traces",
+  "Material Costs": 2,
+  "Material Costs_2": 6,
+  "Previous Tier": 4,
+  "_images": [
+   "Tremor_shield.png",
+   "Pearl1.png",
+   "Legendary8.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pendants",
+  "_table": 6,
+  "Crusading Level": 10,
+  "Level": 14,
+  "Bonus 1": "10% Crusade EXP",
+  "Bonus 2": "30% Fish Caught",
+  "Bonus 3 (Unlocked)": "20% Crops Gained Per Tilling Level",
+  "Material Costs": "1.4K",
+  "Material Costs_2": "1.3K",
+  "Previous Tier": "-",
+  "_images": [
+   "Carrot_charms.png",
+   "Common14.png",
+   "Common7.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pendants",
+  "_table": 6,
+  "Crusading Level": 60,
+  "Level": 36,
+  "Bonus 1": "25% Crusade EXP",
+  "Bonus 2": "15% Fight Bonus",
+  "Bonus 3 (Unlocked)": "35% Botany Grow Speed",
+  "Material Costs": 82,
+  "Material Costs_2": 71,
+  "Previous Tier": 25,
+  "_images": [
+   "Cheist_pearls.png",
+   "Rare8.png",
+   "Rare6.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pendants",
+  "_table": 6,
+  "Crusading Level": 80,
+  "Level": 59,
+  "Bonus 1": "60% Crusade EXP",
+  "Bonus 2": "8 Crusaders",
+  "Bonus 3 (Unlocked)": "500% Monster Cash",
+  "Material Costs": 55,
+  "Material Costs_2": 39,
+  "Previous Tier": 15,
+  "_images": [
+   "Blobulytes_equip.png",
+   "Epic6.png",
+   "Epic10.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pendants",
+  "_table": 6,
+  "Crusading Level": 99,
+  "Level": 79,
+  "Bonus 1": "120% Crusade EXP",
+  "Bonus 2": "600% Monster Cash",
+  "Bonus 3 (Unlocked)": "10% Spelunker Speed",
+  "Material Costs": 8,
+  "Material Costs_2": 7,
+  "Previous Tier": 8,
+  "_images": [
+   "Cash_money.png",
+   "Legendary7.png",
+   "Legendary4.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pendants",
+  "_table": 6,
+  "Crusading Level": 99,
+  "Level": 90,
+  "Bonus 1": "250% Crusade EXP",
+  "Bonus 2": "30% Card Chance",
+  "Bonus 3 (Unlocked)": "20 Crusaders",
+  "Material Costs": 4,
+  "Material Costs_2": 3,
+  "Previous Tier": 4,
+  "_images": [
+   "Divination_eye.png",
+   "Pearl8.png",
+   "Pearl6.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pendants",
+  "_table": 6,
+  "Crusading Level": 30,
+  "Level": 24,
+  "Bonus 1": "5% Crus Multi",
+  "Bonus 2": "30% Mining EXP",
+  "Bonus 3 (Unlocked)": "20% Flowers Gained Per Botany Level",
+  "Material Costs": 350,
+  "Material Costs_2": 452,
+  "Previous Tier": "-",
+  "_images": [
+   "Worm_ruff.png",
+   "Uncommon5.png",
+   "Uncommon8.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pendants",
+  "_table": 6,
+  "Crusading Level": 70,
+  "Level": 45,
+  "Bonus 1": "15% Crus Multi",
+  "Bonus 2": "200% Poison Damage",
+  "Bonus 3 (Unlocked)": "200% Total Damage",
+  "Material Costs": 132,
+  "Material Costs_2": "49K",
+  "Previous Tier": 25,
+  "_images": [
+   "Poison_pendant.png",
+   "Rare9.png",
+   "Common7.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pendants",
+  "_table": 6,
+  "Crusading Level": 90,
+  "Level": 67,
+  "Bonus 1": "40% Crus Multi",
+  "Bonus 2": "2% Ignore Defense",
+  "Bonus 3 (Unlocked)": "200% Fish Caught",
+  "Material Costs": 7,
+  "Material Costs_2": 45,
+  "Previous Tier": 15,
+  "_images": [
+   "Theatre_masks.png",
+   "Legendary6.png",
+   "Epic10.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pendants",
+  "_table": 6,
+  "Crusading Level": 99,
+  "Level": 84,
+  "Bonus 1": "80% Crus Multi",
+  "Bonus 2": "400% All Skill Damage",
+  "Bonus 3 (Unlocked)": "150% Ores Mined",
+  "Material Costs": 3,
+  "Material Costs_2": 7,
+  "Previous Tier": 8,
+  "_images": [
+   "Radiant_drop.png",
+   "Pearl5.png",
+   "Legendary4.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Pendants",
+  "_table": 6,
+  "Crusading Level": 99,
+  "Level": 99,
+  "Bonus 1": "150% Crus Multi",
+  "Bonus 2": "1K% Total Damage",
+  "Bonus 3 (Unlocked)": "3% Spelunker Learning Rate",
+  "Material Costs": 2,
+  "Material Costs_2": 2,
+  "Previous Tier": 4,
+  "_images": [
+   "Crystal_skull.png",
+   "Pearl9.png",
+   "Pearl6.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Boosters and Mutators",
+  "_table": 7,
+  "Crusading Level": 1,
+  "Level": 1,
+  "Effect": "90% Chance to give 10% Bonus",
+  "Material Costs": 200,
+  "Material Costs_2": 150,
+  "Previous Tier": "-",
+  "_images": [
+   "Booster1.png",
+   "Common1.png",
+   "Common2.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Boosters and Mutators",
+  "_table": 7,
+  "Crusading Level": 15,
+  "Level": 10,
+  "Effect": "70% Chance to give 25% Bonus",
+  "Material Costs": 40,
+  "Material Costs_2": 740,
+  "Previous Tier": 15,
+  "_images": [
+   "Booster2.png",
+   "Uncommon1.png",
+   "Common10.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Boosters and Mutators",
+  "_table": 7,
+  "Crusading Level": 50,
+  "Level": 20,
+  "Effect": "50% Chance to give 50% Bonus",
+  "Material Costs": 18,
+  "Material Costs_2": 12,
+  "Previous Tier": 8,
+  "_images": [
+   "Booster3.png",
+   "Rare1.png",
+   "Rare7.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Boosters and Mutators",
+  "_table": 7,
+  "Crusading Level": 50,
+  "Level": 30,
+  "Effect": "30% Chance to give 100% Bonus",
+  "Material Costs": 10,
+  "Material Costs_2": 6,
+  "Previous Tier": 4,
+  "_images": [
+   "Booster4.png",
+   "Epic1.png",
+   "Epic2.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Boosters and Mutators",
+  "_table": 7,
+  "Crusading Level": 70,
+  "Level": 50,
+  "Effect": "15% Chance to give 250% Bonus",
+  "Material Costs": 5,
+  "Material Costs_2": 3,
+  "Previous Tier": 2,
+  "_images": [
+   "Booster5.png",
+   "Legendary1.png",
+   "Legendary10.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Boosters and Mutators",
+  "_table": 7,
+  "Crusading Level": 20,
+  "Level": 5,
+  "Effect": "Multiplies booster by 0.8 - 1.3",
+  "Material Costs": 150,
+  "Material Costs_2": 130,
+  "Previous Tier": "-",
+  "_images": [
+   "Mutator1.png",
+   "Common9.png",
+   "Common12.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Boosters and Mutators",
+  "_table": 7,
+  "Crusading Level": 10,
+  "Level": 15,
+  "Effect": "Multiplies booster by 0.7 - 1.5",
+  "Material Costs": 30,
+  "Material Costs_2": 25,
+  "Previous Tier": 15,
+  "_images": [
+   "Mutator2.png",
+   "Uncommon1.png",
+   "Uncommon7.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Boosters and Mutators",
+  "_table": 7,
+  "Crusading Level": 15,
+  "Level": 25,
+  "Effect": "Multiplies booster by 0.6 - 1.8",
+  "Material Costs": 12,
+  "Material Costs_2": 6,
+  "Previous Tier": 8,
+  "_images": [
+   "Mutator3.png",
+   "Rare1.png",
+   "Rare4.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Boosters and Mutators",
+  "_table": 7,
+  "Crusading Level": 50,
+  "Level": 40,
+  "Effect": "Multiplies booster by 0.5 - 2.1",
+  "Material Costs": 7,
+  "Material Costs_2": 5,
+  "Previous Tier": 4,
+  "_images": [
+   "Mutator4.png",
+   "Epic1.png",
+   "Epic5.png"
+  ]
+ },
+ {
+  "_page": "Tinkering",
+  "_section": "Boosters and Mutators",
+  "_table": 7,
+  "Crusading Level": 60,
+  "Level": 60,
+  "Effect": "Multiplies booster by 0.3 - 2.5",
+  "Material Costs": 4,
+  "Material Costs_2": 2,
+  "Previous Tier": 2,
+  "_images": [
+   "Mutator5.png",
+   "Legendary1.png",
+   "Legendary9.png"
+  ]
+ }
+]

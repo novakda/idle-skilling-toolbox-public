@@ -1,0 +1,35 @@
+==Description==
+To use this template, enter the following and fill in the appropriate fields. Most fields left blank will not show up.
+
+==Syntax==
+<pre>
+{{Quote
+ | quote   = 
+ | speaker = 
+ | source  = 
+}}
+</pre>
+
+As an alternative, these can be placed in positional order. 
+==Samples==
+{{Quote
+ | quote   = When you play the game of thrones, you win or you die.
+ | speaker = [[w:c:gameofthrones:Cersei Lannister|Cersei Lannister]]
+ | source  = w:c:gameofthrones:You Win or You Die
+}}
+<pre>
+{{Quote
+ | quote   = When you play the game of thrones, you win or you die.
+ | speaker = [[w:c:gameofthrones:Cersei Lannister|Cersei Lannister]]
+ | source  = w:c:gameofthrones:You Win or You Die
+}}
+</pre>
+or
+
+<pre>
+{{Quote
+ | When you play the game of thrones, you win or you die.
+ | [[w:c:gameofthrones:Cersei Lannister|Cersei Lannister]]
+ | w:c:gameofthrones:You Win or You Die
+}}
+</pre><includeonly>[[Category:Templates|{{PAGENAME}}]][[Category:Templates/Quote|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,2 @@
+<blockquote class="quote">"''{{{quote|{{{1}}}}}}''"
+{{#if:{{{speaker|{{{2|}}}}}}|<cite>― {{{speaker|{{{2}}}}}}{{#if:{{{source|{{{3|}}}}}}|<sup class="noprint">[[{{{source|{{{3}}}}}}|[source]]]</sup>}}</cite>}}</blockquote><noinclude>{{Documentation}}</noinclude>

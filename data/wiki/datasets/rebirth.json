@@ -1,0 +1,195 @@
+[
+ {
+  "_page": "Rebirth",
+  "_section": "Cards",
+  "_table": 0,
+  "Card_2": "The Banished",
+  "Type": "BP Upon Rebirthing",
+  "Benefit": "+6 Base, +30 Max",
+  "_images": [
+   "C the banished.png"
+  ]
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "Cards",
+  "_table": 0,
+  "Card_2": "Mushketeer",
+  "Type": "BP Upon Rebirthing",
+  "Benefit": "+8 Base, +40 Max",
+  "_images": [
+   "C mushketeer.png"
+  ]
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "Cards",
+  "_table": 0,
+  "Card_2": "Funny Boi",
+  "Type": "BP Upon Rebirthing",
+  "Benefit": "+10 Base, +50 Max",
+  "_images": [
+   "8 - Funni Boi.png"
+  ]
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "Cards",
+  "_table": 0,
+  "Card_2": "Tubular",
+  "Type": "BP Upon Rebirthing",
+  "Benefit": "+40 Base, +200 Max",
+  "_images": [
+   "C tubular.png"
+  ]
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "Items",
+  "_table": 1,
+  "Craft_2": "BP Straight Up",
+  "Bonus": "+0.5 BP per level (up to +1000 BP)",
+  "Requirement": "Level 90 Smithing, Warped Smithing BP Perk",
+  "_images": [
+   "Bp straight up.png"
+  ]
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "BP Perks",
+  "_table": 2,
+  "Reach Dungeon": "Warped Smithing",
+  "Reach Dungeon_2": "Training Perks",
+  "Reach Dungeon_3": "Ungodly Contract",
+  "Reach Dungeon_4": "Skull Crusher",
+  "Reach Dungeon_5": "Crystal Slots"
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "BP Perks",
+  "_table": 2,
+  "Reach Dungeon": "Unlocks smithing and mining tier 9 +1n% Smithing Exp",
+  "Reach Dungeon_2": "Unlocks the other 10 training perks that you cannot get from ascending",
+  "Reach Dungeon_3": "Unlocks ungodly contracts",
+  "Reach Dungeon_4": "+10n% kills",
+  "Reach Dungeon_5": "Unlocks crystal slots for apothecary and mining"
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "BP Perks",
+  "_table": 3,
+  "Reach Purgatory": "Purple Crystals",
+  "Reach Purgatory_2": "Wasnt aiming for ya",
+  "Reach Purgatory_3": "H2O Smith Reeeeeedux",
+  "Reach Purgatory_4": "Yellow Crystals",
+  "Reach Purgatory_5": "H2O Kapow Kazaw",
+  "Reach Purgatory_6": "H2O Potion Damper"
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "BP Perks",
+  "_table": 3,
+  "Reach Purgatory": "+1n purple crystals",
+  "Reach Purgatory_2": "+1 max toggle, per toggle: -20% crit, +10% damage (damage is multiplicative with itself)",
+  "Reach Purgatory_3": "-0.1% smithing scaling per H2O level over 100 (bugged: no effect)",
+  "Reach Purgatory_4": "+1n yellow crystals",
+  "Reach Purgatory_5": "+1n% damage per H2O level over 100",
+  "Reach Purgatory_6": "-0.25% potion cost scaling per H2O level over 100"
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "BP Perks",
+  "_table": 3,
+  "Reach Purgatory_4": "Potato Veins",
+  "Reach Purgatory_5": "Herbal Legalization",
+  "Reach Purgatory_6": "Red Crystals"
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "BP Perks",
+  "_table": 3,
+  "Reach Purgatory_4": "+1n tilling starting level",
+  "Reach Purgatory_5": "+1n botany starting level",
+  "Reach Purgatory_6": "+1n red crystals"
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "BP Perks",
+  "_table": 4,
+  "Reach The Bog": "Backdoor Bog",
+  "Reach The Bog_2": "Djinnic Smithing",
+  "Reach The Bog_3": "Oresome Fishtastic",
+  "Reach The Bog_4": "Cerebral Contract",
+  "Reach The Bog_5": "Contract Shop 4",
+  "Reach The Bog_6": "Apocathery Canary"
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "BP Perks",
+  "_table": 4,
+  "Reach The Bog": "Can only rebirth after reaching bog, 2x BP gain",
+  "Reach The Bog_2": "Unlocks smithing and mining tier 10 +3% Smithing Exp",
+  "Reach The Bog_3": "+10% ore +30% fish",
+  "Reach The Bog_4": "Unlocks cerebral contracts",
+  "Reach The Bog_5": "Unlocks contract shop 4",
+  "Reach The Bog_6": "+1n apothecary starting level"
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "BP Perks",
+  "_table": 5,
+  "Reach Lunar Isle": "Forgotten Tongue",
+  "Reach Lunar Isle_2": "H2O Money Bags",
+  "Reach Lunar Isle_3": "Unspoken Words",
+  "Reach Lunar Isle_4": "Mystic Botany",
+  "Reach Lunar Isle_5": "Bubble Bubble",
+  "Reach Lunar Isle_6": "AP Extravaganza"
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "BP Perks",
+  "_table": 5,
+  "Reach Lunar Isle": "+15n% damage (cyan key unlock)",
+  "Reach Lunar Isle_2": "+1% cash per H2O level over 100",
+  "Reach Lunar Isle_3": "+5n% damage (cyan key unlock)",
+  "Reach Lunar Isle_4": "+5n% botany speed for each pots overlevel",
+  "Reach Lunar Isle_5": "+8n% brew speed",
+  "Reach Lunar Isle_6": "+10n% ap gain (cyan key unlock)"
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "BP Perks",
+  "_table": 6,
+  "Reach Maelstrom": "Extra H2O Tokens",
+  "Reach Maelstrom_2": "Lavathian Contract",
+  "Reach Maelstrom_3": "Blue Crystals",
+  "Reach Maelstrom_4": "Contract Shop 5",
+  "Reach Maelstrom_5": "New Heights",
+  "Reach Maelstrom_6": "Derelict Warcry",
+  "Reach Maelstrom_7": "Pet Expertise"
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "BP Perks",
+  "_table": 6,
+  "Reach Maelstrom": "+1n extra training perk tokens",
+  "Reach Maelstrom_2": "Unlocks lavathian contracts",
+  "Reach Maelstrom_3": "+1n blue crystals",
+  "Reach Maelstrom_4": "Unlocks contract shop 5",
+  "Reach Maelstrom_5": "Higher caps for some rebirth perks (H2O damage, BTQ1, BTQ2, H2O cash, brew speed)",
+  "Reach Maelstrom_6": "+20n% damage",
+  "Reach Maelstrom_7": "Increase exp gain for all 3 pet skills (cyan key unlock)"
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "BP Perks",
+  "_table": 7,
+  "Reach Oblivion": "All Star"
+ },
+ {
+  "_page": "Rebirth",
+  "_section": "BP Perks",
+  "_table": 7,
+  "Reach Oblivion": "Skilltree perks can be leveled to 0+ n, caps at 5"
+ }
+]

@@ -1,0 +1,346 @@
+Super strong raid opponents.  A health bar is across the top, but no numeric value is displayed.  Each monster has a Block meter in the top right-hand corner under the health bar. At the start, the creature has x block and you deal 1/x damage. The block number goes down with time, and your damage thus increases. It takes some time for the block number to be at 0 and damage to be 100% of normal.
+
+
+Each creature in the cell rewards with a unique currency that can be exchanged for buffs in the '''SHOP''' screen.  The buffs are substantial and can help you to progress through certain sections of the game.
+==Asylum Creatures==
+{| class="article-table" style="text-align: center;"
+! colspan="2" style="text-align: center;" |Monster
+!Keys
+!Block
+!Run Time
+!HP (Variable*)
+!Atk Required
+(Variable*)
+!Card Chance
+|-
+| rowspan="4" | [[File:Asylum_Emigdala.png|100px|center]]
+|'''Emigdala'''
+|1
+|100
+|2:01
+|2.5Q
+|10
+|1/99
+|-
+|Emigdala X
+|3
+|250
+|3:01
+|16.4 QQ
+|11
+|1/97
+|-
+|Emigdala Y
+|7
+|800
+|5:01
+|2.4 QQQQ
+|16
+|1/86
+|-
+|Emigdala Z
+|15
+|5000
+|8:01
+|42 M QQQQ
+|31
+|1/55
+|-
+| rowspan="4" |[[File:Asylum_Occulon.png|100px|center]]
+|'''Occulon'''
+|1
+|125
+|2:01
+|10.5 QQ
+|14
+|1/109
+|-
+|Occulon X
+|3
+|400
+|3:01
+|
+|15
+|1/107
+|-
+|Occulon Y
+|7
+|2000
+|5:01
+|
+|24
+|1/96
+|-
+|Occulon Z
+|15
+|10000
+|8:01
+|
+|48
+|1/65
+|-
+| rowspan="4" |[[File:Asylum_Scallius.png|100px|center]]
+|'''Scallius'''
+|1
+|300
+|2:01
+|700 QQ
+|13
+|1/129
+|-
+|Scallius X
+|3
+|1500
+|3:01
+|
+|14
+|1/127
+|-
+|Scallius Y
+|7
+|6000
+|5:01
+|
+|22
+|1/116
+|-
+|Scallius Z
+|15
+|25000
+|8:01
+|
+|42
+|1/85
+|-
+| rowspan="4" | Phase 1[[File:Asylum_GorshankPhase1.png|100px|center]] Phase 2[[File:Asylum_GorshankPhase2.png|100px|center]]
+|'''Gorshank'''
+|1
+|1000/2000 
+(see below)
+|2:01
+|3.5 QQQQ
+|16
+|1/144
+|-
+|Gorshank X
+|3
+|5000/12500?
+
+(see below)
+|3:01
+|
+|
+|1/142
+|-
+|Gorshank Y
+|7
+|30000/60000?
+
+(see below)
+|5:01
+|
+|
+|1/131
+|-
+|Gorshank Z
+|15
+|75000/150000?
+
+(see below)
+|8:01
+|
+|
+|1/100
+|}
+
+Note about the bell: It very rapidly increases enemies HP and attack stats by magnitudes, instead of wasting your precious keys by raising the enemy HP too high (checked by the right of the enemy HP bar (💙=1k'''⋅'''1QQ, ❤️=1k'''⋅'''1QQ💙, etc.); You can back out of the fight, or swiping the app closed. By fighting and successfully defeating bell enemies, you get many more rewards. 
+
+Gorshank Note: Gorshank has a separate health bar for each head, which also have their own blocks. Once the first head is killed, Gorshank will swap heads and as his block decreases ''his'' damage and increases until he has as much damage as you have health, effectively instantly killing you. Kill the first head with as little damage as possible and save your usual damaging sequence for the second head. 
+
+<nowiki>*</nowiki>Since these stats are variable, it's possible to simply check their values by choosing which battle you want to check, and instead of starting the fight, simply backing out. 
+
+==Asylum Cards==
+{{:Cards/Asylum_Bosses}}
+
+== Pets ==
+Each boss has a rare chance of dropping a corresponding pet. The highest chance per key is Nightmare difficulty.
+{| class="article-table"
+!Boss
+!Chance (Nightmare)
+|-
+|Emigdala
+|45/4850 ≈ 1/108
+|-
+|Occulon
+|45/6600 ≈ 1/147
+|-
+|Scallius
+|45/8200 ≈ 1/182
+|-
+|Gorshank
+|45/9500 ≈ 1/211
+|}
+
+==Traces==
+Traces are the currency used to increase shrine level in the asylum shop.
+{| class="article-table" style="clear:all; padding=5px; text-align: center" border="1" width="100%;"
+! colspan="2" style="text-align: center;" | Trace
+! style="text-align: center;" |Drop Amount determined by:
+|-
+|[[File:Trace_Emigdala.png|50px|center]]
+|Emigdala
+|Difficulty, Mark
+|-
+|[[File:Trace_Occulon.png|50px|center]]
+|Occulon
+|Difficulty, Mark
+|-
+|[[File:Trace_Scallius.png|50px|center]]
+|Scallius
+|Difficulty, Mark
+|-
+|[[File:Trace_Gorshank.png|50px|center]]
+|Gorshank
+|Difficulty, Mark
+|-
+|[[File:Trace_Apo.png|50px|center]]
+|[[Apothecary]]
+|Apothecary level
+|-
+|[[File:Trace_Botany.png|50px|center]]
+|[[Botany]]
+|Botany level, Plant dropped, Plant level, Overgrowth
+|-
+|[[File:Trace_Tilling.png|50px|center]]
+|[[Tilling]]
+|Tilling level, Dirt owned
+|-
+|[[File:Trace_Mining.png|50px|center]]
+|[[Mining]]
+|Mining level, Ores per minute
+|-
+|[[File:Trace_Smithing.png|50px|center]]
+|[[Smithing]]
+|Smithing level, Craft number, Craft tier, Crafts per Craft
+|-
+|[[File:Trace_Fishing.png|50px|center]]
+|[[Fishing]]
+|Fishing level, Fish per catch
+|}
+==Shop==
+Emigdala Shop:
+{| class="article-table"
+|Name of Buff
+|Description
+|Increment
+| colspan="3" |Currency
+|-
+|Wrath
+|<nowiki>+%</nowiki> Damage For each STR LV above 50.
+|<nowiki>+1%</nowiki>
+|[[File:Trace Emigdala.png|thumb|57x57px]]
+|[[File:Trace Fishing.png|thumb|63x63px]]
+|Also after lvl 10[[File:Trace Smithing.png|thumb|63x63px]]
+|-
+|Prodigious
+|<nowiki>+%</nowiki> Bonus Stats to ALL [[Tinkering]] Equipment.
+|<nowiki>+1.%</nowiki>
+|[[File:Trace Emigdala.png|thumb|56x56px]]
+|[[File:Trace Fishing.png|thumb|59x59px]]
+|<nowiki>-</nowiki>
+|-
+|Recoup
+|<nowiki>+%</nowiki> chance to NOT use up Materials in Smithing and Brewing.
+|<nowiki>+1.5%</nowiki>
+|[[File:Trace Emigdala.png|thumb|56x56px]]
+|[[File:Trace Mining.png|thumb|51x51px]]
+|<nowiki>-</nowiki>
+|}
+
+Occulon Shop:
+{| class="article-table"
+|Name of Buff
+|Description
+|Increment
+| colspan="2" |Currency
+|-
+|Scavenge
+|<nowiki>+%</nowiki> Bonus to All forms of Resource Collection.
+|<nowiki>+5%</nowiki>
+|[[File:Trace Occulon.png|thumb|51x51px]]
+|[[File:Trace Botany.png|thumb|58x58px]]
+|-
+|Heavy Cash
+|<nowiki>+100%</nowiki> Attack Speed / +100% Cash. <br /> Allows you to sacrifice attack speed for more cash.
+|Changes by toggle amount
+first upgrade:
+100 S / 100 C -> 80 S / 126 C
+|[[File:Trace Occulon.png|thumb|49x49px]]
+|[[File:Trace Botany.png|thumb|67x67px]]
+|-
+|Talent
+|Start with +% Exp when any skill levels up
+|0.6%
+|[[File:Trace Occulon.png|thumb|48x48px]]
+|[[File:Trace Botany.png|thumb|62x62px]]
+|}
+Scallius Shop:
+{| class="article-table"
+|Name of Buff
+|Description
+|Increment
+|Currency
+|Note
+|-
+|Eviscerate
+|% of kills affect the next monster affect up to X monsters.
+|<nowiki>+1.5%</nowiki>
+|[[File:Trace_Scallius.png|50px|center]]
+|Eviscerate is '''<u>hard-capped</u>''' at +10 kills a head, while this caps at +4, research vessel caps at +10.
+|-
+|Hydrate
+|<nowiki>+n</nowiki> H2O levels / +n% Chance for H2O to Lv Up twice.
+|<nowiki>+2 / +1%</nowiki>
+|[[File:Trace_Scallius.png|50px|center]]
+|
+|-
+|Best Rest
+|<nowiki>+n%</nowiki> Idle Gains on All Screens.
+|<nowiki>+0.5%</nowiki>
+|[[File:Trace_Scallius.png|50px|center]]
+|
+|}
+Gorshank Shop:
+{| class="article-table"
+|Name of Buff
+|Description
+|Increment
+|Currency
+|-
+|The Power
+|<br /><nowiki>+</nowiki>% Damage
++% Health <br />
++% Hatchery Exp
+|
++10% Damage / level
+
++15% Health / level
+
++1% Hatchery / level
+
+(Max Lv. 50)
+|[[File:Trace_Gorshank.png|50px|center]]
+|-
+|Chain Level
+|% Chance to trigger a chain when leveling up any skill
+| + ~2.5% / level
+(Max Lv. 50)
+|[[File:Trace_Gorshank.png|50px|center]]
+|-
+|Brewery
+|Potions start with % full brew bar after they level up
+| + 1% / level
+(Max Lv. 50)
+|[[File:Trace_Gorshank.png|50px|center]]
+|}
+[[Category:Portal]]

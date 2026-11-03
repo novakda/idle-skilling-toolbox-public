@@ -1,0 +1,142 @@
+[
+ {
+  "_page": "Boosters",
+  "_section": "Boosters",
+  "_table": 0,
+  "Effect": "90% chance to give +10% bonus",
+  "_images": [
+   "Booster1.png"
+  ]
+ },
+ {
+  "_page": "Boosters",
+  "_section": "Boosters",
+  "_table": 0,
+  "Effect": "70% chance to give +25% bonus",
+  "_images": [
+   "Booster2.png"
+  ]
+ },
+ {
+  "_page": "Boosters",
+  "_section": "Boosters",
+  "_table": 0,
+  "Effect": "50% chance to give +50% bonus",
+  "_images": [
+   "Booster3.png"
+  ]
+ },
+ {
+  "_page": "Boosters",
+  "_section": "Boosters",
+  "_table": 0,
+  "Effect": "30% chance to give +100% bonus",
+  "_images": [
+   "Booster4.png"
+  ]
+ },
+ {
+  "_page": "Boosters",
+  "_section": "Boosters",
+  "_table": 0,
+  "Effect": "15% chance to give +250% bonus",
+  "_images": [
+   "Booster5.png"
+  ]
+ },
+ {
+  "_page": "Boosters",
+  "_section": "Mutators",
+  "_table": 1,
+  "Effect": "Multiplies the given bonus by a random number between 0.8 and 1.3",
+  "_images": [
+   "Mutator1.png"
+  ]
+ },
+ {
+  "_page": "Boosters",
+  "_section": "Mutators",
+  "_table": 1,
+  "Effect": "Multiplies the given bonus by a random number between 0.7 and 1.5",
+  "_images": [
+   "Mutator2.png"
+  ]
+ },
+ {
+  "_page": "Boosters",
+  "_section": "Mutators",
+  "_table": 1,
+  "Effect": "Multiplies the given bonus by a random number between 0.6 and 1.8",
+  "_images": [
+   "Mutator3.png"
+  ]
+ },
+ {
+  "_page": "Boosters",
+  "_section": "Mutators",
+  "_table": 1,
+  "Effect": "Multiplies the given bonus by a random number between 0.5 and 2.1",
+  "_images": [
+   "Mutator4.png"
+  ]
+ },
+ {
+  "_page": "Boosters",
+  "_section": "Mutators",
+  "_table": 1,
+  "Effect": "Multiplies the given bonus by a random number between 0.3 and 2.5",
+  "_images": [
+   "Mutator5.png"
+  ]
+ },
+ {
+  "_page": "Boosters",
+  "_section": "Misc. Mutators",
+  "_table": 2,
+  "Name": "Safety Charm",
+  "Effect": "Saves an upgrade use from being consumed when a booster fails",
+  "_images": [
+   "Misc1.png"
+  ]
+ },
+ {
+  "_page": "Boosters",
+  "_section": "Misc. Mutators",
+  "_table": 2,
+  "Name": "Lucky Donut",
+  "Effect": "Adds +15% chance for a booster to succeed",
+  "_images": [
+   "Misc2.png"
+  ]
+ },
+ {
+  "_page": "Boosters",
+  "_section": "Misc. Mutators",
+  "_table": 2,
+  "Name": "Crystal Genesis",
+  "Effect": "50% chance to double the applied booster's bonus",
+  "_images": [
+   "Misc3.png"
+  ]
+ },
+ {
+  "_page": "Boosters",
+  "_section": "Misc. Mutators",
+  "_table": 2,
+  "Name": "Chaotic Mutators",
+  "Effect": "Doubles applied mutator bonus but reduces booster's success chance by 50% *(currently doubles success chance not halves)",
+  "_images": [
+   "Misc4.png"
+  ]
+ },
+ {
+  "_page": "Boosters",
+  "_section": "Misc. Mutators",
+  "_table": 2,
+  "Name": "Benign Mutators",
+  "Effect": "Guarantees the applied mutator multiplies by 1.0 or more",
+  "_images": [
+   "Misc5.png"
+  ]
+ }
+]

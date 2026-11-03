@@ -1,0 +1,37 @@
+{| style="width: 100%;" class="article-table" border="1"
+|-
+! colspan="2" style="text-align: center;"| Crystal Color
+! Bonus
+|-
+|[[File:Yellow_gem.png|center|42px]]
+|Yellow Crystal
+| <span style="color:hsl(60,100%,75%);">+50% EXP</span>
+|-
+|[[File:Red_gem.png|center|42px]]
+|Red Crystal
+| <span style="color:hsl(0,100%,75%);">+30% Speed</span>
+|-
+|[[File:Purple_gem.png|center|42px]]
+|Purple Crystal
+| <span style="color:hsl(260,100%,75%);">+40% Ores</span>
+|-
+|[[File:Blue_gem.png|center|42px]]
+|Blue Crystal
+| <span style="color:hsl(210,100%,75%);">+30% 2x Ores</span>
+|-
+|[[File:Green_gem.png|center|42px]]
+|Green Crystal
+| <span style="color:hsl(60,100%,75%);">+100% EXP</span>, <span style="color:hsl(260,100%,75%);">+150% Ores</span>, <span style="color:hsl(210,100%,75%);">+40% 2x Ores</span>
+|-
+|[[File:Orange_gem.png|center|42px]]
+|Orange Crystal
+| <span style="color:hsl(30,100%,75%);">+20% Bonus to All Crystals</span> on Screen
+|-
+|[[File:Pink_gem.png|center|42px]]
+|Pink Crystal
+| <span style="color:hsl(60,100%,75%);">+200% EXP</span> to Slot and Adjacent Slots
+|-
+|[[File:Black_gem.png|center|42px]]
+|Black Crystal
+| <span style="color:hsl(260,100%,75%);">+200% Ores</span> to Slot and Adjacent Slots
+|}

@@ -1,0 +1,140 @@
+{| class="article-table" border="1" align="center"
+|-
+! scope="col" style="text-align: center;" |The Bruiser
+! colspan="8" scope="col" style="text-align: center;" |Unlocks at Level 1
+|-
+| rowspan="2" |[[File:The_bruiser.png]]
+| colspan="2" |[[File:Bandit_shroom.png|center]]
+| colspan="2" |[[File:Patchy.png|center]]
+| colspan="2" |[[File:Snailsin.png|center]]
+| colspan="2" |[[File:Lmr_deckhand.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Bandit Shroom
+| colspan="2" |Patchy
+| colspan="2" |Snailsin
+| colspan="2" |Lmr Deckhand
+|-
+! style="text-align: center;" |Tier
+| colspan="2" |[[File:Tier1skull.png|center|40px]]
+| colspan="2" |[[File:Tier2skull.png|center|40px]]
+|[[File:Tier3skull.png|center|40px]]
+|[[File:Tier4skull.png|center|40px]]
+|[[File:Tier5skull.png|center|40px]]
+|[[File:Tier6skull.png|center|40px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Defense
+| colspan="2" |2
+| colspan="2" |5.9
+|36
+|228
+|1417
+|8777
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |866K
+| colspan="2" |4.4M
+|153M
+|6B
+|228B
+|8.3T
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |1K
+| colspan="2" |2.2K
+|11K
+|69K
+|413K
+|2.3M
+|-
+! scope="col" style="text-align: center;" |Toxic Sludge
+! colspan="8" scope="col" style="text-align: center;" |Unlocks at Level 5
+|-
+| rowspan="2" |[[File:Toxic_sludge.png]]
+| colspan="2" |[[File:Recruit.png|center]]
+| colspan="2" |[[File:Limpy.png|center]]
+| colspan="2" |[[File:Smile.png|center]]
+| colspan="2" |[[File:Mime.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Recruit
+| colspan="2" |Limpy
+| colspan="2" |Smile
+| colspan="2" |Mime
+|-
+! style="text-align: center;" |Tier
+| colspan="2" |[[File:Tier1skull.png|center|40px]]
+| colspan="2" |[[File:Tier2skull.png|center|40px]]
+|[[File:Tier3skull.png|center|40px]]
+|[[File:Tier4skull.png|center|40px]]
+|[[File:Tier5skull.png|center|40px]]
+|[[File:Tier6skull.png|center|40px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Defense
+| colspan="2" |4
+| colspan="2" |11
+|73
+|457
+|2835
+|17K
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |4.3M
+| colspan="2" |22M
+|765M
+|30B
+|1.1T
+|41T
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |4K
+| colspan="2" |9.6K
+|53K
+|358K
+|2.3M
+|14M
+|-
+! scope="col" style="text-align: center;" |Killer Rabbit
+! colspan="8" scope="col" style="text-align: center;" |Unlocks at Level 10
+|-
+| rowspan="2" |[[File:Killer_rabbit.png]]
+| colspan="2" |[[File:Chewed.png|center]]
+| colspan="2" |[[File:Nibbled.png|center]]
+| colspan="2" |[[File:Bitten.png|center]]
+| colspan="2" |[[File:Munched.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Chewed
+| colspan="2" |Nibbled
+| colspan="2" |Bitten
+| colspan="2" |Munched
+|-
+! style="text-align: center;" |Tier
+| colspan="2" |[[File:Tier1skull.png|center|40px]]
+| colspan="2" |[[File:Tier2skull.png|center|40px]]
+|[[File:Tier3skull.png|center|40px]]
+|[[File:Tier4skull.png|center|40px]]
+|[[File:Tier5skull.png|center|40px]]
+|[[File:Tier6skull.png|center|40px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Defense
+| colspan="2" |7
+| colspan="2" |21
+|147
+|994
+|6689
+|45K
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |13M
+| colspan="2" |68M
+|2.5B
+|108B
+|4.4T
+|173T
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |3K
+| colspan="2" |7.3K
+|42K
+|300K
+|2M
+|13M
+|}

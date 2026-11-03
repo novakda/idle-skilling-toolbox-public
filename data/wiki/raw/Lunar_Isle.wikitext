@@ -1,0 +1,841 @@
+{| align="center"
+|[[File:The_bog_banner.png|150px|link=The Bog]]
+|<<<
+|[[File:Lunar Isle Banner.png|link=Lunar Isle]]
+|>>>
+|[[File:Maelstrom Banner.png|150px|link=Maelstrom]]
+|}
+Lunar Isle is the third advanced [[Fight]]ing zone and features 23 unique monsters over 100 encounters.
+
+The following table shows the '''base''' values for each monster in the zone. (Note: '''<span style="color:PaleTurquoise">1</span>''' = 1000 QQ and '''<span style="color:Indigo">1</span>''' = '''<span style="color:PaleTurquoise">1000 QQ</span>''')
+{| class="article-table" border="1" style="width: 100%;"
+! colspan="2" |Monster
+!Damage
+!HP
+!Android HP
+!Gold
+!Kill Req.
+!Card Bonus
+|-
+| rowspan="3" |[[File:Flexo.png|center|50px]]
+|Flexo 1
+|144M
+|'''<span style="color:PaleTurquoise">8.11T</span>'''
+|'''<span style="color:PaleTurquoise">1.88Q</span>'''
+|4.03T
+|5040
+| rowspan="3" | +3% Red Crystal Bonus
+|-
+|Flexo 2
+|150M
+|'''<span style="color:PaleTurquoise">9.63T</span>'''
+|'''<span style="color:PaleTurquoise">2.23Q</span>'''
+|4.16T
+|6600
+|-
+|Flexo 3
+|157M
+|'''<span style="color:PaleTurquoise">11.4T</span>'''
+|'''<span style="color:PaleTurquoise">2.67Q</span>'''
+|4.29T
+|8160
+|-
+| rowspan="3" |[[File:Moon Pie.png|center|50px]]
+|Moon Pie 1
+|163M
+|'''<span style="color:PaleTurquoise">13.7T</span>'''
+|'''<span style="color:PaleTurquoise">3.19Q</span>'''
+|4.43T
+|9720
+| rowspan="3" | +25% Max Shields
+|-
+|Moon Pie 2
+|170M
+|'''<span style="color:PaleTurquoise">16.5T</span>'''
+|'''<span style="color:PaleTurquoise">3.85Q</span>'''
+|4.57T
+|11280
+|-
+|Moon Pie 3
+|177M
+|'''<span style="color:PaleTurquoise">20T</span>'''
+|'''<span style="color:PaleTurquoise">4.65Q</span>'''
+|4.71T
+|12840
+|-
+| rowspan="3" |[[File:Thimbulo.png|center|50px]]
+|Thimbulo 1
+|184M
+|'''<span style="color:PaleTurquoise">24.3T</span>'''
+|'''<span style="color:PaleTurquoise">5.65Q</span>'''
+|4.87T
+|14400
+| rowspan="3" | +6% Card Drop Chance
+|-
+|Thimbulo 2
+|191M
+|'''<span style="color:PaleTurquoise">29.6T</span>'''
+|'''<span style="color:PaleTurquoise">6.89Q</span>'''
+|5.03T
+|15960
+|-
+|Thimbulo 3
+|198M
+|'''<span style="color:PaleTurquoise">36.3T</span>'''
+|'''<span style="color:PaleTurquoise">8.43Q</span>'''
+|5.2T
+|17520
+|-
+| rowspan="3" |[[File:Crateros.png|center|50px]]
+|Crateros 1
+|205M
+|'''<span style="color:PaleTurquoise">44.6T</span>'''
+|'''<span style="color:PaleTurquoise">10.3Q</span>'''
+|5.38T
+|19080
+| rowspan="3" | +13% Crusade Reward
+|-
+|Crateros 2
+|212M
+|'''<span style="color:PaleTurquoise">55.1T</span>'''
+|'''<span style="color:PaleTurquoise">12.8Q</span>'''
+|5.58T
+|20640
+|-
+|Crateros 3
+|220M
+|'''<span style="color:PaleTurquoise">68.4T</span>'''
+|'''<span style="color:PaleTurquoise">15.8Q</span>'''
+|5.79T
+|22200
+|-
+| rowspan="3" |[[File:Parchmint.png|center|50px]]
+|Parchmint 1
+|227M
+|'''<span style="color:PaleTurquoise">85.2T</span>'''
+|'''<span style="color:PaleTurquoise">19.8Q</span>'''
+|6.01T
+|23760
+| rowspan="3" | +3% Purple Crystal Bonus
+|-
+|Parchmint 2
+|235M
+|'''<span style="color:PaleTurquoise">106T</span>'''
+|'''<span style="color:PaleTurquoise">24.7Q</span>'''
+|6.25T
+|25320
+|-
+|Parchmint 3
+|243M
+|'''<span style="color:PaleTurquoise">134T</span>'''
+|'''<span style="color:PaleTurquoise">31.1Q</span>'''
+|6.51T
+|26880
+|-
+| rowspan="3" |[[File:Loaded.png|center|50px]]
+|Loaded 1
+|251M
+|'''<span style="color:PaleTurquoise">169T</span>'''
+|'''<span style="color:PaleTurquoise">39.2Q</span>'''
+|6.79T
+|28440
+| rowspan="3" | +8% Mining EXP Gained
+|-
+|Loaded 2
+|259M
+|'''<span style="color:PaleTurquoise">214T</span>'''
+|'''<span style="color:PaleTurquoise">49.7Q</span>'''
+|7.09T
+|30000
+|-
+|Loaded 3
+|268M
+|'''<span style="color:PaleTurquoise">237T</span>'''
+|'''<span style="color:PaleTurquoise">55.1Q</span>'''
+|7.42T
+|31560
+|-
+| rowspan="3" |[[File:MTV.png|center|50px]]
+|MTV 1
+|276M
+|'''<span style="color:PaleTurquoise">263T</span>'''
+|'''<span style="color:PaleTurquoise">61.2Q</span>'''
+|7.78T
+|33120
+| rowspan="3" | +30% Fishies Gained
+|-
+|MTV 2
+|285M
+|'''<span style="color:PaleTurquoise">293T</span>'''
+|'''<span style="color:PaleTurquoise">68.2Q</span>'''
+|8.17T
+|34680
+|-
+|MTV 3
+|293M
+|'''<span style="color:PaleTurquoise">328T</span>'''
+|'''<span style="color:PaleTurquoise">76.2Q</span>'''
+|8.59T
+|36240
+|-
+| rowspan="3" |[[File:Funni Boi.png|center|50px]]
+|Funni Boi 1
+|302M
+|'''<span style="color:PaleTurquoise">367T</span>'''
+|'''<span style="color:PaleTurquoise">85.3Q</span>'''
+|9.06T
+|37800
+| rowspan="3" | +10 BP on Rebirth
+|-
+|Funni Boi 2
+|311M
+|'''<span style="color:PaleTurquoise">412T</span>'''
+|'''<span style="color:PaleTurquoise">95.7Q</span>'''
+|9.57T
+|39360
+|-
+|Funny Boi 3
+|320M
+|'''<span style="color:PaleTurquoise">463T</span>'''
+|'''<span style="color:PaleTurquoise">107Q</span>'''
+|10.1T
+|40920
+|-
+| rowspan="3" |[[File:Lunardyl.png|center|50px]]
+|Lunardyl 1
+|330M
+|'''<span style="color:PaleTurquoise">523T</span>'''
+|'''<span style="color:PaleTurquoise">121Q</span>'''
+|10.7T
+|42480
+| rowspan="3" | +6 Pot Speed Upgrades
+|-
+|Lunardyl 2
+|339M
+|'''<span style="color:PaleTurquoise">591T</span>'''
+|'''<span style="color:PaleTurquoise">137Q</span>'''
+|11.3T
+|44040
+|-
+|Lunardyl 3
+|349M
+|'''<span style="color:PaleTurquoise">669T</span>'''
+|'''<span style="color:PaleTurquoise">155Q</span>'''
+|12.1T
+|45600
+|-
+| rowspan="3" |[[File:Krombopuli.png|center|50px]]
+|Krombopuli 1
+|359M
+|'''<span style="color:PaleTurquoise">760T</span>'''
+|'''<span style="color:PaleTurquoise">176Q</span>'''
+|12.9T
+|47160
+| rowspan="3" | +25% Rift Exp
+|-
+|Krombopuli 2
+|369M
+|'''<span style="color:PaleTurquoise">866T</span>'''
+|'''<span style="color:PaleTurquoise">201Q</span>'''
+|13.7T
+|48720
+|-
+|Krombopuli 3
+|379M
+|'''<span style="color:PaleTurquoise">988T</span>'''
+|'''<span style="color:PaleTurquoise">229Q</span>'''
+|14.7T
+|50280
+|-
+| rowspan="3" |[[File:Maiden Bob.png|center|50px]]
+|Maiden Bob 1
+|389M
+|'''<span style="color:PaleTurquoise">1.13Q</span>'''
+|'''<span style="color:PaleTurquoise">262Q</span>'''
+|15.7T
+|51840
+| rowspan="3" | +3% Yellow Crystal Bonus
+|-
+|Maiden Bob 2
+|399M
+|'''<span style="color:PaleTurquoise">1.29Q</span>'''
+|'''<span style="color:PaleTurquoise">301Q</span>'''
+|16.8T
+|53400
+|-
+|Maiden Bob 3
+|410M
+|'''<span style="color:PaleTurquoise">1.49Q</span>'''
+|'''<span style="color:PaleTurquoise">346Q</span>'''
+|18T
+|54960
+|-
+| rowspan="3" |[[File:Lunar Jim.png|center|50px]]
+|Lunar Jim 1
+|421M
+|'''<span style="color:PaleTurquoise">1.71Q</span>'''
+|'''<span style="color:PaleTurquoise">398Q</span>'''
+|19.4T
+|56520
+| rowspan="3" | +4% Shield Recharge Rate
+|-
+|Lunar Jim 2
+|432M
+|'''<span style="color:PaleTurquoise">1.98Q</span>'''
+|'''<span style="color:PaleTurquoise">460Q</span>'''
+|20.8T
+|58080
+|-
+|Lunar Jim 3
+|443M
+|'''<span style="color:PaleTurquoise">2.29Q</span>'''
+|'''<span style="color:PaleTurquoise">533Q</span>'''
+|22.4T
+|59640
+|-
+| rowspan="3" |[[File:Nosip.png|center|50px]]
+|Nosip 1
+|454M
+|'''<span style="color:PaleTurquoise">2.66Q</span>'''
+|'''<span style="color:PaleTurquoise">618Q</span>'''
+|24.1T
+|61200
+| rowspan="3" | +15% Crusade EXP
+|-
+|Nosip 2
+|466M
+|'''<span style="color:PaleTurquoise">3.09Q</span>'''
+|'''<span style="color:PaleTurquoise">719Q</span>'''
+|26T
+|62760
+|-
+|Nosip 3
+|477M
+|'''<span style="color:PaleTurquoise">3.61Q</span>'''
+|'''<span style="color:PaleTurquoise">838Q</span>'''
+|28T
+|64320
+|-
+| rowspan="3" |[[File:Sprigglio.png|center|50px]]
+|Sprigglio 1
+|489M
+|'''<span style="color:PaleTurquoise">4.22Q</span>'''
+|'''<span style="color:PaleTurquoise">980Q</span>'''
+|30.2T
+|65880
+| rowspan="3" | +10% Acolyte Efficiency
+|-
+|Sprigglio 2
+|501M
+|'''<span style="color:PaleTurquoise">4.94Q</span>'''
+|'''<span style="color:PaleTurquoise">1.14QQ</span>'''
+|32.6T
+|67440
+|-
+|Sprigglio 3
+|514M
+|'''<span style="color:PaleTurquoise">5.8Q</span>'''
+|'''<span style="color:PaleTurquoise">1.34QQ</span>'''
+|35.2T
+|69000
+|-
+| rowspan="3" |[[File:The Maw.png|center|50px]]
+|The Maw 1
+|526M
+|'''<span style="color:PaleTurquoise">6.82Q</span>'''
+|'''<span style="color:PaleTurquoise">1.58QQ</span>'''
+|38T
+|70560
+| rowspan="3" | +6% Botany Growth Speed
+|-
+|The Maw 2
+|539M
+|'''<span style="color:PaleTurquoise">8.05Q</span>'''
+|'''<span style="color:PaleTurquoise">1.86QQ</span>'''
+|41T
+|72120
+|-
+|The Maw 3
+|552M
+|'''<span style="color:PaleTurquoise">9.51Q</span>'''
+|'''<span style="color:PaleTurquoise">2.2QQ</span>'''
+|44.3T
+|73680
+|-
+| rowspan="3" |[[File:Nevrblink.png|center|50px]]
+|Nevrblink 1
+|565M
+|'''<span style="color:PaleTurquoise">11.2Q</span>'''
+|'''<span style="color:PaleTurquoise">2.61QQ</span>'''
+|47.9T
+|75240
+| rowspan="3" | +26% Ores From Mining
+|-
+|Nevrblink 2
+|578M
+|'''<span style="color:PaleTurquoise">13.3Q</span>'''
+|'''<span style="color:PaleTurquoise">3.1QQ</span>'''
+|51.7T
+|76800
+|-
+|Nevrblink 3
+|591M
+|'''<span style="color:PaleTurquoise">15.9Q</span>'''
+|'''<span style="color:PaleTurquoise">3.69QQ</span>'''
+|55.9T
+|78360
+|-
+| rowspan="3" |[[File:Wee Wee.png|center|50px]]
+|Wee Wee 1
+|605M
+|'''<span style="color:PaleTurquoise">18.9Q</span>'''
+|'''<span style="color:PaleTurquoise">4.41QQ</span>'''
+|60.4T
+|79920
+| rowspan="3" | +3 Crusaders
+|-
+|Wee Wee 2
+|619M
+|'''<span style="color:PaleTurquoise">22.7Q</span>'''
+|'''<span style="color:PaleTurquoise">5.27QQ</span>'''
+|65.2T
+|81480
+|-
+|Wee Wee 3
+|633M
+|'''<span style="color:PaleTurquoise">27.1Q</span>'''
+|'''<span style="color:PaleTurquoise">6.31QQ</span>'''
+|70.4T
+|83040
+|-
+| rowspan="3" |[[File:18 - Chill Bros.png|center|50px]]
+|Chill Bros 1
+|647M
+|'''<span style="color:PaleTurquoise">32.6Q</span>'''
+|'''<span style="color:PaleTurquoise">7.58QQ</span>'''
+|76.1T
+|84600
+| rowspan="3" | +2% Pink Crystal Bonus
+|-
+|Chill Bros 2
+|662M
+|'''<span style="color:PaleTurquoise">39.3Q</span>'''
+|'''<span style="color:PaleTurquoise">9.12QQ</span>'''
+|82.1T
+|86160
+|-
+|Chill Bros 3
+|677M
+|'''<span style="color:PaleTurquoise">47.4Q</span>'''
+|'''<span style="color:PaleTurquoise">11QQ</span>'''
+|88.6T
+|87720
+|-
+| rowspan="3" |[[File:Lenscythe.png|center|50px]]
+|Lenscythe 1
+|692M
+|'''<span style="color:PaleTurquoise">57.2Q</span>'''
+|'''<span style="color:PaleTurquoise">13.3QQ</span>'''
+|95.6T
+|89280
+| rowspan="3" | +3% Crit Chance
+|-
+|Lenscythe 2
+|707M
+|'''<span style="color:PaleTurquoise">69.4Q</span>'''
+|'''<span style="color:PaleTurquoise">16.1QQ</span>'''
+|103T
+|90840
+|-
+|Lenscythe 3
+|723M
+|'''<span style="color:PaleTurquoise">84.2Q</span>'''
+|'''<span style="color:PaleTurquoise">19.5QQ</span>'''
+|109T
+|92400
+|-
+| rowspan="3" |[[File:Terminus.png|center|50px]]
+|Terminus 1
+|738M
+|'''<span style="color:PaleTurquoise">102Q</span>'''
+|'''<span style="color:PaleTurquoise">23.8QQ</span>'''
+|115T
+|93960
+| rowspan="3" | +2% Black Crystal Bonus
+|-
+|Terminus 2
+|754M
+|'''<span style="color:PaleTurquoise">125Q</span>'''
+|'''<span style="color:PaleTurquoise">29QQ</span>'''
+|121T
+|95520
+|-
+|Terminus 3
+|770M
+|'''<span style="color:PaleTurquoise">152Q</span>'''
+|'''<span style="color:PaleTurquoise">35.4QQ</span>'''
+|128T
+|97080
+|-
+|[[File:21 - Disciple MS.png|center|50px]]
+|Disciple MS
+|787M
+|'''<span style="color:PaleTurquoise">187Q</span>'''
+|'''<span style="color:PaleTurquoise">43.4QQ</span>'''
+|135T
+|98640
+|<nowiki>+13% Base Damage</nowiki>
+|-
+|[[File:Keymaster MS.png|center|50px]]
+|Keymaster MS
+|804M
+|'''<span style="color:PaleTurquoise">229Q</span>'''
+|'''<span style="color:PaleTurquoise">53.3QQ</span>'''
+|143T
+|100200
+|<nowiki>+8% Overgrowth Speed</nowiki>
+|-
+|[[File:Glitch.png|center|50px]]
+|Glitch 1
+|821M
+|'''<span style="color:PaleTurquoise">282Q</span>'''
+|'''<span style="color:PaleTurquoise">65.6QQ</span>'''
+|151T
+|101760
+|<nowiki>+5% Potion Cost Redux</nowiki>
+|-
+| style="text-align: center;" | -
+|Glitch 2
+|838M
+|'''<span style="color:PaleTurquoise">348Q</span>'''
+|'''<span style="color:PaleTurquoise">90.8QQ</span>'''
+|159T
+|103320
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 3
+|855M
+|'''<span style="color:PaleTurquoise">430Q</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|168T
+|104880
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 4
+|873M
+|'''<span style="color:PaleTurquoise">532Q</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|177T
+|106440
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 5
+|891M
+|'''<span style="color:PaleTurquoise">661Q</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|187T
+|108000
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 6
+|909M
+|'''<span style="color:PaleTurquoise">822Q</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|196T
+|109560
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 7
+|928M
+|'''<span style="color:PaleTurquoise">1.02QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|207T
+|111120
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 8
+|947M
+|'''<span style="color:PaleTurquoise">1.27QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|218T
+|112680
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 9
+|966M
+|'''<span style="color:PaleTurquoise">1.6QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|229T
+|114240
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 10
+|985M
+|'''<span style="color:PaleTurquoise">2QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|241T
+|115800
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 11
+|1005M
+|'''<span style="color:PaleTurquoise">2.52QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|253T
+|117360
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 12
+|1025M
+|'''<span style="color:PaleTurquoise">3.17QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|266T
+|118920
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 13
+|1045M
+|'''<span style="color:PaleTurquoise">4QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|280T
+|120480
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 14
+|1066M
+|'''<span style="color:PaleTurquoise">5.06QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|294T
+|122040
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 15
+|1087M
+|'''<span style="color:PaleTurquoise">6.42QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|308T
+|123600
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 16
+|1108M
+|'''<span style="color:PaleTurquoise">8.15QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|323T
+|125160
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 17
+|1130M
+|'''<span style="color:PaleTurquoise">10.3QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|339T
+|126720
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 18
+|1152M
+|'''<span style="color:PaleTurquoise">13.2QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|356T
+|128280
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 19
+|1174M
+|'''<span style="color:PaleTurquoise">16.9QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|373T
+|129840
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 20
+|1196M
+|'''<span style="color:PaleTurquoise">21.6QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|390T
+|131400
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 21
+|1219M
+|'''<span style="color:PaleTurquoise">27.7QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|409T
+|132960
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 22
+|1242M
+|'''<span style="color:PaleTurquoise">35.7QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|428T
+|134520
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 23
+|1266M
+|'''<span style="color:PaleTurquoise">46QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|448T
+|136080
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 24
+|1290M
+|'''<span style="color:PaleTurquoise">59.3QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|469T
+|137640
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 25
+|1314M
+|'''<span style="color:PaleTurquoise">76.8QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|491T
+|139200
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 26
+|1339M
+|'''<span style="color:PaleTurquoise">99.5QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|513T
+|140760
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 27
+|1364M
+|'''<span style="color:PaleTurquoise">129QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|536T
+|142320
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 28
+|1389M
+|'''<span style="color:PaleTurquoise">168QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|560T
+|143880
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 29
+|1415M
+|'''<span style="color:PaleTurquoise">219QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|585T
+|145440
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 30
+|1441M
+|'''<span style="color:PaleTurquoise">286QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|611T
+|147000
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 31
+|1467M
+|'''<span style="color:PaleTurquoise">375QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|638T
+|148560
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 32
+|1494M
+|'''<span style="color:PaleTurquoise">492QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|666T
+|150120
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 33
+|1521M
+|'''<span style="color:PaleTurquoise">647QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|695T
+|151680
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 34
+|1549M
+|'''<span style="color:PaleTurquoise">852QQ</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|724T
+|153240
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 35
+|1577M
+|'''<span style="color:Indigo">1.1</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|755T
+|154800
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 36
+|1605M
+|'''<span style="color:Indigo">1.4</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|787T
+|156360
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 37
+|1634M
+|'''<span style="color:Indigo">1.9</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|821T
+|157920
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 38
+|1663M
+|'''<span style="color:Indigo">2.6</span>'''
+|'''<span style="color:PaleTurquoise"></span>'''
+|855T
+|159480
+| style="text-align: center;" | -
+|}
+[[Category:Zone]]
+[[Category:Fighting]]

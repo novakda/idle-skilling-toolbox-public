@@ -1,0 +1,94 @@
+{| class="article-table" border="1" align="center"
+|-
+! scope="col" style="text-align: center;" |Blobulytes
+! colspan="8" scope="col" style="text-align: center;" |Unlocks at Level 80
+|-
+| rowspan="2" |[[File:Blobulytes.png]]
+| colspan="2" |[[File:Infant.png|center]]
+| colspan="2" |[[File:Child.png|center]]
+| colspan="2" |[[File:Supervisor.png|center]]
+| colspan="2" |[[File:Heavy_miner.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Infant
+| colspan="2" |Child
+| colspan="2" |Supervisor
+| colspan="2" |Heavy Miner
+|-
+! style="text-align: center;" |Tier
+| colspan="2" |[[File:Tier1skull.png|center|40px]]
+| colspan="2" |[[File:Tier2skull.png|center|40px]]
+|[[File:Tier3skull.png|center|40px]]
+|[[File:Tier4skull.png|center|40px]]
+|[[File:Tier5skull.png|center|40px]]
+|[[File:Tier6skull.png|center|40px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Defense
+| colspan="2" |1M
+| colspan="2" |4M
+|40M
+|407M
+|4105M
+|41B
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |5.6T
+| colspan="2" |30T
+|1Q
+|124Q
+|7QQ
+|469QQ
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |50M
+| colspan="2" |130M
+|1.1B
+|11B
+|108B
+|981B
+|-
+! scope="col" style="text-align: center;" |Puppeteer
+! colspan="8" scope="col" style="text-align: center;" |Unlocks at Level 90
+|-
+| rowspan="2" |[[File:Puppeteer.png]]
+| colspan="2" |[[File:Controlled.png|center]]
+| colspan="2" |[[File:Taken.png|center]]
+| colspan="2" |[[File:Posessed.png|center]]
+| colspan="2" |[[File:Bob_too.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Controlled
+| colspan="2" |Taken
+| colspan="2" |Posessed
+| colspan="2" |Bob Too
+|-
+! style="text-align: center;" |Tier
+| colspan="2" |[[File:Tier1skull.png|center|40px]]
+| colspan="2" |[[File:Tier2skull.png|center|40px]]
+|[[File:Tier3skull.png|center|40px]]
+|[[File:Tier4skull.png|center|40px]]
+|[[File:Tier5skull.png|center|40px]]
+|[[File:Tier6skull.png|center|40px]]
+|- style="text-align: center;"
+! style="text-align: center;" |Defense
+| colspan="2" |10M
+| colspan="2" |43M
+|519M
+|6129M
+|72B
+|854B
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |113T
+| colspan="2" |732T
+|43Q
+|2QQ
+|171QQ
+|10QQQ
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |200M
+| colspan="2" |556M
+|4.7B
+|47B
+|447B
+|4T
+|}

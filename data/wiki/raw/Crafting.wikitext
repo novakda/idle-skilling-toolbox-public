@@ -1,0 +1,24 @@
+{{:Header/Crafting}}
+
+The Crafting tab becomes available in the top left menu when any of the Mining, Smithing, or Fishing [[Perks]] are unlocked.
+
+== [[Mining]] ==
+Miners gather ore which can be used in smithing to create items that provide helpful bonuses in the game. Up to six miners may be trained, allowing 6 different ores to be mined at the same time. There are currently 16 types of ore in the game.
+
+== [[Smithing]] ==
+Use the blacksmith's forges to craft trinkets with mining and fishing resources. These items grants bonuses primarily to [[Fight]]ing, [[Train]]ing, [[Fishing]], and [[Mining]] but there are some unique items that boost bonuses from [[Secrets]] and AP on [[Ascension]].
+
+== [[Fishing]] ==
+Fish can also be used in the smithing process. The fisherman can only catch one type of fish at a time, but the amount of that fish caught can be increased by upgrading his power directly with gold or by crafting fishing rods. Both crafted fishing rods and hooks obtained from higher fishing levels increase the chances of catching larger fish. There are 14 types of small fish, 10 types of medium fish, and 6 types of large fish that can be caught.
+
+
+{| style="width: 60%;"  cellspacing="0" cellpadding="0" border="0" align="center"
+| style="width: 15%;"|[[File:Mining icon.png|center|link=Mining]]
+| style="width: 15%;"|[[File:Smithing icon.png|center|link=Smithing]]
+| style="width: 15%;"|[[File:Fishing icon.png|center|link=Fishing]]
+|-
+| style="text-align: center;"|[[Mining]]
+| style="text-align: center;"|[[Smithing]]
+| style="text-align: center;"|[[Fishing]]
+|}
+[[Category:Crafting]]

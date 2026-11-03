@@ -1,0 +1,489 @@
+[
+ {
+  "_page": "Construction",
+  "_section": "Yellow Domain",
+  "_table": 0,
+  "Upgrade": "Builder Bros",
+  "Effect": "+(1-9) Builders",
+  "Prerequisite": "-",
+  "Max Lvl": 9,
+  "_images": [
+   "Builder_bros.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Yellow Domain",
+  "_table": 0,
+  "Upgrade": "Sitty Chair",
+  "Effect": "+(2*lvl)% Spelunker Speed and gives Construction Exp per hour",
+  "Prerequisite": "Builder Bros",
+  "Max Lvl": 100,
+  "_images": [
+   "Sitty_chair.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Yellow Domain",
+  "_table": 0,
+  "Upgrade": "Mining Mind",
+  "Effect": "Every 20 Mining levels multiplies ore gain by 1+(.022*lvl) times",
+  "Prerequisite": "Builder Bros",
+  "Max Lvl": 32,
+  "_images": [
+   "Mining_mind.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Yellow Domain",
+  "_table": 0,
+  "Upgrade": "Machinery",
+  "Effect": "+(1-8) Machines",
+  "Prerequisite": "Mining Mind",
+  "Max Lvl": 8,
+  "_images": [
+   "Machinery.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Yellow Domain",
+  "_table": 0,
+  "Upgrade": "Spliney Shoe",
+  "Effect": "+(10*lvl)% damage per luck lvl of all spiriting skillers",
+  "Prerequisite": "Machinery",
+  "Max Lvl": 40,
+  "_images": [
+   "Spliney_shoes.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Yellow Domain",
+  "_table": 0,
+  "Upgrade": "Hyper Bricks",
+  "Effect": "Rifts get a 1.5X multiplicative bonus to its XP gain per brick",
+  "Prerequisite": "Spliney Shoe",
+  "Max Lvl": 30,
+  "_images": [
+   "Hyper_bricks.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Yellow Domain",
+  "_table": 0,
+  "Upgrade": "Foil Cards",
+  "Effect": "Turn in a full set of 5 star cards to increase the max level of those cards to 6 [note: you lose the cards upon finishing the upgrade]",
+  "Prerequisite": "Machinery",
+  "Max Lvl": 10,
+  "_images": [
+   "Foil_cards.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Yellow Domain",
+  "_table": 0,
+  "Upgrade": "Pink Printer",
+  "Effect": "Lets you convert white souls to pink souls at a rate of X to 1",
+  "Prerequisite": "Foil Cards",
+  "Max Lvl": 5,
+  "_images": [
+   "Pink_printer.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Yellow Domain",
+  "_table": 0,
+  "Upgrade": "Rift Pro",
+  "Effect": "Adds an alternate bonus to a rift",
+  "Prerequisite": "Pink Printer",
+  "Max Lvl": 5,
+  "_images": [
+   "Rift_pro.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Yellow Domain",
+  "_table": 0,
+  "Upgrade": "Voyage Pact",
+  "Effect": "Grants access to Crusades 14 and 15",
+  "Prerequisite": "Rift Pro",
+  "Max Lvl": 1,
+  "_images": [
+   "Voyage_pact.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Blue Domain",
+  "_table": 1,
+  "Upgrade": "Dirts Ahoy",
+  "Effect": "5/10 new crops unlocked",
+  "Prerequisite": "-",
+  "Max Lvl": 2,
+  "_images": [
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Blue Domain",
+  "_table": 1,
+  "Upgrade": "Iron Throne",
+  "Effect": "+(2*lvl)% Construction Speed and gives Construction Exp per hour",
+  "Prerequisite": "Dirts Ahoy",
+  "Max Lvl": 100,
+  "_images": [
+   "Iron_throne_construction.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Blue Domain",
+  "_table": 1,
+  "Upgrade": "Bucketeers",
+  "Effect": "6/12 new flowers unlocked",
+  "Prerequisite": "Dirts Ahoy",
+  "Max Lvl": 2,
+  "_images": [
+   "Bucketeers.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Blue Domain",
+  "_table": 1,
+  "Upgrade": "Brew Laddy",
+  "Effect": "3/6/9/12 new potions unlocked",
+  "Prerequisite": "Bucketeers",
+  "Max Lvl": 4,
+  "_images": [
+   "Brew_laddy.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Blue Domain",
+  "_table": 1,
+  "Upgrade": "Mach Speed",
+  "Effect": "X% faster machine conversion rate",
+  "Prerequisite": "Brew Laddy",
+  "Max Lvl": 20,
+  "_images": [
+   "Mach_speed.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Blue Domain",
+  "_table": 1,
+  "Upgrade": "Tink Time",
+  "Effect": "Gives a 3rd stat line to the first (1-10) items in the weapon, helmet, and shirt categories of tinkering items",
+  "Prerequisite": "Mach Speed",
+  "Max Lvl": 10,
+  "_images": [
+   "Tink_time.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Blue Domain",
+  "_table": 1,
+  "Upgrade": "Smithy Cert",
+  "Effect": "2/4/6/8 new crafts unlocked",
+  "Prerequisite": "Tink Time",
+  "Max Lvl": 4,
+  "_images": [
+   "Smithy_cert.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Blue Domain",
+  "_table": 1,
+  "Upgrade": "Foil Bosses",
+  "Effect": "Turn in a full set of 5 star cards to increase the max level of those cards to 6 [note: you lose the cards upon finishing the upgrade]",
+  "Prerequisite": "Smithy Cert",
+  "Max Lvl": 8,
+  "_images": [
+   "Foil_bosses.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Blue Domain",
+  "_table": 1,
+  "Upgrade": "Rift God",
+  "Effect": "Adds an alternate bonus to a rift",
+  "Prerequisite": "Foil Bosses",
+  "Max Lvl": 4,
+  "_images": [
+   "Rift_god.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Green Domain",
+  "_table": 2,
+  "Upgrade": "Ni Ni Shrubbery",
+  "Effect": "+(0.75*lvl)% Learning Speed and gives Construction Exp per hour",
+  "Prerequisite": "Brew Man",
+  "Max Lvl": 100,
+  "_images": [
+   "Ni_ni_shrubbery.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Green Domain",
+  "_table": 2,
+  "Upgrade": "Brew Man",
+  "Effect": "3/6/9/12 new potions unlocked",
+  "Prerequisite": "-",
+  "Max Lvl": 4,
+  "_images": [
+   "Brew_man.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Green Domain",
+  "_table": 2,
+  "Upgrade": "Big Boy Bags",
+  "Effect": "+(1-?) treasure per bag",
+  "Prerequisite": "Brew Man",
+  "Max Lvl": 9,
+  "_images": [
+   "Big_boy_bags.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Green Domain",
+  "_table": 2,
+  "Upgrade": "Croppy Notes",
+  "Effect": "5/10 new crops unlocked",
+  "Prerequisite": "Big Boy Bags",
+  "Max Lvl": 4,
+  "_images": [
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Green Domain",
+  "_table": 2,
+  "Upgrade": "Plant Em All",
+  "Effect": "6/12 new flowers unlocked",
+  "Prerequisite": "Croppy Notes",
+  "Max Lvl": 2,
+  "_images": [
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Green Domain",
+  "_table": 2,
+  "Upgrade": "Hammer Time",
+  "Effect": "2/4/6/8 new crafts unlocked",
+  "Prerequisite": "Plant Em All",
+  "Max Lvl": 4,
+  "_images": [
+   "Hammer_time_construction.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Green Domain",
+  "_table": 2,
+  "Upgrade": "Brew Maestro",
+  "Effect": "3/6/9/12 new potions unlocked",
+  "Prerequisite": "Hammer Time",
+  "Max Lvl": 4,
+  "_images": [
+   "Brew_maestro.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Green Domain",
+  "_table": 2,
+  "Upgrade": "Boostio",
+  "Effect": "Boosters now have a (3*lvl)% chance to apply a Y% higher boost [Note: Y scales with highest boost lvl]",
+  "Prerequisite": "Hammer Time",
+  "Max Lvl": 20,
+  "_images": [
+   "Boostio.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Green Domain",
+  "_table": 2,
+  "Upgrade": "Tinkolicious",
+  "Effect": "Gives a 3rd stat line to the first (1-10) items in the pants, offhand, and pendant categories of tinkering items",
+  "Prerequisite": "Boostio",
+  "Max Lvl": 10,
+  "_images": [
+   "Tinkolicious.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Green Domain",
+  "_table": 2,
+  "Upgrade": "BOGO Offer",
+  "Effect": "Applies a 35% cost reduction to potion brewing (lvl) times (multiplicative)",
+  "Prerequisite": "Tinkolicious",
+  "Max Lvl": 25,
+  "_images": [
+   "Bogo_offer.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Red Domain",
+  "_table": 3,
+  "Upgrade": "Mama Mia",
+  "Effect": "Every 20 Apothecary levels multiplies cauldron brew speed by 1.X times",
+  "Prerequisite": "-",
+  "Max Lvl": 30,
+  "_images": [
+   "Mama_mia.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Red Domain",
+  "_table": 3,
+  "Upgrade": "Chandelier",
+  "Effect": "Gives Construction Exp per hour",
+  "Prerequisite": "Mama Mia",
+  "Max Lvl": 100,
+  "_images": [
+   "Chandelier_construction.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Red Domain",
+  "_table": 3,
+  "Upgrade": "Brew Bobby",
+  "Effect": "3/6/9/12 new potions unlocked",
+  "Prerequisite": "Mama Mia",
+  "Max Lvl": 4,
+  "_images": [
+   "Brew_bobby.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Red Domain",
+  "_table": 3,
+  "Upgrade": "Gattaca",
+  "Effect": "Permanently gives an additional gene toward your trekking combos. Total:",
+  "Prerequisite": "Brew Bobby",
+  "Max Lvl": 7,
+  "_images": [
+   "Gattaca.png",
+   "Genetic_Perception.png",
+   "Genetic_Swiftness.png",
+   "Genetic_Loot.png",
+   "Genetic_Enthusiasm.png",
+   "Genetic_Genesis.png",
+   "Genetic_Respawn.png",
+   "Genetic_Abominable.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Red Domain",
+  "_table": 3,
+  "Upgrade": "Anotha One",
+  "Effect": "+1/2/3 max boost slots for Tinkering equips",
+  "Prerequisite": "Gattaca",
+  "Max Lvl": 3,
+  "_images": [
+   "Anotha_one.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Red Domain",
+  "_table": 3,
+  "Upgrade": "Prosperity",
+  "Effect": "Afterlife Minions make (lvl*0.15?) more Coins",
+  "Prerequisite": "Anotha One",
+  "Max Lvl": 10,
+  "_images": [
+   "Prosperity.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Red Domain",
+  "_table": 3,
+  "Upgrade": "Kilowater",
+  "Effect": "+X% Cash and Damage per H2O lvl above 1000",
+  "Prerequisite": "Prosperity",
+  "Max Lvl": 50,
+  "_images": [
+   "Kilowater.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Red Domain",
+  "_table": 3,
+  "Upgrade": "Repentance",
+  "Effect": "Randomly Get Away Time in Afterlife Based on Skulls lvl",
+  "Prerequisite": "Kilowater",
+  "Max Lvl": 10,
+  "_images": [
+   "Repentance.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Red Domain",
+  "_table": 3,
+  "Upgrade": "Juiced Up",
+  "Effect": "+X% Ores, Fish, Crops and Flowers per H2O lvl above 1000",
+  "Prerequisite": "Repentance",
+  "Max Lvl": 50,
+  "_images": [
+   "Juiced_up.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Red Domain",
+  "_table": 3,
+  "Upgrade": "Stoicism",
+  "Effect": "+X% More Spirals when resetting in the Afterlife",
+  "Prerequisite": "Juiced Up",
+  "Max Lvl": 10,
+  "_images": [
+   "Stoicism.png"
+  ]
+ },
+ {
+  "_page": "Construction",
+  "_section": "Red Domain",
+  "_table": 3,
+  "Upgrade": "Fury",
+  "Effect": "Your minions do +1.01X more dmg per afterlife reached. (1.1X cap)",
+  "Prerequisite": "Stoicism",
+  "Max Lvl": 10,
+  "_images": [
+   "Fury.png"
+  ]
+ }
+]

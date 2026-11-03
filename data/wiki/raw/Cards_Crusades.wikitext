@@ -1,0 +1,537 @@
+<table-progress-tracking table-id="Crusades1" unique-column-index="2">
+{| class="listing sortable" style="width: 100%;" border="0" align="center"
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |Zone
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+|-
+|[[File:C_bandit_shroom.png|36px]]
+|Crus.Grasslands-1
+|Bandit Shroom
+|Claw Skill Damage
+|20%
+|400%
+|-
+|[[File:C_patchy.png|36px]]
+|Crus.Grasslands-2
+|Patchy
+|Common Material Cost Reduction
+|1%
+|15%
+|-
+|[[File:C_snailsin.png|36px]]
+|Crus.Grasslands-3
+|Snailsin
+|Poison Skill Damage
+|20%
+|400%
+|-
+|[[File:C_lmr_deckhand.png|36px]]
+|Crus.Grasslands-4
+|Lmr Deckhand
+|Crusade EXP
+|3%
+|60%
+|-
+|[[File:C_the_bruiser.png|36px]]
+|Crus.Grasslands-5
+|The Bruiser
+|Daily Crusade Max. Fight Bonus
+|5%
+|100%
+|-
+|[[File:C_recruit.png|36px]]
+|Crus.Grasslands-6
+|Recruit
+|Crusade Card Chance
+|2%
+|40%
+|-
+|[[File:C_limpy.png|36px]]
+|Crus.Grasslands-7
+|Limpy
+|Monster Cash
+|12%
+|240%
+|-
+|[[File:C_smile.png|36px]]
+|Crus.Grasslands-8
+|Smile
+|Accuracy
+|7%
+|140%
+|-
+|[[File:C_mime.png|36px]]
+|Crus.Grasslands-9
+|Mime
+|Healing from Food
+|11%
+|220%
+|-
+|[[File:C_toxic_sludge.png|36px]]
+|Crus.Grasslands-10
+|Toxic Sludge
+|Crusade Heal Uses
+|1
+|5
+|-
+|[[File:C_chewed.png|36px]]
+|Crus.Grasslands-11
+|Chewed
+|Perk Points Gained
+|3%
+|60%
+|-
+|[[File:C_nibbled.png|36px]]
+|Crus.Grasslands-12
+|Nibbled
+|Healing from Heal Skill
+|100%
+|100% (bug)
+|-
+|[[File:C_bitten.png|36px]]
+|Crus.Grasslands-13
+|Bitten
+|Crusade EXP
+|5%
+|100%
+|-
+|[[File:C_munched.png|36px]]
+|Crus.Grasslands-14
+|Munched
+|Max Shields
+|10%
+|200%
+|-
+|[[File:C_killer_rabbit.png|36px]]
+|Crus.Grasslands-15
+|Killer Rabbit
+|Inactive Crusaders
+|1
+|15
+|-
+|[[File:C_monoclesius.png|36px]]
+|Crus.Desert-1
+|Monoclesius
+|Meteor Skill Damage
+|15%
+|300%
+|-
+|[[File:C_teassius.png|36px]]
+|Crus.Desert-2
+|Teassius
+|Damage from Trinkets
+|8%
+|160%
+|-
+|[[File:C_cactarus.png|36px]]
+|Crus.Desert-3
+|Cactaurus
+|Common Material Cost Reduction
+|1%
+|15%
+|-
+|[[File:C_canesius.png|36px]]
+|Crus.Desert-4
+|Cansius
+|Shield Charge Rate
+|3%
+|60%
+|-
+|[[File:C_desert_giant.png|36px]]
+|Crus.Desert-5
+|Desert Giant
+|Tinkering EXP
+|12%
+|240%
+|-
+|[[File:C_blade_row.png|36px]]
+|Crus.Desert-6
+|Blade Row
+|Crusade Reward Multiplier
+|2%
+|40%
+|-
+|[[File:C_white_p_hat.png|36px]]
+|Crus.Desert-7
+|White P Hat
+|Base Ignore Defense
+|30
+|600
+|-
+|[[File:C_spike_o_nut.png|36px]]
+|Crus.Desert-8
+|Spike O Nut
+|Mining EXP Gained
+|8%
+|160%
+|-
+|[[File:C_punch_buggo.png|36px]]
+|Crus.Desert-9
+|Pinch Buggo
+|Meteor Skill Damage
+|25%
+|500%
+|-
+|[[File:C_pincermin.png|36px]]
+|Crus.Desert-10
+|Pincermin
+|Total Damage
+|35%
+|700%
+|-
+|[[File:C_babby_wurm.png|36px]]
+|Crus.Desert-11
+|Babby Wurm
+|Poison Skill Damage
+|20%
+|400%
+|-
+|[[File:C_scorpy_wurm.png|36px]]
+|Crus.Desert-12
+|Scorpy Wurm
+|Base Damage
+|1500
+|30000
+|-
+|[[File:C_vampy_wurm.png|36px]]
+|Crus.Desert-13
+|Vampy Wurm
+|Uncommon Material Cost Reduction
+|1%
+|15%
+|-
+|[[File:C_tubby_wurm.png|36px]]
+|Crus.Desert-14
+|Tubby Wurm
+|Perk Points Gained
+|5%
+|100%
+|-
+|[[File:C_tremor_wurm.png|36px]]
+|Crus.Desert-15
+|Tremor Wurm
+|Idle Damage
+|45%
+|900%
+|-
+|[[File:C_minty.png|36px]]
+|Crus.Mountains-1
+|Minty
+|Cash from Midas
+|25%
+|500%
+|-
+|[[File:C_enigma.png|36px]]
+|Crus.Mountains-2
+|Enigma
+|Cyber Food Efficiency
+|3%
+|60%
+|-
+|[[File:C_witness.png|36px]]
+|Crus.Mountains-3
+|Witness
+|Souls kept after Ascending
+|2%
+|40%
+|-
+|[[File:C_identity.png|36px]]
+|Crus.Mountains-4
+|Identity
+|Max Shields
+|15%
+|300%
+|-
+|[[File:C_faust.png|36px]]
+|Crus.Mountains-5
+|Faust
+|Max Shields
+|75%
+|1500%
+|-
+|[[File:C_spiderling.png|36px]]
+|Crus.Mountains-6
+|Spiderling
+|Uncommon Material Cost Reduction
+|1%
+|15%
+|-
+|[[File:C_webbo.png|36px]]
+|Crus.Mountains-7
+|Webbo
+|Flurry Skill Damage
+|15%
+|300%
+|-
+|[[File:C_bounded_bob.png|36px]]
+|Crus.Mountains-8
+|Bounded Bob
+|Smite Skill Damage
+|8%
+|160%
+|-
+|[[File:C_queens_egg.png|36px]]
+|Crus.Mountains-9
+|Queens Egg
+|Rare Material Cost Reduction
+|1%
+|15%
+|-
+|[[File:C_arachneon.png|36px]]
+|Crus.Mountains-10
+|Arachneon
+|Crusade Seal Uses
+|2
+|10
+|-
+|[[File:C_follower.png|36px]]
+|Crus.Mountains-11
+|Follower
+|Banana Bonk Skill Damage
+|12%
+|240%
+|-
+|[[File:C_fabricio.png|36px]]
+|Crus.Mountains-12
+|Fabricio
+|Tinkering EXP
+|8%
+|160%
+|-
+|[[File:C_fliquer.png|36px]]
+|Crus.Mountains-13
+|Fliquer
+|Inactive Crusaders
+|1
+|10
+|-
+|[[File:C_devout.png|36px]]
+|Crus.Mountains-14
+|Devout
+|Crusade Reward Multiplier
+|4%
+|80%
+|-
+|[[File:C_gheist.png|36px]]
+|Crus.Mountains-15
+|Gheist
+|Ignore Defense
+|1%
+|15%
+|-
+|[[File:C_toothu.png|36px]]
+|Crus.Mountains-16
+|Toothu
+|Rare Material Cost Reduction
+|1%
+|15%
+|-
+|[[File:C_poisson.png|36px]]
+|Crus.Mountains-17
+|Poisson
+|Cyber Food Efficiency
+|5%
+|100%
+|-
+|[[File:C_turned_worm.png|36px]]
+|Crus.Mountains-18
+|Turned Worm
+|Crusade Card Chance
+|6%
+|120%
+|-
+|[[File:C_basiling.png|36px]]
+|Crus.Mountains-19
+|Basiling
+|Base Damage
+|4000
+|80000
+|-
+|[[File:C_basilisk.png|36px]]
+|Crus.Mountains-20
+|Basilisk
+|Crusade EXP
+|25%
+|500%
+|-
+|[[File:C_infant.png|36px]]
+|Crus.TheMist-1
+|Infant
+|Shield Charge Rate
+|5%
+|100%
+|-
+|[[File:C_child.png|36px]]
+|Crus.TheMist-2
+|Child
+|Banana Bonk Skill Damage
+|30%
+|600%
+|-
+|[[File:C_supervisor.png|36px]]
+|Crus.TheMist-3
+|Supervisor
+|Inactive Crusaders
+|1
+|15
+|-
+|[[File:C_heavy_miner.png|36px]]
+|Crus.TheMist-4
+|Heavy Miner
+|Ores from Mining
+|30%
+|600%
+|-
+|[[File:C_blobulytes.png|36px]]
+|Crus.TheMist-5
+|Blobulytes
+|Total Damage
+|50%
+|800%
+|-
+|[[File:C_controlled.png|36px]]
+|Crus.TheMist-6
+|Controlled
+|Idle Damage
+|40%
+|800%
+|-
+|[[File:C_taken.png|36px]]
+|Crus.TheMist-7
+|Taken
+|Total Health
+|50%
+|1000%
+|-
+|[[File:C_posessed.png|36px]]
+|Crus.TheMist-8
+|Posessed
+|Daily Crusade Max. Fight Bonus
+|10%
+|200%
+|-
+|[[File:C_bob_too.png|36px]]
+|Crus.TheMist-9
+|Bob Too
+|Crit Damage
+|35%
+|700%
+|-
+|[[File:C_puppeteer.png|36px]]
+|Crus.TheMist-10
+|Puppeteer
+|Ignore Defense
+|2%
+|40%
+|-
+|[[File:C_sadness.png|36px]]
+|Crus.Dungeon-1
+|Sadness
+|Max Shields
+|80%
+|1600%
+|-
+|[[File:C_jealousy.png|36px]]
+|Crus.Dungeon-2
+|Jealousy
+|Crusade Reward Multiplier
+|25%
+|500%
+|-
+|[[File:C_envy.png|36px]]
+|Crus.Dungeon-3
+|Envy
+|Total Damage
+|50%
+|900%
+|-
+|[[File:C_anger.png|36px]]
+|Crus.Dungeon-4
+|Anger
+|Ignore Defense
+|2%
+|30%
+|-
+|[[File:C_narcissus.png|36px]]
+|Crus.Dungeon-5
+|Narcissus
+|Booster Chance
+|2%
+|10%
+|-
+|[[File:C_Loockey.png|36px]]
+|Crus.TheBog-1
+|Loockey
+|Potion Brewing Speed
+|8%
+|40%
+|-
+|[[File:C_Merceneye.png|36px]]
+|Crus.TheBog-2
+|Merceneye
+|Chance for Double Potion Level Up
+|5%
+|25%
+|-
+|[[File:C_Eyefull.png|36px]]
+|Crus.TheBog-3
+|Eyefull
+|Asylum Traces Gained
+|7%
+|35%
+|-
+|[[File:C_Watchtower.png|36px]]
+|Crus.TheBog-4
+|Watchtower
+|Inactive Crusaders
+|11
+|156
+|-
+|[[File:C_Crapotti.png|36px]]
+|Crus.TheBog-5
+|Crapotti
+|Spelunk Cards Chance
+|15%
+|75%
+|-
+|[[File:C_Slimmle.png|36px]]
+|Crus.LunarIsle-1
+|Slimmle
+|Spelunker Speed
+|5%
+|25%
+|-
+|[[File:C_Squiddle.png|36px]]
+|Crus.LunarIsle-2
+|Squiddle
+|Ores and Fish
+|35%
+|700%
+|-
+|[[File:C_Wawawoo.png|36px]]
+|Crus.LunarIsle-3
+|Wawawoo
+|Spelunker Learn Rate
+|2%
+|10%
+|-
+|[[File:C_Bro_Of_Some.png|36px]]
+|Crus.LunarIsle-4
+|Bro Of Some
+|Builder Speed
+|10%
+|50%
+|-
+|[[File:C_Father_Of_All.png|36px]]
+|Crus.LunarIsle-5
+|Father Of All
+|Potion Brewing Speed
+|20%
+|100%
+|}
+</table-progress-tracking>
+[[Category:Cards]]

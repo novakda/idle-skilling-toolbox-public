@@ -1,0 +1,74 @@
+{| class="listing sortable" border="0" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Cobalt_trinket.png|center]]
+| style="text-align: center;" |20
+|Cobalt Trinket
+| +1.25%
+| Damage
+|[[File:Cobalt.png|center]]
+|[[File:Platinum.png|center]]
+|-
+|[[File:Imbued_scimitar.png|center]]
+| style="text-align: center;" |20
+|Imbued Scimitar
+| +25
+| Base Damage
+|[[File:Cobalt.png|center]]
+|[[File:Blue_shark.png|center]]
+|-
+|[[File:Blacksmith_pills.png|center]]
+| style="text-align: center;" |20
+|Blacksmith Pills
+| style="text-align: center;" | -
+|May Cause Fever Dreams
+|[[File:Red_herring.png|center]]
+|[[File:Ice_cube_fish.png|center]]
+|-
+|[[File:Minor_investment.png|center]]
+| style="text-align: center;" |20
+|Minor Investment
+| +30
+| Cash every Minute
+|[[File:Firesalt.png|center]]
+| style="text-align: center;" | -
+|-
+|[[File:Lava_liver.png|center]]
+| style="text-align: center;" |20
+|Lava Liver
+| +50
+| Base Max. HP
+|[[File:Firesalt.png|center]]
+|[[File:Medium_yellow_fish.png|center]]
+|-
+|[[File:Firestone_exp.png|center]]
+| style="text-align: center;" |20
+|Firestone EXP
+| +0.2%
+| EXP Gain Chance
+|[[File:Firesalt.png|center]]
+|[[File:Lobster.png|center]]
+|-
+|[[File:Cobalt_rod.png|center]]
+| style="text-align: center;" |20
+|Cobalt Rod
+| +15
+| Fishing Power
+|[[File:Cobalt.png|center]]
+|[[File:Bonefish.png|center]]
+|-
+|[[File:Cobalt_pendant.png|center]]
+| style="text-align: center;" |20
+|Cobalt Pendant
+| +0.25%
+| Crit Chance
+|[[File:Cobalt.png|center]]
+|[[File:Blue_shark.png|center]]
+|}
+[[Category:Smithing]]

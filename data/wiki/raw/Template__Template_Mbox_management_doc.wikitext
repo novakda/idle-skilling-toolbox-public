@@ -1,0 +1,111 @@
+<noinclude>{{documentationpage}}</noinclude>
+Meta-template for building [[:Category:Page management templates|page management message boxes]].
+
+Based on {{tl|Mbox}}.
+
+==Usage==
+<pre>
+{{Mbox management
+|options  ={{{options|}}}
+|border   =gray
+|image    =Mbox_default.png
+|header   =Example header
+|content  =Example text
+|games    ={{{1|}}}
+|details  ={{{2|}}}
+|category =example category
+}}
+</pre>
+
+===Parameters===
+{{Docparam|name=color|req=no|default=gray|desc=
+Color of left border. Accepts standard [[wikipedia:HTML color names|HTML color names]] or [[wikipedia:Web colors#Hex triplet|RGB hex triplets]]. The wiki's color conventions are:
+
+<table class="va-table" style="margin-top: 10px;" cellpadding="0" cellspacing="0">
+<tr>
+<th style="width: 60px;">Color</th>
+<th>Used for</th>
+<th>Example</th>
+</tr><tr>
+<td style="background-color: red; text-align: center;">{{color|white|red}}</td>
+<td>serious issues</td>
+<td>{{tl|Delete}}</td>
+</tr><tr>
+<td style="background-color: orange; text-align: center;">{{color|black|orange}}</td>
+<td>content issues</td>
+<td>{{tl|Cleanup}}</td>
+</tr><tr>
+<td style="background-color: blue; text-align: center;">{{color|white|blue}}</td>
+<td>template issues</td>
+<td>{{tl|Infobox incomplete}}</td>
+</tr><tr>
+<td style="background-color: purple; text-align: center;">{{color|white|purple}}</td>
+<td>organization issues</td>
+<td>{{tl|Merge}}</td>
+</tr><tr>
+<td style="background-color: yellow; text-align: center;">{{color|black|yellow}}</td>
+<td>image issues</td>
+<td>{{tl|Image needed}}</td>
+</tr><tr>
+<td style="background-color: green; text-align: center;">{{color|white|green}}</td>
+<td>stub color</td>
+<td>{{tl|Stub}}</td>
+</tr><tr>
+<td style="background-color: gray; text-align: center;">{{color|white|gray}}</td>
+<td>default color</td>
+<td></td>
+</tr>
+</table>
+}}
+
+{{Docparam|name=content|req=yes|default=|desc=
+Text content of the box, displayed below <code>header</code> and above <code>footer</code>.
+}}
+
+{{Docparam|name=details|req=no|default=|desc=
+Details on the reason why this page was tagged. Displayed in brackets after <code>header</code>.
+}}
+
+{{Docparam|name=footer|req=no|default=|desc=
+Text in small font to be displayed below <code>content</code>.
+}}
+
+{{Docparam|name=games|req=no|default=|desc=
+Game abbreviation(s); for accepted abbreviations please see {{tl|abb}}. Up to 10 abbreviations can be specified if separated by comma (<code>,</code>). These are used in conjunction with <code>category</code> to add pages with this template to game-specific categories. For usage details, please see <code>category</code> above.
+}}
+
+{{Docparam|name=header|req=no|default=|desc=
+Main title/"headline" of the message box, displayed above <code>content</code>.
+}}
+
+{{Docparam|name=image|req=no|default=[[:File:Mbox default.png|Mbox default.png]]|desc=
+File name of an image (without "File:") which should be displayed on the left side of the box.
+}}
+
+{{Docparam|name=sort key|req=no|default=|desc=
+Sets the [[Help:Categories#Sort key|sort key]], i.e. the term tagged pages are displayed under on category pages.
+}}
+
+==Example==
+<pre>
+{{Mbox management
+|color    =#F1B82F
+|image    =Mbox delete.png
+|header   =Example notice
+|content  =Example notices serve example purposes.
+|footer   =Example notices are not really useful.
+|category =example category
+}}
+</pre>
+results in:
+{{Mbox management
+|color    =#F1B82F
+|image    =Mbox delete.png
+|header   =Example notice
+|content  =Example notices serve example purposes.
+|footer   =Example notices are not really useful.
+}}
+In addition, pages with the template would be added to "Category:Example category".
+
+==Technical==
+* Auxiliary module: [[Module:Abb|Abb]]

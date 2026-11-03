@@ -1,0 +1,21 @@
+The '''Idle Skilling staff''', staff members, or rights holders, are users with access to [[w:c:community:Help:User rights|additional tools]] intended to aid in serving the Idle Skilling Wiki's community and maintaining its content.
+
+==Information==
+A rights user is a contributor who has been either appointed or elected by the community to serve the wiki in such a capacity, granted access to features utilized in article and community maintenance. User rights are not a reward for contributions nor a promotion to have more authority than others. There is no cap on the number of staff members.
+
+'''All users are Equal, no matter the rights they hold.''' The input of a Bureaucrat is just as equal as the input of a member. The only time this does not apply is in the case of '''Problematic''' or '''Banned''' users.
+
+==Descriptions==
+* '''Content moderators''' have access to delete articles/files.
+* '''Administrators/system operators''' have access to the same tools as moderators, and in addition can block users.
+* '''Bureaucrats''' have access to the same tools as administrators, and in addition can grant and revoke user rights.
+
+==Current staff==
+; Bureaucrats
+
+* [[User:Hotair|Hotair]] <br />
+* [[User:Jaust|Jaust]] <br />
+
+; Wiki Rep
+
+* [[User:Vector Sigma|Vector Sigma]] <br />

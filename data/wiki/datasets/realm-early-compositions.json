@@ -1,0 +1,35 @@
+{
+  "source": "Transcribed by hand from the Realm page's Stage 1-15 screenshots (Realm › Strategies › Stage 1-15), which the wiki gives only as images. Images saved in data/wiki/images/ (fetched 2026-10-24 via api.php imageinfo, ?format=original). Each card prints the minion name and level; empty slots are not listed. Read by src/derive-realm.ts.",
+  "compositions": [
+    { "title": "Stage 1 composition (from wiki image)", "image": "Realm build - Stage 1.png", "caption": "Minion composition by Stage 1",
+      "rows": [{ "amount": "3", "level": "Lv10", "path": "Little Piggy -> Hippo", "note": "1 empty slot shown" }] },
+    { "title": "End of Stage 5 composition (from wiki image)", "image": "Realm build - Stage 5 end.png", "caption": "Minion composition by the end of Stage 5",
+      "rows": [
+        { "amount": "4", "level": "Lv15 ×3, Lv14 ×1", "path": "Little Piggy -> Hippo", "note": "level evenly" },
+        { "amount": "1", "level": "Lv13", "path": "Pet Rock -> Mountain", "note": "Orange Damage, required at Stage 5; 3 empty slots shown" }] },
+    { "title": "End of Stage 7 composition (from wiki image)", "image": "Realm build - Stage 7 end.png", "caption": "Minion composition by the end of Stage 7",
+      "rows": [
+        { "amount": "5", "level": "Lv22 ×3, Lv21 ×2", "path": "Little Piggy -> Hippo", "note": "level evenly" },
+        { "amount": "1", "level": "Lv15", "path": "Pet Rock -> Mountain", "note": "2 empty slots shown" }] },
+    { "title": "End of Stage 10 composition (from wiki image)", "image": "Realm build - Stage 10 end.png", "caption": "Minion composition by the end of Stage 10",
+      "rows": [
+        { "amount": "6", "level": "Lv36 ×2, Lv35 ×4", "path": "Little Piggy -> Hippo", "note": "level evenly" },
+        { "amount": "1", "level": "Lv30", "path": "Pet Rock -> Mountain", "note": "" },
+        { "amount": "1", "level": "Lv10", "path": "Babby Egg -> Lil Chicken", "note": "Yellow Damage, needs Realm Lv10 (banish ~9 Mountains at Lv29)" }] },
+    { "title": "End of Stage 13 composition (from wiki image)", "image": "Realm build - Stage 13 end.png", "caption": "Minion composition by the end of Stage 13",
+      "rows": [
+        { "amount": "1", "level": "Lv50", "path": "Little Piggy -> Hippo -> Horn Hippo", "note": "first Hippo to Lv50: more Realm EXP per banish" },
+        { "amount": "1", "level": "Lv50", "path": "Little Piggy -> Hippo -> Beeg Hippo", "note": "" },
+        { "amount": "3", "level": "Lv46 ×1, Lv41 ×2", "path": "Little Piggy -> Hippo", "note": "on their way to Beeg Hippo at Lv50" },
+        { "amount": "1", "level": "Lv50", "path": "Pet Rock -> Mountain -> Volcano", "note": "Coin gain" },
+        { "amount": "1", "level": "Lv10", "path": "Babby Egg -> Lil Chicken", "note": "" },
+        { "amount": "1", "level": "Lv10", "path": "Babby Egg -> Lizard", "note": "Energy (1/hour) for the Orb Tower" }] },
+    { "title": "End of Stage 15 composition (from wiki image)", "image": "Realm build - Stage 15 end.png", "caption": "Minion composition by the end of Stage 15",
+      "rows": [
+        { "amount": "1", "level": "Lv54", "path": "Little Piggy -> Hippo -> Horn Hippo", "note": "" },
+        { "amount": "4", "level": "Lv50", "path": "Little Piggy -> Hippo -> Beeg Hippo", "note": "" },
+        { "amount": "1", "level": "Lv50", "path": "Pet Rock -> Mountain -> Volcano", "note": "" },
+        { "amount": "1", "level": "Lv10", "path": "Babby Egg -> Lil Chicken", "note": "" },
+        { "amount": "3", "level": "Lv10", "path": "Babby Egg -> Lizard", "note": "new Barn slots go to Lizards; 2 empty slots shown" }] }
+  ]
+}

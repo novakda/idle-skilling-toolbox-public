@@ -1,0 +1,138 @@
+{
+ "1": {
+  "AtkEXPchance": 1,
+  "StrEXPchance": 1,
+  "EndEXPchance": 1,
+  "SkillPoints": 16
+ },
+ "2": {
+  "SkillPoints": 1
+ },
+ "3": {
+  "BotanySpeed": 4,
+  "MAXlBotanySpdUpgrades": 4,
+  "BotanyExp": 4,
+  "SkillPoints": 1,
+  "OGexoticR1": 1,
+  "OGflowerR1": 1,
+  "OGexpR1": 1,
+  "OGExoticR2": 1,
+  "OGflowerR2": 1,
+  "OGexpR2": 1,
+  "OGexoticR3": 1,
+  "OGFlowerR3": 1,
+  "OGExpR3": 1,
+  "OGexoticR4": 5,
+  "OGflowerR4": 5,
+  "OGexpR4": 5,
+  "OGtimeALL": 1
+ },
+ "4": {
+  "BrewSpeed": 2,
+  "ApothecaryExp": 1,
+  "SkillPoints": 1,
+  "ApoDoublePotChance": 1,
+  "TotalHealth": 1,
+  "BaseHpFLAT": 1,
+  "ApoCostRedux": 1,
+  "CostReduxperApoLV": 1
+ },
+ "5": {
+  "MaxEnergy": 2,
+  "InactiveCrusaders": 2,
+  "TinkeringEXP": 6,
+  "BoosterChance": 5,
+  "HitChance": 15,
+  "HealUses": 16,
+  "CrusadeMulti": 1,
+  "SealUses": 1
+ },
+ "6": {
+  "MiningEXPChance": 1,
+  "MiningOres": 1,
+  "MiningExp": 1,
+  "SkillPoints": 1
+ },
+ "7": {
+  "AtkEXPchance": 1,
+  "StrEXPchance": 1,
+  "EndEXPchance": 1,
+  "SkillPoints": 2,
+  "SmithingEXPgained": 6,
+  "FishGained": 2
+ },
+ "8": {
+  "CultistEfficiency": 1,
+  "SpiritEXPchance": 1,
+  "AcolyteEfficiency": 2,
+  "SkillPoints": 2,
+  "GlyphExp": 1,
+  "SummonEXPchance": 1
+ },
+ "9": {
+  "SoulsKept": 2,
+  "BaseMedallions": 3,
+  "DamageReduction": 2,
+  "CriticalDamage": 3,
+  "CriticalChance": 3,
+  "IdleSpeed": 3,
+  "MonsterCash": 3,
+  "IdleDamage": 3,
+  "PoisonDMG": 2,
+  "MeteorDMG": 2,
+  "FlurryDMG": 2,
+  "SmiteDMG": 2,
+  "BananaDMG": 2,
+  "BaseDamageFLAT": 2,
+  "BaseDamage": 2,
+  "BaseHpFLAT": 3,
+  "MaxShields": 2,
+  "TotalHealth": 3,
+  "HitChance": 17,
+  "HealUses": 16,
+  "CrusadeMulti": 1,
+  "SealUses": 1,
+  "CrusadeEXP": 1,
+  "CardDropChance": 7,
+  "CrusadeCardChance": 2,
+  "HealingItems": 10,
+  "IgnoreDefFLAT": 1,
+  "IgnoreDefPCT": 1,
+  "ApoCostRedux": 1,
+  "CostReduxperApoLV": 1,
+  "KillPct": 1,
+  "Midas": 1,
+  "CyberneticFOOD": 2
+ },
+ "10": {
+  "BaseMedallions": 3,
+  "BaseDamage": 3,
+  "DamageReduction": 1,
+  "CriticalDamage": 3,
+  "TotalHealth": 3,
+  "CriticalChance": 3,
+  "IdleSpeed": 3,
+  "PoisonDMG": 2,
+  "MeteorDMG": 2,
+  "FlurryDMG": 2,
+  "SmiteDMG": 2,
+  "BananaDMG": 2,
+  "BaseDamageFLAT": 2,
+  "BaseHpFLAT": 2,
+  "MaxShields": 2,
+  "IdleDamage": 2,
+  "MonsterCash": 2,
+  "RaidDrops": 65,
+  "HealingItems": 10,
+  "HitChance": 8,
+  "SealUses": 1,
+  "CyberneticFOOD": 2,
+  "Midas": 1
+ },
+ "11": {
+  "SkillPoints": 3
+ },
+ "12": {
+  "Tunnels": 5
+ }
+}

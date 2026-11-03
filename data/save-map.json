@@ -1,0 +1,1840 @@
+{
+  "skillzzzz Copy Copy Copy": {
+    "66": "number",
+    "SkillingArenaSelected": "number",
+    "transitiontimer": "number",
+    "LiftingArenaSelected": "number",
+    "HaveUdoneBoosterTutorialYet": "number",
+    "CurrentlyViewedScreen": "number",
+    "LimboArenaSelected": "number"
+  },
+  "SkillValor": {
+    "HealthSmithingBoost": "number",
+    "EbonusTotalHpPCT": "number",
+    "CbonusTotalHealth": "number",
+    "ContractsCompleted": "number",
+    "EventBonusHealth": "number",
+    "endLVL": "number"
+  },
+  "scene:savefuk": {
+    "EventBonusPercentList": "array[90]",
+    "FarmerSpeedCost": "array[11]",
+    "FarmerValueCost": "array[11]",
+    "A": "number",
+    "PetNameConverter": "array[86]",
+    "costies2helper": "number",
+    "RightNowZone": "array[40]",
+    "CardHolderLevels": "array[10]",
+    "CraftingMaterialsOwned": "array[106]",
+    "CloudsaveTIMER": "number",
+    "AliveTimee": "number",
+    "AcolyteLV2": "array[52]",
+    "AcolyteLV3": "array[52]",
+    "PotionExpGiven": "array[10]",
+    "HaveUplayedRecentUpdate": "number",
+    "runeEXP": "number",
+    "FarmingExpGiven": "array[16]",
+    "CardDropsPerDay": "array[26]",
+    "CultLuckLV": "array[50]",
+    "PlantPlotMEDlv": "array[19]",
+    "Hi": "number",
+    "AcolyteTASK": "array[52]",
+    "doOnce": "number",
+    "TimeSinceLastCLOUDSAVE": "number",
+    "costies1helper": "number",
+    "haveUplayedRecentUpdate3": "number",
+    "SoulsGivenAco": "array[51]",
+    "haveUplayedRecentUpdate6": "number",
+    "haveUplayedRecentUpdate5": "number",
+    "haveUplayedRecentUpdate4": "number",
+    "CriticalToggle": "number",
+    "CandyOwned": "array[8]",
+    "PetCapsuleEXP": "array[100]",
+    "FreeGemsPaidOff": "array[4]",
+    "GemsOwedFromDev": "number",
+    "EventRestock": "number",
+    "RuneLVL": "number",
+    "HaveYouPlayedBefore": "number",
+    "GlyphsGiven": "array[51]",
+    "CultistAnimationSpeed": "array[50]",
+    "eventsRefeshed": "number",
+    "clamboyant": "number",
+    "5thskilltreeUpdate": "number",
+    "bossBhp": "number",
+    "PlantexpRANK": "array[16]",
+    "ZoneInitialize": "number",
+    "g3Packsbought": "number",
+    "EventCurrentSTORED": "number",
+    "ExoticFlowerBaseChance": "array[49]",
+    "PlantPlotSMALLlv": "array[21]",
+    "AcolyteAnimationSpeed": "array[50]",
+    "CultValueLV": "array[51]",
+    "RiftAnimationSpeed": "array[50]",
+    "PetsOwnedINT": "array[135]",
+    "timeSincelastinAsylum": "number",
+    "TimeLastInAsylum": "number",
+    "TimeRightNowCLOUDSAVE": "number",
+    "Costies1": "number",
+    "Costies2": "number",
+    "CauldronAnimationSpeed": "array[19]",
+    "LastVisitedZone": "array[31]",
+    "ApothecaryExpGiven": "array[11]",
+    "FarthestMapleLV": "number",
+    "AwayUnclaimedRewards": "number",
+    "AccelY": "number",
+    "CauldronLV2": "array[13]",
+    "SoulsConvertedTOTAL": "array[12]",
+    "CbonusAwayScreenProgress": "number",
+    "bb": "number",
+    "g2Packsbought": "number",
+    "StarterPackPURCHASED": "number",
+    "PlantPlotLARGElv": "array[16]",
+    "CultistTASKmax": "array[50]",
+    "LogKeys": "array[60]",
+    "TwitterRefresh": "number",
+    "PotionAnimationSpeed": "array[14]",
+    "GoldCrownReq": "number",
+    "FarmerLV2": "array[19]",
+    "EVENTpurchases": "array[20]",
+    "HerbAnimationBase": "array[49]",
+    "contractLightingID": "number",
+    "TimeLastVisitCLOUDSAVE": "number",
+    "HaveUplayedRecentUpdate2": "number",
+    "SpiritExpGivenA": "array[50]",
+    "SpiritExpGivenC": "array[50]",
+    "LoadTime": "number",
+    "uEarnedSpookCard": "number",
+    "ReachedKeymaster": "array[13]",
+    "PlantTypeMAX": "array[13]",
+    "CPcoupons": "number",
+    "AcolyteTASKmax": "array[50]",
+    "SecretsFound": "array[8]",
+    "Letter2Number": "array[53]",
+    "TimeRightNowASYLUM": "number",
+    "MaxEggs": "array[15]",
+    "SecretEarned": "array[8]",
+    "SoulsGiven": "array[51]",
+    "g1Packsbought": "number",
+    "bossAhp": "number",
+    "HaveUvisitedCLOUDSAVE": "number",
+    "PetsFightingINT": "array[30]",
+    "MiningExpGiven": "array[51]",
+    "WellsBought": "number",
+    "ApothecaryValueCost": "array[7]",
+    "CultistLV2": "array[13]",
+    "ApothecarySpeedCost": "array[7]",
+    "HaveuPlayedZonev230": "number",
+    "LogValues": "array[60]",
+    "CultSpeedLV": "array[50]",
+    "speed": "number",
+    "NewFarmerCost": "number",
+    "FarmingAnimationSpeed": "array[21]",
+    "ApothecaryLuckCost": "array[7]",
+    "CloudsaveRetrigger": "number",
+    "CardDragged": "number",
+    "CandyAwayTime": "number",
+    "accelY": "number",
+    "HaveYouPlayedRecentUpdate7": "number",
+    "SummonExpGiven": "array[50]",
+    "runeREQ": "number",
+    "FightsTWOunlocked": "number"
+  },
+  "unreferenced": {
+    "WhichAscentionDraw": "number",
+    "PotionLevelQueued": "array[105]",
+    "CbonusTimeR1": "number",
+    "PurchasedSparkleCoins": "number",
+    "CbonusSmithTotalCostRedux": "number",
+    "instagrow": "number",
+    "ExtraSpins": "number",
+    "centerY": "number",
+    "TapY": "number",
+    "SmithingPlateItem": "number",
+    "CbonusOGtimeR4": "number",
+    "FishingExpGiven": "number",
+    "IsBONUSWheelSpinning": "boolean",
+    "ZoneSpeedzyo": "array[9]",
+    "EbonusMidas": "number",
+    "AndroidModeON": "boolean",
+    "Eventdropbonus": "array[12]",
+    "ConquestMonsterDEF": "number",
+    "hueadjuster": "number",
+    "ShowYourself": "number",
+    "PotionCostshavebeenFixed": "number",
+    "GrowDisplayedConquestboss": "number",
+    "swipeY": "number",
+    "keystosacrafice": "number",
+    "PetsBreeding": "array[39]",
+    "PlantSpeedMULTIPLIER": "array[24]",
+    "RockBoost": "array[10]",
+    "SmithingCostOne": "number",
+    "DmgNmbrFloating": "number",
+    "PbonusMaxCrusader": "number",
+    "CriticalDisplay": "boolean",
+    "OverKillMulti": "number",
+    "ShowanAdvert": "boolean",
+    "PetAttackType": "number",
+    "FlowertogrowSelected": "number",
+    "SkillzCost": "array[31]",
+    "TicketSelected1or0": "number",
+    "monstertotalHP": "number",
+    "killDescription": "boolean",
+    "keycanSpawn": "number",
+    "cc": "number",
+    "yclick": "number",
+    "GiveFelpsGems": "number",
+    "keyclick": "boolean",
+    "PotionIngredientChosen": "array[3]",
+    "SkillSmiteBonus": "number",
+    "SteamReceived": "number",
+    "ChainingSuccesses": "number",
+    "SkillFlurryBonus": "number",
+    "FishUnlocked": "array[8]",
+    "growsparklebig": "boolean",
+    "AdcanbeWatched": "boolean",
+    "RaidbossAttacksLeft": "number",
+    "CbonusFarmingSpeed": "number",
+    "mapleLVmax": "number",
+    "PlatCrownReq": "number",
+    "PbonusDmg1": "number",
+    "CbonusMonsterDrops": "number",
+    "HerbloreSpeedBOOST2": "number",
+    "DamageDisplayFixer": "number",
+    "GemReimburse": "number",
+    "DamageHelper": "number",
+    "Warping": "boolean",
+    "TrekkingBGspeed": "number",
+    "releaseY": "number",
+    "mapleextotalREQ": "number",
+    "NoAdvertReward": "number",
+    "MaplexpTOTAL": "number",
+    "MaplePlayerLV": "number",
+    "ForgeUnSaturate": "boolean",
+    "FIGHTorTREK": "number",
+    "NumberTesto": "array[3]",
+    "CloudsavingPrompt": "number",
+    "FlowersUsedToGrow": "number",
+    "sacrafice": "number",
+    "EventInfo": "number",
+    "MonsterY": "number",
+    "aaGAP": "number",
+    "PetValue4": "array[1]",
+    "PetValue5": "array[1]",
+    "PetValue2": "array[1]",
+    "PetValue3": "array[1]",
+    "SkillMeteorBonus": "number",
+    "SmithingCostTwo": "number",
+    "PetAttackValue": "number",
+    "smithyanimationspeed": "number",
+    "DescriptionOn": "boolean",
+    "PetAbility5": "array[1]",
+    "PetAbility4": "array[1]",
+    "SecondaryAP": "number",
+    "wheeltick": "number"
+  },
+  "SetLinking": {
+    "EbonusRiftEXP": "number",
+    "EbonusMiningEXP": "number",
+    "CbonusMeteorDMG": "number",
+    "EbonusCritDMG": "number",
+    "CbonusKillPct": "number",
+    "CbonusMaxEnergy": "number",
+    "CbonusOGtimeALL": "number",
+    "CbonusCostReduxperApoLV": "number",
+    "EbonusMeteorDMG": "number",
+    "CbonusPachiBalls": "number",
+    "EbonusIgnDefFLAT": "number",
+    "CbonusOGtimeR3": "number",
+    "CbonusDamageReduction": "number",
+    "CbonusOGExoticR2": "number",
+    "CbonusEndEXPchance": "number",
+    "CbonusOGexoticR1": "number",
+    "CbonusOGexoticR3": "number",
+    "EbonusCritChance": "number",
+    "CbonusGlyphExp": "number",
+    "CbonusMaxShields": "number",
+    "CbonusMidas": "number",
+    "CbonusOGExpR3": "number",
+    "EbonusIgnDefPCT": "number",
+    "EbonusStrengthEXP": "number",
+    "CbonusStrEXPchance": "number",
+    "CbonusApoDoublePotChance": "number",
+    "EbonusShieldMax": "number",
+    "CbonusAsylumTraces": "number",
+    "CbonusApoCostRedux": "number",
+    "CbonusIdleDamage": "number",
+    "CbonusFishGained": "number",
+    "CbonusOGTimeR1": "number",
+    "CbonusTunnels": "array[10]",
+    "CbonusAcolyteEfficiency": "number",
+    "EbonusPoisonDMG": "number",
+    "CbonusBaseDamage": "number",
+    "CbonusOGexpR2": "number",
+    "CbonusOGexpR1": "number",
+    "CbonusPoisonDMG": "number",
+    "EbonusOreMined": "number",
+    "EbonusSmiteDMG": "number",
+    "CbonusSealUses": "number",
+    "CbonusCultistEfficiency": "number",
+    "CbonusTotalDamage": "number",
+    "CbonusSoulsKept": "number",
+    "CbonusBaseMedallions": "number",
+    "CbonusMonsterCash": "number",
+    "EbonusIdleSpeed": "number",
+    "CbonusSummonEXPchance": "number",
+    "CbonusAtkEXPchance": "number",
+    "EbonusIdleDMG": "number",
+    "EbonusBaseDmgFLAT": "number",
+    "CbonusSpiritEXPchance": "number",
+    "CbonusCriticalDamage": "number",
+    "CbonusCrusadeMulti": "number",
+    "CbonusBananaDMG": "number",
+    "CbonusOGflowerR2": "number",
+    "CbonusOGflowerR1": "number",
+    "CbonusOGFlowerR3": "number",
+    "CbonusBrewSpeed": "number",
+    "EbonusThree": "array[18]",
+    "GodMode": "number",
+    "CbonusMiningExp": "number",
+    "CbonusBaseDamageFLAT": "number",
+    "CbonusApothecaryExp": "number",
+    "CbonusFlurryDMG": "number",
+    "CbonusSmiteDMG": "number",
+    "CbonusMiningEXPChance": "number",
+    "CbonusMiningOres": "number",
+    "CbonusInactiveCrusaders": "number"
+  },
+  "scene:Farming16": {
+    "TotalHarvestsAfterRebirth": "number",
+    "flowersOwned": "array[49]",
+    "OvergrowthEXOTICbonus": "number",
+    "FlowersGivenBONUS": "array[36]",
+    "PbonusMaxFlowerSpeedUpgrades": "number",
+    "FlowersGiven": "array[50]",
+    "HerbloreLV1": "array[41]",
+    "HerbFlowerMenuType": "number",
+    "HerbloreIngredient1qtyNumber": "array[22]",
+    "CbonusBotanyExp": "number",
+    "FlowerTypeSELECTED": "array[21]",
+    "CbonusBotanySpeed": "number",
+    "CbonusOGexoticR4": "number",
+    "ResetFlowerBeingHarvested": "number",
+    "HerbloreIngredient1qty": "array[23]",
+    "SeedsOwned": "array[51]",
+    "CbonusMAXlBotanySpdUpgrades": "number",
+    "HerbloreExpBOOST": "number",
+    "FlowerBeingHarvested": "boolean",
+    "NewFlowerPot121": "number",
+    "FlowersExpGivenBONUS": "array[40]",
+    "TotalHarvestsAllowed": "number",
+    "CbonusOGexpR4": "number",
+    "FlowersExoticBONUS": "array[32]",
+    "HerbloreAnimationSpeed": "array[42]",
+    "PbonusFlowerSpeed": "number",
+    "HerbloreIngredient2qtyBase": "array[21]",
+    "PbonusFlowersGiven": "number",
+    "HerbloreFlowerBOOST": "number",
+    "HerbloreSpeedBOOST3": "array[26]",
+    "HerbloreLV": "number",
+    "HerbloreREQ": "number",
+    "PbonusOvergrowth": "number",
+    "HerblorePotLevel": "array[39]",
+    "HerbloreIngredient2qty": "array[28]",
+    "PbonusExoticFlower": "number",
+    "HerbloreEXP": "number",
+    "CbonusOGflowerR4": "number",
+    "OvergrowthFLOWERbonus": "number",
+    "FlowersTimerBONUS": "array[21]",
+    "FlowersExpGiven": "array[35]",
+    "PotSelected": "number",
+    "amount2nextanimationHERBLORE": "array[48]",
+    "HerbloreMaxSpeedLV": "number",
+    "HerbloreMultiIngredient": "number",
+    "HerbloreSpeedBOOST": "number"
+  },
+  "offlinegainz": {
+    "miningChance": "number",
+    "PbonusMountainExp": "number",
+    "totalreps": "number",
+    "SmithingExpGiven": "array[5]",
+    "OfflineGains": "array[50]",
+    "atkChance": "number",
+    "PbonusDojoExp": "number",
+    "NoCoinRecursion": "number",
+    "TotalAwaySoulsCompleted": "number",
+    "endChance": "number",
+    "H20BonusPercent": "number",
+    "PbonusGymExp": "number",
+    "noLiftingRecursion": "number",
+    "EbonusMonsterGold": "number",
+    "PbonusFieldExp": "number",
+    "animationspeed": "array[51]",
+    "PbonusCashSUM": "number",
+    "SmithingBonusCash": "number",
+    "strChance": "number",
+    "AwayTimeRewarded": "number"
+  },
+  "SkillSeal": {
+    "SkillCooldown": "array[23]",
+    "conquestSealsMAX": "number",
+    "ConquestSealsUsed": "number"
+  },
+  "scene:Hatchery18": {
+    "NestLevelsVSE": "array[70]",
+    "PetRarity": "array[320]",
+    "NestAnimation": "array[12]",
+    "PetLvl": "array[80]",
+    "PetFlight": "array[320]",
+    "PetTabSelected": "number",
+    "PetInventoryOwned": "number",
+    "HatcheryEXP": "number",
+    "DairyAisleAchievements": "array[27]",
+    "HatcheryREQ": "number",
+    "EggsCreated": "array[138]",
+    "NestPrestige": "array[8]",
+    "TestValuee": "number",
+    "PetsOwned": "array[1001]",
+    "TrashPet": "number",
+    "HatcheryLV": "number",
+    "PetAbility2": "array[320]",
+    "PetAbility1": "array[320]",
+    "PetAbility3": "array[320]",
+    "NestAnimationSpeed": "array[16]",
+    "PetUnlocked": "array[109]"
+  },
+  "scene:Smithing6": {
+    "smithingREQ": "number",
+    "smithingRepSpeedBoost": "number",
+    "SmithingAnvilSelected": "number",
+    "smithingEXPONENTIALlowerbound": "number",
+    "SmithingCost1Currency": "number",
+    "SmithTimeLast": "number",
+    "SmithTimeNow": "number",
+    "PbonusSmithingScalingRedux": "number",
+    "ForgeToNextUseREQ": "array[4]",
+    "ForgeToNextUse": "array[30]",
+    "smithyanimationSpeeed": "array[7]",
+    "SmithingCost1": "array[100]",
+    "SmithingCost2": "array[115]",
+    "AnvilsOwned": "number",
+    "SmithingItemLevel": "array[97]",
+    "SmithyAnimation": "array[4]",
+    "SmithingCost2Currency": "number",
+    "PbonusSmithTotalCostRedux": "number",
+    "smithingLVL": "number",
+    "SmithingAnvilItem": "array[100]",
+    "amount2nextanimationSMITHING": "array[7]",
+    "SmithingItemAnimation": "number",
+    "ForgeUses": "array[30]",
+    "smithingEXP": "number",
+    "SmithingItemsYouOwn": "array[150]"
+  },
+  "scene:Crusades14 Copy": {
+    "CrusadeHaveUvisitedYet": "array[19]",
+    "ConquestDifficultyLV": "array[52]",
+    "EbonusAccuracy": "number",
+    "ConquestDifficultyselected": "array[36]",
+    "TotalCrusaders": "number",
+    "ActiveCrusaders": "array[19]",
+    "ConquestLV": "number",
+    "ConquestUnclaimedRewards": "array[16]",
+    "ConquestIdleInfo": "number",
+    "ConquestSelected": "number",
+    "EbonusCrusadeMulti": "number",
+    "CrusadeTimeLastVisited": "array[19]"
+  },
+  "scene:Potions17": {
+    "aa3": "number",
+    "FarthestMonster": "number",
+    "PotionSnap": "number",
+    "MouseXaccel": "number",
+    "MouseDisplacement": "number",
+    "PotionInventorySelected": "number",
+    "AsylumTixCollected": "number",
+    "PotionIngredient2": "array[11]",
+    "PotionIngredient1": "array[9]",
+    "PotionBOOST": "number",
+    "DarkModeEnabled": "array[4]",
+    "DarkModeNewPotion": "array[7]",
+    "amount2nextanimationPOTIONS": "array[16]",
+    "CauldronMenuSelected": "number",
+    "CauldronSelected": "number",
+    "totalKills": "number",
+    "ApothecaryEXP": "number",
+    "PotionSelected": "number",
+    "MTXcauldronBonus2x": "array[10]",
+    "CauldronLV1": "array[19]",
+    "DirectionHelperPotionScrolling": "number",
+    "PotionLV": "array[171]",
+    "PbonusTotalDmg6": "number",
+    "SelectingIngredientPotion": "number",
+    "CenteringPotion": "number",
+    "ApothecaryREQ": "number",
+    "MouseXonclick": "number",
+    "nonActiveZoneGainPercent": "number",
+    "TriggerSave": "number",
+    "PbonusPotionSpeed": "number",
+    "ApothecaryLV": "number",
+    "ApothecaryExpGivenBONUS": "number",
+    "PotionType": "array[115]",
+    "PachiTixCollected": "number",
+    "PotionBrewSpeedBOOST": "array[7]",
+    "AwayTimeZone": "array[30]"
+  },
+  "scene:Lab19": {
+    "aa2": "number",
+    "aa4": "number",
+    "PetCurrenciesOwned": "array[27]",
+    "PetPassiveDays": "array[66]",
+    "TankLVexp": "array[400]",
+    "LabXposition": "number",
+    "TankPoints": "array[72]",
+    "TankRPinvest": "array[400]",
+    "PetCapsuleLV": "array[100]",
+    "OpenValues": "array[85]",
+    "aa": "number",
+    "PetsFighting": "array[320]",
+    "DiamondPiping": "array[59]",
+    "TankBonusLIST": "array[138]",
+    "ResearchREQ": "number",
+    "TankLVs": "array[400]",
+    "ResearchEXP": "number",
+    "MTXmysticVATowned": "number",
+    "TankEXP": "array[82]",
+    "ResearchLV": "number"
+  },
+  "ConquestAttacks": {
+    "PlayerHP": "number",
+    "ConquestDEF": "number",
+    "ConquestWeaponSpeed": "number",
+    "ConquestWeaponType": "number",
+    "MonstersDamage": "number",
+    "MonsterDMGdisplayed": "number",
+    "MonsterDamageReduction": "number"
+  },
+  "scene:Crusades14": {
+    "TimeOfNextRefill": "number",
+    "EquipmentBonusPct": "array[90]",
+    "CombatLV": "number",
+    "BoosterGenesisInUse": "number",
+    "EbonusCrusaders": "number",
+    "EnergyMAX": "number",
+    "UpgradeType": "array[7]",
+    "ConquestPageSelectedINTERIM": "number",
+    "BaseBonusGiven": "number",
+    "MutatorMultiplier": "number",
+    "PendantSlotSwitcher": "number",
+    "UpgradeSystemChosen": "number",
+    "TinkerThirdLine": "array[61]",
+    "ConquestPageSelected": "number",
+    "TinkeringLV": "number",
+    "EquipmentSlotsUsed": "array[90]",
+    "GoBackButtonCooldown": "number",
+    "TinkerCraftMulti": "number",
+    "ShowCrusaders": "number",
+    "ChaoticMutatorInUse": "number",
+    "CbonusBoosterChance": "number",
+    "EbonusEnergyMAX": "number",
+    "BenignMutatorInUse": "number",
+    "TinkeringSetsOpen": "number",
+    "EquipmentEquipped": "array[102]",
+    "CbonusTinkeringEXP": "number",
+    "MTXdoubleTinkeringEXP": "number",
+    "LuckyDonutInUse": "number"
+  },
+  "TheaterButton Copy Copy Copy": {
+    "aa5": "number",
+    "PbonusCrusMATS1": "number",
+    "QTYbonus": "number",
+    "crusadebosskilled": "number"
+  },
+  "scene:AsylumFight22REAL": {
+    "BossC2isActive": "boolean",
+    "bossBhpTOT": "number",
+    "CbonusCyberneticFOOD": "number",
+    "MidasCurtail": "number",
+    "TraceDropAmount": "number",
+    "bossChpTOT": "number",
+    "BossAhpTOT": "number",
+    "ShieldPercentMAX": "number",
+    "TimeSinceAscention2": "number",
+    "CbonusRaidDrops": "number",
+    "AsylumBlock": "number",
+    "FoodInUse": "array[30]",
+    "EventRNG": "number",
+    "SkillActive": "array[100]",
+    "BossB2isActive": "boolean",
+    "AsylumTickets": "number",
+    "Shieldgg": "number",
+    "RaidBossQueue": "number",
+    "TimeSinceAscention": "number",
+    "BossD2isActive": "boolean",
+    "AsylumBell": "array[25]",
+    "TicketsToSpend": "number",
+    "EmigdalaLaserFade": "number",
+    "BossA2isActive": "boolean"
+  },
+  "scene:Trek20": {
+    "aa7": "number",
+    "MonsterRespawnTime": "number",
+    "PetGenes": "array[50]",
+    "ID": "number",
+    "TrekkingEXP": "number",
+    "PetCooldowns": "array[37]",
+    "GlobalPetAttackType": "array[109]",
+    "TrekkingBGselected": "number",
+    "MonstersKilled": "array[5001]",
+    "CalibrationTrek": "number",
+    "LoadoutArray": "array[75]",
+    "TrekkingREQ": "number",
+    "TrekkingLV": "number",
+    "MonsterPageSelected": "number",
+    "GeneticComboFound": "array[95]",
+    "LoadoutSelected": "number",
+    "MonsterSelected": "number",
+    "DoubleVesselsBought": "number",
+    "GlobalPetAttackValue": "array[114]",
+    "PetDistanceLV": "number",
+    "CalibrationValues": "array[12]",
+    "PetPositions": "array[72]",
+    "PetDistance": "number",
+    "RefreshPetScreen": "number",
+    "petResetSpin": "number",
+    "SkateboardAnimation": "number",
+    "PetCooldownsREQ": "array[30]",
+    "PetValue1": "array[320]",
+    "PetValueTotals": "array[33]"
+  },
+  "StatManager": {
+    "aa6": "number",
+    "aa10": "number",
+    "aa15": "number",
+    "aa14": "number",
+    "PbonusSpelunkSpd": "number",
+    "EventBonusDamage": "number",
+    "MedallionDamageBoost": "number",
+    "EbonusTotalDmgPCT": "number"
+  },
+  "PetLABbars": {
+    "aa9": "number"
+  },
+  "Coupons Copy": {
+    "aa8": "number",
+    "PotionCouponsOwned": "array[6]",
+    "NewPotionID": "number",
+    "PotionScrollUsed": "number"
+  },
+  "scene:Raids9REAL": {
+    "PbonusIdleSpeed": "number",
+    "swordAlive": "boolean",
+    "RaidKillCount": "array[51]",
+    "MonstersDamageWindup": "number",
+    "iUsedSeal": "boolean",
+    "PbonusBaseDmg": "number",
+    "BossCisActive": "boolean",
+    "CbonusHealingItems": "number",
+    "RaidBossCkills": "number",
+    "fistlaunched": "boolean",
+    "BossAisActive": "boolean",
+    "BloodToGive": "number",
+    "MonstersDamageSpeed": "number",
+    "RaidBossBkills": "number",
+    "PbonusCritDmg": "number",
+    "nodamageraid": "number",
+    "BossDisActive": "boolean",
+    "HellTickets": "number",
+    "CbonusCriticalChance": "number",
+    "dmgtonextBlood": "number",
+    "CbonusIdleSpeed": "number",
+    "RaidAnumber": "number",
+    "RaidBossDkills": "number",
+    "PbonusIdleDmg": "number",
+    "bossDhpTOT": "number",
+    "PbonusMaxShield": "number",
+    "DmgCappo": "number",
+    "CritDmgBonusPercent": "number",
+    "BossBisActive": "boolean",
+    "InfinityForgePurchased": "boolean",
+    "CreateBloodShow": "number",
+    "RaidBossAkills": "number",
+    "ResetFightScreen": "boolean"
+  },
+  "scene:Basketball": {
+    "HoopModY": "number",
+    "HoopModX": "number",
+    "BasketPhase": "number",
+    "HoopDayTimer": "number",
+    "HoopScore": "number",
+    "swishstatus": "number"
+  },
+  "ConquestCraftingEquipments": {
+    "CbonusCommonCostReductionTink": "number",
+    "CbonusUncommonCostReductionTink": "number",
+    "SwapTinkEquipDisp": "number",
+    "CommonBaseCost": "number",
+    "PearlBaseCost": "number",
+    "EpicBaseCost": "number",
+    "CraftingEquipmentTinkeringLvReq": "array[71]",
+    "LegendaryBaseCost": "number",
+    "UncommonBaseCost": "number",
+    "CbonusRareCostReductionTink": "number"
+  },
+  "CrystalIntegration": {
+    "CbonusCrystalGreen": "number",
+    "MiningGemALL": "number",
+    "PotionGEMSinUSE": "array[24]",
+    "GemPosition": "number",
+    "CbonusCrystalYellow": "number",
+    "MTXNormalGems": "number",
+    "MiningGemEXP": "array[11]",
+    "PotionGemCOST": "array[11]",
+    "GemSlotType": "array[62]",
+    "MiningGemORES": "array[11]",
+    "PotionGemALL": "number",
+    "CbonusCrystalBlack": "number",
+    "PotionGemEXP": "array[11]",
+    "CbonusCrystalRed": "number",
+    "PotionGemDOUBLE": "array[10]",
+    "MiningGemDOUBLE": "array[11]",
+    "CbonusCrystalPink": "number",
+    "CbonusCrystalOrange": "number",
+    "MiningGemSPEED": "array[12]",
+    "PotionGemSPEED": "array[11]",
+    "TotalPotionGEMSowned": "array[27]",
+    "CbonusCrystalPurple": "number",
+    "CbonusCrystalBlue": "number",
+    "GemBonuses": "array[27]"
+  },
+  "scene:AsylumShop21": {
+    "ShrineLevels": "array[44]",
+    "ShrineCostCurrency2": "number",
+    "ShrineCostCurrency1": "number",
+    "ShrineCurrencyOwned": "array[31]",
+    "HeavyCashToggle": "number",
+    "AsylumTracesOwned": "array[23]",
+    "AsylumShrineType": "number",
+    "ShrineCost1": "number",
+    "ShrineCost2": "number",
+    "ShrineSelected": "number"
+  },
+  "TillingPerks": {
+    "FarmerSelected": "number",
+    "PlantLevel": "array[16]"
+  },
+  "scene:fighting8": {
+    "dpsspeed": "number",
+    "timetoNextVault": "number",
+    "FurthestMapleLV": "array[50]",
+    "TimeRightNow2": "number",
+    "TimeLastInHell2": "number",
+    "CbonusBaseHpFLAT": "number",
+    "singularityKills": "number",
+    "BonusKillperKill": "number",
+    "goldfromkill": "number",
+    "MonsterSize": "number",
+    "timeSincelastinHell2": "number",
+    "FightZoneTYPE": "number",
+    "FightOn": "number",
+    "HellKeyGot": "number",
+    "TimeleftInVault": "number",
+    "SkillType": "number",
+    "IdleDmgBonusPercent": "number",
+    "ZoneTotalCardLV": "array[17]",
+    "PlayerHPmax": "number",
+    "defaultgold": "number",
+    "RateGame": "number",
+    "smithingAttackSpeedBoost": "number",
+    "fightsunlocked": "number",
+    "HaveuBeenToHell2": "number",
+    "AwayCardDrops": "number",
+    "AreYouInHellINTERIM": "number",
+    "CardDropsCooldown": "number",
+    "IsPlayerAlive": "boolean",
+    "RareDropChancee": "number",
+    "DeathKills": "number",
+    "SkillTime": "array[100]",
+    "AutoCasting": "number",
+    "EbonusBaseHpFLAT": "number",
+    "CardDropsPerDayMAX": "number",
+    "EventIsON": "boolean",
+    "PbonusCash4": "number",
+    "PbonusCash2": "number",
+    "PbonusCash3": "number",
+    "DescriptionStatPage": "number",
+    "AutoCastType": "number",
+    "lastFightMode": "number",
+    "PbonusCash1": "number",
+    "speedValues": "number",
+    "currentfightmode": "number"
+  },
+  "CardFont Copy Copy": {
+    "CardUpgradeCOST": "array[8]"
+  },
+  "scene:ascend Copy 2 MASTERY": {
+    "MasteryPerksUnlocked": "array[150]",
+    "MasteryPointsOwned": "number",
+    "MasteryTasksComplete": "array[221]",
+    "2xMasteryGem": "number"
+  },
+  "scene:Spriting9": {
+    "amount2nextanimationC": "array[15]",
+    "amount2nextanimationA": "array[15]",
+    "SoulsOwned": "array[50]",
+    "mtxCultandAco": "number",
+    "CultistSoulBonusPercent": "array[51]",
+    "AcolyteSelected": "number",
+    "CultistSelected": "number",
+    "AwaysoulFRAGSgained": "array[15]",
+    "SpiritEXPbonus": "number",
+    "Spirit0mExpFix": "number",
+    "AcolyteSoulBonusPercent": "array[50]",
+    "AwaySoulsCompleted": "array[18]",
+    "CultistEventBonusPercent": "number"
+  },
+  "Craft": {
+    "CbonusSmithingEXPgained": "number",
+    "CraftingLvUps": "number",
+    "MultibuySmithing": "number",
+    "RatedGame": "number",
+    "InfinityForgeEXPbonus": "number",
+    "craftRNG": "number"
+  },
+  "scene:CREDITS": {
+    "NumberofTimesRebirth": "number",
+    "AsylumBellBEST": "array[17]",
+    "MasteryBonuses": "array[40]",
+    "TotalKillContract5": "number",
+    "TimesAscended": "number",
+    "smithing1B": "array[100]",
+    "MinerSpeedCost": "array[9]",
+    "expgiven": "array[40]",
+    "MinerValueCost": "array[9]",
+    "MinerLV2": "array[12]",
+    "MinerAnimationSpeed": "array[11]",
+    "TimeOnCreditsScreen": "number",
+    "HerbloreValueCost": "array[20]",
+    "HaveyouBeenBeforeZone": "array[50]",
+    "HerbloreSpeedCost": "array[19]",
+    "WeabooFightsUnlocked": "number",
+    "MinerLV": "array[12]",
+    "SoulstoKeepPercent": "number",
+    "Smithing2B": "array[100]"
+  },
+  "StatManager2": {
+    "DNSM": "object"
+  },
+  "MTXpurchaseButton": {
+    "MTXbuyableSELECTED": "number",
+    "MTXcardSlotsUnlocked": "number",
+    "MTXoverlordminersPurchased": "number",
+    "BPmtxscrollBought": "number",
+    "CandiesPurchased": "number",
+    "MTXoverclockedGlyphsPurchased": "number",
+    "MTXbuildersPurchased": "number",
+    "whichMTXpurchased": "array[81]",
+    "MTXmysticTillersPurchased": "number",
+    "Cdamper": "number",
+    "sparklecoin": "number",
+    "MTXdoubleBP": "number",
+    "testscore": "number"
+  },
+  "SpeechBubbleDescription": {
+    "SpeechBubblePicture": "number"
+  },
+  "scene:spelzConstruction23": {
+    "ConstructTasks": "array[82]",
+    "ConstructionEXP": "number",
+    "aa12": "number",
+    "ConstructionREQ": "number",
+    "ConstructBuildProgress": "array[51]",
+    "ConstructionLV": "number",
+    "ConstructionMenuSelected": "number",
+    "CardEquipped": "array[132]",
+    "TreasureOwned": "array[29]",
+    "ConstructSelected": "number"
+  },
+  "scene:mainnn1": {
+    "TrainingPerkSelected": "number",
+    "TotalH2OTokens": "number",
+    "TrainingPerkLevels": "array[63]",
+    "TutorialOVER": "number",
+    "IntegrationEventID": "array[154]",
+    "H2OTokensSpent": "number",
+    "TrainingPerkDistributionDisplay": "number",
+    "amount2nextanimation": "array[32]",
+    "TotalSkillerLVinterim": "number",
+    "H2OTokenRefunds": "number",
+    "LvUpY": "number",
+    "LvUpX": "number"
+  },
+  "herbloreBars": {
+    "HerbloreAnimationOVERGROWTH": "array[32]",
+    "OverGrowthExponential": "number",
+    "HerbloreAnimation": "array[43]",
+    "HerbloreAnimationREQ": "array[36]"
+  },
+  "petHatcheryStuff": {
+    "TimeDurationsz": "array[13]"
+  },
+  "SkillClaw": {
+    "EbonusClawDMG": "number",
+    "AutoCastSpell": "number",
+    "SkillClawBonus": "number",
+    "EbonusAllSkillDMG": "number",
+    "CbonusSkillClaw": "number"
+  },
+  "statsTHIRDbar": {
+    "spiritEXP": "number",
+    "summonREQ": "number",
+    "SpiritREQ": "number",
+    "contractREQ": "number",
+    "SummonEXP": "number"
+  },
+  "ubblesaSMALL": {
+    "FarmingTutorialState": "array[15]",
+    "CrusadeTutoralPart": "number",
+    "SideTutorialpart": "number"
+  },
+  "Multibuy": {
+    "goldrightnow": "number",
+    "PbonusMaxHP": "number",
+    "spiritLVL": "number",
+    "LvUpChain": "number",
+    "strLVL": "number",
+    "MtoggleYesNo": "number",
+    "summonLVL": "number",
+    "CbonusSkillPoints": "number",
+    "CbonusChain": "number",
+    "MultiPurchaseToggle": "number"
+  },
+  "Lifters": {
+    "MenuSelectedToggle": "number",
+    "HaveUseenLimboYet": "number"
+  },
+  "RaidSelect": {
+    "IsbossBunlocked": "boolean",
+    "IsbossDunlocked": "boolean",
+    "IsbossCunlocked": "boolean"
+  },
+  "basketball": {
+    "SwishCreateSmoke": "number",
+    "DailyRun": "number",
+    "DailyRunsScores": "array[10]",
+    "Yehh": "number",
+    "SwishCombo": "number",
+    "HoopScoreBest": "number",
+    "HoopBaseX": "number",
+    "HoopBaseY": "number"
+  },
+  "descriptionplate": {
+    "DescriptionsIsOn": "boolean",
+    "APreward": "array[9]",
+    "LastFreeCandyCoupon": "number",
+    "APmenuSelected": "number",
+    "totalSkillLV": "number",
+    "BaseDMG": "number",
+    "DescriptionToShow": "number",
+    "CbonusBPgainMisc": "number",
+    "PbonusTotalDmg4": "number",
+    "PbonusTotalDmg3": "number",
+    "PbonusTotalDmg2": "number",
+    "PbonusTotalDmg1": "number",
+    "PbonusTotalDmg5": "number",
+    "BPreward": "array[13]",
+    "PbonusDamageSUM": "number",
+    "SmithingBaseAttack": "number",
+    "totalLiftingReps": "number"
+  },
+  "MiscDrops": {
+    "SpecialKeysGot": "array[47]",
+    "MiscDropID": "number"
+  },
+  "pachinkoball": {
+    "PachinkoBallsOwned": "number",
+    "EquipmentOwned": "array[104]",
+    "PachinkoBounceXaxis": "number",
+    "EventCurrency": "number",
+    "MTXPremiumGems1": "number",
+    "MTXPremiumGems2": "number",
+    "PachinkoBounceHeight": "number",
+    "PachinkoSpotsLanded": "array[12]",
+    "CardsOwnedbyTypeEXCESS": "array[7]",
+    "PachinkoCascade": "number",
+    "PachinkoLaunchSpeed": "number"
+  },
+  "CardUpgradeSwap Copy": {
+    "CardPackSelected": "number",
+    "SparklecoinRng1000": "number"
+  },
+  "Conquestinfo": {
+    "ConquestCrusadepointsBASE": "number",
+    "ConquestInventoryPage": "number",
+    "ConquestDropRolls": "number",
+    "EquipmentSelected": "number",
+    "EquipmentSlotsMAX": "number",
+    "EquipmentStarRank": "array[103]",
+    "MTXdoubleCrusadeEXP": "number",
+    "CrusadersInUse": "number",
+    "ConquestBossHP": "number",
+    "ConquestAttackReq": "number",
+    "ConquestRewardPCT": "number",
+    "DropListQTY": "array[16]",
+    "EbonusCrusadeEXP": "number",
+    "CbonusCrusadeEXP": "number",
+    "Energy": "number",
+    "NextEnergyRefill": "number",
+    "conquestCraftingPage": "number",
+    "SafetyCharmInUse": "number",
+    "CrusadeEXPperday": "number",
+    "CrusadeEXPearned": "null",
+    "PbonusCrusadeExp": "number",
+    "BoosterGenesisSuccess": "number",
+    "CraftTypeAmountTink": "number",
+    "DropListCHANCE": "array[12]"
+  },
+  "hando Copy": {
+    "HandoWeapon": "number",
+    "TRigRAID": "number"
+  },
+  "farmer": {
+    "SeedsGiven": "array[17]",
+    "PlantEXP": "array[51]",
+    "randomwaterplacement": "number",
+    "FarmerArmor": "array[14]",
+    "farmingChance": "number",
+    "FarmerAnimation": "array[11]",
+    "farmingEXP": "number"
+  },
+  "scene:hell10": {
+    "HaveuBeenToHell": "number",
+    "RaidTixCollected": "number",
+    "TimetonextTicket": "number",
+    "TimeRightNow": "number",
+    "TimeLastInHell": "number",
+    "timeSincelastinHell": "number"
+  },
+  "scene:Spelunking22": {
+    "SuperAbsorbsUSED": "array[9]",
+    "SpelunkerDistance": "array[11]",
+    "SpelunkerSelected": "number",
+    "MTXcanarysPurchased": "number",
+    "SpelunkerLV": "number",
+    "SpelunkerEXP": "number",
+    "DigDownOverflow": "array[9]",
+    "SpelunkTutorialState": "array[61]",
+    "SecretProgression": "array[6]",
+    "fightsunlockedBEST": "number",
+    "SpelunkerStatus": "array[9]",
+    "SpelunkerLearnLVs": "array[113]",
+    "SpelunkerLvsVSD": "array[25]",
+    "RaidDropType": "number",
+    "SpelunkerMenuSelected": "number",
+    "MTXdemonspelunkersPurchased": "number",
+    "SpelunkerREQ": "number"
+  },
+  "upgradebutton": {
+    "HerbloreLV2": "array[41]",
+    "AreParticlesOn": "boolean",
+    "LiftersOwned": "number",
+    "LifterLV": "array[53]",
+    "AcolytesOwned": "number",
+    "CultistsOwned": "number",
+    "showUpgradeButton": "boolean",
+    "FarmersOwned": "number",
+    "GrowLifterzzz": "array[50]",
+    "MinersOwned": "number",
+    "LiftersOwnedAtkStrEnd": "array[50]",
+    "WaterGiven": "array[35]",
+    "goldcoin": "number"
+  },
+  "bigATK": {
+    "atkEXP": "number",
+    "endEXP": "number",
+    "strEXP": "number"
+  },
+  "scene:Fishing7": {
+    "EXPfromThatFish": "number",
+    "FishRNG": "number",
+    "FishGiven": "number",
+    "FishingComplete": "number",
+    "TotalFishCaught": "number",
+    "HookLvMax": "number",
+    "FishingState": "number",
+    "FishChanceSMALL": "number",
+    "FishSpeedupRNG": "number",
+    "FishOwned": "array[51]",
+    "FishOnHook": "number",
+    "FunnyHatPurchased": "number",
+    "FishingTimeMax": "number",
+    "CLAMactive": "boolean",
+    "FishChanceLARGE": "number",
+    "FishingTimeMin": "number",
+    "HookPosition": "number",
+    "FishChanceMEDIUM": "number",
+    "FishingTimeo": "number",
+    "HookLv": "number",
+    "fishingLVL": "number"
+  },
+  "descriptionplate Copy Copy": {
+    "ArcadeRewardScreen": "number",
+    "HolidayON": "boolean",
+    "EventUpgradeSelected": "number",
+    "EventUpgradeLevels": "array[20]"
+  },
+  "PixelDummy": {
+    "DT": "string"
+  },
+  "BuyMtxs Copy Copy": {
+    "StarterPETpackPURCHASED": "number",
+    "ArcaneCarpetsPurchased": "number",
+    "GoldNestsPurchased": "number",
+    "StarterPETpackTIME": "number"
+  },
+  "ConquestCraftingItems": {
+    "ConquestCraftingDroppedID": "number",
+    "Xcard": "number",
+    "ConquestCraftingDroppedQTY": "number",
+    "CraftingMaterialUNLOCKED": "array[107]",
+    "Zcard": "number",
+    "Ycard": "number",
+    "CurrentScreenID": "number",
+    "IDcard": "number",
+    "SwapTinkInventDisp": "number"
+  },
+  "PotionBarsSmall": {
+    "PotionEXPreq": "array[172]",
+    "PotionEXP": "array[169]"
+  },
+  "monsterHP": {
+    "IceCream": "number",
+    "mapleexpREQ": "number",
+    "HealThePlayer": "boolean",
+    "CbonusIgnoreDefPCT": "number",
+    "mapleLV": "number",
+    "CbonusIgnoreDefFLAT": "number"
+  },
+  "dmgNumbers": {
+    "DmgNmbrsOnScreen": "number",
+    "DmgXstart": "number",
+    "AliveTimeBeginning": "number",
+    "DmgYstart": "number"
+  },
+  "AscentionUpgradeBUTTON": {
+    "AscentionLevel": "array[200]",
+    "BPtoSpend": "number",
+    "ascentionSelected": "number",
+    "APtoSpend": "number"
+  },
+  "RiftLVbars": {
+    "RiftEXP": "array[50]",
+    "RiftExpREQ": "array[50]"
+  },
+  "scene:mainnn Copy": {
+    "MouseXwhiledrag": "number",
+    "MouseDisplacementBEFORE": "number",
+    "PotionAccelHelper": "number",
+    "SkillTreeType": "number",
+    "xCenterskillparticles": "number",
+    "yCenterskillparticles": "number",
+    "Skillpoints": "number",
+    "SelectedSkill": "array[100]",
+    "SkillLevels": "array[102]"
+  },
+  "herblorePlants": {
+    "PlantIsBeingHarvested": "array[25]",
+    "FlowerType": "array[38]",
+    "FlowerBeingHarvestedd": "array[20]",
+    "HerbloreEXPforFlowerBase": "array[49]",
+    "FlowerDropped": "number",
+    "OvergrowthEXPbonus": "number"
+  },
+  "Skill": {
+    "PerkToggleMulti": "number",
+    "SkillIconColour": "number"
+  },
+  "SePortalbutton": {
+    "PetAreaSelected": "number",
+    "AscentionLockComplete": "number"
+  },
+  "UpgradeDescription": {
+    "LifterLV2": "array[53]",
+    "NewAcoCost": "number",
+    "killupgradedescription": "boolean",
+    "drawupgradeinfo": "boolean",
+    "NewCultCost": "number",
+    "OverallStats": "array[50]",
+    "ShowDescription": "number",
+    "SelectedUpgrade": "number"
+  },
+  "FlailingME": {
+    "FlailingME": "number"
+  },
+  "PetAttacks": {
+    "PetAttackID": "number",
+    "MonsterHP": "number",
+    "MonsterRespawn": "number",
+    "PetHP": "number",
+    "PetAttackList": "array[107]",
+    "AllPetDmgMultiplier": "number",
+    "KILLPetAttacks": "boolean",
+    "MonsterHPtot": "number",
+    "PetHPtot": "number"
+  },
+  "PixelHelper": {
+    "QuitTime": "number",
+    "CustomMaps": "object",
+    "RealmStuff": "array[50]",
+    "CustomLists": "object"
+  },
+  "Coupons": {
+    "ForgeUsesMAX": "array[4]",
+    "BPcoupons": "number",
+    "ForgeCoupons": "number",
+    "APcoupons": "number"
+  },
+  "scene:Mining5": {
+    "PbonusMiningExp": "number",
+    "amount2nextanimationMINING": "array[15]",
+    "PbonusOresGiven": "number",
+    "RockLV": "array[52]",
+    "BoostTime": "array[11]",
+    "BoostCooldown": "array[12]",
+    "RockLVmax": "array[50]",
+    "MinerSelected": "number"
+  },
+  "scene:RuneSummon10": {
+    "RiftSelected": "number",
+    "RiftCost3Currency": "number",
+    "amount2nextanimationRIFT": "array[15]",
+    "RiftProLvs": "array[10]",
+    "RiftSpeedlv": "array[52]",
+    "MTXgemportal": "number",
+    "RiftsOwned": "number",
+    "PbonusRiftExp": "number",
+    "RiftVALUElv": "array[52]",
+    "RiftCost2Currency": "number",
+    "RiftCost1": "array[28]",
+    "RiftCost3": "array[24]",
+    "RiftCost2": "array[31]",
+    "RiftCost4": "array[27]",
+    "RiftCost4Currency": "number",
+    "RiftCost1Currency": "number",
+    "FightingCashPerMin": "number",
+    "RiftLVL": "array[52]",
+    "TimeSinceLastGemPortal": "number",
+    "GemPortalGemsGiven": "number"
+  },
+  "RedSkills": {
+    "changegalaxycolour": "number"
+  },
+  "Cultist Copy": {
+    "AcolyteLV": "array[52]",
+    "AcolyteAnimation": "array[15]"
+  },
+  "SecondarySkills": {
+    "returnspeedbuttons": "number",
+    "FarmingAreaSelected": "number",
+    "outspeedbuttons": "number"
+  },
+  "Pets": {
+    "ViewingCodex": "number",
+    "PetDistanceREQ": "number",
+    "aa11": "number",
+    "aa13": "number",
+    "PetIDlist": "array[86]",
+    "PetStatus": "array[320]",
+    "PetInventorySelected": "number",
+    "PetDistanceREQprev": "number"
+  },
+  "SkillTap": {
+    "YourCriticalDamage": "number"
+  },
+  "scene:Asylum20": {
+    "HellInfo": "boolean",
+    "TicketSelected": "array[5]",
+    "TimeToNextTicketASYLUM": "number",
+    "LittleGuyProgression": "number",
+    "RaidBossKilled": "array[30]",
+    "CbonusAsylumKeys": "number"
+  },
+  "Ascendbutton": {
+    "CbonusAP": "number",
+    "AreYouAscending": "boolean",
+    "PbonusBonusAP": "number",
+    "MTXdoubleAP": "number"
+  },
+  "statsFORTHbar": {
+    "CombatEXP": "number",
+    "TinkeringREQ": "number",
+    "ConquestEXP": "number",
+    "TinkeringEXP": "number",
+    "CombatREQ": "number",
+    "ConquestREQ": "number"
+  },
+  "herblorePots Copy": {
+    "PotsOwned": "number",
+    "MTXfriendlymushroomsOwned": "number"
+  },
+  "SkillFlurry": {
+    "DPS": "number",
+    "Hitchance": "number",
+    "MonsterHitRequirement": "number",
+    "atkLVL": "number",
+    "MAPLElvTransition": "boolean",
+    "Damage": "array[124]"
+  },
+  "MiningBoostCooldowns": {
+    "SkillCooldownTimer": "number"
+  },
+  "cards dropDUPEonly": {
+    "CardLevelCustom": "number"
+  },
+  "RaidHP": {
+    "ConquestAttackRechargeSpeed": "number",
+    "BossASeconds": "number",
+    "BossAMinute": "number"
+  },
+  "statsSecondaybar": {
+    "fishingEXP": "number",
+    "miningREQ": "number",
+    "fishingREQ": "number"
+  },
+  "Bigwater Copy": {
+    "ShowLvREQ": "boolean",
+    "LvReqSprite": "number",
+    "waterLVreq": "number"
+  },
+  "YouWereAway": {
+    "YouWereAwayForXseconds": "number"
+  },
+  "SkillHealing": {
+    "CbonusSkillHeal": "number",
+    "Healingg": "number",
+    "ConquestHealsUsed": "number",
+    "ConquestPlayerHealMAX": "number"
+  },
+  "SparkleCoinBig Copy Copy 3 Copy": {
+    "wishing": "number",
+    "CancelEventBuy": "number",
+    "EVENTbuyableSELECTED": "number"
+  },
+  "KeyLockUnlock": {
+    "KeysOwned": "array[20]",
+    "KeysUnlocked": "array[99]",
+    "UnlockWhichLock": "number"
+  },
+  "SkillMeteor": {
+    "mapleexp": "number",
+    "CriticalDamage": "number",
+    "DPStobeDISPLAYED": "number",
+    "SkillBonusdmgPCT": "array[29]",
+    "CriticalRoll": "number",
+    "CriticalChance": "number"
+  },
+  "MenuButton Copy": {
+    "openingSTatz": "number",
+    "ZoneSwitchOn": "boolean"
+  },
+  "scene:crusadefight15": {
+    "ConquestBaseDMG": "number",
+    "ConquestAttacksLeft": "number",
+    "CrusadeDropsz": "number",
+    "EventCritDmgBonus": "number",
+    "EbonusCardChance": "number",
+    "DropListID": "array[18]",
+    "ConquestBossDMG": "number",
+    "EventCashBonus": "number",
+    "ConquestAttacksMax": "number",
+    "ConquestBaseHP": "number",
+    "CbonusCrusadeCardChance": "number",
+    "ConquestAttacksRecharge": "number",
+    "PuppeteerAttack": "number",
+    "ConquestMobDMG": "number",
+    "CbonusHealUses": "number",
+    "ConquestMobHP": "number",
+    "ConquestAttackRechargeWindup": "number",
+    "CbonusHitChance": "number",
+    "introanimation": "array[9]",
+    "CrusadeMobDmgBoost": "number"
+  },
+  "scene:HELP": {
+    "HelpSelect": "number"
+  },
+  "Rifts Copy": {
+    "GlyphsGivenBonusPercent": "array[14]",
+    "SummonEXPbonus": "number",
+    "SummonChance": "number",
+    "RiftAnimation": "array[15]"
+  },
+  "scene:SpendEVENT": {
+    "ArcadeToggleSkin": "number",
+    "HoldDownButtonIncrementation": "number",
+    "CardPachiCollected": "array[8]",
+    "PachinkoBallRegainTimer": "number",
+    "EventTimeLASTVISIT": "number",
+    "EVENTpurchasesMAX": "array[26]",
+    "EventTimeNOW": "number",
+    "PachinkoBallRechargeTime": "number",
+    "haveuBeentotheEvent": "number",
+    "CardHandCooldown": "number",
+    "TasksComplete": "array[111]"
+  },
+  "Cultist": {
+    "SpiritChance": "number",
+    "CultistLV": "array[52]",
+    "CultistAnimation": "array[15]",
+    "CultistTASK": "array[52]"
+  },
+  "ToggleParticles Copy Copy": {
+    "AutoSkills": "boolean"
+  },
+  "ContractDescription": {
+    "MeritsSpent": "number",
+    "MeritsOwned": "array[20]",
+    "ContractRank": "array[100]",
+    "ContractIncreaseReq": "number",
+    "contractEXP": "number",
+    "ContractRequirement": "array[68]",
+    "ContractSelected": "number",
+    "KeyFragments": "array[9]",
+    "ContractProgress": "array[100]",
+    "MapleMonster": "array[4000]"
+  },
+  "PopupMoving": {
+    "SpelunkerDistanceMAX": "array[11]",
+    "TreasureBAGSowned": "array[81]",
+    "ConstructLV": "array[71]"
+  },
+  "APresetInfo Copy": {
+    "BuyingCARDdeckSlots": "number",
+    "BuyingCauldronGemslots": "number"
+  },
+  "scene:Cards13": {
+    "CardSelected": "number",
+    "cardPackTransparent": "number",
+    "ResetBonuses": "number",
+    "CardPackScreenSelected": "number",
+    "PackBeingOpened": "number",
+    "CardLevels": "array[781]",
+    "CardBonusTOTAL": "number",
+    "CardTabSelected": "number",
+    "CardDeckLinksOwned": "number",
+    "DeckLinkList": "array[13]"
+  },
+  "miner": {
+    "BonusOresCUMULATIVEpercent": "number",
+    "OresMined": "number",
+    "MinerArmor": "array[10]",
+    "OresOwned": "array[50]",
+    "DoubleOres": "number",
+    "BonusMiningExpCUMUpercent": "number",
+    "MinerAnimation": "array[11]",
+    "miningLVL": "number",
+    "OresGiven": "array[51]"
+  },
+  "AIcies": {
+    "IciesNumber": "number"
+  },
+  "ParticleREDvertical": {
+    "ParticleColour1to7": "number"
+  },
+  "scene:Tilling15": {
+    "TraceETCbonusMulti": "number",
+    "PbonusCrops": "number",
+    "FarmingSpeedBOOST": "number",
+    "MysteryFarmingCurrency": "string",
+    "FarmingExpGivenBONUS": "array[16]",
+    "CropCardsEquipped": "array[30]",
+    "CrusadeIncremenationHelper": "number",
+    "PlantMenuType": "number",
+    "FarmerLV1": "array[19]",
+    "MythicPotsOwned": "number",
+    "SeedsGivenBONUS": "array[21]",
+    "AsylumTraceExtraBonus": "number",
+    "PlantType": "array[17]",
+    "PlantSelected": "number",
+    "farmingREQ": "number",
+    "PerkSelected": "number",
+    "PbonusTillingExp": "number",
+    "MysteryFarmingResourceCostCurrency": "number",
+    "amount2nextanimationFARMING": "array[21]",
+    "CoolCashStars": "number",
+    "FarmingLV": "number"
+  },
+  "AsylumSelect": {
+    "IsbossD2unlocked": "boolean",
+    "IsBossC2unlocked": "boolean",
+    "RaidTYPE": "number",
+    "IsBossB2unlocked": "boolean"
+  },
+  "Medals Copy Copy": {
+    "GoldTinty": "number",
+    "swapMonsterPicture": "number"
+  },
+  "monsterHP Copy": {
+    "CbonusShieldChargePCT": "number",
+    "EbonusShieldRecharge": "number",
+    "ShieldPercent": "number"
+  },
+  "AscentionUpgrades": {
+    "AscentionKeyOffset": "number",
+    "AscentionYshift": "number",
+    "AscentionXshift": "number"
+  },
+  "scene:secret4": {
+    "TotalPlayTime": "number",
+    "CivType": "number"
+  },
+  "ButtonValue Copy 2": {
+    "PbonusLimboLuck": "number"
+  },
+  "CardSets": {
+    "MoreCardDecks": "boolean",
+    "TinkerDecksOWNED": "number",
+    "EquipmentbyDeckList": "array[140]",
+    "CardDecksOWNED": "number",
+    "TinkerDeckSelected": "number",
+    "CardDeckSelected": "number"
+  },
+  "BuyGift": {
+    "BloodMoney": "number",
+    "GiftShopType": "number",
+    "GiftShopLevels": "array[53]"
+  },
+  "AutocastToggle": {
+    "AutocastToggles": "array[16]"
+  },
+  "Gate": {
+    "AreYouInHell": "number",
+    "HellUnlocked": "number",
+    "HaveuBeentoAsylum": "number",
+    "IceCreamsBeaten": "number"
+  },
+  "Power": {
+    "FishingRodLv": "number",
+    "FishPowerCost2": "number",
+    "FishPowerCost3": "number",
+    "FishPowerCost": "number",
+    "smithingFishingPower": "number",
+    "EbonusFishingPCT": "number",
+    "FshUpgradePowerLV": "number",
+    "ShowFishingStuffs": "boolean",
+    "FshUpgradePowerLV2": "number",
+    "FshUpgradePowerLV3": "number"
+  },
+  "Cauldron": {
+    "MTXeternalCauldronsOwned": "number",
+    "CauldronsOwned": "number"
+  },
+  "SmithingLevels": {
+    "SmithingPageSelected": "number"
+  },
+  "Fisherman": {
+    "FishingAnimation": "number"
+  },
+  "oresowned Copy": {
+    "FlowersUnlocked": "array[38]",
+    "FlowerDroppedReg": "number",
+    "PbonusPotionCostRedux": "number",
+    "FlowerDroppedQTY": "number",
+    "PotionsCostCurrency1": "array[170]",
+    "PotionsCostCurrency2": "array[170]",
+    "SeedsUnlocked": "array[43]"
+  },
+  "smithingRight": {
+    "haveUseenPage2smithing": "number"
+  },
+  "BuyMtxs Copy Copy Copy": {
+    "PremiumPackPURCHASED1": "number",
+    "PremiumPackPURCHASED2": "number"
+  },
+  "ButtonValue": {
+    "RiftItemsYouOwn": "array[51]"
+  },
+  "stazz CopyOverlay": {
+    "stazzImageCASH": "number",
+    "stazzImageKILLS": "number",
+    "stazzImageHP": "number"
+  },
+  "CardHolder": {
+    "CardHolderWhichCard": "array[21]"
+  },
+  "Uses": {
+    "SmithingUsesCost": "array[4]"
+  },
+  "BuyMtxs Copy": {
+    "StarterPackTIME": "number",
+    "RestoringPurchases": "boolean"
+  },
+  "monsterright": {
+    "MonsterRightScroll": "boolean"
+  },
+  "SkillSMITE": {
+    "DamageNumberino": "number"
+  },
+  "oresowned": {
+    "oresowneddisplay": "number"
+  },
+  "RaidBoss": {
+    "SpareTimer": "number",
+    "trigonometric": "number",
+    "DemonPhase": "number"
+  },
+  "scene:SpendMTX": {
+    "LastVisitedAdpage": "number",
+    "Adtimer": "number",
+    "advertreward": "number",
+    "CandyRNG": "number"
+  },
+  "EventShopTitle Copy": {
+    "CandyDescription": "number"
+  },
+  "MTXpurchaseButton Copy": {
+    "EventUpgradeCOST": "array[39]"
+  },
+  "RaidDrop": {
+    "CandyCoupons": "number"
+  },
+  "monsterleft": {
+    "MonsterleftScroll": "boolean"
+  },
+  "scene:dairyAisle": {
+    "IceCreamACCEPTED": "number"
+  },
+  "statsbar": {
+    "endREQ": "number",
+    "strREQ": "number",
+    "atkREQ": "number"
+  },
+  "ConquestCraftingEquipmentsCost": {
+    "RareBaseCost": "number",
+    "TinkeringCost": "array[4]",
+    "TinkeringCostCurrency": "array[4]"
+  },
+  "ConquestUpgrades": {
+    "UpgradePopupCharge": "number",
+    "UpgradePopupType": "number",
+    "UpgradeUnlocked": "array[19]",
+    "SwapUpgradeInventDisp": "number"
+  },
+  "bigMINING": {
+    "miningEXP": "number"
+  },
+  "scene:Codex21": {
+    "PetRewardList": "array[38]",
+    "PetClaimTimer": "number"
+  },
+  "AniVampireBlood": {
+    "VampHealPercent": "number"
+  },
+  "Lifters Copy 2": {
+    "ButtonSpeedzyo": "array[50]",
+    "MenuOn": "boolean"
+  },
+  "restoreGems": {
+    "g0Packsbought": "number"
+  },
+  "FlailingBasketballME": {
+    "CanUthrow": "number"
+  },
+  "pushups": {
+    "LiftingReps": "array[50]",
+    "animations": "array[34]"
+  },
+  "TheaterButton": {
+    "RaidBossNumber": "number"
+  },
+  "scene:Candies": {
+    "candypageselected": "number"
+  },
+  "Souls": {
+    "SoulsTotal": "array[50]",
+    "SoulConversionChanceTOTAL": "array[10]",
+    "SoulsUnlocked": "array[11]"
+  },
+  "pointer": {
+    "SideTutorialOVER": "array[21]"
+  },
+  "Idols": {
+    "ClickDelay": "number",
+    "Nondescript": "array[16]"
+  },
+  "waterbar": {
+    "waterEXPrequired": "number",
+    "waterEXP": "number"
+  },
+  "oresowned Copy 2": {
+    "ExtraOresDisplay": "number"
+  },
+  "rift": {
+    "riftopen": "number"
+  },
+  "HellPass": {
+    "RaidTotalTime": "number"
+  },
+  "PachinkoRewards": {
+    "pachinkorewardType": "number",
+    "CardXposition": "number"
+  },
+  "EquipmentTinkeringBox": {
+    "SecondPendantSlotPurchased": "boolean"
+  },
+  "TillingRank": {
+    "PlantexpRANKreq": "array[9]",
+    "HerbPotexpRANKreq": "array[17]",
+    "HerbPotexpRANK": "array[19]",
+    "OverLevels": "array[99]"
+  },
+  "NextOre": {
+    "RockSelected": "number"
+  },
+  "descriptionplate Copy": {
+    "MTXdoubleSummoning": "number",
+    "MTXscreen": "number",
+    "MTXdoubleSpiriting": "number"
+  },
+  "SparkleCoinBig": {
+    "drawGems": "number"
+  },
+  "helpingpixel": {
+    "CountdownR": "number"
+  },
+  "consumeButton": {
+    "CandyBeingConsumed": "number",
+    "AreaSelected": "number",
+    "CandySelected": "number"
+  },
+  "Fishing Scroller": {
+    "FishViewSelected": "number"
+  },
+  "scene:ascend Copy": {
+    "CritToggles": "number"
+  },
+  "scene:Portals11": {
+    "SecretRoomSelectedPortal": "number",
+    "APmenuSelectedINTERIM": "number"
+  },
+  "dmgNumbers Copy": {
+    "PotionLvUpFrame": "number"
+  },
+  "Anion Copy": {
+    "VampireLeeches": "number",
+    "KillSkillAnimations": "number"
+  },
+  "skipbutton": {
+    "GoldcoinPreAscend": "number",
+    "PbonusStartingCash": "number"
+  },
+  "grameophone": {
+    "gramophoneON": "boolean",
+    "GrameophoneParts": "number"
+  },
+  "CardFont Copy Copy Copy": {
+    "CardPacksOwned": "array[20]"
+  },
+  "AutoProgression": {
+    "AutoAdvanceToggle": "array[11]"
+  },
+  "EffectPlacer": {
+    "ActiveBuffs": "number"
+  },
+  "AscTrainingPerks": {
+    "TotalSkillerLV": "number"
+  },
+  "Fish": {
+    "pulse": "number"
+  },
+  "gemslots": {
+    "MTXgemslotsPurchased": "number",
+    "MTXgemslotsPurchasedMINING": "number"
+  },
+  "scene:mazAttackDojo2": {
+    "PbonusGymH20": "number"
+  },
+  "ContractSelection": {
+    "ContractLV": "number"
+  },
+  "FightMode": {
+    "HaveUseenCrusadesYet": "number"
+  },
+  "CardTabs": {
+    "Qcard": "number"
+  },
+  "wheel": {
+    "IsWheelSpinning": "boolean",
+    "WheelPosition": "number"
+  },
+  "ubblesa": {
+    "TutorialPart": "number"
+  },
+  "fishingRight": {
+    "FishingRodLvMAX": "number"
+  },
+  "MTXbuyables Copy Copy": {
+    "40gemratingz": "number"
+  },
+  "SkillVision": {
+    "YourCritChance": "number"
+  },
+  "FishOwnedLarge": {
+    "LargeFishPage": "number",
+    "BlurFishOwned": "boolean"
+  },
+  "cards dropCUSTOM": {
+    "CardIDcustom": "number"
+  },
+  "doodles": {
+    "doodleType": "number"
+  },
+  "SkillStrife": {
+    "HasteUnlocked": "number"
+  },
+  "Lifters Copy": {
+    "YouCheated": "boolean"
+  },
+  "Popups": {
+    "PopupType": "number"
+  },
+  "CardUpgradeSwap": {
+    "SwapTypeChosen": "number"
+  },
+  "bigATK Copy": {
+    "Mastery": "number"
+  },
+  "SecondaryTUNNEL": {
+    "TunnelScreenActive": "number"
+  },
+  "stazz mining Copy 2 Copy": {
+    "ShowAcolyteNumber": "number"
+  },
+  "BigMoney": {
+    "MidasGoldEarned": "number"
+  },
+  "SkillMark": {
+    "marktoggle": "number"
+  },
+  "EventBoard": {
+    "DescriptionEventDisplayed": "number"
+  },
+  "ButtonGrowBREW Copy": {
+    "HaveUBrewedBefore": "number"
+  },
+  "Smithy": {
+    "GoldSmithy": "number"
+  },
+  "cards drop": {
+    "CbonusCardDropChance": "number"
+  },
+  "MTXbuyables": {
+    "MTXshopMenu": "number"
+  },
+  "LvUP": {
+    "LvUpAnimation": "number"
+  },
+  "skillswap": {
+    "ShopSelected": "number"
+  },
+  "Bigwater": {
+    "waterLV": "number"
+  }
+}

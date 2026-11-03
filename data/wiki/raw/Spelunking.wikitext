@@ -1,0 +1,299 @@
+{{Header/Tunneling}}
+
+__TOC__
+
+In Spelunking, you acquire a variety of Treasure, which you use to improve your delvers, buy [[Construction]] upgrades or other things throughout the game. You can have up to 8 Spelunkers, who can perform two actions under Delve menu; Jump or Learn.
+==Treasure==
+Bags have three stats:
+
+[[File:value_icon.png|25px]] '''Value''': bags become higher rarity every power of 10 Value. Upgrading Value stat and Learning perk #2 on spelunkers increases its gain rate.
+
+[[File:treasure_icon.png|25px]] '''Treasure''': what type of Treasure is in the bag and its quantity.
+
+[[File:rare_chance_icon.png|25px]] '''Rare Chance''': every Treasure in a bag has a low chance to become a Treasure one tier higher, as indicated by the gold star percentage. This phenomenon can stack upon itself, resulting in a Treasure two tiers higher. The final two Treasures, The Mark and Temper Obol can only be acquired through Rare Chance. There are four [[Cards/Spelunking|Spelunking Cards]] that can improve these odds.
+{| class="mw-collapsible article-table" style="width: 60%;" border="0" align="center"
+|-
+! scope="col" style="text-align:center;"|Value
+! scope="col" style="text-align:center;"|Bag
+! scope="col" style="text-align:center;"|Treasure
+! scope="col" style="text-align:left;"|Name
+|-
+|
+<p style="text-align:center;">'''100'''</p>
+| style="text-align:center;"|[[File:bag_1.png|36px]]
+| style="text-align:center;"|[[File:t_coin.png|36px]]
+|Coin
+|-
+| style="text-align:center;"|'''1k'''
+| style="text-align:center;"|[[File:bag_2.png|36px]]
+| style="text-align:center;"|[[File:t_ore_veins.png|36px]]
+|Ore Veins
+|-
+| style="text-align:center;"|'''10k'''
+| style="text-align:center;"|[[File:bag_3.png|36px]]
+| style="text-align:center;"|[[File:t_crown.png|36px]]
+|Crown
+|-
+| style="text-align:center;"|'''100k'''
+| style="text-align:center;"|[[File:bag_4.png|36px]]
+| style="text-align:center;"|[[File:t_candle.png|36px]]
+|Candle
+|-
+| style="text-align:center;"|'''1M'''
+| style="text-align:center;"|[[File:bag_5.png|36px]]
+| style="text-align:center;"|[[File:t_heavy_bars.png|36px]]
+|Heavy Bars
+|-
+| style="text-align:center;"|'''10M'''
+| style="text-align:center;"|[[File:bag_6.png|36px]]
+| style="text-align:center;"|[[File:t_starlight.png|36px]]
+|Starlight
+|-
+| style="text-align:center;"|'''100M'''
+| style="text-align:center;"|[[File:bag_7.png|36px]]
+| style="text-align:center;"|[[File:t_wealth_obol.png|36px]]
+|Wealth Obol
+|-
+| style="text-align:center;"|'''1B'''
+| style="text-align:center;"|[[File:bag_8.png|36px]]
+| style="text-align:center;"|[[File:t_music_note.png|36px]]
+|Music Note
+|-
+| style="text-align:center;"|'''10B'''
+| style="text-align:center;"|[[File:bag_9.png|36px]]
+| style="text-align:center;"|[[File:t_diamond.png|36px]]
+|Diamond
+|-
+| style="text-align:center;"|'''100B'''
+| style="text-align:center;"|[[File:bag_10.png|36px]]
+| style="text-align:center;"|[[File:t_maybe_soap.png|36px]]
+|Maybe Soap
+|-
+| style="text-align:center;"|'''1T'''
+| style="text-align:center;"|[[File:bag_11.png|36px]]
+| style="text-align:center;"|[[File:t_silver_booty.png|36px]]
+|Silver Booty
+|-
+| style="text-align:center;"|'''10T'''
+| style="text-align:center;"|[[File:bag_12.png|36px]]
+| style="text-align:center;"|[[File:t_champ_cup.png|36px]]
+|Champ Cup
+|-
+| style="text-align:center;"|'''100T'''
+| style="text-align:center;"|[[File:bag_13.png|36px]]
+| style="text-align:center;"|[[File:t_shrapnel.png|36px]]
+|Shrapnel
+|-
+| style="text-align:center;"|'''1Q'''
+| style="text-align:center;"|[[File:bag_14.png|36px]]
+| style="text-align:center;"|[[File:t_frozen_obol.png|36px]]
+|Frozen Obol
+|-
+| style="text-align:center;"|'''10Q'''
+| style="text-align:center;"|[[File:bag_15.png|36px]]
+| style="text-align:center;"|[[File:t_irish_clover.png|36px]]
+|Irish Clover
+|-
+| style="text-align:center;"|'''100Q'''
+| style="text-align:center;"|[[File:bag_16.png|36px]]
+| style="text-align:center;"|[[File:t_octagox.png|36px]]
+|Octagox
+|-
+| style="text-align:center;"|'''1QQ'''
+| style="text-align:center;"|[[File:sack_mach_1.png|36px]]
+| style="text-align:center;"|[[File:t_cristils.png|36px]]
+|Cristils
+|-
+| style="text-align:center;"|'''10QQ'''
+| style="text-align:center;"|[[File:sack_mach_2.png|36px]]
+| style="text-align:center;"|[[File:t_leaf_ring.png|36px]]
+|Leaf Ring
+|-
+| style="text-align:center;"|'''100QQ'''
+| style="text-align:center;"|[[File:sack_mach_3.png|36px]]
+| style="text-align:center;"|[[File:t_geode.png|36px]]
+|Geode
+|-
+| style="text-align:center;"|'''<span style="color:#00FA9A">1</span>'''
+| style="text-align:center;"|[[File:sack_mach_4.png|36px]]
+| style="text-align:center;"|[[File:t_jade.png|36px]]
+|Jade
+|-
+| style="text-align:center;"|'''<span style="color:#00FA9A">10</span>'''
+| style="text-align:center;"|[[File:sack_mach_5.png|36px]]
+| style="text-align:center;"|[[File:t_calming_obol.png|36px]]
+|Calming Obol
+|-
+| style="text-align:center;"|'''<span style="color:#00FA9A">100</span>'''
+| style="text-align:center;"|[[File:sack_mach_6.png|36px]]
+| style="text-align:center;"|[[File:t_blobbish.png|36px]]
+|Blobbish
+|-
+| style="text-align:center;"|'''<span style="color:#00FA9A">1k</span>'''
+| style="text-align:center;"|[[File:sack_mach_7.png|36px]]
+| style="text-align:center;"|[[File:t_ruby.png|36px]]
+|Ruby
+|-
+| style="text-align:center;"|'''<span style="color:#00FA9A">10k</span>'''
+| style="text-align:center;"|[[File:sack_mach_8.png|36px]]
+| style="text-align:center;"|[[File:t_prime_meat.png|36px]]
+|Prime Meat
+|-
+| style="text-align:center;"|'''<span style="color:#00FA9A">100k</span>'''
+| style="text-align:center;"|[[File:sack_mach_9.png|36px]]
+| style="text-align:center;"|[[File:t_scroll.png|36px]]
+|Scroll
+|-
+| style="text-align:center;"|'''<span style="color:#00FA9A">1M</span>'''
+| style="text-align:center;"|[[File:sack_mach_10.png|36px]]
+| style="text-align:center;"|[[File:t_sigil.png|36px]]
+|Sigil
+|-
+| style="text-align:center;"|
+| style="text-align:center;"|
+| style="text-align:center;"|[[File:t_the_mark.png|36px]]
+|The Mark
+|-
+| style="text-align:center;"|
+| style="text-align:center;"|
+| style="text-align:center;"|[[File:t_temper_obol.png|36px]]
+|
+Temper Obol
+|}
+
+Sack Mach 10 is the highest tier bag that can be found, but 11, 12, 13, etc. can still be found every power of 10 Value - each slightly increases the amount of drops. This means Sigil is the highest type of Treasure that can regularly drop. The final two Treasures, The Mark and Temper Obol can only be acquired through Rare Chance.
+
+<s>'''<span style="color:#FF0000">NOTE:</span>''' Currently the higher Mach number the bag is, the less Rare Chance it has. You might want to stop at some of the earlier ones for more drops of The Mark and Temper Obol.</s> Fixed.
+
+== Jump ==
+Jump will send the spelunker to explore a tunnel. Along the way, they will pick up loot and store it in their bag. At any time, you can press Extract to make the spelunker return and open their bag of loot. Once they reach the end of their tunnel, another option becomes available. Choosing to Dig Down will sacrifice any loot they have found to increase the length of their tunnel.
+Spelunkers depend on 3 stats during their Jumps:
+*Value - the bag value grows faster, so he finds rarer bags sooner.
+*Speed - he moves faster through the tunnel, reaching lower depth sooner.
+*Dig - once he reaches the end of the tunnel, he can Dig Down for more depth.
+The following is a list of ways to improve Spelunking:
+*upgrading Spelunkers,
+*Desolators ([[Gem Shop]] purchase)
+*Sitty Chair (Construction, Yellow Domain)
+*[[Tinkering]] gear with 3 stats unlocked
+*[[Cards]]
+*Darkmode [[apothecary|potions]]
+
+== Learn ==
+Aside from digging through the tunnels, a Spelunker can be learning to gain various perks, which improves their performance. Every time the progress bar fills, he accumulates knowledge in form of points. You can Absorb anytime to reset his learning progress and gain levels in the perks.
+Super Absorb - you can pay Gems to use this function up to 3 times per Absorb. When you do, the Spelunker gains levels in his perks as if he Absorbed, but the learning progress is not reset. A Canary allows to Super Absorb once for free every Absorb. 
+{| class="article-table" style="width: 90%;" border="0" align="center"
+|-
+! scope="col" style="text-align:center;"|No.
+! scope="col" style="text-align: center;" |Perk
+! scope="col" style="text-align: center;" |Bonus
+! scope="col" style="text-align:center;"|Max
+!Learning required (single)
+!Learning required (cumulative)
+|-
+| style="text-align:center;"|1
+|[[File:Basic_Swiftness.png|39px]] Basic Swiftness
+|Speed increased by 10% per level
+| style="text-align:center;"| -
+|144
+|144
+|-
+| style="text-align:center;"|2
+|[[File:Value_Town.png|39px]] Value Town
+|Treasure bag value increased by X%
+| style="text-align:center;"| -
+|576
+|720
+|-
+| style="text-align:center;"|3
+|[[File:Big_Brained.png|39px]] Big Brained
+|Learning rate increased by X%
+| style="text-align:center;"|200%
+|720
+|1440
+|-
+| style="text-align:center;"|4
+|[[File:Diggy_Hole.png|39px]] Diggy Hole
+|Dig down amount increased by 5% per level
+| style="text-align:center;"| -
+|1400
+|2840
+|-
+| style="text-align:center;"|5
+|[[File:Craaazy_Skull.png|39px]] Craaazy Skull
+|Gain X% more Spelunking EXP from this guy
+| style="text-align:center;"|100%
+|2700
+|5540
+|-
+| style="text-align:center;"|6
+|[[File:Extra_Baggage.png|39px]] Extra Baggage
+|Treasure bags hold X% more treasure items
+| style="text-align:center;"|500%
+|3000
+|8540
+|-
+| style="text-align:center;"|7
+|[[File:Were_Goin_Down.png|39px]] Were Goin Down
+|X% Dig down multiplier (all spelunkers)
+| style="text-align:center;"| -
+|5700
+|14240
+|-
+| style="text-align:center;"|8
+|[[File:Sacks_On_Sacks.png|39px]] Sacks On Sacks
+|Gain X extra bags with Y% value of previous
+| style="text-align:center;"|2 / 60%
+|7200
+|21440
+|-
+| style="text-align:center;"|9
+|[[File:Galaxy_Brained.png|39px]] Galaxy Brained
+|X% Learn rate multiplier (all spelunkers)
+| style="text-align:center;"|40%
+|8600
+|30040
+|-
+| style="text-align:center;"|10
+|[[File:Obol_Blessing.png|39px]] Obol Blessing
+| +0.1% dig down & +0.1% speed per Spelunk lvl per level
+| style="text-align:center;"| -
+|10000
+|40040
+|-
+| style="text-align:center;"|11
+|[[File:Sanic_Speed.png|39px]] Sanic Speed
+|X% speed multiplier (all spelunkers)
+| style="text-align:center;"|150%
+|11000
+|51040
+|-
+| style="text-align:center;"|12
+|[[File:Shiny_Is_Good.png|39px]] Shiny Is Good
+|Each treasure is worth 4% more
+| style="text-align:center;"| -
+|12000
+|63040
+|-
+|13
+|[[File:Hey_Look_Ma.png|39px]] Hey Look Ma
+|Rare treasures are X% more likely
+| style="text-align:center;"|250%
+|14000
+|77040
+|-
+|14
+|[[File:Hammer_Time.png|39px]] Hammer Time
+|Building speed boosted by X%
+| style="text-align:center;"|50%
+|33000
+|110040
+|}
+The following is a list of ways to improve Learning:
+*Learning perk #3 and #9
+*Canary ([[Gem Shop ]] purchase)
+*Ni Ni Shrubbery (Construction, Green Domain)
+*Tinkering gear with 3 stats unlocked
+*Cards (Teehee (Oblivion), Wawawoo (Crusade 15), Heavy Bars, Frozen Obol, Cristils, and Temper Obol (Spelunking))
+*Darkmode potions (Knowitall,  Cup Of Calm, and Jug Of Storm)
+[[Category:Tunneling]]

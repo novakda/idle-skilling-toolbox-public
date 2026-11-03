@@ -1,0 +1,2286 @@
+[[File:Realm Icon.png|center|68x68px]]
+Accessed after reaching [[desert]]. The player has to fight an endless gauntlet of Bosses through summoning Minions, and managing a varying amount of currencies.
+
+== WARNING ==
+It should be kept in mind that these warnings won't ever happen accidentally. They are all end-game issues that should be known about for when they actually might become a problem. When playing normally, these situations should take weeks to months to appear. As always, be careful and pay attention!
+
+'''BE WARY OF <u>COST REDUCTION</u>! IT LEADS TO DAMAGE REDUCTION! -''' Minion Coin generation is based on level up cost. Therefore, all forms of cost reduction impact the damage Minions do (more cost reduction equals less damage dealt!). This becomes especially apparent once you get past '''Stage 100'''. If you get to a point where you struggle with damage this is most likely the cause.  But even so, be careful having cost reduction Minions and blessings as it might force you to reset earlier than planned.
+
+'''BE WARY OF <u>REALM LEVEL</u>! IT MAY LEAD TO DEALING 0 PURPLE DAMAGE! -''' Purple Boss health is calculated based on Realm EXP. Therefore, if you banish a NaN cost Minion, you will overflow Realm EXP. This becomes especially apparent once you go past '''Realm Lv400''', since the overflow happens at '''e123 Realm EXP'''. Once you reach that Realm level, take notice of how much Realm EXP you're getting from banishes. Make sure to <u>not</u> take '''Intellingo [[File:F Realm.png|frameless|25x25px]]''' blessing anymore, and don't have any extra '''Horn Hippo [[File:Horn Hippo.png|frameless|35x35px]]''' ('''Riftseeker''' trait).
+
+'''BE WARY OF MINIONS' <u>ATTACK SPEED</u>! IT LEADS TO LAG! -''' This is commonly caused by having too much attack speed. This becomes especially apparent once you get past '''Stage 100'''. If you really want to have attack speed on your composition, it is better to have it on Minions instead of blessings as you can banish your Minions when the lag becomes unbearable.
+
+* One way to diminish the lag is to deplete the Purple health bar, then the Blue health bar, and then go back to the Gym, close the game, and then re-enter Realm. The game will still be laggy, but it should be fluid enough to be playable until you push to the next Boss.
+
+'''BE WARY OF <u>OVERFLOWING RESOURCES OUTSIDE OF Realm</u>! IT MAY LEAD TO BLOCKING YOUR CORNUCOPIA! -''' Buying a reroll or new fruit at Cornucopia which costs '''e308''' '''Food bundles''' will overflow your Food bundles, making them negative. Therefore you won't ever be able to buy rerolls or fruits again. This is only possible by overflowing a resource outside Realm with infinite cash and turning them in at Cornucopia and then buying rerolls until it costs more than e308 (the cost resets daily so this could be easily avoided; nonetheless, take notice of how much Food bundles cost just in case).
+== Strategies ==
+The following guidelines are meant to be viewed as tools to effectively make your way around Realm. Only the most important things will be mentioned. Don't be afraid to deviate outside of what has been written and explore on your own! This was written asuming you don't have any outside-Realm upgrade, and you are playing without paying.
+
+Keep in mind early Realm is very away-intensive. There will be massive amounts of idling in between progress sesions. Whenever you feel you aren't generating enough Coins or not dealing enough damage, just leave Realm and come back after a while to push a little bit further. Later on Realm will flip on itself and become very active.
+
+=== Stage 1-15 ===
+Early game is really rough.  As mentioned before, there will be moments in which you will have to idle for a few hours before coming back and being able to upgrade your Minions or do new stuff. Also, there will be moments in which you will need an overnight idle to be able to progress further. This whole section should take about 3-4 days.  
+
+To start your Realm journey, tap the Boss to earn your first coins and summon '''3''' '''Little Piggys'''[[File:Little Piggy.png|frameless|35x35px]]. They will be your main Red Damage and <u>Coin source</u>. Level them up and mutate them into '''Hippos'''[[File:Hippo.png|frameless|35x35px]] (Lv10). The goal is to eventually mutate one of them much later on into a '''Horn Hippo'''[[File:Horn Hippo.png|frameless|35x35px]] (Lv50), since it will increase your Realm EXP per banish. 
+
+Once the '''Realm Lv2''' '''quest''' pops up, banish '''one Hippo[[File:Hippo.png|frameless|35x35px]] (Lv10)'''. This should grant you '''Realm Lv2'''. Get another '''Hippo''', and don't banish any more Minions for now. Realm Lv doesn't provide much benefit beyond being able to summon new Minion types and Realm Lv-based traits, but they are <u>too expensive</u> and <u>not useful</u> yet. 
+
+Remember you only have '''6 banish per 24 hours''', so try to not banish before getting one '''Horn Hippo'''[[File:Horn Hippo.png|frameless|35x35px]] (unless told to do so, like before). You should always aim to banish the highest leveled Minion available, as Realm EXP is scaled off Coins spent. 
+[[File:Realm build - Stage 1.png|center|thumb|400x400px|Minion composition by Stage 1]]
+
+==== Vending Machine unlocked ====
+Once you beat '''Stage 3''', the [[Realm#Vending Machine|Vending Machine]] will be available on the left side. Its currency are '''Coins''', the same you get from Piggys! At this point in the game, only '''Wheat Chew''' [[File:VendingItem0.png|frameless|28x28px]]  (more Barn slots for more Minions) is useful for Realm progression. Much later, '''Choccy Coin''' [[File:VendingItem3.png|frameless|28x28px]] (more Coins per afterlife reached) will be the most important upgrade. 
+
+Whenever you upgrade '''Wheat Chew [[File:VendingItem0.png|frameless|28x28px]]''' at the Vending Machine and get a new Barn slot, summon '''Little Piggys'''[[File:Little Piggy.png|frameless|35x35px]] and mutate them into '''Hippos'''[[File:Hippo.png|frameless|35x35px]]. Afterwards level them up evenly, as this early in Realm their upgrade cost will outpace their Coin production by a lot. 
+
+Since you reached '''Realm Lv2''', summon one '''Pet Rock''' [[File:Pet Rock.png|frameless|25x25px]]. They will be your main source of Orange Damage and Realm EXP. Level it up and mutate it into '''Mountain''' [[File:Mountain.png|frameless|25x25px]] (Lv10) for Orange Damage (required at Stage 5). The goal is to eventually mutate it much later on into a '''Volcano''' [[File:Volcano.png|frameless|37x37px]] (Lv50) for Coin gain increase. Subsequent '''Pet Rocks''' should follow the same mutation path.[[File:Realm build - Stage 5 end.png|center|thumb|400x400px|Minion composition by the end of Stage 5]]
+
+==== Cornucopia unlocked ====
+Once you beat '''Stage 7''', the [[Realm#Cornucopia|Cornucopia]] will be available on the right side. Its currency are '''Food bundles''', which are obtained by exchanging all of one type of resource from outside Realm. The Flowers from Botany trade is the most cost-efficient later on. If you can easily afford all the slots and a few fruit and stats reroll, aim for '''Avocados''' (more Spirals on reset - will be useful soon enough) on slot 1 and 2, '''Bluenanas''' (more Energy per hour) on slot 3 to 6, and '''Kiwi''' (more Fruit effect) on slot 7. If you can't afford this yet, don't worry too much about it, early on the bonuses aren't that good.[[File:Realm build - Stage 7 end.png|center|thumb|400x400px|Minion composition by the end of Stage 7]]
+
+
+
+Once you reach '''Stage 10''' you need to deal Yellow Damage. This is done by acquiring a '''Lil Chicken''' [[File:Lil Chicken.png|frameless|24x24px]] (Babby Egg -> Lil Chicken). <u>Any</u> Minion that does a critical hit will also deal Yellow damage. This means that '''Realm Lv10''' is required to progress further.
+
+To achieve '''Realm Lv10''' (7.500-ish Realm EXP), you will need to banish '''around''' '''9 Mountains''' [[File:Mountain.png|frameless|25x25px]] '''(Lv29)'''. Afterwards, summon a '''Babby Egg''' [[File:Babby Egg.png|frameless|32x32px]]. They will be your main source of Yellow Damage, <u>Energy source</u> (Blue Damage) and Coin gain increase. Level it up and mutate it into a '''Lil Chicken''' [[File:Lil Chicken.png|frameless|24x24px]] (Lv10).
+[[File:Realm build - Stage 10 end.png|center|thumb|400x400px|Minion composition by the end of Stage 10]]
+
+
+From this point onwards, whenever you upgrade '''Wheat Chew [[File:VendingItem0.png|frameless|28x28px]]''' at the Vending Machine and get a new Barn slot, summon '''Babby Eggs''' [[File:Babby Egg.png|frameless|32x32px]] and mutate them into '''Lizards''' [[File:Lizard.png|frameless|35x35px]] (Lv10). The base Coin production from the '''Hippos''' is good enough already, so now you need to work on the '''Energy''' production. '''Lizards''' will generate 1 Energy every '''hour''' (24/day) , while also increasing the Coin gain from '''Hippos'''.
+
+==== Orb Tower unlocked ====
+Once you beat '''Stage 11''', the [[Realm#Orb Tower|Orb Tower]] will be available on the right side. Its currency is '''Energy''', which is generated by '''Lizards''' [[File:Lizard.png|frameless|35x35px]] (mentioned before). After using the laser to deplete the Blue health bar every time its needed, focus on increasing the Energy cap until you have 120 maximum Energy. This way you will be able to store as much Energy as possible for later rerolling the Orb Tower's Trait until you get '''Riftseeker''' [[File:Trait22.png|frameless|32x32px]] (Realm EXP increase per banish). This will give '''Horn Hippo's'''[[File:Horn Hippo.png|frameless|35x35px]] exclusive trait to '''<u>every Minion you own</u>'''. Keep this trait in the Orb Tower until you reach '''Realm Lv20'''. If you can't get it, the other good option early game is '''Clenched Fist''' [[File:Trait11.png|frameless|32x32px]] (Increases base damage by +2500), which will help with early game damage.
+
+Once all your '''Hippos''' reach level 40, focus on leveling only one to level 50 and mutate it into a '''Horn Hippo'''[[File:Horn Hippo.png|frameless|35x35px]], and then level the '''Mountain''' to level 50 and mutate it to a '''Volcano''' [[File:Volcano.png|frameless|37x37px]] . This should help on getting every other '''Hippo''' to level 50 and ventually mutate them into '''Beeg Hippos''' [[File:Beeg Hippo.png|frameless|35x35px]], and also on getting new Barn slots for more '''Lizards.'''
+[[File:Realm build - Stage 13 end.png|center|thumb|400x400px|Minion composition by the end of Stage 13]]
+[[File:Realm build - Stage 15 end.png|center|thumb|400x400px|Minion composition by the end of Stage 15]]
+
+=== Stage 16-24 ===
+Here is when Realm starts to pick up in active play. This whole section should also take about 3-4 days, with more active play.
+
+Once you beat '''Stage 16''', the [[Realm#Shrine|Shrine]] will be available on the left side. Its currency are '''Spirals''', which are obtained after every Realm reset, in which you lose all your Coins and Minions, but keep all the building upgrades (don't worry, every reset will be quicker than the one before). Shrine gives access to two new mechanics: '''Blessings''' (stats boosts per boss killed, get wiped at every reset), and '''Upgrades''' (permanent boosts to different stats, bought with Spirals).
+
+==== Shrine Blessings to look for ====
+Since Shrine is unlocked, you will get to choose 3 random blessings every time you defeat a Boss. You only have 10 different to pick at the start, and the only good options before your first reset are '''Penny Thought''' [[File:C Afterlife.png|frameless|29x29px]] (+10% Coin gain),  '''Barno''' [[File:P Realm.png|frameless|15x15px]] (+1 Barn slot) and '''Intellingo''' [[File:F Realm.png|frameless|25x25px]] (+10% extra banish EXP).  
+
+'''Dharma''' upgrade is cheap and should be leveled up quickly. Every level unlocks a new blessing. Here is a list of the most important blessings. As you can see, <u>7 levels</u> are very important to speed up the resetting process thanks to '''Enlightenment''' [[File:Q Realm.png|frameless|26x26px]], and should be bought before the third reset. 
+
+* at level 2 it unlocks '''Nickel back''' [[File:L Realm.png|frameless|24x24px]] (+2% Cashback on all purchases);
+* at level 7 it unlocks '''Enlightenment''' [[File:Q Realm.png|frameless|26x26px]] (+15% Enlightenment Spirals when resetting);
+* at level 8 it unlocks '''Dime Decisive''' [[File:R Afterlife.png|frameless|26x26px]] (+25% coins from all sources);
+* at level 10 it unlocks '''Vendorama''' [[File:T Realm.png|frameless|22x22px]] (-5% Vending Machine costs);
+* at level 13 it unlocks '''Superblesser''' [[File:W Realm.png|frameless|22x22px]] (1.1x higher bonus from all +% blessings);
+* at level 15 it unlocks '''Retrigger''' [[File:Y Realm.png|frameless|26x26px]] (+10% chance to retrigger away time after arrival);
+* at level 16 it unlocks '''Banked Bygone''' [[File:Z Realm.png|frameless|24x24px]] (+50% coins from all sources);
+* at level 17 it unlocks '''One For All''' [[File:A Realm.png|frameless|25x25px]] (Instantly get +1 of every type of blessing you have).
+
+==== Shrine Upgrades goal ====
+Shrine also unlocks its '''upgrades'''. Early on, we care about these four with the following priority. Keep in mind they should be leveled somewhat equally, since they all provide a great boost to progression.  
+
+# '''Bhakti:''' a lot of extra damage! This will make getting back to Stage 16 take just a few hours instead of days, and help progress even further. First time you reset spend <u>all</u> the Spirals on this. Whenever it gets too expensive to afford, leftover Spirals should be spent on the next three upgrades. 
+# '''Dharma:''' unlocks better Blessings. Level 7 and 8 should be rushed (detailed below). 
+# '''Sahaja:''' huge boost to Coin production 
+# '''Carnate:''' more <u>cheap</u> Barn slots! 
+This will be your '''Shrine Upgrades goal''' for this Stage of Realm progression.
+
+# '''Bhakti:''' around Lv30 to Lv40
+# '''Dharma:''' Lv8
+# '''Sahaja:''' Lv10
+# '''Carnate:''' around Lv10
+
+==== Reset loop ====
+If you have enough damage to continue another Stage, do so. Otherwise reset right away at Stage 17. As previously mentioned, spend all your Spirals on '''Bhakti''' upgrade, and leftover Spirals should be spent on '''Dharma''', '''Sahaja''' and '''Carnate'''.
+
+At this point in progression, it is advised to start a '''<u>Reset loop</u>''': level up the Shrine's Upgrades, try to push only one Stage further than your best, Reset and repeat. Whenever you reach a Stage in which it would take more than 2 hours to beat, reset and spend your Spirals as previously mentioned. Minion composition for each reset should be the same as by the end of Stage 15, refreshed on the '''table below'''. Keep doing this Reset loop until you reach the '''[[Realm#Shrine Upgrades goal|Shrine Upgrades goal]]''', at which point you should be good to stop resetting and push comfortably towards '''Stage 23'''.
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="4" |'''Reset loop composition'''
+|-
+!'''Amount'''
+!'''Minion'''
+!'''Level'''
+!'''Mutation path'''
+|-
+|1
+|[[File:Horn Hippo.png|frameless|95x95px]]
+|Lv50
+|Little Piggy -> Hippo -> Horn Hippo
+|-
+|5
+|[[File:Beeg Hippo.png|frameless|95x95px]]
+|leveled evenly, as high as possible
+|Little Piggy -> Hippo -> Beeg Hippo
+|-
+|1
+|[[File:Volcano.png|frameless|84x84px]]
+|leveled as high as possible
+|Pet Rock -> Mountain -> Volcano
+|-
+|1
+|[[File:Lil Chicken.png|frameless|65x65px]]
+|Lv10
+|Babby Egg -> Lil Chicken
+|-
+|Remaining slots
+|[[File:Lizard.png|frameless|84x84px]]
+|Lv10
+|Babby Egg -> Lizard
+|}
+
+
+This is a good moment to achieve '''Realm Lv20''' (8.000.000-ish Realm EXP), for which you will need to banish '''around''' '''2 Beeg Hippos''' [[File:Beeg Hippo.png|frameless|35x35px]] '''(Lv65)''' with '''Riftseeker [[File:Trait22.png|frameless|26x26px]] on the Orb Tower'''. Once you achieve it''',''' summon a few '''Ogre Spawns''' [[File:Ogre Spawn.png|frameless|25x25px]]. They will be your main source of Flowers and support traits. Evolve them into '''Gobbos''' [[File:Gobbo.png|frameless|26x26px]] (Lv10). The goal is to eventually mutate them into '''Lizardmen''' [[File:Lizardman.png|frameless|27x27px]] (Lv50) for blessing boost (this Minion will eventually fill your entire Barn after your main team).
+
+If you are still in the Reset loop at this point, Minion composition for each reset should change a bit, detailed on the '''table below'''.
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="4" |'''Reset loop composition - after Realm Lv20'''
+|-
+!'''Amount'''
+!'''Minion'''
+!'''Level'''
+!'''Mutation path'''
+|-
+|1
+|[[File:Horn Hippo.png|frameless|95x95px]]
+|Lv50
+|Little Piggy -> Hippo -> Horn Hippo
+|-
+|'''1'''
+|[[File:Beeg Hippo.png|frameless|95x95px]]
+|leveled as high as possible
+|Little Piggy -> Hippo -> Beeg Hippo
+|-
+|1
+|[[File:Volcano.png|frameless|84x84px]]
+|leveled as high as possible
+|Pet Rock -> Mountain -> Volcano
+|-
+|1
+|[[File:Lil Chicken.png|frameless|65x65px]]
+|Lv10
+|Babby Egg -> Lil Chicken
+|-
+|12
+|[[File:Lizard.png|frameless|84x84px]]
+|Lv10
+|Babby Egg -> Lizard
+|-
+|Remaining slots
+|[[File:Gobbo.png|frameless|70x70px]]
+|Lv10
+|Ogre Spawn -> Gobbo
+|}
+
+
+Once you are getting closer to the Shrine Upgrades goal previously mentioned, Minion composition for each reset will change a bit, detailed on the '''table below.''' 
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="4" |'''Reset loop composition - about to reach Shrine Upgrades goal'''
+|-
+!'''Amount'''
+!'''Minion'''
+!'''Level'''
+!'''Mutation path'''
+|-
+|1
+|[[File:Horn Hippo.png|frameless|95x95px]]
+|Lv50
+|Little Piggy -> Hippo -> Horn Hippo
+|-
+|'''1'''
+|[[File:Beeg Hippo.png|frameless|95x95px]]
+|leveled as high as possible
+|Little Piggy -> Hippo -> Beeg Hippo
+|-
+|1
+|[[File:Volcano.png|frameless|84x84px]]
+|leveled as high as possible
+|Pet Rock -> Mountain -> Volcano
+|-
+|'''8'''
+|[[File:Goose.png|frameless|60x60px]]
+|Lv50
+|Babby Egg -> Lil Chicken -> Goose
+|-
+|'''3'''
+|[[File:Crocodile.png|frameless|84x84px]]
+|Lv50
+|Babby Egg -> Lizard -> Crocodile
+|-
+|12
+|[[File:Lizard.png|frameless|84x84px]]
+|Lv10
+|Babby Egg -> Lizard
+|-
+|Remaining slots
+|[[File:Gobbo.png|frameless|70x70px]]
+|Lv10
+|Ogre Spawn -> Gobbo
+|}
+
+
+At first you will be able to get only one '''Goose''' [[File:Goose.png|frameless|21x21px]]. Once you can get more, proceed to evolve 3 '''Lizards''' into '''Crocodiles''' [[File:Crocodile.png|frameless|35x35px]]. These two evolutions will boost your Coin production so quickly that you will be able to evolve all your '''Gobbos''' into '''Lizardmen'''[[File:Lizardman.png|frameless|27x27px]] (Lv50), and this will lead you into evolving your '''Horn Hippo'''[[File:Horn Hippo.png|frameless|35x35px]] into a '''Rainboppo'''[[File:Rainboppo.png|frameless|35x35px]](Lv200), and your '''Beeg Hippo''' [[File:Beeg Hippo.png|frameless|35x35px]] into a '''Chonkoppo'''[[File:Chonkoppo.png|frameless|35x35px]] (Lv200).
+
+Since you reached '''Realm Lv20,''' there's no more need for Realm EXP anymore, so you should change the '''Orb Tower's trait''' for a money oriented one. These traits have less than 1% chance, so settle for the <u>first one</u> you can get. <u>Much later on</u> you can save up '''<u>15.000 - 20.000 Energy</u>''' to get '''Gold Bless  [[File:Trait39.png|frameless|26x26px]]'''. Remember you need at least one Minion with the trait before rolling for it. The priority of the traits will be as follows:
+
+# '''Gold Bless''' [[File:Trait39.png|frameless|32x32px]] from [[File:Goose.png|frameless|31x31px]] - Increases all coin gain by +250% per blessing you have the most of  (Babby Egg -> Lil Chicken -> Goose)
+# '''Smart Money''' [[File:Trait31.png|frameless|32x32px]] from [[File:Babby Egg.png|frameless|32x32px]] - Increases all coin gain by +40% per 5 Realm Lv (Babby Egg)
+# '''Make It Rain''' [[File:Trait8.png|frameless|30x30px]] from [[File:Volcano.png|frameless|35x35px]] - Increases all coin gain by +150% from all sources (Pet Rock -> Mountain -> Volcano)
+
+==== Vending Machine must-have goodies ====
+When you reach the point of having '''Goose''' [[File:Goose.png|frameless|21x21px]] and '''Lizardmen'''[[File:Lizardman.png|frameless|27x27px]] at the same time on your team, go back to the Vending Machine and buy every latest new upgrade you can, and do so until you can't go further. You should be generating enough Coins to buy up to '''Bagged Pancakes'''[[File:VendingItem13.png|frameless|28x28px]] '''(BP).''' From now on, whenever you have spare Coins to spend at the Vending Machine, upgrade all of the following:
+
+* '''Wheat Chew[[File:VendingItem0.png|frameless|28x28px]]'''
+* '''Choccy Coin'''[[File:VendingItem3.png|frameless|28x28px]]
+* '''Tuna Can'''[[File:VendingItem6.png|frameless|28x28px]]: retrigger away time
+* '''Corn Can'''[[File:VendingItem9.png|frameless|28x28px]]: increase away gains
+* '''Icecream Sammich'''[[File:VendingItem10.png|frameless|28x28px]]: start with Coins after resetting
+* '''Bagged Pancakes'''[[File:VendingItem13.png|frameless|28x28px]] '''(BP)''': unstackable traits now stack. Later on, Minion amount might be refered at "'''BP+2'''", with '''BP''' being your Bagged Pancakes bonus.
+* '''Iced Footlong'''[[File:VendingItem14.png|frameless|28x28px]]: Minion damage multiplier based on Ice Creams (this one might not be available yet)
+
+These Vending Machine upgrades will boost your Realm progression <u>a lot</u>, and you should be buying them everytime you can after upgrading your Minions from here on. Be wary of '''Vendi Bar'''[[File:VendingItem12.png|frameless|28x28px]](explained on [[Realm#WARNING|Warning]]). Since you have '''Tuna Can'''[[File:VendingItem6.png|frameless|28x28px]] and '''Corn Can'''[[File:VendingItem9.png|frameless|28x28px]], you should leave Realm screen everytime you want to idle, so you have a chance to retrigger away time for a huge progression boost.
+
+==== Approaching Stage 23 ====
+Once you reach '''Stage 23''' you need to deal Purple Damage. This is done by acquiring a '''Rainboppo''' [[File:Rainboppo.png|frameless|35x35px]] (Little Piggy -> Hippo -> Horn Hippo -> Rainboppo). Now when you banish Minions they will deal Purple damage equal to the amount of Realm EXP. Given Purple Health bar is based on your Realm EXP, you should always banish the minimum amount required to take down the health bar (explained on [[Realm#WARNING|Warning]]). From here on, do not get any Realm EXP increase at all (from Blessings or Orb Tower).
+
+At this point, you can decide to keep doing the Reset Loop, or continue to '''Stage 25.''' It's advised to carry on, since unlocking the Field will change the gameplay a lot, exponentially increasing the amounts of Spirals earned by reset (up to the point of doing only one reset to cap every Shrine Upgrade!).
+
+=== Stage 25-49 ===
+Congrats! You have learned all the basic elements of Realm. And you also made it through the slowest and most idle part! Now it's time for <u>'''really'''</u> active gameplay.
+
+Once you reach Stage 25, the [[Realm#Field|Field]] will be available on the left side. Its currency are '''Flowers''', which are generated by '''Ogre Spawns''' [[File:Ogre Spawn.png|frameless|25x25px]]. Every single Plot is useful and will provide great benefits eventually. For now, we will care about the mentioned below. Plot 6, 7 and 8 are too expensive at this point to be helpful, and Plot 2 might be controversial because Coin/Damage reduction (explained on [[Realm#WARNING|Warning]]). Given all the '''Lizardmen'''[[File:Lizardman.png|frameless|27x27px]] present in your composition, upgrading the Plots below throughout the normal Realm loop should be fairly easy.
+
+* '''<u>Plot 1:</u>'''  <u>'''Full Blossom'''</u> - each Ogre Spawn generates more Flowers. Immediately focus on this one, and keep upgrading whenever is the least expensive option.
+* Plot 3: Juiced Fruit - Fruits effect are stronger. Very cheap, should be maxed fairly easy.
+* Plot 4: Cash Genesis - Minions have a chance to produce x2 Coins. Quite cheap and really helpful.
+* '''<u>Plot 5</u>:''' <u>'''Spare Charge'''</u> - '''<u>every Minion</u>''' now generates Energy. This effect will be the base on which you will build your Orb Tower.
+
+==== Vending Machine purchase loop ====
+Now you should be in an <u>'''Vending''' '''Machine purchase loop'''</u>: you keep leveling your '''Chonkoppo''' [[File:Chonkoppo.png|frameless|35x35px]] for more base Coin production, keep pushing '''Stages''' for a stronger '''Choccy Coin'''[[File:VendingItem3.png|frameless|28x28px]], keep buying all the previously mentioned '''[[Realm#Vending Machine must-have goodies|Vending Machine must-have goodies]]''', and keep claiming the "'''Get 100 Coins currency" trophies'''. This combination will eventually catapult you into being able to mutate your '''3 Crocodiles''' [[File:Crocodile.png|frameless|35x35px]] into  '''Crikeydiles''' [[File:Crikeydile.png|frameless|35x35px]] (Lv200), which offer a total 90% cashback on every Realm purchase. Once that point is reached, new Minions will join the composition: 
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="5" |'''Vending Machine purchase loop composition'''
+|-
+!'''Amount'''
+!'''Minion'''
+!'''Level'''
+!'''Mutation path'''
+!'''Notes'''
+|-
+|1
+|[[File:Rainboppo.png|frameless|95x95px]]
+|Lv200
+|Little Piggy -> Hippo -> Horn Hippo -> Rainboppo
+|Source of Purple Damage
+|-
+|'''1'''
+|[[File:Chonkoppo.png|frameless|94x94px]]
+|leveled as high as possible
+|Little Piggy -> Hippo -> Beeg Hippo -> Chonkoppo 
+|Red Damage and Coin production
+|-
+|'''1'''
+|[[File:Stork.png|frameless|65x65px]]
+|Lv200
+|Babby Egg -> Lil Chicken -> Goose -> Stork
+|Red Damage also does Orange Damage
+|-
+|'''7'''
+|[[File:Goose.png|frameless|60x60px]]
+|Lv50
+|Babby Egg -> Lil Chicken -> Goose
+|Coin production increase
+|-
+|'''2'''
+|[[File:Phaser Duck.png|frameless|65x65px]]
+|Lv200
+|Babby Egg -> Lil Chicken -> Duck -> Phaser Duck
+|Guaranteed double blessing per Boss kill
+|-
+|'''6'''
+|[[File:Cinderduck.png|frameless|59x59px]]
+|Lv200
+|Babby Egg -> Lil Chicken -> Duck -> Cinderduck
+|Coin production increase
+|-
+|'''3'''
+|[[File:Crikeydile.png|frameless|84x84px]]
+|Lv200
+|Babby Egg -> Lizard -> Crocodile -> Crikeydile
+|90% cashback on every Realm purchase
+|-
+|Remaining slots
+|[[File:Lizardman.png|frameless|53x53px]]
+|Lv50
+|Ogre Spawn -> Gobbo -> Lizardman
+|Blesssing boost and Flowers production
+|-
+| colspan="5" |'''Pick these Minions based on whatever you need. BP is your Bagged Pancakes[[File:VendingItem13.png|frameless|28x28px]] bonus'''
+|-
+|'''BP+2'''
+|[[File:Everest.png|frameless|55x55px]]
+|Lv200
+|Pet Rock -> Mountain -> Snowy Peak -> Everest
+|Each Everest gives 4 daily free Cornucopia rerolls.
+|-
+|'''BP+2'''
+|[[File:Blaken Gold.png|frameless|68x68px]]
+|Lv200
+|Babby Egg -> Lizard -> Iguana -> Blaken Gold
+|When resetting gain +40% more Enlightenment Spirals
+|-
+|3 up to 
+'''BP+2'''
+|[[File:Purpback.png|frameless|84x84px]]
+|Lv200
+|Babby Egg -> Lizard -> Iguana -> Purpbacks
+| +1 blessing reroll per Boss kill. Combined with Musculor gives almost infinite blessing rerolls.
+|}
+
+
+With this setup, you should be able to confortably push up to '''Stage 50''' without being limited by damage or Coins, only by banishes.  
+
+==== Final push towards Stage 50 ====
+If you pushed far enough to get around '''60M Spirals''' when resetting, do so. This will allow you to max almost every '''Shrine Upgrade''', which will catapult you into the final push and section of the game. That amount of Spirals will allow you to end with: 
+
+# <u>'''Dharma:''' maxed</u> 
+# <u>'''Bhakti:''' above Lv70</u> 
+# <u>'''Carnate:''' maxed</u> 
+# '''Ahisma:''' maxed
+# '''Taoism:''' above Lv40
+# <u>'''Sahaja:''' above Lv30</u> 
+# '''Muksha:''' above L30
+# '''Nirvana:''' above L20
+
+This set of upgrades will allow you to finally add third mutations of '''Ogre Spawns''' [[File:Ogre Spawn.png|frameless|25x25px]] in your compositition, detailed in the '''table below'''.
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="5" |'''Final push composition'''
+|-
+!'''Amount'''
+!'''Minion'''
+!'''Level'''
+!'''Mutation path'''
+!'''Notes'''
+|-
+|1
+|[[File:Rainboppo.png|frameless|95x95px]]
+|Lv200
+|Little Piggy -> Hippo -> Horn Hippo -> Rainboppo
+|Source of Purple Damage
+|-
+|'''1'''
+|[[File:Chonkoppo.png|frameless|94x94px]]
+|leveled as high as possible
+|Little Piggy -> Hippo -> Beeg Hippo -> Chonkoppo 
+|Red Damage and Coin production
+|-
+|'''1'''
+|[[File:Stork.png|frameless|65x65px]]
+|Lv200
+|Babby Egg -> Lil Chicken -> Goose -> Stork
+|Red Damage also does Orange Damage
+|-
+|'''7'''
+|[[File:Goose.png|frameless|60x60px]]
+|Lv50
+|Babby Egg -> Lil Chicken -> Goose
+|Coin production increase
+|-
+|'''2'''
+|[[File:Phaser Duck.png|frameless|65x65px]]
+|Lv200
+|Babby Egg -> Lil Chicken -> Duck -> Phaser Duck
+|Guaranteed double blessing per Boss kill
+|-
+|'''6'''
+|[[File:Cinderduck.png|frameless|59x59px]]
+|Lv200
+|Babby Egg -> Lil Chicken -> Duck -> Cinderduck
+|Coin production increase
+|-
+|'''3'''
+|[[File:Crikeydile.png|frameless|84x84px]]
+|Lv200
+|Babby Egg -> Lizard -> Crocodile -> Crikeydile
+|90% cashback on every Realm purchase
+|-
+|4
+|[[File:Scissarus.png|frameless|54x54px]]
+|Lv200
+|Ogre Spawn -> Gobbo -> Lizardman -> Scissarus
+|Guaranteed double leveling Minions.
+|-
+|3
+|[[File:Musculor.png|frameless|59x59px]]
+|Lv200
+|Ogre Spawn -> Ogre -> Ogre Giant -> Musculor
+| +30% each to not waste a reroll when rerolling blessings. Combined with Purpbacks gives almost infinite blessing rerolls.
+|-
+|3
+|[[File:Corruptor.png|frameless|38x38px]]
+|Lv200
+|Ogre Spawn -> Ogre -> Flesh Ogre -> Corruptor
+|Multiplies Trophy's Coin gain values. More than 3 yield very little beneficial value.
+|-
+|Remaining slots
+|[[File:Lizardman.png|frameless|53x53px]]
+|Lv50
+|Ogre Spawn -> Gobbo -> Lizardman
+|Blesssing boost and Flowers production
+|-
+| colspan="5" |'''Pick these Minions based on whatever you need. BP is your Bagged Pancakes[[File:VendingItem13.png|frameless|28x28px]] bonus'''
+|-
+|'''BP+2'''
+|[[File:Everest.png|frameless|55x55px]]
+|Lv200
+|Pet Rock -> Mountain -> Snowy Peak -> Everest
+|Each Everest gives 4 daily free Cornucopia rerolls.
+|-
+|'''BP+2'''
+|[[File:Blaken Gold.png|frameless|68x68px]]
+|Lv200
+|Babby Egg -> Lizard -> Iguana -> Blaken Gold
+|When resetting gain +40% more Enlightenment Spirals
+|-
+|3 up to 
+'''BP+2'''
+|[[File:Purpback.png|frameless|84x84px]]
+|Lv200
+|Babby Egg -> Lizard -> Iguana -> Purpbacks
+| +1 blessing reroll per Boss kill. Combined with Musculor gives almost infinite blessing rerolls.
+|}
+ 
+==== Having all Blessing leveled at once! ====
+Since '''Dharma''' is maxed, now you have the possibility of having every single blessing and leveling them all at once. To acomplish this, pick one of every blessing marked with "pick" at the [[Realm#Blessings|blessings table]] until you have one of each. Reroll if needed to get a new blessing you didn't yet get. Once you have all the blessings you want, going forwad only pick '''One For All [[File:A Realm.png|frameless|25x25px]]''' blessing. Reroll without any worry since the three '''Musculors''' [[File:Musculor.png|frameless|46x46px]] give a 90% chance to not spend them, and the '''Purpbacks''' [[File:Purpback.png|frameless|48x48px]] give you more rerolls than you can spend. 
+
+Once you reach '''Stage 47''' you need to deal White Damage. This is done by acquiring a '''Big Bone''' [[File:Big Bone.png|frameless|36x36px]] (Ogre Spawn -> Ogre -> Flesh Ogre -> Big Bone). Now every attack deals White Damage based on your outside-Realm damage. 
+
+=== Stage 50 and beyond ===
+Contratulations, you beat Realm! If you have been following the recommendations, by this point you should have:
+
+* '''Shrine Upgrades''' like [[Realm#Final push towards Stage 50|described before]]
+* '''[[Realm#Vending Machine must-have goodies|Vending Machine goodies]]''' with:
+**'''Wheat Chew[[File:VendingItem0.png|frameless|28x28px]]''': over +65 slots 
+** '''Choccy Coin'''[[File:VendingItem3.png|frameless|28x28px]]:  over 1.70x coins
+** '''Tuna Can'''[[File:VendingItem6.png|frameless|28x28px]]: over 60.% chance to retrigger
+** '''Corn Can'''[[File:VendingItem9.png|frameless|28x28px]]: over +75% away gains increase
+** '''Icecream Sammich'''[[File:VendingItem10.png|frameless|28x28px]]: last to second-last currency (you can reset and immediately summon Minions <u>and level them all</u> to level 200.)
+** '''Bagged Pancakes'''[[File:VendingItem13.png|frameless|28x28px]] '''(BP)''': +5 stacks
+** '''Iced Footlong'''[[File:VendingItem14.png|frameless|28x28px]]: over 1.50x damage per ice cream
+*'''Field''' with:
+**'''Full Blossom''': Lv10 
+**'''Juiced Fruit''': L12 
+**'''Cash Genesis''': Lv12 
+**'''Spare Charge''': Lv12 
+**'''Level Cash''': Lv10 
+
+With all of this, you should keep pushing and reset once you get more than '''235T Spirals''' when resetting. This will allow you to max all the remaining '''Shrine Upgrades.''' If you don't have '''Torchy'''  [[File:Torchy.png|frameless|33x33px]] unlocked, you won't be able to push further than '''Afterlife 91,'''  which won't allow you to earn such amount of Spirals. If that's the case, you can reset with  '''5T Spirals''' to max every '''Shrine Upgrade''' besides '''Bhakti'''. 
+
+From here on, you can keep pushing to keep upgrading your '''Vending Machine,''' and also reach '''Realm Lv400''' to boost the '''Nirvana Upgrade.''' Other than that, you are already finished with Realm!.
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="4" |'''End-game last reset composition'''
+|-
+!Amount
+!Minion
+!Mutation path
+!Note
+|-
+|2
+|[[File:Phaser Duck.png|frameless|38x38px]]
+|Babby Egg -> Lil Chicken -> Ducko -> Phaser Duck
+|Get 2 blessings instead of one. Although One for All blessing only works once, it's still useful because of Gold Bless.
+|-
+|1
+|[[File:Stork.png|frameless|38x38px]]
+|Babby Egg -> Lil Chicken -> Goose -> Stork
+|Red Damage counts as Orange Damage.
+|-
+|3
+|[[File:Crikeydile.png|frameless|95x95px]]
+|Babby Egg -> Lizard -> Crocodile -> Crikeydale
+| +90% spent coins are returned.
+|-
+|3 up to 
+'''BP+2'''
+|[[File:Purpback.png|frameless|84x84px]]
+|Babby Egg -> Lizard -> Iguana -> Purpbacks
+| +1 blessing reroll per Boss kill. Combined with Musculor gives almost infinite blessing rerolls.
+|-
+|4
+|[[File:Scissarus.png|frameless|54x54px]]
+|Ogre Spawn -> Gobbo -> Lizardman -> Scissarus
+|Guaranteed double leveling Minions.
+|-
+|3
+|[[File:Musculor.png|frameless|59x59px]]
+|Ogre Spawn -> Ogre -> Ogre Giant -> Musculor
+| +30% each to not waste a reroll when rerolling blessings. Combined with Purpbacks gives almost infinite blessing rerolls.
+|-
+|3
+|[[File:Corruptor.png|frameless|38x38px]]
+|Ogre Spawn -> Ogre -> Flesh Ogre -> Corruptor
+|Multiplies Trophy's Coin gain values. More than 3 yield very little beneficial value.
+|-
+|1
+|[[File:Big Bone.png|frameless|38x38px]]
+|Ogre Spawn -> Ogre -> Flesh Ogre -> Big Bone
+|White/Pink Damage.
+|-
+|1
+|[[File:Rainboppo.png|frameless|49x49px]]
+|Little Piggy -> Hippo -> Horn Hippo -> Rainboppo
+|Purple Damage through Banishing.
+|-
+|1
+|[[File:Chonkoppo.png|frameless|55x55px]]
+|Little Piggy -> Hippo -> Beeg Hippo -> Chonkoppo
+|Main source of Coins and Damage, so it's the only one needed to level always. All other minions are support Minions. Only exception is if you fill remaining free slots with Crocodile.
+|-
+|1
+|[[File:Torchy.png|frameless|38x38px]]
+|Torchy
+|Rainbow Damage (Stages 90~100)
+|-
+| colspan="4" | '''Remaining slots are filled with Coin/Flowers/Spirals/Energy/Cornucopia Minions, based on whatever you need for your run.''' 
+'''BP is your Bagged Pancakes[[File:VendingItem13.png|frameless|28x28px]] bonus'''
+|-
+|Any
+|[[File:Goose.png|frameless|38x38px]]
+|Babby Egg -> Lil Chicken -> Goose
+|If you do not have Gold Bless on Orb Tower you can fill a decent amount of remaining slots with these for additional Coins.
+|-
+|Any
+|[[File:Cinderduck.png|frameless|38x38px]]
+|Babby Egg -> Lil Chicken -> Ducko -> Cinderduck
+|Increases all coin gain by +50% per unique Minion type in Barn.
+|-
+|Any
+|[[File:Crocodile.png|frameless|95x95px]]
+|Babby Egg -> Lizard -> Crocodile
+|Gives twice Energy/day and also 20% Coin (total minion Lv). Trait does not cap so you can fill a decent amount of your remaining slots with these. Keep in mind you have to level up every minion to benefit from its trait.
+|-
+|Any or
+'''BP+2'''
+|[[File:Pompeille.png|frameless|52x52px]]
+|Pet Rock -> Mountain -> Volcano -> Pompeille
+|Increases all coin gain by +150% from all sources (no cap); +60% Total DMG for all minions per 5 Realm Lv. (limited by BP)
+|-
+|'''BP+2'''
+|[[File:Everest.png|frameless|55x55px]]
+|Pet Rock -> Mountain -> Snowy Peak -> Everest
+|Each Everest gives 4 daily free Cornucopia rerolls.
+|-
+|'''BP+2'''
+|[[File:Blaken Gold.png|frameless|68x68px]]
+|Babby Egg -> Lizard -> Iguana -> Blaken Gold
+|When resetting gain +40% more Enlightenment Spirals
+|-
+|Any
+|[[File:Retiarius.png|frameless|54x54px]]
+|Ogre Spawn -> Gobbo -> Lizardman -> Retiarius
+|When turning in resources gain +100% more food bundles.
+|-
+|<u>'''All remaning slots'''</u>
+|[[File:Lizardman.png|frameless|38x38px]]
+|Ogre Spawn -> Gobbo -> Lizardman
+|'''<u>Doubles most blessings.</u>''' Its potential gets stronger every Afterlife Level. Eventually you will reach a point where this Minion will out-perform any other Minion.
+|}
+
+
+
+This is the composition of your final (required) reset. Start summoning Minions from top to bottom. The first Boss will die once you summon your first Damage minion: pick a blessing and '''<u>do not enter</u>''' in the portal until you buy all the remaining Minions. Your Barn should be full before you enter the portal to the second Boss.
+
+The Blessing procedure is the same as described in the [[Realm#Having all Blessing leveled at once!|Having all Blessings leveled at once!]] section.
+
+Once Coins are not a problem anymore and your goal is to push as far as you can (AL +100), you could change your '''Orb Tower 's trait''' for any of these:
+
+* '''Holy Roller''' [[File:Trait42.png|32x32px]] from [[File:Purpback.png|frameless|48x48px]] (Babby Egg -> Lizard -> Iguana -> Purpback).
+* '''Critipow''' [[File:Trait20.png|32x32px]] from [[File:Ducko.png|frameless|31x31px]] (Babby Egg -> Lil Chicken -> Ducko).
+
+==Bosses and types of damage==
+Each Boss defeated is a new Afterlife reached (also called Stages). The player can't damage Bosses, it can only acquire Coins from it (by clicking on them); they instead are damaged through Minions. After Afterlife 100, the cycle starts over with higher scaled HP bosses. Once Shrine is unlcoked, a blessing will be available to be picked each time a Boss is defeated.
+
+Boss health has tiers, marked by different colors: Red, Orange, Yellow, Blue, Purple, Pink, and White (a.k.a. Infinity). Each tier can only be damaged by damage sources with Traits giving the corresponding damage type. The sole exception to this is Blue, which can only be damaged by the Orb Tower's laser beam.
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="4" |'''Types and sources of damage'''
+|-
+!Damage
+!Healthbar
+!Acquire
+!Note
+|-
+|Red
+|[[File:Red Healthbar.png|frameless|83x83px]]
+|Little Piggy, Pet Rock, Ogre Spawn 
+|Babby Egg family and Shiny Minions never deal damage at all.
+|-
+|Orange
+|[[File:Orange Healthbar.png|frameless|83x83px]]
+|Pet Rock -> Mountain
+|
+|-
+|Yellow
+|[[File:Yellow Healthbar.png|frameless]]
+|Babby Egg -> Lil Chicken 
+|Now critical hits of any Minion does yellow damage, ''TIP:'' '''''Pig -> Hippo''''' by default have a 25% crit chance.
+|-
+|Blue
+|[[File:Blue Healthbar.png|frameless|83x83px]]
+|Orb Tower's "Fires a laser" skill
+|To increase the Orb Tower's damage you have to upgrade by having the Energy maxed out, then pressing "Increase Energy Cap".
+|-
+|Purple
+|[[File:Purple Healthbar.png|frameless|83x83px]]
+|Pig -> Hippo -> Horn Hippo -> Rainboppo
+|To deal Purple damage you have to banish Minions. Damage dealt equals the amount of experience shown. By this point you should have upgraded the Orb Tower to the point where you can protect Minions from being deleted when you banish. 
+|-
+|Pink
+|[[File:Pink Healthbar.png|frameless]]
+|Ogre Spawn -> Ogre -> Flesh Ogre -> Big Bone
+|Ogre Spawns become available once Realm Lv. 20 is reached (lower right corner)
+|-
+|White
+|[[File:White Healthbar.png|frameless]]
+|Ogre Spawn -> Ogre -> Flesh Ogre -> Big Bone
+|Ogre Spawns become available once Realm Lv. 20 is reached (lower right corner)
+|-
+|Rainbow
+|[[File:Rainbow Healthbar.png|frameless]]
+|Torchy
+|Deliver all Ice Cream deliveries <u>and</u> reach Tee Hee 16 (you need at least one kill on Tee Hee 16) [[Asylum|eviscerate]] is what you need to achieve this you get this by killing [[asylum]] bosses.
+|}
+==Minions==
+[[File:Barn.jpg|thumb|A Lil Chicken in the Barn]]
+Minions are your only way to deal damage to the Bosses. They are summoned through the Summon Portal and are stored in the Barn, where they can be banished to earn Realm EXP. Minions can level up using coins, the Realm currency. They have different traits that are acquired when summoned, at a mutation, or through the different buildings of the Realm.
+
+Minions can mutate up to 3 times, with each mutation giving a new extra Trait and unlocking two new different choices for the next mutation. These mutations occur at specific Minion level.
+
+* First mutation: level 10
+* Second mutation: level 50
+* Third mutation: level 200
+
+The Barn has a limited number of slots to store Minions. Up to 144 slots (9 pages of 16 slots each) can be acquired through:
+
+* '''Wheat Chew''' in the [[Realm#Vending Machine|Vending Machine]], 
+* '''Barno''' [[Realm#Blessings|blessing]],
+*'''Carnate''' [[Realm#Upgrades|upgrade]] (+20 at max).
+* '''Barn Egg''' in the [[Realm#Crystal Eye Shop|Crystal Eye Shop]].
+When banishing Minions, you will get Realm EXP based on the amount of Coins spent on them. Only 6 can be banished per day, and there's no way to get more. Although the cooldown time can be accelerated by Away Time triggering again.
+
+==== Traits ====
+Traits are abilities that give Minions different bonuses. Each species of Minion has different Traits. Every normal Minion starts with 2 Traits, and then gains a Trait per mutation. The Orb Tower and the Flower Garden can also give additional traits to all Minions.
+{| class="sortable mw-collapsible mw-collapsed fandom-table"
+! colspan="8" |'''Full Trait list'''
+|-
+! colspan="3" |'''Traits'''!!'''Effect'''!!'''Stackable?'''
+!Tier
+!Source!!'''Notes'''
+|-
+|0||[[File:Trait0.png]]||Heart Attack||Deal Red Damage to the boss 3 times every minute||Yes
+|1
+|Little Pig
+Pet Rock
+
+Ogre Spawn
+|Minion does Red Damage.
+|-
+|1||[[File:Trait1.png]]||Flesh Wound||Increases total damage by +30%||Yes
+|1
+|Pet Rock 
+Boar
+|
+|-
+|2||[[File:Trait2.png]]||OJ Heart Stab||Deal Orange Damage instead of Red 3 times every minute||Yes
+|2
+|Mountain||Replaces Red Damage for this Minion
+|-
+|3||[[File:Trait3.png]]||Whirlwind||When the shrine is active all minions attack 50% faster||No
+|4
+|Echo Delta||
+|-
+|4||[[File:Trait4.png]]||Charger||Charges the Orbs Energy by 1 energy every hour||Yes
+|2
+|Lizard||Minion now produces Energy
+|-
+|5||[[File:Trait5.png]]||Targeter||Increases crit chance by +25%||Yes
+|2
+|Devilar
+Hippo
+|
+|-
+|6||[[File:Trait6.png]]||Tarjority||Increases crit chance by +5% for all minions||No
+|4
+|Hippemo||
+|-
+|7||[[File:Trait7.png]]||Coin Pressing||Generates coins every minute||Yes
+|1
+|Little Piggy 
+Babby Egg
+|
+|-
+|8||[[File:Trait8.png]]||Make It Rain||Increases all coin gain by +150% from all sources||Yes
+|3
+|Volcano||
+|-
+|9||[[File:Trait9.png]]||Coupons||-25% Minion Upgrade Cost per unique minion type in barn||No
+|4
+|Martianus||
+|-
+|10||[[File:Trait10.png]]||Scar Wound||Increases total damage by +50% for all minions||No
+|4
+|Glaciar||
+|-
+|11||[[File:Trait11.png]]||Clenched Fist||Increases base damage by +2500||Yes
+|3
+|Astrialis||
+|-
+|12||[[File:Trait12.png]]||Righteous Fist||Increases base damage by +100 for all minions||Yes
+|3
+|Beeg Hippo||
+|-
+|13||[[File:Trait13.png]]||Powerful Fist||Increases base damage by +100 per 5 Realm Lv||Yes
+|3
+|Snowy Peak||
+|-
+|14||[[File:Trait14.png]]||Quickstab||Increases attack speed by +50%||Yes
+|3
+|Jupeter||
+|-
+|15||[[File:Trait15.png]]||Flurry||Increases attack speed by +25% for all minions||No
+|4
+|Orbiteer||
+|-
+|16||[[File:Trait16.png]]||Minion Mayhem||+3% Atk Spd for all minions per unique minion type||No
+|4
+|Tarantuppo||
+|-
+|17||[[File:Trait17.png]]||Major Wound||+10% Total DMG for all minions per unique minion type||No
+|4
+|Jekyllar||
+|-
+|18||[[File:Trait18.png]]||Trazetter||Increases crit chance by +4% per 5 Realm Lv||Yes
+|3
+|Devilar||
+|-
+|19||[[File:Trait19.png]]||Bolstered Econ||Increases all coin gain by +20% per 100 total minions Lv||Yes
+|3
+|Crocodile||
+|-
+|20||[[File:Trait20.png]]||Critipow||+5% Crit DMG for all minions per 100 total minion Lv||Yes
+|3
+|Ducko||
+|-
+|21||[[File:Trait21.png]]||Slammacow||+10% Total DMG for all minions per 100 total minion Lv||No
+|4
+|Gasseon||
+|-
+|22||[[File:Trait22.png]]||Riftseeker||Increases Realm Exp gained when banishing minions by +150%||Yes
+|3
+|Horn Hippo||
+|-
+|23||[[File:Trait23.png]]||Lemonhearted||For all minions critical hits also deal Yellow Damage||No
+|2
+|Lil Chicken||Enables Yellow Damage for all Minions
+|-
+|24||[[File:Trait24.png]]||Trashite||+5 additional banishes allowed per day||No
+| -
+| -||Not available yet 
+|-
+|25||[[File:Trait25.png]]||Pig Prince||All piggy-type minions get +100% Total Damage||No
+|4
+|Mammoth||
+|-
+|26||[[File:Trait26.png]]||Rock Ruler||All rocky-type minions get +25% Crit Chance||No
+|4
+|Luminavi||
+|-
+|27||[[File:Trait27.png]]||Egg Emperor||All eggy-type minions get -50% upgrade cost||No
+|4
+|Eggligator||
+|-
+|28||[[File:Trait28.png]]||Banish Bop||When banishing minions deal Purple Dmg equal to Realm XP gained||No
+|4
+|Rainboppo||Purple Damage for banishing only. Works with Orb Tower effects
+|-
+|29||[[File:Trait29.png]]||Resetti||When resetting gain +40% more Enlightenment Spirals||No
+|4
+|Blaken Gold||
+|-
+|30||[[File:Trait30.png]]||Harvester||When turning in resources gain +100% more food bundles||Yes
+|4
+|Retiarius||
+|-
+|31||[[File:Trait31.png]]||Smart Money||Increases all coin gain by +40% per 5 Realm Lv||Yes
+|1
+|Babby Egg||
+|-
+|32||[[File:Trait32.png]]||Tax Collector||Increases all coin gain by +50% per unique minion type in barn||Yes
+|4
+|Cinderduck||
+|-
+|33||[[File:Trait33.png]]||Double Stab||Increases multihit chance by +35%||Yes
+|3
+|Chromar||
+|-
+|34||[[File:Trait34.png]]||Multi Stab||Increases multihit chance by +30% for all minions||No
+|4
+|Icelular||
+|-
+|35||[[File:Trait35.png]]||Blessed Up||+50% chance to get 2 blessings when choosing one||No
+|4
+|Phaser Duck||End-game must have. Hard capped at +100%
+|-
+|36||[[File:Trait36.png]]||Wooping Whack||+60% Total DMG for all minions per 5 Realm Lv||No
+|4
+|Pompeille||
+|-
+|37||[[File:Trait37.png]]||<s>Boss Pilfer</s>||<s>Killing a boss multiplies the coins you have by 1.5x</s>||No
+| -
+| -||'''This trait can no longer be obtained'''
+|-
+|38||[[File:Trait38.png]]||BOGO Offering||-50% Minion Upgrade Cost for all minions||No
+|4
+|Meltor||
+|-
+|39||[[File:Trait39.png]]||Gold Bless||Increases all coin gain by +250% per blessing you have the most of||Yes
+|3
+|Goose||Mid-game must have on Orb Tower for Coins
+|-
+|40||[[File:Trait40.png]]||Fruit Vendor||The first 4 fruit reroll purchases each day are free||No
+|4
+|Everest||
+|-
+|41||[[File:Trait41.png]]||Stackability||All unstackable traits now stack up to 2 times for all minions||No
+|4
+|Chonkoppo||This trait is no longer stackable, and hard-capped at 1, effect of this '''<u>only</u>''' counts once.
+|-
+|42||[[File:Trait42.png]]||Holy Roller||Get +1 blessing reroll every time you kill a boss||No
+|4
+|Purpback||Mid-game must have. It may be set on Orb Tower for end-game push
+|-
+|43||[[File:Trait43.png]]||Dual Damage||All Red Damage also counts as Orange Damage and vice versa||No
+|4
+|Stork||What is Red but a Cherry Orange anyway?
+|-
+|44||[[File:Trait44.png]]||Open Register||30% of all coins you spend are returned||No
+|4
+|Crikeydile||Hard capped at 90%
+|-
+|45||[[File:Trait45.png]]||Full Blossom||+% blossoms from minions||Yes
+| -
+|Plot 1||Granted by the Flower Garden. Passive.
+|-
+|46||[[File:Trait46.png]]||Smol Savings||-% Minion Upgrade Cost for all minions||Yes
+| -
+|Plot 2||Granted by the Flower Garden.
+|-
+|47||[[File:Trait47.png]]||Juiced Fruit||All fruit bonuses are +% larger||Yes
+| -
+|Plot 3||Granted by the Flower Garden. Passive.
+|-
+|48||[[File:Trait48.png]]||Cash Genesis||+% Chance to produce 2x coins||Yes
+| -
+|Plot 4||Granted by the Flower Garden.
+|-
+|49||[[File:Trait49.png]]||Spare Charge||Charges the Orbs Energy by  every hour||Yes
+| -
+|Plot 5||Granted by the Flower Garden.
+|-
+|50||[[File:Trait50.png]]||Level Cash||Increases coin gain by +% per 100 Lv of this minion||Yes
+| -
+|Plot 6||Granted by the Flower Garden.
+|-
+|51||[[File:Trait51.png]]||Level Slash||+% Total damage per 100 upg lvs of this minion||Yes
+| -
+|Plot 7||Granted by the Flower Garden.
+|-
+|52||[[File:Trait52.png]]||Afterlife Slam||+% Total damage for all minions per best afterlife||Yes
+| -
+|Plot 8||Granted by the Flower Garden.
+|-
+|53||[[File:Trait53.png]]||Field Bloomer||Generates flowers every hour||Yes
+|1
+|Ogre Spawns||Minion produces Flower Blossoms
+|-
+|54||[[File:Trait54.png]]||Smol Savings||-10% Minion Upgrade Cost for all minions||Yes
+| -
+|Plot 2||Granted by the Flower Garden.
+|-
+|55||[[File:Trait55.png]]||Smol Speedy||+2% Atk Spd for all minions||Yes
+|2
+|Asteroid||
+|-
+|56||[[File:Trait56.png]]||Smol Cash||Increases all coin gain by +100%||Yes
+|2
+|Gobbo||
+|-
+|57||[[File:Trait57.png]]||Smol Damage||+25% Total DMG for all minions||Yes
+|2
+|Ogre||
+|-
+|58||[[File:Trait58.png]]||Smol Critty||Increases crit chance by +5% for all minions||Yes
+|3
+|Iguana||
+|-
+|59||[[File:Trait59.png]]||Base Convert||+0.05% DMG for each talent base dmg for all minons up to 300%||No
+|4
+|Tundra Orc||
+|-
+|60||[[File:Trait60.png]]||Doublepgrade||30% chance for an upgrade to lv up minion twice for free||No
+|4
+|Scissarus||
+|-
+|61||[[File:Trait61.png]]||Gambol Hour||3% chance for 1hr gains when upgrading this minion||No
+| -
+| -||Might be a Orb Tower trait. Requires confirmation
+|-
+|62||[[File:Trait62.png]]||Zerg Rush||All OgreSpawn-type minions get +30% Attack Speed||No
+|4
+|Hugh Mungus||
+|-
+|63||[[File:Trait63.png]]||Lucky Roll||Rerolling blessings has a 30% chance to not use up a reroll||No
+|4
+|Musculor||
+|-
+|64||[[File:Trait64.png]]||Pure Hearted||All attacks deal white damage based on your dmg outside realm||No
+|4
+|Big Bone||Minions now deal White Damage.
+|-
+|65||[[File:Trait65.png]]||2 Time Champ||Multiplies coin gain by trophy bonus a 2nd time||No
+|4
+|Corruptor||
+|-
+|66||[[File:Trait66.png]]||Bless Updog||Most blessings give double their bonus||Yes
+|3
+|Lizardman||End-game must have. Fill all your remaining slots with Lizardman
+|-
+|67||[[File:Trait67.png]]||Hammerfist||+75 Base DMG for all minions per 100 total minion Lv||Yes
+|3
+|Orc||
+|-
+|68||[[File:Trait68.png]]||Multicrit||+20% Crit chance and 20% Multihit for all minions||No
+|4
+|Bulwark Orc||
+|-
+|69||[[File:Trait69.png]]||Multo Monno||+1% Multihit for all minions per unique minion type||No
+|3
+|Ogre Giant||
+|-
+|70||[[File:Trait70.png]]||Mongo Crits||+200% Crit DMG for all minions||Yes
+|3
+|Flesh Gore||
+|-
+|71||[[File:Trait71.png]]||Quadrafire||All minions regular attacks now also do Eternal Damage||No
+|1
+|Torchy||Minions now deal Eternal Damage.
+|-
+|72||[[File:Trait72.png]]||Shiny||All minions do 1.5x dmg make 2x more coins and attack 1.1x faster||Yes
+|1
+|Shiny Minions||
+|-
+|73||[[File:Trait73.png]]||Get On My Lv||All minions do 1% more dmg per their personal Upgrade Lv||No
+|4
+|Gemmar||
+|}
+====Minions list and their mutations====
+Minions are divided into four families: Little Piggy (unlocked by default), Pet Rock (unlocked at Realm Lv2), Babby Egg (unlocked at Realm Lv10), Ogre Spawns (unlocked at Realm Lv20), and Special (unique Minions bought in the [[Realm#Crystal Eye Shop|Crystal Eye Shop]] or by special conditions)
+
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="5" |'''Little Piggy family'''
+|-
+! colspan="2" |'''Name'''
+!'''Traits'''
+!'''Prerequisite'''
+!'''Notes'''
+|-
+|[[File:Piggy.png|200x200px]] 
+|Little Piggy
+|[[File:Trait7.png]][[File:Trait0.png]]  
+| -
+|Main Coin and damage source (early-game it's only Red, late-game is every type)
+|-
+|[[File:Boar.png|200x200px]]
+|Boar
+|[[File:Trait7.png]][[File:Trait0.png]][[File:Trait1.png]]
+|Little Piggy
+|Useless mutation tree. Only Gemmar and Mammoth <u>might</u> have an use
+|-
+|[[File:Hippo.png|200x200px]]
+|Hippo
+|[[File:Trait7.png]][[File:Trait0.png]][[File:Trait5.png]]
+|Little Piggy
+|Main mutation tree because of Rainboppo (Purple damage) and Chonkoppo (cheapest Pig to upgrade)
+|-
+|[[File:Chromar.png|200x200px]]
+|Chromar
+|[[File:Trait7.png]][[File:Trait0.png]][[File:Trait1.png]][[File:Trait33.png]]
+|Boar
+|
+|-
+|[[File:Devilar.png|200x200px]]
+|Devilar
+|[[File:Trait7.png]][[File:Trait0.png]][[File:Trait1.png]][[File:Trait18.png]]
+|Boar
+|
+|-
+|[[File:Horn Hippo.png|200x200px]]
+|Horn Hippo
+|[[File:Trait7.png]][[File:Trait0.png]][[File:Trait5.png]][[File:Trait22.png]]
+|Hippo
+|Good early-game for Realm EXP increase
+|-
+|[[File:Beeg Hippo.png|200x200px]]
+|Beeg Hippo
+|[[File:Trait7.png]][[File:Trait0.png]][[File:Trait5.png]][[File:Trait12.png]]
+|Hippo
+|
+|-
+|[[File:Gemmar.png|frameless|200x200px]]
+|Gemmar
+|[[File:Trait7.png]][[File:Trait0.png]][[File:Trait1.png]][[File:Trait33.png]][[File:Trait73.png]]
+|Chromar
+|Extra damage for your main Minion (situational?)
+|-
+|[[File:Jekyllar.png|200x200px]]
+|Jekyllar
+|[[File:Trait7.png]][[File:Trait0.png]][[File:Trait1.png]][[File:Trait33.png]][[File:Trait17.png]]
+|Chromar
+|
+|-
+|[[File:Mammoth.png|200x200px]]
+|Mammoth
+|[[File:Trait7.png]][[File:Trait0.png]][[File:Trait1.png]][[File:Trait18.png]][[File:Trait25.png]]
+|Devilar
+|Extra damage for your main Minion (situational?)
+|-
+|[[File:Iceular.png|200x200px]]
+|Iceular
+|[[File:Trait7.png]][[File:Trait0.png]][[File:Trait1.png]][[File:Trait18.png]][[File:Trait34.png]]
+|Devilar
+|
+|-
+|[[File:Rainboppo.png|200x200px]]
+|Rainboppo
+|[[File:Trait7.png]][[File:Trait0.png]][[File:Trait5.png]][[File:Trait22.png]][[File:Trait28.png]]
+|Horn Hippo
+|Provides Purple damage through banishing Minions
+|-
+|[[File:Hippemo.png|200x200px]]
+|Hippemo
+|[[File:Trait7.png]][[File:Trait0.png]][[File:Trait5.png]][[File:Trait22.png]][[File:Trait6.png]]
+|Horn Hippo
+|
+|-
+|[[File:Tarantuppo.png|200x200px]]
+|Tarantuppo
+|[[File:Trait7.png]][[File:Trait0.png]][[File:Trait5.png]][[File:Trait12.png]][[File:Trait16.png]]
+|Beeg Hippo
+|
+|-
+|[[File:Chonkoppo.png|200x200px]]
+|Chonkoppo
+|[[File:Trait7.png]][[File:Trait0.png]][[File:Trait5.png]][[File:Trait12.png]][[File:Trait41.png]]
+|Beeg Hippo
+|Main end-game Minion. Most expensive Pig to upgrade, which means more Coin generation
+|}
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="5" |'''Pet Rock family'''
+|-
+! colspan="2" |'''Name'''
+!'''Traits'''
+!'''Prerequisite'''
+!'''Notes'''
+|-
+|[[File:Pet Rock.png]]
+|Pet Rock
+|[[File:Trait1.png]][[File:Trait0.png]]
+| -
+|Main source of Orange damage and Coin gain increase (early-game); and free Cornucopia rerrolls (end-game)
+|-
+|[[File:Mountain.png|200x200px]]
+|Mountain
+|[[File:Trait1.png]][[File:Trait0.png]][[File:Trait2.png]]
+|Pet Rock
+|Main mutation tree because of Orange damage, Volcano (Coin gain) and Everest (free Cornucopia rerrolls)
+|-
+|[[File:Asteroid.png|200x200px]]
+|Asteroid
+|[[File:Trait1.png]][[File:Trait0.png]][[File:Trait55.png]]
+|Pet Rock
+|Useless mutation tree. Only Gasseon <u>might</u> have an use
+|-
+|[[File:Snowy Peak.png|200x200px]]
+|Snowy Peak
+|[[File:Trait1.png]][[File:Trait0.png]][[File:Trait2.png]][[File:Trait13.png]]
+|Mountain
+|
+|-
+|[[File:Volcano.png|200x200px]]
+|Volcano
+|[[File:Trait1.png]][[File:Trait0.png]][[File:Trait2.png]][[File:Trait8.png]]
+|Mountain
+|Best early-game Coin gain trait
+|-
+|[[File:Jupeter.png|200x200px]]
+|Jupeter
+|[[File:Trait1.png]][[File:Trait0.png]][[File:Trait55.png]][[File:Trait14.png]]
+|Asteroid
+|
+|-
+|[[File:Astralis.png|200x200px]]
+|Astralis
+|[[File:Trait1.png]][[File:Trait0.png]][[File:Trait55.png]][[File:Trait11.png]]
+|Asteroid
+|
+|-
+|[[File:Everest.png|200x200px]]
+|Everest
+|[[File:Trait1.png]][[File:Trait0.png]][[File:Trait2.png]][[File:Trait13.png]][[File:Trait40.png]]
+|Snowy Peak
+|Great late-game for free Cornucopia rerolls
+|-
+|[[File:Glaciar.png|200x200px]]
+|Glaciar
+|[[File:Trait1.png]][[File:Trait0.png]][[File:Trait2.png]][[File:Trait13.png]][[File:Trait10.png]]
+|Snowy Peak
+|
+|-
+|[[File:Meltor.png|200x200px]]
+|Meltor
+|[[File:Trait1.png]][[File:Trait0.png]][[File:Trait2.png]][[File:Trait8.png]][[File:Trait38.png]]
+|Volcano
+|
+|-
+|[[File:Pompeille.png|200x200px]]
+|Pompeille
+|[[File:Trait1.png]][[File:Trait0.png]][[File:Trait2.png]][[File:Trait8.png]][[File:Trait36.png]]
+|Volcano
+|
+|-
+|[[File:Gasseon.png|frameless|180x180px]]
+|Gasseon
+|[[File:Trait1.png]][[File:Trait0.png]][[File:Trait55.png]][[File:Trait14.png]][[File:Trait21.png]]
+|Jupeter
+|
+|-
+|[[File:Orbiteer.png|frameless]]
+|Orbiteer
+|[[File:Trait1.png]][[File:Trait0.png]][[File:Trait55.png]][[File:Trait14.png]][[File:Trait15.png]]
+|Jupeter
+|
+|-
+|[[File:Martianus.png|frameless]]
+|Martianus
+|[[File:Trait1.png]][[File:Trait0.png]][[File:Trait55.png]][[File:Trait11.png]][[File:Trait9.png]]
+|Astralis
+|
+|-
+|[[File:Luminavi.png|frameless]]
+|Luminavi
+|[[File:Trait1.png]][[File:Trait0.png]][[File:Trait55.png]][[File:Trait11.png]][[File:Trait26.png]]
+|Astralis
+|
+|}
+
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="5" |'''Babby Egg family'''
+|-
+! colspan="2" |'''Name'''
+!'''Traits'''
+!'''Prerequisite'''
+!'''Notes'''
+|-
+|[[File:Babby Egg.png|frameless|168x168px]]
+|Babby Egg
+|[[File:Trait7.png]][[File:Trait31.png]]
+| -
+|Main source of Yellow damage, Coin gain increase, Energy (early-game); and Orange damage, double-blessings, cashback, blessing rerolls and Enlightment Spirals (end-game)
+|-
+|[[File:Lil Chicken.png|200x200px]]
+|Lil Chicken
+|[[File:Trait7.png]][[File:Trait31.png]][[File:Trait23.png]]
+|Babby Egg
+|Makes every Minion deal Yellow damage on critical hits
+|-
+|[[File:Lizard.png|200x200px]]
+|Lizard
+|[[File:Trait7.png]][[File:Trait31.png]][[File:Trait4.png]]
+|Babby Egg
+|Early-game source of Energy
+|-
+|[[File:Ducko.png|frameless|187x187px]]
+|Ducko
+|[[File:Trait7.png]][[File:Trait31.png]][[File:Trait23.png]][[File:Trait20.png]]
+|Lil Chicken
+|
+|-
+|[[File:Goose.png|frameless]]
+|Goose
+|[[File:Trait7.png]][[File:Trait31.png]][[File:Trait23.png]][[File:Trait39.png]]
+|Lil Chicken
+|Early-game source of the best Coin gain increase trait
+|-
+|[[File:Crocodile.png|200x200px]]
+|Crocodile
+|[[File:Trait7.png]][[File:Trait31.png]][[File:Trait4.png]][[File:Trait19.png]]
+|Lizard
+|
+|-
+|[[File:Iguana.png|200x200px]]
+|Iguana
+|[[File:Trait7.png]][[File:Trait31.png]][[File:Trait4.png]][[File:Trait58.png]]
+|Lizard
+|
+|-
+|[[File:Phaser Duck.png|200x200px]]
+|Phaser Duck
+|[[File:Trait7.png]][[File:Trait31.png]][[File:Trait23.png]][[File:Trait20.png]][[File:Trait35.png]]
+|Ducko
+|2 of these grant a guaranteed double-blessing (hard cap)
+|-
+|[[File:Cinderduck.png|200x200px]]
+|Cinderduck
+|[[File:Trait7.png]][[File:Trait31.png]][[File:Trait23.png]][[File:Trait20.png]][[File:Trait32.png]]
+|Ducko
+|Great end-game Coin gain trait
+|-
+|[[File:Stork.png|200x200px]]
+|Stork
+|[[File:Trait7.png]][[File:Trait31.png]][[File:Trait23.png]][[File:Trait39.png]][[File:Trait43.png]]
+|Goose
+|Makes your Pig minions to also deal Orange damage
+|-
+|[[File:Echo Delta.png|207x207px]]
+|Echo Delta
+|[[File:Trait7.png]][[File:Trait31.png]][[File:Trait23.png]][[File:Trait39.png]][[File:Trait3.png]]
+|Goose
+|
+|-
+|[[File:Crikeydile.png|200x200px]]
+|Crikeydile
+|[[File:Trait7.png]][[File:Trait31.png]][[File:Trait4.png]][[File:Trait19.png]][[File:Trait44.png]]
+|Crocodile
+|3 of these grant a 90% cashback (hard cap)
+|-
+|[[File:Eggligator.png|200x200px]]
+|Eggligator
+|[[File:Trait7.png]][[File:Trait31.png]][[File:Trait4.png]][[File:Trait19.png]][[File:Trait27.png]]
+|Crocodile
+|
+|-
+|[[File:Purpback.png|200x200px]]
+|Purpback
+|[[File:Trait7.png]][[File:Trait31.png]][[File:Trait4.png]][[File:Trait58.png]][[File:Trait42.png]]
+|Iguana
+|Each one gives an extra blessing rerroll (up to Bagged Pancakes). Makes a really good combo with Musculor (Ogre Spawn family)
+|-
+|[[File:Blaken Gold.png|200x200px]]
+|Blaken Gold
+|[[File:Trait7.png]][[File:Trait31.png]][[File:Trait4.png]][[File:Trait58.png]][[File:Trait29.png]]
+|Iguana
+|Each one gives extra Enlightment Spirals (up to Bagged Pancakes)
+|}
+
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="5" |'''Ogre Spawn family'''
+|-
+! colspan="2" |Name
+!Traits
+!'''Prerequisite'''
+!'''Notes'''
+|-
+|[[File:Ogre Spawn.png|frameless]]
+|Ogre Spawn
+|[[File:Trait0.png]][[File:Trait53.png]]
+|
+|Main source of White damage, Flowers, Coin gain increase, double-level up for Minions, chance to not spend blessing rerrolls, and double Food bundles (end-game)
+|-
+|[[File:Gobbo.png|frameless|200x200px]]
+|Gobbo
+|[[File:Trait0.png]][[File:Trait53.png]][[File:Trait56.png]]
+|Ogre Spawn
+|
+|-
+|[[File:Ogre.png|frameless|200x200px]]
+|Ogre
+|[[File:Trait0.png]][[File:Trait53.png]][[File:Trait57.png]]
+|Ogre Spawn
+|
+|-
+|[[File:Orc.png|frameless|200x200px]]
+|Orc
+|[[File:Trait0.png]][[File:Trait53.png]][[File:Trait56.png]][[File:Trait67.png]]
+|Gobbo
+|
+|-
+|[[File:Lizardman.png|frameless|180x180px]]
+|Lizardman
+|[[File:Trait0.png]][[File:Trait53.png]][[File:Trait56.png]][[File:Trait66.png]]
+|Gobbo
+|End-game Blessing effect boost trait. This minion should fill every single slot once you have bought every other damage and utility Minions.
+|-
+|[[File:Ogre Giant.png|frameless]]
+|Ogre Giant
+|[[File:Trait0.png]][[File:Trait53.png]][[File:Trait57.png]][[File:Trait69.png]]
+|Ogre
+|
+|-
+|[[File:Flesh Ogre.png|frameless|200x200px]]
+|Flesh Ogre
+|[[File:Trait0.png]][[File:Trait53.png]][[File:Trait57.png]][[File:Trait70.png]]
+|Ogre
+|
+|-
+|[[File:Bulwark Orc.png|frameless]]
+|Bulwark Orc
+|[[File:Trait0.png]][[File:Trait53.png]][[File:Trait56.png]][[File:Trait67.png]][[File:Trait68.png]]
+|Orc
+|
+|-
+|[[File:Tundra Orc.png|frameless]]
+|Tundra Orc
+|[[File:Trait0.png]][[File:Trait53.png]][[File:Trait56.png]][[File:Trait67.png]][[File:Trait59.png]]
+|Orc
+|
+|-
+|[[File:Scissarus.png|frameless]]
+|Scissarus
+|[[File:Trait0.png]][[File:Trait53.png]][[File:Trait56.png]][[File:Trait66.png]][[File:Trait60.png]]
+|Lizardman
+|4 of these give a guaranteed free extra level when leveling Minions (you pay one, and get another one for free!) (hard cap)
+|-
+|[[File:Retiarius.png|frameless]]
+|Retiarius
+|[[File:Trait0.png]][[File:Trait53.png]][[File:Trait56.png]][[File:Trait66.png]][[File:Trait30.png]]
+|Lizardman
+|Used to have Boss Pilfer trait, now has Harvester: double Food bundles at Cornucopia
+|-
+|[[File:Hugh Mungus.png|frameless]]
+|Hugh Mungus
+|[[File:Trait0.png]][[File:Trait53.png]][[File:Trait57.png]][[File:Trait69.png]][[File:Trait62.png]]
+|Ogre Giant
+|
+|-
+|[[File:Musculor.png|frameless]]
+|Musculor
+|[[File:Trait0.png]][[File:Trait53.png]][[File:Trait57.png]][[File:Trait69.png]][[File:Trait63.png]]
+|Ogre Giant
+|3 of these give a 90% chance to not use a blessing reroll (hard cap)
+|-
+|[[File:Corruptor.png|frameless]]
+|Corruptor
+|[[File:Trait0.png]][[File:Trait53.png]][[File:Trait57.png]][[File:Trait70.png]][[File:Trait65.png]]
+|Flesh Ogre
+|End-game Coin increase based on Trophies. Has high diminishing returns after 3 Minions of this type.
+|-
+|[[File:Big Bone.png|frameless]]
+|Big Bone
+|[[File:Trait0.png]][[File:Trait53.png]][[File:Trait57.png]][[File:Trait70.png]][[File:Trait64.png]]
+|Flesh Ogre
+|Deals White damage based on your outside-Realm damage
+|}
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="4" |'''Special Minions'''
+|-
+! colspan="2" |Name
+!Traits
+!'''Obtain'''
+|-
+|[[File:Torchy.png|frameless]]
+|Torchy
+|[[File:Trait71.png]]
+|Light all 4 torches in the [[Lord's Lair]].
+|-
+|[[File:MinionF0.png]][[File:MinionF1.png]][[File:MinionF2.png]]<br/>[[File:MinionF3.png]][[File:MinionF4.png]][[File:MinionF5.png]]<br/>[[File:MinionF6.png]][[File:MinionF7.png]][[File:MinionF8.png]]<br/>[[File:MinionF9.png]][[File:MinionF10.png]][[File:MinionF11.png]]
+|Rare Shiny
+|[[File:Trait72.png|frameless|200px200px]]
+|Purchased with 575 Crystal Eyes. A reskinned Minion with an extra Trait.
+|}
+
+==Vending Machine==
+[[File:Vending Machine.png|thumb|The Vending Machine with all goodies unlocked]]
+Unlocked after beating '''Afterlife 3'''. Its currency are Coins and dollar bills, the same used with Minions. Coins can be spent to buy goodies, which are permanent upgrades, both for Realm and outside-Realm features. New goodies are unlocked by buying one of the latest unlocked.
+
+As of right now, the buttons on the right don't do anything.
+<table-progress-tracking table-id="1" unique-column-index="2" header-label="Unlocked?">
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="5" |'''Vending Machine goodies'''
+|-
+! colspan="2" |'''Upgrade'''
+! '''Effect'''
+!'''Levels at which upgrades turn NaN'''
+!'''Notes'''
+|-
+| [[File:VendingItem0.png]]
+|Wheat Chew
+|Increases Number of Barn Slots by +(lvl) 
+|285 Barn Slots
+|Must upgrade to progress in Realm. Early-game oriented, afterwards can be ignored
+|-
+|[[File:VendingItem1.png]]
+|Burrito
+|Multiplies Fight DMG outside of realm by 1 + (lvl * 0.01)x per best afterlife reached 
+|x3.6X Fight DMG
+|
+|-
+|[[File:VendingItem2.png]]
+|Sour Cremchips
+| Increases perk points to spend outside realm by +(5*lvl) 
+| +5035 perk points
+|
+|-
+| [[File:VendingItem3.png]]
+|Choccy Coin
+|1 + (lvl * 0.01)x coins in realm per best afterlife reached
+|x4.34 coins in realm
+|Must upgrade to progress in Realm. Most useful upgrade along all stages in Realm
+|-
+|[[File:VendingItem4.png]]
+|White Choc Bar
+|Multipies cash earned outside realm by 1 + (lvl * 0.05)x per best afterlife reached
+|x13.75X Cash 
+|
+|-
+|[[File:VendingItem5.png]]
+|Syrup Soda
+|Boosts bonuses from all potions outside realm by 1 + (lvl * 0.04)x
+|x1.91X Potion boost
+|
+|-
+|[[File:VendingItem6.png]]
+|Tuna Can
+|(3.8 * lvl)% Chance to retrigger away time when entering any screen
+|90.1% Chance to retrigger
+|Must upgrade to progress in Realm. End-game oriented. Bonus diminishes based on level
+|-
+|[[File:VendingItem7.png]]
+|Cane Sugar Soda 
+|Boosts bonuses from all Mastery Bonuses outside realm by 1 + (lvl * 0.04)x
+|x1.91X Mastery bonuses
+|Bonus diminishes based on level
+|-
+|[[File:VendingItem8.png]] 
+|Toothpaste Tube
+|Boosts bonuses from all Lab Tanks outside realm by 1 + (lvl * 0.04)x 
+|x1.9X Lab Tanks bonuses
+|Bonus diminishes based on level
+|-
+|[[File:VendingItem9.png]]
+| Corn Can
+|Increases Away Gains on all screens by +(lvl * 2)%
+| +464% Away Gains
+|Must upgrade to progress in Realm. End-game oriented
+|-
+|[[File:VendingItem10.png]]
+|Icecream Sammich
+|Start with (? * lvl) coins after resetting
+|7044 cash (impossible to tell)
+|Must upgrade to progress in Realm
+|-
+| [[File:VendingItem11.png]]
+|Bundled Broccoli
+|Ew brocolli
+|Impossible to tell
+|Does nothing
+|-
+|[[File:VendingItem12.png]]
+|Vendi Bar
+|All vending and minion upgrade costs are reduced by (lvl)%
+|339% cost reduction
+|
+|-
+|[[File:VendingItem13.png]]
+|Bagged Pancakes
+|Unstackable minion traits can stack +(lvl) more times than normal
+| +33 unstackable traits
+|Must upgrade to progress in Realm. End-game oriented
+|-
+|[[File:VendingItem14.png]]
+|Iced Footlong
+|Multiplies minion damage by 1+(lvl * 0.01)x per ice cream you have unlocked
+|x4.13X Minion damage
+|Must upgrade to progress in Realm. End-game oriented
+|-
+|[[File:VendingItem15.png]]
+|Jawbreaker
+|Increases chain lv chance by +(lvl * 1.4)% outside realm
+| +43.6% Chain Lv. chance
+|Bonus diminishes based on level
+|}</table-progress-tracking>
+
+==Cornucopia==
+[[File:Cornucopia (fruits).jpg|thumb|Cornucopia's Fruits screen. Here Fruits can be rerolled for new Fruits, and their stats can be rerolled for better stats]]
+Unlocked after beating '''Afterlife 7'''. Its currency are Food bundles, wich are obtained by exchanging <u>'''all'''</u> collected ores, fish, traces, souls, crops, flowers, vessels, or treasures for them. Only 2 resource bundles can be exchanged per day. Like banishing, the cooldown time can be accelerated by Away Time triggering again. 
+
+Up to 7 slots for Fruit can be bought. Buying all 7 slots costs 1Q Food bundles.
+
+===Fruits===
+Fruits have a varying range of bonuses that can be rerolled with the Reroll button. Every fruit can have up to 3 lines of bonuses, with each line being rolled for individually. Therefore you can gain or lose lines whith every reroll. 
+
+Each fruit has a slot in which can be stored (this is detailed in the table below).
+<table-progress-tracking table-id="2" unique-column-index="2" header-label="Obtained?">
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="7" |'''Fruit list'''
+|-
+! colspan="2" |Fruit
+!Effect||Low Value||Mid Value||Max Value
+!Slots
+|-
+|[[File:CornucopiaFruit0.png]]
+|Pumpkin
+|Minion Cost Reduction||10%|| 25%|| 50%
+|All
+|-
+|[[File:CornucopiaFruit1.png]]
+|Strawberry
+|Total Minion Dmg||10%|| 25%|| 60%
+|All
+|-
+|[[File:CornucopiaFruit2.png]]
+|Avocado
+|Enlightenment Spirals|| 15%|| 30%|| 60%
+|All
+|-
+|[[File:CornucopiaFruit3.png]]
+|Cherry
+|Double Blessing Chance|| 8%|| 15%|| 30%
+|All
+|-
+|[[File:CornucopiaFruit4.png]]
+|Lemon
+|Coins|| 25%|| 60%|| 150%
+|2 - 3 - 4 - 5 - 6 - 7
+|-
+|[[File:CornucopiaFruit5.png]]
+|Watermelon
+|Bonus from Blessings|| 10%|| 25%|| 60%
+|2 - 3 - 4 - 5 - 6 - 7
+|-
+|[[File:CornucopiaFruit6.png]]
+|Coconut
+|Vending Cost Reduction|| 5%|| 10%|| 20%
+|3 - 4 - 5 - 6 - 7
+|-
+|[[File:CornucopiaFruit7.png]]
+|Limona Lime
+|Minion AFK Attack Speed|| 5%|| 10%|| 20%
+|3 - 4 - 5 - 6 - 7
+|-
+|[[File:CornucopiaFruit8.png]]
+|Bluenana
+|Faster Orb Charging|| 10%|| 20%|| 40%
+|3 - 4 - 5 - 6 - 7
+|-
+|[[File:CornucopiaFruit9.png]]
+|Sour Grapes
+|Field Growth Speed|| 20%|| 50%|| 125%
+|4 - 5 - 6 - 7
+|-
+|[[File:CornucopiaFruit10.png]]
+|Granny Smith
+|Cash Outside Realm|| 100%|| 200%|| 400%
+|4 - 5 - 6 - 7
+|-
+|[[File:CornucopiaFruit11.png]]
+|Golden Apple
+|Coins Per Realm Level|| 2%|| 5%|| 10%
+|5 - 6 - 7
+|-
+|[[File:CornucopiaFruit12.png]]
+|Orange
+|Minion Damage Per Ice Cream|| 5%|| 10%|| 30%
+|5 - 6 - 7
+|-
+|[[File:CornucopiaFruit13.png]]
+|Wine Grapes
+|Away Gains for Realm|| 5%|| 10%|| 25%
+|5 - 6 - 7
+|-
+|[[File:CornucopiaFruit14.png]]
+|Pineapple
+|Fight Damage Outside Realm|| 150%|| 250%|| 500%
+|6 - 7
+|-
+|[[File:CornucopiaFruit15.png]]
+|Banana
+|Away Gains Outside Realm|| 3%|| 5%|| 10%
+|6 - 7
+|-
+|[[File:CornucopiaFruit16.png]]
+|Apple
+|Minion 2x Level Chance|| 10%|| 20%|| 40%
+|7
+|-
+|[[File:CornucopiaFruit17.png]]
+|Kiwi Fruit
+|All Fruit Bonuses|| 10%|| 15%|| 30%
+|7
+|}</table-progress-tracking>
+
+==Orb Tower==
+[[File:Orb tower (early-game).png|thumb|The Orb Tower at the early-game with the Riftseeker trait. Only skill 7 is missing]]
+Unlocked after beating '''Afterlife 11'''. Its currency is Energy, which is generated by minions with the Charger trait (Babby Egg family - Lizard tree).
+
+Only up to 10 Energy can be stored at the beggining. This can be increased with Expansions, which also unlocks new powers. The Orb Tower gets a new power with each Expansion, until the 7th. Afterwards, further Expansions only increase maximum Energy and Blue damage.  
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="4" |'''Orb Tower powers'''
+|-
+!'''Energy Cost'''
+!'''Effect'''
+!'''Note'''
+!'''Expansion'''
+|-
+|5
+|Fires a laser, which deals 10 Blue Dmg for 10 sec (higher damage per Expansion)
+|Deals damage 10 times
+| 1
+|-
+|15
+|All Minions gain a random trait
+|More details below
+|2
+|-
+|25
+|The next minion you banish will give you Realm EXP without being deleted
+|
+|3
+|-
+|40
+|Get back all coins you have spent since entering
+|
+|4
+|-
+|50
+| +10% bonus to all coin gain permanent
+|Can be used infinite times. Only affects Realm
+|5
+|-
+|75
+| +10% bonus to all damage permanently
+|Can be used infinite times. Only affects Realm
+|6
+|}
+
+
+Expansion cost is always the current maximum Energy. This means that the Chagrin blessing will increase the Energy needed to expand the Orb Tower. Expansions are infinite, meaning the Blue damage done by the laser can be upgraded infinitely. 
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="3" |'''Expansion costs'''
+|-
+!'''Expansion'''
+!'''Cost'''
+!'''Laser Damage'''
+|-
+|1
+|10
+|22
+|-
+|2
+|40
+|62
+|-
+|3
+|120
+|?
+|-
+|4
+|126
+|207
+|-
+|5
+|326
+|810
+|-
+|6
+|800
+|3625
+|-
+|7
+|1923
+|22059
+|}
+
+
+The Trait you can get from the Orb Tower is based off what Minions you have. Therefore, you need to at least have one Minion before being elegible for such Trait. When aiming for the rarest Traits (2% chance and below), wait until there's at least 15.000 Energy in the Orb Tower before rolling.
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="5" |'''Traits given by the Orb Tower'''
+|-
+! colspan="2" |'''Trait'''
+!'''Description'''
+!'''Chance'''
+!'''Priority'''
+|-
+|[[File:Trait1.png]]
+|Flesh Wound
+|Increases total damage by +30%
+|16%
+|Reroll
+|-
+|[[File:Trait22.png]]
+|Riftseeker
+|Increases Realm Exp gained when banishing minions by +150%
+|16%
+|Best early-game Trait to help you reach Realm Lv20
+|-
+|[[File:Trait13.png]]
+|Powerful Fist
+|Increases base damage by +100 per 5 Realm Lv
+|16%
+|Reroll
+|-
+|[[File:Trait11.png]]
+|Clenched Fist
+|Increases base damage by +2500
+|16%
+|Best early-game Trait until you can get Riftseeker
+|-
+|[[File:Trait5.png]]
+|Targeter
+|Increases crit chance by +25%
+|16%
+|Reroll
+|-
+|[[File:Trait33.png]]
+|Double Stab
+|Increases multihit chance by +35%
+|5%
+|Reroll
+|-
+|[[File:Trait20.png]]
+|Critipow
+| +5% Crit DMG for all minions per 100 total minion Lv
+|4%
+|Good end-game Trait once Coins are not an issue anymore. Reroll at early-game
+|-
+|[[File:Trait12.png]]
+|Righteous Fist
+|Increases base damage by +100 for all minions
+|3%
+|Reroll
+|-
+|[[File:Trait14.png]]
+|Quickstab
+|Increases attack speed by +50%
+|3%
+|Reroll
+|-
+|[[File:Trait8.png]]
+|Make It Rain
+|Increases all coin gain by +150% from all sources
+|2%
+|3rd best Coin gain Trait. Can settle for it if you ran out of Energy
+|-
+|[[File:Trait7.png]]
+|Coin Pressing
+|Generates coins every minute
+|0.8%
+|Better than reroll Traits
+|-
+|[[File:Trait42.png]]
+|Holy Roller
+|Get +1 blessing reroll every time you kill a boss
+|0.7%
+|Good end-game Trait once Coins are not an issue anymore
+|-
+|[[File:Trait39.png]]
+|Gold Bless
+|Increases all coin gain by +250% per blessing you have the most of
+|0.6%
+|1st best Coin gain Trait. Mid-game must have
+|-
+|[[File:Trait32.png]]
+|Tax Collector
+|Increases all coin gain by +50% per unique minion type in barn
+|0.5%
+|2nd best Coin gain Trait. Can settle for it if you ran out of Energy
+|-
+|[[File:Trait31.png]]
+|Smart Money
+|Increases all coin gain by +40% per 5 Realm Lv
+|0.4%
+|4th best Coin gain Trait. Can settle for it if you ran out of Energy
+|-
+|[[File:Trait30.png]]
+|Harvester
+|When turning in resources gain +100% more food bundles
+|???
+|Useful for getting new fruits, can settle for it if you run out of energy.
+|}
+
+==Shrine==
+[[File:Shrine reset.png|thumb|Shrine reset screen]]
+Unlocked after beating '''Afterlife 16'''. Its currency are '''Enlightenment Spirals''', which are obtained by reseting the Realm progress. It provides acces to '''Resets''', '''Blessings''' and '''Upgrades'''.
+
+When reseting, all coins, minions and blessings will be lost; Enlightenment Spirals will be awarded, and Aftelife will be set to 1 again. On the other hand, Realm Lv, Vending Machine, Cornucopia, Orb Tower and Fields will remain the same.  With this in mind, it is advised to spend all possible Coins before doing a reset.
+
+=== Blessings ===
+[[File:Shrine blessings (list early-game).png|thumb|Shrine showing all the chosen blessings]]
+After defeating a Boss, the game offers 3 random blessings for the player to choose from. Initially there are only 10 blessings available, and then Dharma upgrade unlocks up to 27 blessings. 
+{| class="sortable mw-collapsible mw-collapsed fandom-table"
+! colspan="6" |'''Blessings list'''
+|-
+! colspan="2" |'''Name'''
+!'''Effect'''
+!'''Dharma''' '''level'''
+!'''Pick'''
+!'''Note'''
+|-
+|[[File:C Afterlife.png]]
+|Penny Thought
+| +10% coins from all sources
+|0
+|Yes
+|
+|-
+|[[File:R Afterlife.png]]
+|Dime Decisive
+| +25% coins from all sources
+|8
+|Yes
+|
+|-
+|[[File:Z Realm.png]]
+|Banked Bygone
+| +50% coins from all sources
+|16
+|Yes
+|
+|-
+|[[File:D Realm.png]]
+|Che Cheapo
+| -2% minion upgrade cost for all minions
+|0
+|'''No'''
+|Negative impact on damage.
+|-
+|[[File:T Realm.png]]
+|Vendorama
+| -5% Vending Machine costs
+|10
+|Yes
+|
+|-
+|[[File:L Realm.png]]
+|Nickel back
+| +2% Cashback on all purchases
+|2
+|Yes
+|
+|-
+|[[File:I Realm.png]]
+|Pigglio
+| +15% Total Damage for all Pig Type Minions
+|0
+|Yes
+|
+|-
+|[[File:K Realm.png]]
+|Rockiko
+| +15% Total Damage for all Rock Type Minions
+|1
+|Yes
+|
+|-
+|[[File:N Realm.png]]
+|Eggyolko
+| +15% Total Damage for all Egg Type Minions
+|4
+|'''No'''
+|Eggs don't do damage silly.
+|-
+|[[File:S Realm.png]]
+|Spawnisho
+|<nowiki>+15% Total Damage for all Spawn Type Minions</nowiki>
+|9
+|Yes
+|
+|-
+|[[File:A Realm.png]]
+|Little Damage
+| +5% total minion damage for all minions
+|0
+|Yes
+|
+|-
+|[[File:M Realm.png]]
+|Mega Damage
+| +10% total minion damage for all minions
+|3
+|Yes
+|
+|-
+|[[File:X Realm.png]]
+|Eternal Damage
+|<nowiki>+20% total minion damage for all minions</nowiki>
+|14
+|Yes
+|
+|-
+|[[File:H Realm.png]]
+|Crimsonile
+| +10% Red Damage from all minions
+|0
+|Yes
+|
+|-
+|[[File:U Realm.png]]
+|Refractile
+| +10% Damage of all colours except red
+|11
+|Yes
+|
+|-
+|[[File:E Realm.png]]
+|Fasting
+| +2% attack speed for all attacking minions
+|0
+|'''No'''
+|Causes great lag once you progress further. Use minions that you can banish if you want attack speed.
+|-
+|[[File:G Realm.png]]
+|Criticle
+| +1% Crit Chance for all minions
+|0
+|Yes
+|
+|-
+|[[File:J Realm.png]]
+|Countinion
+| +1 unique minion count for Minion Traits
+|0
+|Yes
+|Great for unique Minion traits, and also for Realm Trophies
+|-
+|[[File:F Realm.png]]
+|Intellingo
+|10% Realm EXP from banishing
+|0
+|Yes
+|
+|-
+|[[File:B Realm.png]]
+|Chagrin
+| +3 Max Energy cap for orb tower
+|0
+| -
+|Why? 3 is nothing.
+|-
+|[[File:P Realm.png]]
+|Barno
+| +1 Barn Slot
+|6
+| -
+|If you have not unlocked many from vending machine sure.
+|-
+|[[File:Q Realm.png]]
+|Enlightenment
+| +15% Enlightenment spiritals when resetting
+|7
+| -
+|You absolutely want this when you still have upgrades left in shrine, after this just ignore.
+|-
+|[[File:Y Realm.png]]
+|Retrigger
+| +10% chance to retrigger away time after arrival
+|15
+|Yes
+|
+|-
+|[[File:O Realm.png]]
+|Randomizer
+|Instantly get 2 random blessings
+|5
+|'''No'''
+|Could give you negative impact blessings.
+|-
+|[[File:V Realm.png]]
+|Randomegazer
+|Instantly get 4 random blessings
+|12
+|'''No'''
+|Could give you negative impact blessings.
+|-
+|[[File:W Realm.png]]
+|Superblesser
+|1.1x higher bonus from all +% blessings
+|13
+|Yes
+|
+|-
+|[[File:A Realm.png]]
+|One For All
+|Instantly get +1 of every type of blessing you have
+|17
+|Yes
+|'''Once you have collected blessings that you want re-roll for this every time.'''
+|}
+
+=== Upgrades ===
+[[File:Shrine upgrades.png|thumb|Shrine upgrade screen. Note it can be scrolled down to show more upgrades]]
+After each reset, Shrine will award the player with Enlightenment Spirals. These can be spent in permanent upgrades for both Realm and the main game. To max every upgrade, '''235T''' Enlightenment Spirals are required. It's advised to do a few quick resets (up to Afterlife 23) to max '''Dharma,''' upgrade both '''Bhakti''' and '''Sahaja''' as far as possible, and then do a single long Afterlife run to max every other upgrade at once.
+
+Enlightenment Spirals gain can be increased with:
+
+* '''Resetti trait:''' +40% more Enlightenment Spirals when resetting. Blaken Gold minion (Babby Egg -> Lizard -> Iguana -> Blaken Gold). This trait stacks up to '''Bagged Pancakes''' times
+** '''Stackability trait:''' you can stack traits one more time. Chonkoppo minion (Little Piggy -> Hippo -> Beeg Hippo -> Chonkoppo)
+* '''Enlightenment blessing:''' +15% Enlightenment Spirals when resetting.
+** '''Superblesser''' '''blessing:''' 1.1x higher bonus from all +% blessings (based on blessing amount)
+** '''Watermelon fruit:''' +x% bonus from Blessings (based on fruit amount and bonuses)
+* '''Avocado fruit:'''  +x% Enlightenment Spirals when resetting (based on fruit amount and bonuses)
+** '''Kiwi fruit:''' +x% all Fruit Bonuses (based on fruit bonuses)
+** '''Juiced Fruit plot:''' all fruit bonuses are +x% larger (based on plot 3 level)
+
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="5" |'''Shrine upgrades'''
+|-
+! colspan="2" |'''Name'''
+!'''Effect'''
+!'''Effect at max level'''
+!'''Final upgrade cost'''
+|-
+|[[File:Dharma.png|100x100px]]
+|Dharma
+| +lvl blessing types to get after a boss kill. You start with 10 types.
+| +17
+|1M
+|-
+|[[File:Bhakti.png|100x100px]]
+|Bhakti
+| +1 +(lvl * 0.01)x higher fight damage inside and outside of Realm for each upgrade of this
+|x2
+|34T
+|-
+|[[File:Carnate.png|100x100px]]
+|Carnate
+| +lvl barn slots to store minions in
+| +16
+|40K
+|-
+|[[File:Ahisma.png|100x100px]]
+|Ahisma
+| +lvl total rerolls per run. Total rerolls come back every time you do a Shrine Reset
+| +20
+|22K
+|-
+|[[File:Taoism.png|100x100px]]
+|Taoism
+|When low on coins lvl% chance to get a major refund of the coins you just spent
+|60%
+|10M
+|-
+|[[File:Sahaja.png|100x100px]]
+|Sahaja
+| +lvl% Chain LV chance outside of Realm. Also +lvl% Realm coins per afterlife reached
+| +40%
+|65M
+|-
+|[[File:Muksha.png|100x100px]]
+|Moksha
+| +(lvl *5)% Field growth rate so you can max out all those field talents
+| +500%
+|978B
+|-
+|[[File:Nirvana.png|100x100px]]
+|Nirvana
+| +lvl% away gains for all skills per 10 Realm LV
+| +50%
+|50B
+|}
+
+==Field==
+[[File:Field (end-game).png|thumb|Field with all Plots unlocked and almost maxed]]
+Unlocked after beating  '''Afterlife 25'''. Its currency are Flowers (also known as Blossoms), which are made by minions with the Field Bloomer trait (Ogre Spawn family). Field houses 8 plots, with each one giving a Trait to all Minions when purchased (except for Plot 1 - Full Blossom and Plot 3 - Juiced Fruit, these two are passive Minion-less Traits).
+
+Flowers gain can be increased with:
+
+* '''Sour Grapes fruit:''' +x% Field Growth Speed (based on fruit amount and bonuses)
+** '''Kiwi fruit:''' +x% all Fruit Bonuses (based on fruit bonuses)
+** '''Juiced Fruit plot:''' all fruit bonuses are +x% larger (based on plot 3 level)
+* '''Full Blossom plot:''' +x% blossoms from Minions (based on plot 1 level)
+
+=== Plots ===
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="5" |'''Plot list'''
+|-
+!'''Plot'''
+!'''Cost'''
+!'''Name'''
+!'''Effect'''
+!'''Effect at Lv12'''
+|-
+|1
+|
+|Full Blossom
+| +(lvl * ?)% blossoms from minons (Passive Trait)
+| +276B%
+|-
+|2
+|
+|Smol Savings
+| -(lvl * ?)% Minion Upgrade Cost for all minions
+| -29.1%
+|-
+|3
+|
+|Juiced Fruit
+|All fruit bonuses are +(lvl * ?) larger (Passive Trait)
+| +133%
+|-
+|4
+|
+|Cash Genesis
+| +(lvl *?)% Chance to produce 2x coins
+| +96%
+|-
+|5
+|
+|Spare Charge
+|Charges the Orbs Energy by (lvl * 0.1) every hour
+|1.2
+|-
+|6
+|164M
+|Level Cash
+|Increases coin gain by +(lvl * ?)% per 100 Lv of this Minion
+| +648%
+|-
+|7
+|5.7B
+|Level Slash
+| +(lvl * ?)% Total damage per 100 upg lvs of this minion
+| +648%
+|-
+|8
+|210B
+|Aferlife Slam
+| +(afterlife * ?)% Total damage for all minions per best afterlife
+| +648%
+|}
+
+=== Upgrade chance ===
+Each Plot starts at level 1 and can be leveled up to level 12. Each level up lowers the chance of a successful upgrade. The upgrade chance starts at 1 in 4, and ends up at 1/345 for the last level.
+{| class="mw-collapsible mw-collapsed fandom-table"
+! colspan="12" |'''Plot upgrade chance'''
+|-
+!'''Plot Lv'''
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10
+|11
+|-
+!'''Chance to upgrade'''
+|1/4
+|1/5
+|1/7
+|1/11
+|1/17
+|1/27
+|1/44
+|1/72
+|1/121
+|1/205
+|1/345
+|}
+
+==Trophy Case==
+68 total trophies to earn. Each trophy increases coin gain of every minion. The 'Get 100 ... bill' are giving a particularly high boost to coin gain.
+{| class="mw-collapsible mw-collapsed fandom-table"
+!'''Requirement'''
+|-
+|Tap the boss 10 times to get some coins
+|-
+|Buy a pig from the portal. Scroll right to do it
+|-
+|Defeat the Toxic Sludge boss
+|-
+|Upgrade the pig minion twice
+|-
+|Click the pigs coin trait to read what it does
+|-
+|Level up to Realm Lv2 by banishing some minions
+|-
+|Mutate the pig minion by upgrading it 10 times
+|-
+|Defeat the Crude Oil Snail
+|-
+|Defeat the Crying Candle to unlock vending machine
+|-
+|Evolve a rock to Mountain to deal orange damage
+|-
+|Upgrade Wheat Chew in vending machine
+|-
+|Upgrade Choccy Coin in vending machine
+|-
+|Defeat the Slumbering Pillow to unlock Cornucopia
+|-
+|Get 100 silver coins. 1 Silver is worth 1000 copper
+|-
+|Get 100 gold coins
+|-
+|Get 100 dollar bills
+|-
+|Get 100 red dollar bills
+|-
+|Get 100 blue dollar bills
+|-
+|Reach Realm Lv10 by banishing more minions
+|-
+|Turn in 4 resource bundles at Cornucopia
+|-
+|Unlock 2nd fruit slot in the Cornucopia
+|-
+|Evolve a Egg into Lil Chicken for yellow damage
+|-
+|Defeat the Twisted Shark to unlock orb tower
+|-
+|Mutate the same minion two times
+|-
+|Have 15 unique minion types in the barn
+|-
+|Fire the orb laser to deal blue damage
+|-
+|Have 40 unique minion types in the barn
+|-
+|Have 60 unique minion types in the barn
+|}
+
+==Crystal Eye Shop==
+Crystal Eyes are a premium currency bought with money. You start with 300 but the rest cost money.
+{| class="mw-collapsible mw-collapsed fandom-table" style="float:left;"
+! colspan="3" |'''Crystal Eye Shop'''
+|-
+!'''Name'''
+!'''Effect'''
+!'''Price'''
+|-
+|Barn Egg
+|A little egg that permanently gives +4 Barn Slots.
+|200 + (30? * lvl)
+|-
+|Damage+
+|Multiplies all minion damage by 1.3x. (limit of 15)
+|235
+
+|-
+|Cash+
+|Multiplies all realm coin gain by 1.3x. (limit of 15)
+|190
+|-
+|1 Hour
+|Instantly gives you 1 hour of progress
+|45
+|-
+|Rare Shiny
+|Summons a permanent shiny minion with an ultra powerful trait that boosts all minions
+|575
+|-
+|N Hours
+|Instantly gives you a random amount of hours of progress. Max is 100 hours, average is 8.
+|135
+|-
+|Rerolls
+|Gives you 15 free rerolls at the cornucopia for new fruit or better bonuses
+|280
+|}

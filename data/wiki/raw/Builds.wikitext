@@ -1,0 +1,41 @@
+== Mining - Crystal Builds ==
+
+=== Premium ===
+{{:Builds/Mining|Ore gain|Green|Green|Red|Black|Black|Black|Orange|Orange|Orange|Black|Black|Black|Green|Green|Red|Orange|Orange|Orange}}
+{{:Builds/Mining|Exp gain|Orange|Orange|Orange|Pink|Pink|Pink|Orange|Orange|Orange|Orange|Orange|Orange|Pink|Pink|Pink|Orange|Orange|Orange}}
+
+=== Non-Premium ===
+{{:Builds/Mining|Ore gain|Purple|Purple|Purple|Purple|Purple|Purple|Purple|Purple|Purple|Purple|Purple|Purple|Purple|Purple|Purple|Purple|Purple|Purple}}
+{{:Builds/Mining|Exp gain|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow}}
+
+== Apothecary - Crystal Builds ==
+
+=== Premium ===
+{{:Builds/Apothecary|Brew speed|Orange|Orange|Orange|Pink|Pink|Pink|Pink|Pink|Pink|Pink|Pink|Pink|Pink|Pink|Pink|Orange|Orange|Orange}}
+{{:Builds/Apothecary|Exp Gain|Orange|Orange|Orange|Orange|Orange|Orange|Orange|Orange|Orange|Green|Green|Green|Pink|Pink|Pink|Green|Green|Green}}
+{{:Builds/Apothecary|Double brew/cost reduction|Orange|Orange|Orange|Orange|Orange|Orange|Orange|Orange|Orange|Black|Black|Black|Green|Green|Green|Black|Black|Black}}
+
+=== Non-Premium ===
+{{:Builds/Apothecary|Brew speed|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red}}
+{{:Builds/Apothecary|Exp gain|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow}}
+{{:Builds/Apothecary|Double brew|Blue|Blue|Blue|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red}}
+{{:Builds/Apothecary|Cost reduction|Purple|Purple|Purple|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red|Red}}
+
+== Trekking Builds ==
+
+=== With Platypus (Genetic order matters) ===
+{{:Builds/Trekking|Travel|Spagetti|Snapzi|Snapzi|Snapzi|Demon|Respawn|Respawn|Respawn|Gorshank|Abominable|Abominable|Abominable|Platypus|SoulBound|SoulBound|SoulBound|Occulon|ZeusBolt|ZeusBolt|ZeusBolt|Duck|ZeusBolt|Perception|ZeusBolt|Dog|Perception|Incubation|Incubation|Frog|ZeusBolt|Swiftness|Swiftness}}
+{{:Builds/Trekking|Loot|Demon|Respawn|Respawn|Respawn|Gorshank|Abominable|Abominable|Abominable|Spoon|Discovery|Discovery|Discovery|Platypus|SoulBound|SoulBound|SoulBound|Occulon|ZeusBolt|ZeusBolt|ZeusBolt|Genie|Discovery|Loot|Discovery|Spirit|Loot|Loot|Loot|Djinn|Loot|Loot|ZeusBolt}}
+
+=== Without Platypus ===
+{{:Builds/Trekking|Travel|Demon|Respawn|Respawn|Respawn|Dog|Incubation|Incubation|Incubation|Frog|Swiftness|Swiftness|Swiftness|Gorshank|Abominable|Abominable|Abominable|Duck|ZeusBolt|Perception|ZeusBolt|Seagull|ZeusBolt|Perception|ZeusBolt|Zebra|ZeusBolt|Enthusiasm|ZeusBolt|Occulon|ZeusBolt|ZeusBolt|ZeusBolt}}
+{{:Builds/Trekking|Loot|Demon|Respawn|Respawn|Respawn|Spoon|Discovery|Discovery|Discovery|Bob|Loot|Loot|Loot|Gorshank|Abominable|Abominable|Abominable|Genie|ZeusBolt|Loot|ZeusBolt|Spirit|ZeusBolt|Loot|ZeusBolt|Djinn|ZeusBolt|Loot|ZeusBolt|Occulon|ZeusBolt|ZeusBolt|ZeusBolt}}
+
+=== With Beastmaster and Gattaca ===
+Requires [[Dairy Aisle|Beastmaster]] and Level 7 [[Construction#Red_Domain|Gattaca]]
+
+{{:Builds/Trekking|Travel|Platypus|SoulBound|SoulBound|SoulBound|Spagetti|Snapzi|Snapzi|Snapzi|Demon|Respawn|Respawn|Respawn|Gorshank|Abominable|Abominable|Abominable|Occulon|ZeusBolt|ZeusBolt|ZeusBolt|Zebra|Incubation|Enthusiasm|Abominable|Frog|Swiftness|Swiftness|ZeusBolt|Duck|SoulBound|Perception|Respawn}}
+=== Mastery (SET 9 - have six 9-gene combos) ===
+Requires [[Dairy Aisle|Beastmaster]], Level 2 [[Construction#Red_Domain|Gattaca]] (easier with Level 5) and 4 Arcane carpets
+
+{{:Builds/Trekking|Mastery|PolarKing|Loot|Enthusiasm|Enthusiasm|Platypus|SoulBound|SoulBound|SoulBound|Gorshank|Abominable|Abominable|Abominable|Deer|Perception|Swiftness|Enthusiasm|Frog|Perception|Swiftness|Swiftness|Duck|SoulBound|Perception|Abominable|Almighty|Loot|Loot|Loot|Zebra|Swiftness|Enthusiasm|Perception}}

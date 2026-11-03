@@ -1,0 +1,17 @@
+title: About this mirror
+tags: Wiki
+
+This is an ''unofficial, ad-free mirror'' of the [ext[Idle Skilling Fandom wiki|https://idle-skilling.fandom.com/wiki/Idle_Skilling_Wiki]], converted to TiddlyWiki. It is not affiliated with Fandom, the wiki's staff or the game's developer.
+
+!! Licence and authors
+
+The wiki's text is by its contributors and is licensed under [ext[Creative Commons Attribution-Share Alike 3.0 (CC BY-SA 3.0)|https://creativecommons.org/licenses/by-sa/3.0/]]. This mirror is a modified version and is released under the same licence. Every converted tiddler keeps a `source` field with its original page; the footer under each one links that page and its ''history'', which lists the authors.
+
+!! What changed
+
+* Converted from MediaWiki markup to TiddlyWiki markup by `scripts/wiki/to-tiddlywiki.ts` (in the idle-skilling-toolbox repo), from a dump of the wiki taken through its API.
+* ''No images.'' Images from the wiki or the game are not included; where the wiki shows one, its file name (and caption) is kept as text in a dashed box, like <span class="mw-img">Pet Slime</span>.
+* Tables that hold game things (monsters, cards, pets, potions, crops…) are rebuilt from the wiki's data as one tiddler per row, so they can be sorted and filtered; see [[Data and tools]].
+* Fandom-only features (collapsible tables, tabs) became TiddlyWiki equivalents. Markup the converter could not express is shown as-is in a <span class="mw-raw">yellow box</span> rather than dropped.
+
+The content is as of the dump date (2026-10-02); the live wiki may have changed since.

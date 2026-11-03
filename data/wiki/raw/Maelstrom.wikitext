@@ -1,0 +1,734 @@
+{| align="center"
+|[[File:Lunar Isle Banner.png|150px|link=Lunar Isle]]
+|<<<
+|[[File:Maelstrom Banner.png|link=Maelstrom]]
+|>>>
+|[[File:Oblivion_Banner.png|150px|link=Oblivion]]
+|}
+Maelstrom is the fourth advanced [[Fight]]ing zone and features 25 unique monsters over 100 encounters.
+
+The following table shows the '''base''' values for each monster in the zone. (Note: '''<span style="color:PaleTurquoise">1</span>''' = 1000 QQ and '''<span style="color:Indigo">1</span>''' = '''<span style="color:PaleTurquoise">1000 QQ</span>''')
+
+<nowiki>***</nowiki>Damage and Gold are currently incorrect as of 7/3/2019 10:45 PM EST***
+{| class="article-table" border="1" style="width: 100%;"
+! colspan="2" |Monster
+!Damage
+!HP
+!Gold
+!Kill Req.
+!Card Bonus
+|-
+| rowspan="3" |[[File:enemy-201.png|center|50px]]
+|Honky 1
+|144M
+|'''<span style="color:PaleTurquoise">119QQ</span>'''
+|4.03T
+|5685
+| rowspan="3" | +7% Plant Growth Speed
+|-
+|Honky 2
+|150M
+|'''<span style="color:PaleTurquoise">143QQ</span>'''
+|4.16T
+|7925
+|-
+|Honky 3
+|157M
+|'''<span style="color:PaleTurquoise">173QQ</span>'''
+|4.29T
+|10165
+|-
+| rowspan="3" |[[File:enemy-202.png|center|50px]]
+|Peepo 1
+|163M
+|'''<span style="color:PaleTurquoise">211QQ</span>'''
+|4.43T
+|12405
+| rowspan="3" | +30% Accuracy
+|-
+|Peepo 2
+|170M
+|'''<span style="color:PaleTurquoise">258QQ</span>'''
+|4.57T
+|14645
+|-
+|Peepo 3
+|177M
+|'''<span style="color:PaleTurquoise">316QQ</span>'''
+|4.71T
+|16885
+|-
+| rowspan="3" |[[File:enemy-203.png|center|50px]]
+| A of Sparks 1
+|184M
+|'''<span style="color:PaleTurquoise">389QQ</span>'''
+|4.87T
+|19125
+| rowspan="3" | +10% Crusade Reward
+|-
+|A of Sparks 2
+|191M
+|'''<span style="color:PaleTurquoise">481QQ</span>'''
+|5.03T
+|21365
+|-
+|A of Sparks 3
+|198M
+|'''<span style="color:PaleTurquoise">598QQ</span>'''
+|5.2T
+|23605
+|-
+| rowspan="3" |[[File:enemy-204.png|center|50px]]
+|Emmental 1
+|205M
+|'''<span style="color:PaleTurquoise">746QQ</span>'''
+|5.38T
+|25845
+| rowspan="3" | +30% Rift EXP
+|-
+|Emmental 2
+|212M
+|'''<span style="color:PaleTurquoise">934QQ</span>'''
+|5.58T
+|28085
+|-
+|Emmental 3
+|220M
+|'''<span style="color:Indigo">1.1</span>'''
+|5.79T
+|30325
+|-
+| rowspan="3" |[[File:enemy-205.png|center|50px]]
+|Zaposi 1
+|227M
+|'''<span style="color:Indigo">1.4</span>'''
+|6.01T
+|32565
+| rowspan="3" | +40% Fish Gains
+|-
+|Zaposi 2
+|235M
+|'''<span style="color:Indigo">1.8</span>'''
+|6.25T
+|34805
+|-
+|Zaposi 3
+|243M
+|'''<span style="color:Indigo">2.3</span>'''
+|6.51T
+|37045
+|-
+| rowspan="3" |[[File:enemy-206.png|center|50px]]
+|Cheezers 1
+|251M
+|'''<span style="color:Indigo">3</span>'''
+|6.79T
+|39285
+| rowspan="3" | +5% Monster Cash [+passive]
+|-
+|Cheezers 2
+|259M
+|'''<span style="color:Indigo">3.9</span>'''
+|7.09T
+|41525
+|-
+|Cheezers 3
+|268M
+|'''<span style="color:Indigo">4.4</span>'''
+|7.42T
+|43765
+|-
+| rowspan="3" |[[File:enemy-207.png|center|50px]]
+|Stroganovski 1
+|276M
+|'''<span style="color:Indigo">4.9</span>'''
+|7.78T
+|46005
+| rowspan="3" | +5% Raid Drop Luck [+passive]
+|-
+|Stroganovski 2
+|285M
+|'''<span style="color:Indigo">5.5</span>'''
+|8.17T
+|48245
+|-
+|Stroganovski 3
+|293M
+|'''<span style="color:Indigo">6.2</span>'''
+|8.59T
+|50485
+|-
+| rowspan="3" |[[File:enemy-208.png|center|50px]]
+|Emigi 1
+|302M
+|'''<span style="color:Indigo">7</span>'''
+|9.06T
+|52725
+| rowspan="3" | +5% Total Damage [+passive]
+|-
+|Emigi 2
+|311M
+|'''<span style="color:Indigo">7.9</span>'''
+|9.57T
+|54965
+|-
+|Emigi 3
+|320M
+|'''<span style="color:Indigo">9</span>'''
+|10.1T
+|57205
+|-
+| rowspan="3" |[[File:enemy-209.png|center|50px]]
+|Forpaque 1
+|330M
+|'''<span style="color:Indigo">10.2</span>'''
+|10.7T
+|59445
+| rowspan="3" | +5% Fish Gains [+passive]
+|-
+|Forpaque 2
+|339M
+|'''<span style="color:Indigo">11.6</span>'''
+|11.3T
+|61685
+|-
+|Forpaque 3
+|349M
+|'''<span style="color:Indigo">13.3</span>'''
+|12.1T
+|63925
+|-
+| rowspan="3" |[[File:enemy-210.png|center|50px]]
+|Clodd 1
+|359M
+|'''<span style="color:Indigo">15.2</span>'''
+|12.9T
+|66165
+| rowspan="3" | +6% Monster Cash [+passive]
+|-
+|Clodd 2
+|369M
+|'''<span style="color:Indigo">17.4</span>'''
+|13.7T
+|68405
+|-
+|Clodd 3
+|379M
+|'''<span style="color:Indigo">20.1</span>'''
+|14.7T
+|70645
+|-
+| rowspan="3" |[[File:enemy-211.png|center|50px]]
+|Shtok 1
+|389M
+|'''<span style="color:Indigo">23.1</span>'''
+|15.7T
+|72885
+| rowspan="3" | +6% Total Damage [+passive]
+|-
+|Shtok 2
+|399M
+|'''<span style="color:Indigo">26.7</span>'''
+|16.8T
+|75125
+|-
+|Shtok 3
+|410M
+|'''<span style="color:Indigo">31</span>'''
+|18T
+|77365
+|-
+| rowspan="3" |[[File:enemy-212.png|center|50px]]
+|Sparky Bob 1
+|421M
+|'''<span style="color:Indigo">36</span>'''
+|19.4T
+|79605
+| rowspan="3" | +6% Asylum Keys Gain [+passive]
+|-
+|Sparky Bob 2
+|432M
+|'''<span style="color:Indigo">41.8</span>'''
+|20.8T
+|81845
+|-
+|Sparky Bob 3
+|443M
+|'''<span style="color:Indigo">48.8</span>'''
+|22.4T
+|84085
+|-
+| rowspan="3" |[[File:enemy-213.png|center|50px]]
+|Coulombs 1
+|454M
+|'''<span style="color:Indigo">57</span>'''
+|24.1T
+|86325
+| rowspan="3" | +6% Raid Drop Luck [+passive]
+|-
+|Coulombs 2
+|466M
+|'''<span style="color:Indigo">66.8</span>'''
+|26T
+|88565
+|-
+|Coulombs 3
+|477M
+|'''<span style="color:Indigo">78.5</span>'''
+|28T
+|90805
+|-
+| rowspan="3" |[[File:enemy-214.png|center|50px]]
+|Anodesia 1
+|489M
+|'''<span style="color:Indigo">92.4</span>'''
+|30.2T
+|93045
+| rowspan="3" | +7% Monster Cash [+passive]
+|-
+|Anodesia 2
+|501M
+|'''<span style="color:Indigo">109</span>'''
+|32.6T
+|95285
+|-
+|Anodesia 3
+|514M
+|'''<span style="color:Indigo">128</span>'''
+|35.2T
+|97525
+|-
+| rowspan="3" |[[File:enemy-215.png|center|50px]]
+|Judiciar 1
+|526M
+|'''<span style="color:Indigo">152</span>'''
+|38T
+|99765
+| rowspan="3" | +7% Fish Gains [+passive]
+|-
+|Judiciar 2
+|539M
+|'''<span style="color:Indigo">181</span>'''
+|41T
+|102005
+|-
+|Judiciar 3
+|552M
+|'''<span style="color:Indigo">215</span>'''
+|44.3T
+|104245
+|-
+| rowspan="3" |[[File:enemy-216.png|center|50px]]
+|Tubro 1
+|565M
+|'''<span style="color:Indigo">257</span>'''
+|47.9T
+|106485
+| rowspan="3" | +7% Total Damage [+passive]
+|-
+|Tubro 2
+|578M
+|'''<span style="color:Indigo">308</span>'''
+|51.7T
+|108725
+|-
+|Tubro 3
+|591M
+|'''<span style="color:Indigo">369</span>'''
+|55.9T
+|110965
+|-
+| rowspan="3" |[[File:enemy-217.png|center|50px]]
+|Novastrike 1
+|605M
+|'''<span style="color:Indigo">443</span>'''
+|60.4T
+|113205
+| rowspan="3" | +2% Pachinko Balls [+passive]
+|-
+|Novastrike 2
+|619M
+|'''<span style="color:Indigo">533</span>'''
+|65.2T
+|115445
+|-
+|Novastrike 3
+|633M
+|'''<span style="color:Indigo">643</span>'''
+|70.4T
+|117685
+|-
+| rowspan="3" |[[File:enemy-218.png|center|50px]]
+|Firechad 1
+|647M
+|'''<span style="color:Indigo">778</span>'''
+|76.1T
+|119925
+| rowspan="3" | +8% Monster Cash [+passive]
+|-
+|Firechad 2
+|662M
+|'''<span style="color:Indigo">943</span>'''
+|82.1T
+|122165
+|-
+|Firechad 3
+|677M
+|'''<span style="color:Indigo">1145</span>'''
+|88.6T
+|124405
+|-
+| rowspan="3" |[[File:enemy-219.png|center|50px]]
+|Trombain 1
+|692M
+|'''<span style="color:Indigo">1394</span>'''
+|95.6T
+|126645
+| rowspan="3" | +8% Fish Gains [+passive]
+|-
+|Trombain 2
+|707M
+|'''<span style="color:Indigo">1700</span>'''
+|103T
+|128885
+|-
+|Trombain 3
+|723M
+|'''<span style="color:Indigo">2078</span>'''
+|109T
+|131125
+|-
+| rowspan="3" |[[File:enemy-220.png|center|50px]]
+|Occulaxe 1
+|738M
+|'''<span style="color:Indigo">2546</span>'''
+|115T
+|133365
+| rowspan="3" | +8% Raid Drop Luck [+passive]
+|-
+|Occulaxe 2
+|754M
+|'''<span style="color:Indigo">3125</span>'''
+|121T
+|135605
+|-
+|Occulaxe 3
+|770M
+|'''<span style="color:Indigo">3845</span>'''
+|128T
+|137845
+|-
+| rowspan="3" |[[File:enemy-221.png|center|50px]]
+|TZ Tok Zuk 1
+|738M
+|'''<span style="color:Indigo">4742</span>'''
+|115T
+|140085
+| rowspan="3" | +3% Ores From Mining [+passive]
+|-
+| TZ Tok Zuk 2
+|754M
+|'''<span style="color:Indigo">5859</span>'''
+|121T
+|142325
+|-
+| TZ Tok Zuk 3
+|770M
+|'''<span style="color:Indigo">7255</span>'''
+|128T
+|144565
+|-
+| rowspan="3" |[[File:enemy-222.png|center|50px]]
+|Cauteriz 1
+|738M
+|'''<span style="color:Indigo">9003</span>'''
+|115T
+|146805
+| rowspan="3" | +6 Pot Speed Upgrade Cap
+|-
+| Cauteriz 2
+|754M
+|'''<span style="color:Indigo">11196</span>'''
+|121T
+|149045
+|-
+| Cauteriz 3
+|770M
+|'''<span style="color:Indigo">13953</span>'''
+|128T
+|151285
+|-
+|[[File:enemy-223.png|center|50px]]
+|Disciple O
+|787M
+|'''<span style="color:Indigo">17426</span>'''
+|135T
+|153525
+|<nowiki>+20% Total Damage</nowiki>
+|-
+|[[File:enemy-224.png|center|50px]]
+|Keymaster O
+|804M
+|'''<span style="color:Indigo">21808</span>'''
+|143T
+|155765
+|<nowiki>+10% Kills per Defeat</nowiki>
+|-
+|[[File:enemy-225.png|center|50px]]
+|Glitch 1
+|821M
+|'''<span style="color:Indigo">27351</span>'''
+|151T
+|158005
+|<nowiki>+15% Ore and Fish Gains (additive)</nowiki>
+|-
+| style="text-align: center;" | -
+|Glitch 2
+|838M
+|'''<span style="color:Indigo">34374</span>'''
+|159T
+|160245
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 3
+|855M
+|'''<span style="color:Indigo">43290</span>'''
+|168T
+|162485
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 4
+|873M
+|'''<span style="color:Indigo">54634</span>'''
+|177T
+|164725
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 5
+|891M
+|'''<span style="color:Indigo">69095</span>'''
+|187T
+|166965
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 6
+|909M
+|'''<span style="color:Indigo">87564</span>'''
+|196T
+|169205
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 7
+|928M
+|'''<span style="color:Indigo">111200</span>'''
+|207T
+|171445
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 8
+|947M
+|'''<span style="color:Indigo">141508</span>'''
+|218T
+|173685
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 9
+|966M
+|'''<span style="color:Indigo">180447</span>'''
+|229T
+|175925
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 10
+|985M
+|'''<span style="color:Indigo">230576</span>'''
+|241T
+|178165
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 11
+|1005M
+|'''<span style="color:Indigo">295234</span>'''
+|253T
+|180405
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 12
+|1025M
+|'''<span style="color:Indigo">378797</span>'''
+|266T
+|182645
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 13
+|1045M
+|'''<span style="color:Indigo">487003</span>'''
+|280T
+|184885
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 14
+|1066M
+|'''<span style="color:Indigo">627392</span>'''
+|294T
+|187125
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 15
+|1087M
+|'''<span style="color:Indigo">809892</span>'''
+|308T
+|189365
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 16
+|1108M
+|'''<span style="color:Indigo">1.04M</span>'''
+|323T
+|191605
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 17
+|1130M
+|'''<span style="color:Indigo">1.35M</span>'''
+|339T
+|193845
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 18
+|1152M
+|'''<span style="color:Indigo">1.76M</span>'''
+|356T
+|196085
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 19
+|1174M
+|'''<span style="color:Indigo">2.29M</span>'''
+|373T
+|198325
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 20
+|1196M
+|'''<span style="color:Indigo">2.99M</span>'''
+|390T
+|200565
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 21
+|1219M
+|'''<span style="color:Indigo">3.9M</span>'''
+|409T
+|202805
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 22
+|1242M
+|'''<span style="color:Indigo">5.11M</span>'''
+|428T
+|205045
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 23
+|1266M
+|'''<span style="color:Indigo">6.71M</span>'''
+|448T
+|207285
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 24
+|1290M
+|'''<span style="color:Indigo">8.82M</span>'''
+|469T
+|209525
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 25
+|1314M
+|'''<span style="color:Indigo">11.6M</span>'''
+|491T
+|211765
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 26
+|1339M
+|'''<span style="color:Indigo">15.3M</span>'''
+|513T
+|214005
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 27
+|1364M
+|'''<span style="color:Indigo">20.2M</span>'''
+|536T
+|216245
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 28
+|1389M
+|'''<span style="color:Indigo">26.8M</span>'''
+|560T
+|218485
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 29
+|1415M
+|'''<span style="color:Indigo">35.6M</span>'''
+|585T
+|220725
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 30
+|1441M
+|'''<span style="color:Indigo">47.4M</span>'''
+|611T
+|222965
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 31
+|1467M
+|'''<span style="color:Indigo">63.1M</span>'''
+|638T
+|225205
+| style="text-align: center;" | -
+|-
+| style="text-align: center;" | -
+|Glitch 32
+|1494M
+|'''<span style="color:Indigo">84.3M</span>'''
+|666T
+|
+| style="text-align: center;" | -
+|}
+[[Category:Zone]]
+[[Category:Fighting]]

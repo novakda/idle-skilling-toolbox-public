@@ -1,0 +1,147 @@
+title: $:/is/procedures
+tags: $:/tags/Global
+description: Shared procedures: data-table (table from a JSON data tiddler), entity-table (sortable list of entity tiddlers), explorer (faceted list), image-chips
+
+\whitespace trim
+
+\procedure image-chips(names)
+<$list filter="[<names>split[, ]]" variable="img">
+<span class="mw-img" title=`Image on the original wiki: $(img)$`><$text text={{{ [<img>splitregexp[\.\w+$]first[]search-replace:g[_],[ ]] }}}/></span>
+</$list>
+\end
+
+\procedure entity-sort-actions()
+<%if [<f>match<sf>] %>
+<$action-setfield $tiddler=<<state>> rev={{{ [<rev>match[yes]then[no]else[yes]] }}}/>
+<%else%>
+<$action-setfield $tiddler=<<state>> sort=<<f>> rev="no"/>
+<%endif%>
+\end
+
+\procedure entity-row()
+<tr>
+<$list filter="[enlist:raw<fields>]" variable="f" counter="i">
+<$let v={{{ [<currentTiddler>get<f>] }}}>
+<td class={{{ [<v>regexp<numre>then[num]] }}}>
+<%if [<f>match[name]] %>
+<$link><$text text=<<v>>/></$link>
+<%elseif [<f>match[source-page]] %>
+<$link to=<<v>>><$text text=<<v>>/></$link>
+<%elseif [<f>match[wiki-images]] %>
+<$transclude $variable="image-chips" names=<<v>>/>
+<%else%>
+<$text text=<<v>>/>
+<%endif%>
+</td>
+</$let>
+</$list>
+</tr>
+\end
+
+<!-- Table of entity tiddlers. filter: which tiddlers; fields/labels: title lists, same length; state: tiddler holding sort + rev.
+     Click a header to sort by it, click again to reverse. Columns with game numbers (5859K, 1.13B, 286QQ) sort by their n-<field> value. -->
+\procedure entity-table(filter, fields, labels, state, limit:"2000")
+<$let sf={{{ [<state>get[sort]else[row]] }}} rev={{{ [<state>get[rev]] }}} numre="^[-+]?[\d.,]+\s*[%A-Za-z]{0,3}$" total={{{ [subfilter<filter>count[]] }}}>
+<div class="is-tablewrap">
+<table class="is-list">
+<thead><tr>
+<$list filter="[enlist:raw<fields>]" variable="f" counter="i">
+<th class={{{ [<f>match<sf>then[is-sorted]] }}}>
+<$button class="tc-btn-invisible is-sort" actions=<<entity-sort-actions>> tooltip="Sort by this column; click again to reverse">
+<$text text={{{ [enlist:raw<labels>nth<i>] }}}/>
+<%if [<f>match<sf>] %><%if [<rev>match[yes]] %>&#32;▾<%else%>&#32;▴<%endif%><%endif%>
+</$button>
+</th>
+</$list>
+</tr></thead>
+<tbody>
+<$let nsf={{{ [<sf>addprefix[n-]] }}} isnum={{{ [subfilter<filter>has<nsf>first[]then[yes]] }}}>
+<%if [<isnum>match[yes]then<rev>match[yes]] %>
+<$list filter="[subfilter<filter>] :sort:number:reverse[get<nsf>else[-1e300]] +[limit<limit>]"><<entity-row>></$list>
+<%elseif [<isnum>match[yes]] %>
+<$list filter="[subfilter<filter>] :sort:number[get<nsf>else[-1e300]] +[limit<limit>]"><<entity-row>></$list>
+<%elseif [<rev>match[yes]] %>
+<$list filter="[subfilter<filter>] :sort:alphanumeric:reverse[get<sf>] +[limit<limit>]"><<entity-row>></$list>
+<%else%>
+<$list filter="[subfilter<filter>] :sort:alphanumeric[get<sf>] +[limit<limit>]"><<entity-row>></$list>
+<%endif%>
+</$let>
+</tbody>
+</table>
+</div>
+<%if [<total>compare:number:gt<limit>] %><p class="is-note">Showing&#32;<<limit>>&#32;of&#32;<<total>>&#32;rows; filter to narrow.</p><%endif%>
+</$let>
+\end
+
+<!-- Faceted explorer over one entity kind: text filter across all fields, one facet dropdown, sortable table. -->
+\procedure explorer(kind, fields, labels, facet, facetLabel)
+<$let qT=`$:/state/is/explore/$(kind)$/q` fT=`$:/state/is/explore/$(kind)$/facet` sT=`$:/state/is/explore/$(kind)$/sort`>
+<$let q={{{ [<qT>get[text]] }}} fv={{{ [<fT>get[text]] }}}
+      all="[tag<kind>search:*<q>]" one="[tag<kind>search:*<q>] :filter[get<facet>match<fv>]">
+<$let flt={{{ [<fv>!is[blank]then<one>else<all>] }}}>
+<div class="is-toolbar">
+<$edit-text tiddler=<<qT>> tag="input" class="is-input" placeholder="Filter rows (any field)" default=""/>
+<$select tiddler=<<fT>> default="" class="is-input">
+<option value="">All&#32;<$text text=<<facetLabel>>/></option>
+<$list filter="[tag<kind>each<facet>get<facet>sort[]]"><option value=<<currentTiddler>>><$text text=<<currentTiddler>>/></option></$list>
+</$select>
+<span class="is-count"><$text text={{{ [subfilter<flt>count[]] }}}/>&#32;rows</span>
+</div>
+<$transclude $variable="entity-table" filter=<<flt>> fields=<<fields>> labels=<<labels>> state=<<sT>> limit="300"/>
+</$let>
+</$let>
+</$let>
+\end
+
+\procedure data-row()
+<$let row={{{ [<src>getindex<r>] }}} rh={{{ [<row>jsonget[h]] }}}>
+<tr>
+<$list filter="[<row>jsonindexes[c]]" variable="i">
+<$let v={{{ [<row>jsonget[c],<i>] }}}>
+<%if [<i>match[0]then<rh>match[1]] %>
+<th><<v>></th>
+<%else%>
+<td class={{{ [<head>jsonget[num],<i>match[true]then[num]] }}}><<v>></td>
+<%endif%>
+</$let>
+</$list>
+</tr>
+</$let>
+\end
+
+<!-- Table from a JSON data tiddler (src): key "head" = {c: header cells, num: numeric columns}, keys 0..n = {c: cells (wikitext),
+     s: sort keys, h: 1 when the first cell is a row header}. Click a header to sort by it, again to reverse; numeric columns sort as numbers. -->
+\procedure data-table(src, state)
+<$let sf={{{ [<state>get[sort]else[row]] }}} rev={{{ [<state>get[rev]] }}} head={{{ [<src>getindex[head]] }}}
+      isnum={{{ [<head>jsonget[num],<sf>] }}} base="[<src>indexes[]] -[[head]] +[nsort[]]">
+<div class="is-tablewrap">
+<table class="is-list">
+<thead><tr>
+<$list filter="[<head>jsonindexes[c]]" variable="f">
+<th class={{{ [<f>match<sf>then[is-sorted]] }}}>
+<$button class="tc-btn-invisible is-sort" actions=<<entity-sort-actions>> tooltip="Sort by this column; click again to reverse">
+<$let v={{{ [<head>jsonget[c],<f>] }}}><<v>></$let>
+<%if [<f>match<sf>] %><%if [<rev>match[yes]] %>&#32;▾<%else%>&#32;▴<%endif%><%endif%>
+</$button>
+</th>
+</$list>
+</tr></thead>
+<tbody>
+<%if [<sf>match[row]then<rev>match[yes]] %>
+<$list filter="[subfilter<base>reverse[]]" variable="r"><<data-row>></$list>
+<%elseif [<sf>match[row]] %>
+<$list filter="[subfilter<base>]" variable="r"><<data-row>></$list>
+<%elseif [<isnum>match[true]then<rev>match[yes]] %>
+<$list filter="[subfilter<base>] :sort:number:reverse[<src>getindex<currentTiddler>jsonget[s],<sf>else[-1e300]]" variable="r"><<data-row>></$list>
+<%elseif [<isnum>match[true]] %>
+<$list filter="[subfilter<base>] :sort:number[<src>getindex<currentTiddler>jsonget[s],<sf>else[-1e300]]" variable="r"><<data-row>></$list>
+<%elseif [<rev>match[yes]] %>
+<$list filter="[subfilter<base>] :sort:alphanumeric:reverse[<src>getindex<currentTiddler>jsonget[s],<sf>]" variable="r"><<data-row>></$list>
+<%else%>
+<$list filter="[subfilter<base>] :sort:alphanumeric[<src>getindex<currentTiddler>jsonget[s],<sf>]" variable="r"><<data-row>></$list>
+<%endif%>
+</tbody>
+</table>
+</div>
+</$let>
+\end

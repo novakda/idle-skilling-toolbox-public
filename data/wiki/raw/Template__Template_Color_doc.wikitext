@@ -1,0 +1,28 @@
+<noinclude>{{Documentationpage}}</noinclude>
+Template for changing text foreground and background color. Accepts standard [[wikipedia:HTML color names|HTML color names]] or [[wikipedia:Web colors#Hex triplet|RGB hex triplets]].
+
+==Usage==
+<pre>{{color|red|text}}</pre>
+<pre>{{color|#FF0000|text}}</pre>
+<pre>{{color|red|text|bg=green}}</pre>
+
+Unless used on your user page, use with great caution as a poor contrast can make the text difficult to read. Be aware that this template does not change the color of links as these are determined by site or personal settings.
+
+===Parameters===
+{{Docparam|name=&lt;unnamed 1>|req=yes|default=|desc=
+[[wikipedia:HTML color names|HTML color name]] or [[wikipedia:Web colors#Hex triplet|RGB hex triplet]] of text foreground color.
+}}
+
+{{Docparam|name=&lt;unnamed 2>|req=yes|default=|desc=
+Text which should be colored.
+}}
+
+{{Docparam|name=bg|req=no|default=|desc=
+[[wikipedia:HTML color names|HTML color name]] or [[wikipedia:Web colors#Hex triplet|RGB hex triplet]] of text background color.
+}}
+
+==Examples==
+* <code><nowiki>{{color|red|text}}</nowiki></code> results in: {{color|red|text}}
+* <code><nowiki>{{color|#800080|text}}</nowiki></code> results in: {{color|#800080|text}}
+* <code><nowiki>{{color|yellow|text|bg=green}}</nowiki></code> results in: {{color|yellow|text|bg=green}}
+<includeonly>[[ja:Template:Color]]</includeonly>

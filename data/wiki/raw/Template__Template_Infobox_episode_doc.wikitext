@@ -1,0 +1,40 @@
+==Description==
+To use this template, copy the following code and fill in the appropriate fields.
+
+==Syntax==
+<pre>{{infobox episode
+ | title             = 
+ | partOfSeason      = 
+ | episodeNumber     = 
+ | image             = [e.g. "Example.jpg"]
+ | airdate           = 
+ | writer            = 
+ | director          = 
+ | previousEpisode   = 
+ | nextEpisode       = 
+}}</pre>
+
+==Sample output==
+{{infobox episode
+ | title             = Flower of Babel
+ | partOfSeason      = One
+ | episodeNumber     = Three
+ | image             = Example.jpg
+ | airdate           = Unaired
+ | writer            = D. Righta
+ | director          = A. di Rektour
+ | previousEpisode   = Episode Two
+ | nextEpisode       = Episode Four
+}}<pre>{{infobox episode
+ | title             = Flower of Babel
+ | partOfSeason      = One
+ | episodeNumber     = Three
+ | image             = Example.jpg
+ | airdate           = Unaired
+ | writer            = D. Righta
+ | director          = A. di Rektour
+ | previousEpisode   = Episode Two
+ | nextEpisode       = Episode Four
+}}</pre>
+
+<includeonly>[[Category:Templates|{{PAGENAME}}]][[Category:Templates/Infobox|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

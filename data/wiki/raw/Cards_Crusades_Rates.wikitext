@@ -1,0 +1,133 @@
+{| class="article-table" style="width: 100%;text-align:center;" align="center" border="1"
+! style="text-align: center;" rowspan="3" |[[File:Crusades_icon.png|center|link=Crusades]]
+! style="text-align: center;" colspan="3" | Idle fight
+! style="text-align: center;" colspan="4" | Active fight
+|-
+! style="text-align: center;" rowspan="2" | Victory cap
+! style="text-align: center;" rowspan="2" | Monster chance at cap<br />(1 in)
+! style="text-align: center;" rowspan="2" | Boss chance at cap<br />(1 in)
+! style="text-align: center;width:25%;" colspan="2" | Monster chance (1 in)
+! style="text-align: center;width:25%;" colspan="2" | Boss chance (1 in)
+|-
+! style="text-align: center;font-size:75%;" | at 100%<br />fight bonus
+! style="text-align: center;font-size:75%;" | at 0%<br />fight bonus
+! style="text-align: center;font-size:75%;" | at 100%<br />fight bonus
+! style="text-align: center;font-size:75%;" | at 0%<br />fight bonus
+|-
+|[[File:C_the_bruiser.png|36px]]
+|288
+|3
+|45
+|250
+|1250
+|500
+|2500
+|-
+|[[File:C_toxic_sludge.png|36px]]
+|264
+|4
+|60
+|250
+|1250
+|500
+|2500
+|-
+|[[File:C_killer_rabbit.png|36px]]
+|232
+|4
+|60
+|250
+|1250
+|500
+|2500
+|-
+|[[File:C_desert_giant.png|36px]]
+|208
+|4
+|60
+|500
+|2500
+|500
+|2500
+|-
+|[[File:C_pincermin.png|36px]]
+|176
+|5
+|75
+|500
+|2500
+|1000
+|5000
+|-
+|[[File:C_tremor_wurm.png|36px]]
+|152
+|6
+|90
+|500
+|2500
+|1000
+|5000
+|-
+|[[File:C_faust.png|36px]]
+|120
+|7
+|105
+|750
+|3750
+|1000
+|5000
+|-
+|[[File:C_arachneon.png|36px]]
+|96
+|9
+|135
+|750
+|3750
+|1000
+|5000
+|-
+|[[File:C_gheist.png|36px]]
+|64
+|13
+|195
+|750
+|3750
+|1500
+|7500
+|-
+|[[File:C_basilisk.png|36px]]
+|40
+|20
+|300
+|1000
+|5000
+|1500
+|7500
+|-
+|[[File:C_blobulytes.png|36px]]
+|24
+|34
+|510
+|1000
+|5000
+|1500
+|7500
+|-
+|[[File:C_puppeteer.png|36px]]
+|24
+|34
+|510
+|1000
+|5000
+|1500
+|7500
+|-
+|[[File:C_narcissus.png|36px]]
+|16
+|50
+|750
+|1250
+|6250
+|2000
+|10000
+|}

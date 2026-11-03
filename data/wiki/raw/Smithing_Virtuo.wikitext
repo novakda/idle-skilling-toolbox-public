@@ -1,0 +1,75 @@
+{| class="listing sortable" border="0" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Rubillic_trinket.png|center]]
+| style="text-align: center;" |40
+|Rubillic Trinket
+| +3.5%
+| Damage
+|[[File:Ruby.png|center]]
+|[[File:Angler_fish.png|center]]
+|-
+|[[File:Crystalline_ripper.png|center]]
+| style="text-align: center;" |40
+|Crystalline Ripper
+| +100
+| Base Damage
+|[[File:Ruby.png|center]]
+|[[File:Pink_swordfish.png|center]]
+|-
+|[[File:Enigmatic_booster.png|center]]
+| style="text-align: center;" |40
+|Enigmatic Booster
+| +2%
+| Value from all Secrets
+|[[File:Refractium.png|center]]
+|[[File:Yellow_grouper.png|center|43px]]
+|-
+|[[File:Major_investment.png|center]]
+| style="text-align: center;" |40
+|Major Investment
+| +400
+| Cash every Minute
+|[[File:Refractium.png|center]]
+|[[File:Puffer_fish.png|center]]
+|-
+|[[File:Turbo_reps.png|center]]
+| style="text-align: center;" |40
+|Turbo Reps
+| +2%
+| Rep Speed (caps at 50k crafts)
+|[[File:Refractium.png|center]]
+|[[File:Crystalfish.png|center]]
+|-
+|[[File:Fractal_armor.png|center]]
+| style="text-align: center;" |40
+|Fractal Armor
+| -0.1%
+| Monster Damage
+|[[File:Refractium.png|center]]
+|[[File:Ruby.png|center]]
+|-
+|[[File:Rainbow_rod.png|center]]
+| style="text-align: center;" |40
+|Rainbow Rod
+| +50
+| Fishing Power
+|[[File:Refractium.png|center]]
+|[[File:Crystalfish.png|center]]
+|-
+|[[File:Rubium_dusters.png|center]]
+| style="text-align: center;" |40
+|Rubium Dusters
+| +2.5%
+| Crit Damage
+|[[File:Ruby.png|center]]
+|[[File:Crystalfish.png|center]]
+|}
+
+[[Category:Smithing]]

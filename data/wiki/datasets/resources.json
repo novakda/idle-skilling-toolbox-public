@@ -1,0 +1,6955 @@
+[
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Copper",
+  "Mining Level Required / Miner 1": 1,
+  "Mining Level Required / Miner 2": 1,
+  "Mining Level Required / Miner 3": 1,
+  "Mining Level Required / Miner 4": 1,
+  "Mining Level Required / Miner 5": 1,
+  "Mining Level Required / Miner 6": 1,
+  "_images": [
+   "Copper.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Iron",
+  "Mining Level Required / Miner 1": 5,
+  "Mining Level Required / Miner 2": 7,
+  "Mining Level Required / Miner 3": 9,
+  "Mining Level Required / Miner 4": 11,
+  "Mining Level Required / Miner 5": 13,
+  "Mining Level Required / Miner 6": 15,
+  "_images": [
+   "Iron.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Gold",
+  "Mining Level Required / Miner 1": 10,
+  "Mining Level Required / Miner 2": 12,
+  "Mining Level Required / Miner 3": 14,
+  "Mining Level Required / Miner 4": 16,
+  "Mining Level Required / Miner 5": 18,
+  "Mining Level Required / Miner 6": 20,
+  "_images": [
+   "Gold.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Platinum",
+  "Mining Level Required / Miner 1": 15,
+  "Mining Level Required / Miner 2": 17,
+  "Mining Level Required / Miner 3": 19,
+  "Mining Level Required / Miner 4": 21,
+  "Mining Level Required / Miner 5": 23,
+  "Mining Level Required / Miner 6": 25,
+  "_images": [
+   "Platinum.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Cobalt",
+  "Mining Level Required / Miner 1": 20,
+  "Mining Level Required / Miner 2": 22,
+  "Mining Level Required / Miner 3": 24,
+  "Mining Level Required / Miner 4": 26,
+  "Mining Level Required / Miner 5": 28,
+  "Mining Level Required / Miner 6": 30,
+  "_images": [
+   "Cobalt.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Firesalt",
+  "Mining Level Required / Miner 1": 25,
+  "Mining Level Required / Miner 2": 27,
+  "Mining Level Required / Miner 3": 29,
+  "Mining Level Required / Miner 4": 31,
+  "Mining Level Required / Miner 5": 33,
+  "Mining Level Required / Miner 6": 35,
+  "_images": [
+   "Firesalt.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Effluvium",
+  "Mining Level Required / Miner 1": 30,
+  "Mining Level Required / Miner 2": 32,
+  "Mining Level Required / Miner 3": 34,
+  "Mining Level Required / Miner 4": 36,
+  "Mining Level Required / Miner 5": 38,
+  "Mining Level Required / Miner 6": 40,
+  "_images": [
+   "Effluvium.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Antimatter",
+  "Mining Level Required / Miner 1": 35,
+  "Mining Level Required / Miner 2": 37,
+  "Mining Level Required / Miner 3": 39,
+  "Mining Level Required / Miner 4": 41,
+  "Mining Level Required / Miner 5": 43,
+  "Mining Level Required / Miner 6": 45,
+  "_images": [
+   "Antimatter.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Ruby",
+  "Mining Level Required / Miner 1": 40,
+  "Mining Level Required / Miner 2": 42,
+  "Mining Level Required / Miner 3": 44,
+  "Mining Level Required / Miner 4": 46,
+  "Mining Level Required / Miner 5": 48,
+  "Mining Level Required / Miner 6": 50,
+  "_images": [
+   "Ruby.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Refractium",
+  "Mining Level Required / Miner 1": 45,
+  "Mining Level Required / Miner 2": 47,
+  "Mining Level Required / Miner 3": 49,
+  "Mining Level Required / Miner 4": 51,
+  "Mining Level Required / Miner 5": 53,
+  "Mining Level Required / Miner 6": 55,
+  "_images": [
+   "Refractium.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Dubloonium",
+  "Mining Level Required / Miner 1": 50,
+  "Mining Level Required / Miner 2": 52,
+  "Mining Level Required / Miner 3": 54,
+  "Mining Level Required / Miner 4": 56,
+  "Mining Level Required / Miner 5": 58,
+  "Mining Level Required / Miner 6": 60,
+  "_images": [
+   "Dubloonium.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Glume",
+  "Mining Level Required / Miner 1": 55,
+  "Mining Level Required / Miner 2": 57,
+  "Mining Level Required / Miner 3": 59,
+  "Mining Level Required / Miner 4": 61,
+  "Mining Level Required / Miner 5": 63,
+  "Mining Level Required / Miner 6": 65,
+  "_images": [
+   "Glume.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Plument",
+  "Mining Level Required / Miner 1": 60,
+  "Mining Level Required / Miner 2": 62,
+  "Mining Level Required / Miner 3": 64,
+  "Mining Level Required / Miner 4": 66,
+  "Mining Level Required / Miner 5": 68,
+  "Mining Level Required / Miner 6": 70,
+  "_images": [
+   "Plument.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Figmentation",
+  "Mining Level Required / Miner 1": 65,
+  "Mining Level Required / Miner 2": 67,
+  "Mining Level Required / Miner 3": 69,
+  "Mining Level Required / Miner 4": 71,
+  "Mining Level Required / Miner 5": 73,
+  "Mining Level Required / Miner 6": 75,
+  "_images": [
+   "Figmentation.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Demonite",
+  "Mining Level Required / Miner 1": 70,
+  "Mining Level Required / Miner 2": 72,
+  "Mining Level Required / Miner 3": 74,
+  "Mining Level Required / Miner 4": 76,
+  "Mining Level Required / Miner 5": 78,
+  "Mining Level Required / Miner 6": 80,
+  "_images": [
+   "Demonite.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Godshard",
+  "Mining Level Required / Miner 1": 75,
+  "Mining Level Required / Miner 2": 77,
+  "Mining Level Required / Miner 3": 79,
+  "Mining Level Required / Miner 4": 81,
+  "Mining Level Required / Miner 5": 83,
+  "Mining Level Required / Miner 6": 85,
+  "_images": [
+   "Godshard.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Warpium",
+  "Mining Level Required / Miner 1": 87,
+  "Mining Level Required / Miner 2": 89,
+  "Mining Level Required / Miner 3": 91,
+  "Mining Level Required / Miner 4": 93,
+  "Mining Level Required / Miner 5": 95,
+  "Mining Level Required / Miner 6": 97,
+  "_images": [
+   "Warpium.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Anodizia",
+  "Mining Level Required / Miner 1": 99,
+  "Mining Level Required / Miner 2": 101,
+  "Mining Level Required / Miner 3": 103,
+  "Mining Level Required / Miner 4": 105,
+  "Mining Level Required / Miner 5": 107,
+  "Mining Level Required / Miner 6": 109,
+  "_images": [
+   "Anodizia.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Gummi",
+  "Mining Level Required / Miner 1": 111,
+  "Mining Level Required / Miner 2": 113,
+  "Mining Level Required / Miner 3": 115,
+  "Mining Level Required / Miner 4": 117,
+  "Mining Level Required / Miner 5": 119,
+  "Mining Level Required / Miner 6": 121,
+  "_images": [
+   "Gummi.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mining",
+  "_table": 0,
+  "Ores_2": "Djinn",
+  "Mining Level Required / Miner 1": 123,
+  "Mining Level Required / Miner 2": 125,
+  "Mining Level Required / Miner 3": 127,
+  "Mining Level Required / Miner 4": 129,
+  "Mining Level Required / Miner 5": 131,
+  "Mining Level Required / Miner 6": 133,
+  "_images": [
+   "Djinn.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Small Fish",
+  "_table": 1,
+  "Name": "Old Boot",
+  "Level Required": 1,
+  "Name_2": "Red Herring",
+  "Level Required_2": 24,
+  "_images": [
+   "Old_shoe.png",
+   "Red_herring.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Small Fish",
+  "_table": 1,
+  "Name": "Tin Can",
+  "Level Required": 1,
+  "Name_2": "Sword Fish",
+  "Level Required_2": 30,
+  "_images": [
+   "Tin_can.png",
+   "Sword_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Small Fish",
+  "_table": 1,
+  "Name": "Minnow",
+  "Level Required": 1,
+  "Name_2": "Ice Cube Fish",
+  "Level Required_2": 36,
+  "_images": [
+   "Minnow.png",
+   "Ice_cube_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Small Fish",
+  "_table": 1,
+  "Name": "Small Tuna",
+  "Level Required": 1,
+  "Name_2": "Puffer Fish",
+  "Level Required_2": 42,
+  "_images": [
+   "Small_tuna.png",
+   "Puffer_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Small Fish",
+  "_table": 1,
+  "Name": "Jellyfish",
+  "Level Required": 6,
+  "Name_2": "Crystal Fish",
+  "Level Required_2": 48,
+  "_images": [
+   "Jellyfish.png",
+   "Crystalfish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Small Fish",
+  "_table": 1,
+  "Name": "Medium Yellow Fish",
+  "Level Required": 12,
+  "Name_2": "Bobbit Worm",
+  "Level Required_2": 54,
+  "_images": [
+   "Medium_yellow_fish.png",
+   "Bobbit_worm.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Small Fish",
+  "_table": 1,
+  "Name": "Chainmail Fish",
+  "Level Required": 18,
+  "Name_2": "Dollar Fish",
+  "Level Required_2": 60,
+  "_images": [
+   "Chainmailfish.png",
+   "Dollar_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Medium Fish",
+  "_table": 2,
+  "Name": "Angler Fish",
+  "Level Required": 1,
+  "Name_2": "Pink Swordfish",
+  "Level Required_2": 40,
+  "_images": [
+   "Angler_fish.png",
+   "Pink_swordfish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Medium Fish",
+  "_table": 2,
+  "Name": "Lobster",
+  "Level Required": 8,
+  "Name_2": "Snail Fish",
+  "Level Required_2": 48,
+  "_images": [
+   "Lobster.png",
+   "Snail_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Medium Fish",
+  "_table": 2,
+  "Name": "Bonefish",
+  "Level Required": 16,
+  "Name_2": "Hammerhead Shark",
+  "Level Required_2": 56,
+  "_images": [
+   "Bonefish.png",
+   "Hammerhead_shark.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Medium Fish",
+  "_table": 2,
+  "Name": "Blue Shark",
+  "Level Required": 24,
+  "Name_2": "Yellow Gulper",
+  "Level Required_2": 64,
+  "_images": [
+   "Blue_shark.png",
+   "Yellow_gulper.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Medium Fish",
+  "_table": 2,
+  "Name": "Yellow Fin Tuna",
+  "Level Required": 32,
+  "Name_2": "Pike Fish",
+  "Level Required_2": 72,
+  "_images": [
+   "Yellow_fin_tuna.png",
+   "Pike_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Large Fish",
+  "_table": 3,
+  "Name": "Giant Sea Urchin",
+  "Level Required": 1,
+  "Name_2": "Giant Sea Serpent",
+  "Level Required_2": 45,
+  "_images": [
+   "Giant_sea_urchin.png",
+   "Giant_sea_serpent.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Large Fish",
+  "_table": 3,
+  "Name": "Manta Ray",
+  "Level Required": 15,
+  "Name_2": "Kraken",
+  "Level Required_2": 60,
+  "_images": [
+   "Manta_ray.png",
+   "Kraken.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Large Fish",
+  "_table": 3,
+  "Name": "Yellow Grouper",
+  "Level Required": 30,
+  "Name_2": "Jumbo Shrimp",
+  "Level Required_2": 75,
+  "_images": [
+   "Yellow_grouper.png",
+   "Jumbo_shrimp.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Trainee",
+  "_table": 4,
+  "Req.": 1,
+  "Item Name": "Copper Trinket",
+  "Amt.": "+0.5%",
+  "Bonus per Level": "Damage",
+  "Resources Needed_2": "-",
+  "_images": [
+   "Copper_trinket.png",
+   "Copper.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Trainee",
+  "_table": 4,
+  "Req.": 1,
+  "Item Name": "Broken Dagger",
+  "Amt.": 5,
+  "Amt._raw": "+5",
+  "Bonus per Level": "Base Damage",
+  "Resources Needed_2": "-",
+  "_images": [
+   "Broken_dagger.png",
+   "Copper.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Trainee",
+  "_table": 4,
+  "Req.": 1,
+  "Item Name": "Fishwich",
+  "Amt.": 6,
+  "Amt._raw": "+6",
+  "Bonus per Level": "HP every Bite",
+  "_images": [
+   "Fishwich.png",
+   "Copper.png",
+   "Small_tuna.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Trainee",
+  "_table": 4,
+  "Req.": 1,
+  "Item Name": "Petty Theft",
+  "Amt.": "+2%",
+  "Bonus per Level": "Cash from Enemies",
+  "_images": [
+   "Petty_theft.png",
+   "Copper.png",
+   "Iron.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Trainee",
+  "_table": 4,
+  "Req.": 1,
+  "Item Name": "Reinforced EXP",
+  "Amt.": "+0.1%",
+  "Bonus per Level": "EXP Gain Chance",
+  "_images": [
+   "Reinforced_exp.png",
+   "Iron.png",
+   "Tin_can.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Trainee",
+  "_table": 4,
+  "Req.": 1,
+  "Item Name": "Steel Stomach",
+  "Amt.": 10,
+  "Amt._raw": "+10",
+  "Bonus per Level": "Base Max. HP",
+  "Resources Needed_2": "-",
+  "_images": [
+   "Steel_stomach.png",
+   "Iron.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Trainee",
+  "_table": 4,
+  "Req.": 1,
+  "Item Name": "Iron Rod",
+  "Amt.": 10,
+  "Amt._raw": "+10",
+  "Bonus per Level": "Fishing Power",
+  "_images": [
+   "Iron_rod.png",
+   "Iron.png",
+   "Old_shoe.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Trainee",
+  "_table": 4,
+  "Req.": 1,
+  "Item Name": "Copper Dusters",
+  "Amt.": "+0.75%",
+  "Bonus per Level": "Crit Damage",
+  "_images": [
+   "Copper_dusters.png",
+   "Copper.png",
+   "Old_shoe.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Novice",
+  "_table": 5,
+  "Req.": 10,
+  "Item Name": "Platinum Trinket",
+  "Amt.": "+0.75%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Platinum_trinket.png",
+   "Platinum.png",
+   "Jellyfish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Novice",
+  "_table": 5,
+  "Req.": 10,
+  "Item Name": "Longsword",
+  "Amt.": 10,
+  "Amt._raw": "+10",
+  "Bonus per Level": "Base Damage",
+  "_images": [
+   "Longsword.png",
+   "Gold.png",
+   "Medium_yellow_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Novice",
+  "_table": 5,
+  "Req.": 10,
+  "Item Name": "Jellyfish Noodles",
+  "Amt.": 15,
+  "Amt._raw": "+15",
+  "Bonus per Level": "HP every Bite",
+  "_images": [
+   "Jellyfish_noodles.png",
+   "Jellyfish.png",
+   "Chainmailfish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Novice",
+  "_table": 5,
+  "Req.": 10,
+  "Item Name": "Pilfering",
+  "Amt.": "+3%",
+  "Bonus per Level": "Cash from Enemies",
+  "_images": [
+   "Pilfering.png",
+   "Gold.png",
+   "Medium_yellow_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Novice",
+  "_table": 5,
+  "Req.": 10,
+  "Item Name": "Fast Reps",
+  "Amt.": "+0.5%",
+  "Bonus per Level": "Rep Speed (caps at 50k crafts)",
+  "_images": [
+   "Fast_reps.png",
+   "Gold.png",
+   "Platinum.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Novice",
+  "_table": 5,
+  "Req.": 10,
+  "Item Name": "Golden Armor",
+  "Amt.": "-0.08%",
+  "Bonus per Level": "Monster Damage",
+  "_images": [
+   "Golden_armor.png",
+   "Tin_can.png",
+   "Chainmailfish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Novice",
+  "_table": 5,
+  "Req.": 10,
+  "Item Name": "Fish Bundle",
+  "Amt.": "+3%",
+  "Bonus per Level": "Fish per Catch",
+  "_images": [
+   "Fish_bundle.png",
+   "Platinum.png",
+   "Small_tuna.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Novice",
+  "_table": 5,
+  "Req.": 10,
+  "Item Name": "Battle Boots",
+  "Amt.": "+0.5%",
+  "Bonus per Level": "Idle Attack Speed",
+  "_images": [
+   "Battle_boots.png",
+   "Platinum.png",
+   "Old_shoe.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Skilled",
+  "_table": 6,
+  "Req.": 20,
+  "Item Name": "Cobalt Trinket",
+  "Amt.": "+1.25%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Cobalt_trinket.png",
+   "Cobalt.png",
+   "Platinum.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Skilled",
+  "_table": 6,
+  "Req.": 20,
+  "Item Name": "Imbued Scimitar",
+  "Amt.": 25,
+  "Amt._raw": "+25",
+  "Bonus per Level": "Base Damage",
+  "_images": [
+   "Imbued_scimitar.png",
+   "Cobalt.png",
+   "Blue_shark.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Skilled",
+  "_table": 6,
+  "Req.": 20,
+  "Item Name": "Blacksmith Pills",
+  "Amt.": "-",
+  "Bonus per Level": "May Cause Fever Dreams",
+  "_images": [
+   "Blacksmith_pills.png",
+   "Red_herring.png",
+   "Ice_cube_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Skilled",
+  "_table": 6,
+  "Req.": 20,
+  "Item Name": "Minor Investment",
+  "Amt.": 30,
+  "Amt._raw": "+30",
+  "Bonus per Level": "Cash every Minute",
+  "Resources Needed_2": "-",
+  "_images": [
+   "Minor_investment.png",
+   "Firesalt.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Skilled",
+  "_table": 6,
+  "Req.": 20,
+  "Item Name": "Lava Liver",
+  "Amt.": 50,
+  "Amt._raw": "+50",
+  "Bonus per Level": "Base Max. HP",
+  "_images": [
+   "Lava_liver.png",
+   "Firesalt.png",
+   "Medium_yellow_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Skilled",
+  "_table": 6,
+  "Req.": 20,
+  "Item Name": "Firestone EXP",
+  "Amt.": "+0.2%",
+  "Bonus per Level": "EXP Gain Chance",
+  "_images": [
+   "Firestone_exp.png",
+   "Firesalt.png",
+   "Lobster.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Skilled",
+  "_table": 6,
+  "Req.": 20,
+  "Item Name": "Cobalt Rod",
+  "Amt.": 15,
+  "Amt._raw": "+15",
+  "Bonus per Level": "Fishing Power",
+  "_images": [
+   "Cobalt_rod.png",
+   "Cobalt.png",
+   "Bonefish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Skilled",
+  "_table": 6,
+  "Req.": 20,
+  "Item Name": "Cobalt Pendant",
+  "Amt.": "+0.25%",
+  "Bonus per Level": "Crit Chance",
+  "_images": [
+   "Cobalt_pendant.png",
+   "Cobalt.png",
+   "Blue_shark.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Adept",
+  "_table": 7,
+  "Req.": 30,
+  "Item Name": "Effluvium Trinket",
+  "Amt.": "+2%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Effluvium_trinket.png",
+   "Effluvium.png",
+   "Yellow_fin_tuna.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Adept",
+  "_table": 7,
+  "Req.": 30,
+  "Item Name": "Stabby Thing",
+  "Amt.": 50,
+  "Amt._raw": "+50",
+  "Bonus per Level": "Base Damage",
+  "_images": [
+   "Stabby_thing.png",
+   "Effluvium.png",
+   "Sword_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Adept",
+  "_table": 7,
+  "Req.": 30,
+  "Item Name": "Angler Cuts",
+  "Amt.": 50,
+  "Amt._raw": "+50",
+  "Bonus per Level": "HP Every Bite",
+  "_images": [
+   "Angler_cuts.png",
+   "Angler_fish.png",
+   "Lobster.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Adept",
+  "_table": 7,
+  "Req.": 30,
+  "Item Name": "Plunder Meister",
+  "Amt.": "+6%",
+  "Bonus per Level": "Cash from Enemies",
+  "_images": [
+   "Plunder_meister.png",
+   "Effluvium.png",
+   "Puffer_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Adept",
+  "_table": 7,
+  "Req.": 30,
+  "Item Name": "Rapid Reps",
+  "Amt.": "+1%",
+  "Bonus per Level": "Rep Speed (caps at 50k crafts)",
+  "_images": [
+   "Rapid_reps.png",
+   "Antimatter.png",
+   "Bonefish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Adept",
+  "_table": 7,
+  "Req.": 30,
+  "Item Name": "Effluvium Armor",
+  "Amt.": "-0.1%",
+  "Bonus per Level": "Monster Damage",
+  "_images": [
+   "Effluvium_armor.png",
+   "Effluvium.png",
+   "Chainmailfish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Adept",
+  "_table": 7,
+  "Req.": 30,
+  "Item Name": "Void Mining Kit",
+  "Amt.": "+25%",
+  "Bonus per Level": "Ores Mined",
+  "_images": [
+   "Void_mining_kit.png",
+   "Antimatter.png",
+   "Blue_shark.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Adept",
+  "_table": 7,
+  "Req.": 30,
+  "Item Name": "Facestompers",
+  "Amt.": "+1.5%",
+  "Bonus per Level": "Idle Attack Damage",
+  "_images": [
+   "Face stompers.png",
+   "Antimatter.png",
+   "Pink_swordfish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Virtuo",
+  "_table": 8,
+  "Req.": 40,
+  "Item Name": "Rubillic Trinket",
+  "Amt.": "+3.5%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Rubillic_trinket.png",
+   "Ruby.png",
+   "Angler_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Virtuo",
+  "_table": 8,
+  "Req.": 40,
+  "Item Name": "Crystalline Ripper",
+  "Amt.": 100,
+  "Amt._raw": "+100",
+  "Bonus per Level": "Base Damage",
+  "_images": [
+   "Crystalline_ripper.png",
+   "Ruby.png",
+   "Pink_swordfish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Virtuo",
+  "_table": 8,
+  "Req.": 40,
+  "Item Name": "Enigmatic Booster",
+  "Amt.": "+2%",
+  "Bonus per Level": "Value from all Secrets",
+  "_images": [
+   "Enigmatic_booster.png",
+   "Refractium.png",
+   "Yellow_grouper.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Virtuo",
+  "_table": 8,
+  "Req.": 40,
+  "Item Name": "Major Investment",
+  "Amt.": 400,
+  "Amt._raw": "+400",
+  "Bonus per Level": "Cash every Minute",
+  "_images": [
+   "Major_investment.png",
+   "Refractium.png",
+   "Puffer_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Virtuo",
+  "_table": 8,
+  "Req.": 40,
+  "Item Name": "Turbo Reps",
+  "Amt.": "+2%",
+  "Bonus per Level": "Rep Speed (caps at 50k crafts)",
+  "_images": [
+   "Turbo_reps.png",
+   "Refractium.png",
+   "Crystalfish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Virtuo",
+  "_table": 8,
+  "Req.": 40,
+  "Item Name": "Fractal Armor",
+  "Amt.": "-0.1%",
+  "Bonus per Level": "Monster Damage",
+  "_images": [
+   "Fractal_armor.png",
+   "Refractium.png",
+   "Ruby.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Virtuo",
+  "_table": 8,
+  "Req.": 40,
+  "Item Name": "Rainbow Rod",
+  "Amt.": 50,
+  "Amt._raw": "+50",
+  "Bonus per Level": "Fishing Power",
+  "_images": [
+   "Rainbow_rod.png",
+   "Refractium.png",
+   "Crystalfish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Virtuo",
+  "_table": 8,
+  "Req.": 40,
+  "Item Name": "Rubium Dusters",
+  "Amt.": "+2.5%",
+  "Bonus per Level": "Crit Damage",
+  "_images": [
+   "Rubium_dusters.png",
+   "Ruby.png",
+   "Crystalfish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Master",
+  "_table": 9,
+  "Req.": 50,
+  "Item Name": "Dubloon Trinket",
+  "Amt.": "+5%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Dubloon_trinket.png",
+   "Dubloonium.png",
+   "Bobbit_worm.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Master",
+  "_table": 9,
+  "Req.": 50,
+  "Item Name": "And My Axe",
+  "Amt.": 2750,
+  "Amt._raw": "+2750",
+  "Bonus per Level": "Base Damage",
+  "_images": [
+   "And_my_axe.png",
+   "Dubloonium.png",
+   "Giant_sea_urchin.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Master",
+  "_table": 9,
+  "Req.": 50,
+  "Item Name": "Fished Corn",
+  "Amt.": 200,
+  "Amt._raw": "+200",
+  "Bonus per Level": "HP Every Bite",
+  "_images": [
+   "Fished_corn.png",
+   "Pike_fish.png",
+   "Yellow_gulper.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Master",
+  "_table": 9,
+  "Req.": 50,
+  "Item Name": "Looter Lord",
+  "Amt.": "+10%",
+  "Bonus per Level": "Cash from Enemies",
+  "_images": [
+   "Looter_lord.png",
+   "Glume.png",
+   "Dollar_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Master",
+  "_table": 9,
+  "Req.": 50,
+  "Item Name": "Blessed Experience",
+  "Amt.": "+0.5%",
+  "Bonus per Level": "EXP Gain Chance",
+  "_images": [
+   "Blessed_experience.png",
+   "Dubloonium.png",
+   "Yellow_gulper.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Master",
+  "_table": 9,
+  "Req.": 50,
+  "Item Name": "Languished Lungs",
+  "Amt.": 350,
+  "Amt._raw": "+350",
+  "Bonus per Level": "Base Max. HP",
+  "_images": [
+   "Languished_lungs.png",
+   "Glume.png",
+   "Manta_ray.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Master",
+  "_table": 9,
+  "Req.": 50,
+  "Item Name": "Dubaroo Kit",
+  "Amt.": "+50%",
+  "Bonus per Level": "Ores Mined",
+  "_images": [
+   "Dubaroo_kit.png",
+   "Dubloonium.png",
+   "Yellow_gulper.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Master",
+  "_table": 9,
+  "Req.": 50,
+  "Item Name": "Tech Skippers",
+  "Amt.": "+2%",
+  "Bonus per Level": "Idle Attack Speed",
+  "_images": [
+   "Tech_skippers.png",
+   "Dubloonium.png",
+   "Glume.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Legend",
+  "_table": 10,
+  "Req.": 60,
+  "Item Name": "Plumentine Trinket",
+  "Amt.": "+8%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Plumentine_trinket.png",
+   "Plument.png",
+   "Hammerhead_shark.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Legend",
+  "_table": 10,
+  "Req.": 60,
+  "Item Name": "Big Ol' Sword",
+  "Amt.": 500,
+  "Amt._raw": "+500",
+  "Bonus per Level": "Base Damage",
+  "_images": [
+   "Big_ol_sword.png",
+   "Plument.png",
+   "Giant_sea_urchin.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Legend",
+  "_table": 10,
+  "Req.": 60,
+  "Item Name": "Flapjacks",
+  "Amt.": 400,
+  "Amt._raw": "+400",
+  "Bonus per Level": "HP Every BIte",
+  "_images": [
+   "Flapjacks.png",
+   "Yellow_gulper.png",
+   "Giant_sea_serpent.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Legend",
+  "_table": 10,
+  "Req.": 60,
+  "Item Name": "Royalty Income",
+  "Amt.": 1000,
+  "Amt._raw": "+1000",
+  "Bonus per Level": "Cash every Minute",
+  "_images": [
+   "Royalty_income.png",
+   "Plument.png",
+   "Crystalfish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Legend",
+  "_table": 10,
+  "Req.": 60,
+  "Item Name": "Gotta Go Fast",
+  "Amt.": "+3%",
+  "Bonus per Level": "Rep Speed (caps at 50k crafts)",
+  "_images": [
+   "Gotta_go_fast.png",
+   "Figmentation.png",
+   "Pike_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Legend",
+  "_table": 10,
+  "Req.": 60,
+  "Item Name": "Figmentation Mail",
+  "Amt.": "-0.3%",
+  "Bonus per Level": "Monster Damage",
+  "_images": [
+   "Figmentation_mail.png",
+   "Figmentation.png",
+   "Snail_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Legend",
+  "_table": 10,
+  "Req.": 60,
+  "Item Name": "Manifestation Kit",
+  "Amt.": "+75%",
+  "Bonus per Level": "Ores Mined",
+  "_images": [
+   "Manifestation_kit.png",
+   "Figmentation.png",
+   "Dollar_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Legend",
+  "_table": 10,
+  "Req.": 60,
+  "Item Name": "Dragoneye Charm",
+  "Amt.": "+0.75%",
+  "Bonus per Level": "Crit Hit Chance",
+  "_images": [
+   "Dragoneye_charm.png",
+   "Plument.png",
+   "Ice_cube_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly",
+  "_table": 11,
+  "Req.": 70,
+  "Item Name": "Godly Trinket",
+  "Amt.": "+15%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Godly_trinket.png",
+   "Godshard.png",
+   "Manta_ray.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly",
+  "_table": 11,
+  "Req.": 70,
+  "Item Name": "Galaxial Slasher",
+  "Amt.": 1000,
+  "Amt._raw": "+1000",
+  "Bonus per Level": "Base Damage",
+  "_images": [
+   "Galaxial_slasher.png",
+   "Godshard.png",
+   "Kraken.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly",
+  "_table": 11,
+  "Req.": 70,
+  "Item Name": "Bonus Reset AP",
+  "Amt.": "+2%",
+  "Bonus per Level": "AP on Ascension",
+  "_images": [
+   "Bonus_reset_ap.png",
+   "Godshard.png",
+   "Demonite.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly",
+  "_table": 11,
+  "Req.": 70,
+  "Item Name": "Quantum Profits",
+  "Amt.": 2500,
+  "Amt._raw": "+2500",
+  "Bonus per Level": "Cash every Minute",
+  "_images": [
+   "Quantum_profits.png",
+   "Godshard.png",
+   "Hammerhead_shark.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly",
+  "_table": 11,
+  "Req.": 70,
+  "Item Name": "Universal EXP",
+  "Amt.": "+0.8%",
+  "Bonus per Level": "EXP Gain Chance",
+  "_images": [
+   "Universal_exp.png",
+   "Godshard.png",
+   "Giant_sea_serpent.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly",
+  "_table": 11,
+  "Req.": 70,
+  "Item Name": "Aortic Affinity",
+  "Amt.": 1000,
+  "Amt._raw": "+1000",
+  "Bonus per Level": "Base Max. HP",
+  "_images": [
+   "Aortic_affinity.png",
+   "Demonite.png",
+   "Jumbo_shrimp.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly",
+  "_table": 11,
+  "Req.": 70,
+  "Item Name": "Hyper Fishing",
+  "Amt.": "+20%",
+  "Bonus per Level": "Fish per Catch",
+  "_images": [
+   "Hyper_fishing.png",
+   "Kraken.png",
+   "Godshard.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly",
+  "_table": 11,
+  "Req.": 70,
+  "Item Name": "Dimension Hoppers",
+  "Amt.": "+4%",
+  "Bonus per Level": "Idle Attack Speed",
+  "_images": [
+   "Dimension_hoppers.png",
+   "Godshard.png",
+   "Jumbo_shrimp.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Warped",
+  "_table": 12,
+  "Req.": 90,
+  "Item Name": "Warped Trinket",
+  "Amt.": "+35%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Warped_trinket.png",
+   "Warpium.png",
+   "Kraken.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Warped",
+  "_table": 12,
+  "Req.": 90,
+  "Item Name": "Cuttokillicus",
+  "Amt.": 100,
+  "Amt._raw": "+100",
+  "Bonus per Level": "Base Damage per Mining Lv",
+  "_images": [
+   "Cuttokillicus.png",
+   "Warpium.png",
+   "Demonite.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Warped",
+  "_table": 12,
+  "Req.": 90,
+  "Item Name": "Cyber F Series",
+  "Amt.": "+0.25%",
+  "Bonus per Level": "Shields Every Fishwich Bite (caps at 2500%)",
+  "_images": [
+   "Cyber_f_series.png",
+   "Jumbo_shrimp.png",
+   "Demonite.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Warped",
+  "_table": 12,
+  "Req.": 90,
+  "Item Name": "Lightning Larceny",
+  "Amt.": "+40%",
+  "Bonus per Level": "Cash from Enemies",
+  "_images": [
+   "Lightning_larceny.png",
+   "Anodizia.png",
+   "Yellow_grouper.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Warped",
+  "_table": 12,
+  "Req.": 90,
+  "Item Name": "Blinged Pickaxe",
+  "Amt.": "+5%",
+  "Bonus per Level": "Mining EXP",
+  "_images": [
+   "Blinged_pickaxe.png",
+   "Warpium.png",
+   "Snail_fish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Warped",
+  "_table": 12,
+  "Req.": 90,
+  "Item Name": "BP Straight Up",
+  "Amt.": "+0.5%",
+  "Bonus per Level": "BP when Ascending (caps at 1000)",
+  "_images": [
+   "Bp_straight_up.png",
+   "Warpium.png",
+   "Kraken.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Warped",
+  "_table": 12,
+  "Req.": 90,
+  "Item Name": "Tin Pail Tree",
+  "Amt.": "+5-10%",
+  "Bonus per Level": "Botany Growth Speed (caps at 6000%)",
+  "_images": [
+   "Tin_pail_tree.png",
+   "Anodizia.png",
+   "Demonite.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Warped",
+  "_table": 12,
+  "Req.": 90,
+  "Item Name": "Crystal Supremacy",
+  "Amt.": "+0.1-0.4%",
+  "Bonus per Level": "Crystal Bonus (Green, Orange, Purple) (caps at 20%)",
+  "_images": [
+   "Crystal_supremacy.png",
+   "Anodizia.png",
+   "Godshard.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Djinnic",
+  "_table": 13,
+  "Req.": 120,
+  "Item Name": "Djinnic Trinket",
+  "Amt.": "+100%",
+  "Bonus per Level": "Damage",
+  "_images": [
+   "Djinnic_trinket.png",
+   "Djinn.png",
+   "Manta_ray.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Djinnic",
+  "_table": 13,
+  "Req.": 120,
+  "Item Name": "Oberons Obliterator",
+  "Amt.": 89717,
+  "Amt._raw": "+89717",
+  "Bonus per Level": "Base Damage (Based on Kills)",
+  "_images": [
+   "Oberons_obliterator.png",
+   "Djinn.png",
+   "Old_shoe.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Djinnic",
+  "_table": 13,
+  "Req.": 120,
+  "Item Name": "Cyber J Series",
+  "Amt.": "+1%",
+  "Bonus per Level": "Shields Every Noodles Bite (caps at 4000%)",
+  "_images": [
+   "Cyber_j_series.png",
+   "Djinn.png",
+   "Antimatter.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Djinnic",
+  "_table": 13,
+  "Req.": 120,
+  "Item Name": "Ensouled Head",
+  "Amt.": "+<0.2%",
+  "Bonus per Level": "Kills per Kill (caps at +10)",
+  "_images": [
+   "Ensouled_head.png",
+   "Djinn.png",
+   "Demonite.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Djinnic",
+  "_table": 13,
+  "Req.": 120,
+  "Item Name": "Righteous Rift",
+  "Amt.": "+<1.7%",
+  "Bonus per Level": "Less EXP to Level Up Rifts (caps at 70%)",
+  "_images": [
+   "Righteous_rift.png",
+   "Gummi.png",
+   "Giant_sea_urchin.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Djinnic",
+  "_table": 13,
+  "Req.": 120,
+  "Item Name": "Pimpin Pumper",
+  "Amt.": 10000,
+  "Amt._raw": "+10000",
+  "Bonus per Level": "Base Max HP",
+  "_images": [
+   "Pimpin_pumper.png",
+   "Gummi.png",
+   "Crystalfish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Djinnic",
+  "_table": 13,
+  "Req.": 120,
+  "Item Name": "Mythical Serfdoms",
+  "Amt.": "+5-10%",
+  "Bonus per Level": "Tilling Perk EXP (caps at 4000%)",
+  "_images": [
+   "Mythical_serfdoms.png",
+   "Gummi.png",
+   "Yellow_gulper.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Djinnic",
+  "_table": 13,
+  "Req.": 120,
+  "Item Name": "Normie Rocks",
+  "Amt.": "+0.1-0.4%",
+  "Bonus per Level": "Crystal Bonus (Red, Yellow, Blue, Purple) (caps at 20%)",
+  "_images": [
+   "Normie_rocks.png",
+   "Gummi.png",
+   "Djinn.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Zaqqic",
+  "_table": 14,
+  "Req.": "170 + Smithy Cert Lv. 1",
+  "Item Name": "Zaqqum Trinket",
+  "Amt.": "+X%",
+  "Bonus per Level": "Damage Every 100 Strength Levels",
+  "_images": [
+   "Zaqqum_Trinket.png",
+   "Copper.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Zaqqic",
+  "_table": 14,
+  "Req.": "170 + Smithy Cert Lv. 1",
+  "Item Name": "Doom Gauntlet",
+  "Amt.": "+X",
+  "Bonus per Level": "Base Damage (scales with Crusade 15 levels)",
+  "_images": [
+   "Doom_Gauntlet.png",
+   "Gold.png",
+   "Jumbo_shrimp.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Zaqqic",
+  "_table": 14,
+  "Req.": "170 + Smithy Cert Lv. 2",
+  "Item Name": "Cremation Jar",
+  "Amt.": "+X",
+  "Bonus per Level": "Max Levels to Mystic Botany BP Perk (and adds a new bonus)",
+  "_images": [
+   "Cremation_Jar.png",
+   "Anodizia.png",
+   "T_coin.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Zaqqic",
+  "_table": 14,
+  "Req.": "170 + Smithy Cert Lv. 2",
+  "Item Name": "Smouldering Steal",
+  "Amt.": "+X%",
+  "Bonus per Level": "Cash from enemies every 10 spelunking levels",
+  "_images": [
+   "Smouldering_Steal.png",
+   "Bobbit_worm.png",
+   "T_wealth_obol.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Zaqqic",
+  "_table": 14,
+  "Req.": "170 + Smithy Cert Lv. 3",
+  "Item Name": "Charons Obol",
+  "Amt.": "+X%",
+  "Bonus per Level": "Less Damage Reduction per tier of Afterlife",
+  "_images": [
+   "Charons_Obol.png",
+   "Yellow_gulper.png",
+   "Epic12.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Zaqqic",
+  "_table": 14,
+  "Req.": "170 + Smithy Cert Lv. 3",
+  "Item Name": "Firebrand Essence",
+  "Amt.": "+X%",
+  "Bonus per Level": "Double brew chance; Multibrew cap is now +X (max 15)",
+  "_images": [
+   "Firebrand_Essence.png",
+   "Firesalt.png",
+   "t_irish_clover.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Zaqqic",
+  "_table": 14,
+  "Req.": "170 + Smithy Cert Lv. 4",
+  "Item Name": "Don't Go Fetch",
+  "Amt.": "+X%",
+  "Bonus per Level": "Pet Damage and Trekking Move Speed",
+  "_images": [
+   "Dont_Go_Fetch.png",
+   "Red_herring.png",
+   "Epic13.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Zaqqic",
+  "_table": 14,
+  "Req.": "170 + Smithy Cert Lv. 4",
+  "Item Name": "Sacrificial Altar",
+  "Amt.": "+X%",
+  "Bonus per Level": "More Traces Earned from Asylum Bosses",
+  "_images": [
+   "Sacrificial_Altar.png",
+   "Ruby.png",
+   "t_prime_meat.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Gaxial",
+  "_table": 15,
+  "Req.": "? + Hammer Time Lv. 1",
+  "Item Name": "Slamacow Trinket",
+  "Amt.": "+X",
+  "Bonus per Level": "Increases all smith trinket bonuses to the power of 1.X",
+  "_images": [
+   "Slamacow_Trinket.png",
+   "Baubles.png",
+   "Crystalfish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Gaxial",
+  "_table": 15,
+  "Req.": "? + Hammer Time Lv. 1",
+  "Item Name": "Gaxmis Glaive",
+  "Amt.": "+X",
+  "Bonus per Level": "Base Damage per tier of Afterlife reached",
+  "_images": [
+   "Gaxmis_Glaive.png",
+   "Djinn.png",
+   "T calming obol.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Gaxial",
+  "_table": 15,
+  "Req.": "? + Hammer Time Lv. 2",
+  "Item Name": "Irradiated Builders",
+  "Amt.": "+X%",
+  "Bonus per Level": "Build Speed for Iodized Builders",
+  "_images": [
+   "Irradiated_Builders.png",
+   "Refractium.png",
+   "T wealth obol.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Gaxial",
+  "_table": 15,
+  "Req.": "? + Hammer Time Lv. 2",
+  "Item Name": "Snapped Time",
+  "Amt.": "+X",
+  "Bonus per Level": "Increases all smithing cash bonuses to the power of 1.X",
+  "_images": [
+   "Snapped_Time.png",
+   "Gummi.png",
+   "T coin.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Gaxial",
+  "_table": 15,
+  "Req.": "? + Hammer Time Lv. 3",
+  "Item Name": "One Swing Pick",
+  "Amt.": "+X",
+  "Bonus per Level": "(1+X)x gain of all resources for each star of cool cash",
+  "_images": [
+   "One_Swing_Pick.png",
+   "Giant sea serpent.png",
+   "Legendary12.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Gaxial",
+  "_table": 15,
+  "Req.": "? + Hammer Time Lv. 3",
+  "Item Name": "Timelesseum",
+  "Amt.": "+X%",
+  "Bonus per Level": "Chance to trigger a super chain upon H20 level up",
+  "_images": [
+   "Timelesseum.png",
+   "Hammerhead shark.png",
+   "Perarlescent7.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Gaxial",
+  "_table": 15,
+  "Req.": "? + Hammer Time Lv. 4",
+  "Item Name": "Sparkle Goop",
+  "Amt.": "+X%",
+  "Bonus per Level": "Realm Coins per Best Afterlife reached",
+  "_images": [
+   "Sparkle_Goop.png",
+   "T the mark.png",
+   "Rare12.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Gaxial",
+  "_table": 15,
+  "Req.": "? + Hammer Time Lv. 4",
+  "Item Name": "The One and Only",
+  "Amt.": "+X%",
+  "Bonus per Level": "Minion damage per best Afterlife after 50",
+  "_images": [
+   "The_One_and_Only.png",
+   "T temper obol.png",
+   "Pearlescent9.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cards",
+  "_table": 16,
+  "=== Monster Card Upgrade Costs === / Upgrade Tier": "2nd Tier →",
+  "=== Monster Card Upgrade Costs ===": 3,
+  "=== Monster Card Upgrade Costs ===_2": 1,
+  "=== Monster Card Upgrade Costs ===_3": "-",
+  "=== Monster Card Upgrade Costs ===_4": "-",
+  "=== Monster Card Upgrade Costs ===_5": "-",
+  "=== Monster Card Upgrade Costs === / GSE (Grey Star Equivalent)": 8,
+  "_images": [
+   "Whitestar.png",
+   "Greenstar.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cards",
+  "_table": 16,
+  "=== Monster Card Upgrade Costs === / Upgrade Tier": "3rd Tier →",
+  "=== Monster Card Upgrade Costs ===": 10,
+  "=== Monster Card Upgrade Costs ===_2": 3,
+  "=== Monster Card Upgrade Costs ===_3": 1,
+  "=== Monster Card Upgrade Costs ===_4": "-",
+  "=== Monster Card Upgrade Costs ===_5": "-",
+  "=== Monster Card Upgrade Costs === / GSE (Grey Star Equivalent)": 45,
+  "_images": [
+   "Greenstar.png",
+   "Bluestar.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cards",
+  "_table": 16,
+  "=== Monster Card Upgrade Costs === / Upgrade Tier": "4th Tier →",
+  "=== Monster Card Upgrade Costs ===": 20,
+  "=== Monster Card Upgrade Costs ===_2": 4,
+  "=== Monster Card Upgrade Costs ===_3": 2,
+  "=== Monster Card Upgrade Costs ===_4": 1,
+  "=== Monster Card Upgrade Costs ===_5": "-",
+  "=== Monster Card Upgrade Costs === / GSE (Grey Star Equivalent)": 140,
+  "_images": [
+   "Bluestar.png",
+   "Purplestar.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cards",
+  "_table": 16,
+  "=== Monster Card Upgrade Costs === / Upgrade Tier": "5th Tier →",
+  "=== Monster Card Upgrade Costs ===": 100,
+  "=== Monster Card Upgrade Costs ===_2": 20,
+  "=== Monster Card Upgrade Costs ===_3": 4,
+  "=== Monster Card Upgrade Costs ===_4": 2,
+  "=== Monster Card Upgrade Costs ===_5": 1,
+  "=== Monster Card Upgrade Costs === / GSE (Grey Star Equivalent)": 520,
+  "_images": [
+   "Purplestar.png",
+   "Orangestar.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cards",
+  "_table": 16,
+  "=== Monster Card Upgrade Costs === / Upgrade Tier": "6th Tier →",
+  "=== Monster Card Upgrade Costs ===": 250,
+  "=== Monster Card Upgrade Costs ===_2": 75,
+  "=== Monster Card Upgrade Costs ===_3": 20,
+  "=== Monster Card Upgrade Costs ===_4": 10,
+  "=== Monster Card Upgrade Costs ===_5": 4,
+  "=== Monster Card Upgrade Costs === / GSE (Grey Star Equivalent)": 2105,
+  "_images": [
+   "Orangestar.png",
+   "Diamondstar.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 17,
+  "Cultists": "Cultist A",
+  "col2": 1,
+  "col3": 10,
+  "col4": 20,
+  "col5": 30,
+  "col6": 40
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 17,
+  "Cultists": "Cultist B",
+  "col2": 1,
+  "col3": 12,
+  "col4": 22,
+  "col5": 32,
+  "col6": 42
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 17,
+  "Cultists": "Cultist C",
+  "col2": 1,
+  "col3": 14,
+  "col4": 24,
+  "col5": 34,
+  "col6": 44
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 17,
+  "Cultists": "Cultist D",
+  "col2": 1,
+  "col3": 16,
+  "col4": 26,
+  "col5": 36,
+  "col6": 46
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 17,
+  "Cultists": "Cultist E",
+  "col2": 1,
+  "col3": 18,
+  "col4": 28,
+  "col5": 38,
+  "col6": 48
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 17,
+  "Cultists": "Cultist F",
+  "col2": 1,
+  "col3": 20,
+  "col4": 30,
+  "col5": 40,
+  "col6": 50
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 17,
+  "Cultists": "Cultist G",
+  "col2": 1,
+  "col3": 22,
+  "col4": 32,
+  "col5": 42,
+  "col6": 52
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 17,
+  "Cultists": "Cultist H",
+  "col2": 1,
+  "col3": 24,
+  "col4": 34,
+  "col5": 44,
+  "col6": 54
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 18,
+  "Acolytes": "Acolyte A",
+  "+": 1,
+  "+_2": 10,
+  "+_3": 20,
+  "+_4": 30,
+  "+_5": 40,
+  "+_6": 50
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 18,
+  "Acolytes": "Acolyte B",
+  "+": 1,
+  "+_2": 12,
+  "+_3": 22,
+  "+_4": 32,
+  "+_5": 42,
+  "+_6": 52
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 18,
+  "Acolytes": "Acolyte C",
+  "+": 1,
+  "+_2": 14,
+  "+_3": 24,
+  "+_4": 34,
+  "+_5": 44,
+  "+_6": 54
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 18,
+  "Acolytes": "Acolyte D",
+  "+": 1,
+  "+_2": 16,
+  "+_3": 26,
+  "+_4": 36,
+  "+_5": 46,
+  "+_6": 56
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 18,
+  "Acolytes": "Acolyte E",
+  "+": 1,
+  "+_2": 18,
+  "+_3": 28,
+  "+_4": 38,
+  "+_5": 48,
+  "+_6": 58
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 18,
+  "Acolytes": "Acolyte F",
+  "+": 1,
+  "+_2": 20,
+  "+_3": 30,
+  "+_4": 40,
+  "+_5": 50,
+  "+_6": 60
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 18,
+  "Acolytes": "Acolyte G",
+  "+": 1,
+  "+_2": 22,
+  "+_3": 32,
+  "+_4": 42,
+  "+_5": 52,
+  "+_6": 62
+ },
+ {
+  "_page": "Resources",
+  "_section": "Soul Color Requirements",
+  "_table": 18,
+  "Acolytes": "Acolyte H",
+  "+": 1,
+  "+_2": 24,
+  "+_3": 34,
+  "+_4": 44,
+  "+_5": 54,
+  "+_6": 64
+ },
+ {
+  "1": "x8",
+  "2": "x13",
+  "3": "x18",
+  "4": "x4",
+  "5": "-",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Resources",
+  "_section": "Shop 1",
+  "_table": 19,
+  "Bonus Item per Purchase": "Green Key",
+  "_images": [
+   "Badge1.png",
+   "Badge5.png"
+  ]
+ },
+ {
+  "1": "x6",
+  "2": "x15",
+  "3": "-",
+  "4": "-",
+  "5": "-",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Resources",
+  "_section": "Shop 1",
+  "_table": 19,
+  "Bonus Item per Purchase": "Auto Progression",
+  "_images": [
+   "Badge1.png"
+  ]
+ },
+ {
+  "1": "x3",
+  "2": "x3",
+  "3": "x3",
+  "4": "x3",
+  "5": "x3",
+  "6": "x3",
+  "7": "x3",
+  "8": "x3",
+  "9": "x3",
+  "10": "x3",
+  "_page": "Resources",
+  "_section": "Shop 1",
+  "_table": 19,
+  "Bonus Item per Purchase": "+10% (1st bonus) then +5% Raid Ticket Drop Chance",
+  "_images": [
+   "Badge1.png",
+   "Badge2.png"
+  ]
+ },
+ {
+  "1": "x3",
+  "2": "x3",
+  "3": "x3",
+  "4": "x3",
+  "5": "x3",
+  "6": "x3",
+  "7": "x3",
+  "8": "x3",
+  "9": "x3",
+  "10": "x3",
+  "_page": "Resources",
+  "_section": "Shop 1",
+  "_table": 19,
+  "Bonus Item per Purchase": "+10% Cultist & Acolyte Efficiency",
+  "_images": [
+   "Badge1.png",
+   "Badge2.png"
+  ]
+ },
+ {
+  "1": "x10",
+  "2": "x10",
+  "3": "x15",
+  "4": "x6",
+  "5": "-",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Resources",
+  "_section": "Shop 2",
+  "_table": 20,
+  "Bonus Item per Purchase": "Orange Key",
+  "_images": [
+   "Badge2.png",
+   "Badge3.png",
+   "Badge5.png"
+  ]
+ },
+ {
+  "1": "x10",
+  "2": "x15",
+  "3": "-",
+  "4": "-",
+  "5": "-",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Resources",
+  "_section": "Shop 2",
+  "_table": 20,
+  "Bonus Item per Purchase": "Auto Progression",
+  "_images": [
+   "Badge2.png",
+   "Badge3.png"
+  ]
+ },
+ {
+  "1": "x3",
+  "2": "x3",
+  "3": "x3",
+  "4": "x3",
+  "5": "x3",
+  "6": "x4",
+  "7": "x4",
+  "8": "x4",
+  "9": "x4",
+  "10": "x4",
+  "_page": "Resources",
+  "_section": "Shop 2",
+  "_table": 20,
+  "Bonus Item per Purchase": "+2% Raid Gem Drop Chance",
+  "_images": [
+   "Badge2.png",
+   "Badge3.png"
+  ]
+ },
+ {
+  "1": "x2",
+  "2": "x2",
+  "3": "x2",
+  "4": "x2",
+  "5": "x2",
+  "6": "x3",
+  "7": "x3",
+  "8": "x3",
+  "9": "x3",
+  "10": "x3",
+  "_page": "Resources",
+  "_section": "Shop 2",
+  "_table": 20,
+  "Bonus Item per Purchase": "+1 to All Starting Skill Levels",
+  "_images": [
+   "Badge2.png",
+   "Badge3.png"
+  ]
+ },
+ {
+  "1": "x8",
+  "2": "x10",
+  "3": "x12",
+  "4": "x8",
+  "5": "-",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Resources",
+  "_section": "Shop 3",
+  "_table": 21,
+  "Bonus Item per Purchase": "Pink Key",
+  "_images": [
+   "Badge4.png",
+   "Badge5.png"
+  ]
+ },
+ {
+  "1": "x8",
+  "2": "x10",
+  "3": "x12",
+  "4": "x10",
+  "5": "-",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Resources",
+  "_section": "Shop 3",
+  "_table": 21,
+  "Bonus Item per Purchase": "White Key",
+  "_images": [
+   "Badge4.png",
+   "Badge5.png"
+  ]
+ },
+ {
+  "1": "x2",
+  "2": "x2",
+  "3": "x2",
+  "4": "x2",
+  "5": "x2",
+  "6": "x3",
+  "7": "x3",
+  "8": "x3",
+  "9": "x3",
+  "10": "x3",
+  "_page": "Resources",
+  "_section": "Shop 3",
+  "_table": 21,
+  "Bonus Item per Purchase": "+2 Idle Crusaders, +3 Idle Crusaders (Level 6+)",
+  "_images": [
+   "Badge4.png",
+   "Badge5.png"
+  ]
+ },
+ {
+  "1": "x4",
+  "2": "x4",
+  "3": "x4",
+  "4": "x4",
+  "5": "x4",
+  "6": "x4",
+  "7": "x3",
+  "8": "x3",
+  "9": "x3",
+  "10": "x3",
+  "_page": "Resources",
+  "_section": "Shop 3",
+  "_table": 21,
+  "Bonus Item per Purchase": "+10% Crops Harvested",
+  "_images": [
+   "Badge4.png",
+   "Badge5.png"
+  ]
+ },
+ {
+  "1": "x2",
+  "2": "x4",
+  "3": "x6",
+  "4": "x8",
+  "5": "-",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Resources",
+  "_section": "Shop 4",
+  "_table": 22,
+  "Bonus Item per Purchase": "Cyan Key",
+  "_images": [
+   "Badge6.png"
+  ]
+ },
+ {
+  "1": "x1",
+  "2": "x1",
+  "3": "x1",
+  "4": "x1",
+  "5": "x1",
+  "6": "x2",
+  "7": "x2",
+  "8": "x2",
+  "9": "x2",
+  "10": "x2",
+  "_page": "Resources",
+  "_section": "Shop 4",
+  "_table": 22,
+  "Bonus Item per Purchase": "+3% BP on Rebirth",
+  "_images": [
+   "Badge6.png"
+  ]
+ },
+ {
+  "1": "x3",
+  "2": "x3",
+  "3": "x3",
+  "4": "x3",
+  "5": "x3",
+  "6": "x1",
+  "7": "x1",
+  "8": "x1",
+  "9": "x1",
+  "10": "x1",
+  "_page": "Resources",
+  "_section": "Shop 4",
+  "_table": 22,
+  "Bonus Item per Purchase": "+20% Crusades EXP, +25 Tinkering EXP",
+  "_images": [
+   "Badge4.png",
+   "Badge6.png"
+  ]
+ },
+ {
+  "1": "x2",
+  "2": "x2",
+  "3": "x2",
+  "4": "x2",
+  "5": "x2",
+  "6": "x2",
+  "7": "x2",
+  "8": "x2",
+  "9": "x2",
+  "10": "x2",
+  "_page": "Resources",
+  "_section": "Shop 4",
+  "_table": 22,
+  "Bonus Item per Purchase": "+5% Chance to Get Next Botany Flower per Overgrowth",
+  "_images": [
+   "Badge5.png",
+   "Badge6.png"
+  ]
+ },
+ {
+  "1": "x3",
+  "2": "x4",
+  "3": "x5",
+  "4": "x6",
+  "5": "x7",
+  "6": "-",
+  "7": "-",
+  "8": "-",
+  "9": "-",
+  "10": "-",
+  "_page": "Resources",
+  "_section": "Shop 5",
+  "_table": 23,
+  "Bonus Item per Purchase": "Auto Progression",
+  "_images": [
+   "Badge6.png"
+  ]
+ },
+ {
+  "1": "x1",
+  "2": "x1",
+  "3": "x1",
+  "4": "x1",
+  "5": "x1",
+  "6": "x2",
+  "7": "x2",
+  "8": "x2",
+  "9": "x2",
+  "10": "x2",
+  "_page": "Resources",
+  "_section": "Shop 5",
+  "_table": 23,
+  "Bonus Item per Purchase": "5% Double Asylum Keys",
+  "_images": [
+   "Badge6.png"
+  ]
+ },
+ {
+  "1": "x1",
+  "2": "x1",
+  "3": "x1",
+  "4": "x1",
+  "5": "x1",
+  "6": "x2",
+  "7": "x2",
+  "8": "x2",
+  "9": "x2",
+  "10": "x2",
+  "_page": "Resources",
+  "_section": "Shop 5",
+  "_table": 23,
+  "Bonus Item per Purchase": "5% More Vessels Gained",
+  "_images": [
+   "Badge6.png"
+  ]
+ },
+ {
+  "1": "x1",
+  "2": "x1",
+  "3": "x1",
+  "4": "x1",
+  "5": "x1",
+  "6": "x2",
+  "7": "x2",
+  "8": "x2",
+  "9": "x2",
+  "10": "x2",
+  "_page": "Resources",
+  "_section": "Shop 5",
+  "_table": 23,
+  "Bonus Item per Purchase": "10% More Pet Capsule Exp Gain",
+  "_images": [
+   "Badge6.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Traces",
+  "_table": 24,
+  "Trace_2": "Emigdala",
+  "Drop Amount determined by:": "Difficulty, Mark",
+  "_images": [
+   "Trace_Emigdala.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Traces",
+  "_table": 24,
+  "Trace_2": "Occulon",
+  "Drop Amount determined by:": "Difficulty, Mark",
+  "_images": [
+   "Trace_Occulon.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Traces",
+  "_table": 24,
+  "Trace_2": "Scallius",
+  "Drop Amount determined by:": "Difficulty, Mark",
+  "_images": [
+   "Trace_Scallius.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Traces",
+  "_table": 24,
+  "Trace_2": "Gorshank",
+  "Drop Amount determined by:": "Difficulty, Mark",
+  "_images": [
+   "Trace_Gorshank.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Traces",
+  "_table": 24,
+  "Trace_2": "Apothecary",
+  "Drop Amount determined by:": "Apothecary level",
+  "_images": [
+   "Trace_Apo.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Traces",
+  "_table": 24,
+  "Trace_2": "Botany",
+  "Drop Amount determined by:": "Botany level, Plant dropped, Plant level, Overgrowth",
+  "_images": [
+   "Trace_Botany.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Traces",
+  "_table": 24,
+  "Trace_2": "Tilling",
+  "Drop Amount determined by:": "Tilling level, Dirt owned",
+  "_images": [
+   "Trace_Tilling.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Traces",
+  "_table": 24,
+  "Trace_2": "Mining",
+  "Drop Amount determined by:": "Mining level, Ores per minute",
+  "_images": [
+   "Trace_Mining.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Traces",
+  "_table": 24,
+  "Trace_2": "Smithing",
+  "Drop Amount determined by:": "Smithing level, Craft number, Craft tier, Crafts per Craft",
+  "_images": [
+   "Trace_Smithing.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Traces",
+  "_table": 24,
+  "Trace_2": "Fishing",
+  "Drop Amount determined by:": "Fishing level, Fish per catch",
+  "_images": [
+   "Trace_Fishing.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Materials",
+  "_table": 25,
+  "CrusadeLevel": 1,
+  "_images": [
+   "The_bruiser.png",
+   "Common1.png",
+   "Common2.png",
+   "Common11.png",
+   "Uncommon1.png",
+   "Uncommon10.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Materials",
+  "_table": 25,
+  "CrusadeLevel": 5,
+  "_images": [
+   "Toxic_sludge.png",
+   "Common6.png",
+   "Common12.png",
+   "Common7.png",
+   "Uncommon4.png",
+   "Uncommon9.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Materials",
+  "_table": 25,
+  "CrusadeLevel": 10,
+  "_images": [
+   "Killer_rabbit.png",
+   "Common4.png",
+   "Common8.png",
+   "Common14.png",
+   "Uncommon7.png",
+   "Uncommon5.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Materials",
+  "_table": 25,
+  "CrusadeLevel": 15,
+  "_images": [
+   "Desert_giant.png",
+   "Common5.png",
+   "Common3.png",
+   "Common10.png",
+   "Rare1.png",
+   "Rare4.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Materials",
+  "_table": 25,
+  "CrusadeLevel": 20,
+  "_images": [
+   "Pincermin.png",
+   "Common9.png",
+   "Common13.png",
+   "Uncommon3.png",
+   "Rare11.png",
+   "Epic1.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Materials",
+  "_table": 25,
+  "CrusadeLevel": 30,
+  "_images": [
+   "Desert_wurm.png",
+   "Common15.png",
+   "Common16.png",
+   "Uncommon6.png",
+   "Uncommon8.png",
+   "Epic3.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Materials",
+  "_table": 25,
+  "CrusadeLevel": 40,
+  "_images": [
+   "Faust.png",
+   "Uncommon11.png",
+   "Uncommon2.png",
+   "Rare2.png",
+   "Epic10.png",
+   "Epic8.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Materials",
+  "_table": 25,
+  "CrusadeLevel": 50,
+  "_images": [
+   "Arachneon.png",
+   "Rare7.png",
+   "Rare5.png",
+   "Epic2.png",
+   "Epic5.png",
+   "Legendary9.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Materials",
+  "_table": 25,
+  "CrusadeLevel": 60,
+  "_images": [
+   "Gheist.png",
+   "Rare6.png",
+   "Rare8.png",
+   "Rare10.png",
+   "Epic9.png",
+   "Legendary1.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Materials",
+  "_table": 25,
+  "CrusadeLevel": 70,
+  "_images": [
+   "Basilisk.png",
+   "Rare9.png",
+   "Rare3.png",
+   "Epic4.png",
+   "Legendary10.png",
+   "Legendary4.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Materials",
+  "_table": 25,
+  "CrusadeLevel": 80,
+  "_images": [
+   "Blobulytes.png",
+   "Epic6.png",
+   "Epic11.png",
+   "Epic7.png",
+   "Legendary5.png",
+   "Pearl2.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Materials",
+  "_table": 25,
+  "CrusadeLevel": 90,
+  "_images": [
+   "Puppeteer.png",
+   "Legendary2.png",
+   "Legendary6.png",
+   "Legendary8.png",
+   "Pearl1.png",
+   "Pearl6.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Materials",
+  "_table": 25,
+  "CrusadeLevel": 99,
+  "_images": [
+   "Narcissus.png",
+   "Legendary3.png",
+   "Legendary7.png",
+   "Pearl8.png",
+   "Pearl5.png",
+   "Pearl9.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Materials",
+  "_table": 26,
+  "col1": 120,
+  "_images": [
+   "Crusader crapotti.png",
+   "Uncommon12.png",
+   "Rare12.png",
+   "Epic12.png",
+   "Legendary11.png",
+   "Perarlescent7.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Materials",
+  "_table": 27,
+  "col1": 140,
+  "_images": [
+   "Crusader father of all.png",
+   "Rare13.png",
+   "Epic13.png",
+   "Legendary12.png",
+   "Pearlescent8.png",
+   "Pearlescent9.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Boosters",
+  "_table": 28,
+  "Effect": "90% chance to give +10% bonus",
+  "_images": [
+   "Booster1.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Boosters",
+  "_table": 28,
+  "Effect": "70% chance to give +25% bonus",
+  "_images": [
+   "Booster2.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Boosters",
+  "_table": 28,
+  "Effect": "50% chance to give +50% bonus",
+  "_images": [
+   "Booster3.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Boosters",
+  "_table": 28,
+  "Effect": "30% chance to give +100% bonus",
+  "_images": [
+   "Booster4.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Boosters",
+  "_table": 28,
+  "Effect": "15% chance to give +250% bonus",
+  "_images": [
+   "Booster5.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mutators",
+  "_table": 29,
+  "Effect": "Multiplies the given bonus by a random number between 0.8 and 1.3",
+  "_images": [
+   "Mutator1.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mutators",
+  "_table": 29,
+  "Effect": "Multiplies the given bonus by a random number between 0.7 and 1.5",
+  "_images": [
+   "Mutator2.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mutators",
+  "_table": 29,
+  "Effect": "Multiplies the given bonus by a random number between 0.6 and 1.8",
+  "_images": [
+   "Mutator3.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mutators",
+  "_table": 29,
+  "Effect": "Multiplies the given bonus by a random number between 0.5 and 2.1",
+  "_images": [
+   "Mutator4.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Mutators",
+  "_table": 29,
+  "Effect": "Multiplies the given bonus by a random number between 0.3 and 2.5",
+  "_images": [
+   "Mutator5.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Misc. Mutators",
+  "_table": 30,
+  "Name": "Safety Charm",
+  "Effect": "Saves an upgrade use from being consumed when a booster fails",
+  "_images": [
+   "Misc1.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Misc. Mutators",
+  "_table": 30,
+  "Name": "Lucky Donut",
+  "Effect": "Adds +15% chance for a booster to succeed",
+  "_images": [
+   "Misc2.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Misc. Mutators",
+  "_table": 30,
+  "Name": "Crystal Genesis",
+  "Effect": "50% chance to double the applied booster's bonus",
+  "_images": [
+   "Misc3.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Misc. Mutators",
+  "_table": 30,
+  "Name": "Chaotic Mutators",
+  "Effect": "Doubles applied mutator bonus but reduces booster's success chance by 50% *(currently doubles success chance not halves)",
+  "_images": [
+   "Misc4.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Misc. Mutators",
+  "_table": 30,
+  "Name": "Benign Mutators",
+  "Effect": "Guarantees the applied mutator multiplies by 1.0 or more",
+  "_images": [
+   "Misc5.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Dirt",
+  "Crop Requirements / Plot / Tilling level / 1": 1,
+  "Crop Requirements / Plot / Tilling level / 2": 1,
+  "Crop Requirements / Plot / Tilling level / 3": 1,
+  "Crop Requirements / Plot / Tilling level / 4": 1,
+  "Crop Requirements / Plot / Tilling level / 5": 1,
+  "Crop Requirements / Plot / Tilling level / 6": 1,
+  "Crop Requirements / Plot / Tilling level / 7": 1,
+  "Crop Requirements / Plot / Tilling level / 8": 1,
+  "_images": [
+   "Dirt.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Grass",
+  "Crop Requirements / Plot / Tilling level / 1": 5,
+  "Crop Requirements / Plot / Tilling level / 2": 7,
+  "Crop Requirements / Plot / Tilling level / 3": 9,
+  "Crop Requirements / Plot / Tilling level / 4": 11,
+  "Crop Requirements / Plot / Tilling level / 5": 13,
+  "Crop Requirements / Plot / Tilling level / 6": 15,
+  "Crop Requirements / Plot / Tilling level / 7": 17,
+  "Crop Requirements / Plot / Tilling level / 8": 19,
+  "_images": [
+   "Grass.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Quality Hay",
+  "Crop Requirements / Plot / Tilling level / 1": 10,
+  "Crop Requirements / Plot / Tilling level / 2": 12,
+  "Crop Requirements / Plot / Tilling level / 3": 14,
+  "Crop Requirements / Plot / Tilling level / 4": 16,
+  "Crop Requirements / Plot / Tilling level / 5": 18,
+  "Crop Requirements / Plot / Tilling level / 6": 20,
+  "Crop Requirements / Plot / Tilling level / 7": 22,
+  "Crop Requirements / Plot / Tilling level / 8": 24,
+  "_images": [
+   "Quality_hay.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Saffron",
+  "Crop Requirements / Plot / Tilling level / 1": 15,
+  "Crop Requirements / Plot / Tilling level / 2": 17,
+  "Crop Requirements / Plot / Tilling level / 3": 19,
+  "Crop Requirements / Plot / Tilling level / 4": 21,
+  "Crop Requirements / Plot / Tilling level / 5": 23,
+  "Crop Requirements / Plot / Tilling level / 6": 25,
+  "Crop Requirements / Plot / Tilling level / 7": 27,
+  "Crop Requirements / Plot / Tilling level / 8": 29,
+  "_images": [
+   "Saffron.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Corn",
+  "Crop Requirements / Plot / Tilling level / 1": 20,
+  "Crop Requirements / Plot / Tilling level / 2": 22,
+  "Crop Requirements / Plot / Tilling level / 3": 24,
+  "Crop Requirements / Plot / Tilling level / 4": 26,
+  "Crop Requirements / Plot / Tilling level / 5": 28,
+  "Crop Requirements / Plot / Tilling level / 6": 30,
+  "Crop Requirements / Plot / Tilling level / 7": 32,
+  "Crop Requirements / Plot / Tilling level / 8": 34,
+  "_images": [
+   "Corn.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Maize",
+  "Crop Requirements / Plot / Tilling level / 1": 25,
+  "Crop Requirements / Plot / Tilling level / 2": 27,
+  "Crop Requirements / Plot / Tilling level / 3": 29,
+  "Crop Requirements / Plot / Tilling level / 4": 31,
+  "Crop Requirements / Plot / Tilling level / 5": 33,
+  "Crop Requirements / Plot / Tilling level / 6": 35,
+  "Crop Requirements / Plot / Tilling level / 7": 37,
+  "Crop Requirements / Plot / Tilling level / 8": 39,
+  "_images": [
+   "Maize.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Hyper Stalk",
+  "Crop Requirements / Plot / Tilling level / 1": 30,
+  "Crop Requirements / Plot / Tilling level / 2": 32,
+  "Crop Requirements / Plot / Tilling level / 3": 34,
+  "Crop Requirements / Plot / Tilling level / 4": 36,
+  "Crop Requirements / Plot / Tilling level / 5": 38,
+  "Crop Requirements / Plot / Tilling level / 6": 40,
+  "Crop Requirements / Plot / Tilling level / 7": 42,
+  "Crop Requirements / Plot / Tilling level / 8": 44,
+  "_images": [
+   "Hyper_stalk.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Cabbage",
+  "Crop Requirements / Plot / Tilling level / 1": 35,
+  "Crop Requirements / Plot / Tilling level / 2": 37,
+  "Crop Requirements / Plot / Tilling level / 3": 39,
+  "Crop Requirements / Plot / Tilling level / 4": 41,
+  "Crop Requirements / Plot / Tilling level / 5": 43,
+  "Crop Requirements / Plot / Tilling level / 6": 45,
+  "Crop Requirements / Plot / Tilling level / 7": 47,
+  "Crop Requirements / Plot / Tilling level / 8": 49,
+  "_images": [
+   "Cabbage.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Ancient Dew",
+  "Crop Requirements / Plot / Tilling level / 1": 40,
+  "Crop Requirements / Plot / Tilling level / 2": 42,
+  "Crop Requirements / Plot / Tilling level / 3": 44,
+  "Crop Requirements / Plot / Tilling level / 4": 46,
+  "Crop Requirements / Plot / Tilling level / 5": 48,
+  "Crop Requirements / Plot / Tilling level / 6": 50,
+  "Crop Requirements / Plot / Tilling level / 7": 52,
+  "Crop Requirements / Plot / Tilling level / 8": 54,
+  "_images": [
+   "Ancient_dew.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Egg Yolk",
+  "Crop Requirements / Plot / Tilling level / 1": 45,
+  "Crop Requirements / Plot / Tilling level / 2": 47,
+  "Crop Requirements / Plot / Tilling level / 3": 49,
+  "Crop Requirements / Plot / Tilling level / 4": 51,
+  "Crop Requirements / Plot / Tilling level / 5": 53,
+  "Crop Requirements / Plot / Tilling level / 6": 55,
+  "Crop Requirements / Plot / Tilling level / 7": 57,
+  "Crop Requirements / Plot / Tilling level / 8": 59,
+  "_images": [
+   "Egg_yolk.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Packed Clay",
+  "Crop Requirements / Plot / Tilling level / 1": 50,
+  "Crop Requirements / Plot / Tilling level / 2": 52,
+  "Crop Requirements / Plot / Tilling level / 3": 54,
+  "Crop Requirements / Plot / Tilling level / 4": 56,
+  "Crop Requirements / Plot / Tilling level / 5": 58,
+  "Crop Requirements / Plot / Tilling level / 6": 60,
+  "Crop Requirements / Plot / Tilling level / 7": 62,
+  "Crop Requirements / Plot / Tilling level / 8": 64,
+  "_images": [
+   "Packed_clay.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Lil Pumpkin",
+  "Crop Requirements / Plot / Tilling level / 1": 55,
+  "Crop Requirements / Plot / Tilling level / 2": 57,
+  "Crop Requirements / Plot / Tilling level / 3": 59,
+  "Crop Requirements / Plot / Tilling level / 4": 61,
+  "Crop Requirements / Plot / Tilling level / 5": 63,
+  "Crop Requirements / Plot / Tilling level / 6": 65,
+  "Crop Requirements / Plot / Tilling level / 7": 67,
+  "Crop Requirements / Plot / Tilling level / 8": 69,
+  "_images": [
+   "Lil_pumpkin.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Macromato",
+  "Crop Requirements / Plot / Tilling level / 1": 60,
+  "Crop Requirements / Plot / Tilling level / 2": 62,
+  "Crop Requirements / Plot / Tilling level / 3": 64,
+  "Crop Requirements / Plot / Tilling level / 4": 66,
+  "Crop Requirements / Plot / Tilling level / 5": 68,
+  "Crop Requirements / Plot / Tilling level / 6": 70,
+  "Crop Requirements / Plot / Tilling level / 7": 72,
+  "Crop Requirements / Plot / Tilling level / 8": 74,
+  "_images": [
+   "Macromato.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Spooktobble",
+  "Crop Requirements / Plot / Tilling level / 1": 65,
+  "Crop Requirements / Plot / Tilling level / 2": 67,
+  "Crop Requirements / Plot / Tilling level / 3": 69,
+  "Crop Requirements / Plot / Tilling level / 4": 71,
+  "Crop Requirements / Plot / Tilling level / 5": 73,
+  "Crop Requirements / Plot / Tilling level / 6": 75,
+  "Crop Requirements / Plot / Tilling level / 7": 77,
+  "Crop Requirements / Plot / Tilling level / 8": 79,
+  "_images": [
+   "Spooktobble.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Crystal",
+  "Crop Requirements / Plot / Tilling level / 1": 70,
+  "Crop Requirements / Plot / Tilling level / 2": 72,
+  "Crop Requirements / Plot / Tilling level / 3": 74,
+  "Crop Requirements / Plot / Tilling level / 4": 76,
+  "Crop Requirements / Plot / Tilling level / 5": 78,
+  "Crop Requirements / Plot / Tilling level / 6": 80,
+  "Crop Requirements / Plot / Tilling level / 7": 82,
+  "Crop Requirements / Plot / Tilling level / 8": 84,
+  "_images": [
+   "Crystal.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Lucentium",
+  "Crop Requirements / Plot / Tilling level / 1": 75,
+  "Crop Requirements / Plot / Tilling level / 2": 77,
+  "Crop Requirements / Plot / Tilling level / 3": 79,
+  "Crop Requirements / Plot / Tilling level / 4": 81,
+  "Crop Requirements / Plot / Tilling level / 5": 83,
+  "Crop Requirements / Plot / Tilling level / 6": 85,
+  "Crop Requirements / Plot / Tilling level / 7": 87,
+  "Crop Requirements / Plot / Tilling level / 8": 89,
+  "_images": [
+   "Lucentium.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Prismatism",
+  "Crop Requirements / Plot / Tilling level / 1": 80,
+  "Crop Requirements / Plot / Tilling level / 2": 82,
+  "Crop Requirements / Plot / Tilling level / 3": 84,
+  "Crop Requirements / Plot / Tilling level / 4": 86,
+  "Crop Requirements / Plot / Tilling level / 5": 88,
+  "Crop Requirements / Plot / Tilling level / 6": 90,
+  "Crop Requirements / Plot / Tilling level / 7": 92,
+  "Crop Requirements / Plot / Tilling level / 8": 94,
+  "_images": [
+   "Prismatism.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Essence",
+  "Crop Requirements / Plot / Tilling level / 1": 85,
+  "Crop Requirements / Plot / Tilling level / 2": 87,
+  "Crop Requirements / Plot / Tilling level / 3": 89,
+  "Crop Requirements / Plot / Tilling level / 4": 91,
+  "Crop Requirements / Plot / Tilling level / 5": 93,
+  "Crop Requirements / Plot / Tilling level / 6": 95,
+  "Crop Requirements / Plot / Tilling level / 7": 97,
+  "Crop Requirements / Plot / Tilling level / 8": 99,
+  "_images": [
+   "Essence.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Hallownil",
+  "Crop Requirements / Plot / Tilling level / 1": 90,
+  "Crop Requirements / Plot / Tilling level / 2": 92,
+  "Crop Requirements / Plot / Tilling level / 3": 94,
+  "Crop Requirements / Plot / Tilling level / 4": 96,
+  "Crop Requirements / Plot / Tilling level / 5": 98,
+  "Crop Requirements / Plot / Tilling level / 6": 100,
+  "Crop Requirements / Plot / Tilling level / 7": 102,
+  "Crop Requirements / Plot / Tilling level / 8": 104,
+  "_images": [
+   "Hallownil.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Crops",
+  "_table": 31,
+  "Crop Requirements / Crop_2": "Sammatian",
+  "Crop Requirements / Plot / Tilling level / 1": 95,
+  "Crop Requirements / Plot / Tilling level / 2": 97,
+  "Crop Requirements / Plot / Tilling level / 3": 99,
+  "Crop Requirements / Plot / Tilling level / 4": 101,
+  "Crop Requirements / Plot / Tilling level / 5": 103,
+  "Crop Requirements / Plot / Tilling level / 6": 105,
+  "Crop Requirements / Plot / Tilling level / 7": 107,
+  "Crop Requirements / Plot / Tilling level / 8": 109,
+  "_images": [
+   "Sammatian.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Minril Soil",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 105,
+  "Crop Requirements / Plot / Tilling level / 2": 110,
+  "Crop Requirements / Plot / Tilling level / 3": 115,
+  "Crop Requirements / Plot / Tilling level / 4": 120,
+  "Crop Requirements / Plot / Tilling level / 5": 125,
+  "Crop Requirements / Plot / Tilling level / 6": 130,
+  "Crop Requirements / Plot / Tilling level / 7": 135,
+  "Crop Requirements / Plot / Tilling level / 8": 140,
+  "_images": [
+   "Minril_soil.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Spuddies",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 115,
+  "Crop Requirements / Plot / Tilling level / 2": 120,
+  "Crop Requirements / Plot / Tilling level / 3": 125,
+  "Crop Requirements / Plot / Tilling level / 4": 130,
+  "Crop Requirements / Plot / Tilling level / 5": 135,
+  "Crop Requirements / Plot / Tilling level / 6": 140,
+  "Crop Requirements / Plot / Tilling level / 7": 145,
+  "Crop Requirements / Plot / Tilling level / 8": 150,
+  "_images": [
+   "Spuddies.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Vegetabip",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 125,
+  "Crop Requirements / Plot / Tilling level / 2": 130,
+  "Crop Requirements / Plot / Tilling level / 3": 135,
+  "Crop Requirements / Plot / Tilling level / 4": 140,
+  "Crop Requirements / Plot / Tilling level / 5": 145,
+  "Crop Requirements / Plot / Tilling level / 6": 150,
+  "Crop Requirements / Plot / Tilling level / 7": 155,
+  "Crop Requirements / Plot / Tilling level / 8": 160,
+  "_images": [
+   "Vegetabip.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Bunnymunch",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 135,
+  "Crop Requirements / Plot / Tilling level / 2": 140,
+  "Crop Requirements / Plot / Tilling level / 3": 145,
+  "Crop Requirements / Plot / Tilling level / 4": 150,
+  "Crop Requirements / Plot / Tilling level / 5": 155,
+  "Crop Requirements / Plot / Tilling level / 6": 160,
+  "Crop Requirements / Plot / Tilling level / 7": 165,
+  "Crop Requirements / Plot / Tilling level / 8": 170,
+  "_images": [
+   "Bunnymunch.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Darnedlion",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 145,
+  "Crop Requirements / Plot / Tilling level / 2": 150,
+  "Crop Requirements / Plot / Tilling level / 3": 155,
+  "Crop Requirements / Plot / Tilling level / 4": 160,
+  "Crop Requirements / Plot / Tilling level / 5": 165,
+  "Crop Requirements / Plot / Tilling level / 6": 170,
+  "Crop Requirements / Plot / Tilling level / 7": 175,
+  "Crop Requirements / Plot / Tilling level / 8": 180,
+  "_images": [
+   "Darnedlion.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Violetta",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 155,
+  "Crop Requirements / Plot / Tilling level / 2": 160,
+  "Crop Requirements / Plot / Tilling level / 3": 165,
+  "Crop Requirements / Plot / Tilling level / 4": 170,
+  "Crop Requirements / Plot / Tilling level / 5": 175,
+  "Crop Requirements / Plot / Tilling level / 6": 180,
+  "Crop Requirements / Plot / Tilling level / 7": 185,
+  "Crop Requirements / Plot / Tilling level / 8": 190,
+  "_images": [
+   "Violetta.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Stunflower",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 165,
+  "Crop Requirements / Plot / Tilling level / 2": 170,
+  "Crop Requirements / Plot / Tilling level / 3": 175,
+  "Crop Requirements / Plot / Tilling level / 4": 180,
+  "Crop Requirements / Plot / Tilling level / 5": 185,
+  "Crop Requirements / Plot / Tilling level / 6": 190,
+  "Crop Requirements / Plot / Tilling level / 7": 195,
+  "Crop Requirements / Plot / Tilling level / 8": 200,
+  "_images": [
+   "Stunflower.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "LewdPlants",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 175,
+  "Crop Requirements / Plot / Tilling level / 2": 180,
+  "Crop Requirements / Plot / Tilling level / 3": 185,
+  "Crop Requirements / Plot / Tilling level / 4": 190,
+  "Crop Requirements / Plot / Tilling level / 5": 195,
+  "Crop Requirements / Plot / Tilling level / 6": 200,
+  "Crop Requirements / Plot / Tilling level / 7": 205,
+  "Crop Requirements / Plot / Tilling level / 8": 210,
+  "_images": [
+   "Lewdplants.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Beanies",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 185,
+  "Crop Requirements / Plot / Tilling level / 2": 190,
+  "Crop Requirements / Plot / Tilling level / 3": 195,
+  "Crop Requirements / Plot / Tilling level / 4": 200,
+  "Crop Requirements / Plot / Tilling level / 5": 205,
+  "Crop Requirements / Plot / Tilling level / 6": 210,
+  "Crop Requirements / Plot / Tilling level / 7": 215,
+  "Crop Requirements / Plot / Tilling level / 8": 220,
+  "_images": [
+   "Beanies.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Banana Vine",
+  "Crop Requirements / Construction": "Dirts Ahoy Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 195,
+  "Crop Requirements / Plot / Tilling level / 2": 200,
+  "Crop Requirements / Plot / Tilling level / 3": 205,
+  "Crop Requirements / Plot / Tilling level / 4": 210,
+  "Crop Requirements / Plot / Tilling level / 5": 215,
+  "Crop Requirements / Plot / Tilling level / 6": 220,
+  "Crop Requirements / Plot / Tilling level / 7": 225,
+  "Crop Requirements / Plot / Tilling level / 8": 230,
+  "_images": [
+   "Banana_vine.png",
+   "Dirts_ahoy.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Rupturium",
+  "Crop Requirements / Construction": "Croppy Notes Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 205,
+  "Crop Requirements / Plot / Tilling level / 2": 210,
+  "Crop Requirements / Plot / Tilling level / 3": 215,
+  "Crop Requirements / Plot / Tilling level / 4": 220,
+  "Crop Requirements / Plot / Tilling level / 5": 225,
+  "Crop Requirements / Plot / Tilling level / 6": 230,
+  "Crop Requirements / Plot / Tilling level / 7": 235,
+  "Crop Requirements / Plot / Tilling level / 8": 240,
+  "_images": [
+   "Rupturium.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Blue Grap",
+  "Crop Requirements / Construction": "Croppy Notes Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 215,
+  "Crop Requirements / Plot / Tilling level / 2": 220,
+  "Crop Requirements / Plot / Tilling level / 3": 225,
+  "Crop Requirements / Plot / Tilling level / 4": 230,
+  "Crop Requirements / Plot / Tilling level / 5": 235,
+  "Crop Requirements / Plot / Tilling level / 6": 240,
+  "Crop Requirements / Plot / Tilling level / 7": 245,
+  "Crop Requirements / Plot / Tilling level / 8": 250,
+  "_images": [
+   "Blue_grap.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Pink Grap",
+  "Crop Requirements / Construction": "Croppy Notes Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 225,
+  "Crop Requirements / Plot / Tilling level / 2": 230,
+  "Crop Requirements / Plot / Tilling level / 3": 235,
+  "Crop Requirements / Plot / Tilling level / 4": 240,
+  "Crop Requirements / Plot / Tilling level / 5": 245,
+  "Crop Requirements / Plot / Tilling level / 6": 250,
+  "Crop Requirements / Plot / Tilling level / 7": 255,
+  "Crop Requirements / Plot / Tilling level / 8": 260,
+  "_images": [
+   "Pink_grap.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "White Grap",
+  "Crop Requirements / Construction": "Croppy Notes Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 235,
+  "Crop Requirements / Plot / Tilling level / 2": 240,
+  "Crop Requirements / Plot / Tilling level / 3": 245,
+  "Crop Requirements / Plot / Tilling level / 4": 250,
+  "Crop Requirements / Plot / Tilling level / 5": 255,
+  "Crop Requirements / Plot / Tilling level / 6": 260,
+  "Crop Requirements / Plot / Tilling level / 7": 265,
+  "Crop Requirements / Plot / Tilling level / 8": 270,
+  "_images": [
+   "White_grap.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Abstract",
+  "Crop Requirements / Construction": "Croppy Notes Lv.1",
+  "Crop Requirements / Plot / Tilling level / 1": 245,
+  "Crop Requirements / Plot / Tilling level / 2": 250,
+  "Crop Requirements / Plot / Tilling level / 3": 255,
+  "Crop Requirements / Plot / Tilling level / 4": 260,
+  "Crop Requirements / Plot / Tilling level / 5": 265,
+  "Crop Requirements / Plot / Tilling level / 6": 270,
+  "Crop Requirements / Plot / Tilling level / 7": 275,
+  "Crop Requirements / Plot / Tilling level / 8": 280,
+  "_images": [
+   "Abstract.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Nonsensic",
+  "Crop Requirements / Construction": "Croppy Notes Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 255,
+  "Crop Requirements / Plot / Tilling level / 2": 260,
+  "Crop Requirements / Plot / Tilling level / 3": 265,
+  "Crop Requirements / Plot / Tilling level / 4": 270,
+  "Crop Requirements / Plot / Tilling level / 5": 275,
+  "Crop Requirements / Plot / Tilling level / 6": 280,
+  "Crop Requirements / Plot / Tilling level / 7": 285,
+  "Crop Requirements / Plot / Tilling level / 8": 290,
+  "_images": [
+   "Nonsensic.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Balderdash",
+  "Crop Requirements / Construction": "Croppy Notes Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 265,
+  "Crop Requirements / Plot / Tilling level / 2": 270,
+  "Crop Requirements / Plot / Tilling level / 3": 275,
+  "Crop Requirements / Plot / Tilling level / 4": 280,
+  "Crop Requirements / Plot / Tilling level / 5": 285,
+  "Crop Requirements / Plot / Tilling level / 6": 290,
+  "Crop Requirements / Plot / Tilling level / 7": 295,
+  "Crop Requirements / Plot / Tilling level / 8": 300,
+  "_images": [
+   "Balderdash.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Choco Tree",
+  "Crop Requirements / Construction": "Croppy Notes Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 275,
+  "Crop Requirements / Plot / Tilling level / 2": 280,
+  "Crop Requirements / Plot / Tilling level / 3": 285,
+  "Crop Requirements / Plot / Tilling level / 4": 290,
+  "Crop Requirements / Plot / Tilling level / 5": 295,
+  "Crop Requirements / Plot / Tilling level / 6": 300,
+  "Crop Requirements / Plot / Tilling level / 7": 305,
+  "Crop Requirements / Plot / Tilling level / 8": 310,
+  "_images": [
+   "Choco_tree.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Salt Lick",
+  "Crop Requirements / Construction": "Croppy Notes Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 285,
+  "Crop Requirements / Plot / Tilling level / 2": 290,
+  "Crop Requirements / Plot / Tilling level / 3": 295,
+  "Crop Requirements / Plot / Tilling level / 4": 300,
+  "Crop Requirements / Plot / Tilling level / 5": 305,
+  "Crop Requirements / Plot / Tilling level / 6": 310,
+  "Crop Requirements / Plot / Tilling level / 7": 315,
+  "Crop Requirements / Plot / Tilling level / 8": 320,
+  "_images": [
+   "Salt_lick.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Crops",
+  "_table": 32,
+  "Crop Requirements / Crop_2": "Carmamella",
+  "Crop Requirements / Construction": "Croppy Notes Lv.2",
+  "Crop Requirements / Plot / Tilling level / 1": 295,
+  "Crop Requirements / Plot / Tilling level / 2": 300,
+  "Crop Requirements / Plot / Tilling level / 3": 305,
+  "Crop Requirements / Plot / Tilling level / 4": 310,
+  "Crop Requirements / Plot / Tilling level / 5": 315,
+  "Crop Requirements / Plot / Tilling level / 6": 320,
+  "Crop Requirements / Plot / Tilling level / 7": 325,
+  "Crop Requirements / Plot / Tilling level / 8": 330,
+  "_images": [
+   "Carmamella.png",
+   "Croppy_notes.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Red Rarity",
+  "_table": 33,
+  "Level Req.": 1,
+  "Potion_2": "Mack Attack",
+  "Per Level Bonus": "1% Damage Every 10 Attack Levels",
+  "_images": [
+   "Mack_attack.png",
+   "Dirt.png",
+   "Weeds.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Red Rarity",
+  "_table": 33,
+  "Level Req.": 2,
+  "Potion_2": "Whey Cool EXP",
+  "Per Level Bonus": "12% EXP From All Gym Skillers",
+  "_images": [
+   "Whey_cool_exp.png",
+   "Dirt.png",
+   "Weeds.png",
+   "Grass.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Red Rarity",
+  "_table": 33,
+  "Level Req.": 3,
+  "Potion_2": "Monster Cash",
+  "Per Level Bonus": "2% Cash from Enemies",
+  "_images": [
+   "Monster_cash.png",
+   "Dirt.png",
+   "Weeds.png",
+   "Berries.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Red Rarity",
+  "_table": 33,
+  "Level Req.": 4,
+  "Potion_2": "Crop Remedy",
+  "Per Level Bonus": "3% Tilling Crops for All Tillers",
+  "_images": [
+   "Crop_remedy.png",
+   "Dirt.png",
+   "Weeds.png",
+   "Grass.png",
+   "Berries.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Red Rarity",
+  "_table": 33,
+  "Level Req.": 5,
+  "Potion_2": "Miracle Grow",
+  "Per Level Bonus": "4% Botany Growth Speed",
+  "_images": [
+   "Miracle_grow.png",
+   "Grass.png",
+   "Weeds.png",
+   "Dirt.png",
+   "Typha.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Red Rarity",
+  "_table": 33,
+  "Level Req.": 6,
+  "Potion_2": "Ore Boostio",
+  "Per Level Bonus": "4% Ores Mined",
+  "_images": [
+   "Ore_boostio.png",
+   "Grass.png",
+   "Berries.png",
+   "Quality_hay.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Red Rarity",
+  "_table": 33,
+  "Level Req.": 7,
+  "Potion_2": "Based Damage",
+  "Per Level Bonus": "400 Base Damage",
+  "_images": [
+   "Based_damage.png",
+   "Grass.png",
+   "Berries.png",
+   "Dirt.png",
+   "Flowers.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Red Rarity",
+  "_table": 33,
+  "Level Req.": 8,
+  "Potion_2": "Smith Redux",
+  "Per Level Bonus": "-0.25% Reduced Total Smithing Cost (Caps at -90%)",
+  "_images": [
+   "Smith_redux.png",
+   "Grass.png",
+   "Berries.png",
+   "Corn.png",
+   "Weeds.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Orange Rarity",
+  "_table": 34,
+  "Level Req.": 12,
+  "Potion_2": "Strength Buster",
+  "Per Level Bonus": "1% Damage Every 10 Strength Levels",
+  "_images": [
+   "Strength_buster.png",
+   "Grass.png",
+   "Berries.png",
+   "Quality_hay.png",
+   "Typha.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Orange Rarity",
+  "_table": 34,
+  "Level Req.": 13,
+  "Potion_2": "Dojo Blood",
+  "Per Level Bonus": "15% EXP from All Dojo Skillers",
+  "_images": [
+   "Dojo_blood.png",
+   "Quality_hay.png",
+   "Berries.png",
+   "Grass.png",
+   "Flowers.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Orange Rarity",
+  "_table": 34,
+  "Level Req.": 14,
+  "Potion_2": "Cheap Pot",
+  "Per Level Bonus": "-0.5% Cost of Potion Making (Caps at -90%)",
+  "_images": [
+   "Cheap_pot.png",
+   "Quality_hay.png",
+   "Typha.png",
+   "Saffron.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Orange Rarity",
+  "_table": 34,
+  "Level Req.": 15,
+  "Potion_2": "Flower Power",
+  "Per Level Bonus": "5% Flowers Gained for All Botany Pots",
+  "_images": [
+   "Flower_power.png",
+   "Quality_hay.png",
+   "Typha.png",
+   "Flowers.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Orange Rarity",
+  "_table": 34,
+  "Level Req.": 16,
+  "Potion_2": "Idle Pow Pow",
+  "Per Level Bonus": "5% Idle Damage",
+  "_images": [
+   "Idle_pow_pow.png",
+   "Quality_hay.png",
+   "Typha.png",
+   "Saffron.png",
+   "Flowers.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Orange Rarity",
+  "_table": 34,
+  "Level Req.": 17,
+  "Potion_2": "Minor Miner",
+  "Per Level Bonus": "5% Mining EXP",
+  "_images": [
+   "Minor_miner.png",
+   "Quality_hay.png",
+   "Typha.png",
+   "Corn.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Orange Rarity",
+  "_table": 34,
+  "Level Req.": 18,
+  "Potion_2": "Big Farma",
+  "Per Level Bonus": "5% Botany EXP",
+  "_images": [
+   "Big_farma.png",
+   "Saffron.png",
+   "Typha.png",
+   "Corn.png",
+   "Flowers.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Orange Rarity",
+  "_table": 34,
+  "Level Req.": 19,
+  "Potion_2": "AP Cash Money",
+  "Per Level Bonus": "0.25% Monster Cash for Every Power of 10 AP Owned",
+  "_images": [
+   "Ap_cash_money.png",
+   "Saffron.png",
+   "Flowers.png",
+   "Quality_hay.png",
+   "Palm_tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Orange Rarity",
+  "_table": 34,
+  "Level Req.": 20,
+  "Potion_2": "Scim Polish",
+  "Per Level Bonus": "Imbued Scimatars Give +3 More Base Damage Each",
+  "_images": [
+   "Scim_polish.png",
+   "Saffron.png",
+   "Flowers.png",
+   "Corn.png",
+   "Cactus.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Orange Rarity",
+  "_table": 34,
+  "Level Req.": 21,
+  "Potion_2": "Exotic Yield",
+  "Per Level Bonus": "10% Exotic Flowers",
+  "_images": [
+   "Exotic_yield.png",
+   "Saffron.png",
+   "Flowers.png",
+   "Quality_hay.png",
+   "Sapling.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Yellow Rarity",
+  "_table": 35,
+  "Level Req.": 26,
+  "Potion_2": "Smith Buff",
+  "Per Level Bonus": "1% Damage Every 10 Smithing Levels",
+  "_images": [
+   "Smith_buff.png",
+   "Corn.png",
+   "Flowers.png",
+   "Hyper_stalk.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Yellow Rarity",
+  "_table": 35,
+  "Level Req.": 27,
+  "Potion_2": "Rock Mixture",
+  "Per Level Bonus": "15% EXP from all Mountain Skillers",
+  "_images": [
+   "Rock_mixture.png",
+   "Corn.png",
+   "Flowers.png",
+   "Maize.png",
+   "Cactus.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Yellow Rarity",
+  "_table": 35,
+  "Level Req.": 28,
+  "Potion_2": "Weed Speed",
+  "Per Level Bonus": "10% Botany Growth Speeds",
+  "_images": [
+   "Weed_speed.png",
+   "Corn.png",
+   "Cactus.png",
+   "Saffron.png",
+   "Sapling.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Yellow Rarity",
+  "_table": 35,
+  "Level Req.": 29,
+  "Potion_2": "Idle Zoom",
+  "Per Level Bonus": "5% Idle Speed",
+  "_images": [
+   "Idle_zoom.png",
+   "Corn.png",
+   "Cactus.png",
+   "Maize.png",
+   "Palm_tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Yellow Rarity",
+  "_table": 35,
+  "Level Req.": 30,
+  "Potion_2": "Serf Serum",
+  "Per Level Bonus": "10% Tilling EXP, 1% Tilling Speed",
+  "_images": [
+   "Serf_serum.png",
+   "Maize.png",
+   "Cactus.png",
+   "Hyper_stalk.png",
+   "Palm_tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Yellow Rarity",
+  "_table": 35,
+  "Level Req.": 31,
+  "Potion_2": "Penguinzo",
+  "Per Level Bonus": "2% Critical Damage",
+  "_images": [
+   "Penguinzo.png",
+   "Maize.png",
+   "Cactus.png",
+   "Sapling.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Yellow Rarity",
+  "_table": 35,
+  "Level Req.": 32,
+  "Potion_2": "Bubblez",
+  "Per Level Bonus": "5% Cauldron Speed",
+  "_images": [
+   "Bubblez.png",
+   "Maize.png",
+   "Cactus.png",
+   "Cabbage.png",
+   "Palm_tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Yellow Rarity",
+  "_table": 35,
+  "Level Req.": 33,
+  "Potion_2": "Gold Cash",
+  "Per Level Bonus": "0.5% Cash for Every Power of 10 Gold Ore Owned",
+  "_images": [
+   "Gold_cash.png",
+   "Maize.png",
+   "Palm_tree.png",
+   "Hyper_stalk.png",
+   "Sapling.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Yellow Rarity",
+  "_table": 35,
+  "Level Req.": 34,
+  "Potion_2": "Ore Superbio",
+  "Per Level Bonus": "10% Ores Mined",
+  "_images": [
+   "Ore_superbio.png",
+   "Hyper_stalk.png",
+   "Palm_tree.png",
+   "Ancient_dew.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Yellow Rarity",
+  "_table": 35,
+  "Level Req.": 35,
+  "Potion_2": "Ripperoo",
+  "Per Level Bonus": "Crystalline Rippers Give +15 More Base Damage Each",
+  "_images": [
+   "Ripperoo.png",
+   "Hyper_stalk.png",
+   "Palm_tree.png",
+   "Weeplings.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Yellow Rarity",
+  "_table": 35,
+  "Level Req.": 36,
+  "Potion_2": "Smith Reredux",
+  "Per Level Bonus": "-0.5% Reduced Total Smithing Cost (Caps at -95%)",
+  "_images": [
+   "Smith_reredux.png",
+   "Hyper_stalk.png",
+   "Palm_tree.png",
+   "Corn.png",
+   "Mint_cane.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Yellow Rarity",
+  "_table": 35,
+  "Level Req.": 37,
+  "Potion_2": "Potion Dubble",
+  "Per Level Bonus": "2% Chance for Potions to Level Up Twice Instead of Once (Chance to Level Up Thrice at 100%+)",
+  "_images": [
+   "Potion_dubble.png",
+   "Hyper_stalk.png",
+   "Sapling.png",
+   "Ancient_dew.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Lime Rarity",
+  "_table": 36,
+  "Level Req.": 42,
+  "Potion_2": "HP Damagey",
+  "Per Level Bonus": "1% Damage Every 10 Endurance Levels",
+  "_images": [
+   "Hp_damagey.png",
+   "Cabbage.png",
+   "Sapling.png",
+   "Weeplings.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Lime Rarity",
+  "_table": 36,
+  "Level Req.": 43,
+  "Potion_2": "Field Dew",
+  "Per Level Bonus": "15% EXP from All Field Skillers",
+  "_images": [
+   "Field_dew.png",
+   "Cabbage.png",
+   "Sapling.png",
+   "Egg_yolk.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Lime Rarity",
+  "_table": 36,
+  "Level Req.": 44,
+  "Potion_2": "Pot Enabler",
+  "Per Level Bonus": "1 Max Upgradeable Flower Pot Speed Level (Bonus Increases by 1 Every 3 Levels)",
+  "_images": [
+   "Pot_enabler.png",
+   "Cabbage.png",
+   "Sapling.png",
+   "Ancient_dew.png",
+   "Weeplings.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Lime Rarity",
+  "_table": 36,
+  "Level Req.": 45,
+  "Potion_2": "Croppin",
+  "Per Level Bonus": "12% Crops Gained",
+  "_images": [
+   "Croppin.png",
+   "Cabbage.png",
+   "Weeplings.png",
+   "Ancient_dew.png",
+   "saharan_foal.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Lime Rarity",
+  "_table": 36,
+  "Level Req.": 46,
+  "Potion_2": "OG Damage",
+  "Per Level Bonus": "1500 Base Damage",
+  "_images": [
+   "Og_damage.png",
+   "Ancient_dew.png",
+   "Weeplings.png",
+   "Cabbage.png",
+   "Mint_cane.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Lime Rarity",
+  "_table": 36,
+  "Level Req.": 47,
+  "Potion_2": "Crusoda",
+  "Per Level Bonus": "4% Crusade EXP",
+  "_images": [
+   "Crusoda.png",
+   "Ancient_dew.png",
+   "Weeplings.png",
+   "Egg_yolk.png",
+   "saharan_foal.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Lime Rarity",
+  "_table": 36,
+  "Level Req.": 48,
+  "Potion_2": "Growgrow",
+  "Per Level Bonus": "15% Botany Plants Given",
+  "_images": [
+   "Growgrow.png",
+   "Ancient_dew.png",
+   "Weeplings.png",
+   "Mint_cane.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Lime Rarity",
+  "_table": 36,
+  "Level Req.": 49,
+  "Potion_2": "Big Winner",
+  "Per Level Bonus": "10% Cash from Enemies",
+  "_images": [
+   "Big_winner.png",
+   "Ancient_dew.png",
+   "saharan_foal.png",
+   "Packed_clay.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Lime Rarity",
+  "_table": 36,
+  "Level Req.": 50,
+  "Potion_2": "Riftion",
+  "Per Level Bonus": "8% Rift EXP",
+  "_images": [
+   "Riftion.png",
+   "Egg_yolk.png",
+   "saharan_foal.png",
+   "Ancient_dew.png",
+   "Crystals.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Lime Rarity",
+  "_table": 36,
+  "Level Req.": 51,
+  "Potion_2": "Raw Power",
+  "Per Level Bonus": "12% Total Damage",
+  "_images": [
+   "Raw_power.png",
+   "Egg_yolk.png",
+   "saharan_foal.png",
+   "Macromato.png",
+   "Weeplings.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Lime Rarity",
+  "_table": 36,
+  "Level Req.": 52,
+  "Potion_2": "Hype Jar",
+  "Per Level Bonus": "30% Botany EXP Gained",
+  "_images": [
+   "Hype_jar.png",
+   "Egg_yolk.png",
+   "saharan_foal.png",
+   "Packed_clay.png",
+   "Mint_cane.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Lime Rarity",
+  "_table": 36,
+  "Level Req.": 53,
+  "Potion_2": "MineXP",
+  "Per Level Bonus": "15% Mining EXP",
+  "_images": [
+   "Minexp.png",
+   "Egg_yolk.png",
+   "Mint_cane.png",
+   "Crystals.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Lime Rarity",
+  "_table": 36,
+  "Level Req.": 54,
+  "Potion_2": "Smith Stunter",
+  "Per Level Bonus": "Smithing Costs Go Up by 0.02% Less After Every Craft (Caps at -1.5%)",
+  "_images": [
+   "Smith_stunter.png",
+   "Egg_yolk.png",
+   "Mint_cane.png",
+   "Lil_pumpkin.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cyan Rarity",
+  "_table": 37,
+  "Level Req.": 59,
+  "Potion_2": "Water Goner",
+  "Per Level Bonus": "1% Damage Every 10 H2O Levels",
+  "_images": [
+   "Water_goner.png",
+   "Packed_clay.png",
+   "Mint_cane.png",
+   "Crystals.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cyan Rarity",
+  "_table": 37,
+  "Level Req.": 60,
+  "Potion_2": "Sweat Cup",
+  "Per Level Bonus": "15% H2O EXP from Gym Skillers",
+  "_images": [
+   "Sweat_cup.png",
+   "Packed_clay.png",
+   "Mint_cane.png",
+   "Lil_pumpkin.png",
+   "Crystals.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cyan Rarity",
+  "_table": 37,
+  "Level Req.": 61,
+  "Potion_2": "Smalloan",
+  "Per Level Bonus": "Start New Ascensions with (5+0.5*lvl)% of Cash Owned before Ascending (Caps at 99%)",
+  "_images": [
+   "Smalloan.png",
+   "Packed_clay.png",
+   "Crystals.png",
+   "Egg_yolk.png",
+   "Fyreling.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cyan Rarity",
+  "_table": 37,
+  "Level Req.": 62,
+  "Potion_2": "Flower Flow",
+  "Per Level Bonus": "40% Botany Growth Speed",
+  "_images": [
+   "Flower_flow.png",
+   "Packed_clay.png",
+   "Crystals.png",
+   "Lil_pumpkin.png",
+   "Candypop.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cyan Rarity",
+  "_table": 37,
+  "Level Req.": 63,
+  "Potion_2": "Krunkade",
+  "Per Level Bonus": "8% Critical Damage",
+  "_images": [
+   "Krunkade.png",
+   "Packed_clay.png",
+   "Crystals.png",
+   "Fyreling.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cyan Rarity",
+  "_table": 37,
+  "Level Req.": 64,
+  "Potion_2": "Idle Woosh",
+  "Per Level Bonus": "15% Idle Speed",
+  "_images": [
+   "Idle_woosh.png",
+   "Lil_pumpkin.png",
+   "Crystals.png",
+   "Macromato.png",
+   "Candypop.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cyan Rarity",
+  "_table": 37,
+  "Level Req.": 65,
+  "Potion_2": "Exotic Mix",
+  "Per Level Bonus": "40% Exotic Flowers",
+  "_images": [
+   "Exotic_mix.png",
+   "Lil_pumpkin.png",
+   "Candypop.png",
+   "Packed_clay.png",
+   "Blood_tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cyan Rarity",
+  "_table": 37,
+  "Level Req.": 66,
+  "Potion_2": "Oresome",
+  "Per Level Bonus": "25% Ores Mined",
+  "_images": [
+   "Oresome.png",
+   "Lil_pumpkin.png",
+   "Candypop.png",
+   "Crystal.png",
+   "Crystals.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cyan Rarity",
+  "_table": 37,
+  "Level Req.": 67,
+  "Potion_2": "Cashin Out",
+  "Per Level Bonus": "20% Cash from Enemies",
+  "_images": [
+   "Cashin_out.png",
+   "Lil_pumpkin.png",
+   "Candypop.png",
+   "Macromato.png",
+   "Fyreling.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cyan Rarity",
+  "_table": 37,
+  "Level Req.": 68,
+  "Potion_2": "Distill Till",
+  "Per Level Bonus": "2% Tilling EXP, 0.2% Tilling Speed for Every Tilling Level",
+  "_images": [
+   "Distill_till.png",
+   "Lil_pumpkin.png",
+   "Candypop.png",
+   "Blood_tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cyan Rarity",
+  "_table": 37,
+  "Level Req.": 69,
+  "Potion_2": "Plant Vroom",
+  "Per Level Bonus": "50% Botany Plants Given",
+  "_images": [
+   "Plant_vroom.png",
+   "Lil_pumpkin.png",
+   "Fyreling.png",
+   "Spooktobble.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cyan Rarity",
+  "_table": 37,
+  "Level Req.": 70,
+  "Potion_2": "Bigger Big",
+  "Per Level Bonus": "Big Ol' Swords Give +60 More Base Damage Each",
+  "_images": [
+   "Bigger_big.png",
+   "Macromato.png",
+   "Fyreling.png",
+   "Crystal.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cyan Rarity",
+  "_table": 37,
+  "Level Req.": 71,
+  "Potion_2": "Smith Redoox",
+  "Per Level Bonus": "-1% Reduced Total Smithing Cost (Caps at -98%)",
+  "_images": [
+   "Smith_redoox.png",
+   "Macromato.png",
+   "Fyreling.png",
+   "Spooktobble.png",
+   "Blood_tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Purple Rarity",
+  "_table": 38,
+  "Level Req.": 76,
+  "Potion_2": "Spirit Hit",
+  "Per Level Bonus": "2% Damage Every 10 Spiriting Levels",
+  "_images": [
+   "Spirit_hit.png",
+   "Macromato.png",
+   "Fyreling.png",
+   "Lucentium.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Purple Rarity",
+  "_table": 38,
+  "Level Req.": 77,
+  "Potion_2": "AP Tonic",
+  "Per Level Bonus": "10% AP Gained",
+  "_images": [
+   "Ap_tonic.png",
+   "Macromato.png",
+   "Blood_tree.png",
+   "Crystal.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Purple Rarity",
+  "_table": 38,
+  "Level Req.": 78,
+  "Potion_2": "More Fast",
+  "Per Level Bonus": "1 Max Upgradeable Flower Pot Speed Level (Bonus Increases by 1 Every 2 Levels)",
+  "_images": [
+   "More_fast.png",
+   "Macromato.png",
+   "Blood_tree.png",
+   "Prismatism.png",
+   "Fyreling.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Purple Rarity",
+  "_table": 38,
+  "Level Req.": 79,
+  "Potion_2": "Crop Pop",
+  "Per Level Bonus": "50% Crops Gained",
+  "_images": [
+   "Crop_pop.png",
+   "Spooktobble.png",
+   "Blood_tree.png",
+   "Crystal.png",
+   "Mushroom_ingredient.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Purple Rarity",
+  "_table": 38,
+  "Level Req.": 80,
+  "Potion_2": "Idle Kachow",
+  "Per Level Bonus": "10% Idle Damage",
+  "_images": [
+   "Idle_kachow.png",
+   "Spooktobble.png",
+   "Blood_tree.png",
+   "Macromato.png",
+   "Demonia.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Purple Rarity",
+  "_table": 38,
+  "Level Req.": 81,
+  "Potion_2": "Peak Plant",
+  "Per Level Bonus": "+100 Botany EXP",
+  "_images": [
+   "Peak_plant.png",
+   "Spooktobble.png",
+   "Mushroom_ingredient.png",
+   "Prismatism.png",
+   "Blood_tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Purple Rarity",
+  "_table": 38,
+  "Level Req.": 82,
+  "Potion_2": "Irrelevance",
+  "Per Level Bonus": "4000 Base Damage",
+  "_images": [
+   "Irrelevance.png",
+   "Spooktobble.png",
+   "Mushroom_ingredient.png",
+   "Lucentium.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Purple Rarity",
+  "_table": 38,
+  "Level Req.": 83,
+  "Potion_2": "Bargane",
+  "Per Level Bonus": "-2% Cost of Potion Brewing (Caps at -95%)",
+  "_images": [
+   "Bargane.png",
+   "Crystal.png",
+   "Mushroom_ingredient.png",
+   "Essence.png",
+   "Blood_tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Purple Rarity",
+  "_table": 38,
+  "Level Req.": 84,
+  "Potion_2": "Thief N Gin",
+  "Per Level Bonus": "0.2% Cash for Every Level of Trinkets Crafted",
+  "_images": [
+   "Thief_n_gin.png",
+   "Crystal.png",
+   "Mushroom_ingredient.png",
+   "Lucentium.png",
+   "Flesh_tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Purple Rarity",
+  "_table": 38,
+  "Level Req.": 85,
+  "Potion_2": "Totalitariat",
+  "Per Level Bonus": "40% Total Damage",
+  "_images": [
+   "Totalitariat.png",
+   "Crystal.png",
+   "Flesh_tree.png",
+   "Prismatism.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Purple Rarity",
+  "_table": 38,
+  "Level Req.": 86,
+  "Potion_2": "M Vitality",
+  "Per Level Bonus": "30% Max HP",
+  "_images": [
+   "M_vitality.png",
+   "Crystal.png",
+   "Flesh_tree.png",
+   "Lucentium.png",
+   "Demonia.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Purple Rarity",
+  "_table": 38,
+  "Level Req.": 87,
+  "Potion_2": "Converzin",
+  "Per Level Bonus": "2 Base Damage for Every 100 Base HP that You Have",
+  "_images": [
+   "Converzin.png",
+   "Crystal.png",
+   "Flesh_tree.png",
+   "Essence.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Purple Rarity",
+  "_table": 38,
+  "Level Req.": 88,
+  "Potion_2": "Smith Snail",
+  "Per Level Bonus": "Smithing Costs Go Up by 0.04% Less After Every Craft (Caps at -3%)",
+  "_images": [
+   "Smith_snail.png",
+   "Lucentium.png",
+   "Flesh_tree.png",
+   "Prismatism.png",
+   "Demonia.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Demon Rarity",
+  "_table": 39,
+  "Level Req.": 94,
+  "Potion_2": "Contract Pact",
+  "Per Level Bonus": "2% Damage Every 10 Contract Levels",
+  "_images": [
+   "Contract_pact.png",
+   "Lucentium.png",
+   "Demonia.png",
+   "Hallownil.png",
+   "Flesh_tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Demon Rarity",
+  "_table": 39,
+  "Level Req.": 95,
+  "Potion_2": "Trinko Gogo",
+  "Per Level Bonus": "Dubloon Trinkets Give +0.5% Cash Each",
+  "_images": [
+   "Trinko_gogo.png",
+   "Lucentium.png",
+   "Demonia.png",
+   "Prismatism.png",
+   "Cursed_eye.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Demon Rarity",
+  "_table": 39,
+  "Level Req.": 96,
+  "Potion_2": "Salve Labo",
+  "Per Level Bonus": "Enigmatic Booster from Smithing Boosts Botany Speed by 2% for Each Craft",
+  "_images": [
+   "Salve_labo.png",
+   "Lucentium.png",
+   "Demonia.png",
+   "Crystal.png",
+   "Lemming.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Demon Rarity",
+  "_table": 39,
+  "Level Req.": 97,
+  "Potion_2": "Criticola",
+  "Per Level Bonus": "20% Critical Damage",
+  "_images": [
+   "Criticola.png",
+   "Lucentium.png",
+   "Demonia.png",
+   "Hallownil.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Demon Rarity",
+  "_table": 39,
+  "Level Req.": 98,
+  "Potion_2": "Value Yumyum",
+  "Per Level Bonus": "10% Skiller EXP for Every 100 Value Upgrades Bought",
+  "_images": [
+   "Value_yumyum.png",
+   "Prismatism.png",
+   "Cursed_eye.png",
+   "Essence.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Demon Rarity",
+  "_table": 39,
+  "Level Req.": 99,
+  "Potion_2": "Till Recurve",
+  "Per Level Bonus": "0.5% Crops for Every Tilling Level",
+  "_images": [
+   "Till_recurve.png",
+   "Prismatism.png",
+   "Cursed_eye.png",
+   "Sammatian.png",
+   "Demonia.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Demon Rarity",
+  "_table": 39,
+  "Level Req.": 100,
+  "Potion_2": "Transfusion",
+  "Per Level Bonus": "1% Total Damage for Every +100% Total HP Bonus that You Have",
+  "_images": [
+   "Transfusion.png",
+   "Prismatism.png",
+   "Cursed_eye.png",
+   "Hallownil.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Demon Rarity",
+  "_table": 39,
+  "Level Req.": 101,
+  "Potion_2": "Bonkloot",
+  "Per Level Bonus": "2% Cash for Every Power of 10 Kills of Current Enemy",
+  "_images": [
+   "Bonkloot.png",
+   "Prismatism.png",
+   "Veninsulic.png",
+   "Hallownil.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Demon Rarity",
+  "_table": 39,
+  "Level Req.": 102,
+  "Potion_2": "Plant Vroom",
+  "Per Level Bonus": "3% Botany Growth Speed for Every Botany Level",
+  "_images": [
+   "Plant_vroom2.png",
+   "Essence.png",
+   "Veninsulic.png",
+   "Lemming.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Demon Rarity",
+  "_table": 39,
+  "Level Req.": 103,
+  "Potion_2": "Limbo Luck",
+  "Per Level Bonus": "Increases Max Luck Upgrade Level by 1 in Spiriting Zone",
+  "_images": [
+   "Limbo_luck.png",
+   "Essence.png",
+   "Veninsulic.png",
+   "Sammatian.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Demon Rarity",
+  "_table": 39,
+  "Level Req.": 104,
+  "Potion_2": "Canned Shield",
+  "Per Level Bonus": "50% Max Shields",
+  "_images": [
+   "Canned_shield.png",
+   "Essence.png",
+   "Lemming.png",
+   "Hallownil.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Demon Rarity",
+  "_table": 39,
+  "Level Req.": 105,
+  "Potion_2": "AP Powah",
+  "Per Level Bonus": "10% Damage for Every Power of 10 AP Owned",
+  "_images": [
+   "Ap_powah.png",
+   "Essence.png",
+   "Lemming.png",
+   "Prismatism.png",
+   "Icecream.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Demon Rarity",
+  "_table": 39,
+  "Level Req.": 106,
+  "Potion_2": "Daedry",
+  "Per Level Bonus": "Smithing Costs Go Up By 0.04% Less After Every Craft (Caps at 4%)",
+  "_images": [
+   "Instacraft.png",
+   "Essence.png",
+   "Lemming.png",
+   "Hallownil.png",
+   "Chlorine.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly Rarity",
+  "_table": 40,
+  "Level Req.": 113,
+  "Potion_2": "Drop of Each",
+  "Per Level Bonus": "0.02% Damage for Every Total Potion Level",
+  "_images": [
+   "Drop_of_each.png",
+   "Hallownil.png",
+   "Chlorine.png",
+   "Prismatism.png",
+   "Belldrop.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly Rarity",
+  "_table": 40,
+  "Level Req.": 114,
+  "Potion_2": "Broken Galaxy",
+  "Per Level Bonus": "Galaxial Slasher Gives 50 More Base Damage for Every Broken Dagger Crafted",
+  "_images": [
+   "Broken_galaxy.png",
+   "Hallownil.png",
+   "Chlorine.png",
+   "Sammatian.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly Rarity",
+  "_table": 40,
+  "Level Req.": 115,
+  "Potion_2": "Killionaire",
+  "Per Level Bonus": "15% Damage for Every Power of 10 Total Enemy Kills",
+  "_images": [
+   "Killionaire.png",
+   "Hallownil.png",
+   "Chlorine.png",
+   "Sammatian.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly Rarity",
+  "_table": 40,
+  "Level Req.": 116,
+  "Potion_2": "Standstill",
+  "Per Level Bonus": "Smithing Costs Go Up by 0.08% Less After Every Craft (Caps at -5.5%)",
+  "_images": [
+   "Standstill.png",
+   "Hallownil.png",
+   "Icecream.png",
+   "Essence.png",
+   "Belldrop.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly Rarity",
+  "_table": 40,
+  "Level Req.": 117,
+  "Potion_2": "Hourglass",
+  "Per Level Bonus": "5% Cash for Every Level of Hourglass Smithing Items Crafted",
+  "_images": [
+   "Hourglass.png",
+   "Hallownil.png",
+   "Icecream.png",
+   "Sammatian.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly Rarity",
+  "_table": 40,
+  "Level Req.": 118,
+  "Potion_2": "Shiny",
+  "Per Level Bonus": "20% Damage for Every Unspent Diamond Merit",
+  "_images": [
+   "Shiny.png",
+   "Badge5.png",
+   "Hallownil.png",
+   "Icecream.png",
+   "Belldrop.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly Rarity",
+  "_table": 40,
+  "Level Req.": 119,
+  "Potion_2": "Fame",
+  "Per Level Bonus": "8% Damage for Every Power of 10 Raid Awards Owned",
+  "_images": [
+   "Fame.png",
+   "Hallownil.png",
+   "Belldrop.png",
+   "Sammatian.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly Rarity",
+  "_table": 40,
+  "Level Req.": 120,
+  "Potion_2": "Miracle",
+  "Per Level Bonus": "X% Chance for a Super Cool Tunnels Card",
+  "_images": [
+   "Miracle_grow2.png",
+   "Sammatian.png",
+   "Belldrop.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly Rarity",
+  "_table": 40,
+  "Level Req.": 121,
+  "Potion_2": "Aloof",
+  "Per Level Bonus": "-0.1% Reduced Total Smithing Cost for Each Blacksmith Pill Crafted (Caps at -98%)",
+  "_images": [
+   "Aloof.png",
+   "Sammatian.png",
+   "Belldrop.png",
+   "Sunburst.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly Rarity",
+  "_table": 40,
+  "Level Req.": 122,
+  "Potion_2": "Bob Perfume",
+  "Per Level Bonus": "How Strange... This Potion Didn't Come with Any Description Label (Note: Required for Unlocking Bob Pet)",
+  "_images": [
+   "Zyxkal.png",
+   "Sammatian.png",
+   "Sunburst.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly Rarity",
+  "_table": 40,
+  "Level Req.": 123,
+  "Potion_2": "Pride",
+  "Per Level Bonus": "5% Damage for Every Level 5 Monster Card",
+  "_images": [
+   "Pride.png",
+   "Sammatian.png",
+   "Sunburst.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly Rarity",
+  "_table": 40,
+  "Level Req.": 124,
+  "Potion_2": "Unparalleled",
+  "Per Level Bonus": "2% Card Bonus (caps at 612%)",
+  "_images": [
+   "Unparalleled.png",
+   "Sammatian.png",
+   "Sunburst.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Godly Rarity",
+  "_table": 40,
+  "Level Req.": 125,
+  "Potion_2": "Blasphemy",
+  "Per Level Bonus": "2% Potion Bonus",
+  "_images": [
+   "Blasphemy.png",
+   "Sammatian.png",
+   "Sunburst.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cosmic Rarity",
+  "_table": 41,
+  "Level Req.": 126,
+  "Potion_2": "Cygnus",
+  "Per Level Bonus": "Levels Up All Red, Orange and Yellow Potion Every Time This One Levels Up",
+  "_images": [
+   "Cygnus.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_1.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cosmic Rarity",
+  "_table": 41,
+  "Level Req.": 127,
+  "Potion_2": "Lupinis",
+  "Per Level Bonus": "Oberon Obliterator Boost From Kills Increased To Power of 0.055% Fueled By Ensouled Heads",
+  "_images": [
+   "Lupinis.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_1.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cosmic Rarity",
+  "_table": 41,
+  "Level Req.": 128,
+  "Potion_2": "Orniun",
+  "Per Level Bonus": "0.16% Chance for Exp Req to Not Go Up When You Level Up Your Strength Level",
+  "_images": [
+   "Orniun.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_2.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cosmic Rarity",
+  "_table": 41,
+  "Level Req.": 129,
+  "Potion_2": "Cepheus",
+  "Per Level Bonus": "+1.5 Max Cauldron Speed Upgrade Levels",
+  "_images": [
+   "Cepheus.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_2.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cosmic Rarity",
+  "_table": 41,
+  "Level Req.": 130,
+  "Potion_2": "Persezia",
+  "Per Level Bonus": "0.16% Chance for Exp Req to Not Go Up When You Level Up Your Apothecary Level",
+  "_images": [
+   "Persezia.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_3.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cosmic Rarity",
+  "_table": 41,
+  "Level Req.": 131,
+  "Potion_2": "Auricia",
+  "Per Level Bonus": "2% Vessels Gain in Trekking",
+  "_images": [
+   "Auricia.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_3.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cosmic Rarity",
+  "_table": 41,
+  "Level Req.": 132,
+  "Potion_2": "Dippah",
+  "Per Level Bonus": "0.15% Chance for Exp Req to Not Go Up When You Level Up Your H2O Level",
+  "_images": [
+   "Dippah.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_4.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cosmic Rarity",
+  "_table": 41,
+  "Level Req.": 133,
+  "Potion_2": "Corvius",
+  "Per Level Bonus": "3% RP Gain for All Tanks",
+  "_images": [
+   "Corvius.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_4.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cosmic Rarity",
+  "_table": 41,
+  "Level Req.": 134,
+  "Potion_2": "Serpenzu",
+  "Per Level Bonus": "Levels Up All Green, Cyan and Purple Potion Every Time This One Levels Up",
+  "_images": [
+   "Serpenzu.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_5.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cosmic Rarity",
+  "_table": 41,
+  "Level Req.": 135,
+  "Potion_2": "Cantivici",
+  "Per Level Bonus": "0.13% Chain Level Chance",
+  "_images": [
+   "Cantivici.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_6.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Cosmic Rarity",
+  "_table": 41,
+  "Level Req.": 136,
+  "Potion_2": "Ophiucus",
+  "Per Level Bonus": "Levels Up All Demon and Godly Potion Every Time This One Levels Up",
+  "_images": [
+   "Ophiucus.png",
+   "Sammatian.png",
+   "Sunburst.png",
+   "IceCream_7.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Laddy",
+  "_table": 42,
+  "Level Req.": 152,
+  "Cons. Lv.": 1,
+  "Potion_2": "Redemptsin",
+  "Bonus": "Failing To Get a New Flower Increases New Flower Chance by X% (Only for Highest Plant)",
+  "_images": [
+   "Redemptsin.png",
+   "minril_soil.png",
+   "baubles.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Laddy",
+  "_table": 42,
+  "Level Req.": 153,
+  "Cons. Lv.": 1,
+  "Potion_2": "Tealy Drank",
+  "Bonus": "Leveling Up Fishing Has a X% Chance to Increase the Level of All 3 Power Upgrades",
+  "_images": [
+   "Tealy_Drank.png",
+   "minril_soil.png",
+   "baubles.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Laddy",
+  "_table": 42,
+  "Level Req.": 154,
+  "Cons. Lv.": 1,
+  "Potion_2": "Expendizzle",
+  "Bonus": "Tilling EXP Gain is Multiplied by X for Each New Crop Type Discovered",
+  "_images": [
+   "Expendizzle.png",
+   "spuddies.png",
+   "fluxissa.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Laddy",
+  "_table": 42,
+  "Level Req.": 155,
+  "Cons. Lv.": 2,
+  "Potion_2": "Spunky Pop",
+  "Bonus": "Spelunking EXP Gain Increased by +X% Every Power of 10 Gold Skulls Owned",
+  "_images": [
+   "Spunky_Pop.png",
+   "spuddies.png",
+   "fluxissa.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Laddy",
+  "_table": 42,
+  "Level Req.": 156,
+  "Cons. Lv.": 2,
+  "Potion_2": "Evoluzin",
+  "Bonus": "Chance to Hatch a New Pet is Increased by X% Every 20 Hatchery Levels",
+  "_images": [
+   "Evoluzin.png",
+   "vegetabip.png",
+   "spillage.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Laddy",
+  "_table": 42,
+  "Level Req.": 157,
+  "Cons. Lv.": 2,
+  "Potion_2": "Admite",
+  "Bonus": "Get a Permanent +X% Cash Bonus Every 10 Raid Tickets You Collect",
+  "_images": [
+   "Admite.png",
+   "vegetabip.png",
+   "spillage.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Laddy",
+  "_table": 42,
+  "Level Req.": 158,
+  "Cons. Lv.": 3,
+  "Potion_2": "Treasurade",
+  "Bonus": "+X% Damage for Every Treasure You Have at Least 1 Million of (Y for Each Skull)",
+  "_images": [
+   "Treasurade.png",
+   "vegetabip.png",
+   "alienbush.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Laddy",
+  "_table": 42,
+  "Level Req.": 159,
+  "Cons. Lv.": 3,
+  "Potion_2": "Diet Masty",
+  "Bonus": "Bonuses of the Mastery Perks Shown Below are Multiplied by X",
+  "_images": [
+   "Diet_Masty.png",
+   "Mastery_fight_1.png",
+   "Mastery_fight_2.png",
+   "Mastery_fight_6.png",
+   "Mastery_variety_10.png",
+   "bunnymunch.png",
+   "alienbush.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Laddy",
+  "_table": 42,
+  "Level Req.": 160,
+  "Cons. Lv.": 3,
+  "Potion_2": "Purple Drank",
+  "Bonus": "Leveling Up Mining Has a X% Chance to Increase the Value LVL of All Six Miners",
+  "_images": [
+   "Purple_Drank.png",
+   "bunnymunch.png",
+   "tentacles.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Laddy",
+  "_table": 42,
+  "Level Req.": 161,
+  "Cons. Lv.": 4,
+  "Potion_2": "Butof Course",
+  "Bonus": "EXP Gain for All 3 Pet Skills Increased by X%",
+  "_images": [
+   "Butof_Course.png",
+   "darnedlion.png",
+   "tentacles.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Laddy",
+  "_table": 42,
+  "Level Req.": 162,
+  "Cons. Lv.": 4,
+  "Potion_2": "Crackin Yolk",
+  "Bonus": "10% Chance to Trigger an Eggshell Chain These Eggshells are Worth times X More (caps at 3x)",
+  "_images": [
+   "Crackin_Yolk.png",
+   "darnedlion.png",
+   "eggsacks.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Laddy",
+  "_table": 42,
+  "Level Req.": 163,
+  "Cons. Lv.": 4,
+  "Potion_2": "Forewordi",
+  "Bonus": "times X Cash. Applied Y Times (Apply More via Trekking) (powered up by Nevasettle potion)",
+  "_images": [
+   "Forewordi.png",
+   "darnedlion.png",
+   "eggsacks.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Man",
+  "_table": 43,
+  "Cons. Lv.": 1,
+  "Potion_2": "Knowitall",
+  "Bonus": "Spelunk Learning Rate Increased by X%",
+  "_images": [
+   "Knowitall.png",
+   "violetta.png",
+   "shrapnil.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Man",
+  "_table": 43,
+  "Cons. Lv.": 1,
+  "Potion_2": "Keymeister",
+  "Bonus": "Get a Permanent +X% Damage Bonus Every 10 Asylum Keys You Collect",
+  "_images": [
+   "Keymeister.png",
+   "violetta.png",
+   "shrapnil.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Man",
+  "_table": 43,
+  "Cons. Lv.": 1,
+  "Potion_2": "Magno Booko",
+  "Bonus": "+X% Spelunker Speed per 10 Spelunking LVLs (Multiplied by Number of Learning Spelunkers)",
+  "_images": [
+   "Magno_Booko.png",
+   "stunflower.png",
+   "dabberdoo.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Man",
+  "_table": 43,
+  "Cons. Lv.": 2,
+  "Potion_2": "Coca Prola",
+  "Bonus": "Increases the Maximum Bonus Upgrade LVL of Pro Rifts to X (Caps at 100)",
+  "_images": [
+   "Coca_Prola.png",
+   "stunflower.png",
+   "dabberdoo.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Man",
+  "_table": 43,
+  "Cons. Lv.": 2,
+  "Potion_2": "Brown Drank",
+  "Bonus": "Leveling Up Tilling Has a X% Chance to Increase the Value LVL of All Eight Tillers",
+  "_images": [
+   "Brown_Drank.png",
+   "lewdplants.png",
+   "fourchese.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Man",
+  "_table": 43,
+  "Cons. Lv.": 2,
+  "Potion_2": "O Cal Masty",
+  "Bonus": "Bonuses of the Mastery Perks Shown Below Are Multiplied by X",
+  "_images": [
+   "O_Cal_Masty.png",
+   "Mastery_fight_3.png",
+   "Mastery_collect_1.png",
+   "Mastery_collect_2.png",
+   "Mastery_collect_3.png",
+   "Mastery_collect_4.png",
+   "Mastery_collect_7.png",
+   "lewdplants.png",
+   "fourchese.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Man",
+  "_table": 43,
+  "Cons. Lv.": 3,
+  "Potion_2": "Olivertime",
+  "Bonus": "Dig Down Amount Increases X% Faster After Reaching the End of a Tunnel",
+  "_images": [
+   "Olivertime.png",
+   "lewdplants.png",
+   "sapswing.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Man",
+  "_table": 43,
+  "Cons. Lv.": 3,
+  "Potion_2": "Gray Drank",
+  "Bonus": "Leveling Up Botany Has a X% Chance to Increase the Value and Speed LVL of All Pots",
+  "_images": [
+   "Gray_Drank.png",
+   "beanies.png",
+   "sapswing.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Man",
+  "_table": 43,
+  "Cons. Lv.": 3,
+  "Potion_2": "Hybriseed",
+  "Bonus": "Machine Speed Increase per Construction Level is X% Higher",
+  "_images": [
+   "Hybriseed.png",
+   "beanies.png",
+   "twisturn.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Man",
+  "_table": 43,
+  "Cons. Lv.": 4,
+  "Potion_2": "Injurade",
+  "Bonus": "+X% Pet Damage Every 25 Percent of HP Your Team is Missing",
+  "_images": [
+   "Injurade.png",
+   "Banana vine.png",
+   "twisturn.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Man",
+  "_table": 43,
+  "Cons. Lv.": 4,
+  "Potion_2": "Yolks On Yolks",
+  "Bonus": "Gives the Crackin Yolk Potion +X% Chance to Trigger an Eggshell Chain (caps at +65%)",
+  "_images": [
+   "Yolks_On_Yolks.png",
+   "Banana vine.png",
+   "corale.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Man",
+  "_table": 43,
+  "Cons. Lv.": 4,
+  "Potion_2": "Donut Bottle",
+  "Bonus": "Smithing Costs Go Up by a Minimum of X% Without This Potion the Minimum per LVL is 2.5%",
+  "_images": [
+   "Donut_Bottle.png",
+   "Banana vine.png",
+   "corale.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Maestro",
+  "_table": 44,
+  "Cons. Lv.": 1,
+  "Potion_2": "Liste Ntoit",
+  "Bonus": "Crop Costs for Brewing Reduced by X% for Every Power of 10 Saharan Foals Owned",
+  "_images": [
+   "Liste_Ntoit.png",
+   "rupturium.png",
+   "swissile.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Maestro",
+  "_table": 44,
+  "Cons. Lv.": 1,
+  "Potion_2": "Cascade",
+  "Bonus": "Leveling Up a Rift Has a X% Chance to Level Up the Rift to its Left (caps at 50%)",
+  "_images": [
+   "Cascade.png",
+   "rupturium.png",
+   "swissile.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Maestro",
+  "_table": 44,
+  "Cons. Lv.": 1,
+  "Potion_2": "Riche Biche",
+  "Bonus": "Spelunk Treasure is Worth X% More Every 10 Spelunking Level",
+  "_images": [
+   "Riche_Biche.png",
+   "Blue grap.png",
+   "Spider tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Maestro",
+  "_table": 44,
+  "Cons. Lv.": 2,
+  "Potion_2": "Macroppe",
+  "Bonus": "+X% Crusade Material Gain for Every Crusade Level Above 160 (Also +Y% Crusade EXP)",
+  "_images": [
+   "Macroppe.png",
+   "Blue grap.png",
+   "Spider tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Maestro",
+  "_table": 44,
+  "Cons. Lv.": 2,
+  "Potion_2": "Cup Of Calm",
+  "Bonus": "+X% Extra Levels Gained When a Spelunker Absorbs",
+  "_images": [
+   "Cup_Of_Calm.png",
+   "Pink grap.png",
+   "Normal rook.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Maestro",
+  "_table": 44,
+  "Cons. Lv.": 2,
+  "Potion_2": "Jug Of Storm",
+  "Bonus": "Learn Traits Can Now LVL Up by +X in a Single Absorb (caps at +15)",
+  "_images": [
+   "Jug_Of_Storm.png",
+   "Pink grap.png",
+   "Normal rook.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Maestro",
+  "_table": 44,
+  "Cons. Lv.": 3,
+  "Potion_2": "Crimsi Drank",
+  "Bonus": "Leveling Up Apothecary Has a X% Chance to Increase the Value and Speed LVL of Cauldrons",
+  "_images": [
+   "Crimsi_Drank.png",
+   "Pink grap.png",
+   "Podacian.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Maestro",
+  "_table": 44,
+  "Cons. Lv.": 3,
+  "Potion_2": "Cooooool",
+  "Bonus": "+X% Chance to Get Those Super Cool Tunnel Cards",
+  "_images": [
+   "Cooooool.png",
+   "White grap.png",
+   "Podacian.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Maestro",
+  "_table": 44,
+  "Cons. Lv.": 3,
+  "Potion_2": "Nest Lea",
+  "Bonus": "+X% Chance to Double LVL Up When Upgrading a Hatchery Nest (No Double Charge!) (caps at +200%)",
+  "_images": [
+   "Nest_Lea.png",
+   "White grap.png",
+   "Marsh mello.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Maestro",
+  "_table": 44,
+  "Cons. Lv.": 4,
+  "Potion_2": "Genetea",
+  "Bonus": "+X% Chance to Hatch a Pet with 2 or 3 Genes",
+  "_images": [
+   "Genetea.png",
+   "Abstract.png",
+   "Marsh mello.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Maestro",
+  "_table": 44,
+  "Cons. Lv.": 4,
+  "Potion_2": "Trunkoke",
+  "Bonus": "Tank LVL Up Reqs are Reduced by X% for Every Power of 10 Green Vessels Owned",
+  "_images": [
+   "Trunkoke.png",
+   "Abstract.png",
+   "Snowlad.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Maestro",
+  "_table": 44,
+  "Cons. Lv.": 4,
+  "Potion_2": "Badonkadonk",
+  "Bonus": "+X% Ores Every 50 Balls Launched (powered up by Baba Donakka potion)",
+  "_images": [
+   "Badonkadonk.png",
+   "Abstract.png",
+   "Snowlad.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Bobby",
+  "_table": 45,
+  "Cons. Lv.": 1,
+  "Potion_2": "Hydrogenation",
+  "Bonus": "times X Damage Bonus Applied Y Times (Level Up H2O to Apply More Times)",
+  "_images": [
+   "Hydrogenation.png",
+   "Nonsensic.png",
+   "Stem_cells.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Bobby",
+  "_table": 45,
+  "Cons. Lv.": 1,
+  "Potion_2": "Tressii",
+  "Bonus": "Increases the Max Perk Tree Upgrade LVL by +X (3 Perks Unaffected) (Caps at +35)",
+  "_images": [
+   "Tressii.png",
+   "Nonsensic.png",
+   "Stem_cells.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Bobby",
+  "_table": 45,
+  "Cons. Lv.": 1,
+  "Potion_2": "Certo Fizz",
+  "Bonus": "times X Flower Gain per Cert. Fish Certification Req: Show/Hide table  Fish Amount Fish Amount 24px]] 1 24px]] 1q 24px]] 10 24px]] 10q 24px]] 100 24px]] 100q 24px]] 1k 24px]] 1qq 24px]] 10k 24px]] 10qq 24px]] 100k 24px]] 100qq 24px]] 1m 24px]] 1 24px]] 10m 24px]] 10 24px]] 100m 24px]] 100 24px]] 1b 24px]] 1k 24px]] 10b 24px]] 10k 24px]] 100b 24px]] 100k 24px]] 1t 24px]] 1m 24px]] 10t 24px]] 10m 24px]] 100t 24px]] 100m",
+  "_images": [
+   "Certo_Fizz.png",
+   "Balderdash.png",
+   "Dank vine.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Bobby",
+  "_table": 45,
+  "Cons. Lv.": 2,
+  "Potion_2": "Certo Flav",
+  "Bonus": "times X Brew Speed per Cert. Flower Certification Req: Show/Hide table  Plant Amount Plant Amount 24px]] 1 24px]] 1k 24px]] 10 24px]] 10k 24px]] 100 24px]] 100k 24px]] 1k 24px]] 1m 24px]] 10k 24px]] 10m 24px]] 100k 24px]] 100m 24px]] 1m 24px]] 1b 24px]] 10m 24px]] 10b 24px]] 100m 24px]] 100b 24px]] 1b 24px]] 1t 24px]] 10b 24px]] 10t 24px]] 100b 24px]] 100t 24px]] 1t 24px]] 1q 24px]] 10t 24px]] 10q 24px]] 100t 24px]] 100q 24px]] 1q 24px]] 1qq 24px]] 10q 24px]] 10qq 24px]] 100q 24px]] 100qq 24px]] 1qq 24px]] 1 24px]] 10qq 24px]] 10 24px]] 100qq 24px]] 100 24px]] 1 24px]] 1k 24px]] 10 24px]] 10k 24px]] 100 24px]] 100k",
+  "_images": [
+   "Certo_Flav.png",
+   "Balderdash.png",
+   "Dank vine.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Bobby",
+  "_table": 45,
+  "Cons. Lv.": 2,
+  "Potion_2": "Certo Ouzo",
+  "Bonus": "times X Crop Gain per Cert. Ore Certification Req: Show/Hide table  Ore Amount Ore Amount 24px]] 1 24px]] 10b 24px]] 10 24px]] 100b 24px]] 100 24px]] 1t 24px]] 1k 24px]] 10t 24px]] 10k 24px]] 100t 24px]] 100k 24px]] 1q 24px]] 1m 24px]] 10q 24px]] 10m 24px]] 100q 24px]] 100m 24px]] 1qq 24px]] 1b 24px]] 10qq",
+  "_images": [
+   "Certo_Ouzo.png",
+   "Choco tree.png",
+   "Candypop2.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Bobby",
+  "_table": 45,
+  "Cons. Lv.": 2,
+  "Potion_2": "Certo Crum",
+  "Bonus": "times X Spelunk SPD per Cert. Crop Certification Req: Show/Hide table  Crop Amount Crop Amount 24px]] 1 24px]] 100qq 24px]] 10 24px]] 1 24px]] 100 24px]] 10 24px]] 1k 24px]] 100 24px]] 10k 24px]] 1k 24px]] 100k 24px]] 10k 24px]] 1m 24px]] 100k 24px]] 10m 24px]] 1m 24px]] 100m 24px]] 10m 24px]] 1b 24px]] 100m 24px]] 10b 24px]] 1b 24px]] 100b 24px]] 10b 24px]] 1t 24px]] 100b 24px]] 10t 24px]] 1t 24px]] 100t 24px]] 10t 24px]] 1q 24px]] 100t 24px]] 10q 24px]] 1q 24px]] 100q 24px]] 10q 24px]] 1qq 24px]] 100q 24px]] 10qq 24px]] 1qq",
+  "_images": [
+   "Certo_Crum.png",
+   "Choco tree.png",
+   "Candypop2.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Bobby",
+  "_table": 45,
+  "Cons. Lv.": 3,
+  "Potion_2": "Papa Fisto",
+  "Bonus": "Each Difficulty LVL Reached on the Final Crusade Boosts Doom Gauntlet by X",
+  "_images": [
+   "Papa_Fisto.png",
+   "Choco tree.png",
+   "Emoticons.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Bobby",
+  "_table": 45,
+  "Cons. Lv.": 3,
+  "Potion_2": "Travitatee",
+  "Bonus": "This Potion Will Boost Afterlife Gains Later... Gives times X Ores for Now (caps at 2)",
+  "_images": [
+   "Travitatee.png",
+   "Salt lick.png",
+   "Emoticons.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Bobby",
+  "_table": 45,
+  "Cons. Lv.": 3,
+  "Potion_2": "Resoursake",
+  "Bonus": "Ore. Fish. Botany. Potion. Crusade. and Limbo Card Bonuses are Increased to the Power of X (caps at 2)",
+  "_images": [
+   "Resoursake.png",
+   "Salt lick.png",
+   "Camouflage.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Bobby",
+  "_table": 45,
+  "Cons. Lv.": 4,
+  "Potion_2": "Damagirdiente",
+  "Bonus": "Cash. Kills. Tunnels. and All Damage Card Bonuses are Increased to the Power of X (caps at 2)",
+  "_images": [
+   "Damagirdiente.png",
+   "Carmamella.png",
+   "Camouflage.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Bobby",
+  "_table": 45,
+  "Cons. Lv.": 4,
+  "Potion_2": "Baba Donakka",
+  "Bonus": "Badonkadonk Potion Now Boosts More Things (Fish. Crops. Flowers. Brew Speed. Dmg) Its Boost is Increased to the Power of X (caps at 2)",
+  "_images": [
+   "Baba_Donakka.png",
+   "Carmamella.png",
+   "Glassicle.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Brew Bobby",
+  "_table": 45,
+  "Cons. Lv.": 4,
+  "Potion_2": "Nevasettle",
+  "Bonus": "Forewordi Potion Now Boosts More Things (Damage. Ores. Tank EXP. Crops) Also +1 Applied Bonus per 5 Aberrant Monsters (does not improve)",
+  "_images": [
+   "Nevasettle.png",
+   "Carmamella.png",
+   "Glassicle.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Weeds",
+  "Plant Requirements / Base Growth": 250,
+  "Plant Requirements / Pot Level / 1": 1,
+  "Plant Requirements / Pot Level / 2": 2,
+  "Plant Requirements / Pot Level / 3": 4,
+  "Plant Requirements / Pot Level / 4": 6,
+  "Plant Requirements / Pot Level / 5": 8,
+  "Plant Requirements / Pot Level / 6": 10,
+  "Plant Requirements / Pot Level / 7": 12,
+  "Plant Requirements / Pot Level / 8": 14,
+  "Plant Requirements / Pot Level / 9": 16,
+  "Plant Requirements / Pot Level / 10": 18,
+  "Plant Requirements / Pot Level / 11": 20,
+  "Plant Requirements / Pot Level / 12": 22,
+  "Plant Requirements / Pot Level / 13": 24,
+  "Plant Requirements / Pot Level / 14": 26,
+  "_images": [
+   "Weeds.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Berries",
+  "Plant Requirements / Base Growth": 750,
+  "Plant Requirements / Pot Level / 1": 3,
+  "Plant Requirements / Pot Level / 2": 5,
+  "Plant Requirements / Pot Level / 3": 7,
+  "Plant Requirements / Pot Level / 4": 9,
+  "Plant Requirements / Pot Level / 5": 11,
+  "Plant Requirements / Pot Level / 6": 13,
+  "Plant Requirements / Pot Level / 7": 15,
+  "Plant Requirements / Pot Level / 8": 17,
+  "Plant Requirements / Pot Level / 9": 19,
+  "Plant Requirements / Pot Level / 10": 21,
+  "Plant Requirements / Pot Level / 11": 23,
+  "Plant Requirements / Pot Level / 12": 25,
+  "Plant Requirements / Pot Level / 13": 27,
+  "Plant Requirements / Pot Level / 14": 29,
+  "_images": [
+   "Berries.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Typha",
+  "Plant Requirements / Base Growth": "2k",
+  "Plant Requirements / Pot Level / 1": 6,
+  "Plant Requirements / Pot Level / 2": 8,
+  "Plant Requirements / Pot Level / 3": 10,
+  "Plant Requirements / Pot Level / 4": 12,
+  "Plant Requirements / Pot Level / 5": 14,
+  "Plant Requirements / Pot Level / 6": 16,
+  "Plant Requirements / Pot Level / 7": 18,
+  "Plant Requirements / Pot Level / 8": 20,
+  "Plant Requirements / Pot Level / 9": 22,
+  "Plant Requirements / Pot Level / 10": 24,
+  "Plant Requirements / Pot Level / 11": 26,
+  "Plant Requirements / Pot Level / 12": 28,
+  "Plant Requirements / Pot Level / 13": 30,
+  "Plant Requirements / Pot Level / 14": 32,
+  "_images": [
+   "Typha.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Flowers",
+  "Plant Requirements / Base Growth": "5k",
+  "Plant Requirements / Pot Level / 1": 9,
+  "Plant Requirements / Pot Level / 2": 11,
+  "Plant Requirements / Pot Level / 3": 13,
+  "Plant Requirements / Pot Level / 4": 15,
+  "Plant Requirements / Pot Level / 5": 17,
+  "Plant Requirements / Pot Level / 6": 19,
+  "Plant Requirements / Pot Level / 7": 21,
+  "Plant Requirements / Pot Level / 8": 23,
+  "Plant Requirements / Pot Level / 9": 25,
+  "Plant Requirements / Pot Level / 10": 27,
+  "Plant Requirements / Pot Level / 11": 29,
+  "Plant Requirements / Pot Level / 12": 31,
+  "Plant Requirements / Pot Level / 13": 33,
+  "Plant Requirements / Pot Level / 14": 35,
+  "_images": [
+   "Flowers.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Cactus",
+  "Plant Requirements / Base Growth": "10k",
+  "Plant Requirements / Pot Level / 1": 12,
+  "Plant Requirements / Pot Level / 2": 14,
+  "Plant Requirements / Pot Level / 3": 16,
+  "Plant Requirements / Pot Level / 4": 18,
+  "Plant Requirements / Pot Level / 5": 20,
+  "Plant Requirements / Pot Level / 6": 22,
+  "Plant Requirements / Pot Level / 7": 24,
+  "Plant Requirements / Pot Level / 8": 26,
+  "Plant Requirements / Pot Level / 9": 28,
+  "Plant Requirements / Pot Level / 10": 30,
+  "Plant Requirements / Pot Level / 11": 32,
+  "Plant Requirements / Pot Level / 12": 34,
+  "Plant Requirements / Pot Level / 13": 36,
+  "Plant Requirements / Pot Level / 14": 38,
+  "_images": [
+   "Cactus.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Palm Tree",
+  "Plant Requirements / Base Growth": "25k",
+  "Plant Requirements / Pot Level / 1": 15,
+  "Plant Requirements / Pot Level / 2": 17,
+  "Plant Requirements / Pot Level / 3": 19,
+  "Plant Requirements / Pot Level / 4": 21,
+  "Plant Requirements / Pot Level / 5": 23,
+  "Plant Requirements / Pot Level / 6": 25,
+  "Plant Requirements / Pot Level / 7": 27,
+  "Plant Requirements / Pot Level / 8": 29,
+  "Plant Requirements / Pot Level / 9": 31,
+  "Plant Requirements / Pot Level / 10": 33,
+  "Plant Requirements / Pot Level / 11": 35,
+  "Plant Requirements / Pot Level / 12": 37,
+  "Plant Requirements / Pot Level / 13": 39,
+  "Plant Requirements / Pot Level / 14": 41,
+  "_images": [
+   "Palm_tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Sapling",
+  "Plant Requirements / Base Growth": "100k",
+  "Plant Requirements / Pot Level / 1": 18,
+  "Plant Requirements / Pot Level / 2": 20,
+  "Plant Requirements / Pot Level / 3": 22,
+  "Plant Requirements / Pot Level / 4": 24,
+  "Plant Requirements / Pot Level / 5": 26,
+  "Plant Requirements / Pot Level / 6": 28,
+  "Plant Requirements / Pot Level / 7": 30,
+  "Plant Requirements / Pot Level / 8": 32,
+  "Plant Requirements / Pot Level / 9": 34,
+  "Plant Requirements / Pot Level / 10": 36,
+  "Plant Requirements / Pot Level / 11": 38,
+  "Plant Requirements / Pot Level / 12": 40,
+  "Plant Requirements / Pot Level / 13": 42,
+  "Plant Requirements / Pot Level / 14": 44,
+  "_images": [
+   "Sapling.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Weeplings",
+  "Plant Requirements / Base Growth": "225k",
+  "Plant Requirements / Pot Level / 1": 21,
+  "Plant Requirements / Pot Level / 2": 23,
+  "Plant Requirements / Pot Level / 3": 25,
+  "Plant Requirements / Pot Level / 4": 27,
+  "Plant Requirements / Pot Level / 5": 29,
+  "Plant Requirements / Pot Level / 6": 31,
+  "Plant Requirements / Pot Level / 7": 33,
+  "Plant Requirements / Pot Level / 8": 35,
+  "Plant Requirements / Pot Level / 9": 37,
+  "Plant Requirements / Pot Level / 10": 39,
+  "Plant Requirements / Pot Level / 11": 41,
+  "Plant Requirements / Pot Level / 12": 43,
+  "Plant Requirements / Pot Level / 13": 45,
+  "Plant Requirements / Pot Level / 14": 47,
+  "_images": [
+   "Weeplings.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Saharan Foal",
+  "Plant Requirements / Base Growth": "500k",
+  "Plant Requirements / Pot Level / 1": 24,
+  "Plant Requirements / Pot Level / 2": 26,
+  "Plant Requirements / Pot Level / 3": 28,
+  "Plant Requirements / Pot Level / 4": 30,
+  "Plant Requirements / Pot Level / 5": 32,
+  "Plant Requirements / Pot Level / 6": 34,
+  "Plant Requirements / Pot Level / 7": 36,
+  "Plant Requirements / Pot Level / 8": 38,
+  "Plant Requirements / Pot Level / 9": 40,
+  "Plant Requirements / Pot Level / 10": 42,
+  "Plant Requirements / Pot Level / 11": 44,
+  "Plant Requirements / Pot Level / 12": 46,
+  "Plant Requirements / Pot Level / 13": 48,
+  "Plant Requirements / Pot Level / 14": 50,
+  "_images": [
+   "saharan_foal.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Mint Cane",
+  "Plant Requirements / Base Growth": "1m",
+  "Plant Requirements / Pot Level / 1": 27,
+  "Plant Requirements / Pot Level / 2": 29,
+  "Plant Requirements / Pot Level / 3": 31,
+  "Plant Requirements / Pot Level / 4": 33,
+  "Plant Requirements / Pot Level / 5": 35,
+  "Plant Requirements / Pot Level / 6": 37,
+  "Plant Requirements / Pot Level / 7": 39,
+  "Plant Requirements / Pot Level / 8": 41,
+  "Plant Requirements / Pot Level / 9": 43,
+  "Plant Requirements / Pot Level / 10": 45,
+  "Plant Requirements / Pot Level / 11": 47,
+  "Plant Requirements / Pot Level / 12": 49,
+  "Plant Requirements / Pot Level / 13": 51,
+  "Plant Requirements / Pot Level / 14": 53,
+  "_images": [
+   "Mint_cane.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Crystals",
+  "Plant Requirements / Base Growth": "2.5m",
+  "Plant Requirements / Pot Level / 1": 30,
+  "Plant Requirements / Pot Level / 2": 32,
+  "Plant Requirements / Pot Level / 3": 34,
+  "Plant Requirements / Pot Level / 4": 36,
+  "Plant Requirements / Pot Level / 5": 38,
+  "Plant Requirements / Pot Level / 6": 40,
+  "Plant Requirements / Pot Level / 7": 42,
+  "Plant Requirements / Pot Level / 8": 44,
+  "Plant Requirements / Pot Level / 9": 46,
+  "Plant Requirements / Pot Level / 10": 48,
+  "Plant Requirements / Pot Level / 11": 50,
+  "Plant Requirements / Pot Level / 12": 52,
+  "Plant Requirements / Pot Level / 13": 54,
+  "Plant Requirements / Pot Level / 14": 56,
+  "_images": [
+   "Crystals.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Candypop",
+  "Plant Requirements / Base Growth": "5m",
+  "Plant Requirements / Pot Level / 1": 33,
+  "Plant Requirements / Pot Level / 2": 35,
+  "Plant Requirements / Pot Level / 3": 37,
+  "Plant Requirements / Pot Level / 4": 39,
+  "Plant Requirements / Pot Level / 5": 41,
+  "Plant Requirements / Pot Level / 6": 43,
+  "Plant Requirements / Pot Level / 7": 45,
+  "Plant Requirements / Pot Level / 8": 47,
+  "Plant Requirements / Pot Level / 9": 49,
+  "Plant Requirements / Pot Level / 10": 51,
+  "Plant Requirements / Pot Level / 11": 53,
+  "Plant Requirements / Pot Level / 12": 55,
+  "Plant Requirements / Pot Level / 13": 57,
+  "Plant Requirements / Pot Level / 14": 59,
+  "_images": [
+   "Candypop.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Fyreling",
+  "Plant Requirements / Base Growth": "25m",
+  "Plant Requirements / Pot Level / 1": 36,
+  "Plant Requirements / Pot Level / 2": 38,
+  "Plant Requirements / Pot Level / 3": 40,
+  "Plant Requirements / Pot Level / 4": 42,
+  "Plant Requirements / Pot Level / 5": 44,
+  "Plant Requirements / Pot Level / 6": 46,
+  "Plant Requirements / Pot Level / 7": 48,
+  "Plant Requirements / Pot Level / 8": 50,
+  "Plant Requirements / Pot Level / 9": 52,
+  "Plant Requirements / Pot Level / 10": 54,
+  "Plant Requirements / Pot Level / 11": 56,
+  "Plant Requirements / Pot Level / 12": 58,
+  "Plant Requirements / Pot Level / 13": 60,
+  "Plant Requirements / Pot Level / 14": 62,
+  "_images": [
+   "Fyreling.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Blood Tree",
+  "Plant Requirements / Base Growth": "50m",
+  "Plant Requirements / Pot Level / 1": 39,
+  "Plant Requirements / Pot Level / 2": 41,
+  "Plant Requirements / Pot Level / 3": 43,
+  "Plant Requirements / Pot Level / 4": 45,
+  "Plant Requirements / Pot Level / 5": 47,
+  "Plant Requirements / Pot Level / 6": 49,
+  "Plant Requirements / Pot Level / 7": 51,
+  "Plant Requirements / Pot Level / 8": 53,
+  "Plant Requirements / Pot Level / 9": 55,
+  "Plant Requirements / Pot Level / 10": 57,
+  "Plant Requirements / Pot Level / 11": 59,
+  "Plant Requirements / Pot Level / 12": 61,
+  "Plant Requirements / Pot Level / 13": 63,
+  "Plant Requirements / Pot Level / 14": 65,
+  "_images": [
+   "Blood_tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Mushroom",
+  "Plant Requirements / Base Growth": "125m",
+  "Plant Requirements / Pot Level / 1": 42,
+  "Plant Requirements / Pot Level / 2": 44,
+  "Plant Requirements / Pot Level / 3": 46,
+  "Plant Requirements / Pot Level / 4": 48,
+  "Plant Requirements / Pot Level / 5": 50,
+  "Plant Requirements / Pot Level / 6": 52,
+  "Plant Requirements / Pot Level / 7": 54,
+  "Plant Requirements / Pot Level / 8": 56,
+  "Plant Requirements / Pot Level / 9": 58,
+  "Plant Requirements / Pot Level / 10": 60,
+  "Plant Requirements / Pot Level / 11": 62,
+  "Plant Requirements / Pot Level / 12": 64,
+  "Plant Requirements / Pot Level / 13": 66,
+  "Plant Requirements / Pot Level / 14": 68,
+  "_images": [
+   "Mushroom_ingredient.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Flesh Tree",
+  "Plant Requirements / Base Growth": "300m",
+  "Plant Requirements / Pot Level / 1": 45,
+  "Plant Requirements / Pot Level / 2": 47,
+  "Plant Requirements / Pot Level / 3": 49,
+  "Plant Requirements / Pot Level / 4": 51,
+  "Plant Requirements / Pot Level / 5": 53,
+  "Plant Requirements / Pot Level / 6": 55,
+  "Plant Requirements / Pot Level / 7": 57,
+  "Plant Requirements / Pot Level / 8": 59,
+  "Plant Requirements / Pot Level / 9": 61,
+  "Plant Requirements / Pot Level / 10": 63,
+  "Plant Requirements / Pot Level / 11": 65,
+  "Plant Requirements / Pot Level / 12": 67,
+  "Plant Requirements / Pot Level / 13": 69,
+  "Plant Requirements / Pot Level / 14": 71,
+  "_images": [
+   "Flesh_tree.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Demonia",
+  "Plant Requirements / Base Growth": "800m",
+  "Plant Requirements / Pot Level / 1": 48,
+  "Plant Requirements / Pot Level / 2": 50,
+  "Plant Requirements / Pot Level / 3": 52,
+  "Plant Requirements / Pot Level / 4": 54,
+  "Plant Requirements / Pot Level / 5": 56,
+  "Plant Requirements / Pot Level / 6": 58,
+  "Plant Requirements / Pot Level / 7": 60,
+  "Plant Requirements / Pot Level / 8": 62,
+  "Plant Requirements / Pot Level / 9": 64,
+  "Plant Requirements / Pot Level / 10": 66,
+  "Plant Requirements / Pot Level / 11": 68,
+  "Plant Requirements / Pot Level / 12": 70,
+  "Plant Requirements / Pot Level / 13": 72,
+  "Plant Requirements / Pot Level / 14": 74,
+  "_images": [
+   "Demonia.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Cursed Eye",
+  "Plant Requirements / Base Growth": "1.5b",
+  "Plant Requirements / Pot Level / 1": 51,
+  "Plant Requirements / Pot Level / 2": 53,
+  "Plant Requirements / Pot Level / 3": 55,
+  "Plant Requirements / Pot Level / 4": 57,
+  "Plant Requirements / Pot Level / 5": 59,
+  "Plant Requirements / Pot Level / 6": 61,
+  "Plant Requirements / Pot Level / 7": 63,
+  "Plant Requirements / Pot Level / 8": 65,
+  "Plant Requirements / Pot Level / 9": 67,
+  "Plant Requirements / Pot Level / 10": 69,
+  "Plant Requirements / Pot Level / 11": 71,
+  "Plant Requirements / Pot Level / 12": 73,
+  "Plant Requirements / Pot Level / 13": 75,
+  "Plant Requirements / Pot Level / 14": 77,
+  "_images": [
+   "Cursed_eye.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Veninsulic",
+  "Plant Requirements / Base Growth": "8b",
+  "Plant Requirements / Pot Level / 1": 54,
+  "Plant Requirements / Pot Level / 2": 56,
+  "Plant Requirements / Pot Level / 3": 58,
+  "Plant Requirements / Pot Level / 4": 60,
+  "Plant Requirements / Pot Level / 5": 62,
+  "Plant Requirements / Pot Level / 6": 64,
+  "Plant Requirements / Pot Level / 7": 66,
+  "Plant Requirements / Pot Level / 8": 68,
+  "Plant Requirements / Pot Level / 9": 70,
+  "Plant Requirements / Pot Level / 10": 72,
+  "Plant Requirements / Pot Level / 11": 74,
+  "Plant Requirements / Pot Level / 12": 76,
+  "Plant Requirements / Pot Level / 13": 78,
+  "Plant Requirements / Pot Level / 14": 80,
+  "_images": [
+   "Veninsulic.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Lemming",
+  "Plant Requirements / Base Growth": "15b",
+  "Plant Requirements / Pot Level / 1": 57,
+  "Plant Requirements / Pot Level / 2": 59,
+  "Plant Requirements / Pot Level / 3": 61,
+  "Plant Requirements / Pot Level / 4": 63,
+  "Plant Requirements / Pot Level / 5": 65,
+  "Plant Requirements / Pot Level / 6": 67,
+  "Plant Requirements / Pot Level / 7": 69,
+  "Plant Requirements / Pot Level / 8": 71,
+  "Plant Requirements / Pot Level / 9": 73,
+  "Plant Requirements / Pot Level / 10": 75,
+  "Plant Requirements / Pot Level / 11": 77,
+  "Plant Requirements / Pot Level / 12": 79,
+  "Plant Requirements / Pot Level / 13": 81,
+  "Plant Requirements / Pot Level / 14": 83,
+  "_images": [
+   "Lemming.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Chlorine",
+  "Plant Requirements / Base Growth": "29b",
+  "Plant Requirements / Pot Level / 1": 60,
+  "Plant Requirements / Pot Level / 2": 62,
+  "Plant Requirements / Pot Level / 3": 64,
+  "Plant Requirements / Pot Level / 4": 66,
+  "Plant Requirements / Pot Level / 5": 68,
+  "Plant Requirements / Pot Level / 6": 70,
+  "Plant Requirements / Pot Level / 7": 72,
+  "Plant Requirements / Pot Level / 8": 74,
+  "Plant Requirements / Pot Level / 9": 76,
+  "Plant Requirements / Pot Level / 10": 78,
+  "Plant Requirements / Pot Level / 11": 80,
+  "Plant Requirements / Pot Level / 12": 82,
+  "Plant Requirements / Pot Level / 13": 84,
+  "Plant Requirements / Pot Level / 14": 86,
+  "_images": [
+   "Chlorine.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Icecream",
+  "Plant Requirements / Base Growth": "100b",
+  "Plant Requirements / Pot Level / 1": 63,
+  "Plant Requirements / Pot Level / 2": 65,
+  "Plant Requirements / Pot Level / 3": 67,
+  "Plant Requirements / Pot Level / 4": 69,
+  "Plant Requirements / Pot Level / 5": 71,
+  "Plant Requirements / Pot Level / 6": 73,
+  "Plant Requirements / Pot Level / 7": 75,
+  "Plant Requirements / Pot Level / 8": 77,
+  "Plant Requirements / Pot Level / 9": 79,
+  "Plant Requirements / Pot Level / 10": 81,
+  "Plant Requirements / Pot Level / 11": 83,
+  "Plant Requirements / Pot Level / 12": 85,
+  "Plant Requirements / Pot Level / 13": 87,
+  "Plant Requirements / Pot Level / 14": 89,
+  "_images": [
+   "Icecream.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Belldrop",
+  "Plant Requirements / Base Growth": "699b",
+  "Plant Requirements / Pot Level / 1": 66,
+  "Plant Requirements / Pot Level / 2": 68,
+  "Plant Requirements / Pot Level / 3": 70,
+  "Plant Requirements / Pot Level / 4": 72,
+  "Plant Requirements / Pot Level / 5": 74,
+  "Plant Requirements / Pot Level / 6": 76,
+  "Plant Requirements / Pot Level / 7": 78,
+  "Plant Requirements / Pot Level / 8": 80,
+  "Plant Requirements / Pot Level / 9": 82,
+  "Plant Requirements / Pot Level / 10": 84,
+  "Plant Requirements / Pot Level / 11": 86,
+  "Plant Requirements / Pot Level / 12": 88,
+  "Plant Requirements / Pot Level / 13": 90,
+  "Plant Requirements / Pot Level / 14": 92,
+  "_images": [
+   "Belldrop.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Plants",
+  "_table": 46,
+  "Plant Requirements / Plant_2": "Sunburst",
+  "Plant Requirements / Base Growth": "4.9t",
+  "Plant Requirements / Pot Level / 1": 69,
+  "Plant Requirements / Pot Level / 2": 71,
+  "Plant Requirements / Pot Level / 3": 73,
+  "Plant Requirements / Pot Level / 4": 75,
+  "Plant Requirements / Pot Level / 5": 77,
+  "Plant Requirements / Pot Level / 6": 79,
+  "Plant Requirements / Pot Level / 7": 81,
+  "Plant Requirements / Pot Level / 8": 83,
+  "Plant Requirements / Pot Level / 9": 85,
+  "Plant Requirements / Pot Level / 10": 87,
+  "Plant Requirements / Pot Level / 11": 89,
+  "Plant Requirements / Pot Level / 12": 91,
+  "Plant Requirements / Pot Level / 13": 93,
+  "Plant Requirements / Pot Level / 14": 95,
+  "_images": [
+   "Sunburst.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Plants",
+  "_table": 47,
+  "Plant Requirements / Plant_2": "Baubles",
+  "Plant Requirements / Base Growth": "40t",
+  "Plant Requirements / Construction": "Bucketeers Lv. 1",
+  "Plant Requirements / Plant_4": "Swissile",
+  "Plant Requirements / Base Growth_2": "4.5qq",
+  "Plant Requirements / Construction_2": "Plant Em All Lv.1",
+  "_images": [
+   "Baubles.png",
+   "Bucketeers.png",
+   "Swissile.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Plants",
+  "_table": 47,
+  "Plant Requirements / Plant_2": "Fluxissa",
+  "Plant Requirements / Base Growth": "80t",
+  "Plant Requirements / Construction": "Bucketeers Lv. 1",
+  "Plant Requirements / Plant_4": "Spider Tree",
+  "Plant Requirements / Base Growth_2": "15qq",
+  "Plant Requirements / Construction_2": "Plant Em All Lv.1",
+  "_images": [
+   "Fluxissa.png",
+   "Bucketeers.png",
+   "Spider_tree.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Plants",
+  "_table": 47,
+  "Plant Requirements / Plant_2": "Spillage",
+  "Plant Requirements / Base Growth": "150t",
+  "Plant Requirements / Construction": "Bucketeers Lv. 1",
+  "Plant Requirements / Plant_4": "Normal Rook",
+  "Plant Requirements / Base Growth_2": "35qq",
+  "Plant Requirements / Construction_2": "Plant Em All Lv.1",
+  "_images": [
+   "Spillage.png",
+   "Bucketeers.png",
+   "Normal_rook.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Plants",
+  "_table": 47,
+  "Plant Requirements / Plant_2": "Alienbush",
+  "Plant Requirements / Base Growth": "350t",
+  "Plant Requirements / Construction": "Bucketeers Lv. 1",
+  "Plant Requirements / Plant_4": "Podacian",
+  "Plant Requirements / Base Growth_2": "80qq",
+  "Plant Requirements / Construction_2": "Plant Em All Lv.1",
+  "_images": [
+   "Alienbush.png",
+   "Bucketeers.png",
+   "Podacian.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Plants",
+  "_table": 47,
+  "Plant Requirements / Plant_2": "Tentacles",
+  "Plant Requirements / Base Growth": "800t",
+  "Plant Requirements / Construction": "Bucketeers Lv. 1",
+  "Plant Requirements / Plant_4": "Marsh Mello",
+  "Plant Requirements / Base Growth_2": "250qq",
+  "Plant Requirements / Construction_2": "Plant Em All Lv.1",
+  "_images": [
+   "Tentacles.png",
+   "Bucketeers.png",
+   "Marsh_mello.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Plants",
+  "_table": 47,
+  "Plant Requirements / Plant_2": "Eggsacks",
+  "Plant Requirements / Base Growth": "1.5q",
+  "Plant Requirements / Construction": "Bucketeers Lv. 1",
+  "Plant Requirements / Plant_4": "Snowlad",
+  "Plant Requirements / Base Growth_2": "600qq",
+  "Plant Requirements / Construction_2": "Plant Em All Lv.1",
+  "_images": [
+   "Eggsacks.png",
+   "Bucketeers.png",
+   "Snowlad.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Plants",
+  "_table": 47,
+  "Plant Requirements / Plant_2": "Shrapnil",
+  "Plant Requirements / Base Growth": "9q",
+  "Plant Requirements / Construction": "Bucketeers Lv. 2",
+  "Plant Requirements / Plant_4": "Stem Cells",
+  "Plant Requirements / Base Growth_2": 5,
+  "Plant Requirements / Construction_2": "Plant Em All Lv. 2",
+  "_images": [
+   "Shrapnil.png",
+   "Bucketeers.png",
+   "Stem_cells.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Plants",
+  "_table": 47,
+  "Plant Requirements / Plant_2": "Dabberdoo",
+  "Plant Requirements / Base Growth": "35q",
+  "Plant Requirements / Construction": "Bucketeers Lv. 2",
+  "Plant Requirements / Plant_4": "Dank Vine",
+  "Plant Requirements / Base Growth_2": 30,
+  "Plant Requirements / Construction_2": "Plant Em All Lv. 2",
+  "_images": [
+   "Dabberdoo.png",
+   "Bucketeers.png",
+   "Dank_vine.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Plants",
+  "_table": 47,
+  "Plant Requirements / Plant_2": "Fourchese",
+  "Plant Requirements / Base Growth": "85q",
+  "Plant Requirements / Construction": "Bucketeers Lv. 2",
+  "Plant Requirements / Plant_3": "​​",
+  "Plant Requirements / Plant_4": "Candypop",
+  "Plant Requirements / Base Growth_2": 199,
+  "Plant Requirements / Construction_2": "Plant Em All Lv. 2",
+  "_images": [
+   "Fourchese.png",
+   "Bucketeers.png",
+   "Candypop2.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Plants",
+  "_table": 47,
+  "Plant Requirements / Plant_2": "Sapswing",
+  "Plant Requirements / Base Growth": "200q",
+  "Plant Requirements / Construction": "Bucketeers Lv. 2",
+  "Plant Requirements / Plant_4": "Emoticons",
+  "Plant Requirements / Base Growth_2": "4k",
+  "Plant Requirements / Construction_2": "Plant Em All Lv. 2",
+  "_images": [
+   "Sapswing.png",
+   "Bucketeers.png",
+   "Emoticons.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Plants",
+  "_table": 47,
+  "Plant Requirements / Plant_2": "Twisturn",
+  "Plant Requirements / Base Growth": "650q",
+  "Plant Requirements / Construction": "Bucketeers Lv. 2",
+  "Plant Requirements / Plant_3": "​​​",
+  "Plant Requirements / Plant_4": "Camouflage",
+  "Plant Requirements / Base Growth_2": "90k",
+  "Plant Requirements / Construction_2": "Plant Em All Lv. 2",
+  "_images": [
+   "Twisturn.png",
+   "Bucketeers.png",
+   "Camouflage.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Darkmode Plants",
+  "_table": 47,
+  "Plant Requirements / Plant_2": "Corale",
+  "Plant Requirements / Base Growth": "2.5qq",
+  "Plant Requirements / Construction": "Bucketeers Lv. 2",
+  "Plant Requirements / Plant_4": "Glassicle",
+  "Plant Requirements / Base Growth_2": "5m",
+  "Plant Requirements / Construction_2": "Plant Em All Lv. 2",
+  "_images": [
+   "Corale.png",
+   "Bucketeers.png",
+   "Glassicle.png",
+   "Plant_em_all.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": 100,
+  "Name": "Coin",
+  "_images": [
+   "bag_1.png",
+   "t_coin.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "1k",
+  "Name": "Ore Veins",
+  "_images": [
+   "bag_2.png",
+   "t_ore_veins.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "10k",
+  "Name": "Crown",
+  "_images": [
+   "bag_3.png",
+   "t_crown.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "100k",
+  "Name": "Candle",
+  "_images": [
+   "bag_4.png",
+   "t_candle.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "1M",
+  "Name": "Heavy Bars",
+  "_images": [
+   "bag_5.png",
+   "t_heavy_bars.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "10M",
+  "Name": "Starlight",
+  "_images": [
+   "bag_6.png",
+   "t_starlight.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "100M",
+  "Name": "Wealth Obol",
+  "_images": [
+   "bag_7.png",
+   "t_wealth_obol.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "1B",
+  "Name": "Music Note",
+  "_images": [
+   "bag_8.png",
+   "t_music_note.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "10B",
+  "Name": "Diamond",
+  "_images": [
+   "bag_9.png",
+   "t_diamond.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "100B",
+  "Name": "Maybe Soap",
+  "_images": [
+   "bag_10.png",
+   "t_maybe_soap.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "1T",
+  "Name": "Silver Booty",
+  "_images": [
+   "bag_11.png",
+   "t_silver_booty.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "10T",
+  "Name": "Champ Cup",
+  "_images": [
+   "bag_12.png",
+   "t_champ_cup.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "100T",
+  "Name": "Shrapnel",
+  "_images": [
+   "bag_13.png",
+   "t_shrapnel.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "1Q",
+  "Name": "Frozen Obol",
+  "_images": [
+   "bag_14.png",
+   "t_frozen_obol.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "10Q",
+  "Name": "Irish Clover",
+  "_images": [
+   "bag_15.png",
+   "t_irish_clover.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "100Q",
+  "Name": "Octagox",
+  "_images": [
+   "bag_16.png",
+   "t_octagox.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "1QQ",
+  "Name": "Cristils",
+  "_images": [
+   "sack_mach_1.png",
+   "t_cristils.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "10QQ",
+  "Name": "Leaf Ring",
+  "_images": [
+   "sack_mach_2.png",
+   "t_leaf_ring.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "100QQ",
+  "Name": "Geode",
+  "_images": [
+   "sack_mach_3.png",
+   "t_geode.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": 1,
+  "Name": "Jade",
+  "_images": [
+   "sack_mach_4.png",
+   "t_jade.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": 10,
+  "Name": "Calming Obol",
+  "_images": [
+   "sack_mach_5.png",
+   "t_calming_obol.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": 100,
+  "Name": "Blobbish",
+  "_images": [
+   "sack_mach_6.png",
+   "t_blobbish.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "1k",
+  "Name": "Ruby",
+  "_images": [
+   "sack_mach_7.png",
+   "t_ruby.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "10k",
+  "Name": "Prime Meat",
+  "_images": [
+   "sack_mach_8.png",
+   "t_prime_meat.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "100k",
+  "Name": "Scroll",
+  "_images": [
+   "sack_mach_9.png",
+   "t_scroll.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Value": "1M",
+  "Name": "Sigil",
+  "_images": [
+   "sack_mach_10.png",
+   "t_sigil.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Name": "The Mark",
+  "_images": [
+   "t_the_mark.png"
+  ]
+ },
+ {
+  "_page": "Resources",
+  "_section": "Treasure",
+  "_table": 48,
+  "Name": "Temper Obol",
+  "_images": [
+   "t_temper_obol.png"
+  ]
+ }
+]

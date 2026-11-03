@@ -1,0 +1,194 @@
+<table-progress-tracking table-id="Mountains1" unique-column-index="2">
+{| class="listing sortable" style="width: 100%;" border="0" align="center"
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |Zone
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+|-
+|[[File:C_flakey.png|36px]]
+|Mountains-1
+|Flakey
+|Cultist Efficiency
+|6%
+|120%
+|-
+|[[File:C_snow_pot.png|36px]]
+|Mountains-2
+|Snow Pot
+|Summon EXP Chance
+|4%
+|80%
+|-
+|[[File:C_ice_cream.png|36px]]
+|Mountains-3
+|Ice Cream
+|Healing from Heal Skill
+|10%
+|200%
+|-
+|[[File:C_ice_rock.png|36px]]
+|Mountains-4
+|Ice Rock
+|Mining EXP Gained
+|4%
+|80%
+|-
+|[[File:C_baby_goat.png|36px]]
+|Mountains-5
+|Baby Goat
+|Accuracy
+|5%
+|100%
+|-
+|[[File:C_snowballs.png|36px]]
+|Mountains-6
+|Snowballs
+|Acolyte Efficiency
+|7%
+|140%
+|-
+|[[File:C_flakissimo.png|36px]]
+|Mountains-7
+|Flakissimo
+|Attack EXP Chance
+|4%
+|80%
+|-
+|[[File:C_sickle.png|36px]]
+|Mountains-8
+|Sickle
+|Endurance EXP Chance
+|4%
+|80%
+|-
+|[[File:C_yeti.png|36px]]
+|Mountains-9
+|Yeti
+|Spirit EXP Chance
+|4%
+|80%
+|-
+|[[File:C_glouwey.png|36px]]
+|Mountains-10
+|Glouwey
+|Smithing EXP from Crafting
+|4%
+|80%
+|-
+|[[File:C_ice_jelly.png|36px]]
+|Mountains-11
+|Ice Jelly
+|Crit Damage
+|9%
+|180%
+|-
+|[[File:C_coll_drink.png|36px]]
+|Mountains-12
+|Cool Drink
+|Healing from Food
+|8%
+|160%
+|-
+|[[File:C_grow_goat.png|36px]]
+|Mountains-13
+|Grow Goat
+|Summon EXP Chance
+|4%
+|80%
+|-
+|[[File:C_blue_phat.png|36px]]
+|Mountains-14
+|Blue Phat
+|Monster Cash
+|15%
+|300%
+|-
+|[[File:C_snaps.png|36px]]
+|Mountains-15
+|Snaps
+|Raid Drop Luck
+|7%
+|140%
+|-
+|[[File:C_sea_monster.png|36px]]
+|Mountains-16
+|Sea Monster
+|Claw Skill Damage
+|9%
+|180%
+|-
+|[[File:C_cylic_relic.png|36px]]
+|Mountains-17
+|Cylic Relic
+|Ores from Mining
+|7%
+|140%
+|-
+|[[File:C_bloque.png|36px]]
+|Mountains-18
+|Bloque
+|Monster Damage Reduction
+|0.8%
+|16%
+|-
+|[[File:C_elder_goat.png|36px]]
+|Mountains-19
+|Elder Goat
+|Base Damage
+|6%
+|120%
+|-
+|[[File:C_cold_slime.png|36px]]
+|Mountains-20
+|Cold Slime
+|Mining EXP Chance
+|4%
+|80%
+|-
+|[[File:C_crystalline.png|36px]]
+|Mountains-21
+|Crystalline
+|Idle Damage
+|7%
+|140%
+|-
+|[[File:C_frozen_bob.png|36px]]
+|Mountains-22
+|Frozen Bob
+|Smithing EXP from Crafting
+|4%
+|80%
+|-
+|[[File:C_twostrip.png|36px]]
+|Mountains-23
+|Twostrip
+|Mining EXP Gained
+|4%
+|80%
+|-
+|[[File:C_disciple_r.png|36px]]
+|Mountains-24
+|Disciple R
+|Crit Chance
+|1%
+|20%
+|-
+|[[File:C_keymaster_r.png|36px]]
+|Mountains-25
+|Keymaster R
+|Total Health
+|8%
+|160%
+|-
+|[[File:C_mountains_glitch.png|36px]]
+|Mountains-26+
+|Mountains Glitch
+|Attack EXP Chance
+|4%
+|80%
+|}
+</table-progress-tracking>
+[[Category:Cards]]

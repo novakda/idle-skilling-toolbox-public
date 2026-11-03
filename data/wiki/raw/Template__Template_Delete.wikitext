@@ -1,0 +1,9 @@
+<onlyinclude>{{Mbox
+|color=red
+|image=mbox_delete.png
+|header=Nominated for deletion (reason: {{#ifeq:{{lc:{{{bot|}}}}}|yes|[[Help:Bots|Bot request]]|{{#if:{{{1|}}}|{{{1}}}|{{color|gray|none given}}}}}})
+|content=
+If you disagree with this page's deletion or intend on improving the article, please explain on the talk page before removing the template.
+}}<includeonly>[[Category:Nominated for deletion]]</includeonly></onlyinclude>
+{{Documentation}}
+[[Category:Page management templates]]

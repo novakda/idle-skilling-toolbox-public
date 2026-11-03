@@ -1,0 +1,13 @@
+{| style="width: 60%;margin:auto;" cellspacing="0" cellpadding="0" border="0"
+| style="width: 15%;" |[[File:Pets_Icon.png|center|60px|link=Pets]]
+| style="width: 15%;" |[[File:Hatchery_Icon.png|center|60px|link=Hatchery]]
+| style="width: 15%;" |[[File:Trekking_Icon.png|center|60px|link=Trekking]]
+| style="width: 15%;" |[[File:Research_Icon.png|center|60px|link=Research]]
+|-
+| style="text-align: center;" |[[Pets]]
+| style="text-align: center;" |[[Hatchery]]
+| style="text-align: center;" |[[Trekking]]
+| style="text-align: center;" |[[Research]]
+|}
+
+<hr class="page-header__separator" style="margin-top:18px;" />

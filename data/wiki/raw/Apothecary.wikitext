@@ -1,0 +1,1458 @@
+{{:Header/Farming}}
+
+The Apothecary is used to brew potions with permanent game bonuses using resources generated from [[Tilling]] and [[Botany]]. [[Ascension]] does not reset or change any aspect in Apothecary, but [[Rebirth]]ing will only reset Apothecary level. Potions already crafted remain, and can continue to be crafted if they've been crafted beyond level 1.
+
+==Cauldrons==
+Cauldrons are the upgradeable "skillers" of Apothecary, which are used to discover and brew potions. Potion ([[File:Potionexp_icon.png|14px]]) is increased by upgrading Value, and the rate of effect ([[File:Potionspeed_icon.png|14px]]) is increased by upgrading Speed. The Apothecary EXP multiplier ([[File:Potionmulti_icon.png|14px]]) is always constant per Cauldron, but increases based on each individual Cauldron position. Apothecary EXP is only generated when Cauldrons are active.
+
+One free Cauldron is provided at the start, but up to 5 additional Cauldrons can be unlocked after reaching a designated H2O level and they're purchased with gold.
+
+{| class="article-table" border="1" align="center" style="width: 100%;" style="text-align: center;"
+! Unlock Req. !! Cauldron 1 !! Cauldron 2 !! Cauldron 3 !! Cauldron 4 !! Cauldron 5 !! Cauldron 6
+|-
+! Cost
+| - || 20M || 100B || 500T || 2.5QQ || 12PC
+|-
+! H2O Level
+| - || 30 || 45 || 60 || 75 || 90
+|}
+
+==Potions==
+===Discovering Potions===
+[[File:New_potion.png|right]]
+In order to brew potions, they must first be discovered. This is done with the "New Potion" recipe, the first option on the draggable scroll bar that appears after clicking on a Cauldron.
+
+The recipe takes one unlocked ingredient from [[Tilling]] and another from [[Botany]]. Each combination of ingredients discovers a random potion within a certain range of their combined rarity values. This means that it may take more than one brewing to discover a particular potion. 
+
+<span style="color:Red"><font size="5">The combinations listed below are just one possible combination to discover the potion and may not be the best for you at all times.</font></span>
+
+<span style="color:Red"><font size="5">For specific combinations of ingredients and their chances to unlock potions, visit SGResponse's [https://docs.google.com/spreadsheets/d/1bgGR6ZbQG2TLRTwy6uGoRxSRtmmg9iqRFikExs59CQo/edit#gid=1908858945 "Potion Discovery" Sheet].</font></span>
+
+===Regular Potions===
+Every discovered potion offers a weak bonus to start with, but can be upgraded by spending increasing amounts of resources from [[Tilling]] and [[Botany]]. Almost every potion bonus increases by the first level bonus of the potion as they're upgraded.
+
+'''*Note:''' The brewing ingredients required to upgrade potions are not necessarily the same as the ones capable of discovering potions. Use this [https://docs.google.com/spreadsheets/d/1bgGR6ZbQG2TLRTwy6uGoRxSRtmmg9iqRFikExs59CQo/edit#gid=1908858945 "Potion Discovery" Sheet] for discovering potions.
+
+====Red Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center; width:50px" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center; width:300px" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 1 || [[File:Mack_attack.png|center|37px]] || Mack Attack || 1% Damage Every 10 Attack Levels || [[File:Dirt.png|center|21px]] || [[File:Weeds.png|center|21px]] || [[File:Dirt.png|center|21px]] || [[File:Weeds.png|center|21px]]
+|-
+| style="text-align: center;" | 2 || [[File:Whey_cool_exp.png|center|37px]] || Whey Cool EXP || 12% EXP From All Gym Skillers || [[File:Dirt.png|center|21px]] || [[File:Weeds.png|center|21px]] || [[File:Grass.png|center|21px]] || [[File:Weeds.png|center|21px]]
+|-
+| style="text-align: center;" | 3 || [[File:Monster_cash.png|center|37px]] || Monster Cash || 2% Cash from Enemies || [[File:Dirt.png|center|21px]] || [[File:Weeds.png|center|21px]] ||[[File:Dirt.png|center|21px]]||[[File:Berries.png|center|21px]]
+|-
+| style="text-align: center;" | 4 || [[File:Crop_remedy.png|center|37px]] || Crop Remedy || 3% Tilling Crops for All Tillers || [[File:Dirt.png|center|21px]] || [[File:Weeds.png|center|21px]] || [[File:Grass.png|center|21px]] || [[File:Berries.png|center|21px]]
+|-
+| style="text-align: center;" | 5 || [[File:Miracle_grow.png|center|37px]] || Miracle Grow || 4% Botany Growth Speed || [[File:Grass.png|center|21px]] || [[File:Weeds.png|center|21px]] || [[File:Dirt.png|center|21px]] || [[File:Typha.png|center|21px]]
+|-
+| style="text-align: center;" | 6 || [[File:Ore_boostio.png|center|37px]] || Ore Boostio || 4% Ores Mined || [[File:Grass.png|center|21px]] || [[File:Berries.png|center|21px]] || [[File:Quality_hay.png|center|21px]] || [[File:Berries.png|center|21px]]
+|-
+| style="text-align: center;" | 7 || [[File:Based_damage.png|center|37px]] || Based Damage || 400 Base Damage || [[File:Grass.png|center|21px]] || [[File:Berries.png|center|21px]] || [[File:Dirt.png|center|21px]] || [[File:Flowers.png|center|21px]]
+|-
+| style="text-align: center;" | 8 || [[File:Smith_redux.png|center|37px]] || Smith Redux || -0.25% Reduced Total Smithing Cost <br>(Caps at -90%) || [[File:Grass.png|center|21px]] || [[File:Berries.png|center|21px]] || [[File:Corn.png|center|21px]] || [[File:Weeds.png|center|21px]]
+|}
+
+====Orange Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 12 || [[File:Strength_buster.png|center|37px]] || Strength Buster || 1% Damage Every 10 Strength Levels || [[File:Grass.png|center|21px]] || [[File:Berries.png|center|21px]] || [[File:Quality_hay.png|center|21px]] || [[File:Typha.png|center|21px]]
+|-
+| style="text-align: center;" | 13 || [[File:Dojo_blood.png|center|37px]] || Dojo Blood || 15% EXP from All Dojo Skillers || [[File:Quality_hay.png|center|21px]] || [[File:Berries.png|center|21px]] || [[File:Grass.png|center|21px]] || [[File:Flowers.png|center|21px]]
+|-
+| style="text-align: center;" | 14 || [[File:Cheap_pot.png|center|37px]] || Cheap Pot || -0.5% Cost of Potion Making (Caps at -90%) || [[File:Quality_hay.png|center|21px]] || [[File:Typha.png|center|21px]] || [[File:Saffron.png|center|21px]] || [[File:Typha.png|center|21px]]
+|-
+| style="text-align: center;" | 15 || [[File:Flower_power.png|center|37px]] || Flower Power || 5% Flowers Gained for All Botany Pots || [[File:Quality_hay.png|center|21px]] || [[File:Typha.png|center|21px]] || [[File:Quality_hay.png|center|21px]] || [[File:Flowers.png|center|21px]]
+|-
+| style="text-align: center;" | 16 || [[File:Idle_pow_pow.png|center|37px]] || Idle Pow Pow || 5% Idle Damage || [[File:Quality_hay.png|center|21px]] || [[File:Typha.png|center|21px]] || [[File:Saffron.png|center|21px]] || [[File:Flowers.png|center|21px]]
+|-
+| style="text-align: center;" | 17 || [[File:Minor_miner.png|center|37px]] || Minor Miner || 5% Mining EXP || [[File:Quality_hay.png|center|21px]] || [[File:Typha.png|center|21px]] || [[File:Corn.png|center|21px]] || [[File:Typha.png|center|21px]]
+|-
+| style="text-align: center;" | 18 || [[File:Big_farma.png|center|37px]] || Big Farma || 5% Botany EXP || [[File:Saffron.png|center|21px]] || [[File:Typha.png|center|21px]] || [[File:Corn.png|center|21px]] || [[File:Flowers.png|center|21px]]
+|-
+| style="text-align: center;" | 19 || [[File:Ap_cash_money.png|center|37px]] || AP Cash Money || 0.25% Monster Cash for Every Power of 10 AP Owned || [[File:Saffron.png|center|21px]] || [[File:Flowers.png|center|21px]] || [[File:Quality_hay.png|center|21px]] || [[File:Palm_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 20 || [[File:Scim_polish.png|center|37px]] || Scim Polish || Imbued Scimatars Give +3 More Base Damage Each || [[File:Saffron.png|center|21px]] || [[File:Flowers.png|center|21px]] || [[File:Corn.png|center|21px]] || [[File:Flowers.png|center|21px]]
+|-
+| style="text-align: center;" | 21 || [[File:Exotic_yield.png|center|37px]] || Exotic Yield || 10% Exotic Flowers || [[File:Saffron.png|center|21px]] || [[File:Flowers.png|center|21px]] || [[File:Quality_hay.png|center|21px]] || [[File:Sapling.png|center|21px]]
+|}
+
+====Yellow Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 26 || [[File:Smith_buff.png|center|37px]] || Smith Buff || 1% Damage Every 10 Smithing Levels || [[File:Corn.png|center|21px]] || [[File:Flowers.png|center|21px]] || [[File:Hyper_stalk.png|center|21px]] || [[File:Flowers.png|center|21px]]
+|-
+| style="text-align: center;" | 27 || [[File:Rock_mixture.png|center|37px]] || Rock Mixture || 15% EXP from all Mountain Skillers || [[File:Corn.png|center|21px]] || [[File:Flowers.png|center|21px]] || [[File:Maize.png|center|21px]] || [[File:Cactus.png|center|21px]]
+|-
+| style="text-align: center;" | 28 || [[File:Weed_speed.png|center|37px]] || Weed Speed || 10% Botany Growth Speeds || [[File:Corn.png|center|21px]] || [[File:Cactus.png|center|21px]] || [[File:Saffron.png|center|21px]] || [[File:Sapling.png|center|21px]]
+|-
+| style="text-align: center;" | 29 || [[File:Idle_zoom.png|center|37px]] || Idle Zoom || 5% Idle Speed || [[File:Corn.png|center|21px]] || [[File:Cactus.png|center|21px]] || [[File:Maize.png|center|21px]] || [[File:Palm_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 30 || [[File:Serf_serum.png|center|37px]] || Serf Serum || 10% Tilling EXP, 1% Tilling Speed || [[File:Maize.png|center|21px]] || [[File:Cactus.png|center|21px]] || [[File:Hyper_stalk.png|center|21px]] || [[File:Palm_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 31 || [[File:Penguinzo.png|center|37px]] || Penguinzo || 2% Critical Damage || [[File:Maize.png|center|21px]] || [[File:Cactus.png|center|21px]] || [[File:Maize.png|center|21px]] || [[File:Sapling.png|center|21px]]
+|-
+| style="text-align: center;" | 32 || [[File:Bubblez.png|center|37px]] || Bubblez || 5% Cauldron Speed || [[File:Maize.png|center|21px]] || [[File:Cactus.png|center|21px]] || [[File:Cabbage.png|center|21px]] || [[File:Palm_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 33 || [[File:Gold_cash.png|center|37px]] || Gold Cash || 0.5% Cash for Every Power of 10 Gold Ore Owned || [[File:Maize.png|center|21px]] || [[File:Palm_tree.png|center|21px]] || [[File:Hyper_stalk.png|center|21px]] || [[File:Sapling.png|center|21px]]
+|-
+| style="text-align: center;" | 34 || [[File:Ore_superbio.png|center|37px]] || Ore Superbio || 10% Ores Mined || [[File:Hyper_stalk.png|center|21px]] || [[File:Palm_tree.png|center|21px]] || [[File:Ancient_dew.png|center|21px]] || [[File:Palm_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 35 || [[File:Ripperoo.png|center|37px]] || Ripperoo || Crystalline Rippers Give +15 More Base Damage Each || [[File:Hyper_stalk.png|center|21px]] || [[File:Palm_tree.png|center|21px]] || [[File:Hyper_stalk.png|center|21px]] || [[File:Weeplings.png|center|21px]]
+|-
+| style="text-align: center;" | 36 || [[File:Smith_reredux.png|center|37px]] || Smith Reredux || -0.5% Reduced Total Smithing Cost (Caps at -95%) || [[File:Hyper_stalk.png|center|21px]] || [[File:Palm_tree.png|center|21px]] || [[File:Corn.png|center|21px]] || [[File:Mint_cane.png|center|21px]]
+|-
+| style="text-align: center;" | 37 || [[File:Potion_dubble.png|center|37px]] || Potion Dubble || 2% Chance for Potions to Level Up Twice Instead of Once (Chance to Level Up Thrice  at 100%+) || [[File:Hyper_stalk.png|center|21px]] || [[File:Sapling.png|center|21px]] || [[File:Ancient_dew.png|center|21px]] || [[File:Sapling.png|center|21px]]
+|}
+
+====Lime Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 42 || [[File:Hp_damagey.png|center|37px]] || HP Damagey || 1% Damage Every 10 Endurance Levels || [[File:Cabbage.png|center|21px]] || [[File:Sapling.png|center|21px]] || [[File:Cabbage.png|center|21px]] || [[File:Weeplings.png|center|21px]]
+|-
+| style="text-align: center;" | 43 || [[File:Field_dew.png|center|37px]] || Field Dew || 15% EXP from All Field Skillers || [[File:Cabbage.png|center|21px]] || [[File:Sapling.png|center|21px]] || [[File:Egg_yolk.png|center|21px]] || [[File:Sapling.png|center|21px]]
+|-
+| style="text-align: center;" | 44 || [[File:Pot_enabler.png|center|37px]] || Pot Enabler || 1 Max Upgradeable Flower Pot Speed Level (Bonus Increases by 1 Every 3 Levels) || [[File:Cabbage.png|center|21px]] || [[File:Sapling.png|center|21px]] || [[File:Ancient_dew.png|center|21px]] || [[File:Weeplings.png|center|21px]]
+|-
+| style="text-align: center;" | 45 || [[File:Croppin.png|center|37px]] || Croppin || 12% Crops Gained || [[File:Cabbage.png|center|21px]] || [[File:Weeplings.png|center|21px]] || [[File:Ancient_dew.png|center|21px]] || [[File:saharan_foal.png|center|21px]]
+|-
+| style="text-align: center;" | 46 || [[File:Og_damage.png|center|37px]] || OG Damage || 1500 Base Damage || [[File:Ancient_dew.png|center|21px]] || [[File:Weeplings.png|center|21px]] || [[File:Cabbage.png|center|21px]] || [[File:Mint_cane.png|center|21px]]
+|-
+| style="text-align: center;" | 47 || [[File:Crusoda.png|center|37px]] || Crusoda || 4% Crusade EXP || [[File:Ancient_dew.png|center|21px]] || [[File:Weeplings.png|center|21px]] || [[File:Egg_yolk.png|center|21px]] || [[File:saharan_foal.png|center|21px]]
+|-
+| style="text-align: center;" | 48 || [[File:Growgrow.png|center|37px]] || Growgrow || 15% Botany Plants Given || [[File:Ancient_dew.png|center|21px]] || [[File:Weeplings.png|center|21px]] || [[File:Ancient_dew.png|center|21px]] || [[File:Mint_cane.png|center|21px]]
+|-
+| style="text-align: center;" | 49 || [[File:Big_winner.png|center|37px]] || Big Winner || 10% Cash from Enemies || [[File:Ancient_dew.png|center|21px]] || [[File:Saharan_foal.png|center|21px]] || [[File:Packed_clay.png|center|21px]] || [[File:Saharan_foal.png|center|21px]]
+|-
+| style="text-align: center;" | 50 || [[File:Riftion.png|center|37px]] || Riftion || 8% Rift EXP || [[File:Egg_yolk.png|center|21px]] || [[File:Saharan_foal.png|center|21px]] || [[File:Ancient_dew.png|center|21px]] || [[File:Crystals.png|center|21px]]
+|-
+| style="text-align: center;" | 51 || [[File:Raw_power.png|center|37px]] || Raw Power || 12% Total Damage || [[File:Egg_yolk.png|center|21px]] || [[File:Saharan_foal.png|center|21px]] || [[File:Macromato.png|center|21px]] || [[File:Weeplings.png|center|21px]]
+|-
+| style="text-align: center;" | 52 || [[File:Hype_jar.png|center|37px]] || Hype Jar || 30% Botany EXP Gained || [[File:Egg_yolk.png|center|21px]] || [[File:saharan_foal.png|center|21px]] || [[File:Packed_clay.png|center|21px]] || [[File:Mint_cane.png|center|21px]]
+|-
+| style="text-align: center;" | 53 || [[File:Minexp.png|center|37px]] || MineXP || 15% Mining EXP || [[File:Egg_yolk.png|center|21px]] || [[File:Mint_cane.png|center|21px]] || [[File:Egg_yolk.png|center|21px]] || [[File:Crystals.png|center|21px]]
+|-
+| style="text-align: center;" | 54 || [[File:Smith_stunter.png|center|37px]] || Smith Stunter || Smithing Costs Go Up by 0.02% Less After Every Craft (Caps at -1.5%) || [[File:Egg_yolk.png|center|21px]] || [[File:Mint_cane.png|center|21px]] || [[File:Lil_pumpkin.png|center|21px]] || [[File:Mint_cane.png|center|21px]]
+|}
+
+====Cyan Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 59 || [[File:Water_goner.png|center|37px]] || Water Goner || 1% Damage Every 10 H2O Levels ||[[File:Packed_clay.png|center|21px]] || [[File:Mint_cane.png|center|21px]] || [[File:Packed_clay.png|center|21px]] || [[File:Crystals.png|center|21px]]
+|-
+| style="text-align: center;" | 60 || [[File:Sweat_cup.png|center|37px]] || Sweat Cup || 15% H2O EXP from Gym Skillers || [[File:Packed_clay.png|center|21px]] || [[File:Mint_cane.png|center|21px]] || [[File:Lil_pumpkin.png|center|21px]] || [[File:Crystals.png|center|21px]]
+|-
+| style="text-align: center;" | 61 || [[File:Smalloan.png|center|37px]] || Smalloan || Start New Ascensions with (5+0.5*lvl)% of Cash Owned before Ascending (Caps at 99%) || [[File:Packed_clay.png|center|21px]] || [[File:Crystals.png|center|21px]] || [[File:Egg_yolk.png|center|21px]] || [[File:Fyreling.png|center|21px]]
+|-
+| style="text-align: center;" | 62 || [[File:Flower_flow.png|center|37px]] || Flower Flow || 40% Botany Growth Speed || [[File:Packed_clay.png|center|21px]] || [[File:Crystals.png|center|21px]] || [[File:Lil_pumpkin.png|center|21px]] || [[File:Candypop.png|center|21px]]
+|-
+| style="text-align: center;" | 63 || [[File:Krunkade.png|center|37px]] || Krunkade || 8% Critical Damage || [[File:Packed_clay.png|center|21px]] || [[File:Crystals.png|center|21px]] || [[File:Packed_clay.png|center|21px]] || [[File:Fyreling.png|center|21px]]
+|-
+| style="text-align: center;" | 64 || [[File:Idle_woosh.png|center|37px]] || Idle Woosh || 15% Idle Speed || [[File:Lil_pumpkin.png|center|21px]] || [[File:Crystals.png|center|21px]] || [[File:Macromato.png|center|21px]] || [[File:Candypop.png|center|21px]]
+|-
+| style="text-align: center;" | 65 || [[File:Exotic_mix.png|center|37px]] || Exotic Mix || 40% Exotic Flowers || [[File:Lil_pumpkin.png|center|21px]] || [[File:Candypop.png|center|21px]] || [[File:Packed_clay.png|center|21px]] || [[File:Blood_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 66 || [[File:Oresome.png|center|37px]] || Oresome || 25% Ores Mined || [[File:Lil_pumpkin.png|center|21px]] || [[File:Candypop.png|center|21px]] || [[File:Crystal.png|center|21px]] || [[File:Crystals.png|center|21px]]
+|-
+| style="text-align: center;" | 67 || [[File:Cashin_out.png|center|37px]] || Cashin Out || 20% Cash from Enemies || [[File:Lil_pumpkin.png|center|21px]] || [[File:Candypop.png|center|21px]] || [[File:Macromato.png|center|21px]] || [[File:Fyreling.png|center|21px]]
+|-
+| style="text-align: center;" | 68 || [[File:Distill_till.png|center|37px]] || Distill Till || 2% Tilling EXP, 0.2% Tilling Speed for Every Tilling Level || [[File:Lil_pumpkin.png|center|21px]] || [[File:Candypop.png|center|21px]] || [[File:Lil_pumpkin.png|center|21px]] || [[File:Blood_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 69 || [[File:Plant_vroom.png|center|37px]] || Plant Vroom || 50% Botany Plants Given || [[File:Lil_pumpkin.png|center|21px]] || [[File:Fyreling.png|center|21px]] || [[File:Spooktobble.png|center|21px]] || [[File:Fyreling.png|center|21px]]
+|-
+| style="text-align: center;" | 70 || [[File:Bigger_big.png|center|37px]] || Bigger Big || Big Ol' Swords Give +60 More Base Damage Each || [[File:Macromato.png|center|21px]] || [[File:Fyreling.png|center|21px]] || [[File:Crystal.png|center|21px]] || [[File:Fyreling.png|center|21px]]
+|-
+| style="text-align: center;" | 71 || [[File:Smith_redoox.png|center|37px]] || Smith Redoox || -1% Reduced Total Smithing Cost (Caps at -98%) || [[File:Macromato.png|center|21px]] || [[File:Fyreling.png|center|21px]] || [[File:Spooktobble.png|center|21px]] || [[File:Blood_tree.png|center|21px]]
+|}
+
+====Purple Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 76 || [[File:Spirit_hit.png|center|37px]] || Spirit Hit || 2% Damage Every 10 Spiriting Levels || [[File:Macromato.png|center|21px]] || [[File:Fyreling.png|center|21px]] || [[File:Lucentium.png|center|21px]] || [[File:Fyreling.png|center|21px]]
+|-
+| style="text-align: center;" | 77 || [[File:Ap_tonic.png|center|37px]] || AP Tonic || 10% AP Gained || [[File:Macromato.png|center|21px]] || [[File:Blood_tree.png|center|21px]] || [[File:Crystal.png|center|21px]] || [[File:Blood_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 78 || [[File:More_fast.png|center|37px]] || More Fast || 1 Max Upgradeable Flower Pot Speed Level (Bonus Increases by 1 Every 2 Levels) || [[File:Macromato.png|center|21px]] || [[File:Blood_tree.png|center|21px]] || [[File:Prismatism.png|center|21px]] || [[File:Fyreling.png|center|21px]]
+|-
+| style="text-align: center;" | 79 || [[File:Crop_pop.png|center|37px]] || Crop Pop || 50% Crops Gained || [[File:Spooktobble.png|center|21px]] || [[File:Blood_tree.png|center|21px]] || [[File:Crystal.png|center|21px]] || [[File:Mushroom_ingredient.png|center|21px]]
+|-
+| style="text-align: center;" | 80 || [[File:Idle_kachow.png|center|37px]] || Idle Kachow || 10% Idle Damage || [[File:Spooktobble.png|center|21px]] || [[File:Blood_tree.png|center|21px]] || [[File:Macromato.png|center|21px]] || [[File:Demonia.png|center|21px]]
+|-
+| style="text-align: center;" | 81 || [[File:Peak_plant.png|center|37px]] || Peak Plant || +100 Botany EXP || [[File:Spooktobble.png|center|21px]] || [[File:Mushroom_ingredient.png|center|21px]] || [[File:Prismatism.png|center|21px]] || [[File:Blood_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 82 || [[File:Irrelevance.png|center|37px]] || Irrelevance || 4000 Base Damage || [[File:Spooktobble.png|center|21px]] || [[File:Mushroom_ingredient.png|center|21px]] || [[File:Lucentium.png|center|21px]] || [[File:Mushroom_ingredient.png|center|21px]]
+|-
+| style="text-align: center;" | 83 || [[File:Bargane.png|center|37px]] || Bargane || -2% Cost of Potion Brewing (Caps at -95%) || [[File:Crystal.png|center|21px]] || [[File:Mushroom_ingredient.png|center|21px]] || [[File:Essence.png|center|21px]] || [[File:Blood_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 84 || [[File:Thief_n_gin.png|center|37px]] || Thief N Gin || 0.2% Cash for Every Level of Trinkets Crafted || [[File:Crystal.png|center|21px]] || [[File:Mushroom_ingredient.png|center|21px]] || [[File:Lucentium.png|center|21px]] || [[File:Flesh_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 85 || [[File:Totalitariat.png|center|37px]] || Totalitariat || 40% Total Damage || [[File:Crystal.png|center|21px]] || [[File:Flesh_tree.png|center|21px]] || [[File:Prismatism.png|center|21px]] || [[File:Flesh_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 86 || [[File:M_vitality.png|center|37px]] || M Vitality || 30% Max HP || [[File:Crystal.png|center|21px]] || [[File:Flesh_tree.png|center|21px]] || [[File:Lucentium.png|center|21px]] || [[File:Demonia.png|center|21px]]
+|-
+| style="text-align: center;" | 87 || [[File:Converzin.png|center|37px]] || Converzin || 2 Base Damage for Every 100 Base HP that You Have || [[File:Crystal.png|center|21px]] || [[File:Flesh_tree.png|center|21px]] || [[File:Essence.png|center|21px]] || [[File:Flesh_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 88 || [[File:Smith_snail.png|center|37px]] || Smith Snail || Smithing Costs Go Up by 0.04% Less After Every Craft (Caps at -3%) || [[File:Lucentium.png|center|21px]] || [[File:Flesh_tree.png|center|21px]] || [[File:Prismatism.png|center|21px]] || [[File:Demonia.png|center|21px]]
+|}
+
+====Demon Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 94 || [[File:Contract_pact.png|center|37px]] || Contract Pact || 2% Damage Every 10 Contract Levels || [[File:Lucentium.png|center|21px]] || [[File:Demonia.png|center|21px]] || [[File:Hallownil.png|center|21px]] || [[File:Flesh_tree.png|center|21px]]
+|-
+| style="text-align: center;" | 95 || [[File:Trinko_gogo.png|center|37px]] || Trinko Gogo || Dubloon Trinkets Give +0.5% Cash Each || [[File:Lucentium.png|center|21px]] || [[File:Demonia.png|center|21px]] || [[File:Prismatism.png|center|21px]] || [[File:Cursed_eye.png|center|21px]]
+|-
+| style="text-align: center;" | 96 || [[File:Salve_labo.png|center|37px]] || Salve Labo || Enigmatic Booster from Smithing Boosts Botany Speed by 2% for Each Craft || [[File:Lucentium.png|center|21px]] || [[File:Demonia.png|center|21px]] || [[File:Crystal.png|center|21px]] || [[File:Lemming.png|center|21px]]
+|-
+| style="text-align: center;" | 97 || [[File:Criticola.png|center|37px]] || Criticola || 20% Critical Damage || [[File:Lucentium.png|center|21px]] || [[File:Demonia.png|center|21px]] || [[File:Hallownil.png|center|21px]] || [[File:Demonia.png|center|21px]]
+|-
+| style="text-align: center;" | 98 || [[File:Value_yumyum.png|center|37px]] || Value Yumyum || 10% Skiller EXP for Every 100 Value Upgrades Bought || [[File:Prismatism.png|center|21px]] || [[File:Cursed_eye.png|center|21px]] || [[File:Essence.png|center|21px]] || [[File:Cursed_eye.png|center|21px]]
+|-
+| style="text-align: center;" | 99 || [[File:Till_recurve.png|center|37px]] || Till Recurve || 0.5% Crops for Every Tilling Level || [[File:Prismatism.png|center|21px]] || [[File:Cursed_eye.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Demonia.png|center|21px]]
+|-
+| style="text-align: center;" | 100 || [[File:Transfusion.png|center|37px]] || Transfusion || 1% Total Damage for Every +100% Total HP Bonus that You Have || [[File:Prismatism.png|center|21px]] || [[File:Cursed_eye.png|center|21px]] || [[File:Hallownil.png|center|21px]] || [[File:Cursed_eye.png|center|21px]]
+|-
+| style="text-align: center;" | 101 || [[File:Bonkloot.png|center|37px]] || Bonkloot || 2% Cash for Every Power of 10 Kills of Current Enemy || [[File:Prismatism.png|center|21px]] || [[File:Veninsulic.png|center|21px]] || [[File:Hallownil.png|center|21px]] || [[File:Veninsulic.png|center|21px]]
+|-
+| style="text-align: center;" | 102 || [[File:Plant_vroom2.png|center|37px]] || Plant Vroom || 3% Botany Growth Speed for Every Botany Level || [[File:Essence.png|center|21px]] || [[File:Veninsulic.png|center|21px]] || [[File:Essence.png|center|21px]] || [[File:Lemming.png|center|21px]]
+|-
+| style="text-align: center;" | 103 || [[File:Limbo_luck.png|center|37px]] || Limbo Luck || Increases Max Luck Upgrade Level by 1 in Spiriting Zone || [[File:Essence.png|center|21px]] || [[File:Veninsulic.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Veninsulic.png|center|21px]]
+|-
+| style="text-align: center;" | 104 || [[File:Canned_shield.png|center|37px]] || Canned Shield || 50% Max Shields || [[File:Essence.png|center|21px]] || [[File:Lemming.png|center|21px]] || [[File:Hallownil.png|center|21px]] || [[File:Lemming.png|center|21px]]
+|-
+| style="text-align: center;" | 105 || [[File:Ap_powah.png|center|37px]] || AP Powah || 10% Damage for Every Power of 10 AP Owned || [[File:Essence.png|center|21px]] || [[File:Lemming.png|center|21px]] || [[File:Prismatism.png|center|21px]] || [[File:Icecream.png|center|21px]]
+|-
+| style="text-align: center;" | 106 || [[File:Instacraft.png|center|37px]] || Daedry || Smithing Costs Go Up By 0.04% Less After Every Craft (Caps at 4%) || [[File:Essence.png|center|21px]] || [[File:Lemming.png|center|21px]] || [[File:Hallownil.png|center|21px]] || [[File:Chlorine.png|center|21px]]
+|}
+
+====Godly Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New_potion.png|center|42px]]
+|-
+| style="text-align: center;" | 113 || [[File:Drop_of_each.png|center|37px]] || Drop of Each || 0.02% Damage for Every Total Potion Level || [[File:Hallownil.png|center|21px]] || [[File:Chlorine.png|center|21px]] || [[File:Prismatism.png|center|21px]] || [[File:Belldrop.png|center|21px]]
+|-
+| style="text-align: center;" | 114 || [[File:Broken_galaxy.png|center|37px]] || Broken Galaxy || Galaxial Slasher Gives 50 More Base Damage for Every Broken Dagger Crafted || [[File:Hallownil.png|center|21px]] || [[File:Chlorine.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Chlorine.png|center|21px]]
+|-
+| style="text-align: center;" | 115 || [[File:Killionaire.png|center|37px]] || Killionaire || 15% Damage for Every Power of 10 Total Enemy Kills || [[File:Hallownil.png|center|21px]] || [[File:Chlorine.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Chlorine.png|center|21px]]
+|-
+| style="text-align: center;" | 116 || [[File:Standstill.png|center|37px]] || Standstill || Smithing Costs Go Up by 0.08% Less After Every Craft (Caps at -5.5%) || [[File:Hallownil.png|center|21px]] || [[File:Icecream.png|center|21px]] || [[File:Essence.png|center|21px]] || [[File:Belldrop.png|center|21px]]
+|-
+| style="text-align: center;" | 117 || [[File:Hourglass.png|center|37px]] || Hourglass || 5% Cash for Every Level of Hourglass Smithing Items Crafted || [[File:Hallownil.png|center|21px]] || [[File:Icecream.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Icecream.png|center|21px]]
+|-
+| style="text-align: center;" | 118 || [[File:Shiny.png|center|37px]] || Shiny || 20% Damage for Every Unspent Diamond Merit [[File:Badge5.png]] || [[File:Hallownil.png|center|21px]] || [[File:Icecream.png|center|21px]] || [[File:Hallownil.png|center|21px]] || [[File:Belldrop.png|center|21px]]
+|-
+| style="text-align: center;" | 119 || [[File:Fame.png|center|37px]] || Fame || 8% Damage for Every Power of 10 Raid Awards Owned || [[File:Hallownil.png|center|21px]] || [[File:Belldrop.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Belldrop.png|center|21px]]
+|-
+| style="text-align: center;" | 120 || [[File:Miracle_grow2.png|center|37px]] || Miracle || X% Chance for a Super Cool Tunnels Card || [[File:Sammatian.png|center|21px]] || [[File:Belldrop.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Belldrop.png|center|21px]]
+|-
+| style="text-align: center;" | 121 || [[File:Aloof.png|center|37px]] || Aloof || -0.1% Reduced Total Smithing Cost for Each Blacksmith Pill Crafted (Caps at -98%) || [[File:Sammatian.png|center|21px]] || [[File:Belldrop.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]]
+|-
+| style="text-align: center;" | 122 || [[File:Zyxkal.png|center|37px]] || Bob Perfume || How Strange... This Potion Didn't Come with Any Description Label (Note: Required for Unlocking 
+Bob Pet) 
+|| [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]]
+|-
+| style="text-align: center;" | 123 || [[File:Pride.png|center|37px]] || Pride || 5% Damage for Every Level 5 Monster Card || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]]
+|-
+| style="text-align: center;" | 124 || [[File:Unparalleled.png|center|37px]] || Unparalleled || 2% Card Bonus (caps at 612%) ||[[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]]
+|-
+| style="text-align: center;" | 125 || [[File:Blasphemy.png|center|37px]] || Blasphemy || 2% Potion Bonus || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]]
+|}
+====Cosmic Rarity====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Per Level Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="1" | Icecream
+|-
+| style="text-align: center;" | 126 || [[File:Cygnus.png|center|37px]] || Cygnus || Levels Up All Red, Orange and Yellow Potion Every Time This One Levels Up || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_1.png|center|21px]]
+|-
+| style="text-align: center;" | 127 || [[File:Lupinis.png|center|37px]] ||  Lupinis || Oberon Obliterator Boost From Kills Increased To Power of 0.055% Fueled By Ensouled Heads || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_1.png|center|21px]]
+|-
+| style="text-align: center;" | 128 || [[File:Orniun.png|center|37px]] || Orniun || 0.16% Chance for Exp Req to Not Go Up When You Level Up Your Strength Level || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_2.png|center|21px]]
+|-
+| style="text-align: center;" | 129 || [[File:Cepheus.png|center|37px]] || Cepheus || +1.5 Max Cauldron Speed Upgrade Levels || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_2.png|center|21px]]
+|-
+| style="text-align: center;" | 130 || [[File:Persezia.png|center|37px]] || Persezia || 0.16% Chance for Exp Req to Not Go Up When You Level Up Your Apothecary Level || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_3.png|center|21px]]
+|-
+| style="text-align: center;" | 131 || [[File:Auricia.png|center|37px]] || Auricia || 2% Vessels Gain in Trekking || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_3.png|center|21px]]
+|-
+| style="text-align: center;" | 132 || [[File:Dippah.png|center|37px]] || Dippah || 0.15% Chance for Exp Req to Not Go Up When You Level Up Your H2O Level || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_4.png|center|21px]]
+|-
+| style="text-align: center;" | 133 || [[File:Corvius.png|center|37px]] || Corvius || 3% RP Gain for All Tanks || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_4.png|center|21px]]
+|-
+| style="text-align: center;" | 134 || [[File:Serpenzu.png|center|37px]] || Serpenzu || Levels Up All Green, Cyan and Purple Potion Every Time This One Levels Up || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_5.png|center|21px]]
+|-
+| style="text-align: center;" | 135 || [[File:Cantivici.png|center|37px]] || Cantivici || 0.13% Chain Level Chance || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_6.png|center|21px]]
+|-
+| style="text-align: center;" | 136 || [[File:Ophiucus.png|center|37px]] || Ophiucus || Levels Up All Demon and Godly Potion Every Time This One Levels Up || [[File:Sammatian.png|center|21px]] || [[File:Sunburst.png|center|21px]] || [[File:IceCream_7.png|center|21px]]
+|}
+
+=== Darkmode Potions ===
+Among various things, [[Construction]] offers 4 upgrades, each for a new tier of potions. They are accessible via Apothecary screen (a toggle button in top-right corner) once the first upgrade has been built. These potions require new crops and plants, which are also unlocked through Construction.
+
+==== Brew Laddy ====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! style="text-align: center;" | Cons. Lv.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New__dark_potion.png|center|42px]]
+|-
+| 152
+| rowspan="3" align="center" | 1
+| [[File:Redemptsin.png|center|37px]]
+|Redemptsin
+|Failing To Get a New Flower Increases New Flower Chance by X%
+(Only for Highest Plant)
+|[[File:minril_soil.png|center|20px]]
+|[[File:baubles.png|center|21px]]
+|
+|
+|-
+| 153
+| [[File:Tealy_Drank.png|center|37px]]
+|Tealy Drank
+|Leveling Up Fishing Has a X% Chance to Increase the Level of All 3 Power Upgrades
+|[[File:minril_soil.png|center|20px]]
+|[[File:baubles.png|center|21px]]
+|
+|
+|-
+| 154
+| [[File:Expendizzle.png|center|37px]]
+|Expendizzle
+|Tilling EXP Gain is Multiplied by X for Each New Crop Type Discovered
+|[[File:spuddies.png|center|21px]]
+|[[File:fluxissa.png|center|21px]]
+|
+|
+|-
+| 155
+| rowspan="3" align="center" | 2
+| [[File:Spunky_Pop.png|center|37px]]
+|Spunky Pop
+|Spelunking EXP Gain Increased by +X% Every Power of 10 Gold Skulls Owned
+|[[File:spuddies.png|center|21px]]
+|[[File:fluxissa.png|center|21px]]
+|
+|
+|-
+| 156
+| [[File:Evoluzin.png|center|37px]]
+|Evoluzin
+|Chance to Hatch a New Pet is Increased by X% Every 20 Hatchery Levels
+|[[File:vegetabip.png|center|21px]]
+|[[File:spillage.png|center|21px]]
+|
+|
+|-
+| 157
+| [[File:Admite.png|center|37px]]
+|Admite
+|Get a Permanent +X% Cash Bonus Every 10 Raid Tickets You Collect
+|[[File:vegetabip.png|center|21px]]
+|[[File:spillage.png|center|21px]]
+|
+|
+|-
+| 158
+| rowspan="3" align="center" | 3
+| [[File:Treasurade.png|center|37px]]
+|Treasurade
+| +X% Damage for Every Treasure You Have at Least 1 Million of
+<br>(Y for Each Skull)
+|[[File:vegetabip.png|center|21px]]
+|[[File:alienbush.png|center|21px]]
+|
+|
+|-
+| 159
+| [[File:Diet_Masty.png|center|37px]]
+|Diet Masty
+|Bonuses of the Mastery Perks Shown Below are Multiplied by X
+<br>[[File:Mastery_fight_1.png|24px]][[File:Mastery_fight_2.png|24px]][[File:Mastery_fight_6.png|24px]][[File:Mastery_variety_10.png|24px]]
+|[[File:bunnymunch.png|center|21px]]
+|[[File:alienbush.png|center|21px]]
+|
+|
+|-
+| 160
+| [[File:Purple_Drank.png|center|37px]]
+|Purple Drank
+|Leveling Up Mining Has a X% Chance to Increase the Value LVL of All Six Miners
+|[[File:bunnymunch.png|center|21px]]
+|[[File:tentacles.png|center|21px]]
+|
+|
+|-
+| 161
+| rowspan="3" align="center" | 4
+| [[File:Butof_Course.png|center|37px]]
+|Butof Course
+|EXP Gain for All 3 Pet Skills Increased by X%
+|[[File:darnedlion.png|center|21px]]
+|[[File:tentacles.png|center|21px]]
+|
+|
+|-
+| 162
+| [[File:Crackin_Yolk.png|center|37px]]
+|Crackin Yolk
+|10% Chance to Trigger an Eggshell Chain
+<br>These Eggshells are Worth times X More (caps at 3x)
+|[[File:darnedlion.png|center|21px]]
+|[[File:eggsacks.png|center|21px]]
+|
+|
+|-
+| 163
+| [[File:Forewordi.png|center|37px]]
+|Forewordi
+|times X Cash.
+<br>Applied Y Times (Apply More via Trekking)
+<br>(powered up by Nevasettle potion)
+|[[File:darnedlion.png|center|21px]]
+|[[File:eggsacks.png|center|21px]]
+|
+|
+|}
+
+==== Brew Man ====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! style="text-align: center;" | Cons. Lv.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New__dark_potion.png|center|42px]]
+|-
+| 
+| rowspan="3" align="center" | 1
+| [[File:Knowitall.png|center|37px]]
+|Knowitall
+|Spelunk Learning Rate Increased by X%
+|[[File:violetta.png|center|21px]]
+|[[File:shrapnil.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Keymeister.png|center|37px]]
+|Keymeister
+|Get a Permanent +X% Damage Bonus Every 10 Asylum Keys You Collect
+|[[File:violetta.png|center|21px]]
+|[[File:shrapnil.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Magno_Booko.png|center|37px]]
+|Magno Booko
+| +X% Spelunker Speed per 10 Spelunking LVLs
+<br>(Multiplied by Number of Learning Spelunkers)
+|[[File:stunflower.png|center|21px]]
+|[[File:dabberdoo.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 2
+| [[File:Coca_Prola.png|center|37px]]
+|Coca Prola
+|Increases the Maximum Bonus Upgrade LVL of Pro Rifts to X (Caps at 100)
+|[[File:stunflower.png|center|21px]]
+|[[File:dabberdoo.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Brown_Drank.png|center|37px]]
+|Brown Drank
+|Leveling Up Tilling Has a X% Chance to Increase the Value LVL of All Eight Tillers
+|[[File:lewdplants.png|center|21px]]
+|[[File:fourchese.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:O_Cal_Masty.png|center|37px]]
+|O Cal Masty
+|Bonuses of the Mastery Perks Shown Below Are Multiplied by X
+<br>[[File:Mastery_fight_3.png|24px]][[File:Mastery_collect_1.png|24px]][[File:Mastery_collect_2.png|24px]][[File:Mastery_collect_3.png|24px]][[File:Mastery_collect_4.png|24px]][[File:Mastery_collect_7.png|24px]]
+|[[File:lewdplants.png|center|21px]]
+|[[File:fourchese.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 3
+| [[File:Olivertime.png|center|37px]]
+|Olivertime
+|Dig Down Amount Increases X% Faster After Reaching the End of a Tunnel
+|[[File:lewdplants.png|center|21px]]
+|[[File:sapswing.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Gray_Drank.png|center|37px]]
+|Gray Drank
+|Leveling Up Botany Has a X% Chance to Increase the Value and Speed LVL of All Pots
+|[[File:beanies.png|center|21px]]
+|[[File:sapswing.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Hybriseed.png|center|37px]]
+|Hybriseed
+|Machine Speed Increase per Construction Level is X% Higher
+|[[File:beanies.png|center|21px]]
+|[[File:twisturn.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 4
+| [[File:Injurade.png|center|37px]]
+|Injurade
+| +X% Pet Damage Every 25 Percent of HP Your Team is Missing
+|[[File:Banana vine.png|center|21px]]
+|[[File:twisturn.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Yolks_On_Yolks.png|center|37px]]
+|Yolks On Yolks
+|Gives the Crackin Yolk Potion +X% Chance to Trigger an Eggshell Chain (caps at +65%)
+|[[File:Banana vine.png|center|21px]]
+|[[File:corale.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Donut_Bottle.png|center|37px]]
+|Donut Bottle
+|Smithing Costs Go Up by a Minimum of X%
+<br>Without This Potion the Minimum per LVL is 2.5%
+|[[File:Banana vine.png|center|21px]]
+|[[File:corale.png|center|21px]]
+|
+|
+|}
+
+==== Brew Maestro ====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! style="text-align: center;" | Cons. Lv.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New__dark_potion.png|center|42px]]
+|-
+| 
+| rowspan="3" align="center" | 1
+| [[File:Liste_Ntoit.png|center|37px]]
+|Liste Ntoit
+|Crop Costs for Brewing Reduced by X% for Every Power of 10 Saharan Foals Owned
+|[[File:rupturium.png|center|21px]]
+|[[File:swissile.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Cascade.png|center|37px]]
+|Cascade
+|Leveling Up a Rift Has a X% Chance to Level Up the Rift to its Left (caps at 50%)
+|[[File:rupturium.png|center|21px]]
+|[[File:swissile.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Riche_Biche.png|center|37px]]
+|Riche Biche
+|Spelunk Treasure is Worth X% More Every 10 Spelunking Level
+|[[File:Blue grap.png|center|21px]]
+|[[File:Spider tree.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 2
+| [[File:Macroppe.png|center|37px]]
+|Macroppe
+| +X% Crusade Material Gain for Every Crusade Level Above 160
+<br>(Also +Y% Crusade EXP)
+|[[File:Blue grap.png|center|21px]]
+|[[File:Spider tree.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Cup_Of_Calm.png|center|37px]]
+|Cup Of Calm
+| +X% Extra Levels Gained When a Spelunker Absorbs
+|[[File:Pink grap.png|center|21px]]
+|[[File:Normal rook.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Jug_Of_Storm.png|center|37px]]
+|Jug Of Storm
+|Learn Traits Can Now LVL Up by +X in a Single Absorb (caps at +15)
+|[[File:Pink grap.png|center|21px]]
+|[[File:Normal rook.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 3
+| [[File:Crimsi_Drank.png|center|37px]]
+|Crimsi Drank
+|Leveling Up Apothecary Has a X% Chance to Increase the Value and Speed LVL of Cauldrons
+|[[File:Pink grap.png|center|21px]]
+|[[File:Podacian.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Cooooool.png|center|37px]]
+|Cooooool
+| +X% Chance to Get Those Super Cool Tunnel Cards
+|[[File:White grap.png|center|21px]]
+|[[File:Podacian.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Nest_Lea.png|center|37px]]
+|Nest Lea
+| +X% Chance to Double LVL Up When Upgrading a Hatchery Nest (No Double Charge!) (caps at +200%)
+|[[File:White grap.png|center|21px]]
+|[[File:Marsh mello.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 4
+| [[File:Genetea.png|center|37px]]
+|Genetea
+| +X% Chance to Hatch a Pet with 2 or 3 Genes
+|[[File:Abstract.png|center|21px]]
+|[[File:Marsh mello.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Trunkoke.png|center|37px]]
+|Trunkoke
+|Tank LVL Up Reqs are Reduced by X% for Every Power of 10 Green Vessels Owned
+|[[File:Abstract.png|center|21px]]
+|[[File:Snowlad.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Badonkadonk.png|center|37px]]
+|Badonkadonk
+| +X% Ores Every 50 Balls Launched 
+<br>(powered up by Baba Donakka potion)
+|[[File:Abstract.png|center|21px]]
+|[[File:Snowlad.png|center|21px]]
+|
+|
+|}
+
+==== Brew Bobby ====
+{| class="article-table" style="width: 100%;" border="1" align="center"
+! style="text-align: center;" | Level Req.
+! style="text-align: center;" | Cons. Lv.
+! colspan="2" style="text-align: center;" | Potion
+! style="text-align: center;" | Bonus
+! colspan="2" | [[File:Cauldron.png|center]]
+! colspan="2" | [[File:New__dark_potion.png|center|42px]]
+|-
+| 
+| rowspan="3" align="center" | 1
+| [[File:Hydrogenation.png|center|37px]]
+|Hydrogenation
+|times X Damage Bonus Applied Y Times
+<br>(Level Up H2O to Apply More Times)
+|[[File:Nonsensic.png|center|21px]]
+|[[File:Stem_cells.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Tressii.png|center|37px]]
+|Tressii
+|Increases the Max Perk Tree Upgrade LVL by +X
+<br>(3 Perks Unaffected) (Caps at +35)
+|[[File:Nonsensic.png|center|21px]]
+|[[File:Stem_cells.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Certo_Fizz.png|center|37px]]
+|Certo Fizz
+|times X Flower Gain per Cert. Fish
+<br>Certification Req: <div class="mw-customtoggle-CertoFizz wikia-menu-button">Show/Hide table</div>
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-CertoFizz" align="center"
+|-
+!#
+! scope="col" |Fish
+! scope="col" |Amount
+!#
+! scope="col" |Fish
+! scope="col" |Amount
+|-
+|1
+|[[File:Old_shoe.png|center|24px]]
+|<span style="color:#00FA9A">1</span>
+|16
+|[[File:Lobster.png|center|24px]]
+|<span style="color:#00FA9A">1q</span>
+|-
+|2
+|[[File:Tin_can.png|center|24px]]
+|<span style="color:#00FA9A">10</span>
+|17
+|[[File:Bonefish.png|center|24px]]
+|<span style="color:#00FA9A">10q</span>
+|-
+|3
+|[[File:Minnow.png|center|24px]]
+|<span style="color:#00FA9A">100</span>
+|18
+|[[File:Blue_shark.png|center|24px]]
+|<span style="color:#00FA9A">100q</span>
+|-
+|4
+|[[File:Small_tuna.png|center|24px]]
+|<span style="color:#00FA9A">1k</span>
+|19
+|[[File:Yellow_fin_tuna.png|center|24px]]
+|<span style="color:#00FA9A">1qq</span>
+|-
+|5
+|[[File:Jellyfish.png|center|24px]]
+|<span style="color:#00FA9A">10k</span>
+|20
+|[[File:Pink_swordfish.png|center|24px]]
+|<span style="color:#00FA9A">10qq</span>
+|-
+|6
+|[[File:Medium_yellow_fish.png|center|24px]]
+|<span style="color:#00FA9A">100k</span>
+|21
+|[[File:Snail_fish.png|center|24px]]
+|<span style="color:#00FA9A">100qq</span>
+|-
+|7
+|[[File:Chainmailfish.png|center|24px]]
+|<span style="color:#00FA9A">1m</span>
+|22
+|[[File:Hammerhead_shark.png|center|24px]]
+|<span style="color:#ff471a">1</span>
+|-
+|8
+|[[File:Red_herring.png|center|24px]]
+|<span style="color:#00FA9A">10m</span>
+|23
+|[[File:Yellow_gulper.png|center|24px]]
+|<span style="color:#ff471a">10</span>
+|-
+|9
+|[[File:Sword_fish.png|center|24px]]
+|<span style="color:#00FA9A">100m</span>
+|24
+|[[File:Pike_fish.png|center|24px]]
+|<span style="color:#ff471a">100</span>
+|-
+|10
+|[[File:Ice_cube_fish.png|center|24px]]
+|<span style="color:#00FA9A">1b</span>
+|25
+|[[File:Giant_sea_urchin.png|center|24px]]
+|<span style="color:#ff471a">1k</span>
+|-
+|11
+|[[File:Puffer_fish.png|center|24px]]
+|<span style="color:#00FA9A">10b</span>
+|26
+|[[File:Manta_ray.png|center|24px]]
+|<span style="color:#ff471a">10k</span>
+|-
+|12
+|[[File:Crystalfish.png|center|24px]]
+|<span style="color:#00FA9A">100b</span>
+|27
+|[[File:Yellow_grouper.png|center|24px]]
+|<span style="color:#ff471a">100k</span>
+|-
+|13
+|[[File:Bobbit_worm.png|center|24px]]
+|<span style="color:#00FA9A">1t</span>
+|28
+|[[File:Giant_sea_serpent.png|center|24px]]
+|<span style="color:#ff471a">1m</span>
+|-
+|14
+|[[File:Dollar_fish.png|center|24px]]
+|<span style="color:#00FA9A">10t</span>
+|29
+|[[File:Kraken.png|center|24px]]
+|<span style="color:#ff471a">10m</span>
+|-
+|15
+|[[File:Angler_fish.png|center|24px]]
+|<span style="color:#00FA9A">100t</span>
+|30
+|[[File:Jumbo_shrimp.png|center|24px]]
+|<span style="color:#ff471a">100m</span>
+|}
+|[[File:Balderdash.png|center|21px]]
+|[[File:Dank vine.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 2
+| [[File:Certo_Flav.png|center|37px]]
+|Certo Flav
+|times X Brew Speed per Cert. Flower
+<br>Certification Req: <div class="mw-customtoggle-CertoFlav wikia-menu-button">Show/Hide table</div>
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-CertoFlav" align="center"
+|-
+!#
+! scope="col" |Plant
+! scope="col" |Amount
+!#
+! scope="col" |Plant
+! scope="col" |Amount
+|-
+|1
+|[[File:Weeds.png|center|24px]]
+|<span style="color:#00FA9A">1</span>
+|25
+|[[File:Baubles.png|center|24px]]
+|<span style="color:#ff471a">1k</span>
+|-
+|2
+|[[File:Berries.png|center|24px]]
+|<span style="color:#00FA9A">10</span>
+|26
+|[[File:Fluxissa.png|center|24px]]
+|<span style="color:#ff471a">10k</span>
+|-
+|3
+|[[File:Typha.png|center|24px]]
+|<span style="color:#00FA9A">100</span>
+|27
+|[[File:Spillage.png|center|24px]]
+|<span style="color:#ff471a">100k</span>
+|-
+|4
+|[[File:Flowers.png|center|24px]]
+|<span style="color:#00FA9A">1k</span>
+|28
+|[[File:Alienbush.png|center|24px]]
+|<span style="color:#ff471a">1m</span>
+|-
+|5
+|[[File:Cactus.png|center|24px]]
+|<span style="color:#00FA9A">10k</span>
+|29
+|[[File:Tentacles.png|center|24px]]
+|<span style="color:#ff471a">10m</span>
+|-
+|6
+|[[File:Palm_tree.png|center|24px]]
+|<span style="color:#00FA9A">100k</span>
+|30
+|[[File:Eggsacks.png|center|24px]]
+|<span style="color:#ff471a">100m</span>
+|-
+|7
+|[[File:Sapling.png|center|24px]]
+|<span style="color:#00FA9A">1m</span>
+|31
+|[[File:Shrapnil.png|center|24px]]
+|<span style="color:#ff471a">1b</span>
+|-
+|8
+|[[File:Weeplings.png|center|24px]]
+|<span style="color:#00FA9A">10m</span>
+|32
+|[[File:Dabberdoo.png|center|24px]]
+|<span style="color:#ff471a">10b</span>
+|-
+|9
+|[[File:saharan_foal.png|center|24px]]
+|<span style="color:#00FA9A">100m</span>
+|33
+|[[File:Fourchese.png|center|24px]]
+|<span style="color:#ff471a">100b</span>
+|-
+|10
+|[[File:Mint_cane.png|center|24px]]
+|<span style="color:#00FA9A">1b</span>
+|34
+|[[File:Sapswing.png|center|24px]]
+|<span style="color:#ff471a">1t</span>
+|-
+|11
+|[[File:Crystals.png|center|24px]]
+|<span style="color:#00FA9A">10b</span>
+|35
+|[[File:Twisturn.png|center|24px]]
+|<span style="color:#ff471a">10t</span>
+|-
+|12
+|[[File:Candypop.png|center|24px]]
+|<span style="color:#00FA9A">100b</span>
+|36
+|[[File:Corale.png|center|24px]]
+|<span style="color:#ff471a">100t</span>
+|-
+|13
+|[[File:Fyreling.png|center|24px]]
+|<span style="color:#00FA9A">1t</span>
+|37
+|[[File:Swissile.png|center|24px]]
+|<span style="color:#ff471a">1q</span>
+|-
+|14
+|[[File:Blood_tree.png|center|24px]]
+|<span style="color:#00FA9A">10t</span>
+|38
+|[[File:Spider_tree.png|center|24px]]
+|<span style="color:#ff471a">10q</span>
+|-
+|15
+|[[File:Mushroom_ingredient.png|center|24px]]
+|<span style="color:#00FA9A">100t</span>
+|39
+|[[File:Normal_rook.png|center|24px]]
+|<span style="color:#ff471a">100q</span>
+|-
+|16
+|[[File:Flesh_tree.png|center|24px]]
+|<span style="color:#00FA9A">1q</span>
+|40
+|[[File:Podacian.png|center|24px]]
+|<span style="color:#ff471a">1qq</span>
+|-
+|17
+|[[File:Demonia.png|center|24px]]
+|<span style="color:#00FA9A">10q</span>
+|41
+|[[File:Marsh_mello.png|center|24px]]
+|<span style="color:#ff471a">10qq</span>
+|-
+|18
+|[[File:Cursed_eye.png|center|24px]]
+|<span style="color:#00FA9A">100q</span>
+|42
+|[[File:Snowlad.png|center|24px]]
+|<span style="color:#ff471a">100qq</span>
+|-
+|19
+|[[File:Veninsulic.png|center|24px]]
+|<span style="color:#00FA9A">1qq</span>
+|43
+|[[File:Stem_cells.png|center|24px]]
+|<span style="color:#3399ff">1</span>
+|-
+|20
+|[[File:Lemming.png|center|24px]]
+|<span style="color:#00FA9A">10qq</span>
+|44
+|[[File:Dank_vine.png|center|24px]]
+|<span style="color:#3399ff">10</span>
+|-
+|21
+|[[File:Chlorine.png|center|24px]]
+|<span style="color:#00FA9A">100qq</span>
+|45
+|[[File:Candypop2.png|center|24px]]
+|<span style="color:#3399ff">100</span>
+|-
+|22
+|[[File:Icecream.png|center|24px]]
+|<span style="color:#ff471a">1</span>
+|46
+|[[File:Emoticons.png|center|24px]]
+|<span style="color:#3399ff">1k</span>
+|-
+|23
+|[[File:Belldrop.png|center|24px]]
+|<span style="color:#ff471a">10</span>
+|47
+|[[File:Camouflage.png|center|24px]]
+|<span style="color:#3399ff">10k</span>
+|-
+|24
+|[[File:Sunburst.png|center|24px]]
+|<span style="color:#ff471a">100</span>
+|48
+|[[File:Glassicle.png|center|24px]]
+|<span style="color:#3399ff">100k</span>
+|}
+|[[File:Balderdash.png|center|21px]]
+|[[File:Dank vine.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Certo_Ouzo.png|center|37px]]
+|Certo Ouzo
+|times X Crop Gain per Cert. Ore
+<br>Certification Req: <div class="mw-customtoggle-CertoOuzo wikia-menu-button">Show/Hide table</div>
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-CertoOuzo" align="center"
+|-
+!#
+! scope="col" |Ore
+! scope="col" |Amount
+!#
+! scope="col" |Ore
+! scope="col" |Amount
+|-
+|1
+|[[File:Copper.png|center|24px]]
+|<span style="color:#00FA9A">1</span>
+|11
+|[[File:Dubloonium.png|center|24px]]
+|<span style="color:#00FA9A">10b</span>
+|-
+|2
+|[[File:Iron.png|center|24px]]
+|<span style="color:#00FA9A">10</span>
+|12
+|[[File:Glume.png|center|24px]]
+|<span style="color:#00FA9A">100b</span>
+|-
+|3
+|[[File:Gold.png|center|24px]]
+|<span style="color:#00FA9A">100</span>
+|13
+|[[File:Plument.png|center|24px]]
+|<span style="color:#00FA9A">1t</span>
+|-
+|4
+|[[File:Platinum.png|center|24px]]
+|<span style="color:#00FA9A">1k</span>
+|14
+|[[File:Figmentation.png|center|24px]]
+|<span style="color:#00FA9A">10t</span>
+|-
+|5
+|[[File:Cobalt.png|center|24px]]
+|<span style="color:#00FA9A">10k</span>
+|15
+|[[File:Demonite.png|center|24px]]
+|<span style="color:#00FA9A">100t</span>
+|-
+|6
+|[[File:Firesalt.png|center|24px]]
+|<span style="color:#00FA9A">100k</span>
+|16
+|[[File:Godshard.png|center|24px]]
+|<span style="color:#00FA9A">1q</span>
+|-
+|7
+|[[File:Effluvium.png|center|24px]]
+|<span style="color:#00FA9A">1m</span>
+|17
+|[[File:Warpium.png|center|24px]]
+|<span style="color:#00FA9A">10q</span>
+|-
+|8
+|[[File:Antimatter.png|center|24px]]
+|<span style="color:#00FA9A">10m</span>
+|18
+|[[File:Anodizia.png|center|24px]]
+|<span style="color:#00FA9A">100q</span>
+|-
+|9
+|[[File:Ruby.png|center|24px]]
+|<span style="color:#00FA9A">100m</span>
+|19
+|[[File:Gummi.png|center|24px]]
+|<span style="color:#00FA9A">1qq</span>
+|-
+|10
+|[[File:Refractium.png|center|24px]]
+|<span style="color:#00FA9A">1b</span>
+|20
+|[[File:Djinn.png|center|24px]]
+|<span style="color:#00FA9A">10qq</span>
+|}
+|[[File:Choco tree.png|center|21px]]
+|[[File:Candypop2.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Certo_Crum.png|center|37px]]
+|Certo Crum
+|times X Spelunk SPD per Cert. Crop
+<br>Certification Req: <div class="mw-customtoggle-CertoCrum wikia-menu-button">Show/Hide table</div>
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-CertoCrum" align="center"
+|-
+!#
+! scope="col" |Crop
+! scope="col" |Amount
+!#
+! scope="col" |Crop
+! scope="col" |Amount
+|-
+|1
+|[[File:Dirt.png|center|24px]]
+|<span style="color:#00FA9A">1</span>
+|21
+|[[File:Minril_soil.png|center|24px]]
+|<span style="color:#00FA9A">100qq</span>
+|-
+|2
+|[[File:Grass.png|center|24px]]
+|<span style="color:#00FA9A">10</span>
+|22
+|[[File:Spuddies.png|center|24px]]
+|<span style="color:#ff471a">1</span>
+|-
+|3
+|[[File:Quality_hay.png|center|24px]]
+|<span style="color:#00FA9A">100</span>
+|23
+|[[File:Vegetabip.png|center|24px]]
+|<span style="color:#ff471a">10</span>
+|-
+|4
+|[[File:Saffron.png|center|24px]]
+|<span style="color:#00FA9A">1k</span>
+|24
+|[[File:Bunnymunch.png|center|24px]]
+|<span style="color:#ff471a">100</span>
+|-
+|5
+|[[File:Corn.png|center|24px]]
+|<span style="color:#00FA9A">10k</span>
+|25
+|[[File:Darnedlion.png|center|24px]]
+|<span style="color:#ff471a">1k</span>
+|-
+|6
+|[[File:Maize.png|center|24px]]
+|<span style="color:#00FA9A">100k</span>
+|26
+|[[File:Violetta.png|center|24px]]
+|<span style="color:#ff471a">10k</span>
+|-
+|7
+|[[File:Hyper_stalk.png|center|24px]]
+|<span style="color:#00FA9A">1m</span>
+|27
+|[[File:Stunflower.png|center|24px]]
+|<span style="color:#ff471a">100k</span>
+|-
+|8
+|[[File:Cabbage.png|center|24px]]
+|<span style="color:#00FA9A">10m</span>
+|28
+|[[File:Lewdplants.png|center|24px]]
+|<span style="color:#ff471a">1m</span>
+|-
+|9
+|[[File:Ancient_dew.png|center|24px]]
+|<span style="color:#00FA9A">100m</span>
+|29
+|[[File:Beanies.png|center|24px]]
+|<span style="color:#ff471a">10m</span>
+|-
+|10
+|[[File:Egg_yolk.png|center|24px]]
+|<span style="color:#00FA9A">1b</span>
+|30
+|[[File:Banana_vine.png|center|24px]]
+|<span style="color:#ff471a">100m</span>
+|-
+|11
+|[[File:Packed_clay.png|center|24px]]
+|<span style="color:#00FA9A">10b</span>
+|31
+|[[File:Rupturium.png|center|24px]]
+|<span style="color:#ff471a">1b</span>
+|-
+|12
+|[[File:Lil_pumpkin.png|center|24px]]
+|<span style="color:#00FA9A">100b</span>
+|32
+|[[File:Blue_grap.png|center|24px]]
+|<span style="color:#ff471a">10b</span>
+|-
+|13
+|[[File:Macromato.png|center|24px]]
+|<span style="color:#00FA9A">1t</span>
+|33
+|[[File:Pink_grap.png|center|24px]]
+|<span style="color:#ff471a">100b</span>
+|-
+|14
+|[[File:Spooktobble.png|center|24px]]
+|<span style="color:#00FA9A">10t</span>
+|34
+|[[File:White_grap.png|center|24px]]
+|<span style="color:#ff471a">1t</span>
+|-
+|15
+|[[File:Crystal.png|center|24px]]
+|<span style="color:#00FA9A">100t</span>
+|35
+|[[File:Abstract.png|center|24px]]
+|<span style="color:#ff471a">10t</span>
+|-
+|16
+|[[File:Lucentium.png|center|24px]]
+|<span style="color:#00FA9A">1q</span>
+|36
+|[[File:Nonsensic.png|center|24px]]
+|<span style="color:#ff471a">100t</span>
+|-
+|17
+|[[File:Prismatism.png|center|24px]]
+|<span style="color:#00FA9A">10q</span>
+|37
+|[[File:Balderdash.png|center|24px]]
+|<span style="color:#ff471a">1q</span>
+|-
+|18
+|[[File:Essence.png|center|24px]]
+|<span style="color:#00FA9A">100q</span>
+|38
+|[[File:Choco_tree.png|center|24px]]
+|<span style="color:#ff471a">10q</span>
+|-
+|19
+|[[File:Hallownil.png|center|24px]]
+|<span style="color:#00FA9A">1qq</span>
+|39
+|[[File:Salt_lick.png|center|24px]]
+|<span style="color:#ff471a">100q</span>
+|-
+|20
+|[[File:Sammatian.png|center|24px]]
+|<span style="color:#00FA9A">10qq</span>
+|40
+|[[File:Carmamella.png|center|24px]]
+|<span style="color:#ff471a">1qq</span>
+|}
+|[[File:Choco tree.png|center|21px]]
+|[[File:Candypop2.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 3
+| [[File:Papa_Fisto.png|center|37px]]
+|Papa Fisto
+|Each Difficulty LVL Reached on the Final Crusade Boosts Doom Gauntlet by X
+|[[File:Choco tree.png|center|21px]]
+|[[File:Emoticons.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Travitatee.png|center|37px]]
+|Travitatee
+|Meant To Boost The Realm Beyond. Gives times X Ores Instead (caps at 2)
+|[[File:Salt lick.png|center|21px]]
+|[[File:Emoticons.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Resoursake.png|center|37px]]
+|Resoursake
+|Ore. Fish. Botany. Potion. Crusade. and Limbo Card Bonuses are Increased to the Power of X (caps at 2)
+|[[File:Salt lick.png|center|21px]]
+|[[File:Camouflage.png|center|21px]]
+|
+|
+|-
+| 
+| rowspan="3" align="center" | 4
+| [[File:Damagirdiente.png|center|37px]]
+|Damagirdiente
+|Cash. Kills. Tunnels. and All Damage Card Bonuses are Increased to the Power of X (caps at 2)
+|[[File:Carmamella.png|center|21px]]
+|[[File:Camouflage.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Baba_Donakka.png|center|37px]]
+|Baba Donakka
+|Badonkadonk Potion Now Boosts More Things (Fish. Crops. Flowers. Brew Speed. Dmg)
+<br>Its Boost is Increased to the Power of X (caps at 2)
+|[[File:Carmamella.png|center|21px]]
+|[[File:Glassicle.png|center|21px]]
+|
+|
+|-
+| 
+| [[File:Nevasettle.png|center|37px]]
+|Nevasettle
+|Forewordi Potion Now Boosts More Things (Damage. Ores. Tank EXP. Crops)
+<br>Also +1 Applied Bonus per 5 Aberrant Monsters (does not improve)
+|[[File:Carmamella.png|center|21px]]
+|[[File:Glassicle.png|center|21px]]
+|
+|
+|}
+
+===Potion Coupons===
+The [[Gem Shop]] features five types of potion scrolls which can be used to automatically discover and level up a random potion. These coupons are simply clicked on the Apothecary screen in order to use them. Potions discovered using coupons can always be crafted, bypassing the level requirement.
+
+{| class="article-table" border="1" align="center"
+! style="text-align: center;" | Coupon
+! style="text-align: center;" | Gem Cost
+! style="text-align: center;" | Effect
+|-
+|[[File:Beginner_potion_coupon.png|68px]] || style="text-align: center;" | 150 Gems || Gives 3 coupons which boosts a random Red, Orange, or Yellow potion +10 levels.
+|-
+|[[File:Sovereign_potion_coupon.png|68px]] || style="text-align: center;" | 375 Gems || Gives 3 coupons which boosts a random Yellow, Green, or Cyan potion +15 levels.
+|-
+|[[File:Godly_potion_coupon.png|68px]] || style="text-align: center;" | 750 Gems || Gives 3 coupons which boosts a random Cyan, Indigo, Demon, or Godly potion +20 levels.
+|-
+|[[File:Fabled_potion_coupon.png|68px]]
+| style="text-align: center;" | 525 Gems || Gives 3 coupons which boosts a random Fabled (first 24 darkmode) potion +15 levels. Requires unlocked darkmode potions screen.
+|-
+|[[File:Timeless_potion_coupon.png|68px]]
+| style="text-align: center;" | 900 Gems || Gives 3 coupons which boosts a random Timeless (last 24 darkmode) potion +20 levels. Requires unlocked darkmode potions screen.
+|-
+|}
+
+==Apothecary Bonuses==
+===Cards===
+Unique Apothecary [[cards]] can be earned while brewing potions on the screen. Each potion color has its own card and any potion of the respective color has a chance of dropping one. The potions do not need to be leveling up in order for the cards to drop.
+{{:Cards/Apothecary|1}}
+
+===Crystals===
+Crystals can be inserted into crystal slots on each cauldron for bonuses. Both crystals and first crystal slots are unlocked through the [[Rebirth]] screen after clearing the [[Dungeon]]. Additional crystals, as well as the second and third crystal slots can be purchased through the [[Gem Shop]].
+
+The best placement of crystals can be found [[Builds#Apothecary - Crystal Builds|HERE]].
+
+{{:Crystals/Apothecary}}
+
+===Other===
+* [[Perks#Yellow Farming Perk Tree|Perk]] tree perks:
+** [[File:Yellowperk1.png|24px]] +2% potion cost reduction per lvl (up to 90%),
+** [[File:Yellowperk2.png|24px]] +3% double brew chance per lvl (up to 150%),
+** [[File:Yellowperk6.png|24px]] +10% potion brew speed per lvl (up to 500%),
+** [[File:InfPerk_06.png|24px]] +1%(per lvl) potion brew speed per Apothecary lvl (unlimited, slowly diminishing).
+* [[Train#Training Perks|Training]] Perks:
+** [[File:TPerk_BrewSpeed1.png|24px]] no.6, 12% brew speed per lvl,
+** [[File:TPerk_BrewSpeed2.png|24px]] no.10, 25% brew speed per lvl.
+* [[Rebirth]] perks:
+** [[File:BP_H2oApo.png|24px]] H2O Potion Damper, -0.25 potion cost scaling for every H2O level above 100 (up to 50%),
+** [[File:BP_ApoLvls.png|24px]] Apothecary Canary, +1 Apothecary starting levels after Rebirth, up to 40,
+** [[File:BP_BrewSpeed.png|24px]] Bubble Bubble, +8% brew speed per lvl, up to 1200%.
+* [[Mastery]] perks:
+** [[File:Mastery_variety_6.png|24px]] brew speed (up to 28%).
+* [[Cards]]:
+** [[File:C_confused_leg.png|20px]] Purgatory-12, Confused Leg - Apothecary EXP (up to 30%),
+** [[File:C_magick_mushy.png|20px]] TheBog-8, Magic Mushy - Double Brew Chance (up to 30%),
+** [[File:C_psyccidello.png|20px]] TheBog-12, Psyccidello - Potion Cost Redux (up to 18%),
+** [[File:C_discple_l.png|20px]] TheBog-19, Disciple L - Apothecary EXP (up to 30%),
+** [[File:23_-_Glitch.png|20px]] LunarIsle-23, Lunar Glitch - Potion Cost Redux (up to 30%),
+** [[File:C_bean_baby.png|20px]] Oblivion-1, Bean Baby - Apothecary EXP (up to 42%),
+** [[File:C_glow_pop.png|20px]] Oblivion-3, Glow Pop - Potion Brewing Speed (up to 60%),
+** [[File:C_vile.png|20px]] Oblivion-17, Vile - Potion Cost Redux (up to 30%),
+** [[File:C_putrid.png|20px]] Oblivion-18, Putrid - Potion Brewing Speed (up to 96%),
+** [[File:C_Loockey.png|20px]] Crus.TheBog-1, Loockey - Potion Brewing Speed (up to 48%),
+** [[File:C_Merceneye.png|20px]] Crus.TheBog-2, Merceneye - Double Brew Chance (up to 30%),
+** [[File:C_Father_Of_All.png|20px]] Crus.LunarIsle-5, Father Of All - Potion Brewing Speed (up to 120%).
+* Potions:
+** [[File:Bubblez.png|24px]] Bubblez (brew speed),
+** [[File:Potion_dubble.png|24px]] Potion Dubble (double brew chance),
+** [[File:Cepheus.png|24px]] Cepheus (max cauldron speed upgrades),
+** [[File:Persezia.png|24px]] Persezia,
+** [[File:Liste_Ntoit.png|24px]] Liste Ntoit (cost reduction),
+** [[File:Crimsi_Drank.png|24px]] Crimsi Drank,
+** [[File:Badonkadonk.png|24px]] Badonkadonk & [[File:Baba_Donakka.png|20px]] Baba Donakka (brew speed),
+** [[File:Certo_Flav.png|24px]] Certo Flav (brew speed).
+* [[Tinkering]] gear:
+** [[File:Enraged_blood.png|24px]] Enraged Blood, +125% brew speed (needs bonus 3),
+** [[File:Haunted_kite.png|24px]] Haunted Kite, +75% brew speed (needs bonus 3).
+* [[Hatchery#Pet list|Pet]] Passives:
+** [[File:Pet_Zebra.png|24px]] ID19 Zebra, 30% brew speed per level,
+** [[File:Pet_PolarKing.png|24px]] ID23 Polar King, +4 cauldron speed upgrades per level,
+** [[File:Pet_IceCream.png|24px]] ID28 Ice Cream, 50% brew speed per level,
+** [[File:Pet_CrystalBird.png|24px]] ID29 Crystal Bird, +5 cauldron speed upgrades per level,
+** [[File:Pet_Plantz.png|24px]] ID43 Platz, +15 cauldron speed upgrades per level,
+** [[File:Pet_SentinelR.png|24px]] ID49 Sentinel R, 75% brew speed per level,
+** [[File:Pet_SentinelY.png|24px]] ID50 Sentinel Y, +11 cauldron speed upgrades per level.
+* [[Research]] Tanks:
+** [[File:Tank_Red.png|20px]] Red Tank 1, bonus 3 (brew speed),
+** [[File:Tank_Red.png|20px]] Red Tank 4, bonus 1 (max cauldron speed upgrades),
+** [[File:Tank_Yellow.png|20px]] Yellow Tank 3, bonus 2 (brew speed),
+** [[File:Tank_Pink.png|20px]] Pink Tank 2, bonus 3 (brew speed),
+** [[File:Tank_Purple.png|20px]] Purple Tank 4, bonus 2 (brew speed),
+** [[File:Tank_Blue.png|20px]] Blue Tank 3, bonus 1 (brew speed per Research lvl).
+* [[Asylum]] Shrines:
+** [[File:AsylumShrine_recoup.png|36px]] Recoup, chance to not use up materials when brewing (up to 75%),
+** [[File:AsylumShrine_brewery.png|36px]] Brewery, potions start with a partially full brew bar after they level up (up to 50%). 
+* [[Smithing]] crafts:
+** [[File:Firebrand_Essence.png|24px]] Firebrand Essence, Zaqqic tier - double brew chance & multibrew cap (up to 15).
+* [[Construction]] upgrades:
+** [[File:Bogo_offer.png|24px]] Bogo Offer: 35% cost reduction to potion brewing (multiplicative), applied up to 25 times,
+** [[File:Mama_mia.png|24px]] Mama Mia: every 20 Apothecary levels multiplies Cauldron brew speed by X.
+* [[Gem Shop]] purchases:
+** [[File:Eternal_cauldron.png|24px]] Eternity Cauldrons brew potions 4x as fast and also have +150% double brew chance.
+[[Category:Farming]]

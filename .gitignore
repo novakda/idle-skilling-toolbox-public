@@ -1,0 +1,22 @@
+node_modules
+data/save.json
+data/save.haxe
+# extracted game code + derived artifacts: local only, never committed
+data/game/
+data/history.json
+data/ascend-history.json
+data/is.bin
+data/fixture-save.json
+data/backup-leveldb-*/
+data/stat-pages-live.json
+data/captures/
+data/fixture-fight.json
+data/fixture-away.json
+data/perk-impacts.json
+data/realm-combat.json
+
+# Lavish review pages (third-party screenshots; not part of the app)
+.lavish/
+data/realm-recordings/
+data/access-index.sqlite
+data/crash-log.jsonl

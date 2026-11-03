@@ -1,0 +1,13 @@
+{| style="width: 60%;margin:auto;"  cellspacing="0" cellpadding="0" border="0"
+| style="width: 15%;"|[[File:Crafting_icon.png|center|link=Crafting]]
+| style="width: 15%;"|[[File:Mining icon.png|center|link=Mining]]
+| style="width: 15%;"|[[File:Smithing icon.png|center|link=Smithing]]
+| style="width: 15%;"|[[File:Fishing icon.png|center|link=Fishing]]
+|-
+| style="text-align: center;"|[[Crafting]]
+| style="text-align: center;"|[[Mining]]
+| style="text-align: center;"|[[Smithing]]
+| style="text-align: center;"|[[Fishing]]
+|}
+
+<hr class="page-header__separator" style="margin-top:18px;" />

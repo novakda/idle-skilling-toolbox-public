@@ -1,0 +1,35 @@
+title: Dataset browser
+tags: [[Data and tools]]
+caption: Dataset browser
+
+Every table on the wiki, parsed into rows (`data/wiki/datasets`), one JSON data tiddler per dataset (tagged <<tag Datasets>>). Pick one; the filter matches any cell. Columns are the fields of the matching rows; `_section` and `_page` (last) say where a row came from.
+
+<$let dsT={{{ [[$:/state/is/dataset]get[text]else[Data/hatchery]] }}} qT="$:/state/is/dataset/q">
+<$let q={{{ [<qT>get[text]] }}} qre={{{ [<qT>get[text]escaperegexp[]addprefix[(?i)]] }}}>
+<div class="is-toolbar">
+<$select tiddler="$:/state/is/dataset" default="Data/hatchery" class="is-input">
+<$list filter="[tag[Datasets]sort[]]"><option value=<<currentTiddler>>><$text text={{{ [<currentTiddler>removeprefix[Data/]] }}}/> (<$text text={{!!rows}}/> rows)</option></$list>
+</$select>
+<$edit-text tiddler=<<qT>> tag="input" class="is-input" placeholder="Filter rows" default=""/>
+</div>
+<$let allF="[<dsT>indexes[]nsort[]]" someF="[<dsT>indexes[]nsort[]] :filter[<dsT>getindex<currentTiddler>regexp<qre>]">
+<$let rowsF={{{ [<q>is[blank]then<allF>else<someF>] }}}>
+<$let cols={{{ [subfilter<rowsF>limit[60]] :map:flat[<dsT>getindex<currentTiddler>jsonindexes[]] -_page -_section +[format:titlelist[]join[ ]] }}}>
+<p class="is-note"><$text text={{{ [subfilter<rowsF>count[]] }}}/> rows; sources: <$list filter="[<dsT>get[source-pages]enlist-input[]]"><$link/>&#32;</$list></p>
+<div class="is-tablewrap">
+<table class="is-list">
+<thead><tr><th>#</th><$list filter="[enlist<cols>] _section _page" variable="col"><th><$text text=<<col>>/></th></$list></tr></thead>
+<tbody>
+<$list filter="[subfilter<rowsF>limit[300]]" variable="idx">
+<$let row={{{ [<dsT>getindex<idx>] }}}>
+<tr><td class="num"><<idx>></td><$list filter="[enlist<cols>] _section _page" variable="col"><td><$text text={{{ [<row>jsonget<col>] }}}/></td></$list></tr>
+</$let>
+</$list>
+</tbody>
+</table>
+</div>
+</$let>
+</$let>
+</$let>
+</$let>
+</$let>

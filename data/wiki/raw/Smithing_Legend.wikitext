@@ -1,0 +1,74 @@
+{| class="listing sortable" border="0" align="center"
+|-
+! scope="col" |Image
+! scope="col" |Req.
+! scope="col" |Item Name
+! scope="col" |Amt.
+! scope="col" |Bonus per Level
+! colspan="2" scope="col" |Resources Needed
+|-
+|[[File:Plumentine_trinket.png|center]]
+| style="text-align: center;" |60
+|Plumentine Trinket
+| +8%
+| Damage
+|[[File:Plument.png|center]]
+|[[File:Hammerhead_shark.png|center]]
+|-
+|[[File:Big_ol_sword.png|center]]
+| style="text-align: center;" |60
+|Big Ol' Sword
+| +500
+| Base Damage
+|[[File:Plument.png|center]]
+|[[File:Giant_sea_urchin.png|center|46px]]
+|-
+|[[File:Flapjacks.png|center]]
+| style="text-align: center;" |60
+|Flapjacks
+| +400
+| HP Every BIte
+|[[File:Yellow_gulper.png|center]]
+|[[File:Giant_sea_serpent.png|center|46px]]
+|-
+|[[File:Royalty_income.png|center]]
+| style="text-align: center;" |60
+|Royalty Income
+| +1000
+| Cash every Minute
+|[[File:Plument.png|center]]
+|[[File:Crystalfish.png|center]]
+|-
+|[[File:Gotta_go_fast.png|center]]
+| style="text-align: center;" |60
+|Gotta Go Fast
+| +3%
+| Rep Speed (caps at 50k crafts)
+|[[File:Figmentation.png|center]]
+|[[File:Pike_fish.png|center]]
+|-
+|[[File:Figmentation_mail.png|center]]
+| style="text-align: center;" |60
+|Figmentation Mail
+| -0.3%
+| Monster Damage
+|[[File:Figmentation.png|center]]
+|[[File:Snail_fish.png|center]]
+|-
+|[[File:Manifestation_kit.png|center]]
+| style="text-align: center;" |60
+|Manifestation Kit
+| +75%
+| Ores Mined
+|[[File:Figmentation.png|center]]
+|[[File:Dollar_fish.png|center]]
+|-
+|[[File:Dragoneye_charm.png|center]]
+| style="text-align: center;" |60
+|Dragoneye Charm
+| +0.75%
+| Crit Hit Chance
+|[[File:Plument.png|center]]
+|[[File:Ice_cube_fish.png|center]]
+|}
+[[Category:Smithing]]

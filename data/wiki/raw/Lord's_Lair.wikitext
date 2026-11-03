@@ -1,0 +1,33 @@
+The Lord's Lair is accessed through the [[Portal]] and is unlocked after getting an ice cream and reaching [[Maelstrom]]. To complete Lord's Lair, you firstly need to light the four torches in order to unlock the 5th monster in After Life, '''The Torch''', which is needed to beat the 91st to 100th boss.
+{| class="fandom-table"
+!Flame
+!Requirement
+!Complement
+|-
+|Green Flame
+|Reach Teehee 16 in [[Oblivion]]
+|Well Done
+|-
+|Blue Flame
+|Reach an H20 level of 1776+
+|Great
+|-
+|Yellow Flame
+|Deliver all Ice Cream in [[Dairy Aisle]]
+|Good Work
+|-
+|Red Flame
+|Reach Afterlife 50+ in [[Realm]]
+|Nicely Done
+|}
+
+
+After having lit all four torches, head to After Life and buy the Torch Pet (you need this pet in order to kill the monsters from floor 91 to 100). After reaching the 100th boss, you see he's holding a crystal like ice cream with a key, after killing the boss, head back to the Lord's Lair and interact with the boss.
+
+If you've completed the needed goals you will receive the following message:
+
+"A most brilliant job you've done Ice Cream Delivery Boy! You saved the Skilling World from the Antimatter Lord. The Ice Cream is in safe hands with you."
+
+
+Now head to the discord with a screenshot of your completion and show off your bragging rights!
+[[Category:Portal]]

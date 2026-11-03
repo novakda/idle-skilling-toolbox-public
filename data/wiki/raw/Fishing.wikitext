@@ -1,0 +1,156 @@
+{{:Header/Crafting}}
+
+The fishing skill is used to catch fish for the [[Smithing|smithing]] skill. They're mainly used to craft food that automatically heals you but are also used in some other crafts.
+
+There are three tiers of fish, small medium and large. You unlock a new small fish every 6 levels, a new medium fish every 8 levels and a new large fish every 15 levels.
+
+==='''Small Fish'''===
+{| style="width: 100%;" class="article-table" cellspacing="1" cellpadding="1" border="0"
+|-
+! scope="col" style="text-align: center;"|Name
+! scope="col" style="text-align: center;"|Level Required
+! scope="col" style="text-align: center;"|Name
+! scope="col" style="text-align: center;"|Level Required
+|-
+|[[File:Old_shoe.png|thumb|left]]Old Boot
+| style="text-align: center;"|1
+|[[File:Red_herring.png|thumb|left]]Red Herring
+| style="text-align: center;"|24
+|-
+|[[File:Tin_can.png|thumb|left]]Tin Can
+| style="text-align: center;"|1
+|[[File:Sword_fish.png|thumb|left]]Sword Fish
+| style="text-align: center;"|30
+|-
+|[[File:Minnow.png|thumb|left]]Minnow
+| style="text-align: center;"|1
+|[[File:Ice_cube_fish.png|thumb|left]]Ice Cube Fish
+| style="text-align: center;"|36
+|-
+|[[File:Small_tuna.png|thumb|left]]Small Tuna
+| style="text-align: center;"|1
+|[[File:Puffer_fish.png|thumb|left]]Puffer Fish
+| style="text-align: center;"|42
+|-
+|[[File:Jellyfish.png|thumb|left]]Jellyfish
+| style="text-align: center;"|6
+|[[File:Crystalfish.png|thumb|left]]Crystal Fish
+| style="text-align: center;"|48
+|-
+|[[File:Medium_yellow_fish.png|thumb|left]]Medium Yellow Fish
+| style="text-align: center;"|12
+|[[File:Bobbit_worm.png|thumb|left]]Bobbit Worm
+| style="text-align: center;"|54
+|-
+|[[File:Chainmailfish.png|thumb|left]]Chainmail Fish
+| style="text-align: center;"|18
+|[[File:Dollar_fish.png|thumb|left]]Dollar Fish
+| style="text-align: center;"|60
+|}
+
+===Medium Fish===
+{| class="article-table" cellspacing="1" cellpadding="1" border="0"
+|-
+! scope="col" style="text-align: center;"|Name
+! scope="col" style="text-align: center;"|Level Required
+! scope="col" style="text-align: center;"|Name
+! scope="col" style="text-align: center;"|Level Required
+|-
+|[[File:Angler_fish.png|thumb|left]]Angler Fish
+| style="text-align: center;"|1
+|[[File:Pink_swordfish.png|thumb|left]]Pink Swordfish
+| style="text-align: center;"|40
+|-
+|[[File:Lobster.png|thumb|left]]Lobster
+| style="text-align: center;"|8
+|[[File:Snail_fish.png|thumb|left]]Snail Fish
+| style="text-align: center;"|48
+|-
+|[[File:Bonefish.png|thumb|left]]Bonefish
+| style="text-align: center;"|16
+|[[File:Hammerhead_shark.png|thumb|left]]Hammerhead Shark
+| style="text-align: center;"|56
+|-
+|[[File:Blue_shark.png|thumb|left]]Blue Shark
+| style="text-align: center;"|24
+|[[File:Yellow_gulper.png|thumb|left]]Yellow Gulper
+| style="text-align: center;"|64
+|-
+|[[File:Yellow_fin_tuna.png|thumb|left]]Yellow Fin Tuna
+| style="text-align: center;"|32
+|[[File:Pike_fish.png|thumb|left]]Pike Fish
+| style="text-align: center;"|72
+|}
+
+===Large Fish===
+{| class="article-table" cellspacing="1" cellpadding="1" border="0"
+|-
+! scope="col" style="text-align: center;"|Name
+! scope="col" style="text-align: center;"|Level Required
+! scope="col" style="text-align: center;"|Name
+! scope="col" style="text-align: center;"|Level Required
+|-
+|[[File:Giant_sea_urchin.png|thumb|left]]Giant Sea Urchin
+| style="text-align: center;"|1
+|[[File:Giant_sea_serpent.png|thumb|left]]Giant Sea Serpent
+| style="text-align: center;"|45
+|-
+|[[File:Manta_ray.png|thumb|left]]Manta Ray
+| style="text-align: center;"|15
+|[[File:Kraken.png|thumb|left]]Kraken
+| style="text-align: center;"|60
+|-
+|[[File:Yellow_grouper.png|thumb|left]]Yellow Grouper
+| style="text-align: center;"|30
+|[[File:Jumbo_shrimp.png|thumb|left]]Jumbo Shrimp
+| style="text-align: center;"|75
+|}
+
+Different rods are unlocked by crafting them. The level of the rod will determine the power bonus it gives, you do not need to have that rod selected to get the power bonus. Different hooks unlock at different fishing levels. Both the hook and rod determine what percentage of the fish you catch will be small, medium or large.
+{| class="article-table"
+!Types of Rod
+!Unlock Lvl. Smithing
+!
+!Types of Hook
+!Unlock Lvl. Fishing
+|-
+|Wood
+|Default
+|
+|Copper
+|Default
+|-
+|Iron
+|1
+|
+|Iron
+|10
+|-
+|Cobalt
+|20
+|
+|Gold
+|20
+|-
+|Rainbow
+|40
+|
+|Platinum
+|30
+|-
+|
+|
+|
+|Cobalt
+|40
+|-
+|
+|
+|
+|Firesalt
+|50
+|}
+
+The number of fish and the speed at which you catch them is determined by your power. These stats can also be influenced by objects crafted in the smithing skill and by perks from the perk tree.
+[[File:Fishing.PNG|centre|thumb|800x800px]]Until v5.0 Afterlife, two bugs of fish gain still exists.  1st bug is after upgrading through Power (+/++), the amount of fish gain will show an unreasonable high increment.  After leaving the page and revisit fishing page again, the fish gain increment amount will be corrected.  2nd bug occurs when the player left the fishing page by clicking other main tab; and once clicking the Craft icon and automatically entering the fishing page again, the away fish amount gain will be extraordinarily low.  To overcome this bug, player is advised to click the smith tab before leaving to other areas.  By doing so, when the player click Craft tab, the smith tab will be loaded first.  Moving from smith tab to fish tab the fish gain amount will appear to be normal.
+[[Category:Crafting]]

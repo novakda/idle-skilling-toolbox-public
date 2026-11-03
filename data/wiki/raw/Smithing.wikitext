@@ -1,0 +1,267 @@
+{{:Header/Crafting}}
+
+==Forges==
+
+There are three forges available from which you can craft items; you start with one unlocked and can buy the other two. Every anvil has a charge which is consumed each time you craft an item on it. The number of available charges are displayed next to the anvil and selecting a forge will show how close you are to recovering a charge. Charges are recovered over time at a constant rate, regardless if you're on the Smithing screen or not.
+
+[[File:Smithing.PNG|center|thumb|800x800px]]
+
+===Anvil Costs===
+Each forge has its own maximum number of charges, which must be upgraded seperately. However, each forge starts with a different number of charges.
+{| style="width: 100%" class="article-table" border="1"
+|-
+! scope="col" rowspan="2" style="text-align: center;"|Forge
+! scope="col" rowspan="2" style="text-align: center;"|Unlock Cost
+! scope="col" colspan="11" style="text-align: center;"|Cost to Unlock Maximum Forge Charges
+|-
+! scope="col" style="text-align: center;"|4
+! scope="col" style="text-align: center;"|5
+! scope="col" style="text-align: center;"|6
+! scope="col" style="text-align: center;"|7
+! scope="col" style="text-align: center;"|8
+! scope="col" style="text-align: center;"|9
+! scope="col" style="text-align: center;"|10
+! scope="col" style="text-align: center;"|11
+! scope="col" style="text-align: center;"|12
+! scope="col" style="text-align: center;"|13
+! scope="col" style="text-align: center;"|14
+|-
+| style="text-align: center;"|1
+| style="text-align: center;"| -
+| style="text-align: center;"|77K
+| style="text-align: center;"|106K
+| style="text-align: center;"|147K
+| style="text-align: center;"|237K
+| style="text-align: center;"|526K
+| style="text-align: center;"|1615K
+| style="text-align: center;"|5936K
+| style="text-align: center;"|24M
+| style="text-align: center;"|94M
+| style="text-align: center;"|377M
+| style="text-align: center;"|1519M
+|-
+| style="text-align: center;"|2
+| style="text-align: center;"|100K
+| style="text-align: center;"| -
+| style="text-align: center;"|106K
+| style="text-align: center;"|147K
+| style="text-align: center;"|237K
+| style="text-align: center;"|526K
+| style="text-align: center;"|1615K
+| style="text-align: center;"|5936K
+| style="text-align: center;"|24M
+| style="text-align: center;"|94M
+| style="text-align: center;"|377M
+| style="text-align: center;"|1519M
+|-
+| style="text-align: center;"|3
+| style="text-align: center;"|5M
+| style="text-align: center;"| -
+| style="text-align: center;"| -
+| style="text-align: center;"| -
+| style="text-align: center;"|237K
+| style="text-align: center;"|526K
+| style="text-align: center;"|1615K
+| style="text-align: center;"|5936K
+| style="text-align: center;"|24M
+| style="text-align: center;"|94M
+| style="text-align: center;"|377M
+| style="text-align: center;"|1519M
+|}
+
+
+=== Charge Recovery ===
+==== Infinity Forge ====
+[[File:Infinity_forge.png|thumb|100px]]
+There aren't many upgrades that decrease the recovery time on forge charges, making the time required to upgrade items the largest bottleneck in Smithing instead of resources. Therefore, it's highly recommended to spend the first 200 gems you acquire on the Infinity Forge, which completely bypasses the need for charges in addition to awarding +100% Smithing EXP. You may instead want to save 500 gems for the [[Gem_Shop#Gem_Portal|Gem Portal]] , and then after recovering 200 gems, buy the Infinity Forge. 
+
+
+==== Forge Coupons ====
+[[File:Forge_coupon.png|thumb|100px]]
+If you don't have the gems to purchase the Infinity Forge, then there are Forge Coupons that have a rare chance to drop in Raids. These coupons recharge your anvils to the maximum amounts you've purchased, making them useful if you've depleted all of your charges. For best efficiency, use these when you've unlocked all three forges and a moderate amount of additional charges. They become unusable once you unlock the Infinity Forge.
+== Smithing Items ==
+=== Tiers ===
+There are eight tiers of craftable items, each requiring a different set of resources. Access to each crafting tier is unlocked every 10 levels.  
+{| class="article-table" border="1" align="center"
+|-
+! scope="col"|Tier
+! scope="col" style="text-align: center;"|Smithing Level Required
+! scope="col" style="text-align: center;"|
+! scope="col"|Tier
+! scope="col" style="text-align: center;"|Smithing Level Required
+|-
+|Trainee
+| style="text-align: center;"|1
+| style="text-align: center;"|
+|Master
+| style="text-align: center;"|50
+|-
+|Novice
+| style="text-align: center;"|10
+| style="text-align: center;"|
+|Legend
+| style="text-align: center;"|60
+|-
+|Skilled
+| style="text-align: center;"|20
+| style="text-align: center;"|
+|Godly
+| style="text-align: center;"|70
+|-
+|Adept
+| style="text-align: center;"|30
+| style="text-align: center;"|
+|Warped
+| style="text-align: center;"|90
+|-
+|Virtuo
+| style="text-align: center;"|40
+| style="text-align: center;"|
+|Djinn
+| style="text-align: center;"|120
+|}
+Access to the final two tiers, Zaqqic and Gaxial, are unlocked with [[Construction]] upgrades.
+===Double Crafting===
+One of the last orange Mountains skill perks grants +20% chance to double craft per level, up to 100%. When successful, this perk allows you to craft two items for the cost of one, skipping the next upgrade cost and only consuming one forge charge.
+
+When you've cleared [[The Mist]] and have unlocked the Skilltree Overcharge [[Ascension#AP Perk Tree|Ascension]] perk, the Double Crafting perk can be upgraded to 200% chance. Every % after 100% acts as "Triple Crafting", meaning you'll be able to craft three item upgrades for the cost one. Similar to before, this means upgrading an item will skip the next two upgrade costs and still only consume one forge charge. 
+
+When you've cleared [[Maelstrom]] and have unlocked the All Star [[Rebirth]] perk, the Double Crafting perk can be upgraded to 300% chance, allowing "Quadruple Crafting".
+
+=== Smithing Break ===
+When costs to craft an item reach about 1Q ore/fish (roughly), Smithing cost stops increasing normally and become set at a Smith Cost Cap. As you craft more of the item, the cost remains fixed at the cap, allowing you to craft massive amounts of items.
+
+There are breakpoints where the Smith Cost Cap increases. A new Craft button appears that allows you to mass-craft items up to the next Smith Cost Cap breakpoint, or as many as you can afford. '''Note that using this craft button prevents you from gaining Smithing asylum traces; and Mastery set 5 Platinum Trinket craft count.'''
+
+Known breakpoints are:
+{| class="article-table"
+!Breakpoint
+!Crafted Amount
+!Base Craft Cost
+(Estimates) 
+|-
+|1
+|Depends on smith cost reduc.
+|1Q
+|-
+|2
+|10k
+|2Q
+|-
+|3
+|50k
+|4Q
+|-
+|4
+|250k
+|8Q
+|-
+|5
+|1M
+|16Q
+|-
+|6
+|5M
+|32Q
+|-
+|7
+|25M
+|64Q
+|}
+
+Note that when Infinite Perk 2 says "Lower smith cost cap", it's specifically referring to the Base Craft Cost after the smithing break. All of the breakpoint costs will be reduced by this perk.
+
+=== Enigmatic Booster Post-break ===
+While many crafts are fairly straightforward with obvious benefits, the Enigmatic Booster becomes exponentially more useful once its cost is capped, as the huge price scaling makes it merely a minor benefit in early to mid game. However, once the breakpoint is reached, its value rapidly inflates, allowing you to get absurd boosts to AP, Fish, and Monster Kills. Of course, it goes without saying that if you haven't unlocked the secrets that the Enigmatic Booster boosts, stop what you're doing and go unlock them.
+
+Once you're able to reliably get about 1QQ mined ore with relatively little time spent, you should make mass-crafting Enig Booster a priority. It alone will allow you to reach Kills per Hour no other boost at that stage in the game will.
+
+=== Crafted Benefit Caps ===
+While many crafted items are able to scale quite a bit, certain items have their benefits capped. Some items will continue to increase in number, even though their benefit cap is reached, however others won't, such as the Reps crafts. '''Do note, however, that whether the benefit cap or the crafted number cap is reached, resources will still continue to be consumed if you try to keep crafting them.'''
+{| class="article-table"
+!Craft Name
+!Effect Cap
+!Craft Amount Reached
+|-
+|Fast Reps
+|<nowiki>+25K% Rep Speed</nowiki>
+|50K
+|-
+|Rapid Reps
+|<nowiki>+50K% Rep Speed</nowiki>
+|50K
+|-
+|Turbo Reps
+|<nowiki>+100K% Rep Speed</nowiki>
+|50K
+|-
+|Gotta Go Fast
+|<nowiki>+150K% Rep Speed</nowiki>
+|50K
+|-
+|BP Straight Up
+|<nowiki>+1K BP When Rebirthing</nowiki>
+|5625
+|-
+|Tin Pail Tree
+|<nowiki>+6K% Botany Growth Speed</nowiki>
+|
+|-
+|Crystal Supremacy
+|<nowiki>+20% Crystal Bonuses</nowiki>
+|
+|-
+|Ensouled Head
+|<nowiki>+10 Kills per Kill</nowiki>
+|2450
+|-
+|Righteous Rift
+|<nowiki>+70% Less XP Needed</nowiki>
+|
+|-
+|Mythical Serfdom
+|<nowiki>+4K% Tilling Land Exp</nowiki>
+|
+|-
+|Normie Rocks
+|<nowiki>+20% Crystal Bonuses</nowiki>
+|2255
+|-
+|Cyber F Series
+| +2.5K% Shields Every Fishwich Bite
+|10k
+|-
+|Cyber J Series
+| +4K% Shields Every Noodles Bite
+|4000
+|}
+=== Crafting List ===
+
+<tabview>
+Smithing/Trainee|Trainee
+Smithing/Novice|Novice
+Smithing/Skilled|Skilled
+Smithing/Adept|Adept
+Smithing/Virtuo|Virtuo
+Smithing/Master|Master
+Smithing/Legend|Legend
+Smithing/Godly|Godly
+Smithing/Warped|Warped
+Smithing/Djinnic|Djinnic
+Smithing/Zaqqic|Zaqqic
+Smithing/Gaxial|Gaxial
+</tabview>
+
+==Smithing Boosts==
+Crafting an item from higher tiers awards more EXP per upgrade than lower tiers. There are also ways to increase the amount of EXP earned and smithing starting levels.
+===Smithing EXP===
+*One orange skill perk that grants crafting +20% more EXP per level, up to 200%.
+*5 [[Cards#Cards List|Cards]] that increase Smithing EXP from crafting, up to 400%.
+*The Infinity Forge bonus the Gem Shop increases Smithing EXP by 100%.
+===Smithing Levels===
+*The 4th item from Shop 2 in [https://idle-skilling.wikia.com/wiki/Contracts#Merit_Shop Contracts] grants +1 level per purchase (up to 10 levels).
+*Gift shop painting from [[Raids#Gift Shop|Raids]] increases starting level and reduces EXP required to level.
+*The Skill Max [[Ascension#AP Perk Tree|Ascension]] perk grants +1 level to Smithing per purchase.
+
+[[Category:Crafting]]
+[[Category:Smithing]]

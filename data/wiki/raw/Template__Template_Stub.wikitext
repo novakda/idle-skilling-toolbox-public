@@ -1,0 +1,15 @@
+<onlyinclude><!--
+
+-->{{Mbox management<!--
+ -->|color    =red<!--
+ -->|image    =Construction Icon.png<!--
+ -->|header   =Expansion required<!--
+ -->|content  =This article is too short to provide more than rudimentary information about the subject. You can help the ''Idle Skilling'' wiki by [{{fullurl:{{FULLPAGENAME}}|action=edit}} expanding it].<!--
+ -->|games    ={{{1|}}}<!--
+ -->|details  ={{{2|}}}<!--
+ -->|category =stub<!--
+-->}}<!--
+
+--></onlyinclude>
+{{Documentation}}
+[[Category:Page management templates]]

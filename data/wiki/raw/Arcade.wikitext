@@ -1,0 +1,633 @@
+'''Pachinko''' is a minigame accessed through the Arcade button in the [[Gem Shop]]. Reach [[Desert]] to unlock it.
+
+==Mechanic==
+[[File:Arcade_probability.png|thumb|Graphical view of rewards probability]]
+
+The player can launch Pachinko balls [[File:Arcade_pachinko_ball.png|20px]] and watch them bounce and fall into various portals containing rewards. The maximum amount of balls a player can have 49, so it is advised the player collects them every day. The player can complete tasks and level [[Hatchery|Pet Passives]] to increase the rate at which balls are collected. The player can also buy 100 balls for 275 [[Gem Shop|Gems]].
+
+== Tasks==
+===Task Set 1===
+15 tasks, +2% balls / hour per task.
+{| class="article-table mw-collapsible mw-collapsed" border="1" align="center"
+!style="text-align:center;"|Task
+!style="text-align:center;"|Screen
+!style="text-align:center;"|Comments
+|-
+|Reach the Mountains
+| style="text-align:center;"|[[File:Fight_icon.png|30px]]
+|Reach [[Mountains|zone 3]]
+|-
+|Reach the Mist
+| style="text-align:center;"|[[File:Fight_icon.png|30px]]
+|Reach [[The Mist|zone 4]]
+|-
+|Reach the Dungeon
+| style="text-align:center;"|[[File:Fight_icon.png|30px]]
+|Reach [[Dungeon|zone 5]]
+|-
+|Mine some Refractium
+| style="text-align:center;"|[[File:Small_mining_icon.png|30px]]
+|Level 45 [[mining]]
+|-
+|Mine some Godshard
+| style="text-align:center;"|[[File:Small_mining_icon.png|30px]]
+|Level 75 [[mining]]
+|-
+|Achieve level 99 Attack
+| style="text-align:center;"|[[File:Train_icon.png|30px]]
+|
+|-
+|Kill 10m Bandit Bobs
+| style="text-align:center;"|[[File:Fight_icon.png|30px]]
+|2-13: Bandit Bob (13th monster of [[Desert|zone 2]] )
+|-
+|Defeat Chaotic Sentinel
+| style="text-align:center;"|[[File:Raids_icon.png|30px]]
+|Third boss 2nd difficulty in [[raids]]
+|-
+|Defeat Nightmare Demon
+| style="text-align:center;"|[[File:Raids_icon.png|30px]]
+|Fourth boss 3rd difficulty in [[raids]]
+|-
+|Employ 6 Noble Tillers
+| style="text-align:center;"|[[File:Tilling_icon.png|30px]]
+|Noble [[Tilling|Tillers]] unlock along with Purple Land
+|-
+|Harvest some Candypops
+| style="text-align:center;"|[[File:Farming_icon.png|30px]]
+|Botany plant 12
+|-
+|Brew a Purple potion
+| style="text-align:center;"|[[File:Brewing_icon.png|30px]]
+|
+|-
+|Defeat the Basilisk
+| style="text-align:center;"|[[File:Small_crusades_icon.png|30px]]
+|Requires lvl 70 [[Crusades]]
+|-
+|Have 150 Crusaders
+| style="text-align:center;"|[[File:Small_crusades_icon.png|30px]]
+|
+|-
+|Get 5 SSSS++ Contracts
+| style="text-align:center;"|[[File:Contracts_icon.png|30px]]
+|
+|}
+===Task Set 2===
+13 tasks, +3% balls / hour per task.
+{| class="article-table mw-collapsible mw-collapsed" border="1" align="center"
+!style="text-align:center;"|Task
+!style="text-align:center;"|Screen
+!style="text-align:center;"|Comments
+|-
+|Kill 99m Chaotic Bob 3
+| style="text-align:center;"|[[File:Fight_icon.png|30px]]
+|2-9: Chaotic Bob 3 (27th monster of [[Purgatory|zone 6]])
+|-
+|Get a Shrine to lvl 16
+| style="text-align:center;"|[[File:Asylum_Icon.png|30px]]
+|Shrines are shops that use traces in [[Asylum]]
+|-
+|Craft a cyber food
+| style="text-align:center;"|[[File:Smithing_icon.png|30px]]
+|Requires at least [[Smithing|Warped Smithing]]
+|-
+|Defeat Occulon X
+| style="text-align:center;"|[[File:Asylum_Icon.png|30px]]
+|
+|-
+|Survive Emigdala Y
+| style="text-align:center;"|[[File:Asylum_Icon.png|30px]]
+|Do not kill it. Wait out the timer
+|-
+|Level Rift Rift to 30
+| style="text-align:center;"|[[File:Summoning_icon.png|30px]]
+|
+|-
+|Achieve lvl 140 H2O
+| style="text-align:center;"|[[File:Train_icon.png|30px]]
+|
+|-
+|Defeat Gheist
+| style="text-align:center;"|[[File:Small_crusades_icon.png|30px]]
+|Requires lvl 60 [[Crusades]]
+|-
+|Set 6 Tillers to crop 20
+| style="text-align:center;"|[[File:Tilling_icon.png|30px]]
+|Crop 20 is Sammatian
+|-
+|Find the Civilization
+| style="text-align:center;"|[[File:Secrets_icon.png|30px]]
+|Visit [[Secrets]] for more info
+|-
+|Get a Hoops score of 20
+| style="text-align:center;"|[[File:Secrets_icon.png|30px]]
+|Visit [[Secrets]] for more info
+|-
+|Reach the Beach
+| style="text-align:center;"|[[File:Trekking_Icon.png|30px]]
+|Beach is Zone 3 of [[Trekking]]
+|-
+|Hatch a purple egg
+| style="text-align:center;"|[[File:Hatchery_Icon.png|30px]]
+|
+|}
+
+
+===Task Set 3===
+9 tasks, +5% balls / hour per task.
+{| class="article-table mw-collapsible mw-collapsed" border="1" align="center"
+!style="text-align:center;"|Task
+!style="text-align:center;"|Screen
+!style="text-align:center;"|Comments
+|-
+|Unlock all 16 Tperks
+| style="text-align:center;"|[[File:Small_gym_icon.png|30px]]
+|
+|-
+|Overgrow Sunburst to 25
+| style="text-align:center;"|[[File:Farming_icon.png|30px]]
+|
+|-
+|Defeat a Bell 11 boss
+| style="text-align:center;"|[[File:Asylum_Icon.png|30px]]
+|Ring bells in Nightmare difficulty fights
+|-
+|Achieve lvl 999 Strength
+| style="text-align:center;"|[[File:Train_icon.png|30px]]
+|
+|-
+|Equip a Crystal Skull
+| style="text-align:center;"|[[File:Tinkering_icon.png|30px]]
+|Requires lvl 99 [[Tinkering]]
+|-
+|Get 30 SSSS++ Contracts
+| style="text-align:center;"|[[File:Contracts_icon.png|30px]]
+|
+|-
+|Free Bob
+| style="text-align:center;"|[[File:Research_Icon.png|30px]]
+|
+Level 'Our Best Friend' purple [[Research|Tank]] to 540
+
+and unlock Bob Perfume Godly [[Apothecary|Potion]]
+|-
+|Reach the Aberrant
+| style="text-align:center;"|[[File:Trekking_Icon.png|30px]]
+|Aberrant is Zone 8 in [[Trekking]]
+|-
+|Breed the Almight
+| style="text-align:center;"|[[File:Hatchery_Icon.png|30px]]
+|Almight is ID 45 Pet, last in breedable line
+|}
+
+==Rewards==
+===Odds per ball===
+
+{| class="article-table" style="width: 60%;" border="1" align="center"
+! colspan="2" style="text-align: center;" | Reward
+! style="text-align: center;" | Chance/Amount
+|-
+|[[File:Loot_APCoupon.png|42px|center]]
+|AP Coupon
+|1/630
+|-
+|[[File:Loot_AsylumKey.png|42px|center]]
+|Asylum Key
+|1/3579
+|-
+|[[File:Loot_PachinkoBalls.png|42px|center]]
+|Pachinko Balls
+|1/3 (0.340)
+|-
+|[[File:Loot_BPCoupon.png|42px|center]]
+|BP Coupon
+|1/5948
+|-
+|[[File:2hr_candy.png|42px|center]]
+|2h Candy
+|1/367
+|-
+|[[File:4hr_candy.png|42px|center]]
+|4h Candy
+|1/1677
+|-
+|[[File:8hr_candy.png|42px|center]]
+|8h Candy
+|1/3149
+|-
+|[[File:24hr_candy.png|42px|center]]
+|24h Candy
+|1/5948
+|-
+|[[File:72hr_candy.png|42px|center]]
+|72h Candy
+|1/10289
+|-
+|[[File:Card_GreyStarCard.png|42px|center]]
+|Grey Star Card
+|1/3 (0.287)
+|-
+|[[File:Card_GreenStarCard.png|42px|center]]
+|Green Star Card
+|1/7 (0.134)
+|-
+|[[File:Card_BlueStarCard.png|42px|center]]
+|Blue Star Card
+|1/56
+|-
+|[[File:Card_PurpleStarCard.png|42px|center]]
+|Purple Star Card
+|1/350
+|-
+|[[File:Card_OrangeStarCard.png|42px|center]]
+|Orange Star Card
+|1/1622
+|-
+|[[File:Misc1.png|42px|center]]
+|Safety Charm
+|1/3921
+|-
+|[[File:Misc2.png|42px|center]]
+|Lucky Donut
+|1/1765
+|-
+|[[File:Misc3.png|42px|center]]
+|Crystal Genesis
+|1/1765
+|-
+|[[File:Misc4.png|42px|center]]
+|Chaotic Mutator
+|1/1412
+|-
+|[[File:Misc5.png|42px|center]]
+|Benign Mutator
+|1/1357
+|-
+|[[File:BonusCrystals.png|42px|center]]
+|1 of each Crystal
+|1/13719
+|-
+|[[File:Arcade_GoldenBall.png|42px|center]]
+|Golden Ball
+|4.05
+|-
+|[[File:Loot_Gem.png|42px|center]]
+|Gem
+|1/2 (0.464)
+|-
+|[[File:Currency_BaseCoin.png|42px|center]]
+|Current Monster Cash
+|11.34
+|-
+|[[File:NormalSkull.png|42px|center]]
+|Current Monster Kill
+|4.04
+|-
+|[[File:RaidTicket.png|42px|center]]
+|Raid Ticket
+|1/75
+|-
+|[[File:Gems.png|42px|center]]
+|Jackpot (1500 Gems, Ball Cascade from Bronze Portal)
+|1/27814
+|}
+
+=== Odds per portal ===
+
+==== Lame Rewards ====
+{| class="article-table" style="width: 100%;text-align:center;border: 5px solid #9D9D9D;" border="1"
+|-
+! scope="row" style="text-align:center;" | Reward
+! scope="row" style="text-align:center;" | Probability
+|-
+| 50x Monster Cash
+| 29%
+|-
+| 8 Kills
+| 26%
+|-
+| Grey Star Card
+| 10%
+|-
+| Raid ticket
+| 1%
+|-
+| Bronze Portal
+| 34%
+|}
+
+==== Bronze Rewards ====
+{| class="article-table" style="width: 100%;text-align:center;border: 5px solid #D18957;" border="1"
+|-
+! scope="row" style="text-align:center;" | Reward
+! scope="row" style="text-align:center;" | Probability
+|-
+| 17 Kills
+| 26%
+|-
+| Green Star Card
+| 24.5%
+|-
+| 2 Gems
+| 13%
+|-
+| 2 Grey Star Card
+| 8%
+|-
+| Raid ticket
+| 1%
+|-
+| 2 Hour Candy
+| 0.5%
+|-
+| Silver Portal
+| 30.5%
+|}
+
+==== Silver Rewards ====
+{| class="article-table" style="width: 100%;text-align:center;border: 5px solid #95D3E0;" border="1"
+|-
+! scope="row" style="text-align:center;" | Reward
+! scope="row" style="text-align:center;" | Probability
+|-
+| 3 Grey Star Cards
+| 18%
+|-
+| Blue Star Card
+| 15%
+|-
+| 8 Balls
+| 16.5%
+|-
+| 5 Gems
+| 14.5%
+|-
+| 1 Crusade Misc Item<ref name="crusade_misc_item">1 Benign Mutator (26%), 1 Chaotic Mutator (25%), 1 Crystal Genesis (20%), 1 Lucky Donut (20%), 1 Safety Charm (9%)</ref>
+| 2%
+|-
+| 4 Hour Candy
+| 0.5%
+|-
+| Gold Portal
+| 33.5%
+|}
+
+==== Gold Rewards ====
+{| class="article-table" style="width: 100%;text-align:center;border: 5px solid #FFC94E;" border="1"
+|-
+! scope="row" style="text-align:center;" | Reward
+! scope="row" style="text-align:center;" | Probability
+|-
+| 6 Grey Star Cards
+| 19%
+|-
+| 12 Gems
+| 19%
+|-
+| 15 Balls
+| 18%
+|-
+| Purple Star Card
+| 9%
+|-
+| Ascend Coupon
+| 5%
+|-
+| 8 Hour Candy
+| 1%
+|-
+|Elite Portal
+|29%
+|}
+
+==== Elite Rewards ====
+{| class="article-table" style="width: 100%;text-align:center;border: 5px solid #C683E2;" border="1"
+|-
+! scope="row" style="text-align:center;" | Reward
+! scope="row" style="text-align:center;" | Probability
+|-
+| 30 Balls
+| 36%
+|-
+| 15 Grey Star Cards
+| 25%
+|-
+| 60 Gems
+| 18%
+|-
+| Orange Star Card
+| 11%
+|-
+| 2 Crusade Misc Items<ref name="crusade_misc_item" />
+| 4%
+|-
+| 24 Hour Candy
+| 3%
+|-
+| Rebirth Coupon
+| 3%
+|}
+
+==== Divine Rewards ====
+{| class="article-table" style="width: 100%;text-align:center;border: 5px solid #EB6B89;" border="1"
+|-
+! scope="row" style="text-align:center;" | Reward
+! scope="row" style="text-align:center;" | Probability
+|-
+| 75 Balls
+| 40%
+|-
+|Asylum Key
+|23%
+|-
+| 200 Gems
+| 23%
+|-
+| 72h Hour Candy
+| 8%
+|-
+| 1 of each Crystal
+| 6%
+|}
+
+==== King's Ransom ====
+{| class="article-table" style="width: 100%;text-align:center;border: 5px solid #4CF4FF;" border="1"
+|-
+! scope="row" style="text-align:center;" | Reward
+! scope="row" style="text-align:center;" | Probability
+|-
+| 1500 Gems and a Ball Cascade from the Bronze portal
+| 100%
+|}
+
+<references />
+
+=== Other info ===
+* The ball has a 54% chance to go to the right and 46% to get to the left.
+
+* When launched, the ball have :
+** 59% chance to start on pin n°2
+** 23% chance to start on pin n°3
+** 18% chance to start on pin n°4
+
+== Golden Ball Shop ==
+Everytime a ball falls into a portal you get golden balls [[File:ArcadeShop_golden_ball.png|20px]] which can be spent on 6 permanent upgrades. The better the portal, the more golden balls you get.
+
+{| class="article-table" style="width: 60%;" border="1" align="center"
+!Reward Class
+!Golden Balls
+|-
+| Lame
+| 1
+|-
+| Bronze
+| 3
+|-
+| Silver
+| 5
+|-
+| Gold
+| 15
+|-
+| Elite
+| 50
+|-
+| Divine
+| 200
+|-
+| Jackpot
+| ?
+|}
+
+=== Golden Ball Upgrades ===
+
+{| class="article-table" style="width: 60%;" border="1" align="center"
+!
+!Name
+!Bonus per level
+!Max
+|-
+|[[File:ArcadeShop_damage.png|50px]]
+|Damage
+| +3% Damage
+| +3000%
+|-
+|[[File:ArcadeShop_kills.png|50px]]
+|Kills
+| +0.5% Kills per Kill
+| +150%
+|-
+|[[File:ArcadeShop_cash.png|50px]]
+|Cash
+| +5% Cash earned
+| +4000%
+|-
+|[[File:ArcadeShop_ascend.png|50px]]
+|Ascend
+| +5% Bonus AP earned
+|  +2500%
+|-
+|[[File:ArcadeShop_crops.png|50px]]
+|Crops
+| +4% Tilling Crops
+| +800%
+|-
+|[[File:ArcadeShop_rebirth.png|50px]]
+|Rebirth
+| +2 Base BP earned
+| +1200 Base BP
+|}
+
+During some events there are other, temporary upgrades that have a chance to drop event cards when invested in. The rewards are guaranteed when these upgrades are maxed. At these times golden balls are reskinned as some other type of currency.
+
+{| class="article-table" style="width: 80%;" border="1" align="center"
+!
+!Name
+!Bonus per level
+!Max
+!Event
+!Drops
+|-
+|[[File:ArcadeShop_statue.png|50px]]
+|Statue
+| +1% Card Chance
+|
+|[[File:ArcadeShop_event_fall.png|20px]] [[Events#Fall Event|Fall]]
+|[[File:Card_Statue.png|40px]]
+|-
+|[[File:ArcadeShop_candy.png|50px]]
+|Candy
+| +0.5% Card Chance
+|
+|[[File:ArcadeShop_event_fall.png|20px]] [[Events#Fall Event|Fall]]
+|[[File:Card_MinuteCandy.png|40px]][[File:Card_GoldCandy.png|40px]]
+|}
+
+==Poker Cards==
+Every 22h you can collect poker cards. Launch balls until one of them falls into a portal marked with [[File:poker_reverse.png|15px]]. When it does, you receive one of the 52 poker cards at random. Collect 5 cards to receive Gems, the amount of which depends on the power of your hand.
+
+Known hands:
+{| class="article-table" style="width: 100%;white-space: nowrap;"
+!Name
+!Gems
+!Description
+!Examples
+|-
+|Trash
+|5
+|Any hand that is not one of the combinations below is Trash
+|[[File:poker_green_2.png|31px]][[File:poker_blue_3.png|31px]][[File:poker_red_6.png|31px]][[File:poker_green_J.png|31px]][[File:poker_yellow_A.png|31px]]
+|-
+|Pair
+|10
+|Two cards of the same kind
+|[[File:poker_green_A.png|31px]][[File:poker_blue_A.png|31px]][[File:poker_yellow_2.png|31px]][[File:poker_red_7.png|31px]][[File:poker_red_9.png|31px]]
+|-
+|Two Pair
+|40
+|Two sets of two cards of the same kind
+|[[File:poker_green_A.png|31px]][[File:poker_blue_A.png|31px]][[File:poker_green_K.png|31px]][[File:poker_blue_K.png|31px]][[File:poker_red_2.png|31px]]
+|-
+|Trips
+|80
+|Three cards of the same kind
+|[[File:poker_green_A.png|31px]][[File:poker_blue_A.png|31px]][[File:poker_red_A.png|31px]][[File:poker_yellow_7.png|31px]][[File:poker_green_9.png|31px]]
+|-
+|Straight
+|125
+|A series of cards that follow each other, but not of the same suit
+|[[File:poker_green_4.png|31px]][[File:poker_blue_5.png|31px]][[File:poker_red_6.png|31px]][[File:poker_yellow_7.png|31px]][[File:poker_green_8.png|31px]]
+|-
+|Flush
+|200
+|Five cards that are all of the same suit
+|[[File:poker_blue_3.png|31px]][[File:poker_blue_4.png|31px]][[File:poker_blue_7.png|31px]][[File:poker_blue_9.png|31px]][[File:poker_blue_K.png|31px]]
+|-
+|Full House
+|400
+|A combination of Trips and Pair
+|[[File:poker_green_A.png|31px]][[File:poker_blue_A.png|31px]][[File:poker_red_A.png|31px]][[File:poker_green_K.png|31px]][[File:poker_blue_K.png|31px]]
+|-
+|Quads
+|800
+|Four cards of the same kind
+|[[File:poker_green_A.png|31px]][[File:poker_blue_A.png|31px]][[File:poker_red_A.png|31px]][[File:poker_yellow_A.png|31px]][[File:poker_green_9.png|31px]]
+|-
+|Straight Flush
+|2.000
+|A Straight, but the cards are all the same suit
+|[[File:poker_yellow_4.png|31px]][[File:poker_yellow_5.png|31px]][[File:poker_yellow_6.png|31px]][[File:poker_yellow_7.png|31px]][[File:poker_yellow_8.png|31px]]
+|-
+|Royal Flush
+|10.000
+|A Straight Flush from 10 to Ace
+|[[File:poker_red_10.png|31px]][[File:poker_red_J.png|31px]][[File:poker_red_Q.png|31px]][[File:poker_red_K.png|31px]][[File:poker_red_A.png|31px]]
+|}
+
+==Notes==
+The King's Ransom reward might not reward the player with Gems, but instead rewarding the Bronze portal balls. This is either a bug, or a unannounced change to the game. {{Citation needed}}
+
+[[Category:Events]]
+[[Category:Gem Shop]]
+[[Category:Arcade]]

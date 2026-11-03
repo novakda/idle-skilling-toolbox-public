@@ -1,0 +1,570 @@
+The Perk Tree features unlocks and upgrades for many of the features of Idle Skilling. Players gain perk points by leveling up their skills in the game. Once earned, these perk points may be spent in any of the first three branches and later on in the last four branches once they're unlocked permanently after clearing [[Grasslands]], [[Desert]], [[Mountains]], and [[Purgatory]]. There are no restrictions to which branch perk points may be allocated to, therefore it's possible to fill up all six trees simultaneously, although it requires 2601 points to do so.
+
+Initially, each individual perk can be upgraded up to 5 times. However, once the Skilltree Overcharge [[Ascension|Ascension Perk]] (+5 max), All Star [[Rebirth|Rebirth Perk]] (+5 max), and Tressii Brew Bobby [[Apothecary|Potion]] (+35 max, excluding 3 perks) are unlocked, perks may be upgraded up to 50 times (only 15 times for Smithing Multi-Craft, Poison Attack, and Botany Overgrowth Time Redux). 
+
+Perks in the Infinity Tree have no cap, and can be upgraded forever, with the perk point cost increasing by 1 each upgrade. You start with 2 perks in the Infinity Tree, and unlock more as you bring Ice Creams to [[Dairy Aisle|Dairy Aisle.]] <gallery type="slideshow" hideaddbutton="true" navigation="true">
+Redperks2.png|linktext=Red Perks Image|link=https://vignette.wikia.nocookie.net/idle-skilling/images/b/b8/Redperks2.png/revision/latest?cb=20181226110449
+Orangeperks2.png|linktext=Orange Perks Image|link=https://vignette.wikia.nocookie.net/idle-skilling/images/f/fe/Orangeperks2.png/revision/latest?cb=20190117015607
+Greenperks2.png|linktext=Green Perks Image|link=https://vignette.wikia.nocookie.net/idle-skilling/images/b/bb/Greenperks2.png/revision/latest?cb=20190117015607
+Blueperks2.png|linktext=Blue Perks Image|link=https://vignette.wikia.nocookie.net/idle-skilling/images/b/b2/Blueperks2.png/revision/latest?cb=20190117015606
+Grayperks2.png|linktext=Gray Perks Image|link=https://vignette.wikia.nocookie.net/idle-skilling/images/6/65/Grayperks2.png/revision/latest?cb=20190117015606
+Yellowperks2.png|linktext=Yellow Perks Image|link=https://vignette.wikia.nocookie.net/idle-skilling/images/f/f3/Yellowperks2.png/revision/latest?cb=20190415200618
+</gallery>
+
+
+==Perk Trees==
+=== Red Attack Perk Tree ===
+{| style="width: 100%;" class="article-table" border="1"
+|-
+! scope="col" style="text-align: center;" colspan=2|Location
+(Bottom to Top)
+! scope="col" style="text-align: center;"|[[File:Perk_point_icon.png]] Cost
+! scope="col"|Description
+! scope="col"|Per Level Bonus
+|-
+| scope="col"|[[File:Redperk1.png|center|60px]]
+| scope="col"|Bottom
+| scope="col" style="text-align: center;"|1
+| scope="col"|Unlock the Attack Dojo
+| scope="col" style="text-align: center;"| -
+|-
+|[[File:Redperk2.png|center|60px]]
+|2nd Bottom
+| style="text-align: center;"|2
+|Unlock the [[Mining|Mining Skill]]
+| style="text-align: center;"| -
+|-
+|[[File:Redperk3.png|center|60px]]
+|1st Left
+| style="text-align: center;"|2
+| [+%] Double Ore Chance
+| +10% per Level
+|-
+|[[File:Redperk5.png|center|60px]]
+|2nd Left
+| style="text-align: center;"|3
+| [+%] Ores per Mining Level
+| +1% per Level
+|-
+|[[File:Redperk4.png|center|60px]]
+|1st Right
+| style="text-align: center;"|3
+| Claw Attacks [+X] Times
+| +2 per Level
+|-
+|[[File:Redperk6.png|center|60px]]
+|Middle
+| style="text-align: center;"|4
+| Unlocks Vision, Gives [+5%] Crit Chance
+| +5% per Level
+|-
+|[[File:Redperk7.png|center|60px]]
+|3rd Left
+| style="text-align: center;"|5
+| Minimum Damage is [+20%] of Maximum
+| +8% per Level
+|-
+|[[File:Redperk8.png|center|60px]]
+|2nd Right
+| style="text-align: center;"|5
+| Unlocks Smite, Deals [+300%] Damage
+| +100% per Level
+|-
+|[[File:Redperk9.png|center|60px]]
+|Top Left
+| style="text-align: center;"|10
+| [+%] Idle Attack Speed
+| +10% per Level
+|-
+|[[File:Redperk10.png|center|60px]]
+|Top Right
+| style="text-align: center;"|10
+| Claw Deals [+100%] Damage
+| +80% per Level
+|}
+=== Orange Strength Perk Tree ===
+{| style="width: 100%;" class="article-table" border="1"
+|-
+! scope="col" style="text-align: center;" colspan=2|Location
+(Bottom to Top)
+! scope="col" style="text-align: center;"|[[File:Perk_point_icon.png]] Cost
+! scope="col"|Description
+! scope="col"|Per Level Bonus
+|-
+| scope="col"|[[File:Orangeperk1.png|center|60px]]
+| scope="col"|Bottom
+| scope="col" style="text-align: center;"|1
+| scope="col"|Unlock the Strength Mountain
+| scope="col" style="text-align: center;"| -
+|-
+|[[File:Orangeperk2.png|center|60px]]
+|2nd Bottom
+| style="text-align: center;"|2
+|Unlock the [[Smithing|Smithing Skill]]
+| style="text-align: center;"| -
+|-
+|[[File:Orangeperk3.png|center|60px]]
+|1st Left
+| style="text-align: center;"|2
+|Forge Charges [+%] Faster
+| +20% per level
+|-
+|[[File:Orangeperk5.png|center|60px]]
+|2nd Left
+| style="text-align: center;"|3
+|Crafting Gives [+%] more EXP
+| +20% per level
+|-
+|[[File:Orangeperk4.png|center|60px]]
+|1st Right
+| style="text-align: center;"|3
+|Unlocks Meteor, Deals [+150%] Damage
+| +50% per level
+|-
+|[[File:Orangeperk6.png|center|60px]]
+|Middle
+| style="text-align: center;"|4
+|Unlocks Flurry, Deals [+100%] Damage
+| +20% per level
+|-
+|[[File:Orangeperk7.png|center|60px]]
+|3rd Left
+| style="text-align: center;"|5
+|All Skills Deal [+%] Damage
+| +10% per level
+|-
+|[[File:Orangeperk8.png|center|60px]]
+|2nd Right
+| style="text-align: center;"|5
+|Unlocks Valor, Increases Damage and HP by [+%]
+| +20% per level
+|-
+|[[File:Orangeperk9.png|center|60px]]
+|Top Left
+| style="text-align: center;"|10
+|[+%] Chance for Double Craft
+| +20% per level
+|-
+|[[File:Orangeperk10.png|center|60px]]
+|Top Right
+| style="text-align: center;"|10
+|[+X] Kills per Kill
+| +0.1 per level
+|}
+=== Green Endurance Perk Tree ===
+{| style="width: 100%;" class="article-table" border="1"
+|-
+! scope="col" style="text-align: center;" colspan=2|Location
+(Bottom to Top)
+! scope="col" style="text-align: center;"|[[File:Perk_point_icon.png]] Cost
+! scope="col"|Description
+! scope="col"|Per Level Bonus
+|-
+| scope="col"|[[File:Greenperk1.png|center|60px]]
+| scope="col"|Bottom
+| scope="col" style="text-align: center;"|1
+| scope="col"|Unlock the Endurance Fields
+| scope="col" style="text-align: center;"| -
+|-
+|[[File:Greenperk2.png|center|60px]]
+|2nd Bottom
+| style="text-align: center;"|2
+|Unlock the [[Fishing|Fishing Skill]]
+| style="text-align: center;"| -
+|-
+|[[File:Greenperk3.png|center|60px]]
+|1st Left
+| style="text-align: center;"|2
+|Fishing is [+%] Faster
+| +5% per level
+|-
+|[[File:Greenperk5.png|center|60px]]
+|2nd Left
+| style="text-align: center;"|3
+|Unlocks the Fishing Warp, Skip [X] Seconds on Click
+| +1 per level
+|-
+|[[File:Greenperk4.png|center|60px]]
+|1st Right
+| style="text-align: center;"|3
+|Unlocks Poison, Hits Every [X] Second
+| -0.1 per level
+|-
+|[[File:Greenperk6.png|center|60px]]
+|Middle
+| style="text-align: center;"|4
+|Unlocks Midas, Clicks Give [+%] Monster Gold
+| +10% per level
+|-
+|[[File:Greenperk7.png|center|60px]]
+|3rd Left
+| style="text-align: center;"|5
+|All Food Heals [+%] Health
+| +20% per level
+|-
+|[[File:Greenperk8.png|center|60px]]
+|2nd Right
+| style="text-align: center;"|5
+|Unlocks Seal, No Enemy Damage for [X] Seconds
+| +1 per level
+|-
+|[[File:Greenperk9.png|center|60px]]
+|Top Left
+| style="text-align: center;"|10
+|Each Endurance Level Gives [+10%] HP
+| +3% per level
+|-
+|[[File:Greenperk10.png|center|60px]]
+|Top Right
+| style="text-align: center;"|10
+|[+%] Resource Collection
+| +20% per level
+|}
+=== Blue Limbo Perk Tree ===
+{| style="width: 100%;" class="article-table" border="1"
+|-
+! scope="col" style="text-align: center;" colspan=2|Location
+(Bottom to Top)
+! scope="col" style="text-align: center;"|[[File:Perk_point_icon.png]] Cost
+! scope="col"|Description
+! scope="col"|Per Level Bonus
+|-
+| scope="col"|[[File:Blueperk1.png|center|60px]]
+| scope="col"|Bottom
+| scope="col" style="text-align: center;"|1
+| scope="col"|Unlock [[Limbo]], Check the Fishing Docks
+| scope="col" style="text-align: center;"| -
+|-
+|[[File:Blueperk2.png|center|60px]]
+|2nd Bottom
+| style="text-align: center;"|2
+|[+%] Spiriting EXP Chance
+| +2% per level
+|-
+|[[File:Blueperk3.png|center|60px]]
+|1st Left
+| style="text-align: center;"|2
+|[+%] Cultist Efficiency
+| +5% per level
+|-
+|[[File:Blueperk5.png|center|60px]]
+|2nd Left
+| style="text-align: center;"|3
+|[+%] Acolyte Efficiency
+| +5% per level
+|-
+|[[File:Blueperk4.png|center|60px]]
+|1st Right
+| style="text-align: center;"|3
+|Summoning Rifts are [+%] Faster
+| +5% per level
+|-
+|[[File:Blueperk6.png|center|60px]]
+|Middle
+| style="text-align: center;"|4
+|[+%] More Rift EXP
+| +5% per level
+|-
+|[[File:Blueperk7.png|center|60px]]
+|3rd Left
+| style="text-align: center;"|5
+|[+%] More AP After Ascending
+| +4% per level
+|-
+|[[File:Blueperk8.png|center|60px]]
+|2nd Right
+| style="text-align: center;"|5
+|[+%] Damage Every 10 Merits Spent
+| +1% per level
+|-
+|[[File:Blueperk9.png|center|60px]]
+|Top Left
+| style="text-align: center;"|10
+|[+%] Damage for Every Contract Completed
+| +0.5% per level
+|-
+|[[File:Blueperk10.png|center|60px]]
+|Top Right
+| style="text-align: center;"|10
+|[+%] HP for Every Contract Completed
+| +0.5% per level
+|}
+=== Gray Crusades Perk Tree ===
+{| style="width: 100%;" class="article-table" border="1"
+|-
+! scope="col" style="text-align: center;" colspan=2|Location
+(Bottom to Top)
+! scope="col" style="text-align: center;"|[[File:Perk_point_icon.png]] Cost
+! scope="col"|Description
+! scope="col"|Per Level Bonus
+|-
+| scope="col"|[[File:Grayperk1.png|center|60px]]
+| scope="col"|Bottom
+| scope="col" style="text-align: center;"|1
+| scope="col"|Unlocks Special Skill Toggle
+| scope="col" style="text-align: center;"| -
+|-
+|[[File:Grayperk2.png|center|60px]]
+|2nd Bottom
+| style="text-align: center;"|2
+|[+X] Inactive Crusaders
+| style="text-align: center;"| +2 per level
+|-
+|[[File:Grayperk3.png|center|60px]]
+|1st Left
+| style="text-align: center;"|2
+|[+%] Crusade EXP
+| +10% per level
+|-
+|[[File:Grayperk5.png|center|60px]]
+|2nd Left
+| style="text-align: center;"|3
+|[+%] Max Fight Bonus
+| +10% per leve
+|-
+|[[File:Grayperk4.png|center|60px]]
+|1st Right
+| style="text-align: center;"|3
+|[+%] Tinkering EXP
+| +10% per level
+|-
+|[[File:Grayperk6.png|center|60px]]
+|Middle
+| style="text-align: center;"|4
+|Unlocks Anion, Deals [+300%] Damage
+| +100% per level
+|-
+|[[File:Grayperk7.png|center|60px]]
+|3rd Left
+| style="text-align: center;"|5
+|[+%] Max Shield
+| +25% per level
+|-
+|[[File:Grayperk8.png|center|60px]]
+|2nd Right
+| style="text-align: center;"|5
+|[+%] Idle Damage Every Booster Level
+| +1% per level
+|-
+|[[File:Grayperk9.png|center|60px]]
+|Top Left
+| style="text-align: center;"|10
+|Unlocks Icies, deals [+1800%] Damage
+| +600% per level
+|-
+|[[File:Grayperk10.png|center|60px]]
+|Top Right
+| style="text-align: center;"|10
+|Unlocks Mark, Buffs Monster Damage and HP by 400%, but Gives [+%] Reward
+| +20% per level
+|}
+=== Yellow Farming Perk Tree ===
+{| style="width: 100%;" class="article-table" border="1"
+|-
+! scope="col" style="text-align: center;" colspan=2|Location
+(Bottom to Top)
+! scope="col" style="text-align: center;"|[[File:Perk_point_icon.png]] Cost
+! scope="col"|Description
+! scope="col"|Per Level Bonus
+|-
+| scope="col"|[[File:Yellowperk1.png|center|60px]]
+| scope="col"|Bottom
+| scope="col" style="text-align: center;"|1
+| scope="col"|[+%] Potion Cost Redux
+| scope="col"| +2% per Level
+|-
+|[[File:Yellowperk2.png|center|60px]]
+|2nd Bottom
+| style="text-align: center;"|2
+|[+%] for Double Brew
+| +3% per Level
+|-
+|[[File:Yellowperk3.png|center|60px]]
+|1st Left
+| style="text-align: center;"|2
+| [+X] Max Botany Speed Lv. Every 25 Tilling Lv.
+| +1 per Level
+|-
+|[[File:Yellowperk4.png|center|60px]]
+|2nd Left
+| style="text-align: center;"|3
+| [+%] Double Crop Chance
+| +5% per Level
+|-
+|[[File:Yellowperk5.png|center|60px]]
+|1st Right
+| style="text-align: center;"|3
+| [+%] Gem Bonuses
+| +1.5 per Level
+|-
+|[[File:Yellowperk6.png|center|60px]]
+|Middle
+| style="text-align: center;"|4
+| [+%] Potion Brew Speed
+| +10% per Level
+|-
+|[[File:Yellowperk7.png|center|60px]]
+|3rd Left
+| style="text-align: center;"|5
+| [+%] Botany Multidrop
+| +15% per Level
+|-
+|[[File:Yellowperk8.png|center|60px]]
+|2nd Right
+| style="text-align: center;"|5
+| [+%] Overgrow Flower Bonus
+| +1% per Level
+|-
+|[[File:Yellowperk9.png|center|60px]]
+|Top Left
+| style="text-align: center;"|10
+|
+[+%] Crops for Every Mythic Pot Owned
+| +3% per Level
+|-
+|[[File:Yellowperk10.png|center|60px]]
+|Top Right
+| style="text-align: center;"|10
+| [+%] Overgrowth Time Redux
+| +10% per Level
+|}
+=== Infinite Perk Tree ===
+{| style="width: 100%;" class="article-table" border="1"
+|-
+! scope="col" style="text-align: center;" colspan=2|Location
+(Bottom to Top)
+! scope="col" style="text-align: center;"|[[File:Perk_point_icon.png]] Cost
+! scope="col"|Description
+! scope="col"|Per Level Bonus
+|-
+| scope="col"|[[File:InfPerk_01.png|center|60px]]
+| scope="col"|Bottom
+| scope="col" style="text-align: center;"| +1 each upgrade
+| scope="col"|[+%] Damage
+| scope="col"| +2% per Level
+|-
+|[[File:InfPerk_02.png|center|60px]]
+|2nd Bottom
+| style="text-align: center;"| +1 each upgrade 
+|[+%] Lower Smith Cost Cap
+| +3% per Level
+|-
+|[[File:InfPerk_03.png|center|60px]]
+|1st Left
+| style="text-align: center;"| +1 each upgrade 
+| [+%] Vessel Gain
+| +1% per Level
+|-
+|[[File:InfPerk_04.png|center|60px]]
+|2nd Left
+| style="text-align: center;"| +1 each upgrade 
+| [+%] RP Gain From All Tanks
+| +3% per Level
+|-
+|[[File:InfPerk_05.png|center|60px]]
+|1st Right
+| style="text-align: center;"| +1 each upgrade 
+| [+%] BP From Rebirthing
+| +1.5% per Level
+|-
+|[[File:InfPerk_06.png|center|60px]]
+|Middle
+| style="text-align: center;"| +1 each upgrade 
+| [+%] Potion Brew Speed
+| +0.1% per Level
+|-
+|[[File:InfPerk_07.png|center|60px]]
+|3rd Left
+| style="text-align: center;"| +1 each upgrade
+| [+%] Chain Lv Chance
+| +X% per Level
+|-
+|[[File:InfPerk_08.png|center|60px]]
+|2nd Right
+| style="text-align: center;"| +1 each upgrade
+| [+%] More Away Time
+| +X% per Level
+|-
+|[[File:InfPerk_09.png|center|60px]]
+|Top Left
+| style="text-align: center;"| +1 each upgrade
+|
+[+%] Pet Damage
+| +3% per Level
+|-
+|[[File:InfPerk_10.png|center|60px]]
+|Top Right
+| style="text-align: center;"| +1 each upgrade
+| [X]x Spelunking Speed and Learn Rate
+| +Xx per Level
+|}
+
+==Perk Point Boosts==
+There are several ways to start with and earn more Perk Points per skill level up.
+
+==== [[Ascension|Ascension Perks]] ====
+{| class="article-table" border="1" align="center"
+! colspan="2" style="text-align: center;" |Perk
+! style="text-align: center;" |Benefit
+! style="text-align: center;" |Requirement
+|-
+|[[File:Starting perk points.png|center|46x46px]]
+| Starting Perk Points
+| +1 starting Perk Points per level
+| Clear [[Grasslands]], Green Key
+|-
+|[[File:Skill point bonanza.png|center|46x46px]]
+|Skill Point Bonanza
+| +10% Perk Points per level
+|Clear [[Mountains]]
+|}
+
+==== [[Cards]] ====
+{| class="article-table" border="1" align="center"
+! colspan="2" style="text-align: center;" |Card
+! style="text-align: center;" |Type
+! style="text-align: center;" |Benefit
+|-
+|[[File:C chewed.png|center|63x63px]]
+| Chewed
+|Perk Points Gained
+| 3% Base, 60% Max
+|-
+|[[File:C waddles.png|center|63x63px]]
+|Waddles
+|Perk Points Gained
+|4% Base, 80% Max
+|-
+|[[File:C ruler.png|center|63x63px]]
+|Ruler
+|Perk Points Gained
+|4% Base, 80% Max
+|-
+|[[File:C tubby wurm.png|center|63x63px]]
+|Tubby Wurm
+| Perk Points Gained
+|5% Base, 100% Max
+|-
+|[[File:Card Occulon.png|center|63x63px]]
+|Occulon
+|Perk Points Gained (passive)
+|6% Base, 120% Max
+|}
+
+==== [[Hatchery|Pets]] ====
+{| class="article-table" border="1" align="center"
+! colspan="2" style="text-align: center;" |Pet
+! style="text-align: center;" |Passive
+! style="text-align: center;" |Benefit
+|-
+|[[File:Pet Duck.png|center|46x46px]]
+| Duck (ID 8)
+|Perk Points Gained
+| +8% per level
+|-
+|[[File:Pet Spagetti.png|center|46x46px]]
+|Spaghetti (ID 35)
+|Perk Points Gained
+| +15% per level
+|}
+[[Category:Perks]]

@@ -1,0 +1,2101 @@
+{{:Header/Pets}}
+==Setup==
+In Trekking pets obtained from breeding in [[Hatchery]] are used to fight through zones of enemies to collect vessels. Vessels are used in [[Research]] to upgrade the lab mainframe and vats.
+
+Your team consists of two rows. On the bottom row are your fighters. Pets placed here can use normal attacks and attack moves. On the top row are your supports. These pets cannot attack but they do contribute their [[Hatchery#Genes|genes]] and health to the team.
+
+The power of pet attacks is based on its pet level. The health of your team is based on the sum of every pet on your team.
+
+Your team starts out with two fighter pet spots. More fighter and support pet spots are unlocked as your trekking level increases.
+{| border="0" cellspacing="1" cellpadding="1" style="width:500px;" class="article-table"
+|-
+! scope="col"|
+! scope="col"|1
+!2
+!3
+!4
+|-
+|Fighter spot
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|Level 15
+|Level 50
+|-
+|Support spot
+|Level 5
+|Level 25
+|Level 35
+|Level 70
+|}
+Support spots can be upgraded to Arcane Carpets in the [[Gem_Shop#Pets|Gem Shop]]. These double the effect of pet genetics and make genetics count twice towards combos for pets placed on the carpet.
+The most optimal setups can be found in [[Builds#Trekking_Builds|Builds.]]
+
+==Safari==
+
+<div class="mw-customtoggle-Safari wikia-menu-button">Show/Hide table</div>
+
+
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-Safari" border="1" align="center"
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 1
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_02.png|center|48px]]
+| colspan="2" |[[File:Trekking_03.png|center|48px]]
+| colspan="2" |[[File:Trekking_04.png|center|48px]]
+| colspan="2" |[[File:Trekking_05.png|center|48px]]
+| colspan="2" |[[File:Trekking_06.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Grass Dummy
+| colspan="2" |Shroomius
+| colspan="2" |Bab Carrot
+| colspan="2" |Gnomed
+| colspan="2" |Cthulli
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |5
+| colspan="2" |19
+| colspan="2" |38
+| colspan="2" |60
+| colspan="2" |120
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |1
+| colspan="2" |1
+| colspan="2" |2
+| colspan="2" |2
+| colspan="2" |3
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 2
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_07.png|center|48px]]
+| colspan="2" |[[File:Trekking_08.png|center|48px]]
+| colspan="2" |[[File:Trekking_09.png|center|48px]]
+| colspan="2" |[[File:Trekking_10.png|center|48px]]
+| colspan="2" |[[File:Trekking_11.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Kid Strawbz
+| colspan="2" |Gombo
+| colspan="2" |Chuck
+| colspan="2" |Ted
+| colspan="2" |Bored Board
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |6.7km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |162
+| colspan="2" |208
+| colspan="2" |261
+| colspan="2" |320
+| colspan="2" |491
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |4
+| colspan="2" |5
+| colspan="2" |5
+| colspan="2" |6
+| colspan="2" |7
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 3
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_12.png|center|48px]]
+| colspan="2" |[[File:Trekking_13.png|center|48px]]
+| colspan="2" |[[File:Trekking_14.png|center|48px]]
+| colspan="2" |[[File:Trekking_15.png|center|48px]]
+| colspan="2" |[[File:Trekking_16.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Omega
+| colspan="2" |Saply
+| colspan="2" |Hamish
+| colspan="2" |Elder Fung
+| colspan="2" |Cthullusso
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |2.4km
+| colspan="2" |2.7km
+| colspan="2" |3.1km
+| colspan="2" |x
+| colspan="2" |x
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |583
+| colspan="2" |685
+| colspan="2" |797
+| colspan="2" |920
+| colspan="2" |1.3K
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |8
+| colspan="2" |9
+| colspan="2" |10
+| colspan="2" |11
+| colspan="2" |13
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+|}
+==Forest==
+
+<div class="mw-customtoggle-Forest wikia-menu-button">Show/Hide table</div>
+
+
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-Forest" border="1" align="center"
+! colspan="10" scope="col" style="text-align: center;" |Zone 4
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_17.png|center|48px]]
+| colspan="2" |[[File:Trekking_18.png|center|48px]]
+| colspan="2" |[[File:Trekking_19.png|center|48px]]
+| colspan="2" |[[File:Trekking_20.png|center|48px]]
+| colspan="2" |[[File:Trekking_21.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Jungle Dummy
+| colspan="2" |Drone Ant
+| colspan="2" |Bluebub
+| colspan="2" |Not a Knight
+| colspan="2" |Guy
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |1.5K
+| colspan="2" |1.7K
+| colspan="2" |1.9K
+| colspan="2" |2.1K
+| colspan="2" |2.8K
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |14
+| colspan="2" |15
+| colspan="2" |16
+| colspan="2" |18
+| colspan="2" |20
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 5
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_22.png|center|48px]]
+| colspan="2" |[[File:Trekking_23.png|center|48px]]
+| colspan="2" |[[File:Trekking_24.png|center|48px]]
+| colspan="2" |[[File:Trekking_25.png|center|48px]]
+| colspan="2" |[[File:Trekking_26.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Gobleon
+| colspan="2" |Rho
+| colspan="2" |Vermivor
+| colspan="2" |AAAAAAH
+| colspan="2" |Carrot
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |16km
+| colspan="2" |17km
+| colspan="2" |100km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |3.1K
+| colspan="2" |3.5K
+| colspan="2" |3.9K
+| colspan="2" |4.3K
+| colspan="2" |5.4K
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |22
+| colspan="2" |23
+| colspan="2" |25
+| colspan="2" |27
+| colspan="2" |30
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 6
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_27.png|center|48px]]
+| colspan="2" |[[File:Trekking_28.png|center|48px]]
+| colspan="2" |[[File:Trekking_29.png|center|48px]]
+| colspan="2" |[[File:Trekking_30.png|center|48px]]
+| colspan="2" |[[File:Trekking_31.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Gramps
+| colspan="2" |Mr Hole
+| colspan="2" |Nail Head
+| colspan="2" |Ripe Meat
+| colspan="2" |Bullet Ants
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |27km
+| colspan="2" |28km
+| colspan="2" |30km
+| colspan="2" |31km
+| colspan="2" |174km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |6.0K
+| colspan="2" |6.6K
+| colspan="2" |7.2K
+| colspan="2" |7.9K
+| colspan="2" |9.8K
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |32
+| colspan="2" |34
+| colspan="2" |37
+| colspan="2" |39
+| colspan="2" |44
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 7
+|-
+| rowspan="2" style="vertical-align:bottom;"|[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;"|[[File:Reowood.png|center]]
+| colspan="2" style="vertical-align:bottom;"|[[File:Goblission.png|center]]
+| colspan="2" style="vertical-align:bottom;"|[[File:Abmoog.png|center]]
+| colspan="2" style="vertical-align:bottom;"|[[File:Cthulio.png|center]]
+| colspan="2" style="vertical-align:bottom;"|[[File:MashedPotato.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Reowood
+| colspan="2" |Goblission
+| colspan="2" |Abmoog
+| colspan="2" |Cthulio
+| colspan="2" |Mashed Potato
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |45km
+| colspan="2" |47km
+| colspan="2" |49km
+| colspan="2" |x
+| colspan="2" |279km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |11K
+| colspan="2" |12K
+| colspan="2" |13K
+| colspan="2" |14K
+| colspan="2" |17K
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |47
+| colspan="2" |50
+| colspan="2" |53
+| colspan="2" |60
+| colspan="2" |63
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+|}
+
+==Beach==
+
+<div class="mw-customtoggle-Beach wikia-menu-button">Show/Hide table</div>
+
+
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-Beach" border="1" align="center"
+! colspan="10" scope="col" style="text-align: center;" |Zone 8
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:ReefDummy.png|center|88x88px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Shelly-0.png|center|52x52px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Fortsworth-0.png|center|64x64px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:MrTBone.png|center|86x86px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Precocious.png|center|100x100px]]
+|- style="text-align: center;"
+| colspan="2" |Reef Dummy
+| colspan="2" |Shelly
+| colspan="2" |Fortsworth
+| colspan="2" |Mr T Bone
+| colspan="2" |Precocious
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |70km
+| colspan="2" |73km
+| colspan="2" |75km
+| colspan="2" |78km
+| colspan="2" |420km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |19K
+| colspan="2" |20K
+| colspan="2" |22K
+| colspan="2" |24K
+| colspan="2" |28K
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 9
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Crustecean.png|center|50x50px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:DuckThing.png|center|72x72px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Sagebranch.png|center|78x78px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:OverlordPick.png|center|98x98px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:ScubaGuy.png|center|98x98px]]
+|- style="text-align: center;"
+| colspan="2" |Crustecean
+| colspan="2" |Duck Thing
+| colspan="2" |Sagebranch
+| colspan="2" |Overlord Pick
+| colspan="2" |Scuba Guy
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |103km
+| colspan="2" |106km
+| colspan="2" |110km
+| colspan="2" |113km
+| colspan="2" |602km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |30K
+| colspan="2" |33K
+| colspan="2" |35K
+| colspan="2" |38K
+| colspan="2" |45K
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 10
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Kelpo.png|center|60x60px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Coloquiam.png|center|62x62px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:CastliusClay.png|center|66x66px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:MoonSlab.png|center|104x104px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:WarpedBark.png|center|108x108px]]
+|- style="text-align: center;"
+| colspan="2" |Kelpo
+| colspan="2" |Coloquiam
+| colspan="2" |Castlius Clay
+| colspan="2" |Moon Slab
+| colspan="2" |Warped Bark
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |145km
+| colspan="2" |149km
+| colspan="2" |153km
+| colspan="2" |157km
+| colspan="2" |832km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |48K
+| colspan="2" |52K
+| colspan="2" |56K
+| colspan="2" |60K
+| colspan="2" |70K
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 11
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:PreChowder.png|center|64x64px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Algeez.png|center|64x64px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Gamma.png|center|74x74px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Beefostrone.png|center|110x110px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Cthulissimo.png|center|110x110px]]
+|- style="text-align: center;"
+| colspan="2" |Pre Chowder
+| colspan="2" |Algeez
+| colspan="2" |Gamma
+| colspan="2" |Beefostrone
+| colspan="2" |Cthulissimo
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |197km
+| colspan="2" |202km
+| colspan="2" |207km
+| colspan="2" |212km
+| colspan="2" |1.1Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |75K
+| colspan="2" |80K
+| colspan="2" |86K
+| colspan="2" |92K
+| colspan="2" |107K
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 12
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:MafiaMan.png|center|68x68px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:GnomeAgain-0.png|center|74x74px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Pompkin.png|center|100x100px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Basketball.png|center|68x68px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Shardbearer.png|center|90x90px]]
+|- style="text-align: center;"
+| colspan="2" |Mafia Man
+| colspan="2" |Gnome Again
+| colspan="2" |Pompkin
+| colspan="2" |Basketball
+| colspan="2" |Shardbearer
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |261km
+| colspan="2" |267km
+| colspan="2" |273km
+| colspan="2" |279km
+| colspan="2" |1.4Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |114K
+| colspan="2" |122K
+| colspan="2" |131K
+| colspan="2" |140K
+| colspan="2" |161K
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 13
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Golem.png|center|66x66px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Kingdorian.png|center|92x92px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:MachoClam.png|center|70x70px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Aquariants.png|center|90x90px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:LookGromit.png|center|106x106px]]
+|- style="text-align: center;"
+| colspan="2" |Golem
+| colspan="2" |Kingdorian
+| colspan="2" |Macho Clam
+| colspan="2" |Aquariants
+| colspan="2" |Look Gromit
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |337km
+| colspan="2" |344km
+| colspan="2" |352km
+| colspan="2" |359km
+| colspan="2" |1.8Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |172K
+| colspan="2" |184K
+| colspan="2" |196K
+| colspan="2" |210K
+| colspan="2" |240K
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 14
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Blubber.png|center|66x66px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Morpheus.png|center|70x70px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:CrabbyPatty.png|center|76x76px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Anchorage.png|center|110x110px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Sassage.png|center|110x110px]]
+|- style="text-align: center;"
+| colspan="2" |Blubber
+| colspan="2" |Morpheus
+| colspan="2" |Crabby Patty
+| colspan="2" |Anchorage
+| colspan="2" |Sassage
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |427km
+| colspan="2" |435km
+| colspan="2" |444km
+| colspan="2" |453km
+| colspan="2" |2.3Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |256K
+| colspan="2" |273K
+| colspan="2" |291K
+| colspan="2" |310K
+| colspan="2" |352K
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 15
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Alpha.png|center|78x78px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:OysterEnder.png|center|76x76px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Gromble.png|center|86x86px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:DesertPutter.png|center|104x104px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:TheStronghold.png|center|100x100px]]
+|- style="text-align: center;"
+| colspan="2" |Alpha
+| colspan="2" |Oyster ender
+| colspan="2" |Gromble
+| colspan="2" |Desert Putter
+| colspan="2" |The Stronghold
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |532km
+| colspan="2" |542km
+| colspan="2" |552km
+| colspan="2" |562km
+| colspan="2" |2.8Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |375K
+| colspan="2" |400K
+| colspan="2" |425K
+| colspan="2" |453K
+| colspan="2" |512K
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+|}
+==Willows==
+
+<div class="mw-customtoggle-Willows wikia-menu-button">Show/Hide table</div>
+
+
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-Willows" border="1" align="center"
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 16
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:MysticDummy-0.png|center|94x94px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Flutter.png|center|52x52px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:GnotAGnelf.png|center|74x74px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Blade.png|center|64x64px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:VeinyB.png|center|92x92px]]
+|- style="text-align: center;"
+| colspan="2" |Mystic Dummy
+| colspan="2" |Flutter
+| colspan="2" |Gnot a Gnelf
+| colspan="2" |Blade
+| colspan="2" |Veiny B
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |654km
+| colspan="2" |665km
+| colspan="2" |676km
+| colspan="2" |688km
+| colspan="2" |3.5Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |545K
+| colspan="2" |580K
+| colspan="2" |617K
+| colspan="2" |656K
+| colspan="2" |738K
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 17
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Roach.png|center|66x66px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Jerry.png|center|54x54px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Whistlers.png|center|72x72px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Bronsen.png|center|88x88px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Kakacarrot.png|center|102x102px]]
+|- style="text-align: center;"
+| colspan="2" |Roach
+| colspan="2" |Jerry
+| colspan="2" |Whistlers
+| colspan="2" |Bronsen
+| colspan="2" |Kakacarrot
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |792km
+| colspan="2" |805km
+| colspan="2" |818km
+| colspan="2" |831km
+| colspan="2" |4.2Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |785K
+| colspan="2" |832K
+| colspan="2" |886K
+| colspan="2" |941K
+| colspan="2" |1.1M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 18
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Shrugger.png|center|78x78px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Teevea.png|center|90x90px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:SirDough.png|center|82x82px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:FamiliarFace.png|center|102x102px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Steelite.png|center|98x98px]]
+|- style="text-align: center;"
+| colspan="2" |Shrugger
+| colspan="2" |Teevea
+| colspan="2" |Sir Dough
+| colspan="2" |Familiar Face
+| colspan="2" |Steelite
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |950km
+| colspan="2" |964km
+| colspan="2" |979km
+| colspan="2" |994km
+| colspan="2" |5Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |
+1.2M
+| colspan="2" |1.2M
+| colspan="2" |1.3M
+| colspan="2" |1.4M
+| colspan="2" |1.5M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 19
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Glug.png|center|64x64px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Prolifia.png|center|82x82px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Momopheus.png|center|86x86px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Temp.png|center|94x94px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Hivemind.png|center|106x106px]]
+|- style="text-align: center;"
+| colspan="2" |Glug
+| colspan="2" |Prolifia
+| colspan="2" |Momopheus
+| colspan="2" |Temp
+| colspan="2" |Hivemind
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |1.1Mm
+| colspan="2" |1.1Mm
+| colspan="2" |1.1Mm
+| colspan="2" |1.1Mm
+| colspan="2" |5.9Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |1.6M
+| colspan="2" |1.7M
+| colspan="2" |1.8M
+| colspan="2" |1.9M
+| colspan="2" |2.2M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 20
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Harry.png|center|62x62px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:CheeryAxe.png|center|90x90px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Triumph.png|center|86x86px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:JellyFisher.png|center|88x88px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:EnchantedGuy.png|center|98x98px]]
+|- style="text-align: center;"
+| colspan="2" |Harry
+| colspan="2" |Cheery Axe
+| colspan="2" |Triumph
+| colspan="2" |Jelly Fisher
+| colspan="2" |Enchanted Guy
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |1.3Mm
+| colspan="2" |1.3Mm
+| colspan="2" |1.3Mm
+| colspan="2" |1.3Mm
+| colspan="2" |7Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |2.3M
+| colspan="2" |2.4M
+| colspan="2" |2.6M
+| colspan="2" |2.7M
+| colspan="2" |3M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 21
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Gary.png|center|68x68px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:HansTande.png|center|82x82px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Ooooooh.png|center|86x86px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Celcius.png|center|98x98px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Choppa.png|center|94x94px]]
+|- style="text-align: center;"
+| colspan="2" |Gary
+| colspan="2" |Hans Tande
+| colspan="2" |Ooooooh
+| colspan="2" |Celcius
+| colspan="2" |Choppa
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |1.5Mm
+| colspan="2" |1.5Mm
+| colspan="2" |1.5Mm
+| colspan="2" |1.6Mm
+| colspan="2" |8.1Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |3.2M
+| colspan="2" |3.4M
+| colspan="2" |3.6M
+| colspan="2" |3.8M
+| colspan="2" |4.2M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 22
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Tuft.png|center|72x72px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:AcheDeeTele.png|center|90x90px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Woolooho.png|center|86x86px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Buzzers.png|center|88x88px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:MrLightSide.png|center|106x106px]]
+|- style="text-align: center;"
+| colspan="2" |Tuft
+| colspan="2" |Ache Dee Tele
+| colspan="2" |Wooloooho
+| colspan="2" |Buzzers
+| colspan="2" |Mr Light Side
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |1.7Mm
+| colspan="2" |1.8Mm
+| colspan="2" |1.8Mm
+| colspan="2" |1.8Mm
+| colspan="2" |9.4Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |4.4M
+| colspan="2" |4.7M
+| colspan="2" |4.9M
+| colspan="2" |5.2M
+| colspan="2" |5.8M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 23
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Broach.png|center|66x66px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:MafiosoSuperbo.png|center|72x72px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:SlippyPete.png|center|74x74px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:ShiverTimber.png|center|86x86px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Wurmivorous.png|center|104x104px]]
+|- style="text-align: center;"
+| colspan="2" |Broach
+| colspan="2" |Mafioso Superbo
+| colspan="2" |Slippy Pete
+| colspan="2" |Shiver Timber
+| colspan="2" |Wurmivorous
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |2Mm
+| colspan="2" |2Mm
+| colspan="2" |2.1Mm
+| colspan="2" |2.1Mm
+| colspan="2" |10Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |6.1M
+| colspan="2" |6.5M
+| colspan="2" |6.8M
+| colspan="2" |7.2M
+| colspan="2" |8M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+|}
+==Canyon==
+
+<div class="mw-customtoggle-Canyon wikia-menu-button">Show/Hide table</div>
+
+
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-Canyon" border="1" align="center"
+! colspan="10" scope="col" style="text-align: center;" |Zone 24
+|-
+| rowspan="2" style="vertical-align:bottom;" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:DuskDummy.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:ClayGob.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Plunk.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:StoneAge.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:MFWNewUpdate.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Dusk Dummy
+| colspan="2" |Clay Gob
+| colspan="2" |Plunk
+| colspan="2" |Stone Age
+| colspan="2" |MFW New Update
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |2.3Mm
+| colspan="2" |2.3Mm
+| colspan="2" |2.4Mm
+| colspan="2" |2.4Mm
+| colspan="2" |12Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |8.4M
+| colspan="2" |8.9M
+| colspan="2" |9.4M
+| colspan="2" |9.9M
+| colspan="2" |11M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 25
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Goober.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Goober.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Goober.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Goober.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Gargantuer.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Goober
+| colspan="2" |Wilber
+| colspan="2" |Flubber
+| colspan="2" |Gruber
+| colspan="2" |Gargantuer
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |2.6Mm
+| colspan="2" |2.7Mm
+| colspan="2" |2.7Mm
+| colspan="2" |2.7Mm
+| colspan="2" |13Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |12M
+| colspan="2" |13M
+| colspan="2" |13M
+| colspan="2" |14M
+| colspan="2" |15M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 26
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:NotAGnelf.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:NotAGnelf.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:NotAGnelf.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:NotAGnelf.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:SirDevour.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Not a Gnelf
+| colspan="2" |Not a Gnoblin
+| colspan="2" |Not a Gnimp
+| colspan="2" |Not a Gnoob
+| colspan="2" |Sir Devour
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |3Mm
+| colspan="2" |3Mm
+| colspan="2" |3Mm
+| colspan="2" |3.1Mm
+| colspan="2" |15Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |16M
+| colspan="2" |17M
+| colspan="2" |18M
+| colspan="2" |19M
+| colspan="2" |21M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 27
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Normie.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Chococoa.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Peppy.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:MoonPie.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:StaxOnStax.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Normie
+| colspan="2" |Chococoa
+| colspan="2" |Peppy
+| colspan="2" |Moon Pie
+| colspan="2" |Stax On Stax
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |3.4Mm
+| colspan="2" |3.4Mm
+| colspan="2" |3.4Mm
+| colspan="2" |3.5Mm
+| colspan="2" |17Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |22M
+| colspan="2" |23M
+| colspan="2" |24M
+| colspan="2" |26M
+| colspan="2" |28M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 28
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Chik.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Chik.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Chik.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Mortimer.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:ReginaldOfRox.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Chik
+| colspan="2" |Chique
+| colspan="2" |Czchikque
+| colspan="2" |Mortimer
+| colspan="2" |Reginald Of Rox
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |3.8Mm
+| colspan="2" |3.8Mm
+| colspan="2" |3.9Mm
+| colspan="2" |3.9Mm
+| colspan="2" |19Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |30M
+| colspan="2" |31M
+| colspan="2" |33M
+| colspan="2" |35M
+| colspan="2" |38M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 29
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Larry.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Larry.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Larry.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Larry.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:CanyonGary.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Larry
+| colspan="2" |Terry
+| colspan="2" |Jerry
+| colspan="2" |Barry
+| colspan="2" |Gary
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |4.2Mm
+| colspan="2" |4.3Mm
+| colspan="2" |4.3Mm
+| colspan="2" |4.3Mm
+| colspan="2" |22Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |40M
+| colspan="2" |42M
+| colspan="2" |45M
+| colspan="2" |47M
+| colspan="2" |51M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 30
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:GnomeAgainLOL.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Extraneous.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:KillMePlease.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Nom.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:MrShanko.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Gnome Again LOL
+| colspan="2" |Extraneous
+| colspan="2" |Kill Me Please
+| colspan="2" |Nom
+| colspan="2" |Mr Shanko
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |4.7Mm
+| colspan="2" |4.8Mm
+| colspan="2" |4.8Mm
+| colspan="2" |4.8Mm
+| colspan="2" |24Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |54M
+| colspan="2" |57M
+| colspan="2" |60M
+| colspan="2" |63M
+| colspan="2" |69M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 31
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Mud.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Dawngrowth.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:Peekaboo.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:CloudBoy.png|center]]
+| colspan="2" style="vertical-align:bottom;" |[[File:PuckMan.png|center]]
+|- style="text-align: center;"
+| colspan="2" |Mud
+| colspan="2" |Dawngrowth
+| colspan="2" |Peekaboo
+| colspan="2" |Cloud Boy
+| colspan="2" |Puck Man
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |5.2Mm
+| colspan="2" |5.3Mm
+| colspan="2" |5.3Mm
+| colspan="2" |5.4Mm
+| colspan="2" |27Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |73M
+| colspan="2" |77M
+| colspan="2" |81M
+| colspan="2" |85M
+| colspan="2" |93M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Blue.png|center|40px]]
+|}
+==Magmar==
+
+<div class="mw-customtoggle-Magmar wikia-menu-button">Show/Hide table</div>
+
+
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-Magmar" border="1" align="center"
+! colspan="10" scope="col" style="text-align: center;" |Zone 32
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 1
+| colspan="2" |Trespasser 2
+| colspan="2" |Trespasser 3
+| colspan="2" |Trespasser 4
+| colspan="2" |Trespasser 5
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |5.8M km
+| colspan="2" |5.8M km
+| colspan="2" |5.9M km
+| colspan="2" |5.9M km
+| colspan="2" |29M km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |98M
+| colspan="2" |103M
+| colspan="2" |108M
+| colspan="2" |114M
+| colspan="2" |124M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Blue.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 33
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 6
+| colspan="2" |Trespasser 7
+| colspan="2" |Trespasser 8
+| colspan="2" |Trespasser 9
+| colspan="2" |Trespasser 10
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |6.4M km
+| colspan="2" |6.4M km
+| colspan="2" |6.5M km
+| colspan="2" |6.5M km
+| colspan="2" |32M km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |131M
+| colspan="2" |138M
+| colspan="2" |145M
+| colspan="2" |153M
+| colspan="2" |166M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 34
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 11
+| colspan="2" |Trespasser 12
+| colspan="2" |Trespasser 13
+| colspan="2" |Trespasser 14
+| colspan="2" |Trespasser 15
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |7M km
+| colspan="2" |7.1M km
+| colspan="2" |7.1M km
+| colspan="2" |7.2M km
+| colspan="2" |36M km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |175M
+| colspan="2" |185M
+| colspan="2" |194M
+| colspan="2" |205M
+| colspan="2" |222M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 35
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 16
+| colspan="2" |Trespasser 17
+| colspan="2" |Trespasser 18
+| colspan="2" |Trespasser 19
+| colspan="2" |Trespasser 20
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |7.7M km
+| colspan="2" |7.8M km
+| colspan="2" |7.8M km
+| colspan="2" |7.8M km
+| colspan="2" |40M km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |234M
+| colspan="2" |246M
+| colspan="2" |260M
+| colspan="2" |273M
+| colspan="2" |296M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 36
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 21
+| colspan="2" |Trespasser 22
+| colspan="2" |Trespasser 23
+| colspan="2" |Trespasser 24
+| colspan="2" |Trespasser 25
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |8.3M km
+| colspan="2" |8.4M km
+| colspan="2" |8.5M km
+| colspan="2" |8.6M km
+| colspan="2" |43M km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |312M
+| colspan="2" |328M
+| colspan="2" |346M
+| colspan="2" |364M
+| colspan="2" |394M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Blue.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 37
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 26
+| colspan="2" |Trespasser 27
+| colspan="2" |Trespasser 28
+| colspan="2" |Trespasser 29
+| colspan="2" |Trespasser 30
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |9.1M km
+| colspan="2" |9.2M km
+| colspan="2" |9.3M km
+| colspan="2" |9.3M km
+| colspan="2" |46M km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |415M
+| colspan="2" |437M
+| colspan="2" |460M
+| colspan="2" |484M
+| colspan="2" |524M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Blue.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 38
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 31
+| colspan="2" |Trespasser 32
+| colspan="2" |Trespasser 33
+| colspan="2" |Trespasser 34
+| colspan="2" |Trespasser 35
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |9.9M km
+| colspan="2" |10M km
+| colspan="2" |10M km
+| colspan="2" |10M km
+| colspan="2" |51M km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |552M
+| colspan="2" |581M
+| colspan="2" |611M
+| colspan="2" |643M
+| colspan="2" |695M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Blue.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 39
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 36
+| colspan="2" |Trespasser 37
+| colspan="2" |Trespasser 38
+| colspan="2" |Trespasser 39
+| colspan="2" |Trespasser 40
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |10M km
+| colspan="2" |10M km
+| colspan="2" |10M km
+| colspan="2" |11M km
+| colspan="2" |55M km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |732M
+| colspan="2" |770M
+| colspan="2" |811M
+| colspan="2" |853M
+| colspan="2" |921M
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Blue.png|center|40px]]
+| colspan="2" |[[File:Vessel_White.png|center|40px]]
+|}
+
+==Aberrant==
+
+<div class="mw-customtoggle-Aberrant wikia-menu-button">Show/Hide table</div>
+
+
+{| class="article-table mw-collapsible mw-collapsed" id="mw-customcollapsible-Aberrant" border="1" align="center"
+! colspan="10" scope="col" style="text-align: center;" |Zone 40
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 1
+| colspan="2" |Trespasser 2
+| colspan="2" |Trespasser 3
+| colspan="2" |Trespasser 4
+| colspan="2" |Trespasser 5
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |11M km
+| colspan="2" |11M km
+| colspan="2" |11M km
+| colspan="2" |11M km
+| colspan="2" |59M km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |969M
+| colspan="2" |1.1B
+| colspan="2" |1.1B
+| colspan="2" |1.2B
+| colspan="2" |1.3B
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Blue.png|center|40px]]
+| colspan="2" |[[File:Vessel_White.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 41
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 6
+| colspan="2" |Trespasser 7
+| colspan="2" |Trespasser 8
+| colspan="2" |Trespasser 9
+| colspan="2" |Trespasser 10
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |12M km
+| colspan="2" |12M km
+| colspan="2" |12M km
+| colspan="2" |12M km
+| colspan="2" |64M km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |1.3B
+| colspan="2" |1.4B
+| colspan="2" |1.5B
+| colspan="2" |1.5B
+| colspan="2" |1.7B
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Blue.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 42
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 11
+| colspan="2" |Trespasser 12
+| colspan="2" |Trespasser 13
+| colspan="2" |Trespasser 14
+| colspan="2" |Trespasser 15
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |13M km
+| colspan="2" |13M km
+| colspan="2" |13M km
+| colspan="2" |13M km
+| colspan="2" |69M km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |1.7B
+| colspan="2" |1.8B
+| colspan="2" |1.9B
+| colspan="2" |2B
+| colspan="2" |2.2B
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Blue.png|center|40px]]
+| colspan="2" |[[File:Vessel_Blue.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 43
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 16
+| colspan="2" |Trespasser 17
+| colspan="2" |Trespasser 18
+| colspan="2" |Trespasser 19
+| colspan="2" |Trespasser 20
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |14M km
+| colspan="2" |14M km
+| colspan="2" |14M km
+| colspan="2" |14M km
+| colspan="2" |74M km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |2.3B
+| colspan="2" |2.4B
+| colspan="2" |2.5B
+| colspan="2" |2.6B
+| colspan="2" |2.8B
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Blue.png|center|40px]]
+| colspan="2" |[[File:Vessel_Blue.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 44
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 21
+| colspan="2" |Trespasser 22
+| colspan="2" |Trespasser 23
+| colspan="2" |Trespasser 24
+| colspan="2" |Trespasser 25
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |15Mm
+| colspan="2" |15Mm
+| colspan="2" |15Mm
+| colspan="2" |16Mm
+| colspan="2" |80Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |3B
+| colspan="2" |3.1B
+| colspan="2" |3.3B
+| colspan="2" |3.5B
+| colspan="2" |3.7B
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Blue.png|center|40px]]
+| colspan="2" |[[File:Vessel_White.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 45
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 26
+| colspan="2" |Trespasser 27
+| colspan="2" |Trespasser 28
+| colspan="2" |Trespasser 29
+| colspan="2" |Trespasser 30
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |16Mm
+| colspan="2" |17Mm
+| colspan="2" |17Mm
+| colspan="2" |17Mm
+| colspan="2" |86Mm
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |3.9B
+| colspan="2" |4.1B
+| colspan="2" |4.3B
+| colspan="2" |4.6B
+| colspan="2" |4.9B
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_White.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 46
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 31
+| colspan="2" |Trespasser 32
+| colspan="2" |Trespasser 33
+| colspan="2" |Trespasser 34
+| colspan="2" |Trespasser 35
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |18M km
+| colspan="2" |18M km
+| colspan="2" |18M km
+| colspan="2" |18M km
+| colspan="2" |92M km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |5.1B
+| colspan="2" |5.4B
+| colspan="2" |5.7B
+| colspan="2" |6B
+| colspan="2" |6.4B
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Orange.png|center|40px]]
+| colspan="2" |[[File:Vessel_Yellow.png|center|40px]]
+| colspan="2" |[[File:Vessel_Purple.png|center|40px]]
+| colspan="2" |[[File:Vessel_Blue.png|center|40px]]
+| colspan="2" |[[File:Vessel_White.png|center|40px]]
+|-
+! colspan="10" scope="col" style="text-align: center;" |Zone 47
+|-
+| rowspan="2" |[[File:Trekking_Icon.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+| colspan="2" |[[File:Trekking_Trespasser2.png|center|48px]]
+|- style="text-align: center;"
+| colspan="2" |Trespasser 36
+| colspan="2" |Trespasser 37
+| colspan="2" |Trespasser 38
+| colspan="2" |Trespasser 39
+| colspan="2" |Trespasser 40
+|- style="text-align: center;"
+! style="text-align: center;" |Distance
+| colspan="2" |19M km
+| colspan="2" |19M km
+| colspan="2" |19M km
+| colspan="2" |19M km
+| colspan="2" |98M km
+|- style="text-align: center;"
+! style="text-align: center;" |Health
+| colspan="2" |6.7B
+| colspan="2" |7.1B
+| colspan="2" |7.4B
+| colspan="2" |7.8B
+| colspan="2" |8.4B
+|- style="text-align: center;"
+! style="text-align: center;" |Damage
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+| colspan="2" |x
+|-
+! rowspan="1" style="text-align: center;" |Drops
+| colspan="2" |[[File:Vessel_Green.png|center|40px]]
+| colspan="2" |[[File:Vessel_Red.png|center|40px]]
+| colspan="2" |[[File:Vessel_Pink.png|center|40px]]
+| colspan="2" |[[File:Vessel_Blue.png|center|40px]]
+| colspan="2" |[[File:Skull.png|centre|thumb|40x40px]]
+|}
+[[Category:Pets]]

@@ -1,0 +1,1350 @@
+[
+ {
+  "_page": "Hatchery",
+  "_section": "Nest",
+  "_table": 0,
+  "col1": "Nest",
+  "col2": 1,
+  "col3": 2,
+  "col4": 3,
+  "col5": 4,
+  "col6": 5,
+  "col7": 6
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Nest",
+  "_table": 0,
+  "col1": "Hatchery Level",
+  "col2": 0,
+  "col3": 5,
+  "col4": 10,
+  "col5": 20,
+  "col6": 30,
+  "col7": 50
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 0,
+  "Name": "Poop",
+  "Genetic": "Health",
+  "Passive": "Stinkyness",
+  "Per Level": "1%",
+  "Obtained from": "Pets Tutorial",
+  "Pet Odds": "-",
+  "_images": [
+   "Pet_Poop.png",
+   "Genetic_Health.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 1,
+  "Name": "Slime",
+  "Genetic": "Health",
+  "Passive": "Pet Max HP",
+  "Per Level": "5%",
+  "Obtained from": "Pets Tutorial",
+  "Pet Odds": "35%",
+  "_images": [
+   "Pet_Slime.png",
+   "Genetic_Health.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 2,
+  "Name": "Bear",
+  "Genetic": "Fire Fist",
+  "Passive": "Fight Damage",
+  "Per Level": "10%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "26%",
+  "_images": [
+   "Pet_Bear.png",
+   "Genetic_FireFist.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 3,
+  "Name": "Frog",
+  "Genetic": "Swiftness",
+  "Passive": "Fish Caught",
+  "Per Level": "20%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "20%",
+  "_images": [
+   "Pet_Frog.png",
+   "Genetic_Swiftness.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 4,
+  "Name": "Duck",
+  "Genetic": "Perception",
+  "Passive": "Perk Points Gained",
+  "Per Level": "8%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "16%",
+  "_images": [
+   "Pet_Duck.png",
+   "Genetic_Perception.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 5,
+  "Name": "Bubbles",
+  "Genetic": "Health",
+  "Passive": "Ap Gained",
+  "Per Level": "10%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "10%",
+  "_images": [
+   "Pet_Bubbles.png",
+   "Genetic_Health.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 6,
+  "Name": "Genie",
+  "Genetic": "Loot",
+  "Passive": "Ores Mined",
+  "Per Level": "25%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "7%",
+  "_images": [
+   "Pet_Genie.png",
+   "Genetic_Loot.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 7,
+  "Name": "Sheep",
+  "Genetic": "Healing",
+  "Passive": "Cash",
+  "Per Level": "20%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "4%",
+  "_images": [
+   "Pet_Sheep.png",
+   "Genetic_Healing.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 8,
+  "Name": "Seagull",
+  "Genetic": "Perception",
+  "Passive": "Smith Exp Gained",
+  "Per Level": "10%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "2.5%",
+  "_images": [
+   "Pet_Seagull.png",
+   "Genetic_Perception.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 9,
+  "Name": "Panda",
+  "Genetic": "Fire Fist",
+  "Passive": "Str Exp Gained",
+  "Per Level": "20%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "1.5%",
+  "_images": [
+   "Pet_Panda.png",
+   "Genetic_FireFist.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 10,
+  "Name": "Deer",
+  "Genetic": "Swiftness",
+  "Passive": "H2O Exp Gained",
+  "Per Level": "25%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "1%",
+  "_images": [
+   "Pet_Deer.png",
+   "Genetic_Swiftness.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 11,
+  "Name": "Dart Frog",
+  "Genetic": "Curse Skull",
+  "Passive": "Monster Kills",
+  "Per Level": "10%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.7%",
+  "_images": [
+   "Pet_DartFrog.png",
+   "Genetic_CurseSkull.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 12,
+  "Name": "Dog",
+  "Genetic": "Incubation",
+  "Passive": "Pachi Balls",
+  "Per Level": "3%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.5%",
+  "_images": [
+   "Pet_Dog.png",
+   "Genetic_Incubation.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 13,
+  "Name": "Crow",
+  "Genetic": "Life Leech",
+  "Passive": "Fight Damage",
+  "Per Level": "25%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.3%",
+  "_images": [
+   "Pet_Crow.png",
+   "Genetic_LifeLeech.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 14,
+  "Name": "Penguin",
+  "Genetic": "Healing",
+  "Passive": "Tilling Crops",
+  "Per Level": "20%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.2%",
+  "_images": [
+   "Pet_Penguin.png",
+   "Genetic_Healing.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 15,
+  "Name": "Spirit",
+  "Genetic": "Loot",
+  "Passive": "Rebirth BP",
+  "Per Level": "15%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.12%",
+  "_images": [
+   "Pet_Spirit.png",
+   "Genetic_Loot.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 16,
+  "Name": "Pencil",
+  "Genetic": "Evasive",
+  "Passive": "Ores Mined",
+  "Per Level": "40%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.07%",
+  "_images": [
+   "Pet_Pencil.png",
+   "Genetic_Evasive.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 17,
+  "Name": "Eagle",
+  "Genetic": "Boomerang",
+  "Passive": "Fish Caught",
+  "Per Level": "50%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.04%",
+  "_images": [
+   "Pet_Eagle.png",
+   "Genetic_Boomerang.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 18,
+  "Name": "Spore",
+  "Genetic": "Healing",
+  "Passive": "Fight Accurancy",
+  "Per Level": "15%",
+  "Obtained from": "Discovery",
+  "Pet Odds": 0.025,
+  "_images": [
+   "Pet_Spore.png",
+   "Genetic_Healing.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 19,
+  "Name": "Zebra",
+  "Genetic": "Enthusiasm",
+  "Passive": "Brewing Speed",
+  "Per Level": "30%",
+  "Obtained from": "Discovery",
+  "Pet Odds": 0.012,
+  "_images": [
+   "Pet_Zebra.png",
+   "Genetic_Enthusiasm.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 20,
+  "Name": "Fireplop",
+  "Genetic": "Fire Fist",
+  "Passive": "Botany Speed",
+  "Per Level": "20%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.006%",
+  "_images": [
+   "Pet_Fireplop.png",
+   "Genetic_FireFist.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 21,
+  "Name": "Bitey",
+  "Genetic": "Life Leech",
+  "Passive": "Smith Exp Gained",
+  "Per Level": "20%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.003%",
+  "_images": [
+   "Pet_Bitey.png",
+   "Genetic_LifeLeech.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 22,
+  "Name": "Spoon",
+  "Genetic": "Discovery",
+  "Passive": "Asylum Traces",
+  "Per Level": "15%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.0017%",
+  "_images": [
+   "Pet_Spoon.png",
+   "Genetic_Discovery.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 23,
+  "Name": "Polar King",
+  "Genetic": "Enthusiasm",
+  "Passive": "+X Cauldron Speed Upgrade",
+  "Per Level": 4,
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.001%",
+  "_images": [
+   "Pet_PolarKing.png",
+   "Genetic_Enthusiasm.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 24,
+  "Name": "Bull Frog",
+  "Genetic": "Snipe",
+  "Passive": "Monster Kills",
+  "Per Level": "20%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.0007%",
+  "_images": [
+   "Pet_BullFrog.png",
+   "Genetic_Snipe.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 25,
+  "Name": "Djinn",
+  "Genetic": "Loot",
+  "Passive": "Cash",
+  "Per Level": "50%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.0004%",
+  "_images": [
+   "Pet_Djinn.png",
+   "Genetic_Loot.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 26,
+  "Name": "KingPing",
+  "Genetic": "Defender",
+  "Passive": "Fight Damage",
+  "Per Level": "50%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.00025%",
+  "_images": [
+   "Pet_KingPing.png",
+   "Genetic_Defender.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 27,
+  "Name": "Shroom",
+  "Genetic": "Radiation",
+  "Passive": "Ores Mined",
+  "Per Level": "60%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.00013%",
+  "_images": [
+   "Pet_Shroom.png",
+   "Genetic_Radiation.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 28,
+  "Name": "Ice Cream",
+  "Genetic": "Curse Skull",
+  "Passive": "Brew Speed",
+  "Per Level": "50%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.00008%",
+  "_images": [
+   "Pet_IceCream.png",
+   "Genetic_CurseSkull.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 29,
+  "Name": "Crystal Bird",
+  "Genetic": "Bubbler",
+  "Passive": "+X Cauldron Speed Upgrade",
+  "Per Level": 5,
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.00005%",
+  "_images": [
+   "Pet_CrystalBird.png",
+   "Genetic_Bubbler.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 30,
+  "Name": "Parrot",
+  "Genetic": "Incubation",
+  "Passive": "+X Starting Skill Levels",
+  "Per Level": 2,
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.00003%",
+  "_images": [
+   "Pet_Parrot.png",
+   "Genetic_Incubation.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 31,
+  "Name": "Hyena",
+  "Genetic": "Trekkery",
+  "Passive": "Tilling Crops",
+  "Per Level": "60%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.000017%",
+  "_images": [
+   "Pet_Hyena.png",
+   "Genetic_Trekkey.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 32,
+  "Name": "Corn Dog",
+  "Genetic": "Genesis",
+  "Passive": "Botany Speed",
+  "Per Level": "50%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "0.00001%",
+  "_images": [
+   "Pet_CornDog.png",
+   "Genetic_Genesis.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 33,
+  "Name": "Camel",
+  "Genetic": "Bubbler",
+  "Passive": "Fight Accurancy",
+  "Per Level": "25%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "7.0e-6%",
+  "_images": [
+   "Pet_Camel.png",
+   "Genetic_Bubbler.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 34,
+  "Name": "Vampire",
+  "Genetic": "Life Leech",
+  "Passive": "Str Exp Gained",
+  "Per Level": "100%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "4.0e-6%",
+  "_images": [
+   "Pet_Vampire.png",
+   "Genetic_LifeLeech.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 35,
+  "Name": "Spagetti",
+  "Genetic": "Snapzi",
+  "Passive": "Perk Points Gained",
+  "Per Level": "15%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "2.5e-6%",
+  "_images": [
+   "Pet_Spagetti.png",
+   "Genetic_Snapzi.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 36,
+  "Name": "Fungo",
+  "Genetic": "Snipe",
+  "Passive": "Asylum Traces",
+  "Per Level": "30%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "1.6e-6%",
+  "_images": [
+   "Pet_Fungo.png",
+   "Genetic_Snipe.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 37,
+  "Name": "Chaos Beast",
+  "Genetic": "Curse Skull",
+  "Passive": "H2O Exp Gained",
+  "Per Level": "150%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "1.0e-6%",
+  "_images": [
+   "Pet_ChaosBeast.png",
+   "Genetic_CurseSkull.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 38,
+  "Name": "Puppet Ball",
+  "Genetic": "Swiftness",
+  "Passive": "Tilling Crops",
+  "Per Level": "100%",
+  "Obtained from": "Discovery",
+  "Pet Odds": "4.0e-7%",
+  "_images": [
+   "Pet_PuppetBall.png",
+   "Genetic_Swiftness.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 39,
+  "Name": "Mini Lava",
+  "Genetic": "Genesis",
+  "Passive": "Chain Level Chance",
+  "Per Level": "0.3%",
+  "Obtained from": "Discovery & Ice Cream 1",
+  "Pet Odds": "2.5e-7%",
+  "_images": [
+   "Pet_MiniLava.png",
+   "Genetic_Genesis.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 40,
+  "Name": "Platypus",
+  "Genetic": "SoulBound",
+  "Passive": "Pet Max HP",
+  "Per Level": "10%",
+  "Obtained from": "Discovery & Ice Cream 2",
+  "Pet Odds": "1.7e-7%",
+  "_images": [
+   "Pet_Platypus.png",
+   "Genetic_SoulBound.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 41,
+  "Name": "Whisp",
+  "Genetic": "Swiftness",
+  "Passive": "+X Starting Levels",
+  "Per Level": 6,
+  "Obtained from": "Discovery & Ice Cream 3",
+  "Pet Odds": "5.0e-8%",
+  "_images": [
+   "Pet_Whisp.png",
+   "Genetic_Swiftness.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 42,
+  "Name": "Hyduck",
+  "Genetic": "Snapzi",
+  "Passive": "Rebirth BP",
+  "Per Level": "60%",
+  "Obtained from": "Discovery & Ice Cream 4",
+  "Pet Odds": "1.0e-8%",
+  "_images": [
+   "Pet_Hyduck.png",
+   "Genetic_Snapzi.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 43,
+  "Name": "Plantz",
+  "Genetic": "Snipe",
+  "Passive": "+X Cauldron Speed Upgrade",
+  "Per Level": 15,
+  "Obtained from": "Discovery & Ice Cream 5",
+  "Pet Odds": "1.0e-9%",
+  "_images": [
+   "Pet_Plantz.png",
+   "Genetic_Snipe.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 44,
+  "Name": "Highness",
+  "Genetic": "Enthusiasm",
+  "Passive": "Capsule Exp Rate",
+  "Per Level": "20%",
+  "Obtained from": "Discovery & Ice Cream 6",
+  "Pet Odds": "1.0e-10%",
+  "_images": [
+   "Pet_Highness.png",
+   "Genetic_Enthusiasm.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 45,
+  "Name": "Almighty",
+  "Genetic": "Loot",
+  "Passive": "Pet Travel Speed",
+  "Per Level": "25%",
+  "Obtained from": "Discovery & Ice Cream 7",
+  "Pet Odds": "-",
+  "_images": [
+   "Pet_Almighty.png",
+   "Genetic_Loot.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 46,
+  "Name": "King",
+  "Genetic": "Genesis",
+  "Passive": "Pet Damage",
+  "Per Level": "10%",
+  "Obtained from": "Raid drop - Defiled King",
+  "Pet Odds": "1/150",
+  "_images": [
+   "Pet_King.png",
+   "Genetic_Genesis.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 47,
+  "Name": "Entertainer",
+  "Genetic": "Trekkery",
+  "Passive": "Capsule Exp Rate",
+  "Per Level": "11%",
+  "Obtained from": "Raid drop - Headless Entertainer",
+  "Pet Odds": "1/175",
+  "_images": [
+   "Pet_Entertainer.png",
+   "Genetic_Trekkey.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 48,
+  "Name": "Sentinel B",
+  "Genetic": "Ionize",
+  "Passive": "Lower Smith Cap",
+  "Per Level": "10%",
+  "Obtained from": "Raid drop - Two Faced Sentinel",
+  "Pet Odds": "1/200",
+  "_images": [
+   "Pet_SentinelB.png",
+   "Genetic_Ionize.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 49,
+  "Name": "Sentinel R",
+  "Genetic": "Rattling Gun",
+  "Passive": "Brew Speed",
+  "Per Level": "75%",
+  "Obtained from": "Raid/Aslyum drop - Any",
+  "Pet Odds": "Show/Hide chances ---- Boss: Chance ---- King: 1/700 ---- Entertainer: 1/800 ---- Sentinel: 1/900 ---- Demon: 1/1000 ---- Emigdala: 1/444 ---- Occulon: 1/489 ---- Scallax: 1/662 ---- Gorshank: 1/667 ----",
+  "_images": [
+   "Pet_SentinelR.png",
+   "Genetic_RattlinGun.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 50,
+  "Name": "Sentinel Y",
+  "Genetic": "Incubation",
+  "Passive": "+X Cauldron Speed Upgrade",
+  "Per Level": 11,
+  "Obtained from": "Raid/Aslyum drop - Any",
+  "Pet Odds": "Show/Hide chances ---- Boss: Chance ---- King: 1/2000 ---- Entertainer: 1/2200 ---- Sentinel: 1/2300 ---- Demon: 1/2500 ---- Emigdala: 1/1556 ---- Occulon: 1/1778 ---- Scallax: 1/2000 ---- Gorshank: 1/2222 ----",
+  "_images": [
+   "Pet_SentinelY.png",
+   "Genetic_Incubation.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 51,
+  "Name": "Demon",
+  "Genetic": "Respawn",
+  "Passive": "Pet Max HP",
+  "Per Level": "18%",
+  "Obtained from": "Raid drop - Demonic Anathema",
+  "Pet Odds": "1/220",
+  "_images": [
+   "Pet_Demon.png",
+   "Genetic_Respawn.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 52,
+  "Name": "Emigdala",
+  "Genetic": "Rattling Gun",
+  "Passive": "Capsule Exp Rate",
+  "Per Level": "15%",
+  "Obtained from": "Asylum drop - Emigdala",
+  "Pet Odds": "1/108",
+  "_images": [
+   "Pet_Emigdala.png",
+   "Genetic_RattlinGun.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 53,
+  "Name": "Occulon",
+  "Genetic": "Zeus Bolt",
+  "Passive": "Pachi Balls",
+  "Per Level": "12%",
+  "Obtained from": "Asylum drop - Occulon",
+  "Pet Odds": "1/146",
+  "_images": [
+   "Pet_Occulon.png",
+   "Genetic_ZeusBolt.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 54,
+  "Name": "Scallax",
+  "Genetic": "Ionize",
+  "Passive": "Pet Damage",
+  "Per Level": "25%",
+  "Obtained from": "Asylum drop - Scallius",
+  "Pet Odds": "1/182",
+  "_images": [
+   "Pet_Scallax.png",
+   "Genetic_Ionize.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 55,
+  "Name": "Gorshank",
+  "Genetic": "Abominable",
+  "Passive": "Pet Travel Speed",
+  "Per Level": "30%",
+  "Obtained from": "Asylum drop - Gorshank",
+  "Pet Odds": "1/211",
+  "_images": [
+   "Pet_Gorshank.png",
+   "Genetic_Abdominable.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 56,
+  "Name": "Golden Boy",
+  "Genetic": "Loot",
+  "Passive": "Cash",
+  "Per Level": "80%",
+  "Obtained from": "Tunnels - Secret",
+  "Pet Odds": "-",
+  "_images": [
+   "Golden boy.png",
+   "Genetic_Loot.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 57,
+  "Name": "Basketball",
+  "Genetic": "Snapzi",
+  "Passive": "Hoop Gem Cap",
+  "Per Level": 8,
+  "Obtained from": "Hoops Minigame - 66 points, 3 trials combined",
+  "Pet Odds": "-",
+  "_images": [
+   "Pet_BasketBall.png",
+   "Genetic_Snapzi.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 58,
+  "Name": "Bob",
+  "Genetic": "Loot",
+  "Passive": "Crypt Loot",
+  "Per Level": "10%",
+  "Obtained from": "Purple research tank 'Our Best Friend' first perk - Lvl 535, Bob perfume level 1",
+  "Pet Odds": "-",
+  "_images": [
+   "Pet_Bob.png",
+   "Genetic_Loot.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Pet list",
+  "_table": 1,
+  "ID": 59,
+  "Name": "Poopy G",
+  "Genetic": "Boomerang",
+  "Passive": "Pachi Balls",
+  "Per Level": "1%",
+  "Obtained from": "Hatchery Level - 150",
+  "Pet Odds": "-",
+  "_images": [
+   "Pet_PoopyG.png",
+   "Genetic_Loot.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Fire Fist",
+  "Genetics / Type": "Attack Move",
+  "Genetics / Passive": "Deals 150% Damage Fire Rate: Medium(6)",
+  "Genetics / Combo of 3": "Fire Fist Deal 250% Damage Instead Of 150% Damage",
+  "Genetics / Combo of 6": "Fire Fist Deal 350% Damage Instead Of 150% Damage",
+  "Genetics / Combo of 9": "Fire Fist Deal 550% Damage Instead Of 150% Damage",
+  "_images": [
+   "Genetic_FireFist.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Curse Skull",
+  "Genetics / Type": "Attack Move",
+  "Genetics / Passive": "Adds Stacking +10% Damage Boost to All Damage Fire Rate : Fast(7)",
+  "Genetics / Combo of 3": "All Attacks Have a 15% Chance of Applying a 10% Curse",
+  "Genetics / Combo of 6": "All Attacks Have a 30% Chance of Applying a 10% Curse",
+  "Genetics / Combo of 9": "All Attacks Have a 45% Chance of Applying a 10% Curse",
+  "_images": [
+   "Genetic_CurseSkull.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Healing",
+  "Genetics / Type": "Attack Move",
+  "Genetics / Passive": "Heals 5% of Total HP Fire Rate: Slow(3)",
+  "Genetics / Combo of 3": "Heals For 7% HP Instead of 5% But Only When HP is Below 50%",
+  "Genetics / Combo of 6": "Heals for 9% HP instead of 5% But Only When HP is Below 50%",
+  "Genetics / Combo of 9": "Heals for 11% HP instead of 5% But Only When HP is Below 50%",
+  "_images": [
+   "Genetic_Healing.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Boomerang",
+  "Genetics / Type": "Attack Move",
+  "Genetics / Passive": "Deals 150% Damage With 33% Chance to Bounce Fire Rate: Medium(5)",
+  "Genetics / Combo of 3": "Boomerang Have 40% Bounce Chance and Bounces Multiply Damage By 1.33x",
+  "Genetics / Combo of 6": "Boomerang Have 47% Bounce Chance and Bounces Multiply Damage By 1.66x",
+  "Genetics / Combo of 9": "Boomerang Have 54% Bounce Chance and Bounces Multiply Damage By 2x",
+  "_images": [
+   "Genetic_Boomerang.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Life Leech",
+  "Genetics / Type": "Attack Move",
+  "Genetics / Passive": "200% Damage and Heals Team Based On % Damage Done Fire Rate: Medium(4)",
+  "Genetics / Combo of 3": "Lifesteal Deals +3% More Damage for Every 1% of Pet HP Missing",
+  "Genetics / Combo of 6": "Lifesteal Deals +6% More Damage for Every 1% of Pet HP Missing",
+  "Genetics / Combo of 9": "Lifesteal Deals +9% More Damage for Every 1% of Pet HP Missing",
+  "_images": [
+   "Genetic_LifeLeech.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Bubbler",
+  "Genetics / Type": "Attack Move",
+  "Genetics / Passive": "Deals 200% Damage For Every Second it travels Fire Rate: Slow(3)",
+  "Genetics / Combo of 3": "Buuble Moves 20% Slower and Gains +50% More Damage Per Second",
+  "Genetics / Combo of 6": "Buuble Moves 40% Slower and Gains +100% More Damage Per Second",
+  "Genetics / Combo of 9": "Buuble Moves 60% Slower and Gains +200% More Damage Per Second",
+  "_images": [
+   "Genetic_Bubbler.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Snipe",
+  "Genetics / Type": "Attack Move",
+  "Genetics / Passive": "1200% Damage With a 50% miss Chance Fire Rate: Slower(2)",
+  "Genetics / Combo of 3": "2000% Damage With a 40% Miss Chance Fire Rate: Slower(2)",
+  "Genetics / Combo of 6": "2800% Damage With a 30% Miss chance Fire Rate: Slower(2)",
+  "Genetics / Combo of 9": "4400% Damage With a 20% Miss chance Fire Rate: Slower(2)",
+  "_images": [
+   "Genetic_Snipe.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Radiation",
+  "Genetics / Type": "Attack Move",
+  "Genetics / Passive": "Gives 2x Damage to The Next Attack That Hits Fire Rate: Medium(5)",
+  "Genetics / Combo of 3": "Radiation Bonus Has a 25% Chance to Not Got Away",
+  "Genetics / Combo of 6": "Radiation Bonus Has a 50% Chance to Not Got Away",
+  "Genetics / Combo of 9": "Radiation Bonus Has a 75% Chance to Not Got Away",
+  "_images": [
+   "Genetic_Radiation.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Rattlin Gun",
+  "Genetics / Type": "Attack Move",
+  "Genetics / Passive": "25% Damage +2% For Each Consecutive Bone Attack Fire Rate: Faster(10)",
+  "Genetics / Combo of 3": "Each Bone Attack Gives +3% Damage to All Bone Attacks",
+  "Genetics / Combo of 6": "Each Bone Attack Gives +4% Damage to All Bone Attacks",
+  "Genetics / Combo of 9": "Each Bone Attack Gives +5% Damage to All Bone Attacks",
+  "_images": [
+   "Genetic_RattlinGun.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Zeus Bolt",
+  "Genetics / Type": "Attack Move",
+  "Genetics / Passive": "250% Damage With 2x Crit Chance and 3x Crit Damage Fire Rate: Fast(8)",
+  "Genetics / Combo of 3": "Bolts Do 300% Damage With 4x Crit Damage",
+  "Genetics / Combo of 6": "Bolts Do 350% Damage With 5x Crit Damage",
+  "Genetics / Combo of 9": "Bolts Do 450% Damage With 7x Crit Damage",
+  "_images": [
+   "Genetic_ZeusBolt.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Health",
+  "Genetics / Type": "Team Buff",
+  "Genetics / Passive": "+25% Max HP",
+  "Genetics / Combo of 3": "+75% Max Pet Healthand All Healing is +10% Better",
+  "Genetics / Combo of 6": "+150% Max Pet Healthand All Healing is +20% Better",
+  "Genetics / Combo of 9": "300% Max Pet Healthand All Healing is +30% Better",
+  "_images": [
+   "Genetic_Health.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Perception",
+  "Genetics / Type": "Team Buff",
+  "Genetics / Passive": "+5% Critical Chance",
+  "Genetics / Combo of 3": "+10% Critical Chance and +15%Critical Damage",
+  "Genetics / Combo of 6": "+20% Critical Chance and +30%Critical Damage",
+  "Genetics / Combo of 9": "+30% Critical Chance and +60%Critical Damage",
+  "_images": [
+   "Genetic_Perception.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Swiftness",
+  "Genetics / Type": "Team Buff",
+  "Genetics / Passive": "+15% Distance Travelled When A Monster Killed",
+  "Genetics / Combo of 3": "Travel 2x as Far For Each Monster Kill",
+  "Genetics / Combo of 6": "Travel 3x as Far For Each Monster Kill",
+  "Genetics / Combo of 9": "Travel 5x as Far For Each Monster Kill",
+  "_images": [
+   "Genetic_Swiftness.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Incubation",
+  "Genetics / Type": "Personal Buff",
+  "Genetics / Passive": "+40% Hatching Speed For The Nest This Pet Is In",
+  "Genetics / Combo of 3": "Base Distance Travel is 2m",
+  "Genetics / Combo of 6": "Base Distance Travel is 4m",
+  "Genetics / Combo of 9": "Base Distance Travel is 5m",
+  "_images": [
+   "Genetic_Incubation.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Loot",
+  "Genetics / Type": "Team Buff",
+  "Genetics / Passive": "+25% Vessel Gained",
+  "Genetics / Combo of 3": "Loot Genetics Give a +50% Bonus Instead of a +25% Bonus",
+  "Genetics / Combo of 6": "Loot Genetics Give a +75% Bonus Instead of a +25% Bonus",
+  "Genetics / Combo of 9": "Loot Genetics Give a +125% Bonus Instead of a +25% Bonus",
+  "_images": [
+   "Genetic_Loot.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Evasive",
+  "Genetics / Type": "Team Buff",
+  "Genetics / Passive": "+5% Chance to Completely Avoid Incoming Damage",
+  "Genetics / Combo of 3": "Each Evasion Of Damage Gives A +10% Damage Bonus To All Attacks",
+  "Genetics / Combo of 6": "Each Evasion of Damage Gives a 20% Damage Bonus to All Attacks",
+  "Genetics / Combo of 9": "Each Evasion of Damage Gives a 30% Damage Bonus to All Attacks",
+  "_images": [
+   "Genetic_Evasive.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Enthusiasm",
+  "Genetics / Type": "Team Buff",
+  "Genetics / Passive": "+5% Attack Speed +10% All Damage",
+  "Genetics / Combo of 3": "+10% Attack Speed +15% All Damage",
+  "Genetics / Combo of 6": "+20% Attack Speed +30% All Damage",
+  "Genetics / Combo of 9": "+30% Attack Speed +45% All Damage",
+  "_images": [
+   "Genetic_Enthusiasm.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Discovery",
+  "Genetics / Type": "Personal Buff",
+  "Genetics / Passive": "1.25x New Pet Odds for The Nest This Pet is in",
+  "Genetics / Combo of 3": "1.5x Vessels Gain",
+  "Genetics / Combo of 6": "2x Vessels Gain",
+  "Genetics / Combo of 9": "2.5x Vessels Gain",
+  "_images": [
+   "Genetic_Discovery.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Defender",
+  "Genetics / Type": "Team Buff",
+  "Genetics / Passive": "+5% of All Incoming Damage Ignored",
+  "Genetics / Combo of 3": "Monsters Deal 25% Less Damage Than Normal",
+  "Genetics / Combo of 6": "Monsters Deal 50% Less Damage Than Normal",
+  "Genetics / Combo of 9": "Monsters Deal 75% Less Damage Than Normal",
+  "_images": [
+   "Genetic_Defender.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Trekkery",
+  "Genetics / Type": "Team Buff",
+  "Genetics / Passive": "+20% Trekking Exp Gained",
+  "Genetics / Combo of 3": "+1% Pet Travel Speed and +1% Exp Gain Per Trekking Level",
+  "Genetics / Combo of 6": "+2% Pet Travel Speed and +2% Exp Gain Per Trekking Level",
+  "Genetics / Combo of 9": "+3% Pet Travel Speed and +3% Exp Gain Per Trekking Level",
+  "_images": [
+   "Genetic_Trekkey.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Snapzi",
+  "Genetics / Type": "Team Buff",
+  "Genetics / Passive": "+25% Critical Damage",
+  "Genetics / Combo of 3": "Snapzi Genetics Give +50% Crit Damage instead of +25%",
+  "Genetics / Combo of 6": "Snapzi Genetics Give +75% Crit Damage instead of +25%",
+  "Genetics / Combo of 9": "Snapzi Genetics Give +125% Crit Damage instead of +25%",
+  "_images": [
+   "Genetic_Snapzi.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Genesis",
+  "Genetics / Type": "Team Buff",
+  "Genetics / Passive": "+5% Chance to Cast 2 Attack Instead of 1",
+  "Genetics / Combo of 3": "2nd Attack Has 1.5x Damage",
+  "Genetics / Combo of 6": "2nd Attack Has 2x Damage",
+  "Genetics / Combo of 9": "2nd Attack Has 2.5x Damage",
+  "_images": [
+   "Genetic_Genesis.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "SoulBound* (Not wrong but more info bellow)",
+  "Genetics / Type": "Team Buff",
+  "Genetics / Passive": "This Genetic Has No Bonus Other Than Its Combos",
+  "Genetics / Combo of 3": "Double Middle Genetic for Fighters",
+  "Genetics / Combo of 6": "Double Left Genetic for Fighters",
+  "Genetics / Combo of 9": "Double Right Genetic for Fighters",
+  "_images": [
+   "Genetic_SoulBound.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Ionize** (Codex is wrong see bellow)",
+  "Genetics / Type": "All Capsules",
+  "Genetics / Passive": "Extra Pet Exp Gain When Stored in a Capsule: Middle:+50% Left: +30% Right: +20%",
+  "Genetics / Combo of 3": "2x Capsule Exp 2x Tank Exp",
+  "Genetics / Combo of 6": "3x Capsule Exp 3x Tank Exp",
+  "Genetics / Combo of 9": "4x Capsule Exp 4x Tank Exp",
+  "_images": [
+   "Genetic_Ionize.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Respawn",
+  "Genetics / Type": "Team Buff",
+  "Genetics / Passive": "Monster Respawn +25% Faster",
+  "Genetics / Combo of 3": "2x Away Gains For Trekking",
+  "Genetics / Combo of 6": "3x Away Gains For Trekking",
+  "Genetics / Combo of 9": "4x Away Gains For Trekking",
+  "_images": [
+   "Genetic_Respawn.png"
+  ]
+ },
+ {
+  "_page": "Hatchery",
+  "_section": "Genes list",
+  "_table": 2,
+  "Genetics / Genetic Name": "Abominable",
+  "Genetics / Type": "Team Buff",
+  "Genetics / Passive": "+50% Damage +4% Crit Chance +20% HP +25% Travel Speed",
+  "Genetics / Combo of 3": "Doubles All Pet Damage",
+  "Genetics / Combo of 6": "Triples All Pet Damage",
+  "Genetics / Combo of 9": "Quadrouples All Pet DamageSoul",
+  "_images": [
+   "Genetic_Abdominable.png"
+  ]
+ }
+]

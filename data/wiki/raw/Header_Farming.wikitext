@@ -1,0 +1,11 @@
+{| style="width: 60%;margin:auto;"  cellspacing="0" cellpadding="0" border="0"
+| style="width: 15%;"|[[File:Tilling_icon.png|center|link=Tilling]]
+| style="width: 15%;"|[[File:Brewing_icon.png|center|link=Apothecary]]
+| style="width: 15%;"|[[File:Farming_icon.png|center|link=Botany]]
+|-
+| style="text-align: center;"|[[Tilling]]
+| style="text-align: center;"|[[Apothecary]]
+| style="text-align: center;"|[[Botany]]
+|}
+
+<hr class="page-header__separator" style="margin-top:18px;" />

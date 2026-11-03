@@ -1,0 +1,173 @@
+<table-progress-tracking table-id="LunarIsle1" unique-column-index="2">
+{| class="listing sortable" style="width: 100%;" border="0" align="center"
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |Zone
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+|-
+|[[File:C_flexo.png|36px]]
+|LunarIsle-1
+|Flexo
+|Red Crystal Bonus
+|3%
+|15%
+|-
+|[[File:2_-_Moon_Pie.png|36px]]
+|LunarIsle-2
+|Moon Pie
+|Max Shields
+|25%
+|500%
+|-
+|[[File:3_-_Thimbulo.png|36px]]
+|LunarIsle-3
+|Thimbulo
+|Card Drop Chance
+|6%
+|120%
+|-
+|[[File:4_-_Crateros.png|36px]]
+|LunarIsle-4
+|Crateros
+|Crusade Reward
+|8%
+|160%
+|-
+|[[File:5_-_Parchmint.png|36px]]
+|LunarIsle-5
+|Parchmint
+|Purple Crystal Bonus
+|3%
+|15%
+|-
+|[[File:6_-_Loaded.png|36px]]
+|LunarIsle-6
+|Loaded
+|Mining EXP
+|8%
+|160%
+|-
+|[[File:7_-_MTV.png|36px]]
+|LunarIsle-7
+|MTV
+|Fish Gains
+|30%
+|600%
+|-
+|[[File:8_-_Funni_Boi.png|36px]]
+|LunarIsle-8
+|Funni Boi
+|BP on Rebirth
+|10
+|50
+|-
+|[[File:9_-_Lunadryl.png|36px]]
+|LunarIsle-9
+|Lunardyl
+|Botany Speed Upgrades
+|6
+|30
+|-
+|[[File:10_-_Krombopuli.png|36px]]
+|LunarIsle-10
+|Krombopuli
+|Rift EXP
+|25%
+|500%
+|-
+|[[File:11_-_Maiden_Bob.png|36px]]
+|LunarIsle-11
+|Maiden Bob
+|Yellow Crystal Bonus
+|3%
+|15%
+|-
+|[[File:12_-_Lunar_Jim.png|36px]]
+|LunarIsle-12
+|Lunar Jim
+|Shield Charge Rate
+|4%
+|80%
+|-
+|[[File:13_-_Nosip.png|36px]]
+|LunarIsle-13
+|Nosip
+|Crusade EXP
+|15%
+|300%
+|-
+|[[File:14_-_Sprigglio.png|36px]]
+|LunarIsle-14
+|Sprigglio
+|Acolyte Efficiency
+|10%
+|200%
+|-
+|[[File:15_-_The_Maw.png|36px]]
+|LunarIsle-15
+|The Maw
+|Botany Growth Speed
+|6%
+|30%
+|-
+|[[File:16_-_Nevrblink.png|36px]]
+|LunarIsle-16
+|Nevrblink
+|Ores from Mining
+|26%
+|520%
+|-
+|[[File:17_-_Wee_Wee.png|36px]]
+|LunarIsle-17
+|Wee Wee
+|Idle Crusaders
+|3
+|15
+|-
+|[[File:18_-_Chill_Bros-0.png|36px]]
+|LunarIsle-18
+|Chill Bros
+|Pink Crystal Bonus
+|2%
+|10%
+|-
+|[[File:19_-_Lenscythe.png|36px]]
+|LunarIsle-19
+|Lenscythe
+|Crit Chance
+|3%
+|60%
+|-
+|[[File:20_-_Terminus.png|36px]]
+|LunarIsle-20
+|Terminus
+|Black Crystal Bonus
+|2%
+|10%
+|-
+|[[File:21_-_Disciple_MS-0.png|36px]]
+|LunarIsle-21
+|Disciple MS
+|Base Damage
+|13%
+|260%
+|-
+|[[File:22_-_Keymaster_MS.png|36px]]
+|LunarIsle-22
+|Keymaster MS
+|Overgrowth Speed
+|8%
+|40%
+|-
+|[[File:23_-_Glitch.png|36px]]
+|LunarIsle-23+
+|Glitch
+|Potion Cost Redux
+|5%
+|25%
+|}
+</table-progress-tracking>
+[[Category:Cards]]

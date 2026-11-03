@@ -1,0 +1,2996 @@
+<table-progress-tracking table-id="1" unique-column-index="2">
+{| class="listing sortable" style="width: 100%;" border="0" align="center"
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |Zone
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+|-
+|[[File:C_shrubbery.png|36px]]
+|Grasslands-5
+|Shrubbery
+|Accuracy
+|3%
+|60%
+|-
+|[[File:C_dung_ball.png|36px]]
+|Desert-4
+|Dung Ball
+|Accuracy
+|4%
+|80%
+|-
+|[[File:C_baby_goat.png|36px]]
+|Mountains-5
+|Baby Goat
+|Accuracy
+|5%
+|100%
+|-
+|[[File:C_mystism.png|36px]]
+|TheMist-17
+|Mystism
+|Accuracy
+|7%
+|140%
+|-
+|[[File:C_smile.png|36px]]
+|Crus.Grasslands-8
+|Smile
+|Accuracy
+|7%
+|140%
+|-
+|[[File:C_flatclot.png|36px]]
+|Purgatory-1
+|Flatclot
+|Accuracy
+|15%
+|300%
+|-
+|[[File:C_nesto.png|36px]]
+|TheBog-16
+|Nesto
+|Accuracy
+|20%
+|400%
+|-
+|[[File:Card_Maelstrom-02.png|36px]]
+|Maelstrom-2
+|Peepo
+|Accuracy
+|30%
+|600%
+|-
+|[[File:C_cacto.png|36px]]
+|Desert-2
+|Cacto
+|Crit Chance
+|0.5%
+|10%
+|-
+|[[File:C_gordy.png|36px]]
+|TheMist-8
+|Gordy
+|Crit Chance
+|0.5%
+|10%
+|-
+|[[File:C_disciple_r.png|36px]]
+|Mountains-24
+|Disciple R
+|Crit Chance
+|1%
+|20%
+|-
+|[[File:C_disciple_p.png|36px]]
+|Dungeon-15
+|Disciple P
+|Crit Chance
+|1%
+|20%
+|-
+|[[File:C_swamp_angel.png|36px]]
+|TheBog-11
+|Swamp Angel
+|Crit Chance
+|2%
+|40%
+|-
+|[[File:19_-_Lenscythe.png|36px]]
+|LunarIsle-19
+|Lenscythe
+|Crit Chance
+|3%
+|60%
+|-
+|[[File:C_plain.png|36px]]
+|Grasslands-13
+|Plain
+|Idle Attack Speed
+|5%
+|100%
+|-
+|[[File:C_tornado.png|36px]]
+|Desert-8
+|Tornado
+|Idle Attack Speed
+|5%
+|100%
+|-
+|[[File:C_mist_mytes.png|36px]]
+|TheMist-4
+|Mist Mytes
+|Idle Attack Speed
+|10%
+|200%
+|-
+|[[File:C_munnies.png|36px]]
+|Dungeon-13
+|Munnies
+|Idle Attack Speed
+|15%
+|300%
+|-
+|[[File:Qqoxzle.png|36px]]
+|Grasslands-100
+|Qoxzul
+|Base Damage
+|1
+|20
+|-
+|[[File:C_scorpy_wurm.png|36px]]
+|Crus.Desert-12
+|Scorpy Wurm
+|Base Damage
+|1500
+|30000
+|-
+|[[File:C_basiling.png|36px]]
+|Crus.Mountains-19
+|Basiling
+|Base Damage
+|4000
+|80000
+|-
+|[[File:Card_Occulon-Y.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Occulon-Y.png]]
+|Occulon-7
+|Occulon Y
+|Base Damage (passive)
+|25%
+|500%
+|-
+|[[File:C_keymaster_b.png|36px]]
+|Desert-29
+|Keymaster B
+|Base Damage
+|5%
+|100%
+|-
+|[[File:C_elder_goat.png|36px]]
+|Mountains-19
+|Elder Goat
+|Base Damage
+|6%
+|120%
+|-
+|[[File:C_squode.png|36px]]
+|TheMist-14
+|Squode
+|Base Damage
+|8%
+|160%
+|-
+|[[File:C_skaul.png|36px]]
+|Dungeon-10
+|Skaul
+|Base Damage
+|10%
+|200%
+|-
+|[[File:21_-_Disciple_MS-0.png|36px]]
+|LunarIsle-21
+|Disciple MS
+|Base Damage
+|13%
+|260%
+|-
+|[[File:C_entertainer_y.png|36px]]
+|Raid.Entertainer-3
+|Entertainer Y
+|Base Damage
+|20%
+|400%
+|-
+|[[File:C_demon_x.png|36px]]
+|Raid.Demon-1
+|Demon X
+|Base Damage
+|30%
+|600%
+|-
+|[[File:C_a_monster.png|36px]]
+|Desert-24
+|A Monster
+|Crit Damage
+|8%
+|160%
+|-
+|[[File:C_ice_jelly.png|36px]]
+|Mountains-11
+|Ice Jelly
+|Crit Damage
+|9%
+|180%
+|-
+|[[File:C_hyper_jelly.png|36px]]
+|TheMist-15
+|Hyper Jelly
+|Crit Damage
+|10%
+|200%
+|-
+|[[File:C_rich_snake.png|36px]]
+|Dungeon-11
+|Rich Snake
+|Crit Damage
+|15%
+|300%
+|-
+|[[File:C_entertainer_x.png|36px]]
+|Raid.Entertainer-1
+|Entertainer X
+|Crit Damage
+|20%
+|400%
+|-
+|[[File:C_bob_too.png|36px]]
+|Crus.TheMist-9
+|Bob Too
+|Crit Damage
+|35%
+|700%
+|-
+|[[File:Card_Occulon-Z.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Occulon-Z.png]]
+|Occulon-15
+|Occulon Z
+|Crit Damage
+|80%
+|1600%
+|-
+|[[File:C_mimic.png|36px]]
+|Desert-20
+|Mimic
+|Damage from Trinkets
+|5%
+|100%
+|-
+|[[File:C_unacceptable.png|36px]]
+|Desert-26
+|Unacceptable
+|Damage from Trinkets
+|5%
+|100%
+|-
+|[[File:C_teassius.png|36px]]
+|Crus.Desert-2
+|Teassius
+|Damage from Trinkets
+|8%
+|160%
+|-
+|[[File:C_a_sea_monster.png|36px]]
+|TheMist-12
+|A Sea Monster
+|Damage from Trinkets
+|8%
+|160%
+|-
+|[[File:C_hemoglobble.png|36px]]
+|Purgatory-16
+|Hemoglobble
+|Damage from Trinkets
+|9%
+|180%
+|-
+|[[File:C_pot_o_gold.png|36px]]
+|Dungeon-2
+|Pot O Gold
+|Damage from Trinkets
+|10%
+|200%
+|-
+|[[File:C_king_x.png|36px]]
+|Raid.King-1
+|King X
+|Damage from Trinkets
+|15%
+|300%
+|-
+|[[File:Card_Gorshank-X.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Gorshank-X.png]]
+|Gorshank-3
+|Gorshank X
+|Damage from trinkets
+|60%
+|1200%
+|-
+|[[File:C_disciple_y.png|36px]]
+|Grasslands-14
+|Disciple Y
+|Idle Damage
+|5%
+|100%
+|-
+|[[File:C_stripe.png|36px]]
+|Desert-25
+|Stripe
+|Idle Damage
+|6%
+|120%
+|-
+|[[File:C_crystalline.png|36px]]
+|Mountains-21
+|Crystalline
+|Idle Damage
+|7%
+|140%
+|-
+|[[File:C_holy_relic.png|36px]]
+|Dungeon-14
+|Holy Relic
+|Idle Damage
+|15%
+|300%
+|-
+|[[File:C_bog_monster.png|36px]]
+|TheBog-17
+|Bog Monster
+|Idle Damage
+|20%
+|400%
+|-
+|[[File:C_sentinel_y.png|36px]]
+|Raid.Sentinel-3
+|Sentinel Y
+|Idle Damage
+|25%
+|500%
+|-
+|[[File:C_controlled.png|36px]]
+|Crus.TheMist-6
+|Controlled
+|Idle Attack Damage
+|40%
+|800%
+|-
+|[[File:C_tremor_wurm.png|36px]]
+|Crus.Desert-15
+|Tremor Wurm
+|Idle Attack Damage
+|45%
+|900%
+|-
+|[[File:Card_Maelstrom-08.png|36px]]
+|Maelstrom-8
+|Emigi
+|Total Damage (passive)
+|5%
+|25%
+|-
+|[[File:Card_Maelstrom-11.png|36px]]
+|Maelstrom-11
+|Shtok
+|Total Damage (passive)
+|6%
+|30%
+|-
+|[[File:Card_Maelstrom-16.png|36px]]
+|Maelstrom-16
+|Tubro
+|Total Damage (passive)
+|7%
+|35%
+|-
+|[[File:Card_Maelstrom-23.png|36px]]
+|Maelstrom-23
+|Disciple O
+|Total Damage
+|20%
+|100%
+|-
+|[[File:C_keymaster_p.png|36px]]
+|Dungeon-16
+|Keymaster P
+|Total Damage
+|10%
+|200%
+|-
+|[[File:C_keymaster_h.png|36px]]
+|Purgatory-20
+|Keymaster B
+|Total Damage
+|13%
+|260%
+|-
+|[[File:C_king_z.png|36px]]
+|Raid.King-10
+|King Z
+|Total Damage
+|20%
+|400%
+|-
+|[[File:C_demon_y.png|36px]]
+|Raid.Demon-3
+|Demon Y
+|Total Damage
+|35%
+|700%
+|-
+|[[File:C_pincermin.png|36px]]
+|Crus.Desert-10
+|Pincermin
+|Total Damage
+|35%
+|700%
+|-
+|[[File:C_blobulytes.png|36px]]
+|Crus.TheMist-5
+|Blobulytes
+|Total Damage
+|50%
+|1000%
+|-
+|[[File:C_envy.png|36px]]
+|Crus.Dungeon-3
+|Envy
+|Total Damage
+|50%
+|1000%
+|-
+|[[File:Card_Emigdala-Z.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Emigdala-Z.png]]
+|Emigdala-15
+|Emigdala Z
+|Total damage
+|75%
+|1500%
+|-
+|[[File:C_relic_squad.png|36px]]
+|Grasslands-8
+|Relic Squid
+|Claw Skill Damage
+|5%
+|100%
+|-
+|[[File:C_deadly_trap.png|36px]]
+|Desert-14
+|Deadly Trap
+|Claw Skill Damage
+|7%
+|140%
+|-
+|[[File:C_sea_monster.png|36px]]
+|Mountains-16
+|Sea Monster
+|Claw Skill Damage
+|9%
+|180%
+|-
+|[[File:C_bandit_shroom.png|36px]]
+|Crus.Grasslands-1
+|Bandit Shroom
+|Claw Skill Damage
+|20%
+|400%
+|-
+|[[File:C_agent.png|36px]]
+|Dungeon-1
+|Agent
+|Claw Skill Damage
+|20%
+|400%
+|-
+|[[File:C_snailsin.png|36px]]
+|Crus.Grasslands-3
+|Snailsin
+|Poison Skill Damage
+|20%
+|400%
+|-
+|[[File:C_babby_wurm.png|36px]]
+|Crus.Desert-11
+|Babby Wurm
+|Poison Skill Damage
+|20%
+|400%
+|-
+|[[File:C_clackity.png|36px]]
+|Purgatory-2
+|Clackity
+|Poison Skill Damage
+|25%
+|500%
+|-
+|[[File:C_monoclesius.png|36px]]
+|Crus.Desert-1
+|Monoclesius
+|Meteor Skill Damage
+|15%
+|300%
+|-
+|[[File:C_mudnut.png|36px]]
+|TheBog-1
+|Mudnut
+|Meteor Skill Damage
+|20%
+|400%
+|-
+|[[File:C_punch_buggo.png|36px]]
+|Crus.Desert-9
+|Pinch Buggo
+|Meteor Skill Damage
+|25%
+|500%
+|-
+|[[File:C_webbo.png|36px]]
+|Crus.Mountains-7
+|Webbo
+|Flurry Skill Damage
+|15%
+|300%
+|-
+|[[File:C_halluccino.png|36px]]
+|TheBog-4
+|Halluccino
+|Flurry Skill Damage
+|25%
+|500%
+|-
+|[[File:C_bounded_bob.png|36px]]
+|Crus.Mountains-8
+|Bounded Bob
+|Smite Skill Damage
+|8%
+|160%
+|-
+|[[File:C_wriggler.png|36px]]
+|Purgatory-15
+|Wriggler
+|Smite Skill Damage
+|15%
+|300%
+|-
+|[[File:C_follower.png|36px]]
+|Crus.Mountains-11
+|Follower
+|Banana Bonk Skill Damage
+|12%
+|240%
+|-
+|[[File:C_fungi_bob.png|36px]]
+|TheBog-9
+|Fungi Bob
+|Banana Bonk Skill Damage
+|20%
+|400%
+|-
+|[[File:C_child.png|36px]]
+|Crus.TheMist-2
+|Child
+|Banana Bonk Skill Damage
+|30%
+|600%
+|-
+|[[File:C_flowey.png|36px]]
+|Grasslands-7
+|Flowey
+|Attack EXP Chance
+|2%
+|40%
+|-
+|[[File:C_quicksand.png|36px]]
+|Desert-7
+|Quicksand
+|Attack EXP Chance
+|3%
+|60%
+|-
+|[[File:C_flakissimo.png|36px]]
+|Mountains-7
+|Flakissimo
+|Attack EXP Chance
+|4%
+|80%
+|-
+|[[File:C_mountains_glitch.png|36px]]
+|Mountains-26+
+|Mountains Glitch
+|Attack EXP Chance
+|4%
+|80%
+|-
+|[[File:C_spinail.png|36px]]
+|TheMist-9
+|Spinail
+|Attack EXP Chance
+|5%
+|100%
+|-
+|[[File:C_slime.png|36px]]
+|Grasslands-2
+|Slime
+|Endurance EXP Chance
+|2%
+|40%
+|-
+|[[File:C_wurm.png|36px]]
+|Desert-11
+|Wurm
+|Endurance EXP Chance
+|3%
+|60%
+|-
+|[[File:C_sickle.png|36px]]
+|Mountains-8
+|Sickle
+|Endurance EXP Chance
+|4%
+|80%
+|-
+|[[File:C_rogue_rock.png|36px]]
+|Grasslands-4
+|Rogue Rock
+|Mining EXP Chance
+|2%
+|40%
+|-
+|[[File:C_mappy.png|36px]]
+|Desert-17
+|Mappy
+|Mining EXP Chance
+|3%
+|60%
+|-
+|[[File:C_cold_slime.png|36px]]
+|Mountains-20
+|Cold Slime
+|Mining EXP Chance
+|4%
+|80%
+|-
+|[[File:C_edgy_rock.png|36px]]
+|TheMist-7
+|Edgy Rock
+|Mining EXP Chance
+|5%
+|100%
+|-
+|[[File:C_potted_sand.png|36px]]
+|Desert-1
+|Potted Sand
+|Spirit EXP Chance
+|3%
+|60%
+|-
+|[[File:C_disciple_b.png|36px]]
+|Desert-28
+|Disciple B
+|Spirit EXP Chance
+|3%
+|60%
+|-
+|[[File:C_yeti.png|36px]]
+|Mountains-9
+|Yeti
+|Spirit EXP Chance
+|4%
+|80%
+|-
+|[[File:C_octogon.png|36px]]
+|TheMist-11
+|Octogon
+|Spirit EXP Chance
+|5%
+|100%
+|-
+|[[File:C_mushroom.png|36px]]
+|Grasslands-1
+|Mushroom
+|Strength EXP Chance
+|2%
+|40%
+|-
+|[[File:C_mirage_slime.png|36px]]
+|Desert-16
+|Mirage Slime
+|Strength EXP Chance
+|3%
+|60%
+|-
+|[[File:C_verm.png|36px]]
+|TheMist-3
+|Verm
+|Strength EXP Chance
+|5%
+|100%
+|-
+|[[File:C_disciple_z.png|36px]]
+|TheMist-19
+|Disciple Z
+|Strength EXP Chance
+|5%
+|100%
+|-
+|[[File:C_potted_pot.png|36px]]
+|Desert-3
+|Potted Pot
+|Summon EXP Chance
+|3%
+|60%
+|-
+|[[File:C_snow_pot.png|36px]]
+|Mountains-2
+|Snow Pot
+|Summon EXP Chance
+|4%
+|80%
+|-
+|[[File:C_grow_goat.png|36px]]
+|Mountains-13
+|Grow Goat
+|Summon EXP Chance
+|4%
+|80%
+|-
+|[[File:C_evil_dandy.png|36px]]
+|TheMist-13
+|Evil Dandy
+|Summon EXP Chance
+|5%
+|100%
+|-
+|[[File:Card_Disgusting.png|36px]]
+|Oblivion-19
+|Disgusting
+|Summon EXP Chance
+|25%
+|500%
+|-
+|[[File:Card_Emigdala.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Emigdala.png]]
+|Emigdala-1
+|Emigdala
+|Str exp gained (passive)
+|100%
+|2000%
+|-
+|[[File:C_sand_jelly.png|36px]]
+|Desert-12
+|Sand Jelly
+|Mining EXP Gained
+|3%
+|60%
+|-
+|[[File:C_ice_rock.png|36px]]
+|Mountains-4
+|Ice Rock
+|Mining EXP Gained
+|4%
+|80%
+|-
+|[[File:C_twostrip.png|36px]]
+|Mountains-23
+|Twostrip
+|Mining EXP Gained
+|4%
+|80%
+|-
+|[[File:C_the_mist_glitch.png|36px]]
+|TheMist-21+
+|Mist Glitch
+|Mining EXP Gained
+|5%
+|100%
+|-
+|[[File:C_the_bog_glitch.png|36px]]
+|TheBog-21+
+|Glitch
+|Mining EXP Gained
+|7%
+|140%
+|-
+|[[File:6_-_Loaded.png|36px]]
+|LunarIsle-6
+|Loaded
+|Mining EXP Gained
+|8%
+|160%
+|-
+|[[File:C_spike_o_nut.png|36px]]
+|Crus.Desert-8
+|Spike O Nut
+|Mining EXP Gained
+|8%
+|160%
+|-
+|[[File:Magic_slab.png|36px]]
+|Lunar.Event-2
+|Magic Slab
+|Mining EXP Gained
+|8%
+|160%
+|-
+|[[File:Card_Tie.png|36px]]
+|Oblivion-5
+|Tie
+|Mining EXP Gained
+|28%
+|560%
+|-
+|[[File:C_tezuk.png|36px]]
+|Purgatory-17
+|Tezuk
+|Mining EXP Gained
+|15%
+|300%
+|-
+|[[File:C_grasslands_glitch.png|36px]]
+|Grasslands-16+
+|Glitch
+|Rift EXP
+|5%
+|100%
+|-
+|[[File:C_sand_rattler.png|36px]]
+|Desert-23
+|Sand Rattler
+|Rift EXP
+|7%
+|140%
+|-
+|[[File:C_soda.png|36px]]
+|TheMist-1
+|Soda
+|Rift EXP
+|10%
+|200%
+|-
+|[[File:C_naked_nib.png|36px]]
+|Purgatory-3
+|Naked Nib
+|Rift Exp
+|18%
+|350%
+|-
+|[[File:10_-_Krombopuli.png|36px]]
+|LunarIsle-10
+|Krombopuli
+|Rift EXP
+|25%
+|500%
+|-
+|[[File:Card_Maelstrom-04.png|36px]]
+|Maelstrom-4
+|Emmental
+|Rift EXP
+|30%
+|600%
+|-
+|[[File:Card_TrojanHive.png|36px]]
+|Oblivion-12
+|Trojan Hive
+|Rift EXP
+|48%
+|960%
+|-
+|[[File:C_wormie.png|36px]]
+|Grasslands-9
+|Wormie
+|Smithing EXP from Crafting
+|2%
+|40%
+|-
+|[[File:C_zombie_bob.png|36px]]
+|Desert-22
+|Zombie Bob
+|Smithing EXP from Crafting
+|3%
+|60%
+|-
+|[[File:C_glouwey.png|36px]]
+|Mountains-10
+|Glouwey
+|Smithing EXP from Crafting
+|4%
+|80%
+|-
+|[[File:C_frozen_bob.png|36px]]
+|Mountains-22
+|Frozen Bob
+|Smithing EXP from Crafting
+|4%
+|80%
+|-
+|[[File:C_viscereye.png|36px]]
+|Purgatory-6
+|Viscereye
+|Smithing EXP from Crafting
+|6%
+|120%
+|-
+|[[File:C_unlucky_lad.png|36px]]
+|Dungeon-8
+|Unlucky Lad
+|Smithing EXP from Crafting
+|7%
+|140%
+|-
+|[[File:C_lmr_deckhand.png|36px]]
+|Crus.Grasslands-4
+|Lmr Deckhand
+|Crusade EXP
+|3%
+|60%
+|-
+|[[File:C_bitten.png|36px]]
+|Crus.Grasslands-13
+|Bitten
+|Crusade EXP
+|5%
+|100%
+|-
+|[[File:C_chaotic_bob.png|36px]]
+|Purgatory-9
+|Chaotic Bob
+|Crusade EXP
+|10%
+|200%
+|-
+|[[File:13_-_Nosip.png|36px]]
+|LunarIsle-13
+|Nosip
+|Crusade EXP
+|15%
+|300%
+|-
+|[[File:C_basilisk.png|36px]]
+|Crus.Mountains-20
+|Basilisk
+|Crusade EXP
+|25%
+|500%
+|-
+|[[File:C_fabricio.png|36px]]
+|Crus.Mountains-12
+|Fabricio
+|Tinkering EXP
+|8%
+|160%
+|-
+|[[File:C_bog_terror.png|36px]]
+|TheBog-13
+|Bog Terror
+|Tinkering EXP
+|12%
+|240%
+|-
+|[[File:Card_Gorshank-Y.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Gorshank-Y.png]]
+|Gorshank-7
+|Gorshank Y
+|Chain level chance (passive)*
+|1,5%
+|7,5%
+|-
+|[[File:C_desert_giant.png|36px]]
+|Crus.Desert-5
+|Desert Giant
+|Tinkering EXP
+|12%
+|240%
+|-
+|[[File:C_nutto.png|36px]]
+|Desert-10
+|Nutto
+|Acolyte Efficiency
+|5%
+|100%
+|-
+|[[File:C_snowballs.png|36px]]
+|Mountains-6
+|Snowballs
+|Acolyte Efficiency
+|7%
+|140%
+|-
+|[[File:C_sweetz.png|36px]]
+|TheMist-2
+|Sweetz
+|Acolyte Efficiency
+|7%
+|140%
+|-
+|[[File:C_jelly_cube.png|36px]]
+|Dungeon-5
+|Jelly Cube
+|Acolyte Efficiency
+|8%
+|160%
+|-
+|[[File:14_-_Sprigglio.png|36px]]
+|LunarIsle-14
+|Sprigglio
+|Acolyte Efficiency
+|10%
+|200%
+|-
+|[[File:C_heat_bloque.png|36px]]
+|Purgatory-7
+|Meat Bloque
+|Acolyte Efficiency
+|12%
+|240%
+|-
+|[[File:Card_Neolithia.png|36px]]
+|Oblivion-16
+|Neolithia
+|Acolyte Efficiency
+|28%
+|560%
+|-
+|[[File:C_coco.png|36px]]
+|Desert-9
+|Coco
+|Cultist Efficiency
+|5%
+|100%
+|-
+|[[File:C_flakey.png|36px]]
+|Mountains-1
+|Flakey
+|Cultist Efficiency
+|6%
+|120%
+|-
+|[[File:C_catsup.png|36px]]
+|TheMist-6
+|Catsup
+|Cultist Efficiency
+|7%
+|140%
+|-
+|[[File:C_skelebob.png|36px]]
+|Dungeon-3
+|Skelebob
+|Cultist Efficiency
+|8%
+|160%
+|-
+|[[File:C_septislime.png|36px]]
+|TheBog-2
+|Septislime
+|Cultist Efficiency
+|10%
+|200%
+|-
+|[[File:Moon_man.png|36px]]
+|Lunar.Event-1
+|Moon Man
+|Cultist Efficiency
+|15%
+|300%
+|-
+|[[File:Card_Frooger.png|36px]]
+|Oblivion-2
+|Frooger
+|Cultist Efficiency
+|25%
+|500%
+|-
+|[[File:C_strawby.png|36px]]
+|Grasslands-11
+|Strawby
+|Healing from Food
+|5%
+|100%
+|-
+|[[File:C_desert_drink.png|36px]]
+|Desert-21
+|Desert Drink
+|Healing from Food
+|6%
+|120%
+|-
+|[[File:C_coll_drink.png|36px]]
+|Mountains-12
+|Cool Drink
+|Healing from Food
+|8%
+|160%
+|-
+|[[File:C_mime.png|36px]]
+|Crus.Grasslands-9
+|Mime
+|Healing from Food
+|11%
+|220%
+|-
+|[[File:C_chalice.png|36px]]
+|Dungeon-7
+|Chalice
+|Healing from Food
+|12%
+|240%
+|-
+|[[File:C_stumpo.png|36px]]
+|Grasslands-3
+|Stumpo
+|Healing from Heal Skill
+|5%
+|100%
+|-
+|[[File:C_ice_cream.png|36px]]
+|Mountains-3
+|Ice Cream
+|Healing from Heal Skill
+|10%
+|200%
+|-
+|[[File:C_nibbled.png|36px]]
+|Crus.Grasslands-12
+|Nibbled
+|Healing from Heal Skill
+|100%
+|100% (bug)
+|-
+|[[File:C_piglo.png|36px]]
+|TheMist-5
+|Piglo
+|Healing from Heal Skill
+|15%
+|300%
+|-
+|[[File:C_snail.png|36px]]
+|Grasslands-6
+|Snail
+|Monster Damage Reduction
+|0.4%
+|8%
+|-
+|[[File:C_dung_beetle.png|36px]]
+|Desert-5
+|Dung Beetle
+|Monster Damage Reduction
+|0.6%
+|12%
+|-
+|[[File:C_bloque.png|36px]]
+|Mountains-18
+|Bloque
+|Monster Damage Reduction
+|0.8%
+|16%
+|-
+|[[File:C_lockhart.png|36px]]
+|Dungeon-4
+|Lockhart
+|Monster Damage Reduction
+|1%
+|20%
+|-
+|[[File:C_sentinel_x.png|36px]]
+|Raid.Sentinel-1
+|Sentinel X
+|Monster Damage Reduction
+|3%
+|60%
+|-
+|[[File:Card_Scallius-X.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Scallius-X.png]]
+|Scallius-3
+|Scallius X
+|Total Health (passive)
+|35%
+|700%
+|-
+|[[File:C_bored_bean.png|36px]]
+|Grasslands-12
+|Bored Bean
+|Total Health
+|4%
+|80%
+|-
+|[[File:C_keymaster_r.png|36px]]
+|Mountains-25
+|Keymaster R
+|Total Health
+|8%
+|160%
+|-
+|[[File:C_horizon.png|36px]]
+|TheMist-18
+|Horizon
+|Total Health
+|12%
+|240%
+|-
+|[[File:C_spots.png|36px]]
+|TheBog-15
+|Spotz
+|Total Health
+|17%
+|340%
+|-
+|[[File:C_king_y.png|36px]]
+|Raid.King-3
+|King Y
+|Total Health
+|25%
+|500%
+|-
+|[[File:C_taken.png|36px]]
+|Crus.TheMist-7
+|Taken
+|Total Health
+|50%
+|1000%
+|-
+|[[File:C_golden_turkey.png|36px]]
+|Nov.Event
+|Golden Turkey
+|Card Drop Chance
+|2%
+|40%
+|-
+|[[File:C_monkey.png|36px]]
+|Grasslands-10
+|Monkey
+|Card Drop Chance
+|2%
+|40%
+|-
+|[[File:C_dryic_relic.png|36px]]
+|Desert-15
+|Dryic Relic
+|Card Drop Chance
+|3%
+|60%
+|-
+|[[File:C_keymaster_z.png|36px]]
+|TheMist-20
+|Keymaster Z
+|Card Drop Chance
+|5%
+|100%
+|-
+|[[File:C_the_cursed.png|36px]]
+|Purgatory-11
+|The Cursed
+|Card Drop Chance
+|5%
+|100%
+|-
+|[[File:3_-_Thimbulo.png|36px]]
+|LunarIsle-3
+|Thimbulo
+|Card Drop Chance
+|6%
+|120%
+|-
+|[[File:C_recruit.png|36px]]
+|Crus.Grasslands-6
+|Recruit
+|Crusade Card Chance
+|2%
+|40%
+|-
+|[[File:C_turned_worm.png|36px]]
+|Crus.Mountains-18
+|Turned Worm
+|Crusade Card Chance
+|6%
+|120%
+|-
+|[[File:Card_Maelstrom-06.png|36px]]
+|Maelstrom-6
+|Cheezers
+|Monster Cash (passive)
+|5%
+|25%
+|-
+|[[File:Card_Maelstrom-10.png|36px]]
+|Maelstrom-10
+|Clodd
+|Monster Cash (passive)
+|6%
+|30%
+|-
+|[[File:Card_Maelstrom-14.png|36px]]
+|Maelstrom-14
+|Anodesia
+|Monster Cash (passive)
+|7%
+|35%
+|-
+|[[File:Card_Maelstrom-18.png|36px]]
+|Maelstrom-18
+|Firechad
+|Monster Cash (passive)
+|8%
+|40%
+|-
+|[[File:Card_Emigdala-Y.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Emigdala-Y.png]]
+|Emigdala-7
+|Emigdala Y
+|Monster Cash (passive)
+|50%
+|1000%
+|-
+|[[File:C_yellow_phat.png|36px]]
+|Desert-6
+|Yellow Phat
+|Monster Cash
+|10%
+|200%
+|-
+|[[File:C_desert_baron.png|36px]]
+|Desert-27
+|Desert Baron
+|Monster Cash
+|12%
+|240%
+|-
+|[[File:C_limpy.png|36px]]
+|Crus.Grasslands-7
+|Limpy
+|Monster Cash
+|12%
+|240%
+|-
+|[[File:C_blue_phat.png|36px]]
+|Mountains-14
+|Blue Phat
+|Monster Cash
+|15%
+|300%
+|-
+|[[File:C_keymaster_l.png|36px]]
+|TheBog-20
+|Keymaster L
+|Monster Cash
+|20%
+|400%
+|-
+|[[File:C_noob.png|36px]]
+|Dungeon 17+
+|Noob
+|Monster Cash
+|25%
+|500%
+|-
+|[[File:Card_YoureEpic.png|36px]]
+|Oblivion-7
+|Youre Epic
+|Monster Cash
+|30%
+|600%
+|-
+|[[File:Card_IncarnateG.png|36px]]
+|Oblivion-29
+|Incarnate G
+|Monster Cash
+|59%
+|1180%
+|-
+|[[File:C_entertainer_z.png|36px]]
+|Raid.Entertainer-10
+|Entertainer Z
+|Monster Cash
+|60%
+|1200%
+|-
+|[[File:C_minty.png|36px]]
+|Crus.Mountains-1
+|Minty
+|Cash from Midas
+|25%
+|500%
+|-
+|[[File:Card_Maelstrom-21.png|36px]]
+|Maelstrom-21
+|Tz Tok Zuk
+|Ores from Mining (passive)
+|3%
+|15%
+|-
+|[[File:C_keymaster_y.png|36px]]
+|Grasslands-15
+|Keymaster Y
+|Ores from Mining
+|4%
+|80%
+|-
+|[[File:C_coal_buddy.png|36px]]
+|Dec.Event-1
+|Coal Buddy
+|Ores from Mining
+|5%
+|100%
+|-
+|[[File:C_spade.png|36px]]
+|Desert-18
+|Spade
+|Ores from Mining
+|5%
+|100%
+|-
+|[[File:C_cylic_relic.png|36px]]
+|Mountains-17
+|Cylic Relic
+|Ores from Mining
+|7%
+|140%
+|-
+|[[File:C_totem_goop.png|36px]]
+|TheMist-16
+|Totem Goop
+|Ores from Mining
+|9%
+|180%
+|-
+|[[File:C_chaineran.png|36px]]
+|Dungeon-6
+|Chaineran
+|Ores from Mining
+|12%
+|240%
+|-
+|[[File:C_yucky_foot.png|36px]]
+|TheBog-10
+|Yucky Foot
+|Ores from Mining
+|20%
+|400%
+|-
+|[[File:16_-_Nevrblink.png|36px]]
+|LunarIsle-16
+|Nevrblink
+|Ores from Mining
+|26%
+|520%
+|-
+|[[File:C_heavy_miner.png|36px]]
+|Crus.TheMist-4
+|Heavy Miner
+|Ores from Mining
+|30%
+|600%
+|-
+|[[File:Card_RelaxinBob.png|36px]]
+|Oblivion-13
+|Relaxin Bob
+|Ores From Mining
+|33%
+|660%
+|-
+|[[File:Card_Maelstrom-09.png|36px]]
+|Maelstrom-9
+|Forpaque
+|Fishies Caught (passive)
+|5%
+|25%
+|-
+|[[File:Card_Maelstrom-15.png|36px]]
+|Maelstrom-15
+|Judiciar
+|Fishies Caught (passive)
+|7%
+|35%
+|-
+|[[File:Card_Maelstrom-19.png|36px]]
+|Maelstrom-19
+|Trombain
+|Fishies Caught (passive)
+|8%
+|40%
+|-
+|[[File:C_shrim_imp.png|36px]]
+|Purgatory-4
+|Shrimp Imp
+|Fishies Caught
+|20%
+|400%
+|-
+|[[File:7_-_MTV.png|36px]]
+|LunarIsle-7
+|MTV
+|Fishies Caught
+|30%
+|600%
+|-
+|[[File:Card_Maelstrom-05.png|36px]]
+|Maelstrom-5
+|Zaposi
+|Fishies Caught
+|40%
+|800%
+|-
+|[[File:Card_JkLol.png|36px]]
+|Oblivion-8
+|Jk Lol
+|Fishies Caught
+|60%
+|1200%
+|-
+|[[File:Card_IncarnateB.png|36px]]
+|Oblivion-24
+|Incarnate B
+|Fishies Caught
+|150%
+|3000%
+|-
+|[[File:Card_Maelstrom-25.png|36px]]
+|Maelstrom-25+
+|Glitch
+|Ores and Fish
+|15%
+|75%
+|-
+|[[File:C_Squiddle.png|36px]]
+|Crus.LunarIsle-2
+|Squiddle
+|Ores and Fish
+|35%
+|700%
+|-
+|[[File:Card_IncarnateD.png|36px]]
+|Oblivion-26
+|Incarnate D
+|Ores and Fish
+|48%
+|960%
+|-
+|[[File:Card_Scallius-Z.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Scallius-Z.png]]
+|Scallius-15
+|Scallius Z
+|Ores and fish
+|60%
+|1200%
+|-
+|[[File:Card_Maelstrom-07.png|36px]]
+|Maelstrom-7
+|Stroganovsky
+|Raid Drop Luck (passive)
+|5%
+|25%
+|-
+|[[File:Card_Maelstrom-13.png|36px]]
+|Maelstrom-13
+|Coulombs
+|Raid Drop Luck (passive)
+|6%
+|30%
+|-
+|[[File:Card_Maelstrom-20.png|36px]]
+|Maelstrom-20
+|Occulaxe
+|Raid Drop Luck (passive)
+|8%
+|40%
+|-
+|[[File:C_spooktober.png|36px]]
+|Oct.Event
+|Spooktober
+|Raid Drop Luck
+|2%
+|40%
+|-
+|[[File:C_bandit_bob.png|36px]]
+|Desert-13
+|Bandit Bob
+|Raid Drop Luck
+|5%
+|100%
+|-
+|[[File:C_snaps.png|36px]]
+|Mountains-15
+|Snaps
+|Raid Drop Luck
+|7%
+|140%
+|-
+|[[File:C_spectre_bob.png|36px]]
+|TheMist-10
+|Spectre Bob
+|Raid Drop Luck
+|9%
+|180%
+|-
+|[[File:C_mimicridon.png|36px]]
+|Dungeon-9
+|Mimicridon
+|Raid Drop Luck
+|12%
+|240%
+|-
+|[[File:C_swampeek.png|36px]]
+|TheBog-7
+|Swampeek
+|Raid Drop Luck
+|15%
+|300%
+|-
+|[[File:C_sentinel_z.png|36px]]
+|Raid.Sentinel-10
+|Sentinel Z
+|Gains On All Screens
+|0.5%
+|10%
+|-
+|[[File:C_demon_z.png|36px]]
+|Raid.Demon-10
+|Demon Z
+|Gains On All Screens
+|1%
+|20%
+|-
+|[[File:Card_IncarnateF.png|36px]]
+|Oblivion-28
+|Incarnate F
+|Gains On All Screens
+|2%
+|10%
+|-
+|[[File:C_treasure.png|36px]]
+|Desert-19
+|Treasure
+|Souls kept after Ascending
+|1%
+|20%
+|-
+|[[File:C_desert_glitch.png|36px]]
+|Desert-30+
+|Desert Glitch
+|Souls kept after Ascending
+|1%
+|20%
+|-
+|[[File:C_secretkeeper.png|36px]]
+|Special
+|Secretkeeper
+|Souls kept after Ascending
+|1%
+|20%
+|-
+|[[File:C_trap_mach.png|36px]]
+|Dungeon-12
+|Trap Mach
+|Souls kept after Ascending
+|2%
+|40%
+|-
+|[[File:C_witness.png|36px]]
+|Crus.Mountains-3
+|Witness
+|Souls kept after Ascending
+|2%
+|40%
+|-
+|[[File:C_the_banished.png|36px]]
+|Purgatory-13
+|The Banished
+|BP on Rebirth
+|6
+|30
+|-
+|[[File:C_mushketeer.png|36px]]
+|TheBog-5
+|Mushketeer
+|BP on Rebirth
+|8
+|40
+|-
+|[[File:8_-_Funni_Boi.png|36px]]
+|LunarIsle-8
+|Funni Boi
+|BP on Rebirth
+|10
+|50
+|-
+|[[File:Card_Tubular.png|36px]]
+|Oblivion-11
+|Tubular
+|BP Upon Rebirthing
+|40
+|200
+|-
+|[[File:Card_Gorshank.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Gorshank.png]]
+|Gorshank-1
+|Gorshank
+|BP on Rebirth
+More AP(passive)*
+| +18
+6%
+| +90
+30%
+|-
+|[[File:C_enigma.png|36px]]
+|Crus.Mountains-2
+|Enigma
+|Cyber Food Efficiency
+|3%
+|60%
+|-
+|[[File:C_poisson.png|36px]]
+|Crus.Mountains-17
+|Poisson
+|Cyber Food Efficiency
+|5%
+|100%
+|-
+|[[File:C_booger.png|36px]]
+|TheBog-3
+|Booger
+|Cyber Food Efficiency
+|10%
+|200%
+|-
+|[[File:C_chewed.png|36px]]
+|Crus.Grasslands-11
+|Chewed
+|Perk Points Gained
+|3%
+|60%
+|-
+|[[File:C_waddles.png|36px]]
+|Dec.Event-2
+|Waddles
+|Perk Points Gained
+|4%
+|80%
+|-
+|[[File:Card_Ruler.png|36px]]
+|Oblivion-6
+|Ruler
+|Perk Points Gained
+|4%
+|80%
+|-
+|[[File:C_tubby_wurm.png|36px]]
+|Crus.Desert-14
+|Tubby Wurm
+|Perk Points Gained
+|5%
+|100%
+|-
+|[[File:Card_Occulon.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Occulon.png]]
+|Occulon-1
+|Occulon
+|Perk Points gained (passive)
+|6%
+|120%
+|-
+|[[File:C_fliquer.png|36px]]
+|Crus.Mountains-13
+|Fliquer
+|Inactive Crusaders
+|1
+|10
+|-
+|[[File:C_anticlopse.png|36px]]
+|Purgatory-14
+|Anticlopse
+|Inactive Crusaders
+|2
+|10
+|-
+|[[File:C_killer_rabbit.png|36px]]
+|Crus.Grasslands-15
+|Killer Rabbit
+|Inactive Crusaders
+|1
+|15
+|-
+|[[File:C_supervisor.png|36px]]
+|Crus.TheMist-3
+|Supervisor
+|Inactive Crusaders
+|1
+|15
+|-
+|[[File:17_-_Wee_Wee.png|36px]]
+|LunarIsle-17
+|Wee Wee
+|Inactive Crusaders
+|3
+|15
+|-
+|[[File:Card_Blither.png|36px]]
+|Oblivion-4
+|Blither
+|Inactive Crusaders
+|6
+|30
+|-
+|[[File:C_Watchtower.png|36px]]
+|Crus.TheBog-4
+|Watchtower
+|Inactive Crusaders
+|5
+|25
+|-
+|[[File:C_the_bruiser.png|36px]]
+|Crus.Grasslands-5
+|The Bruiser
+|Max Fight Bonus for Daily Crusades
+|5%
+|100%
+|-
+|[[File:C_posessed.png|36px]]
+|Crus.TheMist-8
+|Posessed
+|Max Fight Bonus for Daily Crusades
+|10%
+|200%
+|-
+|[[File:C_blade_row.png|36px]]
+|Crus.Desert-6
+|Blade Row
+|Crusade Reward Multi
+|2%
+|40%
+|-
+|[[File:C_devout.png|36px]]
+|Crus.Mountains-14
+|Devout
+|Crusade Reward Multi
+|4%
+|80%
+|-
+|[[File:4_-_Crateros.png|36px]]
+|LunarIsle-4
+|Crateros
+|Crusade Reward Multi
+|8%
+|160%
+|-
+|[[File:Card_Maelstrom-03.png|36px]]
+|Maelstrom-3
+|A of Sparks
+|Crusade Reward Multi
+|10%
+|200%
+|-
+|[[File:C_jealousy.png|36px]]
+|Crus.Dungeon-2
+|Jealousy
+|Crusade Reward Multi
+|25%
+|500%
+|-
+|[[File:Card_Throwback.png|36px]]
+|Oblivion-9
+|Throwback
+|Crusade Reward Multi
+|40%
+|800%
+|-
+|[[File:Card_Protestor.png|36px]]
+|Oblivion-21
+|Protestor
+|Crusade Reward Multi
+|60%
+|1200%
+|-
+|[[File:C_patchy.png|36px]]
+|Crus.Grasslands-2
+|Patchy
+|Cost Reduction of Common Ingredients
+|1%
+|15%
+|-
+|[[File:C_cactarus.png|36px]]
+|Crus.Desert-3
+|Cactaurus
+|Cost Reduction of Common Ingredients
+|1%
+|15%
+|-
+|[[File:C_vampy_wurm.png|36px]]
+|Crus.Desert-13
+|Vampy Wurm
+|Cost Reduction of Uncommon Ingredients
+|1%
+|15%
+|-
+|[[File:C_spiderling.png|36px]]
+|Crus.Mountains-6
+|Spiderling
+|Cost Reduction of Uncommon Ingredients
+|1%
+|15%
+|-
+|[[File:C_queens_egg.png|36px]]
+|Crus.Mountains-9
+|Queens Egg
+|Cost Reduction of Rare Ingredients
+|1%
+|15%
+|-
+|[[File:C_toothu.png|36px]]
+|Crus.Mountains-16
+|Toothu
+|Cost Reduction of Rare Ingredients
+|1%
+|15%
+|-
+|[[File:Card_IncarnateC.png|36px]]
+|Oblivion-25
+|Incarnate C
+|Booster Chance
+|1%
+|3%
+|-
+|[[File:C_narcissus.png|36px]]
+|Crus.Dungeon-5
+|Narcissus
+|Booster Chance
+|2%
+|10%
+|-
+|[[File:C_white_p_hat.png|36px]]
+|Crus.Desert-7
+|White P Hat
+|Base Ignore Def
+|30
+|600
+|-
+|[[File:C_gheist.png|36px]]
+|Crus.Mountains-15
+|Gheist
+|Ignore Def
+|1%
+|15%
+|-
+|[[File:C_anger.png|36px]]
+|Crus.Dungeon-4
+|Anger
+|Ignore Def
+|2%
+|30%
+|-
+|[[File:C_puppeteer.png|36px]]
+|Crus.TheMist-10
+|Puppeteer
+|Ignore Def
+|2%
+|40%
+|-
+|[[File:C_toxic_sludge.png|36px]]
+|Crus.Grasslands-10
+|Toxic Sludge
+|Crusade Heal Uses
+|1
+|5
+|-
+|[[File:C_arachneon.png|36px]]
+|Crus.Mountains-10
+|Arachneon
+|Crusade Seal Uses
+|2
+|10
+|-
+|[[File:C_munched.png|36px]]
+|Crus.Grasslands-14
+|Munched
+|Max Shields
+|10%
+|200%
+|-
+|[[File:C_identity.png|36px]]
+|Crus.Mountains-4
+|Identity
+|Max Shields
+|15%
+|300%
+|-
+|[[File:C_flesh_bloat.png|36px]]
+|Purgatory-5
+|Flesh Bloat
+|Max Shields
+|15%
+|300%
+|-
+|[[File:2_-_Moon_Pie.png|36px]]
+|LunarIsle-2
+|Moon Pie
+|Max Shields
+|25%
+|500%
+|-
+|[[File:C_faust.png|36px]]
+|Crus.Mountains-5
+|Faust
+|Max Shields
+|75%
+|1500%
+|-
+|[[File:C_sadness.png|36px]]
+|Crus.Dungeon-1
+|Sadness
+|Max Shields
+|80%
+|1600%
+|-
+|[[File:C_canesius.png|36px]]
+|Crus.Desert-4
+|Cansius
+|Shield Charge Rate
+|3%
+|60%
+|-
+|[[File:12_-_Lunar_Jim.png|36px]]
+|LunarIsle-12
+|Lunar Jim
+|Shield Charge Rate
+|4%
+|80%
+|-
+|[[File:C_infant.png|36px]]
+|Crus.TheMist-1
+|Infant
+|Shield Charge Rate
+|5%
+|100%
+|-
+|[[File:C_dirt.png|36px]]
+|Tilling-1
+|Dirt
+|Crops for Every Tiller on Dirt
+|3%
+|15%
+|-
+|[[File:C_grass.png|36px]]
+|Tilling-2
+|Grass
+|Crops for Every Tiller on Grass
+|3%
+|15%
+|-
+|[[File:C_quality_hay.png|36px]]
+|Tilling-3
+|Quality Hay
+|Crops for Every Tiller on Hay
+|3%
+|15%
+|-
+|[[File:C_saffron.png|36px]]
+|Tilling-4
+|Saffron
+|Crops for Every Tiller on Saffron
+|3%
+|15%
+|-
+|[[File:C_corn.png|36px]]
+|Tilling-5
+|Corn
+|Crops for Every Tiller on Corn
+|4%
+|20%
+|-
+|[[File:C_maize.png|36px]]
+|Tilling-6
+|Maize
+|Crops for Every Tiller on Maize
+|4%
+|20%
+|-
+|[[File:C_hyper_stalk.png|36px]]
+|Tilling-7
+|Hyper Stalk
+|Crops for Every Tiller on Stalk
+|4%
+|20%
+|-
+|[[File:C_cabbage.png|36px]]
+|Tilling-8
+|Cabbage
+|Crops for Every Tiller on Cabbage
+|5%
+|25%
+|-
+|[[File:C_ancient_dew.png|36px]]
+|Tilling-9
+|Ancient Dew
+|Crops for Every Tiller on Dew
+|5%
+|25%
+|-
+|[[File:C_egg_yolk.png|36px]]
+|Tilling-10
+|Egg Yolk
+|Crops for Every Tiller on Yolk
+|5%
+|25%
+|-
+|[[File:C_packed_clay.png|36px]]
+|Tilling-11
+|Packed Clay
+|Crops for Every Tiller on Clay
+|6%
+|30%
+|-
+|[[File:C_lil_pumpkin.png|36px]]
+|Tilling-12
+|Lil Pumpkin
+|Crops for Every Tiller on Lil Pump
+|6%
+|30%
+|-
+|[[File:C_macromato.png|36px]]
+|Tilling-13
+|Macromato
+|Crops for Every Tiller on Macromato
+|6%
+|30%
+|-
+|[[File:C_spooktobble.png|36px]]
+|Tilling-14
+|Spooktobble
+|Crops for Every Tiller on Spooktobble
+|7%
+|35%
+|-
+|[[File:C_crystal.png|36px]]
+|Tilling-15
+|Crystal
+|Crops for Every Tiller on Crystal
+|7%
+|35%
+|-
+|[[File:C_lucentium.png|36px]]
+|Tilling-16
+|Lucentium
+|Crops for Every Tiller on Lucentium
+|7%
+|35%
+|-
+|[[File:C_prismatism.png|36px]]
+|Tilling-17
+|Prismatism
+|Crops for Every Tiller on Prismatism
+|8%
+|40%
+|-
+|[[File:C_essence.png|36px]]
+|Tilling-18
+|Essence
+|Crops for Every Tiller on Essence
+|8%
+|40%
+|-
+|[[File:C_hallownil.png|36px]]
+|Tilling-19
+|Hallownil
+|Crops for Every Tiller on Hallownil
+|8%
+|40%
+|-
+|[[File:C_sammatian.png|36px]]
+|Tilling-20
+|Sammatian
+|Crops for Every Tiller on Sammatian
+|10%
+|50%
+|-
+|[[File:C_weeds.png|36px]]
+|Botany-1
+|Weeds
+|Botany EXP Gain
+|8%
+|40%
+|-
+|[[File:C_fyreling.png|36px]]
+|Botany-13
+|Fyreling
+|Botany EXP Gain
+|15%
+|75%
+|-
+|[[File:C_veninsulic.png|36px]]
+|Botany-19
+|Veninsulic
+|Botany EXP Gain
+|25%
+|125%
+|-
+|[[File:Card_Emigdala-X.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Emigdala-X.png]]
+|Emigdala-3
+|Emigdala X
+|Botany Growth Speed (passive)
+|15%
+|300%
+|-
+|[[File:C_berries.png|36px]]
+|Botany-2
+|Berries
+|Botany Growth Spd
+|3%
+|15%
+|-
+|[[File:C_sapling.png|36px]]
+|Botany-7
+|Sapling
+|Botany Growth Spd
+|5%
+|25%
+|-
+|[[File:C_lava_ooze.png|36px]]
+|Purgatory-10
+|Lava Ooze
+|Botany Growth Spd
+|5%
+|25%
+|-
+|[[File:15_-_The_Maw.png|36px]]
+|LunarIsle-15
+|The Maw
+|Botany Growth Spd
+|6%
+|30%
+|-
+|[[File:C_flesh_tree.png|36px]]
+|Botany-16
+|Flesh Tree
+|Botany Growth Spd
+|8%
+|40%
+|-
+|[[File:C_belldrop.png|36px]]
+|Botany-23
+|Belldrop
+|Botany Growth Spd
+|12%
+|60%
+|-
+|[[File:Card_Maelstrom-01.png|36px]]
+|Maelstrom-1
+|Honky
+|Botany Growth Spd
+|7%
+|35%
+|-
+|[[File:Card_Concubine.png|36px]]
+|Oblivion-14
+|Concubine
+|Botany Growth Spd
+|15%
+|75%
+|-
+|[[File:C_candypop.png|36px]]
+|Botany-12
+|Candypop
+|Botany Speed Upgrades
+|2
+|10
+|-
+|[[File:C_demonia.png|36px]]
+|Botany-17
+|Demonia
+|Botany Speed Upgrades
+|3
+|15
+|-
+|[[File:C_chlorine.png|36px]]
+|Botany-21
+|Chlorine
+|Botany Speed Upgrades
+|4
+|20
+|-
+|[[File:C_disciple_h.png|36px]]
+|Purgatory-19
+|Disciple B
+|Botany Speed Upgrades
+|5
+|25
+|-
+|[[File:9_-_Lunadryl.png|36px]]
+|LunarIsle-9
+|Lunardyl
+|Botany Speed Upgrades
+|6
+|30
+|-
+|[[File:Card_Maelstrom-22.png|36px]]
+|Maelstrom-22
+|Cauteriz
+|Botany speed upgrades
+|6
+|30
+|-
+|[[File:C_typha.png|36px]]
+|Botany-3
+|Typha
+|Overgrowth Flower Bonus for Green Flowers
+|5%
+|25%
+|-
+|[[File:C_palm tree.png|36px]]
+|Botany-6
+|Palm Tree
+|Overgrowth Flower Bonus for Green Flowers
+|6%
+|30%
+|-
+|[[File:C_mint_cane.png|36px]]
+|Botany-10
+|Mint Cane
+|Overgrowth Flower Bonus for Blue Flowers
+|6%
+|30%
+|-
+|[[File:C_blood_tree.png|36px]]
+|Botany-14
+|Blood Tree
+|Overgrowth Flower Bonus for Red Flowers
+|7%
+|35%
+|-
+|[[File:C_cursed_eye.png|36px]]
+|Botany-18
+|Cursed Eye
+|Overgrowth Flower Bonus for Red Flowers
+|8%
+|40%
+|-
+|[[File:C_icecream.png|36px]]
+|Botany-22
+|Icecream
+|Overgrowth Flower Bonus for Gold Flowers
+|8%
+|40%
+|-
+|[[File:C_cactus.png|36px]]
+|Botany-5
+|Cactus
+|Overgrowth Exotic Bonus for Green Flowers
+|4%
+|20%
+|-
+|[[File:C_crystals.png|36px]]
+|Botany-11
+|Crystals
+|Overgrowth Exotic Bonus for Blue Flowers
+|4%
+|20%
+|-
+|[[File:C_mushroom_ingredient.png|36px]]
+|Botany-15
+|Mushroom
+|Overgrowth Exotic Bonus for Red Flowers
+|6%
+|30%
+|-
+|[[File:C_lemming.png|36px]]
+|Botany-20
+|Lemming
+|Overgrowth Exotic Bonus for Gold Flowers
+|6%
+|30%
+|-
+|[[File:C_flowers.png|36px]]
+|Botany-4
+|Flowers
+|Overgrowth EXP Bonus for Green Flowers
+|7%
+|35%
+|-
+|[[File:C_weeplings.png|36px]]
+|Botany-8
+|Weeplings
+|Overgrowth EXP Bonus for Blue Flowers
+|7%
+|35%
+|-
+|[[File:C_saharn_foal.png|36px]]
+|Botany-9
+|Saharn Foal
+|Overgrowth Time Redux for All Flowers
+|5%
+|25%
+|-
+|[[File:22_-_Keymaster_MS.png|36px]]
+|LunarIsle-22
+|Keymaster MS
+|Overgrowth Time
+|8%
+|40%
+|-
+|[[File:C_sunburst.png|36px]]
+|Botany-24
+|Sunburst
+|Overgrowth Time Redux for All Flowers
+|12%
+|60%
+|-
+|[[File:C_red_pot.png|36px]]
+|Apothecary-1
+|Red Pot
+|Apothecary EXP
+|5%
+|25%
+|-
+|[[File:C_confused_leg.png|36px]]
+|Purgatory-12
+|Confused Leg
+|Apothecary EXP
+|5%
+|25%
+|-
+|[[File:C_discple_l.png|36px]]
+|TheBog-19
+|Disciple L
+|Apothecary EXP
+|5%
+|25%
+|-
+|[[File:C_yellow_pot.png|36px]]
+|Apothecary-3
+|Yellow Pot
+|Apothecary EXP
+|6%
+|30%
+|-
+|[[File:Card_BeanBaby.png|36px]]
+|Oblivion-1
+|Bean Baby
+|Apothecary EXP
+|7%
+|35%
+|-
+|[[File:Card_Scallius-Y.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Scallius-Y.png]]
+|Scallius-7
+|Scallius Y
+|Chance for Double Potion Level Up (passive)
+|25%
+|125%
+|-
+|[[File:C_lime_pot.png|36px]]
+|Apothecary-4
+|Lime Pot
+|Chance for Double Potion Level Up
+|4%
+|20%
+|-
+|[[File:C_magick_mushy.png|36px]]
+|TheBog-8
+|Magic Mushy
+|Chance for Double Potion Level Up
+|5%
+|25%
+|-
+|[[File:C_Merceneye.png|36px]]
+|Crus.TheBog-2
+|Merceneye
+|Chance for Double Potion Level Up
+|5%
+|25%
+|-
+|[[File:C_purple_pot.png|36px]]
+|Apothecary-6
+|Purple Pot
+|Chance for Double Potion Level Up
+|6%
+|30%
+|-
+|[[File:C_orange_pot.png|36px]]
+|Apothecary-2
+|Orange Pot
+|Potion Cost Redux
+|2%
+|10%
+|-
+|[[File:C_cyan_pot.png|36px]]
+|Apothecary-5
+|Cyan Pot
+|Potion Cost Redux
+|3%
+|15%
+|-
+|[[File:C_psyccidello.png|36px]]
+|TheBog-12
+|Psyccidello
+|Potion Cost Redux
+|3%
+|15%
+|-
+|[[File:C_demon_pot.png|36px]]
+|Apothecary-7
+|Demon Pot
+|Potion Cost Redux
+|4%
+|20%
+|-
+|[[File:23_-_Glitch.png|36px]]
+|LunarIsle-23+
+|Glitch
+|Potion Cost Redux
+|5%
+|25%
+|-
+|[[File:Card_Vile.png|36px]]
+|Oblivion-17
+|Vile
+|Potion Cost Redux
+|5%
+|30%
+|-
+|[[File:C_godly_pot.png|36px]]
+|Apothecary-8
+|Godly Pot
+|Post Cost Redux Every 50 Apoth. Levels
+|2%
+|10%
+|-
+|[[File:C_moisturize.png|36px]]
+|Purgatory-8
+|Moisturize
+|Yellow Crystal Bonus
+|3%
+|15%
+|-
+|[[File:11_-_Maiden_Bob.png|36px]]
+|LunarIsle-11
+|Maiden Bob
+|Yellow Crystal Bonus
+|3%
+|15%
+|-
+|[[File:C_occulox.png|36px]]
+|Purgatory-18
+|Occulox
+|Pink Crystal Bonus
+|2%
+|10%
+|-
+|[[File:18_-_Chill_Bros-0.png|36px]]
+|LunarIsle-18
+|Chill Bros
+|Pink Crystal Bonus
+|2%
+|10%
+|-
+|[[File:C_wormies.png|36px]]
+|TheBog-6
+|Wormies
+|Blue Crystal Bonus
+|2%
+|10%
+|-
+|[[File:C_mishudusa.png|36px]]
+|TheBog-14
+|Mishudusa
+|Green Crystal Bonus
+|4%
+|20%
+|-
+|[[File:C_biggie.png|36px]]
+|TheBog-18
+|Biggie
+|Orange Crystal Bonus
+|2%
+|10%
+|-
+|[[File:C_flexo.png|36px]]
+|LunarIsle-1
+|Flexo
+|Red Crystal Bonus
+|3%
+|15%
+|-
+|[[File:5_-_Parchmint.png|36px]]
+|LunarIsle-5
+|Parchmint
+|Purple Crystal Bonus
+|3%
+|15%
+|-
+|[[File:C_purgatory_glitch.png|36px]]
+|Purgatory-21+
+|Glitch
+|Black Crystal Bonus
+|2%
+|10%
+|-
+|[[File:20_-_Terminus.png|36px]]
+|LunarIsle-20
+|Terminus
+|Black Crystal Bonus
+|2%
+|10%
+|-
+|[[File:Card_Maelstrom-12.png|36px]]
+|Maelstrom-12
+|Sparky Bob
+|More Asylum Keys (passive)
+|6%
+|30%
+|-
+|[[File:Card_Occulon-X.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Occulon-X.png]]
+|Occulon-3
+|Occulon X
+|More asylum keys (passive)
+|10%
+|50%
+|-
+|[[File:Card_Maelstrom-17.png|36px]]
+|Maelstrom-17
+|Novastrike
+|Pachinko Balls (passive)*
+|2%
+|10%
+|-
+|[[File:Card_Scallius.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Scallius.png]]
+|Scallius-1
+|Scallius
+|Pachinko Balls (passive)*
+|7%
+|35%
+|-
+|[[File:Card_Maelstrom-24.png|36px]]
+|Maelstrom-24
+|Keymaster O
+|More Kills
+|10%
+|50%
+|-
+|[[File:Card_IncarnateA.png|36px]]
+|Oblivion-23
+|Incarnate A
+|More Kills
+|30%
+|150%
+|-
+|[[File:Card_Goshank-Z.png|36px|link=https://idle-skilling.fandom.com/wiki/File:Card_Goshank-Z.png]]
+|Gorshank-15
+|Gorshank Z
+|More Kills
+|50%
+|250%
+|-
+|[[File:Card_Statue.png|36px]]
+|FallEvent-1
+|Statue
+|Pet Damage (passive)*
+|2%
+|10%
+|-
+|[[File:Card_MinuteCandy.png|36px]]
+|FallEvent-2
+|Minute Candy
+|Hoops Max Gems (passive)*
+|2
+|10
+|-
+|[[File:Card_GoldCandy.png|36px]]
+|FallEvent-3
+|Gold Candy
+|Crypt Rewards (passive)*
+|3%
+|15%
+|-
+|[[File:C_Loockey.png|36px]]
+|Crus.TheBog-1
+|Loockey
+|Potion Brewing Spd
+|8%
+|40%
+|-
+|[[File:Card_GlowPop.png|36px]]
+|Oblivion-3
+|Glow Pop
+|Potion Brewing Spd
+|10%
+|50%
+|-
+|[[File:Card_Putrid.png|36px]]
+|Oblivion-18
+|Putrid
+|Potion Brewing Spd
+|16%
+|80%
+|-
+|[[File:C_Father_Of_All.png|36px]]
+|Crus.LunarIsle-5
+|Father Of All
+|Potion Brewing Spd
+|20%
+|100%
+|-
+|[[File:Card_Tie(Bow).png|36px]]
+|Oblivion-10
+|Tie
+|Asylum Traces Gained (passive)
+|6%
+|30%
+|-
+|[[File:C_Eyefull.png|36px]]
+|Crus.TheBog-3
+|Eyefull
+|Asylum Traces Gained
+|7%
+|35%
+|-
+|[[File:Card_Orpheus.png|36px]]
+|Oblivion-20
+|Orpheus
+|Asylum Traces Gained (passive)
+|9%
+|45%
+|-
+|[[File:Card_Tie(TicToe).png|36px]]
+|Oblivion-15
+|Tie
+|Spelunk Cards Chance
+|4%
+|20%
+|-
+|[[File:Crown.png|36px]]
+|Spelunking-3
+|Crown
+|Spelunk Cards Chance
+|5%
+|25%
+|-
+|[[File:Music_note.png|36px]]
+|Spelunking-8
+|Music Note
+|Spelunk Cards Chance
+|
+|-
+|[[File:Card_IncarnateE.png|36px]]
+|Oblivion-27
+|Incarnate E
+|Spelunk Cards Chance
+|9%
+|45%
+|-
+|[[File:Calming_obol.png|36px]]
+|Spelunking-21
+|Calming Obol
+|Spelunk Cards Chance
+|15%
+|75%
+|-
+|[[File:C_Crapotti.png|36px]]
+|Crus.TheBog-5
+|Crapotti
+|Spelunk Cards Chance
+|15%
+|75%
+|-
+|[[File:Candle.png|36px]]
+|Spelunking-4
+|Candle
+|Builder Speed
+|4%
+|20%
+|-
+|[[File:Card_Vertigo.png|36px]]
+|Oblivion-22
+|Vertigo
+|Builder Speed
+|6%
+|30%
+|-
+|[[File:Geode.png|36px]]
+|Spelunking-19
+|Geode
+|Builder Speed
+|10%
+|50%
+|-
+|[[File:C_Bro_Of_Some.png|36px]]
+|Crus.LunarIsle-4
+|Bro of Some
+|Builder Speed
+|10%
+|50%
+|-
+|[[File:The_mark.png|36px]]
+|Spelunking-27
+|The Mark
+|Builder Speed
+|20%
+|100%
+|-
+|[[File:Card_TeeHee.png|36px]]
+|Oblivion-30+
+|Tee Hee
+|Spelunker Learn Rate
+|6%
+|30%
+|-
+|[[File:C_Wawawoo.png|36px]]
+|Crus.LunarIsle-3
+|Wawawoo
+|Spelunker Learn Rate
+|2%
+|10%
+|-
+|[[File:Heavy_bars.png|36px]]
+|Spelunking-5
+|Heavy Bars
+|Spelunker Learn Rate
+|2%
+|10%
+|-
+|[[File:Frozen_obol.png|36px]]
+|Spelunking-14
+|Frozen Obol
+|Spelunker Learn Rate
+|3%
+|15%
+|-
+|[[File:Cristils.png|36px]]
+|Spelunking-17
+|Cristils
+|Spelunker Learn Rate
+|5%
+|25%
+|-
+|[[File:Temper_obol.png|36px]]
+|Spelunking-28
+|Temper Obol
+|Spelunker Learn Rate
+|10%
+|50%
+|-
+|[[File:C_Slimmle.png|36px]]
+|Crus.LunarIsle-1
+|Slimmle
+|Spelunker Speed
+|5%
+|25%
+|-
+|[[File:Coin.png|36px]]
+|Spelunking-1
+|Coin
+|Spelunker Speed
+|5%
+|25%
+|-
+|[[File:Shrapnel.png|36px]]
+|Spelunking-13
+|Shrapnel
+|Spelunker Speed
+|9%
+|45%
+|-
+|[[File:Leaf_ring.png|36px]]
+|Spelunking-18
+|Leaf Ring
+|Spelunker Speed
+|13%
+|65%
+|-
+|[[File:Prime_meat.png|36px]]
+|Spelunking-24
+|Prime Meat
+|Spelunker Speed
+|20%
+|100%
+|-
+|[[File:Ore_veins.png|36px]]
+|Spelunking-2
+|Ore Veins
+|Spelunking EXP
+|10%
+|50%
+|-
+|[[File:Maybe_soap.png|36px]]
+|Spelunking-10
+|Maybe Soap
+|Spelunking EXP
+|15%
+|75%
+|-
+|[[File:Starlight.png|36px]]
+|Spelunking-6
+|Starlight
+|Rare Treasure Chance
+|8%
+|40%
+|-
+|[[File:Silver_booty.png|36px]]
+|Spelunking-11
+|Silver Booty
+|Rare Treasure Chance
+|20%
+|100%
+|-
+|[[File:Octagox.png|36px]]
+|Spelunking-16
+|Octagox
+|Rare Treasure Chance
+|30%
+|150%
+|-
+|[[File:Blobbish.png|36px]]
+|Spelunking-22
+|Blobbish
+|Rare Treasure Chance
+|50%
+|250%
+|-
+|[[File:Wealth_obol.png|36px]]
+|Spelunking-7
+|Wealth Obol
+|Spelunker Dig Amount
+|6%
+|30%
+|-
+|[[File:Diamond.png|36px]]
+|Spelunking-9
+|Diamond
+|Spelunker Dig Amount
+|12%
+|60%
+|-
+|[[File:Irish_clover.png|36px]]
+|Spelunking-15
+|Irish Clover
+|Spelunker Dig Amount
+|15%
+|75%
+|-
+|[[File:Sigil.png|36px]]
+|Spelunking-26
+|Sigil
+|Spelunker Dig Amount
+|25%
+|125%
+|-
+|[[File:Champ_cup.png|36px]]
+|Spelunking-12
+|Champ Cup
+|Machine Convert Spd
+|6%
+|30%
+|-
+|[[File:C_ruby.png|36px]]
+|Spelunking-23
+|Ruby
+|Machine Convert Spd
+|20%
+|100%
+|-
+|[[File:Iron_throne.png|36px]]
+|Construction-1
+|Iron Throne
+|Construction EXP
+|10%
+|50%
+|-
+|[[File:Chandelier.png|36px]]
+|Construction-2
+|Chandelier
+|Construction EXP
+|20%
+|100%
+|-
+|[[File:Jade.png|36px]]
+|Spelunking-20
+|Jade
+|More Treasures per Bag
+|1
+|2
+|-
+|[[File:Scroll.png|36px]]
+|Spelunking-25
+|Scroll
+|More Treasures per Bag
+|1
+|3
+|}
+</table-progress-tracking>
+[[Category:Cards]]

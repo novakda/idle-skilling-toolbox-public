@@ -1,0 +1,1986 @@
+[
+ {
+  "title": "Ascension",
+  "pageid": 98,
+  "ns": 0,
+  "timestamp": "2022-12-18T02:54:57Z",
+  "categories": [
+   "Portal"
+  ],
+  "raw": "data/wiki/raw/Ascension.wikitext"
+ },
+ {
+  "title": "Desert",
+  "pageid": 113,
+  "ns": 0,
+  "timestamp": "2022-12-18T03:25:08Z",
+  "categories": [
+   "Fighting",
+   "Zone"
+  ],
+  "raw": "data/wiki/raw/Desert.wikitext"
+ },
+ {
+  "title": "Cards",
+  "pageid": 139,
+  "ns": 0,
+  "timestamp": "2022-12-21T22:58:14Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards.wikitext"
+ },
+ {
+  "title": "Dungeon",
+  "pageid": 240,
+  "ns": 0,
+  "timestamp": "2022-12-18T03:23:35Z",
+  "categories": [
+   "Fighting",
+   "Zone"
+  ],
+  "raw": "data/wiki/raw/Dungeon.wikitext"
+ },
+ {
+  "title": "Contracts",
+  "pageid": 449,
+  "ns": 0,
+  "timestamp": "2025-06-26T16:22:10Z",
+  "categories": [
+   "Limbo"
+  ],
+  "raw": "data/wiki/raw/Contracts.wikitext"
+ },
+ {
+  "title": "Crafting",
+  "pageid": 452,
+  "ns": 0,
+  "timestamp": "2019-10-06T05:27:09Z",
+  "categories": [
+   "Crafting"
+  ],
+  "raw": "data/wiki/raw/Crafting.wikitext"
+ },
+ {
+  "title": "Crusades",
+  "pageid": 485,
+  "ns": 0,
+  "timestamp": "2025-08-22T20:01:16Z",
+  "categories": [
+   "Cards",
+   "Crusades"
+  ],
+  "raw": "data/wiki/raw/Crusades.wikitext"
+ },
+ {
+  "title": "Boosters",
+  "pageid": 503,
+  "ns": 0,
+  "timestamp": "2022-12-20T02:24:52Z",
+  "categories": [
+   "Crusades"
+  ],
+  "raw": "data/wiki/raw/Boosters.wikitext"
+ },
+ {
+  "title": "Botany",
+  "pageid": 1173,
+  "ns": 0,
+  "timestamp": "2023-08-27T16:04:36Z",
+  "categories": [
+   "Cards",
+   "Farming"
+  ],
+  "raw": "data/wiki/raw/Botany.wikitext"
+ },
+ {
+  "title": "Apothecary",
+  "pageid": 1183,
+  "ns": 0,
+  "timestamp": "2024-05-07T09:28:26Z",
+  "categories": [
+   "Cards",
+   "Farming"
+  ],
+  "raw": "data/wiki/raw/Apothecary.wikitext"
+ },
+ {
+  "title": "Cards/Grasslands",
+  "pageid": 1697,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:30:45Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Grasslands.wikitext"
+ },
+ {
+  "title": "Cards/Desert",
+  "pageid": 1698,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:31:05Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Desert.wikitext"
+ },
+ {
+  "title": "Cards/Mountains",
+  "pageid": 1699,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:26:38Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Mountains.wikitext"
+ },
+ {
+  "title": "Cards/Dungeon",
+  "pageid": 1700,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:25:09Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Dungeon.wikitext"
+ },
+ {
+  "title": "Asylum",
+  "pageid": 1704,
+  "ns": 0,
+  "timestamp": "2024-04-18T19:11:46Z",
+  "categories": [
+   "Cards",
+   "Portal"
+  ],
+  "raw": "data/wiki/raw/Asylum.wikitext"
+ },
+ {
+  "title": "Cards/The Mist",
+  "pageid": 1706,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:30:23Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_The_Mist.wikitext"
+ },
+ {
+  "title": "Cards/Purgatory",
+  "pageid": 1707,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:30:26Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Purgatory.wikitext"
+ },
+ {
+  "title": "Cards/The Bog",
+  "pageid": 1708,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:30:30Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_The_Bog.wikitext"
+ },
+ {
+  "title": "Cards/Lunar Isle",
+  "pageid": 1709,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:25:23Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Lunar_Isle.wikitext"
+ },
+ {
+  "title": "Cards/Graphic View",
+  "pageid": 1713,
+  "ns": 0,
+  "timestamp": "2020-01-20T23:58:21Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Graphic_View.wikitext"
+ },
+ {
+  "title": "Cards/Events",
+  "pageid": 1715,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:25:17Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Events.wikitext"
+ },
+ {
+  "title": "Cards/Raid Bosses",
+  "pageid": 1716,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:30:32Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Raid_Bosses.wikitext"
+ },
+ {
+  "title": "Arcade",
+  "pageid": 1717,
+  "ns": 0,
+  "timestamp": "2026-02-21T20:44:18Z",
+  "categories": [
+   "Arcade",
+   "Citation needed",
+   "Events",
+   "Gem Shop"
+  ],
+  "raw": "data/wiki/raw/Arcade.wikitext"
+ },
+ {
+  "title": "Cards/By Bonus",
+  "pageid": 1718,
+  "ns": 0,
+  "timestamp": "2025-08-23T01:40:30Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_By_Bonus.wikitext"
+ },
+ {
+  "title": "Cards/Crusades",
+  "pageid": 1719,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:21:54Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Crusades.wikitext"
+ },
+ {
+  "title": "Cards/Tilling",
+  "pageid": 1720,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:30:38Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Tilling.wikitext"
+ },
+ {
+  "title": "Cards/Apothecary",
+  "pageid": 1721,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:21:24Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Apothecary.wikitext"
+ },
+ {
+  "title": "Cards/Botany",
+  "pageid": 1722,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:30:42Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Botany.wikitext"
+ },
+ {
+  "title": "Cards/Asylum Bosses",
+  "pageid": 1736,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:30:35Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Asylum_Bosses.wikitext"
+ },
+ {
+  "title": "Cards/Maelstrom",
+  "pageid": 1757,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:26:33Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Maelstrom.wikitext"
+ },
+ {
+  "title": "Cards/Crusades Rates",
+  "pageid": 2004,
+  "ns": 0,
+  "timestamp": "2019-07-22T01:09:27Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Cards_Crusades_Rates.wikitext"
+ },
+ {
+  "title": "Crusades/Grasslands",
+  "pageid": 2005,
+  "ns": 0,
+  "timestamp": "2020-02-07T11:30:53Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Crusades_Grasslands.wikitext"
+ },
+ {
+  "title": "Crusades/Desert",
+  "pageid": 2006,
+  "ns": 0,
+  "timestamp": "2020-02-07T11:30:13Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Crusades_Desert.wikitext"
+ },
+ {
+  "title": "Crusades/Mountains",
+  "pageid": 2007,
+  "ns": 0,
+  "timestamp": "2020-02-07T11:29:30Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Crusades_Mountains.wikitext"
+ },
+ {
+  "title": "Crusades/The Mist",
+  "pageid": 2008,
+  "ns": 0,
+  "timestamp": "2020-02-07T11:31:19Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Crusades_The_Mist.wikitext"
+ },
+ {
+  "title": "Crusades/Dungeons",
+  "pageid": 2009,
+  "ns": 0,
+  "timestamp": "2020-02-07T11:30:32Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Crusades_Dungeons.wikitext"
+ },
+ {
+  "title": "Dairy Aisle",
+  "pageid": 2054,
+  "ns": 0,
+  "timestamp": "2024-05-06T11:54:40Z",
+  "categories": [
+   "Portal"
+  ],
+  "raw": "data/wiki/raw/Dairy_Aisle.wikitext"
+ },
+ {
+  "title": "Crypt",
+  "pageid": 2190,
+  "ns": 0,
+  "timestamp": "2020-09-07T14:43:34Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Crypt.wikitext"
+ },
+ {
+  "title": "Builds",
+  "pageid": 2446,
+  "ns": 0,
+  "timestamp": "2021-04-20T21:45:39Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Builds.wikitext"
+ },
+ {
+  "title": "Builds/Mining",
+  "pageid": 2447,
+  "ns": 0,
+  "timestamp": "2019-10-11T18:28:14Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Builds_Mining.wikitext"
+ },
+ {
+  "title": "Builds/Apothecary",
+  "pageid": 2448,
+  "ns": 0,
+  "timestamp": "2019-10-11T18:27:58Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Builds_Apothecary.wikitext"
+ },
+ {
+  "title": "Builds/Trekking",
+  "pageid": 2449,
+  "ns": 0,
+  "timestamp": "2019-10-11T19:10:24Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Builds_Trekking.wikitext"
+ },
+ {
+  "title": "Changelog",
+  "pageid": 2457,
+  "ns": 0,
+  "timestamp": "2019-10-12T00:25:13Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Changelog.wikitext"
+ },
+ {
+  "title": "Crystals",
+  "pageid": 2472,
+  "ns": 0,
+  "timestamp": "2022-10-26T21:43:15Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Crystals.wikitext"
+ },
+ {
+  "title": "Crystals/Mining",
+  "pageid": 2473,
+  "ns": 0,
+  "timestamp": "2019-10-14T00:01:01Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Crystals_Mining.wikitext"
+ },
+ {
+  "title": "Crystals/Apothecary",
+  "pageid": 2474,
+  "ns": 0,
+  "timestamp": "2019-10-13T23:57:59Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Crystals_Apothecary.wikitext"
+ },
+ {
+  "title": "Construction",
+  "pageid": 2634,
+  "ns": 0,
+  "timestamp": "2024-02-06T16:18:58Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Construction.wikitext"
+ },
+ {
+  "title": "Cards/Oblivion",
+  "pageid": 2653,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:26:41Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Oblivion.wikitext"
+ },
+ {
+  "title": "Cards/Spelunking",
+  "pageid": 2681,
+  "ns": 0,
+  "timestamp": "2025-08-23T21:26:44Z",
+  "categories": [
+   "Cards"
+  ],
+  "raw": "data/wiki/raw/Cards_Spelunking.wikitext"
+ },
+ {
+  "title": "Crusades/Voyage Pact",
+  "pageid": 3410,
+  "ns": 0,
+  "timestamp": "2020-08-31T21:11:44Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Crusades_Voyage_Pact.wikitext"
+ },
+ {
+  "title": "Idle Skilling Wiki",
+  "pageid": 4,
+  "ns": 0,
+  "timestamp": "2025-03-29T05:37:54Z",
+  "categories": [
+   "Idle Skilling Wiki"
+  ],
+  "raw": "data/wiki/raw/Idle_Skilling_Wiki.wikitext"
+ },
+ {
+  "title": "Main Page",
+  "pageid": 81,
+  "ns": 0,
+  "timestamp": "2018-11-06T14:55:10Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Main_Page.wikitext"
+ },
+ {
+  "title": "Fight",
+  "pageid": 86,
+  "ns": 0,
+  "timestamp": "2023-11-09T00:25:21Z",
+  "categories": [
+   "Fighting"
+  ],
+  "raw": "data/wiki/raw/Fight.wikitext"
+ },
+ {
+  "title": "Perks",
+  "pageid": 87,
+  "ns": 0,
+  "timestamp": "2022-06-24T08:51:57Z",
+  "categories": [
+   "Perks"
+  ],
+  "raw": "data/wiki/raw/Perks.wikitext"
+ },
+ {
+  "title": "Skill tree",
+  "pageid": 88,
+  "ns": 0,
+  "timestamp": "2022-10-19T21:52:00Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Skill_tree.wikitext"
+ },
+ {
+  "title": "Mining",
+  "pageid": 97,
+  "ns": 0,
+  "timestamp": "2020-11-18T21:04:49Z",
+  "categories": [
+   "Crafting"
+  ],
+  "raw": "data/wiki/raw/Mining.wikitext"
+ },
+ {
+  "title": "Fishing",
+  "pageid": 100,
+  "ns": 0,
+  "timestamp": "2022-11-20T12:13:05Z",
+  "categories": [
+   "Crafting"
+  ],
+  "raw": "data/wiki/raw/Fishing.wikitext"
+ },
+ {
+  "title": "Smithing",
+  "pageid": 102,
+  "ns": 0,
+  "timestamp": "2023-06-14T11:07:30Z",
+  "categories": [
+   "Crafting",
+   "Smithing"
+  ],
+  "raw": "data/wiki/raw/Smithing.wikitext"
+ },
+ {
+  "title": "Raids",
+  "pageid": 103,
+  "ns": 0,
+  "timestamp": "2024-05-22T17:52:50Z",
+  "categories": [
+   "Portal"
+  ],
+  "raw": "data/wiki/raw/Raids.wikitext"
+ },
+ {
+  "title": "Gem Shop",
+  "pageid": 104,
+  "ns": 0,
+  "timestamp": "2024-05-11T18:11:07Z",
+  "categories": [
+   "Gem Shop"
+  ],
+  "raw": "data/wiki/raw/Gem_Shop.wikitext"
+ },
+ {
+  "title": "Grasslands",
+  "pageid": 109,
+  "ns": 0,
+  "timestamp": "2022-12-18T03:25:19Z",
+  "categories": [
+   "Fighting",
+   "Zone"
+  ],
+  "raw": "data/wiki/raw/Grasslands.wikitext"
+ },
+ {
+  "title": "Mountains",
+  "pageid": 114,
+  "ns": 0,
+  "timestamp": "2022-12-18T03:24:58Z",
+  "categories": [
+   "Fighting",
+   "Zone"
+  ],
+  "raw": "data/wiki/raw/Mountains.wikitext"
+ },
+ {
+  "title": "Limbo",
+  "pageid": 253,
+  "ns": 0,
+  "timestamp": "2019-10-06T05:29:33Z",
+  "categories": [
+   "Limbo"
+  ],
+  "raw": "data/wiki/raw/Limbo.wikitext"
+ },
+ {
+  "title": "Secrets",
+  "pageid": 403,
+  "ns": 0,
+  "timestamp": "2026-02-21T19:00:58Z",
+  "categories": [
+   "Portal",
+   "Secrets"
+  ],
+  "raw": "data/wiki/raw/Secrets.wikitext"
+ },
+ {
+  "title": "Portal",
+  "pageid": 451,
+  "ns": 0,
+  "timestamp": "2022-11-28T14:53:16Z",
+  "categories": [
+   "Portal"
+  ],
+  "raw": "data/wiki/raw/Portal.wikitext"
+ },
+ {
+  "title": "Events",
+  "pageid": 474,
+  "ns": 0,
+  "timestamp": "2022-10-22T00:51:52Z",
+  "categories": [
+   "Events"
+  ],
+  "raw": "data/wiki/raw/Events.wikitext"
+ },
+ {
+  "title": "Gems",
+  "pageid": 475,
+  "ns": 0,
+  "timestamp": "2019-01-04T02:37:41Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Gems.wikitext"
+ },
+ {
+  "title": "Perks tree",
+  "pageid": 1018,
+  "ns": 0,
+  "timestamp": "2019-01-16T09:34:34Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Perks_tree.wikitext"
+ },
+ {
+  "title": "Purgatory",
+  "pageid": 1342,
+  "ns": 0,
+  "timestamp": "2023-01-22T00:32:27Z",
+  "categories": [
+   "Fighting",
+   "Zone"
+  ],
+  "raw": "data/wiki/raw/Purgatory.wikitext"
+ },
+ {
+  "title": "Farming",
+  "pageid": 1485,
+  "ns": 0,
+  "timestamp": "2019-03-10T14:03:41Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Farming.wikitext"
+ },
+ {
+  "title": "Lunar Isle",
+  "pageid": 1561,
+  "ns": 0,
+  "timestamp": "2022-12-18T03:21:25Z",
+  "categories": [
+   "Fighting",
+   "Zone"
+  ],
+  "raw": "data/wiki/raw/Lunar_Isle.wikitext"
+ },
+ {
+  "title": "Lunar Isles",
+  "pageid": 1564,
+  "ns": 0,
+  "timestamp": "2019-04-11T20:47:22Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Lunar_Isles.wikitext"
+ },
+ {
+  "title": "Maelstrom",
+  "pageid": 1804,
+  "ns": 0,
+  "timestamp": "2022-12-18T03:21:13Z",
+  "categories": [
+   "Fighting",
+   "Zone"
+  ],
+  "raw": "data/wiki/raw/Maelstrom.wikitext"
+ },
+ {
+  "title": "Pachinko",
+  "pageid": 1818,
+  "ns": 0,
+  "timestamp": "2019-07-04T15:37:41Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Pachinko.wikitext"
+ },
+ {
+  "title": "Rebirth",
+  "pageid": 1823,
+  "ns": 0,
+  "timestamp": "2022-12-21T17:16:27Z",
+  "categories": [
+   "Portal"
+  ],
+  "raw": "data/wiki/raw/Rebirth.wikitext"
+ },
+ {
+  "title": "Pets",
+  "pageid": 2050,
+  "ns": 0,
+  "timestamp": "2019-10-14T00:05:09Z",
+  "categories": [
+   "Pets"
+  ],
+  "raw": "data/wiki/raw/Pets.wikitext"
+ },
+ {
+  "title": "Hatchery",
+  "pageid": 2051,
+  "ns": 0,
+  "timestamp": "2025-09-10T22:12:46Z",
+  "categories": [
+   "Pets"
+  ],
+  "raw": "data/wiki/raw/Hatchery.wikitext"
+ },
+ {
+  "title": "Research",
+  "pageid": 2053,
+  "ns": 0,
+  "timestamp": "2024-03-24T15:11:55Z",
+  "categories": [
+   "Pets"
+  ],
+  "raw": "data/wiki/raw/Research.wikitext"
+ },
+ {
+  "title": "Oblivion",
+  "pageid": 2056,
+  "ns": 0,
+  "timestamp": "2022-12-18T03:30:38Z",
+  "categories": [
+   "Fighting",
+   "Zone"
+  ],
+  "raw": "data/wiki/raw/Oblivion.wikitext"
+ },
+ {
+  "title": "Header/Pets",
+  "pageid": 2440,
+  "ns": 0,
+  "timestamp": "2019-10-06T05:24:32Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Header_Pets.wikitext"
+ },
+ {
+  "title": "Header/Crafting",
+  "pageid": 2441,
+  "ns": 0,
+  "timestamp": "2019-10-06T05:27:45Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Header_Crafting.wikitext"
+ },
+ {
+  "title": "Header/Limbo",
+  "pageid": 2442,
+  "ns": 0,
+  "timestamp": "2019-10-06T05:29:12Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Header_Limbo.wikitext"
+ },
+ {
+  "title": "Header/Crusades",
+  "pageid": 2444,
+  "ns": 0,
+  "timestamp": "2019-10-06T05:35:35Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Header_Crusades.wikitext"
+ },
+ {
+  "title": "Header/Farming",
+  "pageid": 2445,
+  "ns": 0,
+  "timestamp": "2019-10-06T05:38:32Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Header_Farming.wikitext"
+ },
+ {
+  "title": "Mastery",
+  "pageid": 2483,
+  "ns": 0,
+  "timestamp": "2025-06-26T17:11:55Z",
+  "categories": [
+   "Portal"
+  ],
+  "raw": "data/wiki/raw/Mastery.wikitext"
+ },
+ {
+  "title": "Smithing/Novice",
+  "pageid": 2669,
+  "ns": 0,
+  "timestamp": "2022-10-19T21:59:52Z",
+  "categories": [
+   "Smithing"
+  ],
+  "raw": "data/wiki/raw/Smithing_Novice.wikitext"
+ },
+ {
+  "title": "Smithing/Adept",
+  "pageid": 2671,
+  "ns": 0,
+  "timestamp": "2022-10-19T22:01:41Z",
+  "categories": [
+   "Smithing"
+  ],
+  "raw": "data/wiki/raw/Smithing_Adept.wikitext"
+ },
+ {
+  "title": "Smithing/Master",
+  "pageid": 2673,
+  "ns": 0,
+  "timestamp": "2022-10-19T22:00:21Z",
+  "categories": [
+   "Smithing"
+  ],
+  "raw": "data/wiki/raw/Smithing_Master.wikitext"
+ },
+ {
+  "title": "Smithing/Legend",
+  "pageid": 2674,
+  "ns": 0,
+  "timestamp": "2022-10-19T22:01:06Z",
+  "categories": [
+   "Smithing"
+  ],
+  "raw": "data/wiki/raw/Smithing_Legend.wikitext"
+ },
+ {
+  "title": "Smithing/Godly",
+  "pageid": 2675,
+  "ns": 0,
+  "timestamp": "2022-10-19T22:01:28Z",
+  "categories": [
+   "Smithing"
+  ],
+  "raw": "data/wiki/raw/Smithing_Godly.wikitext"
+ },
+ {
+  "title": "Smithing/Djinnic",
+  "pageid": 2677,
+  "ns": 0,
+  "timestamp": "2022-10-19T22:01:47Z",
+  "categories": [
+   "Smithing"
+  ],
+  "raw": "data/wiki/raw/Smithing_Djinnic.wikitext"
+ },
+ {
+  "title": "Smithing/Gaxial",
+  "pageid": 2679,
+  "ns": 0,
+  "timestamp": "2022-10-24T03:21:43Z",
+  "categories": [
+   "Smithing"
+  ],
+  "raw": "data/wiki/raw/Smithing_Gaxial.wikitext"
+ },
+ {
+  "title": "Smithing/Galaxial",
+  "pageid": 2680,
+  "ns": 0,
+  "timestamp": "2020-01-04T11:47:53Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Smithing_Galaxial.wikitext"
+ },
+ {
+  "title": "Header/Tunneling",
+  "pageid": 2911,
+  "ns": 0,
+  "timestamp": "2020-01-07T19:05:00Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Header_Tunneling.wikitext"
+ },
+ {
+  "title": "Hoops",
+  "pageid": 3694,
+  "ns": 0,
+  "timestamp": "2024-05-06T03:00:35Z",
+  "categories": [
+   "Portal",
+   "Secrets"
+  ],
+  "raw": "data/wiki/raw/Hoops.wikitext"
+ },
+ {
+  "title": "Resources",
+  "pageid": 3720,
+  "ns": 0,
+  "timestamp": "2022-11-02T21:09:08Z",
+  "categories": [
+   "Resources"
+  ],
+  "raw": "data/wiki/raw/Resources.wikitext"
+ },
+ {
+  "title": "Realm",
+  "pageid": 3723,
+  "ns": 0,
+  "timestamp": "2025-12-21T11:42:15Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Realm.wikitext"
+ },
+ {
+  "title": "Idle Skilling Wiki/Community Resources",
+  "pageid": 3727,
+  "ns": 0,
+  "timestamp": "2025-06-19T18:22:56Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Idle_Skilling_Wiki_Community_Resources.wikitext"
+ },
+ {
+  "title": "Lord's Lair",
+  "pageid": 3986,
+  "ns": 0,
+  "timestamp": "2023-11-18T14:11:03Z",
+  "categories": [
+   "Portal"
+  ],
+  "raw": "data/wiki/raw/Lord's_Lair.wikitext"
+ },
+ {
+  "title": "Idle Skilling Staff",
+  "pageid": 4015,
+  "ns": 0,
+  "timestamp": "2023-09-07T01:35:22Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Idle_Skilling_Staff.wikitext"
+ },
+ {
+  "title": "Template:Fairuse",
+  "pageid": 6,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Fairuse.wikitext"
+ },
+ {
+  "title": "Template:Cc-by-sa-3.0",
+  "pageid": 17,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Cc-by-sa-3.0.wikitext"
+ },
+ {
+  "title": "Template:Documentation",
+  "pageid": 19,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation",
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Documentation.wikitext"
+ },
+ {
+  "title": "Template:Documentation/doc",
+  "pageid": 21,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Documentation_doc.wikitext"
+ },
+ {
+  "title": "Template:Fairuse/doc",
+  "pageid": 24,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Fairuse_doc.wikitext"
+ },
+ {
+  "title": "Template:Cc-by-sa-3.0/doc",
+  "pageid": 27,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Cc-by-sa-3.0_doc.wikitext"
+ },
+ {
+  "title": "Template:!",
+  "pageid": 39,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_!.wikitext"
+ },
+ {
+  "title": "Template:!/doc",
+  "pageid": 40,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_!_doc.wikitext"
+ },
+ {
+  "title": "Template:CC-BY-SA",
+  "pageid": 42,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_CC-BY-SA.wikitext"
+ },
+ {
+  "title": "Template:CC-BY-SA/doc",
+  "pageid": 45,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_CC-BY-SA_doc.wikitext"
+ },
+ {
+  "title": "Template:From Wikimedia",
+  "pageid": 46,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_From_Wikimedia.wikitext"
+ },
+ {
+  "title": "Template:From Wikimedia/doc",
+  "pageid": 47,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_From_Wikimedia_doc.wikitext"
+ },
+ {
+  "title": "Template:Delete/doc",
+  "pageid": 48,
+  "ns": 10,
+  "timestamp": "2022-11-14T04:12:44Z",
+  "categories": [
+   "Templates using docparam"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Delete_doc.wikitext"
+ },
+ {
+  "title": "Template:Delete",
+  "pageid": 49,
+  "ns": 10,
+  "timestamp": "2022-11-14T04:11:41Z",
+  "categories": [
+   "Page management templates",
+   "Pages with script errors",
+   "Templates using docparam"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Delete.wikitext"
+ },
+ {
+  "title": "Template:Disambig/doc",
+  "pageid": 50,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Disambig_doc.wikitext"
+ },
+ {
+  "title": "Template:Disambig",
+  "pageid": 51,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Disambig.wikitext"
+ },
+ {
+  "title": "Template:Infobox album/doc",
+  "pageid": 64,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Albums",
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_album_doc.wikitext"
+ },
+ {
+  "title": "Template:Infobox album",
+  "pageid": 65,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Albums",
+   "Templates",
+   "Templates/Infobox"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_album.wikitext"
+ },
+ {
+  "title": "Template:!!",
+  "pageid": 73,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_!!.wikitext"
+ },
+ {
+  "title": "Template:!!/doc",
+  "pageid": 74,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_!!_doc.wikitext"
+ },
+ {
+  "title": "Train",
+  "pageid": 85,
+  "ns": 0,
+  "timestamp": "2022-10-16T18:51:15Z",
+  "categories": [
+   "Train"
+  ],
+  "raw": "data/wiki/raw/Train.wikitext"
+ },
+ {
+  "title": "The Mist",
+  "pageid": 115,
+  "ns": 0,
+  "timestamp": "2022-12-18T03:23:53Z",
+  "categories": [
+   "Fighting",
+   "Zone"
+  ],
+  "raw": "data/wiki/raw/The_Mist.wikitext"
+ },
+ {
+  "title": "Vault",
+  "pageid": 241,
+  "ns": 0,
+  "timestamp": "2023-01-21T09:54:35Z",
+  "categories": [
+   "Fighting",
+   "Zone"
+  ],
+  "raw": "data/wiki/raw/Vault.wikitext"
+ },
+ {
+  "title": "Spiriting",
+  "pageid": 453,
+  "ns": 0,
+  "timestamp": "2019-10-06T05:29:40Z",
+  "categories": [
+   "Limbo"
+  ],
+  "raw": "data/wiki/raw/Spiriting.wikitext"
+ },
+ {
+  "title": "Summoning",
+  "pageid": 454,
+  "ns": 0,
+  "timestamp": "2020-02-06T04:19:08Z",
+  "categories": [
+   "Limbo"
+  ],
+  "raw": "data/wiki/raw/Summoning.wikitext"
+ },
+ {
+  "title": "Tinkering",
+  "pageid": 502,
+  "ns": 0,
+  "timestamp": "2022-10-29T18:01:39Z",
+  "categories": [
+   "Crusades"
+  ],
+  "raw": "data/wiki/raw/Tinkering.wikitext"
+ },
+ {
+  "title": "Tilling",
+  "pageid": 1190,
+  "ns": 0,
+  "timestamp": "2020-01-31T13:56:12Z",
+  "categories": [
+   "Cards",
+   "Farming"
+  ],
+  "raw": "data/wiki/raw/Tilling.wikitext"
+ },
+ {
+  "title": "The Bog",
+  "pageid": 1343,
+  "ns": 0,
+  "timestamp": "2022-12-18T03:23:07Z",
+  "categories": [
+   "Fighting",
+   "Zone"
+  ],
+  "raw": "data/wiki/raw/The_Bog.wikitext"
+ },
+ {
+  "title": "The Lunar Isles",
+  "pageid": 1563,
+  "ns": 0,
+  "timestamp": "2022-10-19T21:52:02Z",
+  "categories": [],
+  "raw": "data/wiki/raw/The_Lunar_Isles.wikitext"
+ },
+ {
+  "title": "Trekking",
+  "pageid": 2052,
+  "ns": 0,
+  "timestamp": "2025-04-20T19:11:51Z",
+  "categories": [
+   "Pets"
+  ],
+  "raw": "data/wiki/raw/Trekking.wikitext"
+ },
+ {
+  "title": "Tunnels",
+  "pageid": 2632,
+  "ns": 0,
+  "timestamp": "2019-12-28T17:03:15Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Tunnels.wikitext"
+ },
+ {
+  "title": "Spelunking",
+  "pageid": 2633,
+  "ns": 0,
+  "timestamp": "2023-01-18T15:57:11Z",
+  "categories": [
+   "Tunneling"
+  ],
+  "raw": "data/wiki/raw/Spelunking.wikitext"
+ },
+ {
+  "title": "Smithing/Trainee",
+  "pageid": 2668,
+  "ns": 0,
+  "timestamp": "2022-10-19T21:58:57Z",
+  "categories": [
+   "Smithing"
+  ],
+  "raw": "data/wiki/raw/Smithing_Trainee.wikitext"
+ },
+ {
+  "title": "Smithing/Skilled",
+  "pageid": 2670,
+  "ns": 0,
+  "timestamp": "2022-10-19T21:59:45Z",
+  "categories": [
+   "Smithing"
+  ],
+  "raw": "data/wiki/raw/Smithing_Skilled.wikitext"
+ },
+ {
+  "title": "Smithing/Virtuo",
+  "pageid": 2672,
+  "ns": 0,
+  "timestamp": "2022-10-19T21:59:34Z",
+  "categories": [
+   "Smithing"
+  ],
+  "raw": "data/wiki/raw/Smithing_Virtuo.wikitext"
+ },
+ {
+  "title": "Smithing/Warped",
+  "pageid": 2676,
+  "ns": 0,
+  "timestamp": "2022-10-19T21:58:33Z",
+  "categories": [
+   "Smithing"
+  ],
+  "raw": "data/wiki/raw/Smithing_Warped.wikitext"
+ },
+ {
+  "title": "Smithing/Zaqqic",
+  "pageid": 2678,
+  "ns": 0,
+  "timestamp": "2022-10-24T03:16:20Z",
+  "categories": [
+   "Smithing"
+  ],
+  "raw": "data/wiki/raw/Smithing_Zaqqic.wikitext"
+ },
+ {
+  "title": "Template:Header/Tunneling",
+  "pageid": 2910,
+  "ns": 10,
+  "timestamp": "2020-01-08T11:14:31Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Template__Template_Header_Tunneling.wikitext"
+ },
+ {
+  "title": "Template:FP icon",
+  "pageid": 3701,
+  "ns": 10,
+  "timestamp": "2022-06-19T01:37:18Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Template__Template_FP_icon.wikitext"
+ },
+ {
+  "title": "Template:Clear",
+  "pageid": 3702,
+  "ns": 10,
+  "timestamp": "2022-06-19T02:11:35Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Template__Template_Clear.wikitext"
+ },
+ {
+  "title": "Template:Docparam",
+  "pageid": 3991,
+  "ns": 10,
+  "timestamp": "2022-11-14T03:12:38Z",
+  "categories": [
+   "Templates using docparam"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Docparam.wikitext"
+ },
+ {
+  "title": "Template:Color",
+  "pageid": 3994,
+  "ns": 10,
+  "timestamp": "2022-11-14T03:19:55Z",
+  "categories": [
+   "Formatting templates",
+   "Templates using docparam"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Color.wikitext"
+ },
+ {
+  "title": "Template:Color/doc",
+  "pageid": 3995,
+  "ns": 10,
+  "timestamp": "2022-11-14T03:21:28Z",
+  "categories": [
+   "Templates using docparam"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Color_doc.wikitext"
+ },
+ {
+  "title": "Template:Icon",
+  "pageid": 3996,
+  "ns": 10,
+  "timestamp": "2022-11-14T03:22:32Z",
+  "categories": [
+   "Image and media templates",
+   "Pages with broken file links"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Icon.wikitext"
+ },
+ {
+  "title": "Template:Icon/doc",
+  "pageid": 3997,
+  "ns": 10,
+  "timestamp": "2022-11-14T03:23:41Z",
+  "categories": [
+   "Pages with broken file links"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Icon_doc.wikitext"
+ },
+ {
+  "title": "Template:Docparam/doc",
+  "pageid": 4000,
+  "ns": 10,
+  "timestamp": "2022-11-14T03:27:24Z",
+  "categories": [
+   "Templates using docparam"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Docparam_doc.wikitext"
+ },
+ {
+  "title": "Template:Abb",
+  "pageid": 4004,
+  "ns": 10,
+  "timestamp": "2022-11-14T04:04:25Z",
+  "categories": [
+   "Abbreviation templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Abb.wikitext"
+ },
+ {
+  "title": "Template:Abb/doc",
+  "pageid": 4005,
+  "ns": 10,
+  "timestamp": "2022-11-14T03:59:07Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Template__Template_Abb_doc.wikitext"
+ },
+ {
+  "title": "Template:Citation needed",
+  "pageid": 4028,
+  "ns": 10,
+  "timestamp": "2023-01-11T23:05:46Z",
+  "categories": [
+   "Page management templates",
+   "Templates using docparam"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Citation_needed.wikitext"
+ },
+ {
+  "title": "Template:Citation needed/doc",
+  "pageid": 4029,
+  "ns": 10,
+  "timestamp": "2023-01-11T23:06:13Z",
+  "categories": [
+   "Templates using docparam"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Citation_needed_doc.wikitext"
+ },
+ {
+  "title": "Category:Browse",
+  "pageid": 3,
+  "ns": 14,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Category__Category_Browse.wikitext"
+ },
+ {
+  "title": "Template:PD",
+  "pageid": 5,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_PD.wikitext"
+ },
+ {
+  "title": "Template:Permission",
+  "pageid": 13,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Permission.wikitext"
+ },
+ {
+  "title": "Template:Self",
+  "pageid": 14,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Self.wikitext"
+ },
+ {
+  "title": "Category:Template documentation",
+  "pageid": 20,
+  "ns": 14,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Category__Category_Template_documentation.wikitext"
+ },
+ {
+  "title": "Template:T/doc",
+  "pageid": 22,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_T_doc.wikitext"
+ },
+ {
+  "title": "Template:T/piece/doc",
+  "pageid": 23,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_T_piece_doc.wikitext"
+ },
+ {
+  "title": "Template:Permission/doc",
+  "pageid": 25,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Permission_doc.wikitext"
+ },
+ {
+  "title": "Template:Self/doc",
+  "pageid": 26,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Self_doc.wikitext"
+ },
+ {
+  "title": "Template:PD/doc",
+  "pageid": 28,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_PD_doc.wikitext"
+ },
+ {
+  "title": "Template:T",
+  "pageid": 37,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_T.wikitext"
+ },
+ {
+  "title": "Template:T/piece",
+  "pageid": 38,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_T_piece.wikitext"
+ },
+ {
+  "title": "Template:Other free",
+  "pageid": 43,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Other_free.wikitext"
+ },
+ {
+  "title": "Template:Other free/doc",
+  "pageid": 44,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Other_free_doc.wikitext"
+ },
+ {
+  "title": "Template:Infobox book/doc",
+  "pageid": 52,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Books",
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_book_doc.wikitext"
+ },
+ {
+  "title": "Template:Infobox episode/doc",
+  "pageid": 53,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Episodes",
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_episode_doc.wikitext"
+ },
+ {
+  "title": "Template:Infobox book",
+  "pageid": 54,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Books",
+   "Templates",
+   "Templates/Infobox"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_book.wikitext"
+ },
+ {
+  "title": "Template:Infobox episode",
+  "pageid": 55,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Episodes",
+   "Templates",
+   "Templates/Infobox"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_episode.wikitext"
+ },
+ {
+  "title": "Template:Infobox quest/doc",
+  "pageid": 56,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Quests",
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_quest_doc.wikitext"
+ },
+ {
+  "title": "Template:Infobox item/doc",
+  "pageid": 57,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Items",
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_item_doc.wikitext"
+ },
+ {
+  "title": "Template:Infobox item",
+  "pageid": 58,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Items",
+   "Templates",
+   "Templates/Infobox"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_item.wikitext"
+ },
+ {
+  "title": "Template:Infobox quest",
+  "pageid": 59,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Quests",
+   "Templates",
+   "Templates/Infobox"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_quest.wikitext"
+ },
+ {
+  "title": "Template:Infobox character/doc",
+  "pageid": 60,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Characters",
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_character_doc.wikitext"
+ },
+ {
+  "title": "Template:Infobox location/doc",
+  "pageid": 61,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Locations",
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_location_doc.wikitext"
+ },
+ {
+  "title": "Template:Infobox location",
+  "pageid": 62,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Locations",
+   "Templates",
+   "Templates/Infobox"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_location.wikitext"
+ },
+ {
+  "title": "Template:Infobox character",
+  "pageid": 63,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Characters",
+   "Templates",
+   "Templates/Infobox"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_character.wikitext"
+ },
+ {
+  "title": "Template:Navbox/doc",
+  "pageid": 66,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Navbox_doc.wikitext"
+ },
+ {
+  "title": "Template:Navbox",
+  "pageid": 67,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates",
+   "Templates/Navbox"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Navbox.wikitext"
+ },
+ {
+  "title": "Category:Candidates for deletion",
+  "pageid": 68,
+  "ns": 14,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Browse"
+  ],
+  "raw": "data/wiki/raw/Category__Category_Candidates_for_deletion.wikitext"
+ },
+ {
+  "title": "Category:Disambiguations",
+  "pageid": 69,
+  "ns": 14,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Browse"
+  ],
+  "raw": "data/wiki/raw/Category__Category_Disambiguations.wikitext"
+ },
+ {
+  "title": "Category:Help",
+  "pageid": 70,
+  "ns": 14,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Browse"
+  ],
+  "raw": "data/wiki/raw/Category__Category_Help.wikitext"
+ },
+ {
+  "title": "Category:Blog posts",
+  "pageid": 71,
+  "ns": 14,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Browse"
+  ],
+  "raw": "data/wiki/raw/Category__Category_Blog_posts.wikitext"
+ },
+ {
+  "title": "Category:Images",
+  "pageid": 72,
+  "ns": 14,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Browse"
+  ],
+  "raw": "data/wiki/raw/Category__Category_Images.wikitext"
+ },
+ {
+  "title": "Template:Infobox event",
+  "pageid": 75,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Events",
+   "Templates",
+   "Templates/Infobox"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_event.wikitext"
+ },
+ {
+  "title": "Template:Infobox event/doc",
+  "pageid": 76,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Events",
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Infobox_event_doc.wikitext"
+ },
+ {
+  "title": "Template:Quote",
+  "pageid": 78,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Templates",
+   "Templates/Quote"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Quote.wikitext"
+ },
+ {
+  "title": "Template:Quote/doc",
+  "pageid": 79,
+  "ns": 10,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Quote_doc.wikitext"
+ },
+ {
+  "title": "Template:Monster",
+  "pageid": 117,
+  "ns": 10,
+  "timestamp": "2018-12-03T09:51:53Z",
+  "categories": [
+   "Templates"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Monster.wikitext"
+ },
+ {
+  "title": "Template:Monster/doc",
+  "pageid": 119,
+  "ns": 10,
+  "timestamp": "2018-11-23T11:36:40Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Monster_doc.wikitext"
+ },
+ {
+  "title": "Category:Crusades",
+  "pageid": 3409,
+  "ns": 14,
+  "timestamp": "2020-02-07T11:50:40Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Category__Category_Crusades.wikitext"
+ },
+ {
+  "title": "Template:Main/doc",
+  "pageid": 3692,
+  "ns": 10,
+  "timestamp": "2020-08-10T21:14:07Z",
+  "categories": [
+   "Template documentation"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Main_doc.wikitext"
+ },
+ {
+  "title": "Template:Main",
+  "pageid": 3693,
+  "ns": 10,
+  "timestamp": "2020-08-10T21:14:21Z",
+  "categories": [
+   "Templates",
+   "Templates/Context-link"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Main.wikitext"
+ },
+ {
+  "title": "Template:Spoilers",
+  "pageid": 3706,
+  "ns": 10,
+  "timestamp": "2022-06-19T06:08:37Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Template__Template_Spoilers.wikitext"
+ },
+ {
+  "title": "Template:Mbox",
+  "pageid": 3987,
+  "ns": 10,
+  "timestamp": "2022-11-14T03:02:12Z",
+  "categories": [
+   "Meta templates",
+   "Page management templates",
+   "Pages with script errors"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Mbox.wikitext"
+ },
+ {
+  "title": "Template:Stub",
+  "pageid": 3988,
+  "ns": 10,
+  "timestamp": "2022-11-14T03:40:20Z",
+  "categories": [
+   "Page management templates",
+   "Pages with script errors"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Stub.wikitext"
+ },
+ {
+  "title": "Template:Mbox management",
+  "pageid": 3989,
+  "ns": 10,
+  "timestamp": "2022-11-14T03:10:25Z",
+  "categories": [
+   "Page management templates",
+   "Pages with script errors",
+   "Templates using docparam"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Mbox_management.wikitext"
+ },
+ {
+  "title": "Template:Mbox management/doc",
+  "pageid": 3990,
+  "ns": 10,
+  "timestamp": "2022-11-14T03:35:42Z",
+  "categories": [
+   "Pages with script errors",
+   "Templates using docparam"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Mbox_management_doc.wikitext"
+ },
+ {
+  "title": "Template:Tl",
+  "pageid": 3992,
+  "ns": 10,
+  "timestamp": "2022-11-14T03:17:39Z",
+  "categories": [
+   "Formatting templates",
+   "Templates using docparam"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Tl.wikitext"
+ },
+ {
+  "title": "Template:Tl/doc",
+  "pageid": 3993,
+  "ns": 10,
+  "timestamp": "2022-11-14T03:18:26Z",
+  "categories": [
+   "Templates using docparam"
+  ],
+  "raw": "data/wiki/raw/Template__Template_Tl_doc.wikitext"
+ },
+ {
+  "title": "Template:StructuredQuote",
+  "pageid": 4091,
+  "ns": 10,
+  "timestamp": "2024-11-15T13:29:33Z",
+  "categories": [],
+  "raw": "data/wiki/raw/Template__Template_StructuredQuote.wikitext"
+ },
+ {
+  "title": "Category:Templates",
+  "pageid": 10,
+  "ns": 14,
+  "timestamp": "2018-11-06T14:55:08Z",
+  "categories": [
+   "Browse"
+  ],
+  "raw": "data/wiki/raw/Category__Category_Templates.wikitext"
+ }
+]

@@ -1,0 +1,20 @@
+'''General Info'''
+* DrakeDragon's Cards Sheet https://docs.google.com/spreadsheets/d/1Tc6c28rkTf_XCjc5KJwQbidOpjXWI6Y2Vwpzbds8Pa0/edit?usp=sharing '''Added 19 June 2025'''
+* SGResponse's Cards & Contract Info: https://docs.google.com/spreadsheets/d/1ghaiMpqmegmBqYE6pjZO9OoG3qe7mlCcBD64MdnR7AE '''19 June 2025 Access Needed'''
+
+'''Guide'''
+* Adam's Beginner's Guide: https://steamcommunity.com/sharedfiles/filedetails/?id=2863651114 '''Active 19 June 2025'''
+
+'''Calculator'''
+* The Clingy Fox's Spiriting Calculator: https://jscalc.io/calc/Su1xDxca3M4VBN17 '''Works 19 June 2025'''
+* JaggerID's Damage Calculator: https://jscalc.io/calc/7GnazUIOgWFTfrvn '''Works 19 June 2025'''
+* Klepar's Kill Count Calculator: https://jscalc.io/calc/UrAljdBXsrueTNmG '''Works 19 June 2025'''
+* AlienC4's Ice Cream calculator https://docs.google.com/spreadsheets/d/1VAoRSvXsZAEkl5KMo3ernSmc1WdX9iH8getHcKJNfGY/edit#gid=1308305454 '''Works 19 June 2025'''
+'''Dead links'''
+
+* <s>realbigcheese's Raid & Contract + AP Info: [https://docs.google.com/spreadsheets/d/15DoJMJvJdR4tB9gcWR_tUblDS903SXf5ex2ot9UPCoo https://docs.google.com/spreadsheets/d/15DoJMJvJdR4tB9gcWR_tUblDS903SXf5ex2ot9UPCo]</s>[https://docs.google.com/spreadsheets/d/15DoJMJvJdR4tB9gcWR_tUblDS903SXf5ex2ot9UPCoo o] '''Sheet Deleted 19 June 2025'''
+* <s>The Clingy Fox's Flowchart: https://cdn.discordapp.com/attachments/515321395861913600/519985821399646229/unknown.png - For players at least up to 2nd half of Desert - Better for 2 Run Cycles, 1 for Gathering Resources and 1 for Fighting/Progress</s> '''"Content no longer available" 19 June 2025'''
+* <s>Blank's Spiriting Calculator: https://docs.google.com/spreadsheets/d/182vRl39jloXbmrD1HQYO4UvbYxL6xrIhrBwDHQ2TrHs</s> '''Deleted 19 June 2025'''
+* <s>BreakIt's Craft Simulator: https://docs.google.com/spreadsheets/d/14C _Dv75Xduouv_v_a99bl5Bz9XdQ1plOKCra4eYYkq0</s> '''Bad Link/Cannot find doc 19 June 2025'''
+* <s>Blank's Damage Investment Calculator: https://docs.google.com/spreadsheets/d/1yXGfQH52NGZZPDvVxT27rZfUAJ6uIsFySZBxHPkzNcE</s> '''Deleted 19 June 2025'''
+* <s>Klepar's Spiriting Calculator: https://docs.google.com/spreadsheets/d/1ri-xFPfZXCp0uNoEHA-ZFF77-sBnsQmpBCeUhVIVaEg</s> '''Deleted 19 June 2025'''

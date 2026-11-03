@@ -1,0 +1,50 @@
+[
+ {
+  "_page": "Builds/Trekking",
+  "_section": "",
+  "_table": 0,
+  "{}": "Support",
+  "_images": [
+   "Pet_{{{2}}}.png",
+   "Genetic_{{{3}}}.png",
+   "Genetic_{{{4}}}.png",
+   "Genetic_{{{5}}}.png",
+   "Pet_{{{6}}}.png",
+   "Genetic_{{{7}}}.png",
+   "Genetic_{{{8}}}.png",
+   "Genetic_{{{9}}}.png",
+   "Pet_{{{10}}}.png",
+   "Genetic_{{{11}}}.png",
+   "Genetic_{{{12}}}.png",
+   "Genetic_{{{13}}}.png",
+   "Pet_{{{14}}}.png",
+   "Genetic_{{{15}}}.png",
+   "Genetic_{{{16}}}.png",
+   "Genetic_{{{17}}}.png"
+  ]
+ },
+ {
+  "_page": "Builds/Trekking",
+  "_section": "",
+  "_table": 0,
+  "{}": "Fighter",
+  "_images": [
+   "Pet_{{{18}}}.png",
+   "Genetic_{{{19}}}.png",
+   "Genetic_{{{20}}}.png",
+   "Genetic_{{{21}}}.png",
+   "Pet_{{{22}}}.png",
+   "Genetic_{{{23}}}.png",
+   "Genetic_{{{24}}}.png",
+   "Genetic_{{{25}}}.png",
+   "Pet_{{{26}}}.png",
+   "Genetic_{{{27}}}.png",
+   "Genetic_{{{28}}}.png",
+   "Genetic_{{{29}}}.png",
+   "Pet_{{{30}}}.png",
+   "Genetic_{{{31}}}.png",
+   "Genetic_{{{32}}}.png",
+   "Genetic_{{{33}}}.png"
+  ]
+ }
+]

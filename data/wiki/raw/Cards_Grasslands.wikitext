@@ -1,0 +1,124 @@
+<table-progress-tracking table-id="Grasslands1" unique-column-index="2">
+{| class="listing sortable" style="width: 100%;" border="0" align="center"
+|-
+! scope="col" style="text-align: left;" |
+! scope="col" style="text-align: left;" |Zone
+! scope="col" style="text-align: left;" |Name
+! scope="col" style="text-align: left;" |Bonus
+! scope="col" style="text-align: left;" |[[File:1star.png|text-bottom]]
+! scope="col" style="text-align: left;" |[[File:5star.png|text-bottom]]
+|-
+|[[File:C_mushroom.png|36px]]
+|Grasslands-1
+|Mushroom
+|Strength EXP Chance
+|2%
+|40%
+|-
+|[[File:C_slime.png|36px]]
+|Grasslands-2
+|Slime
+|Endurance EXP Chance
+|2%
+|40%
+|-
+|[[File:C_stumpo.png|36px]]
+|Grasslands-3
+|Stumpo
+|Healing from Heal Skill
+|5%
+|100%
+|-
+|[[File:C_rogue_rock.png|36px]]
+|Grasslands-4
+|Rogue Rock
+|Mining EXP Chance
+|2%
+|40%
+|-
+|[[File:C_shrubbery.png|36px]]
+|Grasslands-5
+|Shrubbery
+|Accuracy
+|3%
+|60%
+|-
+|[[File:C_snail.png|36px]]
+|Grasslands-6
+|Snail
+|Monster Damage Reduction
+|0.4%
+|8%
+|-
+|[[File:C_flowey.png|36px]]
+|Grasslands-7
+|Flowey
+|Attack EXP Chance
+|2%
+|40%
+|-
+|[[File:C_relic_squad.png|36px]]
+|Grasslands-8
+|Relic Squid
+|Claw Skill Damage
+|5%
+|100%
+|-
+|[[File:C_wormie.png|36px]]
+|Grasslands-9
+|Wormie
+|Smithing EXP from Crafting
+|2%
+|40%
+|-
+|[[File:C_monkey.png|36px]]
+|Grasslands-10
+|Monkey
+|Card Drop Chance
+|2%
+|40%
+|-
+|[[File:C_strawby.png|36px]]
+|Grasslands-11
+|Strawby
+|Healing from Food
+|5%
+|100%
+|-
+|[[File:C_bored_bean.png|36px]]
+|Grasslands-12
+|Bored Bean
+|Total Health
+|4%
+|80%
+|-
+|[[File:C_plain.png|36px]]
+|Grasslands-13
+|Plain
+|Idle Attack Speed
+|5%
+|100%
+|-
+|[[File:C_disciple_y.png|36px]]
+|Grasslands-14
+|Disciple Y
+|Idle Damage
+|5%
+|100%
+|-
+|[[File:C_keymaster_y.png|36px]]
+|Grasslands-15
+|Keymaster Y
+|Ores from Mining
+|4%
+|80%
+|-
+|[[File:C_grasslands_glitch.png|36px]]
+|Grasslands-16+
+|Glitch
+|Rift EXP
+|5%
+|100%
+|}
+</table-progress-tracking>
+[[Category:Cards]]

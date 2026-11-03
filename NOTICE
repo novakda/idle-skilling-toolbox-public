@@ -1,0 +1,27 @@
+idle-skilling-toolbox
+
+Project code
+------------
+The project's own code is licensed under the MIT License (see LICENSE). That licence covers only the code
+written for this project, not the game-derived or wiki-derived material below.
+
+Game
+----
+Idle Skilling is made by Lavaflame2, who owns the game and its art. This is an unofficial fan tool, not
+affiliated with or endorsed by the developer. Formulas, tables and rules were derived from the game for
+compatibility. No game art and no extracted game code are included. The developer was told about this
+project and its publication in October 2026.
+
+Wiki-derived content
+--------------------
+Everything under data/wiki/ (raw wikitext, parsed pages and datasets) and data derived from it (including
+parts of web/src/data/ and tiddlywiki/) comes from the Idle Skilling Wiki, https://idle-skilling.fandom.com,
+written by Fandom contributors. It is licensed under Creative Commons Attribution-ShareAlike 3.0
+(CC BY-SA 3.0): https://creativecommons.org/licenses/by-sa/3.0/
+Attribution: "Idle Skilling Wiki" contributors; page histories list authors on the wiki.
+Changes: pages were fetched, parsed to JSON and reformatted. Derivatives of that content must be shared
+under the same licence.
+
+Community guides
+----------------
+Third-party guide spreadsheets are not included. See README for credits.
