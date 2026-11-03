@@ -2,6 +2,8 @@
 
 Tooling + (planned) webapp for **Idle Skilling** (Steam), in the spirit of Idleon Efficiency / Idleon Toolbox.
 
+**Why this exists.** Idle Skilling has excellent community resources: a wiki, spreadsheets, Discord guides. But planning means jumping between them. This tool reads your own save and puts the answers in one place. It's also a lab: a domain I know well, used to try out dashboards, data-driven views and ways of organizing dense information, and a baseline for building the same app in other stacks (React, Tauri, perhaps ServiceNow or Power Platform) to compare how each handles it.
+
 An unofficial fan tool, not affiliated with or endorsed by the game's developer. Your save is read in your
 browser and never uploaded. Licence: MIT for the project's code (see `LICENSE` and `NOTICE`).
 
