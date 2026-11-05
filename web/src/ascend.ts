@@ -6,7 +6,9 @@ import { ascendGain, potionBonuses } from './bus'
 import { smithingCostAt, smithCurrency } from './smithing'
 import { ZONES, estimate, fightStats, monsterHP } from './fighting'
 import { resetTarget } from './income'
-import { OUTPUTS, buyList, type Buy, type PerkRow } from './perks'
+import { OUTPUTS, buyList, type Buy, type PerkRow } from './perk-plan'
+import { type GameImpacts, perkPlan } from './perk-plan'
+import * as NX from './next-types'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0
@@ -368,3 +370,18 @@ export function resetCompare(save: Save, snaps: AscendSnap[], rows: PerkRow[], a
       : `Keep going: ${a === 'unknown' ? 'no rate yet' : 'AP and BP are both still climbing faster than a run averages'}. Neither reset pays more per hour yet.`
   return { pick, verdict, options, plan, climb: cb }
 }
+
+/** Do Next section (refactor step 8, #71): moved from do-next.ts. */
+export const next: NX.NextSection = { view: 'ascend', title: 'Ascend', src: 'ascend.ts resetAdvice + preAscendDeck + startGold + relevelNeed', fn: (s, x) => {
+    const deck = preAscendDeck(s), skip = startGold(s), wait = startGold(s, false), short = relevelNeed(s).filter((r) => r.surplus < 0)
+    // When to ascend / rebirth first, each with its evidence as a two-column table.
+    const adv = resetAdvice(s, (x.ascendHistory as AscendSnap[] | undefined) ?? [], perkPlan(s, x.impacts as GameImpacts | null | undefined))
+    return [
+      ...[adv.ascend, adv.rebirth].map((a) => ({ text: a.line, why: a.evidence.map(([k, v]) => `${k}: ${v}`).join(' '), sub: { head: ['Evidence', ''], rows: a.evidence } })),
+      ...(deck.cards.length ? [{ text: `Before ascending, equip deck ${deck.spare ?? 'any'}: ${deck.cards.map((c) => c.name).join(', ')}`,
+        why: `souls kept ${deck.keep[0]}% → ${deck.keep[1]}%${deck.apNext > deck.apNow + 0.5 ? `, AP ${NX.sci(deck.apNow)} → ${NX.sci(deck.apNext)}` : ''}` }] : []),
+      { text: 'Click Skip on the ascend credits', why: `start gold ${NX.sci(skip.gold)} vs ${NX.sci(wait.gold)} waiting them out` },
+      ...(short.length ? [{ text: `Smithing re-level short on ${short.length} currenc${short.length > 1 ? 'ies' : 'y'}`, why: short.slice(0, 3).map((r) => `${r.label} −${NX.sci(-r.surplus)}`).join(', ') + (short.length > 3 ? ', …' : ''),
+        sub: { head: ['Currency', 'Short by'], rows: short.map((r) => [r.label, NX.sci(-r.surplus)]) } }] : []),
+    ]
+  }}

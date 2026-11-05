@@ -2,7 +2,7 @@
 import { computed, ref } from 'vue'
 import { levelsPerCraft, preAscendDeck, relevelNeed, resetAdvice, resetCompare, soulsKept, startGold, type AscendSnap } from '../ascend'
 import { ascendGain } from '../bus'
-import { perkPlan, type GameImpacts } from '../perks'
+import { perkPlan, type GameImpacts } from '../perk-plan'
 import { apNodeNext } from '../skilltree'
 import { SOULS } from '../rift'
 import { inBookOrder, tabOf, tabTitle } from '../card-art'

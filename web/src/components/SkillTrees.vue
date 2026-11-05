@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import { capParts, refundPct, skillBuys, skillPlan, skillTotal, TREES } from '../skilltree'
+import { capParts, refundPct, skillTotal, TREES } from '../skilltree'
+import { skillBuys, skillPlan } from '../skill-plan'
 import { sectionRef } from '../section'
 
 const props = defineProps<{ save: Record<string, unknown> | null }>()

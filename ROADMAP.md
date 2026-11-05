@@ -19,8 +19,9 @@ feed Do Next, and cross-system math lives in several places. A dependency map bu
 ## Now: feature freeze + modular refactor (#62)
 
 No new features until the layering is in; bug fixes are fine. The app stays working after every step, and a boundary test
-(`web/src/deps.test.ts`) fails on any new cross-module import or a growing import cycle. After step 7 one
-24-module cycle remains; steps 7a and 7b remove its two known causes, then the cycle is re-measured.
+(`web/src/deps.test.ts`) fails on any new cross-module import or a growing import cycle.
+Since step 10a the module graph is acyclic: the five bonus producers (mastery-bonuses, equipment-bonuses, pet-lab,
+potion-bonuses, ascend-rewards) are their own layer under the bus. The boundary test now fails on any cycle.
 
 | Step | What | Issue | Status |
 |---|---|---|---|
@@ -32,11 +33,11 @@ No new features until the layering is in; bug fixes are fine. The app stays work
 | 5 | Split cards into the bonus producer and the planner | #68 | done |
 | 6 | Fight simulator out of `raids.ts` into a combat engine | #69 | done |
 | 7 | Split `away.ts` into the away engine and per-system gains | #70 | done |
-| 7a | Take `backup-guide.ts` out of core (all of core's imports of other modules come from it) | #74 | next |
-| 7b | Pages into their own layer, so a page's imports stop tying its logic module into the cycle | #75 | |
-| 8 | Do Next becomes a registry: each module exports its own next actions | #71 | |
-| 9 | Planners and reference views into their own layer | #72 | |
-| 10 | One folder per module (`state`, `bonuses`, `rates`, `next` + page), smallest first | #73 | |
+| 7a | Take `backup-guide.ts` out of core (all of core's imports of other modules come from it) | #74 | done |
+| 7b | Pages into their own layer, so a page's imports stop tying its logic module into the cycle | #75 | done |
+| 8 | Do Next becomes a registry: each module exports its own next actions | #71 | done |
+| 9 | Planners and reference views into their own layer | #72 | done |
+| 10 | One folder per module (`state`, `bonuses`, `rates`, `next` + page), smallest first | #73 | next (10a: producers layer, acyclic, done) |
 
 Target layering, bottom to top: core → state + bonus producers → bus → engines (combat, away) → system modules → views
 (Do Next, Totals, planners, reference) → pages.

@@ -1,6 +1,9 @@
 // Potion logic shared by the browser and the generators — no game code. Formulas from the game's brew code
 // (ActorEvents_1174 discovery, SceneEvents_37 brewing), verified 2026-10-02 against the infodoc discovery grid and
 // live cauldron rates.
+import potionCatalog from './data/potion-catalog.json'
+import discoveryStatic from './data/discovery-static.json'
+import * as NX from './next-types'
 /** Potions-screen draw ticks per second: measured/predicted brew rate = 0.417 at 60 fps (live 2026-10-02, six cauldrons). */
 export const TICKS_PER_SEC = 25
 
@@ -76,3 +79,14 @@ export function potionLevelsPerPay(s: Save, c: number, r?: number) {
   for (let x = 0; x <= 100; x++) t += at(x)
   return t / 101
 }
+
+/** Do Next section (refactor step 8, #71): moved from do-next.ts. */
+export const next: NX.NextSection = { view: 'potions', title: 'Potions', src: 'save PotionType + potions-calc.ts discoveryTargets', fn: (s) => {
+    const type = (s.PotionType as number[]) ?? [], idle = [1, 2, 3, 4, 5, 6].filter((c) => !NX.n(type[c]))
+    const d = discoveryStatic as { seedNames: string[]; flowerNames: string[] }
+    const disc = discoveryTargets(s, potionCatalog as PotionStatic[]).filter((t) => t.chance > 0).sort((a, b) => b.chance - a.chance).slice(0, 3)
+    return [
+      ...(idle.length ? [{ text: `Start a brew in cauldron${idle.length > 1 ? 's' : ''} ${idle.join(', ')}`, why: 'idle on the Potions tab' }] : []),
+      ...disc.map((t) => ({ text: `Discover ${t.name}: ${d.seedNames[t.seed!] ?? `seed ${t.seed}`} + ${d.flowerNames[t.flower!] ?? `flower ${t.flower}`}`, why: `${NX.pct(t.chance)} per discovery brew` })),
+    ]
+  }}

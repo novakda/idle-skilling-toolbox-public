@@ -5,6 +5,7 @@
 // actor to consume. Event log, not a stat.
 import { tankBonuses } from './bus'
 import { trekOptions, type TrekOption } from './pet-combat' // circular (pet-combat imports this file); both only call each other inside functions
+import * as NX from './next-types'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0
@@ -650,3 +651,14 @@ export function nestUpgradeCost(L: number, tbl44 = 0) {
     shell: L > 30 ? { rarity: k, cost: Math.ceil(shell * (1 + Math.max(k - 1, 0) / 2)) } : null,
   }
 }
+
+/** Do Next section (refactor step 8, #71): moved from do-next.ts. */
+export const next: NX.NextSection = { view: 'pets', title: 'Pets', src: 'pets.ts petsView (warnings, lab.ready, lab.buy, trash)', fn: (s) => {
+    const v = petsView(s), vname = (i: number) => v.lab.vessels.find((x) => x.v === i)?.name ?? `vessel ${i}`
+    return [
+      ...v.warnings.map((w) => ({ text: w, why: 'Pets warning' })),
+      ...(v.lab.ready.length ? [{ text: `Open lab tank(s) ${[...new Set(v.lab.ready.map((r) => r.tank))].join(', ')}`, why: 'a tier level is waiting; Research EXP only runs for the open tank' }] : []),
+      ...v.lab.buy.slice(0, 2).map((b) => ({ text: `Lab: ${b.name} tier ${b.slot} → Lv${b.level + 1}`, why: `${NX.sci(b.cost)} ${vname(b.vessel)}, ${b.odds}% odds; ${b.gives}` })),
+      ...(v.eggsWaiting > v.free && v.trash.length ? [{ text: `Trash ${Math.min(v.eggsWaiting - v.free, v.trash.length)} pet(s), starting with ${v.trash[0]!.pet.name} L${v.trash[0]!.pet.level}`, why: `frees slots for ${v.eggsWaiting} waiting eggs (heuristic, see Pets tab)` }] : []),
+    ].slice(0, 5)
+  }}

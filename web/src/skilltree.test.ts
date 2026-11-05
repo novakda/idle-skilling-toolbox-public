@@ -2,7 +2,8 @@ import { expect, test } from 'bun:test'
 import { existsSync } from 'fs'
 import { reactive } from 'vue'
 import { BUNDLE, compile, inert, loadBundle, matchBraces } from '../../src/game-eval'
-import { apNodeNext, DAIRY, skillBuys, skillCap, skillCost, skillLock, skillPlan, treeOf } from './skilltree'
+import { apNodeNext, DAIRY, skillCap, skillCost, skillLock, treeOf } from './skilltree'
+import { skillBuys, skillPlan } from './skill-plan'
 import { fullSave } from './test-save.test'
 
 const SAVE = new URL('../../data/save.json', import.meta.url).pathname

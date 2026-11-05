@@ -5,18 +5,13 @@ import { equipmentBonuses, masteryBonuses } from './bus'
 import { cbonus, type Catalog } from './cards-calc'
 import catalog from './data/card-catalog.json'
 import { FOOD, SHIELD_FOOD, fightContext, runSeconds, skillEvents, type Fight } from './fight-sim'
+import { TIERS } from './raid-data'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0
 const range = (k: number) => Array.from({ length: Math.max(k, 0) }, (_, i) => i)
 
-/** Difficulty buttons: TicketsToSpend (also the boss's difficulty multiplier), tickets actually taken, RaidTotalTime (minutes).
- *  Raids @19790186-19791587, deducted HellTickets − TicketsToSpend @20036057. Asylum @26160736-26162845, deducted
- *  AsylumTickets − round(TicketsToSpend / 1, 1, 2, 3) @27004488-27006342. */
-export const TIERS = {
-  raid: { currency: 'HellTickets', tiers: [['Daydream', 1, 1, 2], ['Chaotic', 3, 3, 4], ['Nightmare', 10, 10, 6]] },
-  asylum: { currency: 'AsylumTickets', tiers: [['', 1, 1, 2], ['X', 3, 3, 3], ['Y', 14, 7, 5], ['Z', 45, 15, 8]] },
-} as const
+export { TIERS } from './raid-data'
 
 /** Bosses by queue slot (RaidBossQueue 1-4 raids, 5-8 asylum; ActorEvents_577 @10669506). Slot 1/5 is always open; the
  *  others need the unlock flag, which Steam Cloud saves don't carry (local-only, #19). The only writes of true are in the

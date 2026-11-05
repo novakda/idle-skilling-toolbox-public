@@ -5,6 +5,8 @@
 import { cbonus, type Catalog } from './cards-calc'
 import { equipmentBonuses, masteryBonuses, potionBonuses, tankBonuses } from './bus'
 import catalog from './data/card-catalog.json'
+import { withDeckLinks } from './cards-calc'
+import * as NX from './next-types'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0
@@ -159,3 +161,13 @@ export function botanyHarvest(save: Save, boosts: { flower: number; exp: number 
     }
   })
 }
+
+/** Do Next section (refactor step 8, #71): moved from do-next.ts. */
+export const next: NX.NextSection = { view: 'botany', title: 'Botany', src: 'botany-calc.ts botanyPots + speedCap', fn: (s) => {
+    const gold = NX.n(s.goldcoin), cap = speedCap(withDeckLinks(s))
+    const items = botanyPots(s).flatMap((p) => [
+      ...(gold >= p.valueCost && p.valueCost > 0 ? [{ cost: p.valueCost, text: `Pot ${p.pot}: Value upgrade`, why: `+${+p.valueExpGain.toFixed(3)} EXP for ${NX.sci(p.valueCost)} gold`, cells: [`${p.pot}`, 'Value', `+${+p.valueExpGain.toFixed(3)} EXP`, NX.sci(p.valueCost)] }] : []),
+      ...(gold >= p.speedCost && p.speedCost > 0 && p.speed < cap.buyBelow ? [{ cost: p.speedCost, text: `Pot ${p.pot}: Speed upgrade`, why: `+${+p.speedGainPct.toFixed(2)}% speed for ${NX.sci(p.speedCost)} gold`, cells: [`${p.pot}`, 'Speed', `+${+p.speedGainPct.toFixed(2)}% speed`, NX.sci(p.speedCost)] }] : []),
+    ]).sort((a, b) => a.cost - b.cost).slice(0, 5).map(({ text, why, cells }) => ({ text, why: `${why} (each affordable on its own, cheapest first)`, cells }))
+    return { items, head: ['Pot', 'Upgrade', 'Gain', 'Gold'], note: 'Each affordable on its own, cheapest first.' }
+  }}

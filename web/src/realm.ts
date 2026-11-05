@@ -2,6 +2,7 @@
 // RealmStuff index meanings are in docs/realm.md; every formula below is the game's (MinionInfo block, Qno2x.js offsets there).
 // Static tables (minions, traits, blessings, shrine/vending rows, colour gates) come from src/derive-realm.ts.
 import realm from './data/realm.json'
+import * as NX from './next-types'
 
 /** A barn slot as the game shows it: 20 minions a page, so slot 0 is page 1 #1 and slot 20 is page 2 #1. */
 export const barnPos = (slot: number) => `p${Math.floor(slot / 20) + 1} #${(slot % 20) + 1}`
@@ -964,3 +965,16 @@ export function damageStats(c: Combat, stages: StageRow[]) {
   }).filter((b) => b.full > 0)
   return { minions, total, boss, afterlife: c.beaten + 1 }
 }
+
+/** Do Next section (refactor step 8, #71): moved from do-next.ts. */
+export const next: NX.NextSection = { view: 'realm', title: 'Realm', src: 'realm.ts realmState steps + resetCall', fn: (s, x) => {
+    const r = realmState(s)
+    if (!r) return []
+    const combat = x.combat as Combat | null | undefined
+    const reset = combat ? resetCall(combat, stageTable(combat, r.bestReached), r.comp.stage === 'endgame') : null
+    return [
+      ...(reset ? [{ text: reset.reset ? 'Reset now (banish and spend coins first)' : `Push on: beat Afterlife ${r.afterlife}`,
+        why: `reset pays ${NX.sci(reset.now)} Spirals; beating the stage (${fmtTime(reset.sec)}) raises it to ${NX.sci(reset.next)}` }] : []),
+      ...r.steps.slice(0, 4).map((t) => ({ text: t, why: 'Realm next steps' })),
+    ]
+  }}

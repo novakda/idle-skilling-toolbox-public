@@ -6,7 +6,7 @@ import { existsSync } from 'fs'
 const FIX = new URL('../../data/fixture-fight.json', import.meta.url)
 const fixture = () => Bun.file(FIX).json()
 const t = existsSync(FIX) ? test : test.skip
-import { perkImpact, perkPlan } from './perks'
+import { perkImpact, perkPlan } from './perk-plan'
 
 t('perks: AP-gain perk 60 moves AP per ascend by its formula; plan ranks within currency', async () => {
   const save = await fixture()
@@ -51,7 +51,7 @@ t('perks: in-app rate outputs (brew 59, botany 48, cashback 19); every unmodelle
 })
 
 t('buyList: spends no more than the balance and only buys modelled perks', async () => {
-  const { perkPlan, buyList } = await import('./perks')
+  const { perkPlan, buyList } = await import('./perk-plan')
   const save = await fixture()
   const rows = perkPlan(save)
   const { buys, left } = buyList(rows, 'AP', 20000)
@@ -61,7 +61,7 @@ t('buyList: spends no more than the balance and only buys modelled perks', async
 })
 
 t('key locks: locked perks never reach the buy list; every levelled key perk reads as unlocked', async () => {
-  const { perkPlan, buyList, KEY_LOCKS } = await import('./perks')
+  const { perkPlan, buyList } = await import('./perk-plan'), { KEY_LOCKS } = await import('./perks')
   const save = await fixture()
   const rows = perkPlan(save)
   for (const i of Object.keys(KEY_LOCKS).map(Number)) if ((save.AscentionLevel[i] ?? 0) > 0) expect(rows.find((r) => r.i === i)!.lock, `perk ${i}`).toBeNull()

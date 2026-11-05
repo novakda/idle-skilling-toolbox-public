@@ -3,6 +3,7 @@
 import names from './data/smithing-names.json'
 import { smithCurrency } from './smithing'
 import { smithingCostAt } from './smithing'
+import * as NX from './next-types'
 
 type Save = Record<string, unknown>
 export type Cap = { item: number; cap: number; bonus: string; note?: string }
@@ -141,3 +142,11 @@ export function smithingItems(save: Save) {
       to: a?.to ?? level, crafts: a?.crafts ?? 0 }
   })
 }
+
+/** Do Next section (refactor step 8, #71): moved from do-next.ts. */
+export const next: NX.NextSection = { view: 'smithing', title: 'Smithing', src: 'smithing-caps.ts smithingCaps, smithingAffordable', fn: (s) => smithingCaps(s).map((c) => ({
+    text: `Stop crafting ${c.name}: Lv ${c.level.toLocaleString()} is past its cap`,
+    why: `${c.bonus} maxes at Lv ${c.cap.toLocaleString()}; further levels add nothing${c.note ? ` (${c.note})` : ''}` }))
+    .concat(smithingAffordable(s).filter((a) => (a.to - a.level) / Math.max(a.level, 1) >= 0.05).slice(0, 3).map((a) => ({
+      text: `Craft ${a.name}: Lv ${a.level.toLocaleString()} → ${a.to.toLocaleString()} (${a.crafts} crafts)`,
+      why: `your materials cover it now (+${Math.round((100 * (a.to - a.level)) / Math.max(a.level, 1))}% levels); costed alone, other items on the same materials share them` })))}

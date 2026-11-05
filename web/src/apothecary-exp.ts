@@ -19,7 +19,7 @@ import { brewSpeedBoost } from './bus'
 import { TICKS_PER_SEC } from './potions-calc'
 import { PERKS, perkLock } from './perks'
 import { skillLock } from './skilltree'
-import { dropText } from './cards-missing'
+import { dropText } from './card-sources'
 import { current } from './screen-bound'
 
 type Save = Record<string, unknown>

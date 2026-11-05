@@ -1,3 +1,5 @@
+import shrineTable from './data/shrines.json'
+import * as NX from './next-types'
 export type Snap = { t: number; shrine: number[] }
 
 /** Income per hour per slot: latest snapshot vs the oldest from the last 24h that is 5+ min older. */
@@ -69,3 +71,12 @@ export function shrineRows(save: Record<string, unknown>, table: ShrineTable, pe
     return { ...s, lv, max, next: lv < max ? next : undefined, buyable, wait }
   })
 }
+
+/** Do Next section (refactor step 8, #71): moved from do-next.ts. */
+export const next: NX.NextSection = { view: 'shrines', title: 'Shrines', src: 'income.ts shrineRows', fn: (s, x) => {
+    const rows = shrineRows(s, shrineTable as ShrineTable, incomeRates((x.history as Snap[] | undefined) ?? [])?.perHour)
+    const buy = rows.filter((r) => r.buyable > 0).sort((a, b) => b.buyable - a.buyable)
+    if (buy.length) return buy.slice(0, 5).map((r) => ({ text: `Level ${r.name} +${r.buyable}`, why: `Lv ${r.lv} → ${r.lv + r.buyable} affordable now (spending on it alone)` }))
+    return rows.filter((r) => r.wait !== undefined).sort((a, b) => a.wait! - b.wait!).slice(0, 3)
+      .map((r) => ({ text: `Next: ${r.name} Lv ${r.lv + 1}`, why: isFinite(r.wait!) ? `affordable in ${NX.hrs(r.wait!)}` : 'not affordable; no shrine income measured yet (needs saves 5+ min apart)' }))
+  }}

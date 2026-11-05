@@ -8,6 +8,7 @@ import catalog from './data/card-catalog.json'
 import cardSources from './data/card-sources.json'
 import activityBonuses from './data/activity-bonuses.json'
 import guideDecks from '../../data/guides/recommended-decks/decks.json'
+import * as NX from './next-types'
 
 type Save = Record<string, unknown>
 export type Adds = Record<string, number>
@@ -215,3 +216,16 @@ export function cardsPlan(save: Save, st: CardSettings = DEFAULTS, model: CardsM
   const deckFor = (kind: string) => (kind === 'zone' ? farmFight : kind === 'crusade' ? farmCrusade : null)
   return { deckWeights, deckBonus, odds, missing, farmFight, farmCrusade, bestDropDeck, steps, deckFor }
 }
+
+/** Do Next section (refactor step 8, #71): moved from do-next.ts. */
+export const next: NX.NextSection = { view: 'cards', title: 'Cards', src: 'cards-plan.ts cardsPlan steps.farm', fn: (s) => {
+    const p = cardsPlan(s, cardSettings()), swaps = new Set<string>()
+    const items = p.steps.farm.slice(0, 3).map((st) => {
+      const f = p.deckFor(st.kind)
+      const swap = f && f.factor < 0.999 ? `first put ${f.picks.map((c) => c.name).join(', ')} in deck ${f.deck ?? '—'}, the Fighting deck (+${+f.total.toFixed(2)}% card drop, now +${+f.now.toFixed(2)}%)` : ''
+      if (swap) swaps.add(swap)
+      return { text: `Farm ${st.where} for ${st.cards.map((r) => r.name).join(', ')}`, why: `about ${NX.dur(st.hours * 3600)} (${NX.dur(st.total * 3600)} total so far)` + (swap ? `; ${swap}` : ''),
+        cells: [st.where, st.cards.map((r) => r.name).join(', '), NX.dur(st.hours * 3600), NX.dur(st.total * 3600)] }
+    })
+    return { items, head: ['Farm', 'Collects', 'Time', 'Total so far'], note: [...swaps].map((w) => w[0]!.toUpperCase() + w.slice(1) + '.').join(' ') }
+  }}

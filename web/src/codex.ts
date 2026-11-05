@@ -6,6 +6,7 @@ import data from './data/codex.json'
 import lab from './data/lab.json'
 import { petGenes, petsView, TREK_SLOTS, type Pet } from './pets'
 import { capsuleExpRate } from './bus'
+import * as NX from './next-types'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0
@@ -181,3 +182,12 @@ export function claimPick(s: Save) {
   return { gene: g, who, owned: false, text: `take a ${who}: ${g.name} is ${g.toNext} gene${g.toNext === 1 ? '' : 's'} short of combo ${g.tier + 1}`,
     why: `${g.combos[g.tier]!.text}. Put it on the team until the combo registers (found combos stay)${g.toNext > 1 ? `; one claim a day, so ${g.toNext} days` : ''}${g.id <= 10 ? '; attack genes count on fighters only' : ''}.` }
 }
+
+/** Do Next section (refactor step 8, #71): moved from do-next.ts. */
+export const next: NX.NextSection = { view: 'codex', title: 'Codex', src: 'codex.ts claim, rewards', fn: (s, x) => {
+    // Opening the Codex does two things: the daily pet claim (timer restarts at 86400 s on claim, so a ready claim doesn't
+    // stack) and setting reached level-up reward flags, which the game reads instead of the level (codex.ts rewards).
+    const c = claim(s, x.now), pick = claimPick(s), ready = c.ready ? [{ text: c.free <= 0 ? 'Daily pet ready, but the inventory is full' : pick ? `Claim the daily pet: ${pick.text}` : 'Claim the daily pet',
+      why: `${pick && c.free > 0 ? pick.why + ' ' : ''}Ready for ${NX.dur(-c.timer)}; one claim a day, a waiting claim doesn't stack (${c.free} free slot${c.free === 1 ? '' : 's'}).` }] : []
+    return [...ready, ...rewards(s).filter((r) => r.pending).map((r) => ({ text: `Open the Codex to switch on ${r.skill} ${r.at}: ${r.bonus}`, why: 'reached, but inactive until the Codex sets its flag' }))]
+  }}

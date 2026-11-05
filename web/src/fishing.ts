@@ -1,6 +1,8 @@
 // Fishing from a save (docs/resource-xp.md). Each active catch rolls r = randomInt(1,1000)/10: large if r < FishChanceLARGE,
 // else medium if r < FishChanceMEDIUM, else small. MEDIUM is a cutoff, not a share, so the screen's medium/small odds are
 // wrong (verified live 2026-10-04, 100/100 catches). Base XP per fish f, times ((100+power)/100)^0.7 · 2^FunnyHat.
+import { awayPercent } from './away'
+import * as NX from './next-types'
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0
 
@@ -57,3 +59,15 @@ export function awayFishing(save: Save, awayPct: number) {
 }
 // ponytail: active catch cycle measured live (100 catches ≈ 9 min, 2026-10-04); derive from FishingTime + animation timers if it drifts.
 export const ACTIVE_CATCH_SECONDS = 5.4
+
+/** Do Next section (refactor step 8, #71): moved from do-next.ts. */
+export const next: NX.NextSection = { view: 'fishing', title: 'Fishing', src: 'fishing.ts fishing + awayFishing + upgrades', fn: (s) => {
+    const f = fishing(s), p = awayPercent(s), out: NX.Item[] = []
+    if (p != null) {
+      const ratio = awayFishing(s, p).perAwaySecond / (f.perCatch / ACTIVE_CATCH_SECONDS)
+      if (ratio > 1) out.push({ text: 'Leave Fishing parked, visit only to collect', why: `away pays ${Math.round(ratio).toLocaleString()}× active fishing` })
+    }
+    for (const u of upgrades(s).filter((u) => (u.hook === f.hook + 1 && u.rod === f.rod) || (u.hook === f.hook && u.rod === f.rod + 1)))
+      out.push({ text: u.rod > f.rod ? `Rod → ${u.rod}` : `Hook → ${u.hook}`, why: `+${(100 * u.gain).toFixed(0)}% active, +${(100 * u.awayGain).toFixed(0)}% away XP/catch` })
+    return out
+  }}

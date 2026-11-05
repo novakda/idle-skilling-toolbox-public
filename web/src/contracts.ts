@@ -1,6 +1,7 @@
 // Contracts tab (#22): every contract, its rank and progress, and what fails it. Code reads and offsets are in docs/contracts.md.
 // Contract i sits on board ceil(i/4), slot (i-1)%4: the board actor (ActorEvents_938) reads ContractRank[4*(ContractSelected-1)+k], k=1..4,
 // and draws the names below in that order †. ContractProgress[i] = -1 is failed; the game clears it on Ascend (14-24) or Rebirth (14-34) †.
+import * as NX from './next-types'
 type Save = Record<string, unknown>
 
 // Board names: wiki tier names; the game spells out only the last three (UNGODLY/CEREBRAL/LAVATHIAN_CONTRACT @11959798/@12001615/@12076921).
@@ -158,3 +159,18 @@ export function ascendPlan(rows: ContractRow[]): { steps: Step[]; skipped: Step[
     why: 'Contracts screen checks @22745856 (31), @22746568 (33), @22746912 (34); Asylum tick @27022453; harvest count @3289767.', unverified: true })
   return { steps, skipped, rebirth, choices }
 }
+
+/** Do Next section (refactor step 8, #71): moved from do-next.ts. */
+export const next: NX.NextSection = { view: 'contracts', title: 'Contracts', src: 'contracts.ts contracts, ascendPlan', fn: (s) => {
+    const rows = contracts(s)
+    // Fresh = inside the 5 minutes after an Ascend, while the window contracts can still be turned in: show the order (#25).
+    if (NX.n(s.TimeSinceAscention) <= 300) {
+      const p = ascendPlan(rows)
+      return [...p.steps.filter((st) => st.ids.length), ...p.choices.flatMap((c) => [c.a, c.b]), ...p.skipped].map((st) => ({ text: `${st.when}: ${st.text}`, why: st.why }))
+    }
+    return [
+      ...rows.filter((r) => r.status === 'failed').map((r) => ({ text: `${r.name} (${r.board}) failed`, why: `retry after the next ${r.retry}` })),
+      ...rows.filter((r) => r.doomed).map((r) => ({ text: `${r.name} (${r.board}) will fail`, why: `condition already met: ${r.fails}` })),
+      ...rows.filter((r) => r.selected && r.status === 'open' && r.fails).map((r) => ({ text: `Watch ${r.name} (${r.rankName})`, why: `fails on: ${r.fails}` })),
+    ].slice(0, 5)
+  }}

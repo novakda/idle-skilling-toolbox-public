@@ -2,7 +2,7 @@
 import { computed, ref } from 'vue'
 import { doNext } from '../do-next'
 import type { Snap } from '../income'
-import type { GameImpacts } from '../perks'
+import type { GameImpacts } from '../perk-plan'
 import type { Combat } from '../realm'
 import type { AscendSnap } from '../ascend'
 

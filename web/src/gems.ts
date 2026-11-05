@@ -4,6 +4,7 @@ import { awayPercent } from './away'
 import { activeTilling, awayTillingPerSecond } from './tilling-away'
 import { awayFishing } from './fishing'
 import { ascendGain } from './bus'
+import * as NX from './next-types'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0
@@ -76,3 +77,11 @@ function tillerNext(save: Save, pct: number, owned: number, away: number): GemIt
   const pctOf = (a: number, b: number) => `+${(100 * (b / a - 1)).toFixed(1)}%`
   return { gain: away1 / away - 1, what: `farmer ${f} armor ${n(armor[f])} → 40: Tilling XP away ${pctOf(away, away1)}, on screen ${act0 ? pctOf(act0, act1) : '?'}; its crop yield ×${((1 + 1) / (1 + n(armor[f]) / 40)).toFixed(2)}` }
 }
+
+/** Do Next section (refactor step 8, #71): moved from do-next.ts. */
+export const next: NX.NextSection = { view: 'gems', title: 'Gems', src: 'gems.ts gemShop + openItems', fn: (s) => {
+    const shop = gemShop(s), open = openItems(shop).filter((i) => per100(i) > 0)
+    const ok = open.filter((i) => i.cost <= shop.gems)
+    if (ok.length) return ok.slice(0, 3).map((i) => ({ text: `Buy ${i.name} (${i.cost} gems)`, why: `${i.next!.what}; +${(100 * per100(i)).toFixed(1)}% per 100 gems` }))
+    return open.slice(0, 1).map((i) => ({ text: `Save for ${i.name} (${i.cost} gems, have ${shop.gems})`, why: `best per gem: ${i.next!.what}` }))
+  }}

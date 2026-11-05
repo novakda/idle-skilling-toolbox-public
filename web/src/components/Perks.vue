@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
-import { buyList, perkPlan, type GameImpacts, type PerkRow } from '../perks'
+import { buyList, perkPlan, type GameImpacts, type PerkRow } from '../perk-plan'
 
 const props = defineProps<{ save: Record<string, unknown> | null }>()
 // Combat-stat impacts from the game's own code (src/perk-impacts.ts, refreshed with the live save); absent off the author's machine.

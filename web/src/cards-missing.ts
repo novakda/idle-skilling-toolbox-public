@@ -3,7 +3,8 @@
 // stage, crusade unlock and verdict, raid/Asylum boss unlock and verdict), and a step-by-step farming plan.
 // Read from Qno2x.js; offsets †. Untraced pieces are marked unverified where they are used.
 import { asylum } from './asylum'
-import cardSources from './data/card-sources.json'
+import { BOSS, nameOf, sourceText, type Source, type Sources } from './card-sources'
+export { dropText, sourceText, type Source, type Sources } from './card-sources'
 import { cell, conquestContext, CRUSADES, COUNT } from './crusade'
 import { raids, TIERS, verdicts } from './raids'
 
@@ -12,9 +13,6 @@ type Adds = Record<string, number>
 const n = (v: unknown) => Number(v ?? 0) || 0
 const at = (s: Save, k: string, i: number) => n((s[k] as unknown[] | undefined)?.[i])
 
-export type Source = { kind: 'zone'; mode: number; stages: [number, number] } | { kind: 'crusade'; conquest: number; stages: [number, number] }
-  | { kind: 'boss'; boss: string; tickets: number } | { kind: 'skill'; skill: string; detail: string; chance: number | null; per: string }
-export type Sources = { modeNames: Record<number, string>; sources: Record<number, Source[]> }
 export type MissingCard = { id: number; name: string; type: string; zone: string | null; level: number; hidden: boolean; levels: Record<string, Adds> }
 /** Drop-roll inputs: card-drop % from the Fighting-linked deck (zones and crusades both equip link 9), crusade card %, gear card
  *  % (crusades only), Fight Bonus (min(Energy, 100)/100), card rolls per hour in a zone, seconds per crusade run. */
@@ -39,10 +37,6 @@ export function expectedKills(src: Source, o: Odds): number | null {
   if (src.kind === 'skill') return src.chance ? Math.round(1 / src.chance) : null
   const b = BOSS[src.boss]!
   return b.raid ? 70 - 2 * src.tickets : b.n - src.tickets
-}
-const BOSS: Record<string, { raid: boolean; i: number; n: number }> = {
-  A: { raid: true, i: 0, n: 0 }, B: { raid: true, i: 1, n: 0 }, C: { raid: true, i: 2, n: 0 }, D: { raid: true, i: 3, n: 0 },
-  A2: { raid: false, i: 0, n: 100 }, B2: { raid: false, i: 1, n: 110 }, C2: { raid: false, i: 2, n: 130 }, D2: { raid: false, i: 3, n: 145 },
 }
 
 /** Kills on stage L needed to move up to L + 1 (the right arrow's listener, @7631900-@7633616 †): with Z = FightZoneTYPE
@@ -99,16 +93,6 @@ export type Row = { id: number; name: string; type: string; zone: string | null;
   // boss runs: tickets/keys a card costs (the plan pays them from one pool) and fight time
   pay?: { pool: 'raid' | 'asylum'; amount: number; fightHours: number } }
 
-const stageText = ([lo, hi]: [number, number]) => (hi >= 200 ? `stage ${lo + 1}+` : lo === hi ? `stage ${lo + 1}` : `stages ${lo + 1}–${hi + 1}`)
-const nameOf = (names: Record<number, string>, m: number) => names[m] ?? `mode ${m}`
-export function sourceText(src: Source, names: Record<number, string>): string {
-  if (src.kind === 'zone') return `${nameOf(names, src.mode)} ${stageText(src.stages)}`
-  if (src.kind === 'crusade') return `Crusade ${src.conquest} ${CRUSADES[src.conquest]?.name ?? ''} ${stageText(src.stages)}`.replace('  ', ' ')
-  if (src.kind === 'skill') return `${src.skill}: ${src.detail}`
-  const b = BOSS[src.boss]!, tier = (b.raid ? TIERS.raid : TIERS.asylum).tiers.find((t) => t[1] === src.tickets)
-  const boss = (b.raid ? ['King', 'Entertainer', 'Sentinel', 'Demon'] : ['Emigdala', 'Occulon', 'Scallius', 'Gorshank'])[b.i]
-  return `${b.raid ? 'Raid' : 'Asylum'} ${boss} ${tier?.[0] || 'base'}`
-}
 
 /** Value of a card for you: its level-1 bonus scored in the deck whose priorities value it most, with each bonus scaled so
  *  your best owned card of it counts 1.0 (the Decks / Best-cards-to-level scoring). A bonus you own no card of counts 1.0. */
@@ -241,11 +225,3 @@ export function category(r: Row): string {
   return BOSS[s.boss]!.raid ? 'Raid bosses' : 'Asylum bosses'
 }
 
-// Where a card drops: the game's own drop table (card-sources.json, e.g. Crusade 15 Father of All stage 5) before the wiki's
-// zone label, which names crusade cards after fight zones ("Crus.LunarIsle-5").
-const SRC = cardSources as unknown as { modeNames: Record<number, string>; sources: Record<string, Source[]> }
-export function dropText(id: number, zone: string | null | undefined) {
-  const src = SRC.sources[String(id)]?.[0]
-  if (src) return sourceText(src, SRC.modeNames)
-  return `${zone ?? '?'}${zone === 'Apothecary-1' ? ' (brewing potions 1-8)' : ''} (wiki)`
-}

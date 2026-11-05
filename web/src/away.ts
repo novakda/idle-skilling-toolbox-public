@@ -6,6 +6,8 @@
 import { cbonus, type Catalog } from './cards-calc'
 import catalog from './data/card-catalog.json'
 import { fruitBonus } from './realm'
+import screenMap from './data/screens.json'
+import * as NX from './next-types'
 
 const n = (v: unknown) => Number(v ?? 0) || 0
 
@@ -42,3 +44,13 @@ export function bankedScreens(save: Record<string, unknown>, screens: Record<str
     })
     .sort((a, b) => b.credited - a.credited)
 }
+
+/** Do Next section (refactor step 8, #71): moved from do-next.ts. */
+export const next: NX.NextSection = { view: 'afk', title: 'AFK', src: 'away.ts bankedScreens', fn: (s, x) => {
+    const p = awayPercent(s) ?? 30
+    // Codex (21) is left out: its away credit only runs down the daily-claim timer, and waiting loses nothing; see 'codex'.
+    const items = bankedScreens(s, screenMap as Record<string, { names: string[]; reduced: boolean }>, p, x.now).filter((r) => r.k !== 21 && r.credited >= 60).slice(0, 4)
+      .map((r) => ({ text: `Open ${r.name}`, why: `banks ${NX.dur(r.credited)} (${r.reduced ? `${p}%` : 'full'} of ${NX.dur(r.away)} away)`,
+        cells: [r.name, NX.dur(r.credited), r.reduced ? `${p}%` : 'full', NX.dur(r.away)] }))
+    return { items, head: ['Open', 'Banks', 'Rate', 'Away for'] }
+  }}
