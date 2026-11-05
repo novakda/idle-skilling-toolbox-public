@@ -5,9 +5,9 @@ import { BUNDLE, blockHost, compile, inert, loadBundle, matchBraces } from '../.
 import { conquestContext, COUNT, CRUSADES, crusades, materialName, rewardPct, skillEvents, mobInterval, nextReq, perVictory, potion, shownExpPerDay, stageHP, stats, totalCrusaders, withCrusade } from './crusade'
 import {fightStartHPmax, raidDecks, raidStats } from './combat'
 import { smithingBaseAttack } from './smithing'
-import type { Fight } from './raids'
+import type { Fight } from './fight-sim'
 import { cbonus, type Catalog, zoneTotalCardLV } from './cards-calc'
-import { equipmentBonuses, masteryBonuses, potionBonuses } from './load-bonuses'
+import { equipmentBonuses, masteryBonuses, potionBonuses } from './bus'
 import catalog from './data/card-catalog.json'
 import wiki from '../../data/wiki/datasets/crusades.json'
 

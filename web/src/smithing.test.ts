@@ -2,8 +2,8 @@ import { expect, test } from 'bun:test'
 import { existsSync } from 'fs'
 import { fullSave } from './test-save.test'
 import { smithingBaseAttack, smithingCosts, smithingLowerBound, smithTotalCostRedux } from './smithing'
-import { potionBonuses } from './load-bonuses'
-import { statPages } from './away'
+import { potionBonuses } from './bus'
+import { statPages } from './fight-away'
 import { BUNDLE, compile } from '../../src/game-eval'
 
 const bundle = new URL(`../../${BUNDLE}`, import.meta.url).pathname

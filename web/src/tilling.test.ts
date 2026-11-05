@@ -5,7 +5,7 @@ import { CROPS, cropCardsEquipped, cropPlan, cropUnlockLevel, farmers, farmingEx
 import { nextPotionReq, potionLevelCost, potionLevelsPerPay } from './potions-calc'
 import { withDeckLinks } from './cards-calc'
 import { reactive } from 'vue'
-import { potionBonuses, tankBonuses } from './load-bonuses'
+import { potionBonuses, tankBonuses } from './bus'
 import { buildCards, type Catalog } from './cards-calc'
 import catalog from './data/card-catalog.json'
 import { BUNDLE, compile, inert, loadBundle, matchBraces } from '../../src/game-eval'
@@ -122,7 +122,7 @@ test.skipIf(!src)('plot upgrade costs and rank EXP equal the game\'s handlers', 
 })
 
 test('farmers() agrees with the AFK tab\'s Tilling rates', async () => {
-  const { activeTilling, awayTillingPerSecond } = await import('./away')
+  const { activeTilling, awayTillingPerSecond } = await import('./tilling-away')
   const s = withTilling(await fullSave()), rows = farmers(s, 30.5)
   expect(rows.reduce((t, r) => t + r.awayXpPerSec, 0) / awayTillingPerSecond(s, 30.5)).toBeCloseTo(1, 12)
   expect(rows.reduce((t, r) => t + r.xpPerHarvest * r.harvestsPerSec, 0) / activeTilling(s).xpPerSec).toBeCloseTo(1, 12)

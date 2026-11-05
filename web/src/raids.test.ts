@@ -51,7 +51,8 @@ test('hits to kill: shield first (no carry-over), then HP', async () => {
 
 // #35: can you beat it. Every ported piece is run against the game's own code in the sandbox (dev-only).
 import { compile, inert, loadBundle, matchBraces } from '../../src/game-eval'
-import { blockAt, bossHP, cooldownSecond, HP_BASE, landed, raidBossHitTime, runSeconds, SKILLS, verdicts } from './raids'
+import { blockAt, bossHP, HP_BASE, raidBossHitTime, verdicts } from './raids'
+import { cooldownSecond, landed, runSeconds, SKILLS } from './fight-sim'
 
 test('boss HP bases are what saves store; raid HP matches the wiki table', async () => {
   const s = await fullSave()
@@ -154,7 +155,8 @@ test('the verdict says win on every difficulty this save has beaten', async () =
 })
 
 // #35 survival: the Asylum bosses' attack cycles, projectile damage and food are run against the game's own code (dev-only).
-import { asylumAttacks, asylumCell, asylumShieldMax, cycleSeconds, FOOD, fightContext, SHIELD_FOOD } from './raids'
+import { asylumAttacks, asylumCell, asylumShieldMax, cycleSeconds } from './raids'
+import { FOOD, fightContext, SHIELD_FOOD } from './fight-sim'
 import { reactive } from 'vue'
 test.skipIf(!existsSync(BUNDLE_PATH))('Asylum attack cycles, projectile hits and food equal the game code', () => {
   const src = loadBundle(BUNDLE_PATH), a459 = src.indexOf('"scripts.ActorEvents_459"')

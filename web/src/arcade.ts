@@ -4,7 +4,7 @@
 // set 1 = 1-15, set 2 = 16-30 (29-30 unused), set 3 = 31-45 (40-45 unused); names @14780178, flags re-derived from live state at load @21154200.
 // EventCurrency = golden balls (shop currency); EventUpgradeLevels/EventUpgradeCOST/EVENTpurchasesMAX [1..6] = the six permanent upgrades,
 // [7],[8] = Fall event (HolidayON); PachiTixCollected = balls launched, lifetime (+1 per launch @14929437).
-import { ascendGain } from './load-bonuses'
+import { ascendGain } from './bus'
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0
 const arr = (v: unknown) => (Array.isArray(v) ? (v as unknown[]) : [])

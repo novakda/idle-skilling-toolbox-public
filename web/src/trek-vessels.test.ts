@@ -5,7 +5,7 @@ import { fullSave } from './test-save.test'
 import { calibrate, VESSEL_TYPES, vesselBase, vesselColour, vesselFarm, vesselMulti, vesselsPerKill } from './pet-combat'
 import { BUNDLE, compile, loadBundle } from '../../src/game-eval'
 import { fresh } from './screen-bound'
-import { masteryBonuses } from './load-bonuses'
+import { masteryBonuses } from './bus'
 
 const bundle = `${import.meta.dir}/../../${BUNDLE}`, hasBundle = existsSync(bundle)
 const src = hasBundle ? loadBundle(bundle) : ''

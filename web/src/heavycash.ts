@@ -6,7 +6,7 @@
 // (†31777712 zone 1, †31805600 zone 2), so one monster's cash per kill scales exactly with the cash multiplier.
 // Net: speed ×2·0.8^t and cash ×(1.25+L/200)^t give cash/h ×2·(1+0.004·L)^t before the 40 hits/s cap, so every click
 // pays more cash per hour than the last; what it costs is kills (and everything else per kill) per hour.
-import { awayGainsPerHour } from './away'
+import { awayGainsPerHour } from './fight-away'
 
 type Save = Record<string, any>
 const n = (v: unknown) => Number(v ?? 0) || 0

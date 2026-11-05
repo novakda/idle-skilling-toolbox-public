@@ -19,18 +19,21 @@ feed Do Next, and cross-system math lives in several places. A dependency map bu
 ## Now: feature freeze + modular refactor (#62)
 
 No new features until the layering is in; bug fixes are fine. The app stays working after every step, and a boundary test
-(`web/src/deps.test.ts`) fails on any new cross-module import or a growing import cycle.
+(`web/src/deps.test.ts`) fails on any new cross-module import or a growing import cycle. After step 7 one
+24-module cycle remains; steps 7a and 7b remove its two known causes, then the cycle is re-measured.
 
 | Step | What | Issue | Status |
 |---|---|---|---|
 | 0 | Boundary test: module map, allowlist of today's cross-module imports that only shrinks | #63 | done |
 | 1 | Move misplaced helpers (card zone levels, potion level costs, smithing currencies, name lists, animation timing) | #64 | done |
 | 2 | Pets ↔ pet-combat file cycle | #65 | folded into step 10 |
-| 3 | Split `load-bonuses.ts` into one producer per system; one `vendingBonus` | #66 | next |
-| 4 | `bus.ts`: decoded state, then computed bonuses, memoised per save; move the 26 importers over | #67 | |
-| 5 | Split cards into the bonus producer and the planner | #68 | |
-| 6 | Fight simulator out of `raids.ts` into a combat engine | #69 | |
-| 7 | Split `away.ts` into the away engine and per-system gains; module graph acyclic after this | #70 | |
+| 3 | Split `load-bonuses.ts` into one producer per system; one `vendingBonus` | #66 | done |
+| 4 | `bus.ts`: decoded state, then computed bonuses, memoised per save; move the 26 importers over | #67 | done |
+| 5 | Split cards into the bonus producer and the planner | #68 | done |
+| 6 | Fight simulator out of `raids.ts` into a combat engine | #69 | done |
+| 7 | Split `away.ts` into the away engine and per-system gains | #70 | done |
+| 7a | Take `backup-guide.ts` out of core (all of core's imports of other modules come from it) | #74 | next |
+| 7b | Pages into their own layer, so a page's imports stop tying its logic module into the cycle | #75 | |
 | 8 | Do Next becomes a registry: each module exports its own next actions | #71 | |
 | 9 | Planners and reference views into their own layer | #72 | |
 | 10 | One folder per module (`state`, `bonuses`, `rates`, `next` + page), smallest first | #73 | |

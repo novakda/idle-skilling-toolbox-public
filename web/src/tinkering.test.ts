@@ -4,7 +4,7 @@ import { fullSave } from './test-save.test'
 import { BUNDLE, compile, inert, loadBundle, matchBraces } from '../../src/game-eval'
 import { baseCosts, boosterEV, BOOSTERS, craftExp, crafts, craftsTo, decks, kind, lines, lvReq, MUTATORS, name, nextReq, recipe, slotsMax, LINK } from './tinkering'
 import { cbonus, type Catalog } from './cards-calc'
-import { equipmentBonuses, masteryBonuses } from './load-bonuses'
+import { equipmentBonuses, masteryBonuses } from './bus'
 import catalog from './data/card-catalog.json'
 import wiki from '../../data/wiki/datasets/tinkering.json'
 

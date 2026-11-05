@@ -6,7 +6,7 @@ import data from './data/tinkering.json'
 import equipment from './data/equipment.json'
 import catalog from './data/card-catalog.json'
 import { cbonus, LINKS, type Catalog } from './cards-calc'
-import { masteryBonuses } from './load-bonuses'
+import { masteryBonuses } from './bus'
 import { fightStats } from './fighting'
 import { totalCrusaders, withCrusade } from './crusade'
 

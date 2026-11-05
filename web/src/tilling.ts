@@ -1,9 +1,9 @@
 // Tilling (scene SceneEvents_34, screen 15; save keys Farm*/Seeds*/Plant*). 8 farmers, farmer f works plot f and grows crop
 // PlantType[f]. Every formula is ported from Qno2x.js (offsets †) and checked in tilling.test.ts against the values a full
 // save stores, or against the game's own code in the sandbox; everything is computed from the save alone.
-import { activeTilling, awayTillingPerSecond } from './away'
+import { activeTilling, awayTillingPerSecond } from './tilling-away'
 import { framesPerSec } from './anim'
-import { equipmentBonuses, masteryBonuses, potionBonuses, tankBonuses } from './load-bonuses'
+import { equipmentBonuses, masteryBonuses, potionBonuses, tankBonuses } from './bus'
 import { buildCards, type Catalog } from './cards-calc'
 import catalog from './data/card-catalog.json'
 import { potionLevelCost, potionLevelsPerPay } from './potions-calc'

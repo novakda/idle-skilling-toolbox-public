@@ -3,7 +3,7 @@ import { expect, test } from 'bun:test'
 import { BUNDLE, compile, loadBundle } from '../../src/game-eval'
 import { petsView, petValueTotals } from './pets'
 import { current } from "./screen-bound"
-import { masteryBonuses } from "./load-bonuses"
+import { masteryBonuses } from "./bus"
 import { openSlots } from './pet-combat'
 import { bestLoadouts, expPerKill, focusValue, savedLoadouts } from './trek-loadouts'
 

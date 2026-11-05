@@ -3,7 +3,7 @@ import { existsSync } from 'fs'
 import { reactive } from 'vue'
 import { fullSave } from './test-save.test'
 import { BONUS, bought, buys, EFFECTS, glyphBonusPct, nextReq, pro, rifts, spendPlan, SPEED_CAP, upgradeCost, withRift } from './rift'
-import { potionBonuses } from './load-bonuses'
+import { potionBonuses } from './bus'
 import { BUNDLE, compile, inert, loadBundle, matchBraces } from '../../src/game-eval'
 
 const bundle = new URL(`../../${BUNDLE}`, import.meta.url).pathname

@@ -2,7 +2,7 @@
 // (Qno2x.js offsets cited); docs/resets.md has the full reset list.
 import catalog from './data/card-catalog.json'
 import { buildCards, cbonus, type Catalog } from './cards-calc'
-import { ascendGain, potionBonuses } from './load-bonuses'
+import { ascendGain, potionBonuses } from './bus'
 import { smithingCostAt, smithCurrency } from './smithing'
 import { ZONES, estimate, fightStats, monsterHP } from './fighting'
 import { resetTarget } from './income'

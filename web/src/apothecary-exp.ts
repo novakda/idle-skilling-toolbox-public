@@ -15,7 +15,7 @@
 // - Brewing gate @3676830 / @25093300: a potion at level 1 can only start brewing once ApothecaryLV ≥ its unlock level.
 import catalog from './data/card-catalog.json'
 import { buildCards, cbonus, withDeckLinks, type Catalog } from './cards-calc'
-import { brewSpeedBoost } from './load-bonuses'
+import { brewSpeedBoost } from './bus'
 import { TICKS_PER_SEC } from './potions-calc'
 import { PERKS, perkLock } from './perks'
 import { skillLock } from './skilltree'

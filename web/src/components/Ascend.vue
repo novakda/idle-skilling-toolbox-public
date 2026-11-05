@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
 import { levelsPerCraft, preAscendDeck, relevelNeed, resetAdvice, resetCompare, soulsKept, startGold, type AscendSnap } from '../ascend'
-import { ascendGain } from '../load-bonuses'
+import { ascendGain } from '../bus'
 import { perkPlan, type GameImpacts } from '../perks'
 import { apNodeNext } from '../skilltree'
 import { SOULS } from '../rift'

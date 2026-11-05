@@ -1,6 +1,6 @@
 import { expect, test } from 'bun:test'
 import { fightStats } from './fighting'
-import { ascendGain } from './load-bonuses'
+import { ascendGain } from './bus'
 import { fullSave } from './test-save.test'
 import { STATS, awayTotal, cashTotal, chainChance, damageTotal } from './totals'
 

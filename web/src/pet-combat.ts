@@ -13,7 +13,7 @@
 // ranking teams; a single fight in game varies around it. Each fighter's projectile (and its Genesis copy, weighted by the
 // Genesis chance) is its own hit, in fighter order, so Radiation stacks go to the first hit after them.
 import { petGenes, petHPtot, petValueTotals, GENES, TREK_SLOTS, invText, type Pet } from './pets'
-import { equipmentBonuses, masteryBonuses } from './load-bonuses'
+import { equipmentBonuses, masteryBonuses } from './bus'
 import { awayPercent } from './away'
 import { current } from './screen-bound'
 

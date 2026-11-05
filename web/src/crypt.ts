@@ -2,7 +2,7 @@
 // cited). Monster HP is the fight scene's (monsterHP, fighting.ts) with the Crypt's own rewrite; damage reuses the raids skill
 // model (raids.ts SKILLS / skillEvents) on the Fighting-linked decks (fightStats, fighting.ts).
 import { fightStats, LINK, monsterGold, monsterHP } from './fighting'
-import { fightContext, runSeconds, skillEvents, type Fight } from './raids'
+import { fightContext, runSeconds, skillEvents, type Fight } from './fight-sim'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0

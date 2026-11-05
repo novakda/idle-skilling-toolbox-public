@@ -12,7 +12,7 @@ export function appendHistory(save: Record<string, unknown>, path = "data/histor
 /** Ascend/rebirth snapshots (#10): what ascending/rebirthing would pay at this point in the run, so the AFK panel's
  *  recent-vs-average verdict works without reloading the page an hour apart. Appends when the run clock moved ≥ 15 min. */
 export async function appendAscend(save: Record<string, unknown>, path = "data/ascend-history.json", keep = 2000) {
-  const { ascendGain } = await import("../web/src/load-bonuses");
+  const { ascendGain } = await import("../web/src/bus");
   const { getPlayerDPS } = await import("../web/src/combat");
   let g;
   try { g = ascendGain(save); } catch { return; } // save lacks ascend inputs

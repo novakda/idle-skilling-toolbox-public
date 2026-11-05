@@ -4,7 +4,7 @@ import catalog from './data/card-catalog.json'
 import { cbonus, type Catalog, zoneTotalCardLV } from './cards-calc'
 import {raidDecks } from './combat'
 import { fightStats, LINK } from './fighting'
-import { equipmentBonuses, masteryBonuses, potionBonuses, tankBonuses } from './load-bonuses'
+import { equipmentBonuses, masteryBonuses, potionBonuses, tankBonuses } from './bus'
 import { tierPerks } from './botany-calc'
 import { fruitBonus, vendingBonus } from './realm'
 import { ascName, potionName, smithName } from './names'
@@ -328,7 +328,7 @@ const botanyRows = (s: Save): Row[] => {
   ]
 }
 
-/** AP per ascend multiplier (award handler @12472746..@12473636; ascendGain in load-bonuses.ts): (1 + Σ additive/100)·Π. */
+/** AP per ascend multiplier (award handler @12472746..@12473636; ascendGain in ascend-rewards.ts): (1 + Σ additive/100)·Π. */
 const apRows = (s: Save): Row[] => {
   const a = (k: string, i: number) => at(s, k, i), sec = n(a('SecretEarned', 2)), s59 = a('SmithingItemLevel', 59), s35 = a('SmithingItemLevel', 35)
   const r8 = a('RiftLVL', 8), sk37 = a('SkillLevels', 37), mtx = stored(s, 'MTXdoubleAP') ?? 0, bap = potionBonuses(s).BonusAP
@@ -679,9 +679,9 @@ export const STATS: Stat[] = [{
     return { value: v, lines: [`(1 + ${sig(rows.filter((r) => r.pct != null).reduce((a, r) => a + r.pct!, 0))}%) × the factors = ×${sig(v)}.`] }
   },
   show: (v) => `×${sig(v)}`,
-  meaning: 'What the ascend award (@12469725) multiplies APreward by (ascendGain in load-bonuses.ts, checked against the game code). The Ascend tab shows the AP it gives.',
+  meaning: 'What the ascend award (@12469725) multiplies APreward by (ascendGain in ascend-rewards.ts, checked against the game code). The Ascend tab shows the AP it gives.',
 }, {
   id: 'bp', label: 'BP per rebirth multiplier',
   rows: bpRows, total: xTotal, show: (v) => `×${sig(v)}`,
-  meaning: 'What the rebirth award (@12480775) multiplies BPreward by (ascendGain in load-bonuses.ts, checked against the game code).',
+  meaning: 'What the rebirth award (@12480775) multiplies BPreward by (ascendGain in ascend-rewards.ts, checked against the game code).',
 }]

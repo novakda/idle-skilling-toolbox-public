@@ -8,7 +8,7 @@
 import { eternalBonus, nextPotionReq, potionLevelCost, potionLevelsPerPay, TICKS_PER_SEC } from './potions-calc'
 import { unlockLevel } from './apothecary-exp'
 import { POTION_FORMULAS, potionGroup, potionMultiplier, potionTotal } from './potion-formulas'
-import { brewSpeedBoost, vendingBonus } from './load-bonuses'
+import { brewSpeedBoost, vendingAt } from './bus'
 import { withDeckLinks } from './cards-calc'
 import { current } from './screen-bound'
 
@@ -33,7 +33,7 @@ export function brewRate(s: Save, c: number) {
 export function effectGain(s: Save, id: number, to: number) {
   const f = POTION_FORMULAS[id]
   if (!f) return null
-  const lv = arr(s, 'PotionLV'), S = potionMultiplier(n(lv[94]), vendingBonus(s, 5))
+  const lv = arr(s, 'PotionLV'), S = potionMultiplier(n(lv[94]), vendingAt(s, 5))
   const ids = potionGroup(id).length ? potionGroup(id) : [id]
   const stat = (L: number) => ids.reduce((t, j) => {
     const l = j === id ? L : n(lv[j - 1]), g = POTION_FORMULAS[j]!

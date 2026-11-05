@@ -92,6 +92,8 @@ export function vendingBonus(i: number, level: number) {
   if (i === 15) return Math.round(((50 * level) / Math.max(1, level + 35)) * 10) / 10
   return R.vending[i]!.per * level
 }
+/** A save's vending item bonus: vendingBonus at the level in RealmStuff[8]. Item 5 scales potion bonuses, 7 mastery perks, 8 lab tanks. */
+export const vendingAt = (save: Save, i: number) => vendingBonus(i, n((save.RealmStuff as any[] | undefined)?.[8]?.[i]))
 /** FieldTraitBonusQTY (MinionInfo @6424562): Field plot i's bonus at level RealmStuff[35][i]. */
 export function fieldTraitQty(rs: any[], i: number) {
   const L = n(rs[35]?.[i]), v = R.traits[45 + i]!.value

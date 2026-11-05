@@ -2,7 +2,7 @@ import { expect, test } from 'bun:test'
 import { existsSync } from 'fs'
 import { fullSave } from './test-save.test'
 import { labPlan, labUpgrades, petsView, petGenes, petHPtot, petValueTotals, speciesAt, tankExpReq } from './pets'
-import { tankBonuses } from './load-bonuses'
+import { tankBonuses } from './bus'
 
 // Pets screen snapshot (all attributes, read live 2026-10-03 20:08 PT right after the author opened the Pets/hatchery screen).
 const live = new URL('../../data/captures/2026-10-03/pets-hatchery/attrs.json', import.meta.url).pathname

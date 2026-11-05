@@ -98,7 +98,7 @@ test.skipIf(!existsSync(cap('crusade')) || !existsSync(cap('cards')))('Conquest 
 import { blockHost } from '../../src/game-eval'
 import { getPlayerDPS, raidDecks, raidStats } from './combat'
 import { cbonus, type Catalog, zoneTotalCardLV } from './cards-calc'
-import { equipmentBonuses, masteryBonuses, potionBonuses } from './load-bonuses'
+import { equipmentBonuses, masteryBonuses, potionBonuses } from './bus'
 import { skillHitRequirement } from './raids'
 import cardCatalog from './data/card-catalog.json'
 const rewrap = (v: unknown): unknown => Array.isArray(v) ? v.map(rewrap) : v && typeof v === 'object' ? { h: Object.fromEntries(Object.entries(v).map(([k, x]) => [k, rewrap(x)])) } : v

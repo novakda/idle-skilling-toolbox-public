@@ -2,7 +2,7 @@ import { expect, test } from 'bun:test'
 import { fullSave } from './test-save.test'
 import { attacksPerSec, bestZones, cardChance, cardId, damageParts, estimate, fightingDeck, monsterGold, monsterHP, monsterName, dpsSpeed, fightStats, killReq, medallion, strafe, unlocked, zoneProgress, ZONES, type FightStats } from './fighting'
 import { raidDecks } from './combat'
-import { masteryBonuses } from './load-bonuses'
+import { masteryBonuses } from './bus'
 import { existsSync, readFileSync } from 'fs'
 import { fresh } from './screen-bound'
 

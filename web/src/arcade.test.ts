@@ -1,4 +1,4 @@
-import { ascendGain } from './load-bonuses'
+import { ascendGain } from './bus'
 import { expect, test } from 'bun:test'
 import { existsSync } from 'fs'
 import { arcade, arcadeRank, ballRate, costStep } from './arcade'

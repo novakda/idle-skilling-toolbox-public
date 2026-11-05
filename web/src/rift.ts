@@ -3,7 +3,7 @@
 // its bonus elsewhere) and Summoning EXP. Every formula is ported from Qno2x.js (offsets †) and checked in rift.test.ts against
 // a full save, a live Limbo capture, or the game's own code in the sandbox; everything is computed from the save alone.
 import { framesPerSec } from './anim'
-import { equipmentBonuses, potionBonuses } from './load-bonuses'
+import { equipmentBonuses, potionBonuses } from './bus'
 import { cbonus, type Catalog } from './cards-calc'
 import catalog from './data/card-catalog.json'
 

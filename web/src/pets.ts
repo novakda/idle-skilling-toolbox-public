@@ -3,7 +3,7 @@
 // Not ported, on purpose: GlobalPetAttackType / GlobalPetAttackValue are the queue of pet attacks fired in battle (each
 // cooldown hit writes slot _PetAttackIterization: ability id 1-21, PetValue1 × that ability's multiplier) for the battle
 // actor to consume. Event log, not a stat.
-import { tankBonuses } from './load-bonuses'
+import { tankBonuses } from './bus'
 import { trekOptions, type TrekOption } from './pet-combat' // circular (pet-combat imports this file); both only call each other inside functions
 
 type Save = Record<string, unknown>

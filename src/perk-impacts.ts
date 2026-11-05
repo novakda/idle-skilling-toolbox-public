@@ -10,7 +10,7 @@
 // Usage: bun src/perk-impacts.ts [--save data/save.json]
 import { readFileSync, writeFileSync } from "fs";
 import { blockHost, compile, inert, loadBundle, matchBraces, type Attrs } from "./game-eval";
-import { idleHitsPerSec, idleMult } from "../web/src/away";
+import { idleHitsPerSec, idleMult } from "../web/src/fight-away";
 import { cbonus, type Catalog } from "../web/src/cards-calc";
 import catalog from "../web/src/data/card-catalog.json";
 import perks from "../web/src/data/perks.json";
@@ -103,7 +103,7 @@ export function skillStats(src = loadBundle()) {
 export type SkillStats = ReturnType<ReturnType<typeof skillStats>>;
 
 // Output label → stat; higher is better for all (accuracy = 1 / hit requirement). Away kills/h and cash/h are
-// proportional to BonusKillperKill and defaultgold (web/src/away.ts awayGainsPerHour), so their % change is the stat's.
+// proportional to BonusKillperKill and defaultgold (web/src/fight-away.ts awayGainsPerHour), so their % change is the stat's.
 type Stats = FightStats & SkillStats;
 const OUTPUTS: [string, (s: Stats) => number][] = [
   ["DPS", (s) => s.DPS],

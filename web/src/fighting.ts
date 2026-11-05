@@ -4,7 +4,7 @@
 import catalog from './data/card-catalog.json'
 import { buildCards, cbonus, type Catalog } from './cards-calc'
 import { getPlayerDPS, hitChance, monsterDamageReduction, monsterHitRequirement, monstersDamage, playerHPmax, raidDecks, raidStats } from './combat'
-import { equipmentBonuses, masteryBonuses, potionBonuses } from './load-bonuses'
+import { equipmentBonuses, masteryBonuses, potionBonuses } from './bus'
 import { smithingBaseAttack } from './smithing'
 
 type Save = Record<string, unknown>

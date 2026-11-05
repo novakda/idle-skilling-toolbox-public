@@ -1,9 +1,11 @@
 <script setup lang="ts">
 import { computed, ref, watch } from 'vue'
 import screenMap from '../data/screens.json'
-import { activeTilling, awayPercent, awayTillingPerSecond, bankedScreens, LEAVE_OR_PLAY, statPages } from '../away'
+import { awayPercent, bankedScreens, LEAVE_OR_PLAY } from '../away'
+import { statPages } from '../fight-away'
+import { activeTilling, awayTillingPerSecond } from '../tilling-away'
 import { awayFishing } from '../fishing'
-import { ascendGain } from '../load-bonuses'
+import { ascendGain } from '../bus'
 import { resetTarget } from '../income'
 import Icon from './Icon.vue'
 import { sectionRef } from '../section'

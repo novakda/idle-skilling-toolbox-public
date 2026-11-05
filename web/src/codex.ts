@@ -5,7 +5,7 @@
 import data from './data/codex.json'
 import lab from './data/lab.json'
 import { petGenes, petsView, TREK_SLOTS, type Pet } from './pets'
-import { capsuleExpRate } from './load-bonuses'
+import { capsuleExpRate } from './bus'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0

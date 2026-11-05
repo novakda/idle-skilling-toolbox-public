@@ -4,7 +4,7 @@ import catalog from './data/card-catalog.json'
 import items from './data/smithing.json'
 import { cbonus, type Catalog, zoneTotalCardLV } from './cards-calc'
 import { ORES, FISH } from './names'
-import { equipmentBonuses, masteryBonuses, potionBonuses, smithCostCore } from './load-bonuses'
+import { equipmentBonuses, masteryBonuses, potionBonuses, smithCostCore } from './bus'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0

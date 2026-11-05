@@ -2,13 +2,13 @@
 // crusaders that win victories while you're away (claimed by ActorEvents_995 in the select screen). Every formula is ported
 // from Qno2x.js (offsets †) and checked in crusade.test.ts against values a save stores or the game's own code in the
 // sandbox; everything here is computed from the save alone.
-import { equipmentBonuses, masteryBonuses } from './load-bonuses'
+import { equipmentBonuses, masteryBonuses } from './bus'
 import { current } from './screen-bound'
 import { cbonus, type Catalog } from './cards-calc'
 import catalog from './data/card-catalog.json'
 import { fightStartHPmax, getPlayerDPS, monsterDamageReduction, raidDecks } from './combat'
 import { smithingBaseAttack } from './smithing'
-import { cooldownSecond, fightContext, FOOD, landed, type Fight } from './raids'
+import { cooldownSecond, fightContext, FOOD, landed, type Fight } from './fight-sim'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0

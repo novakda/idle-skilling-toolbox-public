@@ -4,7 +4,7 @@
 // MonstersDamage formula: raidMonstersDamage / asylumMonstersDamage / conquestMonstersDamage (#32).
 import catalog from './data/card-catalog.json'
 import { cbonus, type Catalog, zoneTotalCardLV } from './cards-calc'
-import { equipmentBonuses, masteryBonuses, potionBonuses } from './load-bonuses'
+import { equipmentBonuses, masteryBonuses, potionBonuses } from './bus'
 import { fruitBonus, vendingBonus as realmVending } from './realm'
 import { smithingBaseAttack } from './smithing'
 

@@ -1,6 +1,6 @@
 import { expect, test } from 'bun:test'
 import { fullSave } from './test-save.test'
-import { ascensionRewards, brewSpeedBoost, equipmentBonuses, masteryBonuses, potionBonuses, tankBonuses } from './load-bonuses'
+import { ascensionRewards, brewSpeedBoost, equipmentBonuses, masteryBonuses, potionBonuses, tankBonuses } from './bus'
 
 const full = async () => fullSave()
 
@@ -48,7 +48,7 @@ test('ascend (AP) and rebirth (BP) rewards match the game', async () => {
 // Dev-only: skipped when the extracted bundle isn't present.
 import { existsSync } from 'fs'
 import { BUNDLE, compile, loadBundle } from '../../src/game-eval'
-import { ascendGain } from './load-bonuses'
+import { ascendGain } from './bus'
 test.skipIf(!existsSync(`${import.meta.dir}/../../${BUNDLE}`))('ascend/rebirth gain matches the game award code', async () => {
   const src = loadBundle(`${import.meta.dir}/../../${BUNDLE}`), s = await full(), g = ascendGain(s)
   const body = (at: number, open: string, end: string) => { const a = src.lastIndexOf(open, at); return src.slice(a + 4, src.indexOf(end, a)) }

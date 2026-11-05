@@ -6,7 +6,7 @@ import { candyFor, candyText } from '../candy'
 import { discoveryTargets, eternalBonus, type PotionStatic } from '../potions-calc'
 import { awayPercent } from '../away'
 import { POTION_FORMULAS, potionGroup, potionGroupTotal, potionMultiplier, potionTotal } from '../potion-formulas'
-import { vendingBonus } from '../load-bonuses'
+import { vendingAt } from '../bus'
 import Icon from './Icon.vue'
 import { sectionRef } from '../section'
 import { expPlan, expRates, nextUnlocks, levelNeeds } from '../apothecary-exp'
@@ -84,7 +84,7 @@ const discovered = computed(() => (data.value?.potions ?? []).filter((p) => p.di
 const groupIds = (p: Potion) => { const g = potionGroup(p.id); return g.length ? g : [...(p.group ?? '').matchAll(/\[#(\d+)\]/g)].map((m) => +m[1]!) }
 const groupOthers = (p: Potion) => groupIds(p).filter((id) => id !== p.id).map((id) => `${potionName(id)} [#${id}]`).join(', ')
 // The block multiplies most potion keys by 1 + 2%·Blasphemy level + Realm vending 5 (marked * in Total now).
-const mult = computed(() => potionMultiplier(Number((props.save?.PotionLV as number[] | undefined)?.[94] ?? 0), props.save ? vendingBonus(props.save, 5) : 0))
+const mult = computed(() => potionMultiplier(Number((props.save?.PotionLV as number[] | undefined)?.[94] ?? 0), props.save ? vendingAt(props.save, 5) : 0))
 const total = (p: Potion) => (p.discovered ? potionTotal(p.id, p.level, mult.value) : '')
 const scaled = (p: Potion) => !!POTION_FORMULAS[p.id]?.m
 // Group total: members' totals added (only when they all read alike, e.g. all "% ore gains"); ids come from the "[#id]" tags.

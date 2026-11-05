@@ -1,6 +1,7 @@
 // Asylum page (#46): keys, traces, bosses and which run to do next. The fight model (boss HP, block, your skills) is
 // raids.ts (#35); this adds the Asylum's key timer, what a win drops, and a run plan. Read from Qno2x.js (offsets †).
-import { asylumCell, BOSSES, fightContext, raids, runSeconds, TIERS, type Fight } from './raids'
+import { asylumCell, BOSSES, raids, TIERS } from './raids'
+import { fightContext, runSeconds, type Fight } from './fight-sim'
 import { shrineOwned, shrineRows, type ShrineTable } from './income'
 import shrineTable from './data/shrines.json'
 

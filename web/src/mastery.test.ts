@@ -1,7 +1,7 @@
 import { expect, test } from 'bun:test'
 import { fullSave } from './test-save.test'
 import { canBuy, mastery, perks, plan, points, taskPoints, tasks, tier, TREES, TRACK } from './mastery'
-import { masteryBonuses } from './load-bonuses'
+import { masteryBonuses } from './bus'
 import data from './data/mastery.json'
 
 const saves = async () => [await fullSave(), await Bun.file(new URL('../../data/save.json', import.meta.url)).json()]

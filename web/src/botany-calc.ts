@@ -3,7 +3,7 @@
 // Not here: absolute growth times and flowers/hour. Those need HerbloreSpeedBOOST / HerbloreFlowerBOOST, which the
 // game builds at scene load from MasteryBonuses, TankBonusLIST and EbonusThree (not in cloud saves, not ported yet).
 import { cbonus, type Catalog } from './cards-calc'
-import { equipmentBonuses, masteryBonuses, potionBonuses, tankBonuses } from './load-bonuses'
+import { equipmentBonuses, masteryBonuses, potionBonuses, tankBonuses } from './bus'
 import catalog from './data/card-catalog.json'
 
 type Save = Record<string, unknown>

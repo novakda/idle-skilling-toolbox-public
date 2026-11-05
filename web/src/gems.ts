@@ -1,8 +1,9 @@
 // Gem shop advisor (#11): what you own, and the next purchase's effect where a formula in this app can price it.
 // Costs/caps from the game's buy handler (MTXbuyableSELECTED branches @14665302-@14741983, one per item number; gems.test.ts reads them); owned counts from the MTX* save keys. Gems = save.sparklecoin.
-import { activeTilling, awayPercent, awayTillingPerSecond } from './away'
+import { awayPercent } from './away'
+import { activeTilling, awayTillingPerSecond } from './tilling-away'
 import { awayFishing } from './fishing'
-import { ascendGain } from './load-bonuses'
+import { ascendGain } from './bus'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0

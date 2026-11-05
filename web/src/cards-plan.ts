@@ -2,7 +2,7 @@
 // farming decks, the ranked missing cards and the farming plan, so the Do next page shows the same plan as Cards.vue.
 // Browser-kept settings (priorities, rolls/h, crusade run time, deck links) are read by cardSettings() for both.
 import { buildCards, deckFor as linkedDeck, DECK_LINKS_KEY, LINKS, passiveAt, passives, withDeckLinks, type Catalog } from './cards-calc'
-import { equipmentBonuses } from './load-bonuses'
+import { equipmentBonuses } from './bus'
 import { cardValue, gates, missingCards, plan, rank, type Gates, type MissingCard, type Odds, type Sources } from './cards-missing'
 import catalog from './data/card-catalog.json'
 import cardSources from './data/card-sources.json'

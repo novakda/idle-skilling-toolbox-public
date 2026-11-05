@@ -3,11 +3,13 @@
 // button (src/derive-perks.ts). Formulas that read stored derived values (DPS, HP…) won't see a perk that feeds those;
 // src/perk-impacts.ts reruns the game's own code for those. Perks that change no rate get a LABELS entry instead.
 import perkData from './data/perks.json'
-import { awayGainsPerHour, awayPercent, awayTillingPerSecond } from './away'
+import { awayPercent } from './away'
+import { awayGainsPerHour } from './fight-away'
+import { awayTillingPerSecond } from './tilling-away'
 import { awayFishing } from './fishing'
 import { hitChance, playerHPmax } from './combat'
 import { smithingBaseAttack } from './smithing'
-import { ascendGain, brewSpeedBoost } from './load-bonuses'
+import { ascendGain, brewSpeedBoost } from './bus'
 import { botanyPots } from './botany-calc'
 import { levelTotal } from './level-total'
 

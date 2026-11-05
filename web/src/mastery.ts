@@ -3,7 +3,7 @@
 // (MasteryPerksUnlocked[i], perks 1-125 in three trees); perk levels feed MasteryBonuses (load-bonuses.ts masteryBonuses).
 // Tables: src/derive-mastery.ts → data/mastery.json. Every rule cites its Qno2x.js offset (†); checked in mastery.test.ts.
 import data from './data/mastery.json'
-import { masteryBonuses, masteryPerkAmounts } from './load-bonuses'
+import { masteryBonuses, masteryPerkAmounts } from './bus'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0

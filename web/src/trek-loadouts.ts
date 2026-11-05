@@ -10,7 +10,7 @@
 //   the frontier pays distance †.
 import { petGenes, petValueTotals, GENES, invText, type Pet } from './pets'
 import { bestTeam, killDistance, openSlots, simulateTrek, teamOf, vesselsPerKill, withTeam, type Team } from './pet-combat'
-import { masteryBonuses } from './load-bonuses'
+import { masteryBonuses } from './bus'
 import { current } from './screen-bound'
 
 type Save = Record<string, unknown>

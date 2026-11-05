@@ -1,7 +1,7 @@
 import { expect, test } from 'bun:test'
 import { existsSync, readFileSync } from 'fs'
 import { fullSave } from './test-save.test'
-import { awayCardDrops, awayGainsPerHour, cashTier, statPages } from './away'
+import { awayCardDrops, awayGainsPerHour, cashTier, statPages } from './fight-away'
 import { BUNDLE } from '../../src/game-eval'
 import { pageListeners, renderPage } from '../../src/stat-pages'
 

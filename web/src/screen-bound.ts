@@ -11,7 +11,7 @@ export type Bound = { writer: number | number[] | 'mastery-scene'; at: string; m
 const SPIRIT = 'SceneEvents_27 runLater 30/50 @21245136/@21256531, then runPeriodically 500 @21274672'
 const SKILLER = 'SceneEvents_27 runPeriodically 500 @21274672, draw @21348226'
 export const SCREEN_BOUND: Record<string, Bound> = {
-  MasteryBonuses: { writer: 'mastery-scene', at: 'SceneEvents_48 runPeriodically(2e3) @29901047', model: 'load-bonuses#masteryBonuses', exact: true },
+  MasteryBonuses: { writer: 'mastery-scene', at: 'SceneEvents_48 runPeriodically(2e3) @29901047', model: 'mastery-bonuses#masteryBonuses', exact: true },
   // Also written by the raid/crusade/Asylum scenes' DPS listeners (@19999256, @23403120, @26992559); the model is the main fight's.
   // Not exact: on screen 8 the stored value carries the skill-10 buff (@2590856) and the lab drift (fighting.test.ts).
   DPS: { writer: 8, at: 'SceneEvents_9 DPS listener @31880404', model: 'fighting#fightStats' },
@@ -32,9 +32,9 @@ export const SCREEN_BOUND: Record<string, Bound> = {
   SoulsGivenAco: { writer: 9, at: SKILLER, model: 'spiriting#skillerStats', exact: true },
   CultistAnimationSpeed: { writer: 9, at: SKILLER, model: 'spiriting#skillerStats', exact: true },
   AcolyteAnimationSpeed: { writer: 9, at: SKILLER, model: 'spiriting#skillerStats', exact: true },
-  PbonusLimboLuck: { writer: [8, 17], at: 'SceneEvents_9 init @31658978, SceneEvents_37 init @26007961', model: 'load-bonuses#potionBonuses', exact: true },
+  PbonusLimboLuck: { writer: [8, 17], at: 'SceneEvents_9 init @31658978, SceneEvents_37 init @26007961', model: 'potion-bonuses#potionBonuses', exact: true },
   ApothecaryExpGivenBONUS: { writer: 17, at: 'SceneEvents_37 runLater 30 @24880362', model: 'apothecary-exp#expBonus', exact: true },
-  'PotionBrewSpeedBOOST[1]': { writer: 17, at: 'SceneEvents_37 init @24876477', model: 'load-bonuses#brewSpeedBoost', exact: true },
+  'PotionBrewSpeedBOOST[1]': { writer: 17, at: 'SceneEvents_37 init @24876477', model: 'potion-bonuses#brewSpeedBoost', exact: true },
   // Orb energy is clamped to the cap only while the Realm screen draws it. No model: off screen the stored value is the energy
   // held (the next Realm draw trims any excess), and realm.ts orbCap leaves out the cap multipliers, so it can't clamp it.
   'RealmStuff[26]': { writer: 24, at: 'Realm draw clamp @6935978' },

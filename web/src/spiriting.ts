@@ -7,7 +7,7 @@
 import { framesPerSec } from './anim'
 import { cbonus, type Catalog } from './cards-calc'
 import catalog from './data/card-catalog.json'
-import { masteryBonuses, potionBonuses } from './load-bonuses'
+import { masteryBonuses, potionBonuses } from './bus'
 import { rules } from './summoning'
 import { RIFT_COUNT, SPEED_CAP, upgradeCost as riftCost } from './rift'
 import { current } from './screen-bound'

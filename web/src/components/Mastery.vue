@@ -95,7 +95,7 @@ const sec = sectionRef(SECTIONS.map(([id]) => id))
       <li><b>Tiers.</b> A tree's tier is its average perk level rounded up to 0.01 († @29833022). You can raise a perk only to ⌊tier⌋ + 1, and the
         tree's first perk only when the whole tree is level, so each pass raises every perk by one. The buy stops at tier {{ MAX_LV }} († @29919606).</li>
       <li><b>Bonuses.</b> Each level adds the per-level amount. Damage, cash and gathering types multiply, the rest add (MasteryBonuses, ported in
-        load-bonuses.ts and checked against the stored values). Capstone 20 multiplies damage, 35 cash, 43 damage × Hatchery LV.</li>
+        mastery-bonuses.ts and checked against the stored values). Capstone 20 multiplies damage, 35 cash, 43 damage × Hatchery LV.</li>
       <li><b>Capstone names</b> show "?????" in game until the perk before them is owned; the names here are the ones the game reveals († @29897822).</li>
     </ul>
     <p class="note">Sources: Qno2x.js offsets in web/src/mastery.ts; tables from the mastery scene (src/derive-mastery.ts). Tree names, the screen wording of
