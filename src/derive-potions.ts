@@ -4,7 +4,7 @@
 // Output data/game/potions.json (local only). Usage: bun src/derive-potions.ts
 import { readFileSync, writeFileSync } from "fs";
 import { DERIVED, fingerprint } from "./card-fingerprint";
-import { POTION_FORMULAS, potionGroup } from "../web/src/potion-formulas";
+import { POTION_FORMULAS, potionGroup } from "../web/src/modules/potions/potion-formulas";
 
 const save = JSON.parse(readFileSync("data/save.json", "utf8")) as Record<string, any>;
 const names = JSON.parse(readFileSync("data/game/lists.json", "utf8"))["SceneEvents_38.PotionsNames"] as (string | null)[];

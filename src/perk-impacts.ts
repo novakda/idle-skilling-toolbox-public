@@ -10,8 +10,8 @@
 // Usage: bun src/perk-impacts.ts [--save data/save.json]
 import { readFileSync, writeFileSync } from "fs";
 import { blockHost, compile, inert, loadBundle, matchBraces, type Attrs } from "./game-eval";
-import { idleHitsPerSec, idleMult } from "../web/src/fight-away";
-import { cbonus, type Catalog } from "../web/src/cards-calc";
+import { idleHitsPerSec, idleMult } from "../web/src/modules/fighting/fight-away";
+import { cbonus, type Catalog } from "../web/src/modules/cards/cards-calc";
 import catalog from "../web/src/data/card-catalog.json";
 import perks from "../web/src/data/perks.json";
 

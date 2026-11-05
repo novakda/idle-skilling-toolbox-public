@@ -1,18 +1,18 @@
 // Totals page (#2630): one stat at a time, every source that feeds it and the result combined the way the game does.
 // Add a stat = add one entry to STATS (rows from the save + how they combine).
 import catalog from './data/card-catalog.json'
-import { cbonus, type Catalog, zoneTotalCardLV } from './cards-calc'
+import { cbonus, type Catalog, zoneTotalCardLV } from './modules/cards/cards-calc'
 import {raidDecks } from './combat'
-import { fightStats, LINK } from './fighting'
+import { fightStats, LINK } from './modules/fighting/fighting'
 import { equipmentBonuses, masteryBonuses, potionBonuses, tankBonuses } from './bus'
-import { tierPerks } from './botany-calc'
-import { fruitBonus, vendingBonus } from './realm'
+import { tierPerks } from './modules/botany/botany-calc'
+import { fruitBonus, vendingBonus } from './modules/realm/realm'
 import { ascName, potionName, smithName } from './names'
-import { skillName } from './skilltree'
-import { masteryPerkName } from './mastery'
-import { name as building } from './construction'
-import { RIFTS } from './rift'
-import { hired, spelunker } from './spelunking'
+import { skillName } from './modules/skilltrees/skilltree'
+import { masteryPerkName } from './modules/mastery/mastery'
+import { name as building } from './modules/construction/construction'
+import { RIFTS } from './modules/rift/rift'
+import { hired, spelunker } from './modules/spelunking/spelunking'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0

@@ -31,7 +31,7 @@ import { existsSync, readFileSync } from 'fs'
 import { BUNDLE, compile, inert, loadBundle, matchBraces } from '../../src/game-eval'
 import { asylumMonstersDamage, conquestMonstersDamage, fightStartHPmax, raidMonstersDamage } from './combat'
 import wikiRaids from '../../data/wiki/datasets/raids.json'
-import { bossHP, HP_BASE } from './raids'
+import { bossHP, HP_BASE } from './modules/raids/raids'
 
 test('raid boss damage matches the wiki table', () => {
   const rows = (wikiRaids as any[]).filter((r) => r['Boss Damage per Hit'] != null)
@@ -97,9 +97,9 @@ test.skipIf(!existsSync(cap('crusade')) || !existsSync(cap('cards')))('Conquest 
 // GetPlayerDPS block (dev-only). Inputs other ports own (cards, gear, mastery, zone card levels) are fed in from those ports.
 import { blockHost } from '../../src/game-eval'
 import { getPlayerDPS, raidDecks, raidStats } from './combat'
-import { cbonus, type Catalog, zoneTotalCardLV } from './cards-calc'
+import { cbonus, type Catalog, zoneTotalCardLV } from './modules/cards/cards-calc'
 import { equipmentBonuses, masteryBonuses, potionBonuses } from './bus'
-import { skillHitRequirement } from './raids'
+import { skillHitRequirement } from './modules/raids/raids'
 import cardCatalog from './data/card-catalog.json'
 const rewrap = (v: unknown): unknown => Array.isArray(v) ? v.map(rewrap) : v && typeof v === 'object' ? { h: Object.fromEntries(Object.entries(v).map(([k, x]) => [k, rewrap(x)])) } : v
 /** Attribute table for a raid-decked save, with the derived inputs the scene reads taken from the app's ports. */

@@ -2,7 +2,7 @@ import { expect, test } from "bun:test";
 import { existsSync } from "fs";
 import { BUNDLE } from "./game-eval";
 import { purpleTargets } from "./realm-purple";
-import { traitsOf } from "../web/src/realm";
+import { traitsOf } from "../web/src/modules/realm/realm";
 import realm from "../web/src/data/realm.json";
 
 const SAVE = "data/save.json";

@@ -1,11 +1,11 @@
 // Ascend readiness (#10): what carries over an ascend and what it buys back. Every rule below is the game's code
 // (Qno2x.js offsets cited); docs/resets.md has the full reset list.
 import catalog from './data/card-catalog.json'
-import { buildCards, cbonus, type Catalog } from './cards-calc'
+import { buildCards, cbonus, type Catalog } from './modules/cards/cards-calc'
 import { ascendGain, potionBonuses } from './bus'
-import { smithingCostAt, smithCurrency } from './smithing'
-import { ZONES, estimate, fightStats, monsterHP } from './fighting'
-import { resetTarget } from './income'
+import { smithingCostAt, smithCurrency } from './modules/gathering/smithing'
+import { ZONES, estimate, fightStats, monsterHP } from './modules/fighting/fighting'
+import { resetTarget } from './modules/asylum/income'
 import { OUTPUTS, buyList, type Buy, type PerkRow } from './perk-plan'
 import { type GameImpacts, perkPlan } from './perk-plan'
 import * as NX from './next-types'

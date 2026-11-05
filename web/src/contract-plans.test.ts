@@ -1,7 +1,7 @@
 import { expect, test } from 'bun:test'
 import { existsSync, readFileSync } from 'fs'
 import { BUNDLE } from '../../src/game-eval'
-import { contracts, ROD_FISH } from './contracts'
+import { contracts, ROD_FISH } from './modules/contracts/contracts'
 import { cardTotal, contractPlan, fastestRod, monsterAt, SKILL_TRAINING, skillTraining } from './contract-plans'
 
 const blank = () => ({ ContractRank: Array(57).fill(0), ContractProgress: Array(57).fill(0), ContractRequirement: Array(57).fill(0), ContractSelected: 1 } as Record<string, any>)

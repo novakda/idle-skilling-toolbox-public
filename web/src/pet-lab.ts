@@ -1,7 +1,7 @@
 // Lab tanks (TankBonusLIST) and pet capsule passives — a bonus producer split out of load-bonuses.ts (refactor step 3, #66). Ported from the game's code and
 // checked against a full save's stored values in load-bonuses.test.ts.
 import lab from './data/lab.json'
-import { vendingAt } from './realm'
+import { vendingAt } from './modules/realm/realm'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0

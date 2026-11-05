@@ -1,7 +1,7 @@
 import { expect, test } from 'bun:test'
 import { ascName, asylumShrine, potionName, smithName } from './names'
-import { masteryPerkName } from './mastery'
-import { skillName } from './skilltree'
+import { masteryPerkName } from './modules/mastery/mastery'
+import { skillName } from './modules/skilltrees/skilltree'
 import { fullSave } from './test-save.test'
 import { STATS } from './totals'
 

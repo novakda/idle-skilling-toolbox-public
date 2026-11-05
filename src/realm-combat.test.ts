@@ -2,7 +2,7 @@ import { expect, test } from "bun:test";
 import { existsSync } from "fs";
 import { BUNDLE } from "./game-eval";
 import { realmCombat } from "./realm-combat";
-import { stageTable, tierDps } from "../web/src/realm";
+import { stageTable, tierDps } from "../web/src/modules/realm/realm";
 
 const CAPTURE = "data/captures/2026-10-05/realm/attrs.json"; // live attributes at 10:22 (gitignored), Afterlife 14, yellow bar 811K/841K
 

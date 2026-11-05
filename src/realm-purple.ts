@@ -9,7 +9,7 @@
 import { loadBundle } from "./game-eval";
 import { realmHost } from "./realm-combat";
 import realm from "../web/src/data/realm.json";
-import { barnPos, tierDps, traitsOf, type Combat } from "../web/src/realm";
+import { barnPos, tierDps, traitsOf, type Combat } from "../web/src/modules/realm/realm";
 
 type Save = Record<string, any>;
 export function purpleLoadout(save: Save, src = loadBundle()) {

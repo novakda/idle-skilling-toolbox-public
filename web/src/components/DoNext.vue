@@ -1,9 +1,9 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
 import { doNext } from '../do-next'
-import type { Snap } from '../income'
+import type { Snap } from '../modules/asylum/income'
 import type { GameImpacts } from '../perk-plan'
-import type { Combat } from '../realm'
+import type { Combat } from '../modules/realm/realm'
 import type { AscendSnap } from '../ascend'
 
 const props = defineProps<{ save: Record<string, unknown> | null }>()

@@ -7,7 +7,7 @@ import { realmHost } from "./realm-combat";
 import { afterReset } from "./realm-sprint";
 import { realmCoins } from "./realm-coins";
 import realm from "../web/src/data/realm.json";
-import { CHOCCY_CAP, ECONOMY_TAIL } from "../web/src/realm";
+import { CHOCCY_CAP, ECONOMY_TAIL } from "../web/src/modules/realm/realm";
 
 type Save = Record<string, any>;
 const R = realm as unknown as { minions: Record<string, { name: string; parent: string | null }>; vending: { name: string }[] };

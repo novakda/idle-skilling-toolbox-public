@@ -3,10 +3,10 @@
 // Raid (SceneEvents_16), Asylum (SceneEvents_41) and Conquest (crusade fight, SceneEvents_32) store their own
 // MonstersDamage formula: raidMonstersDamage / asylumMonstersDamage / conquestMonstersDamage (#32).
 import catalog from './data/card-catalog.json'
-import { cbonus, type Catalog, zoneTotalCardLV } from './cards-calc'
+import { cbonus, type Catalog, zoneTotalCardLV } from './modules/cards/cards-calc'
 import { equipmentBonuses, masteryBonuses, potionBonuses } from './bus'
-import { fruitBonus, vendingBonus as realmVending } from './realm'
-import { smithingBaseAttack } from './smithing'
+import { fruitBonus, vendingBonus as realmVending } from './modules/realm/realm'
+import { smithingBaseAttack } from './modules/gathering/smithing'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0

@@ -12,7 +12,7 @@ const { values } = parseArgs({ options: { port: { type: "string", default: "9333
 /** One line: the screen the save was taken on and the registry values stale in it (Mastery and Spiriting judged by their models). */
 async function staleLine(save: Record<string, any>) {
   const [{ staleKeys }, { masteryBonuses }, { withSpirit }, { withDeckLinks }, screens] = await Promise.all([import("../web/src/screen-bound"),
-    import("../web/src/bus"), import("../web/src/spiriting"), import("../web/src/cards-calc"), import("../web/src/data/screens.json")]);
+    import("../web/src/bus"), import("../web/src/modules/spiriting/spiriting"), import("../web/src/modules/cards/cards-calc"), import("../web/src/data/screens.json")]);
   const sp = withSpirit(withDeckLinks(save)), scene = ["SpiritChance", "CultistEventBonusPercent", "CultistSoulBonusPercent", "AcolyteSoulBonusPercent"];
   const stale = staleKeys(save, { MasteryBonuses: masteryBonuses(save), ...Object.fromEntries(scene.map((k) => [k, sp[k]])) });
   const id = save.CurrentlyViewedScreen, name = (screens.default as Record<string, { names: string[] }>)[id]?.names[0] ?? "?";

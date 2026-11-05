@@ -14,14 +14,14 @@ test('away % from a save without the computed value matches the game', async () 
 })
 
 test('Tilling away rate matches the live test (224 s away → +6.35e9 XP)', async () => {
-  const { awayTillingPerSecond } = await import('./tilling-away')
+  const { awayTillingPerSecond } = await import('./modules/tilling/tilling-away')
   const save = await Bun.file(new URL('../../data/fixture-away.json', import.meta.url)).json()
   const got = awayTillingPerSecond(save, 30.5) * 224
   expect(Math.abs(got / 6.351e9 - 1)).toBeLessThan(0.1) // fixture = backup-leveldb-20261004-1952, ~2 h after the probe; ratio 0.98
 })
 
 test('active Tilling matches the live probe (60 fps: 6.65 / 4.43 harvests/s per farmer, 3.03e6 XP/s)', async () => {
-  const { activeTilling } = await import('./tilling-away')
+  const { activeTilling } = await import('./modules/tilling/tilling-away')
   const save = await Bun.file(new URL('../../data/fixture-away.json', import.meta.url)).json()
   const { farmers } = activeTilling(save)
   // Harvest rates depend only on the speed step (stable); XP/s isn't pinned (the fixture is ~2 h after the probe) (at the probe: 2.98e6 predicted vs 3.03e6 live).

@@ -25,8 +25,8 @@
 import { loadBundle } from "./game-eval";
 import { realmHost, wrap } from "./realm-combat";
 import realm from "../web/src/data/realm.json";
-import { attackPeriod } from "../web/src/realm";
-import type { SprintPlan, SprintStep } from "../web/src/realm-trophies";
+import { attackPeriod } from "../web/src/modules/realm/realm";
+import type { SprintPlan, SprintStep } from "../web/src/modules/realm/realm-trophies";
 
 type Save = Record<string, any>;
 const M = (realm as unknown as { minions: Record<string, { name: string; trait: number; evo: string[]; parent: string | null }> }).minions;

@@ -4,7 +4,7 @@
 // - a module import cycle larger than MAX_CYCLE (ratchet it down as steps land; 1 = acyclic).
 // Analysis behind the map: modules-proposal.md in the refactor epic. Regenerate ALLOWED: `bun test src/deps.test.ts` prints the current list on failure.
 import { expect, test } from 'bun:test'
-import { readdirSync, readFileSync } from 'fs'
+import { existsSync, readdirSync, readFileSync } from 'fs'
 import { join } from 'path'
 
 // file (basename without extension) → module. First match wins.
@@ -39,10 +39,15 @@ export function moduleGraph(dir = import.meta.dir) {
   const files: [string, string][] = []
   for (const f of readdirSync(dir)) if (/\.(ts|vue)$/.test(f) && !f.endsWith('.test.ts') && !f.endsWith('.d.ts')) files.push([f.replace(/\.(ts|vue)$/, ''), join(dir, f)])
   for (const f of readdirSync(join(dir, 'components'))) if (f.endsWith('.vue')) files.push([f.replace(/\.vue$/, ''), join(dir, 'components', f)])
-  // Step 7b (#75): pages (components/*.vue, except core UI like Icon) form their own top layer, so a page's imports
-  // are not counted as its logic module's.
-  const pages = new Set(files.filter(([, p]) => p.includes('/components/')).map(([id]) => id).filter((id) => modOf(id) !== 'core'))
-  const mod = (id: string) => (pages.has(id) ? 'pages' : modOf(id))
+  // Step 10 (#73): modules/<sys>/ holds a module's logic, tests and page; the folder names the module.
+  const folder: Record<string, string> = {}
+  const mods = join(dir, 'modules')
+  if (existsSync(mods)) for (const m of readdirSync(mods)) for (const f of readdirSync(join(mods, m)))
+    if (/\.(ts|vue)$/.test(f) && !f.endsWith('.test.ts')) { const id = f.replace(/\.(ts|vue)$/, ''); files.push([id, join(mods, m, f)]); if (f.endsWith('.ts')) folder[id] = m }
+  // Step 7b (#75): pages (components/*.vue and module pages, except core UI like Icon) form their own top layer, so a
+  // page's imports are not counted as its logic module's.
+  const pages = new Set(files.filter(([, p]) => p.endsWith('.vue') && /\/(components|modules)\//.test(p)).map(([id]) => id).filter((id) => modOf(id) !== 'core'))
+  const mod = (id: string) => (pages.has(id) ? 'pages' : folder[id] ?? modOf(id))
   const known = new Set(files.map(([id]) => id)), unmapped = files.map(([id]) => id).filter((id) => mod(id) === '?')
   const edges = new Set<string>()
   for (const [id, path] of files) {

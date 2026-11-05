@@ -36,4 +36,4 @@ export const tankBonuses = memo(pl.tankBonuses)
 export const capsuleExpRate = memo(pl.capsuleExpRate)
 export const ascensionRewards = memo(ar.ascensionRewards)
 export const ascendGain = memo(ar.ascendGain)
-export { vendingAt } from './realm'
+export { vendingAt } from './modules/realm/realm'

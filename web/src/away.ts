@@ -3,9 +3,9 @@
 // realm terms = fruit 16 "%_Away_gains_outside_Realm" (realm.ts fruitBonus) + Corn Can vending (2/level) + RealmStuff[13][7]*floor(realm level/10).
 // The away engine (refactor step 7, #70): away %, banked time per screen. Idle fighting gains are in fight-away.ts,
 // Tilling's in tilling-away.ts.
-import { cbonus, type Catalog } from './cards-calc'
+import { cbonus, type Catalog } from './modules/cards/cards-calc'
 import catalog from './data/card-catalog.json'
-import { fruitBonus } from './realm'
+import { fruitBonus } from './modules/realm/realm'
 import screenMap from './data/screens.json'
 import * as NX from './next-types'
 

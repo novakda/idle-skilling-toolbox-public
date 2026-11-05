@@ -5,9 +5,9 @@
 // Static columns come from those; the save-dependent ones (gold, kills, furthest stage) are filled by progress().
 import sources from './data/card-sources.json'
 import catalog from './data/card-catalog.json'
-import { base, monsterGold, monsterHP, ZONES } from './fighting'
-import { BOSSES, bossHP, TIERS } from './raids'
-import { CRUSADES, stageHP, stats } from './crusade'
+import { base, monsterGold, monsterHP, ZONES } from './modules/fighting/fighting'
+import { BOSSES, bossHP, TIERS } from './modules/raids/raids'
+import { CRUSADES, stageHP, stats } from './modules/crusade/crusade'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0

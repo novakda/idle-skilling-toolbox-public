@@ -5,7 +5,7 @@
 import { loadBundle } from "./game-eval";
 import { realmHost } from "./realm-combat";
 import realm from "../web/src/data/realm.json";
-import type { TrophyCalc, UniqueStep } from "../web/src/realm-trophies";
+import type { TrophyCalc, UniqueStep } from "../web/src/modules/realm/realm-trophies";
 
 type Save = Record<string, any>;
 const M = (realm as unknown as { minions: Record<string, { name: string; evo: string[]; parent: string | null }> }).minions;

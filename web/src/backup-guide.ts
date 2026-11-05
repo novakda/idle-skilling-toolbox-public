@@ -1,8 +1,8 @@
 // #21 restore side: turn a local-only backup (save-load.ts localOnlyBackup) into steps to redo by hand in game.
 // Only plain reading of the saved values; nothing is written to the game.
-import { LINKS } from './cards-calc'
-import { BOSSES } from './raids'
-import { name as gearName } from './tinkering'
+import { LINKS } from './modules/cards/cards-calc'
+import { BOSSES } from './modules/raids/raids'
+import { name as gearName } from './modules/tinkering/tinkering'
 import catalog from './data/card-catalog.json'
 
 const cardName = new Map((catalog.cards as { id: number; name: string }[]).map((c) => [c.id, c.name]))

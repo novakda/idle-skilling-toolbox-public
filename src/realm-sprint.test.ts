@@ -3,8 +3,8 @@ import { existsSync, readFileSync } from "fs";
 import { BUNDLE, blockHost, loadBundle } from "./game-eval";
 import { ge, wrap } from "./realm-combat";
 import { afterReset, replayPlan, runTime, SPRINTS, sprintPlans, timeIt } from "./realm-sprint";
-import { sammichStart } from "../web/src/realm";
-import { sprintRow } from "../web/src/realm-trophies";
+import { sammichStart } from "../web/src/modules/realm/realm";
+import { sprintRow } from "../web/src/modules/realm/realm-trophies";
 
 // The fight rules the timing rests on: every timer is 0 at scene load, so all minions fire together on the first tick; a tier
 // that falls is left on the next tick, before that tick's attacks; overflow is lost; each kill adds a 2.5 s portal fade.

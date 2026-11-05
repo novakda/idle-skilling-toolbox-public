@@ -7,7 +7,7 @@
 import { loadBundle } from "./game-eval";
 import { realmHost } from "./realm-combat";
 import realm from "../web/src/data/realm.json";
-import { barnPos } from "../web/src/realm";
+import { barnPos } from "../web/src/modules/realm/realm";
 import { FAMILIES, pathDown, stageOf } from "./realm-trophies";
 
 type Save = Record<string, any>;

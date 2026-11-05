@@ -1,11 +1,11 @@
 // Potion bonuses (Pbonus*) and brew speed — a bonus producer split out of load-bonuses.ts (refactor step 3, #66). Ported from the game's code and
 // checked against a full save's stored values in load-bonuses.test.ts.
 import catalog from './data/card-catalog.json'
-import { cbonus, type Catalog } from './cards-calc'
+import { cbonus, type Catalog } from './modules/cards/cards-calc'
 import { equipmentBonuses, smithCostCore } from './equipment-bonuses'
 import { masteryBonuses } from './mastery-bonuses'
 import { tankBonuses } from './pet-lab'
-import { vendingAt } from './realm'
+import { vendingAt } from './modules/realm/realm'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0

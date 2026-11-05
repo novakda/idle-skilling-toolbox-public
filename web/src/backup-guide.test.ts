@@ -1,7 +1,7 @@
 import { expect, test } from 'bun:test'
 import { backupGuide } from './backup-guide'
-import { LINKS } from './cards-calc'
-import { BOSSES } from './raids'
+import { LINKS } from './modules/cards/cards-calc'
+import { BOSSES } from './modules/raids/raids'
 import { localOnlyBackup } from './save-load'
 
 test('backupGuide: names deck links, trek, AFK, raids from a real save', async () => {

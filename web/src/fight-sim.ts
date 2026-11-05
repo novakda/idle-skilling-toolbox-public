@@ -3,7 +3,7 @@
 // the Raid and Asylum bosses, tickets and verdicts. Offsets (@) are Qno2x.js, as in raids.ts.
 import { getPlayerDPS, raidDecks, raidStats } from './combat'
 import { equipmentBonuses } from './bus'
-import { cbonus, type Catalog } from './cards-calc'
+import { cbonus, type Catalog } from './modules/cards/cards-calc'
 import catalog from './data/card-catalog.json'
 
 type Save = Record<string, unknown>

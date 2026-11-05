@@ -1,15 +1,15 @@
 // Perk planner (#6): what the next level of each ascension (AP) / rebirth (BP) perk does, priced by its cost. Method:
 // copy the save, add one level, re-run this app's own formulas, report what moved. Split from perks.ts (refactor step 9,
 // #72), which keeps the perk table, totals and locks. src/perk-impacts.ts reruns the game's own code for stored values.
-import { PERKS, perkLock, perkTotal, type Impact, type Lock, type Perk } from './perks'
+import { PERKS, perkLock, perkTotal, type Impact, type Lock, type Perk } from './modules/ascend/perks'
 import { awayPercent } from './away'
-import { awayGainsPerHour } from './fight-away'
-import { awayTillingPerSecond } from './tilling-away'
-import { awayFishing } from './fishing'
+import { awayGainsPerHour } from './modules/fighting/fight-away'
+import { awayTillingPerSecond } from './modules/tilling/tilling-away'
+import { awayFishing } from './modules/gathering/fishing'
 import { hitChance, playerHPmax } from './combat'
-import { smithingBaseAttack } from './smithing'
+import { smithingBaseAttack } from './modules/gathering/smithing'
 import { ascendGain, brewSpeedBoost } from './bus'
-import { botanyPots } from './botany-calc'
+import { botanyPots } from './modules/botany/botany-calc'
 import * as NX from './next-types'
 
 type Save = Record<string, unknown>

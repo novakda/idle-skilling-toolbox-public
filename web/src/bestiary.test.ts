@@ -2,8 +2,8 @@ import { expect, test } from 'bun:test'
 import { existsSync, readFileSync } from 'fs'
 import { fullSave } from './test-save.test'
 import { BESTIARY, progress, QOXZUL_HP, SKULLS, skullTier } from './bestiary'
-import { monsterName } from './fighting'
-import { bossHP } from './raids'
+import { monsterName } from './modules/fighting/fighting'
+import { bossHP } from './modules/raids/raids'
 
 const find = (name: string, where = '') => BESTIARY.find((r) => r.name === name && r.where.includes(where))!
 

@@ -14,26 +14,26 @@ export const SCREEN_BOUND: Record<string, Bound> = {
   MasteryBonuses: { writer: 'mastery-scene', at: 'SceneEvents_48 runPeriodically(2e3) @29901047', model: 'mastery-bonuses#masteryBonuses', exact: true },
   // Also written by the raid/crusade/Asylum scenes' DPS listeners (@19999256, @23403120, @26992559); the model is the main fight's.
   // Not exact: on screen 8 the stored value carries the skill-10 buff (@2590856) and the lab drift (fighting.test.ts).
-  DPS: { writer: 8, at: 'SceneEvents_9 DPS listener @31880404', model: 'fighting#fightStats' },
+  DPS: { writer: 8, at: 'SceneEvents_9 DPS listener @31880404', model: 'modules/fighting/fighting#fightStats' },
   // The init multiplies by the stored MasteryBonuses[3] (@31676607), so a stale MasteryBonuses leaves it off by the same ratio.
-  CriticalDamage: { writer: 8, at: 'ActorEvents_294/300 @8683032/@8685095 (YourCriticalDamage, SceneEvents_9 init @31677036)', model: 'fighting#fightStats', exact: true, reads: ['MasteryBonuses'] },
+  CriticalDamage: { writer: 8, at: 'ActorEvents_294/300 @8683032/@8685095 (YourCriticalDamage, SceneEvents_9 init @31677036)', model: 'modules/fighting/fighting#fightStats', exact: true, reads: ['MasteryBonuses'] },
   // The away payout reads CalibrationValues[6] as stored (@27225189), so the app keeps it; what moves on off screen 20 are the
   // inputs it was measured with (trek-vessels.test.ts).
   CalibrationValues: { writer: 20, at: 'Trek calibration end @27516161' },
-  SpiritChance: { writer: 9, at: SPIRIT, model: 'spiriting#withSpirit', exact: true },
-  CultistEventBonusPercent: { writer: 9, at: SPIRIT, model: 'spiriting#withSpirit', exact: true },
-  CultistSoulBonusPercent: { writer: 9, at: SPIRIT, model: 'spiriting#withSpirit', exact: true },
-  AcolyteSoulBonusPercent: { writer: 9, at: SPIRIT, model: 'spiriting#withSpirit', exact: true },
-  SoulConversionChanceTOTAL: { writer: 9, at: SPIRIT, model: 'spiriting#conversion', exact: true },
-  SoulsConvertedTOTAL: { writer: 9, at: SPIRIT, model: 'spiriting#conversion', exact: true },
-  SpiritExpGivenC: { writer: 9, at: SKILLER, model: 'spiriting#skillerStats', exact: true },
-  SpiritExpGivenA: { writer: 9, at: SKILLER, model: 'spiriting#skillerStats', exact: true },
-  SoulsGiven: { writer: 9, at: SKILLER, model: 'spiriting#skillerStats', exact: true },
-  SoulsGivenAco: { writer: 9, at: SKILLER, model: 'spiriting#skillerStats', exact: true },
-  CultistAnimationSpeed: { writer: 9, at: SKILLER, model: 'spiriting#skillerStats', exact: true },
-  AcolyteAnimationSpeed: { writer: 9, at: SKILLER, model: 'spiriting#skillerStats', exact: true },
+  SpiritChance: { writer: 9, at: SPIRIT, model: 'modules/spiriting/spiriting#withSpirit', exact: true },
+  CultistEventBonusPercent: { writer: 9, at: SPIRIT, model: 'modules/spiriting/spiriting#withSpirit', exact: true },
+  CultistSoulBonusPercent: { writer: 9, at: SPIRIT, model: 'modules/spiriting/spiriting#withSpirit', exact: true },
+  AcolyteSoulBonusPercent: { writer: 9, at: SPIRIT, model: 'modules/spiriting/spiriting#withSpirit', exact: true },
+  SoulConversionChanceTOTAL: { writer: 9, at: SPIRIT, model: 'modules/spiriting/spiriting#conversion', exact: true },
+  SoulsConvertedTOTAL: { writer: 9, at: SPIRIT, model: 'modules/spiriting/spiriting#conversion', exact: true },
+  SpiritExpGivenC: { writer: 9, at: SKILLER, model: 'modules/spiriting/spiriting#skillerStats', exact: true },
+  SpiritExpGivenA: { writer: 9, at: SKILLER, model: 'modules/spiriting/spiriting#skillerStats', exact: true },
+  SoulsGiven: { writer: 9, at: SKILLER, model: 'modules/spiriting/spiriting#skillerStats', exact: true },
+  SoulsGivenAco: { writer: 9, at: SKILLER, model: 'modules/spiriting/spiriting#skillerStats', exact: true },
+  CultistAnimationSpeed: { writer: 9, at: SKILLER, model: 'modules/spiriting/spiriting#skillerStats', exact: true },
+  AcolyteAnimationSpeed: { writer: 9, at: SKILLER, model: 'modules/spiriting/spiriting#skillerStats', exact: true },
   PbonusLimboLuck: { writer: [8, 17], at: 'SceneEvents_9 init @31658978, SceneEvents_37 init @26007961', model: 'potion-bonuses#potionBonuses', exact: true },
-  ApothecaryExpGivenBONUS: { writer: 17, at: 'SceneEvents_37 runLater 30 @24880362', model: 'apothecary-exp#expBonus', exact: true },
+  ApothecaryExpGivenBONUS: { writer: 17, at: 'SceneEvents_37 runLater 30 @24880362', model: 'modules/potions/apothecary-exp#expBonus', exact: true },
   'PotionBrewSpeedBOOST[1]': { writer: 17, at: 'SceneEvents_37 init @24876477', model: 'potion-bonuses#brewSpeedBoost', exact: true },
   // Orb energy is clamped to the cap only while the Realm screen draws it. No model: off screen the stored value is the energy
   // held (the next Realm draw trims any excess), and realm.ts orbCap leaves out the cap multipliers, so it can't clamp it.

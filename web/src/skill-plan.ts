@@ -2,16 +2,16 @@
 // buys for the points you hold. Split out of skilltree.ts, which keeps the tree rules (caps, costs, locks, names).
 import { lambdaSpend, outputChanges, OUTPUTS, stepCurve } from './perk-plan'
 import { getPlayerDPS } from './combat'
-import { soulRates, spiritRates, withSpirit } from './spiriting'
-import { glyphBonusPct, rifts } from './rift'
-import { expMult } from './tinkering'
-import { mining, smithingCraftExp } from './gathering'
+import { soulRates, spiritRates, withSpirit } from './modules/spiriting/spiriting'
+import { glyphBonusPct, rifts } from './modules/rift/rift'
+import { expMult } from './modules/tinkering/tinkering'
+import { mining, smithingCraftExp } from './modules/gathering/gathering'
 import { levelsPerCraft } from './ascend'
-import { farmers, withTilling } from './tilling'
-import { shownExpPerDay, totalCrusaders, withCrusade } from './crusade'
+import { farmers, withTilling } from './modules/tilling/tilling'
+import { shownExpPerDay, totalCrusaders, withCrusade } from './modules/crusade/crusade'
 import { awayPercent } from './away'
-import { overgrowthExponent } from './botany-calc'
-import { ONE_SHOT, skillCap, skillCost, skillLock, SKILLS, treeOf } from './skilltree'
+import { overgrowthExponent } from './modules/botany/botany-calc'
+import { ONE_SHOT, skillCap, skillCost, skillLock, SKILLS, treeOf } from './modules/skilltrees/skilltree'
 
 type Save = Record<string, unknown>
 const n = (v: unknown) => Number(v ?? 0) || 0

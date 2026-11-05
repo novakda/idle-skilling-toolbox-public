@@ -25,7 +25,9 @@ const OLD_SECTIONS: Record<keyof typeof import('./section').SECTION_ALIASES, [fi
 test('old ?section= ids resolve to a current tab', async () => {
   const { SECTION_ALIASES } = await import('./section')
   for (const [page, [file, old]] of Object.entries(OLD_SECTIONS)) {
-    const src = await Bun.file(`${import.meta.dir}/components/${file}`).text()
+    // Pages live in components/ or, since step 10 (#73), in their module folder.
+    const at = [...new Bun.Glob(`**/${file}`).scanSync(import.meta.dir)][0]!
+    const src = await Bun.file(`${import.meta.dir}/${at}`).text()
     const ids = [...src.match(/const SECTIONS = (\[.*\]) as const/)![1]!.matchAll(/\['(\w+)', '/g)].map((m) => m[1])
     const alias: Record<string, string> = SECTION_ALIASES[page as keyof typeof SECTION_ALIASES]
     for (const id of old) expect(ids).toContain(alias[id] ?? id)
